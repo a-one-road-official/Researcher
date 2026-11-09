@@ -1,0 +1,1127 @@
+{
+ "name": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン）",
+ "en": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin",
+ "aliases": [
+  "3Dプリンター 材料 形態 比較",
+  "積層造形 原料 コスト 比較",
+  "フィードストック 比較"
+ ],
+ "context": "横断",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:23:25.491366+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "2025年までに市場規模が20%成長すると予測され（",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形用原料市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "バルク価格では、金属パウダーがUSD 50-150/kg、ワイヤーがUSD 30-100/kgの市場参考価格です",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "価格変動要因は原料相場で、2025年上昇予測",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "価格変動：原料高騰で5-10%上昇予測",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は通常USD 20–100/kgです",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "企業は、1キログラムあたりの価格だけを比較するのではなく、粉末の性能を評価すべきである",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "プラズマアトマイズ法7）では，円錐状に配置された３本の",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear Power Price Trend 2026: LCOE Bands, Reactor Mix and Sourcing Levers",
+    "url": "https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "ケース：大手メーカーでMOQ調整によりコスト10%削減",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "MET3DP Technology Co., LTDは、中国青島に本社を置く積層造形ソリューションの大手プロバイダーです",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末は、高性能な用途を支えるため、産業分野において最大のシェアを占めている",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "大手AM（積層造形）企業は、高度な粉末試験および製造方法を用いて、不良率を低減し、生産の信頼性を向上させている",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中は、粉末セグメントが最大のシェアを占めると予想されます",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末セグメントは、レーザー焼結や電子ビームプロセスといった先進的な印刷技術で広く応用されていることから、予測期間中は最大の市場シェアを占めると予想されます",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中、北米地域は、その高度な技術力と最新製造技術の早期導入に支えられ、最大の市場シェアを占めると予想されます",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業（最大3社）のSWOT分析",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、地理的展開、戦略的提携に基づく主要企業のベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "Market share assessments for the regional and country-level segments",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT Analysis of key players (up to 3)",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players based on product portfolio, geographical presence, and strategic alliances",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.2 Market Share Analysis of Key Players",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing Feedstock Market CAGR, size, share, trends, growth, value, key players analysis | Stratistics MRC report",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "- Market share assessments for the regional and country-level segments",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "o SWOT Analysis of key players (up to 3)",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "o Benchmarking of key players based on product portfolio, geographical presence, and strategic alliances",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.2 Market Share Analysis of Key Players",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "VIGA（真空誘導不活性ガスアトマイズ）装置",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "このプロセスでは、高速の不活性ガスを用いて溶融金属を液滴に分解する",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "ゴンガスやヘリウムガスなどの不活性ガスを衝突させること",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik's cleaning solutions to the entire U.S. region.",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik’s cleaning solutions to the entire U.S. region.",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "ATEX certification process",
+    "url": "https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "ISO認定金属パウダーの品質 vs B2B調達のためのワイヤー基準",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO認定の金属パウダーは、純度99.9%以上を保証し、B2B調達で信頼性が高いです",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤー基準として、EN 10204規格が適用され、トレーサビリティを強化します",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "比較データでは、パウダーの球形度95%に対し、ワイヤーの均一性98%と耐久優位",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "のトレーサビリティが重要で、ブロックチェーン活用事例が増加",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "比較で、パウダー工場の柔軟生産が小ロットに、ワイヤーが大量供給に適します",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用粉末工学とは、粒子形状、粒度分布、流動性、内部品質などの粉末特性を設計・制御することで、積層造形性能を向上させるプロセスである",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末の形態は、流動性、充填密度、および溶融安定性を左右する",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末形態とは、粒子の形状、粒度分布、表面状態、および内部構造を指します",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "粒度分布は、粒子がどのように凝集するか、そして印刷時の粉末の挙動を左右します",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "バランスの取れた粒度分布は、密度と印刷安定性を向上させます",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "プラズマ球状化処理は、不規則な形状の粒子を、流動性が向上し欠陥の少ない、高度に球形の粒子に変換することで、粉末の品質を向上させる",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング用粉末のエンジニアリングは、粒子の形状、サイズ、化学組成、流動性、および内部品質を網羅しています",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの材料は、印刷プロセスにおいて均一性、滑らかな流動性、および強力な層間接着性を維持できるよう、慎重に配合されています",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "とする高い流動性と隙間なく粉体粒子が充填した粉体層を形",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "ム状に供給する．そのため，高い流動性かつ均一な粒度分布",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "装置の粉体搬送における高い粉体流動性，敷き詰められた粉",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "述べたように，金属積層用金属粉体には高い流動性および高",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "こと，加えてシャープな粒度分布に制御することが容易では",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "粒子の存在は粉体流動性を劣化させる原因となる．そのため，",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "図5 の粒度分布測定結果から，直流アークプラズマジェット",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "小径方向にピークシフトしているが，大きく粒度分布を変化",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "えることができ，ガスアトマイズ法と比較して粒度分布制御",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "上記のように，水アトマイズ粉末は安価かつ粒度分布制御",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "性に優れるが，非球状形状であるために流動性および充填性",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "次に，プラズマ処理粉末の流動性を評価するため，粉体流",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "計測することで，流動性の指標としている 11-12）．すなわち，",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "ブレードに加わるトルクが小さいほど流動性の高い粉末であ",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Index） などの粉体流動性に関するパラメータの分析が可能で",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, Dow and MEGlobal have finalized an agreement for Dow to supply an additional equivalent to 100 KTA of ethylene from its Gulf Coast operations. The ethylene will serve as a key feedstock for MEGlobal's ethylene glycol (EG) manufacturing facility co-located at Dow's and MEGlobal's Oyster Creek site.",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, Dow and MEGlobal have finalized an agreement for Dow to supply an additional equivalent to 100 KTA of ethylene from its Gulf Coast operations. The ethylene will serve as a key feedstock for MEGlobal’s ethylene glycol (EG) manufacturing facility co-located at Dow’s and MEGlobal’s Oyster Creek site.",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial anti corrosion nanocoatings market",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "経験に基づき、工場直販で納期を30%短縮",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本輸入時の関税考慮で、",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "で、OEM需要高まる",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3DプリンティングにおけるOEMイノベーション：パウダー vs ワイヤー",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMイノベーションでは、パウダーがマイクロ構造制御で革新、ワイヤーがスケーラブル生産を提供",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年事例：パウダーOEMで部品寿命延長25%",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "OEMの表で、パウダーの革新性、ワイヤーの実用性が際立つ",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik's cleaning solutions to the entire U.S. region.",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "10.4 Channel, Distributor, and Go-to-Market Assessment",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik’s cleaning solutions to the entire U.S. region.",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.4 Channel, Distributor, and Go-to-Market Assessment",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers & Distributors",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "比較上、パウダーは高価だが品質プレミアム、ワイヤーは低価格で大量調達向き",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "卸注文の表で、パウダーの高価格高品質、ワイヤーの低価格大量が示唆",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "日本市場では、精密部品需要が高まっており、",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業向けに、",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "経験上、日本市場の調達では、パウダーの不純物率が0.1%未満のものが航空部品に不可欠",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "CE準拠ワイヤーは欧州輸出に適し、日本企業のパートナーシップを強化します",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業は、",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本向けに、",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "日本輸入時の関税考慮で、",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "市場予測：日本で15%成長（経済産業省報告）",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "型積層造形法があり，それぞれ国内企業ではPBF型は松浦機",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "械製作所や，ソディック，日本電子株式会社などが開発・製",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "＊ National Institute of Advanced Industrial Science and Technology （AIST） （1-2-1 Namiki, Tsukuba, Ibaraki 305-8564, Japan）",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "＊＊ Industrial Research Institute Ishikawa （2-1 kuratsuki, Kanazawa, Ishikawa 920-8203, Japan）",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "9.3.2 Japan",
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "9.3.2 Japan",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "クローズドループ式の粉体システムは、廃棄物を削減し、サプライチェーンの安定性を向上させることができる",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの積層造形用原料市場の予測―素材の種類、原料の形態、製造技術との互換性、エンドユーザー、および地域別の世界分析",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "専用用途に向けた精度、耐久性、適応性を提供するため、原料材料は絶えず改良が進められています",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の積層造形用原料市場：製造技術との互換性別",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer AM splits cleanly across three forms: 1.75 mm or 2.85 mm filament for FFF desktop and industrial lines, 1 kg resin cartridges (405 nm) for SLA, and pellets for direct extrusion pellet 3D printing. The",
+    "url": "https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "しかし、印刷パラメータを改善することで、一部の水噴霧式ステンレス鋼粉末はAM用途において高密度化を実現できることが示されている",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年以来、航空宇宙、医療、自動車、産業分野の世界中のお客様をサポートしています",
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "第12章 企業プロファイル",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   },
+   {
+    "quote": "Index） などの粉体流動性に関するパラメータの分析が可能で",
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Each report takes an average time of a month and a team of 4 industry analysts. The time may vary depending on the scope and data availability of the desired market report. The various parameters used in the market assessment are standardized in order to enhance the data accuracy.",
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Stratistics MRCによると、世界の積層造形用原料市場は2026年に833億米ドルの規模となり、予測期間中はCAGR 4.7％で成長し、2034年までに1,203億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "4.7",
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "quote": "Stratistics MRCによると、世界の積層造形用原料市場は2026年に833億米ドルの規模となり、予測期間中はCAGR 4.7％で成長し、2034年までに1,203億米ドルに達すると見込まれています"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "10",
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "quote": "ケース：大手メーカーでMOQ調整によりコスト10%削減"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://deskmin.net/2026/07/28/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%913d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%A8%AE%E9%A1%9E%E5%88%A5%E5%AE%8C%E5%85%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deskmin.net/2026/07/28/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%A8%AE%E9%A1%9E%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%892026%E5%B9%B4%E6%9C%80%E6%96%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://technicolor.co.jp/blog/20260424/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://am-material.com/ja/news/unveiling-the-secrets-of-am-powder-from-composition-to-manufacturing-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/technology/images/pdf/32/32_10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_121/_pdf",
+    "status": "http_502",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/aluminium-am-202406269/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jjspm/66/11/66_539/_pdf/-char/en",
+    "status": "http_502",
+    "method": "http"
+   },
+   {
+    "url": "https://dryfil.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://technicolor.co.jp/blog/20250712/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/am-process-2024062613/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/catalog_pdf/601_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ampower.eu/reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketpublishers.com/report/additive-manufacturing/3d-printing/additive-manufacturing-feedstock-materials-market-strat.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sssray.com/3d-printer-filament-pricing-guide-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dsourced.com/guides/3d-printing-materials-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amcalculator.com/calculators/3d-printing-cost-calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nawa3d.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/is-waam-cost-effective-compared-to-machining-or-powder-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ntrs.nasa.gov/api/citations/20230014532/downloads/20230014532+Doc.pdf?attachment=true",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eureka.patsnap.com/resources/blog/articles/waam-vs-powder-bed-fusion-which-am-process-to-choose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printed.org/statistics-about-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tswhmf.com/metal-powder-for-additive-manufacturing-complete-materials-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-981-96-4459-9_13.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sciaky.com/additive-manufacturing/wire-vs-powder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/363387832_Comparing_pellet-_and_filament-based_additive_manufacturing_with_conventional_processing_for_ABS_and_PLA_parts",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2504-4494/10/1/5",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mtxlaser.com/pellets-vs-filament-3d-printing-cost-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/chapter/10.1007/978-981-96-4459-9_13",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.met3dp.com/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） 市場規模 CAGR",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） 価格",
+   "results": [
+    "https://deskmin.net/2026/07/28/【2026年最新】3dプリンターフィラメント種類別完全/",
+    "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "https://deskmin.net/2026/07/28/3dプリンターフィラメント種類完全ガイド2026年最新/",
+    "https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "https://technicolor.co.jp/blog/20260424/",
+    "https://met3dp.com/ja/am-process-2024062613/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） 主要メーカー 一覧",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） 代理店 日本",
+   "results": [
+    "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "https://am-material.com/ja/news/unveiling-the-secrets-of-am-powder-from-composition-to-manufacturing-process/",
+    "https://www.sanyo-steel.co.jp/technology/images/pdf/32/32_10.pdf",
+    "https://www.forgecise.com/ja/3dプリンティング用粉末工学：粉末の品質が産業用/",
+    "https://www.jstage.jst.go.jp/article/amfuture/1/1/1_121/_pdf",
+    "https://met3dp.com/ja/aluminium-am-202406269/",
+    "https://www.jstage.jst.go.jp/article/jjspm/66/11/66_539/_pdf/-char/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） 規制 保管 危険物",
+   "results": [
+    "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "https://dryfil.com/ja/",
+    "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "https://technicolor.co.jp/blog/20250712/",
+    "https://met3dp.com/ja/am-process-2024062613/",
+    "https://met3dp.com/ja/aluminium-am-202406269/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） 純正 指定材料 互換",
+   "results": [
+    "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "https://www.sanyo-steel.co.jp/technology/images/pdf/32/32_10.pdf",
+    "https://www.jstage.jst.go.jp/article/jjspm/66/11/66_539/_pdf/-char/en",
+    "https://www.dks-web.co.jp/catalog_pdf/601_1.pdf",
+    "https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja",
+    "https://met3dp.com/ja/aluminium-am-202406269/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin market size CAGR",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://www.strategymrc.com/report/additive-manufacturing-feedstock-materials-market",
+    "https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html",
+    "https://www.strategymrc.com/report/additive-manufacturing-feedstock-market",
+    "https://ampower.eu/reports/",
+    "https://marketpublishers.com/report/additive-manufacturing/3d-printing/additive-manufacturing-feedstock-materials-market-strat.html",
+    "https://www.researchandmarkets.com/reports/5686004/2026-additive-manufacturing-materials-market"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin price per kg",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html",
+    "https://sssray.com/3d-printer-filament-pricing-guide-2026/",
+    "https://www.3dsourced.com/guides/3d-printing-materials-cost/",
+    "https://www.amcalculator.com/calculators/3d-printing-cost-calculator",
+    "https://nawa3d.com/",
+    "https://mx3d.com/is-waam-cost-effective-compared-to-machining-or-powder-am/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin key players",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://www.strategymrc.com/report/additive-manufacturing-feedstock-materials-market",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://ntrs.nasa.gov/api/citations/20230014532/downloads/20230014532+Doc.pdf?attachment=true",
+    "https://www.patsnap.com/resources/blog/articles/waam-vs-powder-bed-fusion-which-am-process-to-choose/",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.3d-printed.org/statistics-about-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin distributor Japan",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.tswhmf.com/metal-powder-for-additive-manufacturing-complete-materials-guide-2026",
+    "https://link.springer.com/content/pdf/10.1007/978-981-96-4459-9_13.pdf",
+    "https://www.sciaky.com/additive-manufacturing/wire-vs-powder",
+    "https://www.researchgate.net/publication/363387832_Comparing_pellet-_and_filament-based_additive_manufacturing_with_conventional_processing_for_ABS_and_PLA_parts"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin safety storage regulation",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html",
+    "https://ntrs.nasa.gov/api/citations/20230014532/downloads/20230014532+Doc.pdf?attachment=true",
+    "https://www.mdpi.com/2504-4494/10/1/5",
+    "https://link.springer.com/content/pdf/10.1007/978-981-96-4459-9_13.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin closed system open material third-party",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://ntrs.nasa.gov/api/citations/20230014532/downloads/20230014532+Doc.pdf?attachment=true",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://www.patsnap.com/resources/blog/articles/waam-vs-powder-bed-fusion-which-am-process-to-choose/",
+    "https://www.mdpi.com/2504-4494/10/1/5",
+    "https://www.sciaky.com/additive-manufacturing/wire-vs-powder"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin commodity price competition",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://mtxlaser.com/pellets-vs-filament-3d-printing-cost-comparison",
+    "https://ntrs.nasa.gov/api/citations/20230014532/downloads/20230014532+Doc.pdf?attachment=true",
+    "https://www.mdpi.com/2504-4494/10/1/5",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.patsnap.com/resources/blog/articles/waam-vs-powder-bed-fusion-which-am-process-to-choose/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin technical support parameters",
+   "results": [
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html",
+    "https://ntrs.nasa.gov/api/citations/20230014532/downloads/20230014532+Doc.pdf?attachment=true",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://link.springer.com/chapter/10.1007/978-981-96-4459-9_13",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://blog.met3dp.com/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/",
+    "https://www.patsnap.com/resources/blog/articles/waam-vs-powder-bed-fusion-which-am-process-to-choose/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン）",
+   "results": [
+    "https://note.com/33mddt/n/nfe762c3c8e14",
+    "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "https://note.com/kinzoku2/n/n580ff8c4ae2c",
+    "https://note.com/kinzoku2/n/na17ff92bc4fe",
+    "https://note.com/firm_yak4862/n/n26bdc0582fd4",
+    "https://note.com/anishihata/n/n5203e7c9e1e8",
+    "https://note.com/triplebottomline/n/n4e7b2f378caf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン）",
+   "results": [
+    "https://x.com/tsunezo_works/status/2073195732627235050",
+    "https://jf.x.com/images/media-preview/2098840118840737822",
+    "https://x.com/3DFilamentTokyo",
+    "https://x.com/lazuogozen/status/1850091546571571257",
+    "https://x.com/chutoislam/status/2054703417386545623",
+    "https://x.com/jampt_official/status/2013766645555335481",
+    "https://x.com/i/status/1800378607073997152"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン）",
+   "results": [
+    "https://in.linkedin.com/posts/hidemitsufurukawa_粉末樹脂3dプリンタの仕上げ工程技術で提携国内での樹脂amの普及を促進-activity-7026689132684877824-osQw",
+    "https://www.linkedin.com/posts/yokoito-additive-manufacturing_ウェビナーのお知らせ-粉末焼結積層方式3dプリンターfuse-1で使用-activity-7229337317985902594-4SX5",
+    "https://www.linkedin.com/pulse/3d-printing-powder-market-size-share-trends-report-analysis-gupta-ghbcc",
+    "https://jp.linkedin.com/pulse/2026年版ドルアイ-デルイー-粉末市場の注目トレンドと成長機会を徹底分析市場動向主要企業用途別戦略-810if",
+    "https://jp.linkedin.com/pulse/amトランスミッター市場の規模シェアトレンド分析レポートエンドユース別放送音声その他原材料別2032年までの予-7404935480632635392-wkfvf",
+    "https://cn.linkedin.com/company/avimetal-am",
+    "https://cn.linkedin.com/posts/flow-3d-taiwan-泓崴科技_flow-3d-am-模擬是金屬粉末定向能量沉積ded製程由兩個噴嘴將金屬粉末送到雷射上方-activity-7341044532010000384-9gi4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン）",
+   "results": [
+    "https://www.facebook.com/watch/?v=1527069871592543",
+    "https://www.facebook.com/pikaacekurachi/posts/remikaレジンアクセサリー教室-remika99-さんがインスタライブで-液体と粉末の着色比較をされました左が液体パジコさんの宝石の雫右側が粉末-ピカエース/983963140186105/",
+    "https://www.facebook.com/BuzzFeedAnimals/",
+    "https://www.facebook.com/meiwafosis/posts/991319916331761/",
+    "https://www.facebook.com/INTERMOLD/photos/金型や樹脂成形へam技術を取り入れるメリットとはintermoldと同時にamアディティブマニュファクチャリングの専門展am-expo東京を開催am技術単体での/1166058848647541/",
+    "https://www.facebook.com/basf.japan/photos/basfは世界有数の電子製造コングロマリットnew-kinpo-新金宝グループが支援するxyzprinting-社とのマテリアルアライアンスに参画しましたこれに/2689332671323092/",
+    "https://www.facebook.com/laserhardening/posts/455186356878462/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） note 社長",
+   "results": [
+    "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "https://hdc3d.com/ja/portfolio-item/ワイヤーアーク積層造形（waam）とレーザー粉末床/",
+    "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "https://technicolor.co.jp/blog/20260424/",
+    "https://mt-ump.co.jp/am-technology-type-comparison/",
+    "https://am-material.com/ja/news/unveiling-the-secrets-of-am-powder-from-composition-to-manufacturing-process/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン） X 投稿",
+   "results": [
+    "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "https://dryfil.com/ja/",
+    "https://skhonpo.com/blogs/3dprinter-practice/filament-comparison-guide-2026",
+    "https://technicolor.co.jp/blog/20260424/",
+    "https://technicolor.co.jp/blog/20250712/",
+    "https://www.stratasys.co.jp/siteassets/resources/ebook/tech-comparison/bg_mu_technology-comparison_1200x855px_jp_0324a.pdf?v=49d04e",
+    "https://am-material.com/ja/news/what-is-am-material/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing feedstock forms comparison cost powder wire pellet filament resin site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/amit-bandyopadhyay-bb43375_metal-additive-manufacturing-with-powder-activity-7395967798205685760-u__t",
+    "https://www.linkedin.com/learning/additive-manufacturing-materials-for-3d-printing-17506653/filament-resin-or-powder",
+    "https://pe.linkedin.com/advice/0/how-do-you-compare-metal-filament-3d-printing-other",
+    "https://www.linkedin.com/pulse/additive-manufacturing-vs-powder-metallurgy-competing-rajendrachari-dknoc/",
+    "https://www.linkedin.com/posts/3d-printing-industry_optimizing-3d-printer-feedstock-production-activity-7119625300618956800-yD9A",
+    "https://www.linkedin.com/posts/3dadept_amgta-issues-research-on-sustainability-of-activity-7189586526060654592-m4wF",
+    "https://www.linkedin.com/learning/additive-manufacturing-materials-for-3d-printing-17506653"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "繰り返し性": "記載なし（読んだ44頁・検索21回）"
+ }
+}

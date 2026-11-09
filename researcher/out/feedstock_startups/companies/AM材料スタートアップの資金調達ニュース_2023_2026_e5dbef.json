@@ -1,0 +1,2156 @@
+{
+ "name": "AM材料スタートアップの資金調達ニュース（2023〜2026）",
+ "en": "additive manufacturing materials startup funding round 2025 2026",
+ "aliases": [
+  "AM Material Start-up Finanzierungsrunde",
+  "matériaux fabrication additive levée de fonds",
+  "增材制造 材料 融资"
+ ],
+ "context": "資金調達",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:18:40.691578+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": "Key dealmakers, including their emails and phonenumbers.",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "Sources: Information on this page was derived from a variety of sources including Bloomberg, Company Websites, Crunchbase, PitchBook and other news outlets. Castle Placement® does not warrant or guarantee this information, nor makes any representations as to the accuracy of the information. For more Risks, see",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Supply Chain Tech startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Supply Chain Tech startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "FinTech Payments startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "FinTech startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for FinTech Payments startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for FinTech startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Products startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Commercial Products startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Elder Care startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Disabled Care startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Elder Care startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Cybersecurity startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Construction Tech startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Real Estate startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Construction Tech startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Real Estate startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing startup investment strategies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Manufacturing startups",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "This morning, new-age manufacturing startup Volund Manufacturing announced that it’s raised a $12M seed round led by Root Ventures and Squadra to build low-cost gas turbine engines. New investor Output Capital also participated in the round, and Marlinspike, Alpha Delta Ventures, and First In returned to the cap table.",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Ken Spaulding (CMO, Chief Manufacturing Officer) has spent his entire career in precision machining, including at Vescio Threading and Zodiac Engineering.",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Harbinger is a new name in the defense tech scene, but the California-based electric truck startup has made a big push into our world over the past few months, especially on the white-hot unmanned ground vehicle (UGV) scene. Now, the company has a whole lot of cash in the bank to keep its pedal to […]",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Looks like the whole reindustrialize wave ain’t over just yet. This morning, robotics-for-manufacturing startup Aformic announced in an exclusive release to Tectonic that it’s raised a $6.95M seed round led by Veteran Ventures Capital. Aformic CEO Michal Fiuk told Tectonic that from here, the plan is to scale up production of—and customers for—its in-factory intralogistics […]",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Sources: Information on this page was derived from a variety of sources including Bloomberg, Company Websites, Crunchbase, PitchBook and other news outlets. Castle Placement® does not warrant or guarantee this information, nor makes any representations as to the accuracy of the information. For more Risks, see",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Clean Energy startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Clean Technology startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "CleanTech startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Climate Technology startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "ClimateTech startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Clean Energy startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Clean Technology startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for CleanTech startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Climate Technology startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for ClimateTech startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Oncology startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Oncology startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Aerospace startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Defense startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Cars startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "venture capital for Autonomous Cars startups",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Health startup investment strategies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a B2B Manufacturing and Procurement SaaS startup, has raised €2 million in seed funding to accelerate its development in the additive manufacturing space. The round was led by Swedish investor",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": ", a German startup focused on data-driven process optimization, completed a pre-seed funding round. The round included contributions from five investors:",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Barcelona-based startup specializing in 3D printing of precast concrete, successfully closed a €500,000 Pre-Seed funding round, led by",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "ACCIÓ’s Startup Capital",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "– Fewer new startups, a shift toward profitability, and strategic refocusing",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "A Deeper Dive into the 3D Printing Start-up Segment",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "AMPOWER Global Metal and Polymer Additive Manufacturing startup funding. Image via AMPOWER",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing startups need stronger internal competencies, such as the early hiring of a CFO to ensure sound financial navigation. Teams must also show maturity, foresight, and a willingness to engage with challenging “what-if” scenarios. Not every entrepreneur should take on venture capital; alignment between founders and investors is critical.",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "startups raised EUR 7.4 billion in 2024",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "Picking the winners: how to get your 3D printing start-up funded",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "The people behind any start-up are paramount to an investment decision. Funding a team of recent graduates often involves waiting several years for technology to reach market maturity. In contrast, older entrepreneurs, or “industry silverbacks” with sectoral expertise, may be expected to secure early profits through niche products and then replicate success iteratively.",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "The State of Investing: Manufacturing Startups Face a New Investment Reality",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM’s market growth has reportedly been driven by a supportive business ecosystem in Luxembourg. Sven Baltes, Manager of start-up relations at Luxinnovation, commented, “It’s a real pleasure to see AM 4 AM continuing to grow and succeed from Luxembourg!”",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "startup acceleration program in 2022. It continued its development at the Foetz-based Technoport technology incubator. “Now, by leveraging the Young Innovative Enterprise scheme, AM 4 AM is set to expand and scale its operations internationally,” added Baltes.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Renishaw has also adjusted powder layer thickness options for its existing materials, including 90 μm titanium grade 23, 70 μm stainless steel 316L, and 120 μm Inconel 718. These changes seek to accelerate build rates and improve 3D printing efficiency.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   }
+  ],
+  "資金調達・株主": [
+   {
+    "quote": "Top 12 Metal Additive Manufacturing Investors in the US",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "4. Deep Tech Fund (an Alumni Ventures Fund)",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "5. MassVentures",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "7. Khosla Ventures",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "Top 15 Executive Coaching Investors in the Nordics",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "Top 19 Investors in Hospice Care in DACH",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "Top 16 LNG Terminal Construction Investors in the US",
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing and Advanced Manufacturing Capital Raises and Investors in the U.S. - July 1st - 31st, 2026 | Castle Placement®",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing and Advanced Manufacturing Capital Raises and Investors in the U.S. – July 1st – 31st, 2026",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a remote sensing technology that uses satellite clusters to create high-resolution three-dimensional models of Earth, raised $21 million of venture funding in a deal led by Mitsubishi Electric.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a 3D-printed seawall manufacturer that develops coastal protection structures designed to restore marine habitats, raised $10 million of venture funding in a deal led by Builders Vision.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a product content management platform that automates the optimization, conversion, and distribution of digital product assets, raised $1.25 million of venture funding in the form of convertible debt.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a medical technology that develops orthopedic implants using additive manufacturing and advanced software tools, raised $749,994 of venture funding.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a precision metal parts manufacturer that uses 3D printing for rapid prototyping and short-run production, raised venture funding from Narwhal Ventures.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a three-dimensional model generation platform that converts text and images into digital 3D assets, raised $400 million of Series B venture funding in a deal led by IDG Capital, MPC and Monolith Capital.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "#castleplacement #capitalraising #privateequity #venturecapital #investment #3DPrinting #AdvancedManufacturing",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Supply Chain Tech Capital Raises and Investors in the U.S. – April 1st – May 31st, 2026",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: Volund Manufacturing Raises $12M Seed",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "This morning, new-age manufacturing startup Volund Manufacturing announced that it’s raised a $12M seed round led by Root Ventures and Squadra to build low-cost gas turbine engines. New investor Output Capital also participated in the round, and Marlinspike, Alpha Delta Ventures, and First In returned to the cap table.",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "And that dream team got them some cash money early on. The company first raised an undisclosed amount of pre-seed funding from First In, Cyrus Ventures, and Marlinspike in 2025, per Pitchbook, and has spent the last year-ish building out a 5,500 sq ft facility in Huntington Beach, CA.",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Shield AI is buying radar hotshot Echodyne for $5.3B—and raised $2.5B to fund the transaction.",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: Aformic Raises $6.95M Led by Veteran Ventures",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Looks like the whole reindustrialize wave ain’t over just yet. This morning, robotics-for-manufacturing startup Aformic announced in an exclusive release to Tectonic that it’s raised a $6.95M seed round led by Veteran Ventures Capital. Aformic CEO Michal Fiuk told Tectonic that from here, the plan is to scale up production of—and customers for—its in-factory intralogistics […]",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3D Printing and Advanced Manufacturing Capital Raises and Investors in the U.S. - September 1st - 30th, 2026",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3D Printing and Advanced Manufacturing Capital Raises and Investors in the U.S. – September 1st – 30th, 2026",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", rocket engine technology that provides propulsion for space transportation, raised $250,000 of Series D venture funding in the form of SAFE notes from Nomi Capital, Gaingels and BVVC.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", industrial 3D printing technology that produces composite parts for aerospace and defense manufacturers, raised $40 million of Series B venture funding in a deal led by Inflection Equity.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", bioprinting technology that develops human tissue models for drug development and testing, raised $2.20 million of venture funding in the form of SAFE notes.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", additive manufacturing technology that enables multi-planar 3D printing, raised venture funding from Founders and Inc.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", autonomous vessel technology that supports contested logistics and last-mile delivery, raised $6.8 million of seed funding in the form of SAFE notes from Onomichi Dockyard, SBI Holdings and Archetype Ventures.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", metal manufacturing that produces large-scale components for maritime and defense applications, raised $2.5 million of seed funding in a deal led by Veteran Ventures Capital.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "#castleplacement #capitalraising #privateequity #venturecapital #investment #3DPrinting #AdvancedManufacturing",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a B2B Manufacturing and Procurement SaaS startup, has raised €2 million in seed funding to accelerate its development in the additive manufacturing space. The round was led by Swedish investor",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Spark with investors Triplefair, Fraunhofer Technologie-Transfer Fonds (FTTF) and Innovationsstarter Fonds Hamburg (IFH). Photo via 3D Spark.",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Barcelona-based startup specializing in 3D printing of precast concrete, successfully closed a €500,000 Pre-Seed funding round, led by",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "Feature image shows 3D Spark with investors Triplefair, Fraunhofer Technologie-Transfer Fonds (FTTF) and Innovationsstarter Fonds Hamburg (IFH). Photo via 3D Spark.",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "State of Investment in 3D Printing: Arno Held of AM Ventures - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "State of Investment in 3D Printing: Arno Held of AM Ventures",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "startups raised EUR 7.4 billion in 2024",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM to Scale Metal Powder Production with €1.3M in New Funding - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM to Scale Metal Powder Production with €1.3M in New Funding",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": ", a Luxembourg-based supplier of 3D printable metal powders, has raised €1.3 million in a seed funding round.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "“With this funding, AM 4 AM is entering a new phase in its development. The future infrastructures we will put in place will allow us to enhance production capacity, broaden our product portfolio, and accelerate our innovation efforts,” commented Maxime Delmée, AM 4 AM’s CEO.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "According to AM 4 AM, the €1.3 million seed funding round marks a significant step in the company’s journey to becoming a “key player in the 3D printing industry.”",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Former SpaceX Engineers to Scale AI 3D Printing with New Nvidia and Boeing funding",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Koobz closes seed round, bringing total funding to $7.2M | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m.md",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Koobz closes seed round, bringing total funding to $7.2M",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": ", has closed its Seed funding round, reaching a total capital of $7.2 million. The Ventura-based startup is using the fund to build up its manufacturing capabilities, targeting shoes made in the United States using AI, robotics, and 3D printing.",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "The round was led by Uncork Capital, with participation from Cake Ventures, Antler, V1, Karman Ventures, Pathbreaker Ventures, and Anorak Ventures. These investors trust a vision where advanced manufacturing is essential to America’s industrial future.",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Koobz plans to use the funding to move into a new headquarters in Ventura, ending its early chapter of operations run out of a garage. This new space will house its first MVP factory, equipped with 800 industrial 3D printers and targeting production of 200,000 pairs of shoes by the end of 2026. But that’s just the beginning.",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Immensa raises $20 million in latest funding round | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round.md",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Immensa raises $20 million in latest funding round",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Since their funding round in 2021, Immensa has made significant strides",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "MIT Spin-off Rapid Liquid Print secures $7 million in series A | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding.md",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MIT Spin-off Rapid Liquid Print secures $7 million in series A funding",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "was joined by existing investors BMW i Ventures and MassMutual, collectively providing RLP with $7 million in fresh funds. It’s worth noting that",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Spark successfully closes invite-only community funding round",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   }
+  ],
+  "代理店募集・売り方": [
+   {
+    "quote": "Distributors Wholesale",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Broker-dealer; member of FINRA/SIPC",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "For more background of the Castle Placement, LLC broker-dealer and professionals,",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "All securities transactions are executed exclusively through Castle Placement, LLC, a registered broker-dealer and member of FINRA and SIPC.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors Wholesale",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Broker-dealer; member of FINRA/SIPC",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "For more background of the Castle Placement, LLC broker-dealer and professionals,",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "All securities transactions are executed exclusively through Castle Placement, LLC, a registered broker-dealer and member of FINRA and SIPC.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": ", a precision metal parts manufacturer that uses 3D printing for rapid prototyping and short-run production, raised venture funding from Narwhal Ventures.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "Our series on the state of investment in the 3D printing industry continues with a company uniquely positioned to understand the dynamics of the additive manufacturing investment landscape. I spoke with Arno Held, Managing Partner at Bavaria-based VC firm",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing startups need stronger internal competencies, such as the early hiring of a CFO to ensure sound financial navigation. Teams must also show maturity, foresight, and a willingness to engage with challenging “what-if” scenarios. Not every entrepreneur should take on venture capital; alignment between founders and investors is critical.",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "The featured image shows Formnext Frankfurt. Photo by Michael Petch.",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "According to Delmée, despite the rapid expansion of the 3D printing market, there is a shortage of “suitable metal materials.” He added that HiperAL provides properties required by key industries and applications, meeting pertinent market demands.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": ", the US National Aeronautics and Space Administration, licensed its GRX-810 superalloy powder to five US-based companies. GRX-810 is an Oxide Dispersion Strengthened (ODS) alloy designed to withstand extreme temperatures found in aerospace and space applications.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials partnership",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "MIT Spin-off Rapid Liquid Print secures $7 million in series A | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding.md",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MIT Spin-off Rapid Liquid Print secures $7 million in series A funding",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Liquid Print (RLP), an additive manufacturing startup founded in 2015 as a spin-off from the Massachusetts Institute of Technology (MIT)",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The RLP Team. Image credit: Rapid Liquid Print Co.",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Liquid Print is a new 3D printing process developed at MIT’s Self-Assembly Lab in Boston",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "“This round was about more than funding – it was about building a community around our mission,” said Ruben Meuth, Founder and CEO of 3D Spark. “We’re honored to have such outstanding leaders from industry, research, and entrepreneurship join us in driving more efficient, sustainable, and digital manufacturing globally.”",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "StandardFlow launches AI platform for AM standards qualification",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "StandardFlow launches AI platform for AM standards qualification",
+    "url": "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, SMEs face challenges too—not all thrive, and many struggle or fail. But the point is this: the headlines don’t tell the whole story. While the spotlight often falls on the largest companies—whether for missed targets, turbulent mergers, or for scaling back or divesting from AM—a vast ecosystem of smaller players is quietly expanding the industry.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". This process combines digital light projection with an oxygen-permeable membrane to rapidly produce isotropic, high-strength polymer parts. Co-founded by chemist Joseph DeSimone, Carbon’s innovation lies in developing reactive resins that combine the durability of thermosets with the quick-curing properties of UV polymers, enabling the efficient production of end-use parts.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Snapmaker to bring its U1 toolchanger ecosystem to Formnext",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "From the Shenzhen HQ to Formnext in Frankfurt, it’s a new Creality",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "is leveraging additive manufacturing to solve complex propulsion challenges",
+    "url": "https://www.3dnatives.com/en/venus-aerospace-91m-10072026/",
+    "pass": 3
+   },
+   {
+    "quote": "Venus Aerospace: Defense Against Supply Chain Challenges",
+    "url": "https://www.3dnatives.com/en/venus-aerospace-91m-10072026/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": ", a remote sensing technology that uses satellite clusters to create high-resolution three-dimensional models of Earth, raised $21 million of venture funding in a deal led by Mitsubishi Electric.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a 3D-printed seawall manufacturer that develops coastal protection structures designed to restore marine habitats, raised $10 million of venture funding in a deal led by Builders Vision.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a product content management platform that automates the optimization, conversion, and distribution of digital product assets, raised $1.25 million of venture funding in the form of convertible debt.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a medical technology that develops orthopedic implants using additive manufacturing and advanced software tools, raised $749,994 of venture funding.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a three-dimensional model generation platform that converts text and images into digital 3D assets, raised $400 million of Series B venture funding in a deal led by IDG Capital, MPC and Monolith Capital.",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$1 million to $1 billion in all industries/geographies",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "-- Regulation Crowdfunding; $5 million per year; light disclosure required; anyone (including non-accredited) can invest; general solicitation/advertising permitted",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "-- Regulation A+; $75 million per year; significant (but less than an IPO) disclosure required; anyone (including non-accredited) can invest; general solicitation/advertising permitted; sometimes referred to as a \"mini-IPO.\"",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: Volund Manufacturing Raises $12M Seed",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "This morning, new-age manufacturing startup Volund Manufacturing announced that it’s raised a $12M seed round led by Root Ventures and Squadra to build low-cost gas turbine engines. New investor Output Capital also participated in the round, and Marlinspike, Alpha Delta Ventures, and First In returned to the cap table.",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Harbinger Raises $240M Series D, Eyes Defense Expansion",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Shield AI Raises $2.5B to Buy Echodyne for $5.3B",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Shield AI is buying radar hotshot Echodyne for $5.3B—and raised $2.5B to fund the transaction.",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: Aformic Raises $6.95M Led by Veteran Ventures",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Looks like the whole reindustrialize wave ain’t over just yet. This morning, robotics-for-manufacturing startup Aformic announced in an exclusive release to Tectonic that it’s raised a $6.95M seed round led by Veteran Ventures Capital. Aformic CEO Michal Fiuk told Tectonic that from here, the plan is to scale up production of—and customers for—its in-factory intralogistics […]",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentagon Takes Stake in Neros with $450M OSC Loan",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": "Between a $250M raise, a $500M IDIQ contract under the US Army’s Purpose-Built Attritable System (PBAS) program, and $100M in drone orders through the Drone Dominance Program, it’s been a big-dollar year for Neros. As if that wasn’t enough, the Pentagon’s Office of Strategic Capital (OSC) is now adding an extra nine figures to Neros’ […]",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "pass": 3
+   },
+   {
+    "quote": ", rocket engine technology that provides propulsion for space transportation, raised $250,000 of Series D venture funding in the form of SAFE notes from Nomi Capital, Gaingels and BVVC.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", industrial 3D printing technology that produces composite parts for aerospace and defense manufacturers, raised $40 million of Series B venture funding in a deal led by Inflection Equity.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", bioprinting technology that develops human tissue models for drug development and testing, raised $2.20 million of venture funding in the form of SAFE notes.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", autonomous vessel technology that supports contested logistics and last-mile delivery, raised $6.8 million of seed funding in the form of SAFE notes from Onomichi Dockyard, SBI Holdings and Archetype Ventures.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", metal manufacturing that produces large-scale components for maritime and defense applications, raised $2.5 million of seed funding in a deal led by Veteran Ventures Capital.",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$1 million to $1 billion in all industries/geographies",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "-- Regulation Crowdfunding; $5 million per year; light disclosure required; anyone (including non-accredited) can invest; general solicitation/advertising permitted",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "-- Regulation A+; $75 million per year; significant (but less than an IPO) disclosure required; anyone (including non-accredited) can invest; general solicitation/advertising permitted; sometimes referred to as a \"mini-IPO.\"",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Spark Raises €2M to Broaden AI-Powered Manufacturing Platform and Strengthen Supplier Connections - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Spark Raises €2M to Broaden AI-Powered Manufacturing Platform and Strengthen Supplier Connections",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": ", a B2B Manufacturing and Procurement SaaS startup, has raised €2 million in seed funding to accelerate its development in the additive manufacturing space. The round was led by Swedish investor",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Barcelona-based startup specializing in 3D printing of precast concrete, successfully closed a €500,000 Pre-Seed funding round, led by",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "The resulting report, published today, shows the industry has a current market size of EUR10.72 billion, growing at 13% CAGR by 2029. For comparison, the 2023 figures were a market size of EUR10.50 billion, with 13.9% CAGR until 2028. By machine sales, the leading AM technology is metal Powder Bed Fusion at 39% (2023: 40%).",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "“One reason for the decreased equipment revenue last year,” said Schmidt-Lehr, “was not only the flat line in number of equipment but also the decreased pricing.” On the metals side, the market is diversifying at both ends: sub-100k machines targeting dental and other niche segments and large-scale equipment for aerospace applications dominated by Chinese providers.",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "at a discounted price with the code 3DPI2025.",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing startups need stronger internal competencies, such as the early hiring of a CFO to ensure sound financial navigation. Teams must also show maturity, foresight, and a willingness to engage with challenging “what-if” scenarios. Not every entrepreneur should take on venture capital; alignment between founders and investors is critical.",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "startups raised EUR 7.4 billion in 2024",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "The people behind any start-up are paramount to an investment decision. Funding a team of recent graduates often involves waiting several years for technology to reach market maturity. In contrast, older entrepreneurs, or “industry silverbacks” with sectoral expertise, may be expected to secure early profits through niche products and then replicate success iteratively.",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM to Scale Metal Powder Production with €1.3M in New Funding - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM to Scale Metal Powder Production with €1.3M in New Funding",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": ", a Luxembourg-based supplier of 3D printable metal powders, has raised €1.3 million in a seed funding round.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Bernd Schäfer, CEO and Managing Director of EIT RawMaterials added, “Companies like AM 4 AM who work on advancing raw materials play a crucial role in the future of the European economy and its sustainability.”",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "According to AM 4 AM, the €1.3 million seed funding round marks a significant step in the company’s journey to becoming a “key player in the 3D printing industry.”",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Koobz closes seed round, bringing total funding to $7.2M | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Koobz closes seed round, bringing total funding to $7.2M",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": ", has closed its Seed funding round, reaching a total capital of $7.2 million. The Ventura-based startup is using the fund to build up its manufacturing capabilities, targeting shoes made in the United States using AI, robotics, and 3D printing.",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Like Zellerfeld, Koobz is building a platform for others. From independent designers to large-scale labels, the platform removes every barrier to entry in footwear. Entrepreneurs can focus on creativity and brand-building, while Koobz takes care of the rest, including manufacturing, shipping, and returns.",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "pass": 3
+   },
+   {
+    "quote": "Immensa raises $20 million in latest funding round | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Immensa raises $20 million in latest funding round",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   }
+  ],
+  "年商・規模": [
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "“One reason for the decreased equipment revenue last year,” said Schmidt-Lehr, “was not only the flat line in number of equipment but also the decreased pricing.” On the metals side, the market is diversifying at both ends: sub-100k machines targeting dental and other niche segments and large-scale equipment for aerospace applications dominated by Chinese providers.",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, the core AM market—encompassing hardware, materials, and services—generated $12.3 billion in revenue, with hardware accounting for $5.5 billion, services for $4.3 billion, and materials for $ 2.4 billion.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", having introduced the first commercial stereolithography (SLA) printer—the SL-1—in 1988. Currently, it ranks as the second-largest AM company by revenue, although its financial performance has declined in recent years. In 2024, 3D Systems reported revenue of $440 million, reflecting a 10% year-over-year drop and marking its weakest performance since 2012.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise went public in 2014 and reported total revenue of €266.8 million in 2024",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "$57.8 million in revenue for 2024, reflecting a 2.6% year-over-year increase",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Nikon SLM reported €150 million in revenue, a 36% year-over-year increase",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Stratasys reported $572.5 million in revenue, an 8.8% decline from $627.6 million the previous year",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymer additive manufacturing continues to lead the AM market in overall value, generating $7.4 billion in revenue in 2024. Driven by a wide range of industrial and consumer applications, the segment is projected to reach $46 billion by 2034, growing at a 20.1% compound annual growth rate.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing followed closely, with $4.7 billion in 2024 revenue. Supported by strong adoption in sectors such as aerospace, energy, and healthcare, the segment is on track to grow to nearly $60 billion by 2034, at a projected CAGR of 29%.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry posts record Q3 revenue of $252 million and raises 2026 outlook",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The 2026 Wohlers Report once again reported that the defense sector is the largest revenue generator for additive manufacturing, with aerospace following behind. Driven by a federal mandate to shore up supply chain resilience, the United States has invested billions…",
+    "url": "https://www.3dnatives.com/en/aerospace-and-defense-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial intelligence, particularly in parameter development, materials qualification, and quality assurance, is seen as a powerful enabler of productivity and innovation. The path forward involves integrating additive manufacturing into established production chains, leveraging external partnerships, and maintaining realistic valuations and growth expectations.",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "StandardFlow launches AI platform for AM standards qualification",
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "StandardFlow launches AI platform for AM standards qualification",
+    "url": "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ". Reorganized in 2024, it focuses on deploying laser powder bed fusion (LPBF) and directed energy deposition (DED) technologies, supported by in-house expertise in metallurgy, qualification, and metrology.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "創業年": [
+   {
+    "quote": "Founded in 2019, the company created and modified 3D printable metal powder utilizing its proprietary cold plasma technology. This is said to produce sustainable, high-performance materials as part of a circular value chain. AM 4 AM flagship powder, HiperAL, is advertised as one of the strongest aluminum alloys on the market.",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Liquid Print (RLP), an additive manufacturing startup founded in 2015 as a spin-off from the Massachusetts Institute of Technology (MIT)",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1986,",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", having introduced the first commercial stereolithography (SLA) printer—the SL-1—in 1988. Currently, it ranks as the second-largest AM company by revenue, although its financial performance has declined in recent years. In 2024, 3D Systems reported revenue of $440 million, reflecting a 10% year-over-year drop and marking its weakest performance since 2012.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020,",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", solidifying its role as a major player in the additive manufacturing market. Founded in 2000, the company supports industries such as aerospace, medical, and footwear with advanced 3D printing solutions and a complete technology ecosystem—including proprietary hardware, software like Polydevs and Unionfab ONE, and materials developed through its R&D division and subsidiary Synthestic.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", initially part of MCP Tooling Technologies and operating under the SLM Solutions name since 2011, was acquired by Nikon Corporation in 2022. Now integrated into Nikon’s Advanced Manufacturing division, the company develops large-format, multi-laser laser powder bed fusion (LPBF) systems for industrial metal additive manufacturing.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", founded in 1989 by FDM inventor Scott Crump, has maintained a significant role in industrial polymer 3D printing. Its 2012 merger with Objet Geometries introduced PolyJet material jetting to its technology portfolio, expanding its market presence in the medical, dental, and prototyping sectors.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Since the acquisition, Nikon has expanded SLM’s manufacturing and support capabilities, including U.S.-based production of NXG systems and new technology centers in California and Japan.",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "創業年": [
+   {
+    "value": "2019",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "quote": "Founded in 2019, the company created and modified 3D printable metal powder utilizing its proprietary cold plasma technology. This is said to produce sustainable, high-performance materials as part of a circular value chain. AM 4 AM flagship powder, HiperAL, is advertised as one of the strongest alu"
+   },
+   {
+    "value": "2015",
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "quote": "Rapid Liquid Print (RLP), an additive manufacturing startup founded in 2015 as a spin-off from the Massachusetts Institute of Technology (MIT)"
+   },
+   {
+    "value": "1986",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "quote": "Founded in 1986,"
+   },
+   {
+    "value": "2020",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "quote": "Founded in 2020,"
+   },
+   {
+    "value": "2000",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "quote": ", solidifying its role as a major player in the additive manufacturing market. Founded in 2000, the company supports industries such as aerospace, medical, and footwear with advanced 3D printing solutions and a complete technology ecosystem—including proprietary hardware, software like Polydevs and "
+   },
+   {
+    "value": "1989",
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "quote": ", founded in 1989 by FDM inventor Scott Crump, has maintained a significant role in industrial polymer 3D printing. Its 2012 merger with Objet Geometries introduced PolyJet material jetting to its technology portfolio, expanding its market presence in the medical, dental, and prototyping sectors."
+   }
+  ],
+  "調達額": [
+   {
+    "value": "21",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "quote": ", a remote sensing technology that uses satellite clusters to create high-resolution three-dimensional models of Earth, raised $21 million of venture funding in a deal led by Mitsubishi Electric."
+   },
+   {
+    "value": "10",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "quote": ", a 3D-printed seawall manufacturer that develops coastal protection structures designed to restore marine habitats, raised $10 million of venture funding in a deal led by Builders Vision."
+   },
+   {
+    "value": "1.25",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "quote": ", a product content management platform that automates the optimization, conversion, and distribution of digital product assets, raised $1.25 million of venture funding in the form of convertible debt."
+   },
+   {
+    "value": "400",
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "quote": ", a three-dimensional model generation platform that converts text and images into digital 3D assets, raised $400 million of Series B venture funding in a deal led by IDG Capital, MPC and Monolith Capital."
+   },
+   {
+    "value": "12",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "quote": "This morning, new-age manufacturing startup Volund Manufacturing announced that it’s raised a $12M seed round led by Root Ventures and Squadra to build low-cost gas turbine engines. New investor Output Capital also participated in the round, and Marlinspike, Alpha Delta Ventures, and First In return"
+   },
+   {
+    "value": "6.95",
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "quote": "Looks like the whole reindustrialize wave ain’t over just yet. This morning, robotics-for-manufacturing startup Aformic announced in an exclusive release to Tectonic that it’s raised a $6.95M seed round led by Veteran Ventures Capital. Aformic CEO Michal Fiuk told Tectonic that from here, the plan i"
+   },
+   {
+    "value": "40",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "quote": ", industrial 3D printing technology that produces composite parts for aerospace and defense manufacturers, raised $40 million of Series B venture funding in a deal led by Inflection Equity."
+   },
+   {
+    "value": "2.20",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "quote": ", bioprinting technology that develops human tissue models for drug development and testing, raised $2.20 million of venture funding in the form of SAFE notes."
+   },
+   {
+    "value": "6.8",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "quote": ", autonomous vessel technology that supports contested logistics and last-mile delivery, raised $6.8 million of seed funding in the form of SAFE notes from Onomichi Dockyard, SBI Holdings and Archetype Ventures."
+   },
+   {
+    "value": "2.5",
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "quote": ", metal manufacturing that produces large-scale components for maritime and defense applications, raised $2.5 million of seed funding in a deal led by Veteran Ventures Capital."
+   },
+   {
+    "value": "2",
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "quote": ", a B2B Manufacturing and Procurement SaaS startup, has raised €2 million in seed funding to accelerate its development in the additive manufacturing space. The round was led by Swedish investor"
+   },
+   {
+    "value": "7.4",
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "quote": "startups raised EUR 7.4 billion in 2024"
+   },
+   {
+    "value": "1.3",
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "quote": ", a Luxembourg-based supplier of 3D printable metal powders, has raised €1.3 million in a seed funding round."
+   },
+   {
+    "value": "7.2",
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "quote": "Koobz closes seed round, bringing total funding to $7.2M | VoxelMatters - The heart of additive manufacturing"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://amtonline.org/article/investment-signals-a-maturing-additive-manufacturing-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.imts.com/read/article-details.cfm?articleid=1516&type=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturingusa.com/opportunities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topstartups.io/?funding_round=Series%20A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundraiseinsider.com/blog/funded-startups-united-states/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hello-tomorrow.org/challenge/hello-tomorrow-challenge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedfund.nsf.gov/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calendardate.com/2023.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundraiseinsider.com/blog/series-a-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/globalstartupsinsights_radianforge-manufacturing-fundingnews-activity-7505852530917007360-tkgv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dealroom.net/faq/funding-stages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pitchwise.se/blog/the-complete-guide-to-seed-and-series-funding-rounds-for-founders-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabric8labs.com/fabric8labs-funding-nov-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbon3d.com/news/press-releases/60m-raise-accelerates-carbon-in-the-advanced-manufacturing-race",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tdk-ventures.com/news/announcements/fabric8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/eda.commerce/posts/eda-intends-to-award-248-million-to-additive-manufacturing-advanced-materials-am/1665167245651458/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.engineering.com/wp-content/uploads/2026/02/Eng.com-3D-Printing-Startup-Report-2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/SAEInternational/posts/formnext-2026-is-right-around-the-corneradditive-manufacturing-continues-to-evol/1571171045056119/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.polyformnext.de/additive-manufacturing/industrial-3d-printing-formnext-2026-showcases-growth-markets-and-scalable-business-models.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/SAEInternational/videos/formnext-2026-is-right-around-the-corner-additive-manufacturing-continues-to-evo/981014867858327/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.evonik.com/en/events/2026/formnext.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/events/formnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/content/blog/innovations/what-is-really-shaping-the-future-of-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zaimo_ai/n/n812a99850772",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC125M20S6A810C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/tag/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/tags/fundraising-articles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en-ambi.com/featured/1830/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/euler-raises-e2m-to-scale-ai-monitoring-of-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/wp-content/uploads/sites/4/2026/03/Metal-Additive-Manufacturing-magazine-Spring-2026-issue.pdf?utm_source=Contra&utm_medium=The%20Advanced%20Ceramics/Materials%20Show&utm_campaign=2026",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metal-am.com/wp-content/uploads/sites/4/2025/03/Metal-Additive-Manufacturing-magazine-Spring-2025-issue.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/aluminium-additive-manufacturing-how-a-new-generation-of-alloys-will-fuel-industry-growth/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/adaxis-on-a-mission-to-reduce-the-layers-of-complexity-in-robotic-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/metal-additive-manufacturing-3d-printing-in-new-zealand/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/german-startup-3d-spark-raises-e1-2m-to-make-manufacturing-more-economical-and-ecological-222561/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/euler-closes-e2-million-seed-round-to-scale-ai-fault-detection-in-3d-printing-246212/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/fabric8labs-raises-19-3-million-in-series-a-funding-270720214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/venus-aerospace-91m-10072026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/aerospace-and-defense-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/ntopology-raises-40-million-160920206/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/additive-manufacturing-companies-publicly-traded-210720224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/xometry-platform220820174/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://amtonline.org/article/investment-signals-a-maturing-additive-manufacturing-market",
+    "https://www.imts.com/read/article-details.cfm?articleid=1516&type=1",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.manufacturingusa.com/opportunities",
+    "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+    "https://www.inven.ai/company-lists/top-12-metal-additive-manufacturing-investors-in-the-us",
+    "https://fundraiseinsider.com/blog/funded-startups-united-states/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://peterson.ventureradar.com/funding/3D%20print",
+    "https://www.ventureradar.com/funding/Additive+manufacturing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "additive manufacturing materials startup funding round 2025 2026 founded 2021 OR 2022 OR 2023 OR 2024",
+   "results": [
+    "https://www.imts.com/read/article-details.cfm?articleid=1516&type=1",
+    "https://www.instagram.com/p/DedlzuBiIVw/",
+    "https://topstartups.io/?funding_round=Series%20A",
+    "https://fundraiseinsider.com/blog/funded-startups-united-states/",
+    "https://www.ycombinator.com/companies/industry/manufacturing",
+    "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+    "https://www.hello-tomorrow.org/challenge/hello-tomorrow-challenge",
+    "https://www.manufacturingusa.com/opportunities",
+    "https://seedfund.nsf.gov/",
+    "https://dealroom.co/lists/additive-manufacturing-startups/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "additive manufacturing materials startup funding round 2025 2026 raises seed Series A",
+   "results": [
+    "https://castleplacement.com/3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-july-1st-31st-2026/",
+    "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+    "https://www.tectonicdefense.com/exclusive-volund-manufacturing-raises-12m-seed/",
+    "https://fundraiseinsider.com/blog/series-a-startups/",
+    "https://topstartups.io/?funding_round=Series%20A",
+    "https://amtonline.org/article/investment-signals-a-maturing-additive-manufacturing-market",
+    "https://www.linkedin.com/posts/globalstartupsinsights_radianforge-manufacturing-fundingnews-activity-7505852530917007360-tkgv",
+    "https://dealroom.net/faq/funding-stages",
+    "https://www.pitchwise.se/blog/the-complete-guide-to-seed-and-series-funding-rounds-for-founders-in-2026",
+    "https://www.engineering.com/wp-content/uploads/2026/02/Eng.com-3D-Printing-Startup-Report-2026.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "additive manufacturing materials startup funding round 2025 2026 distributor reseller program",
+   "results": [
+    "https://www.imts.com/read/article-details.cfm?articleid=1516&type=1",
+    "https://amtonline.org/article/investment-signals-a-maturing-additive-manufacturing-market",
+    "https://www.fabric8labs.com/fabric8labs-funding-nov-2025/",
+    "https://www.carbon3d.com/news/press-releases/60m-raise-accelerates-carbon-in-the-advanced-manufacturing-race",
+    "https://castleplacement.com/top-10-3d-printing-and-advanced-manufacturing-capital-raises-and-investors-in-the-u-s-september-1st-30th-2026/",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://tdk-ventures.com/news/announcements/fabric8/",
+    "https://www.manufacturingusa.com/opportunities",
+    "https://www.facebook.com/eda.commerce/posts/eda-intends-to-award-248-million-to-additive-manufacturing-advanced-materials-am/1665167245651458/",
+    "https://www.engineering.com/wp-content/uploads/2026/02/Eng.com-3D-Printing-Startup-Report-2026.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "additive manufacturing materials startup funding round 2025 2026 Formnext Start-up Area",
+   "results": [
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.facebook.com/SAEInternational/posts/formnext-2026-is-right-around-the-corneradditive-manufacturing-continues-to-evol/1571171045056119/",
+    "https://www.polyformnext.de/additive-manufacturing/industrial-3d-printing-formnext-2026-showcases-growth-markets-and-scalable-business-models.htm",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.facebook.com/SAEInternational/videos/formnext-2026-is-right-around-the-corner-additive-manufacturing-continues-to-evo/981014867858327/",
+    "https://www.evonik.com/en/events/2026/formnext.html",
+    "https://www.voxelmatters.com/category/events/formnext/",
+    "https://www.ri.se/en/production-and-manufacturing/additive-manufacturing/event/meet-application-center-for-additive",
+    "https://de.linkedin.com/company/formnext",
+    "https://www.sesamers.com/program/formnext-start-up-challenge-2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AM材料スタートアップの資金調達ニュース（2023〜2026） スタートアップ",
+   "results": [
+    "https://www.eos.info/ja/content/blog/innovations/what-is-really-shaping-the-future-of-manufacturing",
+    "https://note.com/zaimo_ai/n/n812a99850772",
+    "https://www.nikkei.com/article/DGXZQOUC125M20S6A810C2000000/",
+    "https://news.sharelab.jp/tag/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/",
+    "https://initial.inc/tags/fundraising-articles",
+    "https://en-ambi.com/featured/1830/",
+    "https://lp.startup-db.com/media/articles/funding-ranking-202608",
+    "https://prtimes.jp/topics/keywords/%E5%A4%A7%E5%AD%A6%E7%99%BA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97",
+    "https://www.forstartups.com/news/h1-2026-japan-startup-investment-report",
+    "https://www.nikkei.com/topics/22A00555"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:metal-am.com additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://www.metal-am.com/euler-raises-e2m-to-scale-ai-monitoring-of-additive-manufacturing/",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2026/03/Metal-Additive-Manufacturing-magazine-Spring-2026-issue.pdf?utm_source=Contra&utm_medium=The%20Advanced%20Ceramics/Materials%20Show&utm_campaign=2026",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2025/03/Metal-Additive-Manufacturing-magazine-Spring-2025-issue.pdf",
+    "https://www.metal-am.com/articles/aluminium-additive-manufacturing-how-a-new-generation-of-alloys-will-fuel-industry-growth/",
+    "https://www.metal-am.com/articles/adaxis-on-a-mission-to-reduce-the-layers-of-complexity-in-robotic-additive-manufacturing/",
+    "https://www.metal-am.com/articles/metal-additive-manufacturing-3d-printing-in-new-zealand/",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2023/07/Metal-AM-Summer-2023.pdf",
+    "https://www.metal-am.com/articles/seurat-technologies-evolving-metal-3d-printing-to-finally-out-compete-conventional-manufacturing/",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2020/12/Metal-AM-Winter-2020-dp.pdf",
+    "https://www.metal-am.com/freeform-secures-67m-to-scale-skyfall-additive-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:3dprintingindustry.com additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://3dprintingindustry.com/news/3d-spark-raises-e2m-to-broaden-ai-powered-manufacturing-platform-and-strengthen-supplier-connections-239342/",
+    "https://3dprintingindustry.com/news/german-startup-3d-spark-raises-e1-2m-to-make-manufacturing-more-economical-and-ecological-222561/",
+    "https://3dprintingindustry.com/news/2025-ampower-report-launched-exclusive-insights-and-discount-code-237388/",
+    "https://3dprintingindustry.com/news/state-of-investment-in-3d-printing-arno-held-of-am-ventures-235929/",
+    "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "https://3dprintingindustry.com/news/euler-closes-e2-million-seed-round-to-scale-ai-fault-detection-in-3d-printing-246212/",
+    "https://3dprintingindustry.com/news/former-spacex-engineers-to-scale-ai-3d-printing-with-new-nvidia-and-boeing-funding-233813/",
+    "https://3dprintingindustry.com/news/koobz-secures-7-2-million-to-bring-scalable-automated-footwear-manufacturing-to-the-u-s-241268/",
+    "https://3dprintingindustry.com/news/firehawk-aerospace-closes-2m-seed-funding-round-to-advance-3d-printed-rocket-fuel-180060/",
+    "https://3dprintingindustry.com/news/solideon-secures-1-25m-air-force-contract-to-bring-additive-manufacturing-to-the-front-lines-240753/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:voxelmatters.com additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://www.voxelmatters.com/koobz-closes-seed-round-bringing-total-funding-to-7-2m/",
+    "https://www.voxelmatters.com/immensa-raises-20-million-in-latest-funding-round/",
+    "https://www.voxelmatters.com/mit-spin-off-rapid-liquid-print-secures-7-million-in-series-a-funding/",
+    "https://www.voxelmatters.com/3d-spark-successfully-closes-invite-only-community-funding-round/",
+    "https://www.voxelmatters.com/3d-spark-secures-e2m-funding-to-revolutionize-ai-driven-manufacturing/",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.voxelmatters.com/meshy-raises-400-million-series-b-at-1-5-billion-valuation/",
+    "https://www.voxelmatters.com/icon-9m-3d-printed-housing/",
+    "https://www.voxelmatters.com/flo-optics-secures-35-million-series-a-for-3d-printing-of-lens-coatings/",
+    "https://www.voxelmatters.com/relativity-space-3d-printed-rocket-startup-35-million/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:3dnatives.com additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://www.3dnatives.com/en/fabric8labs-raises-19-3-million-in-series-a-funding-270720214/",
+    "https://www.3dnatives.com/en/venus-aerospace-91m-10072026/",
+    "https://www.3dnatives.com/en/aerospace-and-defense-3d-printing/",
+    "https://www.3dnatives.com/en/ntopology-raises-40-million-160920206/",
+    "https://www.3dnatives.com/en/additive-manufacturing-companies-publicly-traded-210720224/",
+    "https://www.3dnatives.com/en/xometry-platform220820174/",
+    "https://www.3dnatives.com/en/cellx-3d-printed-meat-130920215/",
+    "https://www.3dnatives.com/en/interstellar-technologies-additive-manufacturing-japan-space-race-270520254/",
+    "https://www.3dnatives.com/en/plastics-used-3d-printing110420174/",
+    "https://www.3dnatives.com/en/relativity-space-140-million-3d-printed-rocket-051020194/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:3printr.com additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://www.3printr.com/tag/additive-manufacturing-materials-consortium/",
+    "https://www.3printr.com/sevaan-group-introduces-new-service-for-additive-manufacturing-5573306/",
+    "https://www.3printr.com/markforged-exceeds-2021-growth-targets-5955212/",
+    "https://www.3printr.com/tag/slas-innovation-award/",
+    "https://www.3printr.com/tag/additive-manufacturing-turbine-blades/",
+    "https://www.3printr.com/tag/additive-manufacturing-aerospace-grade-components/",
+    "https://www.3printr.com/tag/medtech-company-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://3druck.com/en/",
+    "https://3druck.com/en/industry-2/6k-additive-secures-274-million-to-fund-expansion-of-metal-powder-production-03163633/",
+    "https://3druck.com/en/industry-2/phase3d-receives-29-million-us-dollars-for-testing-technology-in-metal-3d-printing-07159043/",
+    "https://3druck.com/en/industry-2/firehawk-receives-150-million-for-3d-printing-rocket-propellants-44164843/",
+    "https://3druck.com/en/industry-2/roboze-receives-10-million-to-expand-industrial-3d-printing-in-the-u-s-39164743/",
+    "https://3druck.com/en/industry-2/caracol-secures-40-million-us-dollars-for-expansion-of-large-format-3d-printing-systems-14150729/",
+    "https://3druck.com/en/industry-2/amcrc-approves-first-five-core-projects-with-11-million-dollars-for-additive-manufacturing-41157503/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dadept.com additive manufacturing materials startup funding round 2025 2026",
+   "results": [
+    "https://3dadept.com/en/magazine/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:note.com AM材料スタートアップの資金調達ニュース（2023〜2026）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n8fae9e5b63a9",
+    "https://note.com/hirokimiyano/n/n4bb0f8e7a909",
+    "https://note.com/aibusinesshunter/n/n5484ff2e3d24",
+    "https://note.com/tag/%E5%85%88%E7%AB%AF%E7%B4%A0%E6%9D%90",
+    "https://note.com/aibusinesshunter/n/n221674f2289a",
+    "https://note.com/aibusinesshunter/n/n2de631ec9bec",
+    "https://note.com/aibusinesshunter/n/n18e7ebee620e",
+    "https://note.com/kagawatomo/n/ndb06a6b0c405",
+    "https://note.com/aibusinesshunter/n/n08760c71e52f",
+    "https://note.com/keiichi_ohara/n/n85c67ae0a8c4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com AM材料スタートアップの資金調達ニュース（2023〜2026）",
+   "results": [
+    "https://x.com/Taiyo_toyama/status/2118643163669930081",
+    "https://x.com/ScrumVenturesJP/all",
+    "https://x.com/yukio_n_being",
+    "https://x.com/KagawaTomo/status/2116800506467422688",
+    "https://x.com/ryo_morus",
+    "https://x.com/KosukeMasui/status/2118295546079396030",
+    "https://x.com/KagawaTomo/status/2110277493752205781",
+    "https://x.com/quantumbizmag",
+    "https://x.com/KagawaTomo/status/2110523688902873223",
+    "https://x.com/i/status/2092790514261364988"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com AM材料スタートアップの資金調達ニュース（2023〜2026）",
+   "results": [
+    "https://jp.linkedin.com/in/hirotokataoka914a5272",
+    "https://jp.linkedin.com/pulse/weekly-recap-june-28-july-2-jason-calacanis?tl=ja",
+    "https://jp.linkedin.com/in/koki-tanaka-525a97179/ja",
+    "https://www.linkedin.com/posts/kenzo-fujisue-005b1678_pacific-sqaure-will-become-a-bridge-between-activity-7388780140899729409-jLhk",
+    "https://jp.linkedin.com/in/yuya-watanabe-a4b5b7250",
+    "https://jp.linkedin.com/in/sujan-sanku-japandian/ja",
+    "https://jp.linkedin.com/in/yuta-konno-709118226",
+    "https://jp.linkedin.com/in/fumihikooda/en",
+    "https://jp.linkedin.com/in/sotaro-hotta/en",
+    "https://jp.linkedin.com/in/shin-yoshida"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com AM材料スタートアップの資金調達ニュース（2023〜2026）",
+   "results": [
+    "https://www.facebook.com/HidetoshiTakano/posts/スタートアップの資金調達社数のまとめ2023上半期まとめ資金調達額は昨年上半期4160億円から3314億円と減少3年ぶりの減少となった一方で社数は同比16増の1/10160947186437459/",
+    "https://www.facebook.com/cehub.jp/posts/ニュース生物材料スタートアップの独tracelessトレースレスはシリーズaの資金調達ラウンドで3660万ユーロを獲得資金使途は商業生産工場の建設で数千トンの循/833615878549344/",
+    "https://www.facebook.com/MONOist/posts/stratasysはcovestroのアディティブマニュファクチャリングam材料事業の買収を完了した買収には研究開発施設と活動グローバルな開発および販売チームa/750472643745683/",
+    "https://www.facebook.com/ub.speeda/posts/2025年資金調達総額7613億円過去2年とほぼ同水準国内スタートアップ資金調達動向の監修者である森氏とアニマルスピリッツ朝倉氏をお招きし資金調達動向を読み解く/1408596941061575/",
+    "https://www.facebook.com/coralcapital/posts/毎年行っているスタートアップの資金調達相場レポートjapan-startup-deal-termsの最新版を公開しました-近年調達額は広く報じられるようになった/733976687395494/",
+    "https://www.facebook.com/himuka.am/posts/第三者割当増資シリーズbによる資金調達についてプレスリリースを掲載いたしました/942569496380718/",
+    "https://www.facebook.com/farmnote/photos/ファームノートhdプレスリリースのお知らせ本日2023年5月から2024年2月にかけてグループ全体で総額84億円の資金調達を実施したことを発表しますオハヨー乳業/967809838683562/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AM材料スタートアップの資金調達ニュース（2023〜2026） note 社長",
+   "results": [
+    "https://deeptech.nextblue.com/blog/monthly-funding-202608-materials",
+    "https://seisan-navi.com/20260324-am-hydra6400/",
+    "https://note.com/novusearch/n/naf3cf850cfe6",
+    "https://techblitz.com/report/chemicals-and-materials-tech-top-business-models-by-tracxn/",
+    "https://note.com/handotai14/n/necaaabf084af",
+    "https://www.startup-il.com/",
+    "https://techblitz.com/report/material-50/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AM材料スタートアップの資金調達ニュース（2023〜2026） X 投稿",
+   "results": [
+    "https://deeptech.nextblue.com/blog/monthly-funding-202608-materials",
+    "https://seisan-navi.com/20260324-am-hydra6400/",
+    "https://x.com/sogyotecho/status/1811286813031780680",
+    "https://x.com/SU_NEWS_JP",
+    "https://www.startup-il.com/",
+    "https://ipo-roadmap.jp/news/",
+    "https://www.nikkei.com/topics/24111301"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive manufacturing materials startup funding round 2025 2026 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/am-ventures-management-gmbh_additivemanufacturing-startupfunding-3dprinting-activity-7465396855695327232-n662",
+    "https://www.linkedin.com/posts/ttranpham_am-startup-funding-rebounds-after-the-activity-7475126902400106497-tF9J",
+    "https://hk.linkedin.com/posts/david-hartmann-725a2b16_helio-additive-to-bring-3d-printing-slicing-activity-6914833352684445696-9O2R",
+    "https://news.linkedin.com/2026/top-startups-2026",
+    "https://lu.linkedin.com/company/am-4-am",
+    "https://uk.linkedin.com/in/mike-coto",
+    "https://in.linkedin.com/in/aarzu-malhotra"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

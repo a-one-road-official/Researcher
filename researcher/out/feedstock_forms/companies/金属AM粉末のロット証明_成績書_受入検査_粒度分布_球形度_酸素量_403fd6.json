@@ -1,0 +1,1032 @@
+{
+ "name": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量）",
+ "en": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen",
+ "aliases": [
+  "金属粉末 ミルシート 粒度分布",
+  "AM粉末 成績書 酸素量",
+  "粉末 ロット トレーサビリティ"
+ ],
+ "context": "粉末・品質",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:09:58.298047+00:00",
+ "evidence": {
+  "安全・規制・保管": [
+   {
+    "quote": "Packaging under inert atmosphere with a moisture barrier",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "for reactive or moisture-sensitive alloys, and a current safety data sheet (SDS) shipped with every order.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": ", is the primary US consensus standard covering the storage, handling, processing, and fire protection requirements for combustible metal powders, and includes provisions addressing additive manufacturing operations specifically.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "does not have a single dedicated combustible-dust standard, but enforces combustible-dust hazards under the General Duty Clause (Section 5(a)(1) of the OSH Act) and has run a national emphasis program directing inspectors to industries handling combustible dust, which explicitly includes metal powder processing.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "should use vacuum equipment specifically rated for combustible dust collection, not a shop vacuum, and spilled powder should be treated as a hazard requiring a documented cleanup procedure rather than a quick sweep.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "for powder handling typically includes flame-resistant clothing, antistatic footwear, and respiratory protection appropriate to the specific alloy’s exposure limits — check the SDS for the specific product, since exposure limits and reactivity vary by alloy.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Anyone specifying a facility’s powder-handling procedure should treat the supplier’s SDS and NFPA 484 as the two baseline reference documents, and should not assume that a procedure validated for one alloy (say, 316L stainless) is automatically safe for a more reactive one (say, aluminum or titanium) without a fresh hazard review.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Is packaging appropriate to the alloy’s reactivity (inert atmosphere, moisture barrier), and is a current SDS included?",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Is metal powder for 3D printing hazardous to store?",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Many metal AM powders, especially titanium, aluminum, and magnesium alloys, are combustible dusts and require storage and handling controls consistent with NFPA 484 and the product’s SDS — ignition-source control, appropriate ventilation, and grounding/bonding of handling equipment are standard baseline controls, not optional extras.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Safety data sheet (SDS)",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Hazards, storage, handling and transport information for the material.",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Inert gas fusion: the sample melts in a graphite crucible under helium; oxygen is measured as CO and CO₂ by infrared, nitrogen and hydrogen typically by thermal conductivity.",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "VIGA (Vacuum Induction Inert Gas Atomization) Equipment",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Large powder expertise and broad industrial reach",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "Each process has different tolerances for particle size distribution, flowability, and powder chemistry, which is why “metal powder” is never a single specification — the correct powder is defined by the combination of alloy, process, and machine OEM’s qualified parameter set.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Particle size distribution (PSD) is one of the most consequential specifications in an AM powder purchase because it directly governs layer spreadability, packing density, and surface finish. As a general rule (exact cutoffs vary by machine OEM and should always be confirmed against the specific printer’s qualified parameter set):",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "can tolerate or require a coarser distribution, commonly in the roughly 45–150 micron range, since the powder is fed through a nozzle rather than spread as a thin bed layer.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "A certificate of analysis (CoA)",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "for the specific lot, reporting chemical composition against the governing alloy/process specification (for example, the ASTM F30xx and F31xx series of standards that define chemistry and property requirements for specific alloy-and-process combinations used in AM).",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "A particle size distribution report",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "(D10/D50/D90, method used) for the specific lot, not a generic product datasheet.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "— SEM imagery or a stated sphericity/satellite-content assessment, since irregular morphology or high satellite content degrades flowability even when PSD numbers look acceptable.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Lot traceability back to the atomization run",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": ", including whether the lot is virgin powder or contains reclaimed/recycled material, and if so, what fraction and how many prior thermal cycles it has seen.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "where relevant to the application — ISO 9001 at minimum, AS9100 for aerospace-bound material, or ISO 13485 for implant-grade material — and, for powder reuse and requalification testing methodology specifically, familiarity with",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "None of this documentation guarantees a good print outcome on its own — it establishes that the powder you received is the powder you specified, which is the baseline a procurement or quality function needs before a materials engineer even begins process qualification.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "for powder handling typically includes flame-resistant clothing, antistatic footwear, and respiratory protection appropriate to the specific alloy’s exposure limits — check the SDS for the specific product, since exposure limits and reactivity vary by alloy.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Reactive alloys, titanium in particular, tend to accumulate oxygen with each thermal exposure and reuse cycle, and oxygen content should be re-verified periodically rather than assumed stable.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Particle size distribution drift.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Powder Quality | COA, PSD, Traceability and Packaging",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Layout of a lot certificate, values redacted. Your quotation lists the fields agreed for your order.",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Certificate of analysis (COA)",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Lot number, chemistry including interstitials, particle size, flow and density as agreed.",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Laser particle-size analysis, powder-image analysis, sphericity review, and optical microscopy",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Which test method and conditioning state correlate with the buyer’s feed and recoating system?",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Can each result be traced to the proposed producer, route, lot, sample, document, and delivered container?",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Traceability and packaging",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "One lot, one certificate",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "The lot number on the COA matches the label on every pack and the packing list.",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Aluminium-foil bags for small quantities, 1 kg sealed packs as the standard minimum, drums for production lots.",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Powder conformity supports incoming acceptance. Qualification of printed parts remains with the part manufacturer.",
+    "url": "https://metal3dpowder.com/quality/",
+    "pass": 3
+   },
+   {
+    "quote": "Best for medical and food-contact environments: 316L with strict powder traceability",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Best for high-volume industrial sourcing: suppliers with U.S. warehousing and lot certification",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "This comparison matters because many U.S. buyers start with 316L or 17-4 PH, then shift to more specialized grades only after their production economics and qualification path are clear. For instance, 316L remains dominant in regulated or corrosive environments, while 17-4 PH is often the default when functional strength is the primary target.",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Certified lot chemistry by standard",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Failed qualification or poor service life",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "COA and third-party lab review",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Particle size distribution",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Stable PSD matched to machine recipe",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports flowability and recoating",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Property drift between lots",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Repeatable lot-to-lot values",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Recoater issues and inconsistent packing",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Traceability and packaging",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Sealed, labeled, lot-traceable packaging",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "This table shows why price alone is not a useful sourcing metric. The cost of failed builds, requalification, machine downtime, or rejected parts often outweighs small savings per kilogram. In the United States, buyers in aerospace, medical, and contract manufacturing increasingly use total-cost-of-ownership thinking instead of unit-price-only decisions.",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "Each process has different tolerances for particle size distribution, flowability, and powder chemistry, which is why “metal powder” is never a single specification — the correct powder is defined by the combination of alloy, process, and machine OEM’s qualified parameter set.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Particle size distribution (PSD) is one of the most consequential specifications in an AM powder purchase because it directly governs layer spreadability, packing density, and surface finish. As a general rule (exact cutoffs vary by machine OEM and should always be confirmed against the specific printer’s qualified parameter set):",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Does the quoted particle size distribution match your machine OEM’s qualified range for that alloy and process?",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "PBF-LB/M generally uses a finer distribution, commonly in the roughly 15–45 micron range, while DED typically uses a coarser distribution, commonly in the roughly 45–150 micron range — always confirm against your specific machine OEM’s qualified parameter set rather than treating these as fixed cutoffs.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "Each process has different tolerances for particle size distribution, flowability, and powder chemistry, which is why “metal powder” is never a single specification — the correct powder is defined by the combination of alloy, process, and machine OEM’s qualified parameter set.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Particle size distribution (PSD) is one of the most consequential specifications in an AM powder purchase because it directly governs layer spreadability, packing density, and surface finish. As a general rule (exact cutoffs vary by machine OEM and should always be confirmed against the specific printer’s qualified parameter set):",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "PBF-LB/M generally uses a finer distribution, commonly in the roughly 15–45 micron range, while DED typically uses a coarser distribution, commonly in the roughly 45–150 micron range — always confirm against your specific machine OEM’s qualified parameter set rather than treating these as fixed cutoffs.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Best value route: compare U.S. suppliers with qualified international powder makers that provide local-style technical support and documentation",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Verify machine parameter maturity before scale-up",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine-material parameter alignment",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "United States through export, technical support, and project cooperation",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   },
+   {
+    "quote": "Application and parameter guidance",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "This guide covers the alloy systems in common use, how particle size and powder characterization drive process selection, the standards a supplier should be able to certify against, what to ask for in a procurement evaluation, combustible-dust handling safety, and powder reuse practices — the recurring cost driver in any metal AM operation.",
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "A medical device manufacturer in Minneapolis may choose 316L powder for custom instrument components that require excellent cleanability, corrosion resistance, and lot traceability. In that case, the winning supplier is often the one that can provide stable chemistry, validated PSD, and paperwork suited to internal quality audits rather than simply the lowest per-kilogram price.",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "MET3DP Technology Co., LTD is a leading provider of additive manufacturing solutions headquartered in Qingdao, China. Our company specializes in 3D printing equipment and high-performance metal powders for industrial applications.",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "The explanation behind this table is simple: powder cost is only one line item. U.S. buyers who ignore machine compatibility, reusability, qualification burden, and support often spend more overall, even if the purchase order looks cheaper at first. The best sourcing outcome usually comes from stable print performance and low operational friction.",
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/smart/news/9427473",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lpwj.co.jp/powder-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/particle-size-distribution-202407251/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpro.jp/metal_powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lantu3d.cn/ja/news/metal-powder-characterization-incoming-inspection-ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/06/03/am%EF%BC%88%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%EF%BC%89%E7%94%A8%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86%E2%94%80%E2%94%80%E7%B2%92%E5%BA%A6%E3%83%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linbraze.com/ja/tsukaka-seizou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mt.com/ch/ja/home/products/Laboratory_Analytics_Browse.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/materials-for-metal-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ti64.url.tw/ja/knowledge/powder/how-to-read-tds-and-coa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpro.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lpwj.co.jp/powder-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meposo.com/ja/ji-ceng-zao-xingniokeru-jin-shu-fen-mo-ji-huito-zhi-yue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kinzoku2/n/na17ff92bc4fe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_1284/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1052/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/product/sds/images/pdf/pdf_sds_powder_a1_2_2019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/sds/W01W0103-0359JGHEJP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mt.com/hk/zh/home/library/certificates/laboratory-weighing/55624.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jampt.jp/service/am-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proterial.com/products/3d_printer/admuster.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2408/07/news001_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/atomizing-metal-powder-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vJbIgO_RSpdt66iMYsaAD6YBtFMcMyQ7qj6RdIWKmmiVxRZQ9_h",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metal3dpowder.com/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/metal-powders-for-3d-printing-manufacturing-processes-and-properties/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualloy.com/blog/understanding-metal-powders-in-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labtesting.com/services/additive-manufacturing-testing/metal-powder-characterization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vJESeGbfema9FWUVsD4cFpuxdRQlSbXMiGC0yzTBLKoikGKjs1I",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insidemetaladditivemanufacturing.com/2025/10/07/pro-lpbf-powder-tracking-traceability-and-reuse-made-simple/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） 市場規模 CAGR",
+   "results": [
+    "https://newscast.jp/smart/news/9427473",
+    "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "https://jampt.jp/service/am-material/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://tasuichi.jp/2026/06/03/am（金属3dプリント）用粉末の品質管理──粒度・/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） 価格",
+   "results": [
+    "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://www.lpwj.co.jp/powder-analysis.html",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://jampt.jp/equipment/other/",
+    "https://am-printing.com/ja/particle-size-distribution-202407251/",
+    "https://www.3dpro.jp/metal_powder/",
+    "https://www.lantu3d.cn/ja/news/metal-powder-characterization-incoming-inspection-ja",
+    "https://tasuichi.jp/2026/06/03/am（金属3dプリント）用粉末の品質管理──粒度・/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） 主要メーカー 一覧",
+   "results": [
+    "https://www.linbraze.com/ja/tsukaka-seizou/",
+    "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://www.mt.com/ch/ja/home/products/Laboratory_Analytics_Browse.html",
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "https://jampt.jp/equipment/other/",
+    "https://www.3dpro.jp/metal_powder/",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/materials-for-metal-3d-printers",
+    "https://www.lantu3d.cn/ja/news/metal-powder-characterization-incoming-inspection-ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） 代理店 日本",
+   "results": [
+    "https://www.linbraze.com/ja/tsukaka-seizou/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://jampt.jp/equipment/other/",
+    "https://www.3dpro.jp/",
+    "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://www.lpwj.co.jp/powder-analysis.html",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://tasuichi.jp/2026/06/03/am（金属3dプリント）用粉末の品質管理──粒度・/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） 規制 保管 危険物",
+   "results": [
+    "https://www.nttdata-xam.com/blog/development/article_1284/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1052/",
+    "https://www.sanyo-steel.co.jp/product/sds/images/pdf/pdf_sds_powder_a1_2_2019.pdf",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://labchem-wako.fujifilm.com/sds/W01W0103-0359JGHEJP.pdf",
+    "https://am-printing.com/ja/particle-size-distribution-202407251/",
+    "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "https://www.mt.com/hk/zh/home/library/certificates/laboratory-weighing/55624.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） 純正 指定材料 互換",
+   "results": [
+    "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://jampt.jp/service/am-material/",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/materials-for-metal-3d-printers",
+    "https://www.proterial.com/products/3d_printer/admuster.html",
+    "https://am-printing.com/ja/particle-size-distribution-202407251/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.mt.com/hk/zh/home/library/certificates/laboratory-weighing/55624.html",
+    "https://tasuichi.jp/2026/06/03/am（金属3dプリント）用粉末の品質管理──粒度・/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen market size CAGR",
+   "results": [
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://www.mordorintelligence.com/industry-reports/atomizing-metal-powder-market",
+    "https://market.us/report/powder-metallurgy-market/",
+    "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://additiveplus.com/what-is-metal-powder-atomization-how-psd-and-morphology-affect-your-lpbf-builds/?srsltid=AYCX9vKQJvIZ6SW_u3z6ceMX-SjDqJFFR5v9TR0nIpuXksgTqM6U0LoG",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen price per kg",
+   "results": [
+    "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vJbIgO_RSpdt66iMYsaAD6YBtFMcMyQ7qj6RdIWKmmiVxRZQ9_h",
+    "https://metal3dpowder.com/quality/",
+    "https://www.metal-am.com/articles/metal-powders-for-3d-printing-manufacturing-processes-and-properties/",
+    "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "https://qualloy.com/blog/understanding-metal-powders-in-additive-manufacturing",
+    "https://labtesting.com/services/additive-manufacturing-testing/metal-powder-characterization/",
+    "https://www.eos.info/metal-solutions/metal-materials",
+    "https://www.processsensing.com/en-us/blog/oxygen-measurement-vital-for-additive-manufacturing.htm",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen key players",
+   "results": [
+    "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vJESeGbfema9FWUVsD4cFpuxdRQlSbXMiGC0yzTBLKoikGKjs1I",
+    "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "https://insidemetaladditivemanufacturing.com/2025/10/07/pro-lpbf-powder-tracking-traceability-and-reuse-made-simple/",
+    "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "https://www.amazemet.com/additive-manufacturing-workflow/",
+    "https://metal3dpowder.com/quality/",
+    "https://www.continuumpowders.com/side-matters-choosing-the-right-psd-for-am-applications/",
+    "https://www.metal-am.com/articles/understanding-metal-powder-requirements-for-additive-manufacturing-views-from-the-industry/",
+    "https://imrtest.com/evaluating-4-key-characteristics-critical-in-the-reuse-of-am-powder/",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen distributor Japan",
+   "results": [
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vKrLAvnM-wSQUiDeh5ySj-0TQlQaBgFBSHJEJr-b9woGqOwPhGH",
+    "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "https://metal3dpowder.com/quality/",
+    "https://www.metal-am.com/articles/understanding-metal-powder-requirements-for-additive-manufacturing-views-from-the-industry/",
+    "https://www.amazemet.com/additive-manufacturing-workflow/",
+    "https://www.cnpcpowder.com/news/146.html",
+    "https://imrtest.com/evaluating-4-key-characteristics-critical-in-the-reuse-of-am-powder/",
+    "https://labtesting.com/services/additive-manufacturing-testing/metal-powder-characterization/",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen safety storage regulation",
+   "results": [
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vIxmQ4suYq_3sHrgrrVLFE-JklAASk76gyE97R7mm0pY2aHZwRS",
+    "https://www.amazemet.com/additive-manufacturing-workflow/",
+    "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "https://metal3dpowder.com/quality/",
+    "https://www.processsensing.com/en-us/blog/understanding-safety-challenge-metal-am.htm",
+    "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "https://www.metal-am.com/articles/understanding-metal-powder-requirements-for-additive-manufacturing-views-from-the-industry/",
+    "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen closed system open material third-party",
+   "results": [
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://additiveplus.com/discover-the-latest-advancements-in-material-quality-control-for-additive-manufacturing/?srsltid=AYCX9vKZUzJSxX3EaE3oOBAh82UIFRMLiovXaKKMn9ApLmhhllASCTp_",
+    "https://link.springer.com/article/10.1007/s40964-023-00484-x",
+    "https://www.continuumpowders.com/how-metal-powders-are-characterized-for-additive-manufacturing/",
+    "https://www.metal-am.com/articles/understanding-metal-powder-requirements-for-additive-manufacturing-views-from-the-industry/",
+    "https://qualloy.com/blog/understanding-metal-powders-in-additive-manufacturing",
+    "https://www.amazemet.com/additive-manufacturing-workflow/",
+    "https://www.scribd.com/document/720316116/Metal-Additive-Manufacturing-Supply-Chain-Powder-Production-and-Materials-Life-Cycle-Management",
+    "https://insidemetaladditivemanufacturing.com/2025/10/07/pro-lpbf-powder-tracking-traceability-and-reuse-made-simple/",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen commodity price competition",
+   "results": [
+    "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vJJvLfuei7uDlngUEix4Zh-0crZ7uY7WIGbD1Y5Tqy4e3wNzeJG",
+    "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "https://metal3dpowder.com/quality/",
+    "https://www.metal-am.com/articles/metal-powders-for-3d-printing-manufacturing-processes-and-properties/",
+    "https://www.continuumpowders.com/side-matters-choosing-the-right-psd-for-am-applications/",
+    "https://insidemetaladditivemanufacturing.com/2025/10/07/pro-lpbf-powder-tracking-traceability-and-reuse-made-simple/",
+    "https://qualloy.com/blog/understanding-metal-powders-in-additive-manufacturing",
+    "https://www.amazemet.com/additive-manufacturing-workflow/",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen technical support parameters",
+   "results": [
+    "https://additiveplus.com/metal-powder-characterization/?srsltid=AYCX9vLDfDqI6gUTynPlOfljKeJnT40XRyTcgumQvq6M8JcBbcHx1BCz",
+    "https://www.continuumpowders.com/side-matters-choosing-the-right-psd-for-am-applications/",
+    "https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/",
+    "https://www.meposo.com/en/metal-powders-in-additive-manufacturing-opportunities-and-limits/",
+    "https://www.amazemet.com/additive-manufacturing-workflow/",
+    "https://www.metal-am.com/articles/metal-powders-for-3d-printing-manufacturing-processes-and-properties/",
+    "https://imrtest.com/evaluating-4-key-characteristics-critical-in-the-reuse-of-am-powder/",
+    "https://metal3dpowder.com/quality/",
+    "https://www.eos.info/metal-solutions/metal-materials",
+    "https://metal3dpowder.com/posts/Alloys/metal-powder-specification-guide-psd-oxygen-flowability/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量）",
+   "results": [
+    "https://note.com/hiro_forge_mfg/n/n484831f2aa02",
+    "https://note.com/akarisona123/n/n4ce3abd90217",
+    "https://note.com/anomaly_inc/n/nbcc9f9d2c971",
+    "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "https://note.com/kinzoku2/n/na17ff92bc4fe",
+    "https://note.com/hiro_forge_mfg/n/nf3a45235efe4",
+    "https://note.com/hiro_forge_mfg/n/n9cdde374daa0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量）",
+   "results": [
+    "https://x.com/kigyoka_mezase/status/2108860090866626961",
+    "https://x.com/sakamoto_desk/status/2106889348444737684",
+    "https://x.com/jinbaflow_JP/status/2091830374586519828",
+    "https://x.com/mizu_quality/status/2116295717711233235",
+    "https://x.com/sakamoto_desk/status/2104183932703154388",
+    "https://x.com/Ton_beri/status/2116889955062694388",
+    "https://x.com/i/status/1800378607073997152"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量）",
+   "results": [
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://www.linkedin.com/posts/由美子-猪野-0702b6282_ミルシートとは基礎知識や内容と材料証明書検査成績書との違い-open-insight-activity-7161294101299027968-irwz",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b",
+    "https://www.linkedin.com/posts/三菱商事テクノス　東京カスタマー・エクスペリエンス・センター_additivemanufacturing-am-金属積層造形-activity-7444625820213534720-YkQ4",
+    "https://jp.linkedin.com/posts/additive-manufacturing-center-of-excellence_日本で新たなamトレーニング機会-日本の金属積層造形am分野の最前線で活躍-activity-7402119463753441280-qrof",
+    "https://jp.linkedin.com/posts/nippon-sanso_次世代のモノづくりを支える-金属amソリューション3dpro-our-technology-activity-7231480066877067265-aoLC",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_2023年9月6日に第３回目の金属amに関するウェビナーを実施することになりました-activity-7081933319004717056-vv8l"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量）",
+   "results": [
+    "https://www.facebook.com/benkankikoh/photos/ベンカン機工ではお客様のご要求に応じて製品と共に成績書test-reportを提出しております成績書は大きく分けて２種類ございます１jis-b-2311用の検査/1750191881831103/",
+    "https://www.facebook.com/nikkankogyo.zasshi/photos/型技術2024年1月号が本日発売今月の特集は公設試が開発する金属am技術最前線ですモノづくりにおける金属積層造形am技術については中小製造業を支援する各地の公設/801381675333964/",
+    "https://www.facebook.com/horiba.jp/photos/無料オンラインセミナー材料の基本単位である粒子の測定で最も多く用いられているレーザ回折散乱式粒度分布測定装置にフォーカスした内容でお送りする60分基礎から測定事/818833906935140/",
+    "https://www.facebook.com/mazak.jp/posts/金属積層造形am技術をご存知ですか削る型に流す工法とは異なり必要な箇所に必要な量だけ材料を積層従来工法では困難だった3d形状加工を可能にします部品の一体化や摩耗/1608705891258807/",
+    "https://www.facebook.com/benkankikoh/posts/ベンカン機工ではお客様のご要求に応じて管継手製品と共に成績書test-reportを提出しております成績書は大きく分けて２種類ございます１jis-b-2311用/1961154560734833/",
+    "https://www.facebook.com/jsdmt/posts/第１３９回型技術セミナー-開催のご案内-ダイカスト金型部品の表面処理評価結果-および金型積層金属の品質評価に関わる最新技術-自動車エンジン生産用ダイカスト金型の/3866541660033166/",
+    "https://www.facebook.com/DMGMORI.CO/videos/動画のご紹介-アディティブマニュファクチャリング/382077859595918/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） note 社長",
+   "results": [
+    "https://met3dp.com/ja/additive-manufacturing-metal-powder-an-overview/",
+    "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "https://am-printing.com/ja/particle-size-distribution/",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://jampt.jp/service/am-material/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://www.mt.com/content/jp/ja/home/applications/Laboratory_weighing/trace-metal-analysis.html",
+    "https://www.an.shimadzu.co.jp/sites/an.shimadzu.co.jp/files/pim/pim_document_file/an_jp/applications/application_note/19652/an_q127.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量） X 投稿",
+   "results": [
+    "https://www.linbraze.com/ja/tsukaka-seizou/",
+    "https://www.nttdata-xam.com/blog/development/article_4983/",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.malvernpanalytical.com/jp/industries/metals/metal-powders",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://jampt.jp/equipment/other/",
+    "https://blog.met3dp.com/ja/blog/how-to-evaluate-metal-powder-for-3d-printing-flowability-complete-guide-solutions-for-2025/",
+    "https://www.an.shimadzu.co.jp/sites/an.shimadzu.co.jp/files/pim/pim_document_file/an_jp/applications/application_note/19652/an_q127.pdf",
+    "https://www.mt.com/content/jp/ja/home/applications/Laboratory_weighing/trace-metal-analysis.html",
+    "https://tasuichi.jp/2026/06/03/am（金属3dプリント）用粉末の品質管理──粒度・/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder certificate of analysis lot traceability PSD sphericity oxygen site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/roselle-barretto",
+    "https://at.linkedin.com/in/julian-scharf-257a8238b",
+    "https://www.linkedin.com/posts/stamod-technologies_your-metal-am-build-can-pass-a-powder-sieve-activity-7523972775405871104-Cwvv",
+    "https://www.linkedin.com/posts/weihaomagnesiumpowder_additivemanufacturing-ammaterials-magnesiumpowder-activity-7424986797740437504-s0XC",
+    "https://ee.linkedin.com/company/equispheres",
+    "https://www.linkedin.com/posts/progold_ultrasonic-atomization-of-precious-metals-activity-7402667826659971072-lgrr",
+    "https://www.linkedin.com/posts/metalurgical-engineering_additivemanufacturing-activity-7438229393358983170-2yd0",
+    "https://www.linkedin.com/pulse/mapping-metal-powder-characterization-additive-l-pbf-ghadimi-ph-d--v91se/",
+    "https://www.linkedin.com/posts/peter-paier-7194b7234_metal-powder-quality-certificate-besides-activity-7434845145608519680-NHlB"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "装置縛り・オープン材料": "記載なし（読んだ45頁・検索21回）",
+  "日本": "記載なし（読んだ45頁・検索21回）"
+ }
+}

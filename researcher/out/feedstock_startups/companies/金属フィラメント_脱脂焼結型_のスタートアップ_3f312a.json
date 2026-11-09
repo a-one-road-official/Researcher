@@ -1,0 +1,803 @@
+{
+ "name": "金属フィラメント（脱脂焼結型）のスタートアップ",
+ "en": "metal filament sinterable startup bound metal",
+ "aliases": [
+  "Metallfilament Start-up",
+  "filament métallique frittable start-up",
+  "金属线材 3D打印 初创"
+ ],
+ "context": "フィラメント・金属",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:09:51.112162+00:00",
+ "evidence": {
+  "代理店募集・売り方": [
+   {
+    "quote": "Wholesale Filament for Resellers",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "There is no consumer metal 3D printer. There are ordinary FDM machines qualified to run an abrasive, highly filled polymer, and there is a second route where the printed part is not metal until a furnace has finished with it. A hardware qualification guide, with a checklist you can run against your own printer.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": "Standard FDM + hardened nozzle",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard FDM + hardened nozzle + sintering kiln",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Brass nozzles last hundreds of hours printing standard PLA. Switch to a metal-filled composite and a standard brass nozzle, too soft for the abrasive powder, wears down quickly (Simplify3D, 2025). The abrasive powder particles grind through soft brass rapidly, and the dimensional change ruins print quality well before the nozzle fails completely.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Print speeds sit at 20-40 mm/s for most composites, roughly half of standard PLA speeds (Simplify3D, 2025). The extra mass means the extruder motor works harder to maintain consistent flow, and pushing faster introduces under-extrusion artifacts.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "A standard brass nozzle is too soft for metal-filled filament and wears down quickly, while a wear-resistant hardened steel nozzle reduces the wear significantly (Simplify3D, 2025). For print farms, one hardened nozzle that lasts through many spools beats a string of brass replacements.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "For buyers weighing metal filament against traditional manufacturing methods, the next step after sourcing is understanding where this material class fits in the broader cost and application picture. The FAQ section below addresses the most common technical and commercial questions we hear from procurement teams.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "A hardened steel or ruby-tipped nozzle is mandatory. Brass nozzles wear down within hours because metal powder particles are highly abrasive. Use 0.5-0.6 mm bore diameter rather than the standard 0.4 mm to reduce clogging from metal particle bridging inside the nozzle orifice.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard FDM ventilation is sufficient for printing. Metal powder particles are polymer-bound during extrusion, so they don’t become airborne. Wear a dust mask when sanding finished prints, since fine metal particles can irritate lungs. If you’re sintering parts, a properly ventilated kiln with exhaust is required for the debinding stage.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal-filled filament contains real metal powder, making parts noticeably heavier and capable of being polished or patinated to a genuine metal finish. Metallic or silk filament uses only coloring additives to mimic a shiny appearance. It weighs the same as standard PLA and cannot be polished to reveal actual metal underneath.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "The density of PLA is about 1.24 g/cm3, but the answer buyers need spans grade-level variation, variant densities from foaming LW-PLA to metal-fill, the ASTM D792 and ISO 1183 measurement standards, and the math that turns density into spool length, part weight, and per-part cost.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "The global metal 3D printing market reached $1.19 billion in 2025 and is projected to hit $3.62 billion by 2030, a 25% compound annual growth rate (MarketsandMarkets, 2025). Desktop metal filament sits at the lowest cost entry point into that expanding market, and its application range is wider than most buyers realize.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$0.50-2",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$15-30",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$50-150",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$150-500",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$10-50",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$50-200",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$20-50",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "$50-100",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Prices vary by alloy, metal content and brand, so compare current per-kilogram listings. Even at the high end, sinterable filament remains 60-90% cheaper per part than direct metal laser sintering (DMLS) powder.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "for sample programs, volume pricing, and OEM consultation.",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Bulk PLA Filament: The 2026 B2B Sourcing Guide With MOQ, Pricing, and Quality Benchmarks",
+    "url": "https://sigmafilament.com/metal-filament/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://sigmafilament.com/metal-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forum.prusa3d.com/forum/filament-materials-and-techniques/has-anyone-printed-bound-powder-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1p1aaaw/formnext_bambu_lab_metal_filament_90_steel_10/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/the-virtual-foundry-and-fffmetal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://filament2print.com/en/237-sinterable",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dbite.com/metal-3d-printing-filament-explained-composite-sinterable/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/video-projecttube-90-percent-metal-filament-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forum.bambulab.com/t/anyone-tried-ultrafuse-or-virtual-foundry-metal-filament-with-x1/4651",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/video-virtual-foundry-metal-filament-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.dealroom.co/news/note/thinkmetal-raises-2-84m-to-scale-indigenous-metal-3d-printing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wevolver.com/article/breaking-down-production-barriers-with-scalable-affordable-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-virtual-foundry-partners-with-bambu-lab-on-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/news/2025-09-01-metal-seed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/metal/funding-rounds/seed-2025-09",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vLoMxU0QzoPeKFe5JMl-nprh4c_8fjPvJlxNeLAwrzYx1MBvK2L",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/video-3d-print-metal-easy-way/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/BambuLab/comments/11xtxnp/has_anyone_printed_metal_filament/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.a3dmfg.com/services/3d-printing/metal-fff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigmafilament.com/metal-3d-printer-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/videos/metal-3d-printer-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-complete-guide-to-binder-based-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/collections/metal-filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/desktop-metal/?srsltid=AYCX9vIzpmsufsxhe-TZH7MljttuDs6FiXbusf7L6ehSKGcZSvWv-IOe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.metal-am.com/articles/thinking-about-metal-binder-jetting-or-fff-here-is-almost-everything-you-need-to-know-about-sintering/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/binder-jetting-and-beyond-insights-from-fraunhofer-ifams-second-workshop-on-sinter-based-3d-printing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/desktop-metal-launches-puresinter-sintering-furnace-for-additive-manufacturing-mim-and-pm/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/simufact-additive-accelerating-the-metal-binder-jetting-workflow-with-sintering-simulation/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/planning-a-debinding-and-sintering-facility-for-volume-3d-printing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/binder-jet-metal-3d-printing-process-chain-considerations/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/metal-filled-filament-will-let-you-produce-full-metal-3d-printed-objects-46401",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/virtual-foundrys-alternative-costly-metal-systems-open-safe-priced-compete-131159/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/3d-printed-metal-parts-from-a-microwave-virtual-foundry-unveils-new-method-216199/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/zortrax-unveils-full-metal-packages-and-victrex-paek-am-200-fil-219497/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/the-virtual-foundry-filament-for-3d-printing-metal-on-an-fdm-system-140705",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/3d-print-metal-on-a-sample-scale-with-the-virtual-foundrys-filamet-evaluation-kit-215443/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/reinforcing-the-foundations-for-the-next-decade-of-growth-in-metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nanoe-launches-high-permittivity-zetamix-tio%E2%82%82-ceramic-filament-for-rf-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3dstartup-fluent-metal-020720244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/startup3d-addimetal-060520253/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/startup3d-matterwave-uses-mechanical-waves-to-tame-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/de/fluent-metal-ist-unser-startup-des-jahres-2024-070120251/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3dstartup-addimetal-repeatable-reliable-metal-binder-jetting-060520255/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/everything-you-need-to-know-about-cold-metal-fusion-260220245/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "metal filament sinterable startup bound metal",
+   "results": [
+    "https://sigmafilament.com/metal-filament/",
+    "https://forum.prusa3d.com/forum/filament-materials-and-techniques/has-anyone-printed-bound-powder-filament/",
+    "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "https://www.reddit.com/r/3Dprinting/comments/1p1aaaw/formnext_bambu_lab_metal_filament_90_steel_10/",
+    "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "https://www.matterhackers.com/store/l/the-virtual-foundry-filamet-titanium-64-5-025kg/sk/MMSP6FMS?srsltid=AYCX9vKhpt3QP6FxrebtrGo6wtBB8Cnu3bZLbP07h65WutOPbRUUXAZm",
+    "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vJRti0Ec9e0xNY-8g6vEMdp7YcPj8xrKy2VPfYhZ5Pv9nGydWhs",
+    "https://www.youtube.com/watch?v=LWZfhLW8eM8"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal filament sinterable startup bound metal founded 2021 OR 2022 OR 2023 OR 2024",
+   "results": [
+    "https://sigmafilament.com/metal-filament/",
+    "https://thevirtualfoundry.com/the-virtual-foundry-and-fffmetal/",
+    "https://filament2print.com/en/237-sinterable",
+    "https://www.reddit.com/r/3Dprinting/comments/1p1aaaw/formnext_bambu_lab_metal_filament_90_steel_10/",
+    "https://3dbite.com/metal-3d-printing-filament-explained-composite-sinterable/",
+    "https://thevirtualfoundry.com/video-projecttube-90-percent-metal-filament-review/",
+    "https://www.youtube.com/watch?v=qbwaRriBxJM",
+    "https://forum.bambulab.com/t/anyone-tried-ultrafuse-or-virtual-foundry-metal-filament-with-x1/4651",
+    "https://thevirtualfoundry.com/video-virtual-foundry-metal-filament-review/",
+    "https://forum.prusa3d.com/forum/filament-materials-and-techniques/has-anyone-printed-bound-powder-filament/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament sinterable startup bound metal raises seed Series A",
+   "results": [
+    "https://thevirtualfoundry.com/the-virtual-foundry-and-fffmetal/",
+    "https://app.dealroom.co/news/note/thinkmetal-raises-2-84m-to-scale-indigenous-metal-3d-printing",
+    "https://sigmafilament.com/metal-filament/",
+    "https://filament2print.com/en/237-sinterable",
+    "https://3dbite.com/metal-3d-printing-filament-explained-composite-sinterable/",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://www.youtube.com/watch?v=LWZfhLW8eM8",
+    "https://www.wevolver.com/article/breaking-down-production-barriers-with-scalable-affordable-metal-3d-printing",
+    "https://www.voxelmatters.com/the-virtual-foundry-partners-with-bambu-lab-on-metal-3d-printing/",
+    "https://startupintros.com/news/2025-09-01-metal-seed"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament sinterable startup bound metal distributor reseller program",
+   "results": [
+    "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vLoMxU0QzoPeKFe5JMl-nprh4c_8fjPvJlxNeLAwrzYx1MBvK2L",
+    "https://sigmafilament.com/metal-filament/",
+    "https://www.voxelmatters.com/the-virtual-foundry-partners-with-bambu-lab-on-metal-3d-printing/",
+    "https://thevirtualfoundry.com/video-3d-print-metal-easy-way/",
+    "https://www.reddit.com/r/BambuLab/comments/11xtxnp/has_anyone_printed_metal_filament/",
+    "https://www.a3dmfg.com/services/3d-printing/metal-fff",
+    "https://www.youtube.com/watch?v=kVIUNp82jYw",
+    "https://www.wevolver.com/article/breaking-down-production-barriers-with-scalable-affordable-metal-3d-printing",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://thevirtualfoundry.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal filament sinterable startup bound metal Formnext Start-up Area",
+   "results": [
+    "https://www.reddit.com/r/3Dprinting/comments/1p1aaaw/formnext_bambu_lab_metal_filament_90_steel_10/",
+    "https://thevirtualfoundry.com/",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "https://markforged.com/resources/videos/metal-3d-printer-process",
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.youtube.com/watch?v=ri8yn_fFsDw",
+    "https://thevirtualfoundry.com/video-3d-print-metal-easy-way/",
+    "https://www.voxelmatters.com/the-complete-guide-to-binder-based-metal-3d-printing/",
+    "https://www.wevolver.com/article/breaking-down-production-barriers-with-scalable-affordable-metal-3d-printing",
+    "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属フィラメント（脱脂焼結型）のスタートアップ スタートアップ",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "https://idarts.co.jp/3dp/desktop-metal/?srsltid=AYCX9vIzpmsufsxhe-TZH7MljttuDs6FiXbusf7L6ehSKGcZSvWv-IOe",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html",
+    "https://online.solize.com/blog/metal3dp-mechanism",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vKAunpTNnGshgfQXiApoI8z4wXe4NH9fD8TqEm-19op5AN9yZ1o",
+    "https://deskmin.net/2026/08/24/金属フィラメント焼結方法完全ガイド：脱脂方式/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:metal-am.com metal filament sinterable startup bound metal",
+   "results": [
+    "https://www.metal-am.com/articles/thinking-about-metal-binder-jetting-or-fff-here-is-almost-everything-you-need-to-know-about-sintering/",
+    "https://www.metal-am.com/articles/binder-jetting-and-beyond-insights-from-fraunhofer-ifams-second-workshop-on-sinter-based-3d-printing/",
+    "https://www.metal-am.com/desktop-metal-launches-puresinter-sintering-furnace-for-additive-manufacturing-mim-and-pm/",
+    "https://www.metal-am.com/articles/simufact-additive-accelerating-the-metal-binder-jetting-workflow-with-sintering-simulation/",
+    "https://www.metal-am.com/articles/planning-a-debinding-and-sintering-facility-for-volume-3d-printing/",
+    "https://www.metal-am.com/articles/binder-jet-metal-3d-printing-process-chain-considerations/",
+    "https://www.metal-am.com/emery-oleochemicals-and-3dgence-partner-to-provide-sinter-based-material-extrusion-process/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dprintingindustry.com metal filament sinterable startup bound metal",
+   "results": [
+    "https://3dprintingindustry.com/news/metal-filled-filament-will-let-you-produce-full-metal-3d-printed-objects-46401",
+    "https://www.3dprintingindustry.com/news/virtual-foundrys-alternative-costly-metal-systems-open-safe-priced-compete-131159/",
+    "https://www.3dprintingindustry.com/news/3d-printed-metal-parts-from-a-microwave-virtual-foundry-unveils-new-method-216199/",
+    "https://3dprintingindustry.com/news/zortrax-unveils-full-metal-packages-and-victrex-paek-am-200-fil-219497/",
+    "https://3dprintingindustry.com/news/the-virtual-foundry-filament-for-3d-printing-metal-on-an-fdm-system-140705",
+    "https://3dprintingindustry.com/news/3d-print-metal-on-a-sample-scale-with-the-virtual-foundrys-filamet-evaluation-kit-215443/",
+    "https://3dprintingindustry.com/news/affordable-3d-metal-printing-desktop-134578/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:voxelmatters.com metal filament sinterable startup bound metal",
+   "results": [
+    "https://www.voxelmatters.com/the-complete-guide-to-binder-based-metal-3d-printing/",
+    "https://www.voxelmatters.com/reinforcing-the-foundations-for-the-next-decade-of-growth-in-metal-am/",
+    "https://www.voxelmatters.com/nanoe-launches-high-permittivity-zetamix-tio%E2%82%82-ceramic-filament-for-rf-applications/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:3dnatives.com metal filament sinterable startup bound metal",
+   "results": [
+    "https://www.3dnatives.com/en/3dstartup-fluent-metal-020720244/",
+    "https://www.3dnatives.com/startup3d-addimetal-060520253/",
+    "https://www.3dnatives.com/en/startup3d-matterwave-uses-mechanical-waves-to-tame-metal-3d-printing/",
+    "https://www.3dnatives.com/de/fluent-metal-ist-unser-startup-des-jahres-2024-070120251/",
+    "https://www.3dnatives.com/en/3dstartup-addimetal-repeatable-reliable-metal-binder-jetting-060520255/",
+    "https://www.3dnatives.com/en/everything-you-need-to-know-about-cold-metal-fusion-260220245/",
+    "https://www.3dnatives.com/startup3d-fluent-metal-impression-3d-02072024/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3printr.com metal filament sinterable startup bound metal",
+   "results": [
+    "https://www.3printr.com/tag/filamet/",
+    "https://www.3printr.com/tag/metalfab/",
+    "https://www.3printr.com/tag/metalfabg2/",
+    "https://www.3printr.com/tag/3d-metal-printer/",
+    "https://www.3printr.com/tag/start-up/",
+    "https://www.3printr.com/tag/metalfab-1-3d-printer/",
+    "https://www.3printr.com/tag/metal-materials/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com metal filament sinterable startup bound metal",
+   "results": [
+    "https://3druck.com/en/printers-and-products/kare-s1-kickstarter-3d-printer-for-metal-filaments-with-550-degree-hotend-57161226/",
+    "https://3druck.com/en/printers-and-products/metal-1-0-printer-on-kickstarter-lpbf-metal-printing-from-8-500-euro-from-dutch-startup-metal-base-37155343/",
+    "https://3druck.com/drucker-und-produkte/metal-1-0-drucker-auf-kickstarter-lpbf-metalldruck-ab-8-500-euro-vom-niederlaendischen-startup-metal-base-37155343/",
+    "https://3druck.com/nl/printers-en-producten/metaal-1-0-printer-op-kickstarter-lpbf-metaal-printen-vanaf-8-500-euro-van-nederlandse-startup-metal-base-37155343/",
+    "https://3druck.com/en/3d-printing-materials-2/the-virtual-foundry-filament-turns-bambu-lab-3d-printers-into-metal-3d-printers-34142748/",
+    "https://3druck.com/en/3d-printing-materials-2/interview-with-guenther-lange-from-the-tu-ilmenau-metal-filled-filaments-in-3d-printing-opportunities-and-technical-hurdles-17155339/",
+    "https://3druck.com/en/printers-and-products/interview-with-the-laser-institute-mittweida-university-of-applied-sciences-large-format-metal-3d-printing-with-lpbf-xxl-20156172/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dadept.com metal filament sinterable startup bound metal",
+   "results": [
+    "https://3dadept.com/desktop-metal-and-uniformity-labs-develop-sinterable-6061-aluminum-for-binder-jetting-3d-printing/",
+    "https://3dadept.com/nexa3d-enters-metal-3d-printing-segment-thanks-to-headmade-materials/",
+    "https://3dadept.com/here-is-forward-ams-second-metal-filament-for-metal-3d-printing/",
+    "https://3dadept.com/bcn3d-debuts-in-metal-3d-printing-based-on-filaments/",
+    "https://3dadept.com/makerbot-debuts-in-metal-3d-printing-by-adding-ultrafuse-316l-stainless-steel-composite-material-to-its-portfolio/",
+    "https://3dadept.com/titanium-has-now-been-qualified-for-use-on-desktop-metals-extrusion-based-bound-metal-additive-manufacturing-platform/",
+    "https://3dadept.com/divergent-introduces-the-metal-3d-printer-monolith-one-and-announces-a-second-factory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 金属フィラメント（脱脂焼結型）のスタートアップ",
+   "results": [
+    "https://note.com/skhonpo/n/nc1704938f168",
+    "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "https://note.com/mazzo/n/na6ba792d8a49",
+    "https://note.com/takenoko_lab/n/n13a71e8109e5",
+    "https://note.com/kicrea_20251026/n/n058660c47208",
+    "https://note.com/qy_research/n/n29da686bc801",
+    "https://note.com/central_wolf/n/n3a0a27c977bc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属フィラメント（脱脂焼結型）のスタートアップ",
+   "results": [
+    "https://x.com/tonnsoku943/status/2070701583525142648",
+    "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "https://x.com/daiichiceramo/status/1963169073946341651",
+    "https://x.com/APPLE_TREE_CO/status/1222005663884181504",
+    "https://x.com/pizatonkatu/status/2070765730581410200",
+    "https://x.com/hashtag/第一セラモ",
+    "https://x.com/itomaworks/status/2108173997804490806"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属フィラメント（脱脂焼結型）のスタートアップ",
+   "results": [
+    "https://jp.linkedin.com/pulse/積層造形用金属フィラメント市場の市場セグメンテーションと市場シェアに基づく予測2026年から20-7521261055155642368-rgque",
+    "https://ch.linkedin.com/in/alexander-pieper-4526a33b",
+    "https://es.linkedin.com/in/robin-mooldijk",
+    "https://in.linkedin.com/in/pradhum-gopal-parashar-122745372",
+    "https://jp.linkedin.com/pulse/真空焼結脱脂一体炉のメーカー別シェアと動向-re-search-markets-drj3e",
+    "https://www.linkedin.com/posts/3dprinterjp_シェア-james-pitts-basf-ultrafuse-316lフィラメント-activity-7094844738998054914-m6rX",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7100692457704603648/?origin=SHARED_BY_YOUR_PAGES"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属フィラメント（脱脂焼結型）のスタートアップ",
+   "results": [
+    "https://www.facebook.com/flashforge.co.jp/posts/adventurer3xでお使いいただける金属フィラメントの販売と脱脂焼結サービスをリリースしました詳しくは以下のページからご確認くださいhttpsflashf/3152664414781416/",
+    "https://www.facebook.com/3Dprinter.co.jp/videos/️金属フィラメントultrafuse-316l造形プロセス/835633603659015/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/4446463028704018/",
+    "https://www.facebook.com/story.php/?story_fbid=1271278237314940&id=100032983286359",
+    "https://www.facebook.com/UltimakerJP/videos/3420895054879378/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/製品紹介ultrafuse-316l-メタルフィラメントultrafuse-316lは設計の自由度が高くかつ低コストで造形できます3dプリントされたパーツはba/4621824054501247/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/5678699395480369/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属フィラメント（脱脂焼結型）のスタートアップ note 社長",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://note.com/moka_3dpsales/n/nb9ffba5b89d0",
+    "https://www.reddit.com/r/3Dprinting/comments/16bclus/why_havent_any_hobbyists_successfully_built_a/?tl=ja",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://3druck.com/ja/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8%E8%A3%BD%E5%93%81/studio-3e8-mesa-1%EF%BC%9A%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E5%90%91%E3%81%91%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%82%E7%84%BC%E7%B5%90%E7%82%89/",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vI5uOLI8S2UcD7ZnW2uf_rT1l7d87zOa9hzChZnYgaU0JyrxL_x",
+    "https://www.cadjapan.com/topics/feature/leverage_3dprinter/2019/190220_01.html",
+    "https://note.com/yuto_matsuura/n/n3d1a6ba993ad",
+    "https://deskmin.net/2026/08/24/金属フィラメント焼結方法完全ガイド：脱脂方式/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属フィラメント（脱脂焼結型）のスタートアップ X 投稿",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://3dprinter.co.jp/product/markforged/metal-x/",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://www.cadjapan.com/topics/feature/leverage_3dprinter/2019/190220_01.html",
+    "https://www.fasotec.co.jp/product/metal-x",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://www.reddit.com/r/3Dprinting/comments/16bclus/why_havent_any_hobbyists_successfully_built_a/?tl=ja",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "https://x.com/daiichiceramo/status/1965250513861292295",
+    "https://deskmin.net/2026/08/24/金属フィラメント焼結方法完全ガイド：脱脂方式/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament sinterable startup bound metal site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/calvinstewart_3dprinting-boundmetaldeposition-additivemanufacturing-activity-7376216266187063296-hv2K",
+    "https://www.linkedin.com/posts/calvinstewart_additivemanufacturing-boundmetaldeposition-activity-7482758304226496512-yNtc",
+    "https://in.linkedin.com/in/sabyasachi-building-thinkmetal",
+    "https://tr.linkedin.com/posts/marm-engineering_metal-fff-bound-metal-filament-teknolojisinde-activity-7425221699383685120-W2FE",
+    "https://in.linkedin.com/company/thinkmetal",
+    "https://pe.linkedin.com/pulse/how-one-startup-making-3d-printing-metal-reality-mark-dohnalek",
+    "https://it.linkedin.com/posts/250985_spherical-powders-additive-metal-and-polymer-activity-7402388070240509953-EWRe"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "会社名・一覧": "記載なし（読んだ60頁・検索20回）",
+  "創業年": "記載なし（読んだ60頁・検索20回）",
+  "資金調達・株主": "記載なし（読んだ60頁・検索20回）",
+  "年商・規模": "記載なし（読んだ60頁・検索20回）",
+  "日本の担い手": "記載なし（読んだ60頁・検索20回）"
+ }
+}

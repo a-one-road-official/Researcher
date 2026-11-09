@@ -1,0 +1,1435 @@
+{
+ "name": "大型FGF・LFAM用ペレット（強化ペレット含む）",
+ "en": "pellet extrusion large format additive manufacturing pellets market",
+ "aliases": [
+  "ペレット 3Dプリンター",
+  "大型 3Dプリンター ペレット",
+  "強化ペレット 積層造形"
+ ],
+ "context": "ペレット",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:14:16.119758+00:00",
+ "evidence": {
+  "技術支援": [
+   {
+    "quote": "複雑な業界プログラムをどのようにサポートするか",
+    "url": "https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "大きな支えのない張り出し部分やスパンは印刷が難しく、サポート材が必要になったり、向きを変えたり、設計変更が必要になる場合があります",
+    "url": "https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "大規模な印刷や金型製作に着手する前に、設計検証をサポートする",
+    "url": "https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、独自のLCDスクリーン技術により、広範囲を均一かつ高解像度で露光し、高速造形をサポートします",
+    "url": "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Phase3D社の3Dプリント検査ソフトウェア「Fringe Inspection」がRenishaw社の3Dプリンター「RenAM 500」をサポート",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "VerisurfがRenishaw Equator-Xをサポート",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker社の3Dプリントソフトウェア「UltiMaker Cura」が3Dconnexionデバイスをサポート",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "SimForm社が金型設計用シミュレーションソフトウェアの機能を拡大、圧縮金型設計をサポート",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "また、実績のない材料でも、造形条件の検証を装置メーカーと協力して行うプログラムが用意されています",
+    "url": "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "pass": 3
+   },
+   {
+    "quote": "フィラメントとペレットを使いわけ、サポート部分を水溶性材料にすることにより、手間がかかるサポート除去の後処理を高速化",
+    "url": "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "pass": 3
+   },
+   {
+    "quote": "材料の粘度特性と押出パラメータを解析し、最適な設定を導き出すノウハウ",
+    "url": "https://www.3dpc.co.jp/articles/fgf-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "導入時のパラメータ設定から運用支援までトータルサポート",
+    "url": "https://www.3dpc.co.jp/articles/fgf-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "​・失敗造形やサポートなどの端材を砕いて再利用可能",
+    "url": "https://fgf3d.sin.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "プリントが失敗した際のモデルやサポート等の廃棄物を使って、",
+    "url": "https://fgf3d.sin.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "同社のペレット溶解積層方式3Dプリンター は、射出成型用ペレットを造形材料として用いることができ、また、デュアルヘッドで、造形材料とサポート材を分けて管理できるようになっている",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーが定めた材料を決まったパラメーターで利用するという使い方ではない、その道のプロがあたり出しを行い、パラメーターを煮詰めていく必要がある機体だ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Production-ready operation with validated process parameters",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "validated processing parameters that reduce implementation risk.",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "printing knowledge to recommend process parameters across pellet",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Machine learning for process parameter optimization has advanced",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "transverse speed, and screw speed parameters. CNN-LSTM hybrid models",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "magnitude, coordinating six robot axes with extruder parameters and",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "robot motion, extrusion parameters, fiber tension, and thermal",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "optimization for LFAM process parameters",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "For specific technical parameters, performance data, and case study",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Table 1 3D printing parameters",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Parameter/setting Unit PLA/SCGs rLDPE/SCGs HDPE/SCGs",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the specific 3D printing parameters for the selected LFAM",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "printing parameters to fabricate the tensile specimens and",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the parameters shown in Table 1, combining the ther -",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "printing tests to define an optimal set of parameters",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of the screw. These four optimal parameters, reported",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "based pellet compounds and define other parameters,",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "b = This parameter is intended as achievable without the need of sup-",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "printing parameters, such as infill percentage and pat-",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "printing process parameters should be explored through",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of specific 3D printing parameters should be tested to",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "46. D’ Amico T, Peterson AM (2020) Bead parameterization of desk-",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "大型3Dプリンターの導入費用は、機種や性能によって大きく異なりますが、50万円から1億円以上の範囲です",
+    "url": "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "PEKK 30% CF & GF（30％カーボンファイバーおよびガラスフィラー入りポリエーテルケトンケトン）",
+    "url": "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "pass": 3
+   },
+   {
+    "quote": "PEEK 30% CF & GF（30％カーボンファイバーおよびガラスフィラー入りポリエーテルエーテルケトン）",
+    "url": "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "produced wind turbine blade components under a $4 million DOE grant",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional blade mold fabrication costs exceed $10 million with",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "The LFAM-specific market has grown from $117.7 million in 2021 to",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "projected $619.3 million by 2030—more than 5× expansion according to",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "even stronger growth, with projections ranging from $88 billion to",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "$144 billion by 2030-2033 at CAGRs of 21-24%. Continuous fiber",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "million by 2031 at 14.1% CAGR.",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "from $300 million in 2023 to $800 million in 2024—166%",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "and citizens [1, 2]. In 2019, 931 million tons of food waste",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "globally, reached a total production of 170.8 million of 60 kg",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "大型3Dプリンターの導入費用は、機種や性能によって大きく異なりますが、50万円から1億円以上の範囲です",
+    "url": "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "RMIT大学のエンジニアが既存の合金と比較して価格が3分の1の3Dプリント用チタン材料を開発",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "ペレット押出 3D プリントでは、手頃な価格の原料を使用できます",
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "pass": 3
+   },
+   {
+    "quote": "多くの3Dプリンターはフィラメント方式を採用しているうえ、FGF対応のプリンターは専門性が高く、価格も高めになる傾向があります",
+    "url": "https://www.3dpc.co.jp/articles/fgf-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "warpage, and material costs under $25/kg. CF-PC (carbon fiber",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "直径1m、高さ1mの大型部品や製品を造形可能で、汎用プラスチックに加え、リサイクル材や海洋プラスチックごみなど、多様な材料に対応します",
+    "url": "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "ABS、PETG、PPS、PEIなどの汎用樹脂から、ガラス繊維・炭素繊維入りの高機能複合材まで対応可能",
+    "url": "https://www.3dpc.co.jp/articles/fgf-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Materials range from commodity thermoplastics to aerospace-grade composites",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Raw pellets, low-cost bulk material",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Materials range from commodity thermoplastics to aerospace-grade",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "LFAM material selection spans from commodity polymers like ABS and",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "traditional metal tooling. The Boeing/AFRL Low-Cost Attritable",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "As an abundant commodity, coffee production generates significant scraps and by-products, increasing the potential pollution",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Dassault Systemes社が欧州の主要企業と協力して技術産業連合を設立",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "シェアラボ編集部では、泣く泣く次世代3Dプリンタ展への来場を取りやめた方のために、会場での見どころを紹介していく",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Material Market Share & Recyclability Comparison",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoset (60% market share, cannot be recycled)",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Thermoplastic (40% market share, fully recyclable)",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "North America maintains 34-44% market share as the largest regional",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "unique journey from designing space-grade hardware to leading a",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "CIMdata社がPLMプロフェッショナル向けの2026年版PLM認定プログラムを発表",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The MathWorks社が生成AI搭載のMATLAB Copilotを発表",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "BEACON社がLeo AI社と提携、革新的なエンジニアリング設計コパイロットをインドで発表",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Digital Industries Software社が新しい認定資格を開発",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens社がAIを活用した新しいメンテナンスサービスで産業用コパイロットを拡張",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Bricsys社のBricsCADがIFC4認定を取得",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "and bead widths up to 21mm—coarser resolution than desktop systems",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "materials without separate qualification—a significant advantage",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "during deposition. Orbital Composites' coaxial extrusion process",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "platform's AI co-pilot leverages over 10 years of accumulated 3D",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Various autoclave qualification standards",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "were plotted on a log–log graph and were used to calculate",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Fig. 3 Log–log plot of viscosity",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "on a log–log graph plotting the viscosity as a func-",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16. Cao D (2023) Investigation into surface-coated continuous flax",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Coatings 13:1592. https:// doi. org/ 10. 3390/ coati ngs13 091592",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(CASE), pp 1737–1734. https:// doi. org/ 10. 1109/ COASE. 2019.",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "OpenBOMがMCP対応のAI BOMエージェントのクローズドベータ版をリリース",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Elegoo社がオープンソースの3Dモデルプラットフォーム「Nexprint」をリリース",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "SLS4AllがオープンソースのSLS方式3Dプリンター「Inova MK1」を発表",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Axtra3D社が純正シリコーン材料「TrueSilX50」で3Dプリントによるシリコーン加工の生産体制を構築",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Keysight Technologies社がチップレット設計ソフトウェア「Chiplet PHY Designer 2025」を発表",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "材料押出法（MEX/FDM）では専用のフィラメントを使用して造形するのが一般的ですが、Titan Pelletでは、射出成形で通常使用されているペレットがそのまま使用可能です",
+    "url": "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "pass": 3
+   },
+   {
+    "quote": "proprietary systems. This plug-and-play approach—proven across 50+",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike proprietary gantry systems or specialized robotic cells, ADDX",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "specialized motion controllers, proprietary robot languages, or",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "versus long-fiber compatible surfaces (gentle curvature,",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "Carlson Software社が測量ソフトウェア「Carlson Survey OEM 2026」をリリース",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "2025年 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2025/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年2月26日から28日までの3日間にわたって開催される「日本ものづくりワールド」",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成型用のペレットを造形に利用できる3Dプリンターは国内では同社だけ",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "まさに日本の製造現場向け、という気もする",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "また、材料の補充が容易で連続的な生産が可能なので、製造ラインでの活用にも適しています",
+    "url": "https://www.3dpc.co.jp/articles/fgf-3d-printing",
+    "pass": 3
+   },
+   {
+    "quote": "automated refill signals to main hopper gates, maintaining",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "reduces electricity consumption compared to conventional FDM thanks",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "energy consumption for heating/cooling cycles, and costly tooling",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "grade feedstock, cutting costs and consumption from filament processing, and fostering material waste reduction practices.",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "bags in 2021 [4 , 5]. Due to its widespread consumption,",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "lion tons of agro-waste per year [6 ]. Spent Coffee Grounds",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "coffee production and consumption, representing 90% of the",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "from implementing sustainable production and consumption",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of production and consumption [13]. In detail, bioeconomy",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "higher material consumption [18, 41]. For this reason, relying",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "need for further reprocessing steps and energy consumption to",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ペレット 3Dプリンター メーカー 9社 - Metoree — ペレット 3Dプリンター メーカー 9社 - Metoree Metoree https://metoree.com > プリンター",
+    "url": "https://metoree.com/categories/8654/",
+    "pass": 3
+   },
+   {
+    "quote": "ペレット 3Dプリンター: ホーム — ペレット 3Dプリンター: ホーム fgf3d.sin.jp https://fgf3d.sin.jp",
+    "url": "https://fgf3d.sin.jp/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "$144 billion by 2030-2033 at CAGRs of 21-24%. Continuous fiber",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "million by 2031 at 14.1% CAGR.",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "20.4% CAGR",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "surfaces. Mounting robots on linear rails extends reach",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "challenge: Z-direction strength typically reaches only 30-60% of",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "vessels for hydrogen storage or aerospace pneumatics—designed,",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "reachability across complex geometries",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "reachability for all segments",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "composite 3D printing specifically is projected to reach $405",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "pass": 3
+   },
+   {
+    "quote": "geometries, reaching a maximum curvature angle of 32° and fabricating overhangs up to 25° without supports. According to",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "globally, reached a total production of 170.8 million of 60 kg",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "molding, and injection molding, reaching a broad range of",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "& Associates, Seattle, WA, US) [59]. The samples reached",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of MFI can be successfully processed [71, 72], reach-",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "for 𝜎m. rLDPE/SCGs reached values of ~ 13%, whereas",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "extrusion multiplier, and extrusion width to reach a",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SCGs (Fig. 6b) reached a consistent flow, resulting in",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ferent curvature angles were reached when using nonpla -",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "S4. Higher curvature angles were reached by 3D printing",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the second sample batch, rLDPE/SCGs (Fig. 7b), reach-",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "0–32°, reaching the geometrical constraints of the 3D",
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "上位シェア%": [
+   {
+    "value": "60",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "quote": "Thermoset (60% market share, cannot be recycled)"
+   },
+   {
+    "value": "40",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "quote": "Thermoplastic (40% market share, fully recyclable)"
+   },
+   {
+    "value": "44",
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "quote": "North America maintains 34-44% market share as the largest regional"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/carbon-fiber-reinforced-thermoplastic-cfrtp-composite-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9737282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/2773371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3%E3%83%9A%E3%83%AC%E3%83%83%E3%83%88%E6%A5%AD%E7%95%8C%E3%81%AE%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr115%E3%81%A7%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1-yurevantac-s6wre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005009846651010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuse-materials.jp/mk2/ac/bid/detail.html?item_id=1548",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://s-to.jp/jp/products/19223",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=3420",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/about-lfam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8654/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/fgf-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E3%83%9A%E3%83%AC%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fgf3d.sin.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cf-composites.toray/ja/products/thermoplastic/molding.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mcc-ams.com/products/121/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yam-kyoto.com/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rilikunugi.com/sell-recycle-pellet-contract-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/laws/tutatsu/items/e020a91a7c1266dd2e7777ddff15959c8a4c2616.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/denki_setsubi/pdf/019_03_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hikaru-office.com/shitei-kanenbutsu-todoke/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.sapporo.jp/shobo/yobo/jorei/documents/125-1-siryo10-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/shobo_konohana/page/0000563588.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maeda-gls.co.jp/contents/knowledge/lftp%E9%95%B7%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E7%86%B1%E5%8F%AF%E5%A1%91%E6%80%A7%E6%A8%B9%E8%84%82%E3%81%A8%E3%81%AF-%E7%9F%AD%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E7%86%B1%E5%8F%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-chemical.co.jp/carbon-fiber/product/pellet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qiagen.com/jp/resources/resourcedetail?id=bc25a449-1a5e-42b4-a179-2c373c5e9970&lang=ja-JP&Print=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitomo-chem.co.jp/sep/products/pes/pes_s2_reuse.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/360957719_An_application-_and_market-oriented_review_on_large_format_additive_manufacturing_focusing_on_polymer_pellet-based_3D_printing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/pellet-3d-printing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/pellet-3d-printer-market-report-industry-drivers-j8q6f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vKyGA7xDvy8Se8BLjJWWbwBjEXi7xKtTYc3YRk2X-JZ_YSONGzi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/china-factory-direct-sale-pellet-3d-printer-price-comparison/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gingeradditive.com/pages/pellet-3d-printing?srsltid=AYCX9vKX8tCkvxRi1p0TcZvKPcDFnX_g8RnwN-sNrg4K-mHLBvnX8Gm4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://all3dp.com/4/goodbye-filament-peopolys-new-giga-800-brings-large-format-pellet-printing-to-the-15k-mark/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） 市場規模 CAGR",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/carbon-fiber-reinforced-thermoplastic-cfrtp-composite-market",
+    "https://www.atpress.ne.jp/news/9737282",
+    "https://newscast.jp/smart/news/2773371",
+    "https://jp.linkedin.com/pulse/%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3%E3%83%9A%E3%83%AC%E3%83%83%E3%83%88%E6%A5%AD%E7%95%8C%E3%81%AE%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr115%E3%81%A7%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1-yurevantac-s6wre",
+    "https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/",
+    "https://straitsresearch.com/jp/report/carbon-fiber-reinforced-polymer-market",
+    "https://www.inouetimber.co.jp/blog/3d-printer-comparison/",
+    "https://www.theinsightpartners.com/ja/reports/glass-fiber-reinforced-plastic-gfrp-composite-material-market",
+    "https://www.marketgrowthreports.com/jp/market-reports/glass-fiber-reinforced-polymer-gfrp-market-105396"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） 価格",
+   "results": [
+    "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://www.reuse-materials.jp/mk2/ac/bid/detail.html?item_id=1548",
+    "https://s-to.jp/products/19223",
+    "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=3420",
+    "https://www.cadjapan.com/news/2025/",
+    "https://brightstartupsolutions.com/shop/items/C168412878",
+    "https://xf-360.com/mall/goods/2580405",
+    "https://fp-af.jp/products/detail/210335145",
+    "https://www.modix3d.com/ja/pellets-for-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） 主要メーカー 一覧",
+   "results": [
+    "https://hdc3d.com/ja/about-lfam/",
+    "https://metoree.com/categories/8654/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "https://www.3dpc.co.jp/articles/fgf-3d-printing",
+    "https://mono.ipros.com/cg1/%E3%83%9A%E3%83%AC%E3%83%83%E3%83%88/",
+    "https://www.maeda-gls.co.jp/contents/knowledge/lftp%E9%95%B7%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E7%86%B1%E5%8F%AF%E5%A1%91%E6%80%A7%E6%A8%B9%E8%84%82%E3%81%A8%E3%81%AF-%E7%9F%AD%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E7%86%B1%E5%8F%AF/",
+    "https://www.mcctr.co.jp/product/3dprinter/",
+    "https://fgf3d.sin.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） 代理店 日本",
+   "results": [
+    "https://hdc3d.com/ja/about-lfam/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://partners.solize.com/3dp-sales/3dsystems/ext-titan",
+    "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "https://fgf3d.sin.jp/",
+    "https://www.cf-composites.toray/ja/products/thermoplastic/molding.html",
+    "https://mcc-ams.com/products/121/",
+    "https://www.yam-kyoto.com/partnership/",
+    "https://www.rilikunugi.com/sell-recycle-pellet-contract-processing/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） 規制 保管 危険物",
+   "results": [
+    "https://www.fdma.go.jp/laws/tutatsu/items/e020a91a7c1266dd2e7777ddff15959c8a4c2616.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/denryoku_anzen/denki_setsubi/pdf/019_03_02.pdf",
+    "https://hikaru-office.com/shitei-kanenbutsu-todoke/",
+    "https://www.city.sapporo.jp/shobo/yobo/jorei/documents/125-1-siryo10-1.pdf",
+    "https://www.city.osaka.lg.jp/shobo_konohana/page/0000563588.html",
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://laws.e-gov.go.jp/law/334CO0000000306",
+    "http://www.intertech.co.jp/ecoamide6g35-ja.htm",
+    "https://www.tottori-seibukoiki.jp/secure/3965/06%20%E6%8C%87%E5%AE%9A%E5%8F%AF%E7%87%83%E7%89%A9%E3%81%AE%E9%81%8B%E7%94%A8%E5%9F%BA%E6%BA%96%E5%8F%8A%E3%81%B3%E6%8C%87%E5%B0%8E%E6%8C%87%E9%87%9D.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） 純正 指定材料 互換",
+   "results": [
+    "https://hdc3d.com/ja/about-lfam/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://www.3dpc.co.jp/articles/lfam-3d-printing",
+    "https://www.maeda-gls.co.jp/contents/knowledge/lftp%E9%95%B7%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E7%86%B1%E5%8F%AF%E5%A1%91%E6%80%A7%E6%A8%B9%E8%84%82%E3%81%A8%E3%81%AF-%E7%9F%AD%E7%B9%8A%E7%B6%AD%E5%BC%B7%E5%8C%96%E7%86%B1%E5%8F%AF/",
+    "https://www.m-chemical.co.jp/carbon-fiber/product/pellet/",
+    "https://www.cf-composites.toray/ja/products/thermoplastic/molding.html",
+    "https://www.qiagen.com/jp/resources/resourcedetail?id=bc25a449-1a5e-42b4-a179-2c373c5e9970&lang=ja-JP&Print=1",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/",
+    "https://www.sumitomo-chem.co.jp/sep/products/pes/pes_s2_reuse.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market market size CAGR",
+   "results": [
+    "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "https://www.researchnester.com/reports/additive-manufacturing-market/5009",
+    "https://www.researchgate.net/publication/360957719_An_application-_and_market-oriented_review_on_large_format_additive_manufacturing_focusing_on_polymer_pellet-based_3D_printing",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://www.linkedin.com/pulse/pellet-3d-printer-market-report-industry-drivers-j8q6f",
+    "https://www.coherentmarketinsights.com/industry-reports/additive-manufacturing-market",
+    "https://www.precedenceresearch.com/additive-manufacturing-market",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vKkqvYGQHmlsrdavislLNrknE5zLH_4kUNAiVEgrA4xvJ-QJnsq",
+    "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "https://pmarketresearch.com/worldwide-pellet-3d-printer-market-research/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market price per kg",
+   "results": [
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vKyGA7xDvy8Se8BLjJWWbwBjEXi7xKtTYc3YRk2X-JZ_YSONGzi",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://www.facebook.com/fb-answers/china-factory-direct-sale-pellet-3d-printer-price-comparison/",
+    "https://www.gingeradditive.com/pages/pellet-3d-printing?srsltid=AYCX9vKX8tCkvxRi1p0TcZvKPcDFnX_g8RnwN-sNrg4K-mHLBvnX8Gm4",
+    "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "https://all3dp.com/4/goodbye-filament-peopolys-new-giga-800-brings-large-format-pellet-printing-to-the-15k-mark/",
+    "https://massivedimension.com/blogs/news/new-mdph2-pellet-head-extruder-for-large-format-3d-printing?srsltid=AYCX9vJ_nyoakbWkn7wIG7Y7HdBPs-8Uy3u2b_IaJvXnrq3GBIvI_PRA",
+    "https://www.researchgate.net/publication/360957719_An_application-_and_market-oriented_review_on_large_format_additive_manufacturing_focusing_on_polymer_pellet-based_3D_printing",
+    "https://www.dowell3dprinter.com/product/large-industrial-3d-printing-machine-pellet-extruder-pellet-extrusion-3d-printer",
+    "https://www.gingeradditive.com/pages/pellet-3d-printing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market key players",
+   "results": [
+    "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860418301726",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://link.springer.com/article/10.1007/s40964-022-00309-3",
+    "https://www.voxelmatters.com/category/3d-printing-topic/pellet-extrusion/",
+    "https://www.linkedin.com/pulse/industrial-grade-pellet-3d-printer-market-outlook-6gamf",
+    "https://dataintelo.com/report/pellet-3d-printer-market",
+    "https://tumaker.com/post/bigfoot-pro-pellets-3d-printing-evolution",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vLUV9IsyMrOldJJxC-iY-QtjcYeLsMfl5K4GAMIQvZtCMPqkFOA",
+    "https://pmarketresearch.com/worldwide-pellet-3d-printer-market-research/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market distributor Japan",
+   "results": [
+    "https://ifllc.com/products/infinite/",
+    "https://3dprintingindustry.com/news/3d-systems-collaborates-with-swany-to-promote-large-format-pellet-extrusion-in-japan-223197/",
+    "https://link.springer.com/article/10.1007/s40964-022-00309-3",
+    "https://www.3dsystems.com/3d-printers/ext-1070-titan-pellet",
+    "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "https://www.youtube.com/watch?v=L-_Klv6f0wI",
+    "https://www.researchgate.net/publication/360957719_An_application-_and_market-oriented_review_on_large_format_additive_manufacturing_focusing_on_polymer_pellet-based_3D_printing",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vIbrxbiJoHm5_VwZj4V7DfiwYBYKhAzN-mDD5xroZK3YHGySmPu",
+    "https://dailycadcam.com/3d-systems-swany-join-to-accelerate-adoption-of-large-format-pellet-extrusion-3d-printing-in-japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market safety storage regulation",
+   "results": [
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2024.2336160",
+    "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vKToX5O4E3TeYblsA6CJ2PaFwL_KfaBaN1kWPKEn27MI3cCPIAi",
+    "https://materialfinder.sabic-specialties.com/document-download/ac8c23f8-9f3b-e711-80fb-005056857ef3",
+    "https://polyram-group.com/pellet-3d-printing-how-fgf-turns-granules-into-large-strong-parts/",
+    "https://www.researchgate.net/publication/360957719_An_application-_and_market-oriented_review_on_large_format_additive_manufacturing_focusing_on_polymer_pellet-based_3D_printing",
+    "https://tumaker.com/post/bigfoot-pro-pellets-3d-printing-evolution",
+    "https://link.springer.com/article/10.1007/s40964-022-00309-3"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market closed system open material third-party",
+   "results": [
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860418301726",
+    "https://ifllc.com/products/infinite/",
+    "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "https://link.springer.com/article/10.1007/s40964-022-00309-3",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vIYmgprGp7gLNgaej9yKPK6tBkO0VH9B0o7SxujK_OIObL29h8P",
+    "https://www.3dsystems.com/materials/pellet-materials",
+    "https://pollen.am/digital_chain_general_introduction/",
+    "https://www.linkedin.com/pulse/industrial-grade-pellet-3d-printer-market-outlook-6gamf",
+    "https://www.voxelmatters.com/category/3d-printing-topic/pellet-extrusion/",
+    "https://pmarketresearch.com/worldwide-pellet-3d-printer-market-research/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market commodity price competition",
+   "results": [
+    "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "https://dataintelo.com/report/pellet-3d-printer-market",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://www.researchgate.net/publication/360957719_An_application-_and_market-oriented_review_on_large_format_additive_manufacturing_focusing_on_polymer_pellet-based_3D_printing",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vLQKIAdcOaORVAUuN7j6j60ps3iDcdWH1_9w5trR1is4hm0Qvdx",
+    "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "https://www.mdpi.com/2071-1050/16/18/7966",
+    "https://www.youtube.com/watch?v=L-_Klv6f0wI",
+    "https://rapidfusion.co.uk/blogs/news/pellet-3d-printing-large-format-additive-manufacturing",
+    "https://www.linkedin.com/pulse/north-america-3d-printing-pellet-extruder-market-growth-nspae"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market technical support parameters",
+   "results": [
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860418301726",
+    "https://ifllc.com/products/infinite/",
+    "https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era",
+    "https://materialfinder.sabic-specialties.com/document-download/ac8c23f8-9f3b-e711-80fb-005056857ef3",
+    "https://link.springer.com/article/10.1007/s40964-022-00309-3",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vIshLPgFZaDkVjepm2TEErSmeN0mnFffVYAmG_p72pv-oZiJ8qn",
+    "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "https://tumaker.com/post/bigfoot-pro-pellets-3d-printing-evolution",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://www.digitallibrarynasampe.org/data/webpages/c2023_webpages/TP23-0000000090.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com 大型FGF・LFAM用ペレット（強化ペレット含む）",
+   "results": [
+    "https://note.com/38_nw/n/n571df8a7df4c",
+    "https://note.com/38_nw/n/nfc774df18992",
+    "https://note.com/38_nw/n/n838dbeb4bee5",
+    "https://note.com/tasty_rhino5561/n/na5285e334ee8",
+    "https://note.com/sankituushin/n/n53e8b6985188",
+    "https://note.com/38_nw/n/nfd7761459113",
+    "https://note.com/snow_dolphin/n/n917911c5b6bb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 大型FGF・LFAM用ペレット（強化ペレット含む）",
+   "results": [
+    "https://x.com/idarts_jp/status/1338260828055728128",
+    "https://x.com/maruilab",
+    "https://x.com/unosuke/status/2112438336027807985",
+    "https://x.com/CAP_staff/status/1805873637250990289",
+    "https://x.com/SakuraiSS_1948/status/2056570543240102286",
+    "https://x.com/vibaotter/status/2108837376244257277",
+    "https://x.com/recycleFEN/status/2113406402798748105"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 大型FGF・LFAM用ペレット（強化ペレット含む）",
+   "results": [
+    "https://pe.linkedin.com/posts/polymaker-3d_additivemanufacturing-3dprinting-fgf-activity-7264649884392136704-VKJm",
+    "https://pe.linkedin.com/posts/wevolver_learn-what-large-format-additive-manufacturing-activity-7239415117308727296-Eu-a",
+    "https://it.linkedin.com/posts/lati3dlab_latitech-compoundingwithpassion-3dprinting-activity-7224443717422575618-b4K_",
+    "https://www.linkedin.com/posts/smartmaterials3d_lfam-glassfibre-lfam-activity-7204009752245202944-2AdF",
+    "https://www.linkedin.com/posts/polymaker-3d_polycore-tct-polycore-activity-7371820336302129152-jNnq",
+    "https://jp.linkedin.com/pulse/溶融造粒加工-fgf-3d-プリンター市場の調査予測成長asp2026年から2033年までの141のcagr-icyde",
+    "https://jp.linkedin.com/posts/3d-printing-corporation_イタリアのロボットアーム式大型樹脂3dプリンターメーカーのcaracol社と日本総代理店契約-activity-7155763773658554368-liGS"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 大型FGF・LFAM用ペレット（強化ペレット含む）",
+   "results": [
+    "https://www.facebook.com/WevolverApp/videos/learn-what-large-format-additive-manufacturing-is-and-understand-key-aspects-suc/522539630886238/",
+    "https://www.facebook.com/reel/1827344427916158/",
+    "https://www.facebook.com/tokyopellet/",
+    "https://www.facebook.com/SakuraiSeisaku/photos/pellet-extruder-s-出品中ノズル径043mm対応インテリジェントセンサークリアビジョンウィンドウ搭載で材料残量の見える化を実現突然の供給切れを未/1025519086235835/",
+    "https://www.facebook.com/jpShareLab/posts/httpsbitly3o7wq0r株式会社3d-printing-corporationはイタリアの3dプリンターメーカーwasp社のペレット方式fgf3dプリ/738988458228649/",
+    "https://www.facebook.com/bamboofiberlab/posts/164163549414213/",
+    "https://www.facebook.com/bamboofiberlab/posts/161151063048795/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "大型FGF・LFAM用ペレット（強化ペレット含む） X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "pellet extrusion large format additive manufacturing pellets market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/north-america-3d-printing-pellet-extruder-market-growth-nspae",
+    "https://www.linkedin.com/pulse/overview-pellet-extruder-market-2026-2033-size-share-tstze",
+    "https://pe.linkedin.com/pulse/pellet-extrusion-machine-market-significance-strategic-y67je",
+    "https://uk.linkedin.com/in/luizeknunes",
+    "https://be.linkedin.com/in/katty-peeters-928b46434",
+    "https://uk.linkedin.com/in/niki-karavitaki-5033643b5",
+    "https://ps.linkedin.com/in/tabarak-zitawi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

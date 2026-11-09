@@ -1,0 +1,1034 @@
+{
+ "name": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入）",
+ "en": "metal powder additive manufacturing explosion safety storage titanium aluminum",
+ "aliases": [
+  "金属粉末 防爆 3Dプリンター",
+  "チタン粉末 消防法 危険物",
+  "アルミ粉末 粉じん爆発 積層造形"
+ ],
+ "context": "粉末・安全",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:09:45.605978+00:00",
+ "evidence": {
+  "価格": [
+   {
+    "quote": "：＞10000mg/kg",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "は12g/kgを上回った",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラット LD50 ＞10000mg/kg(IUCLID,2000) との記述がある",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "防爆型の電気機器、換気装置、照明器具等適切な機器を使用すること",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "内容物を適切な液体又は不活性ガス中で保管すること",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "分解生成物を吸入すると、重傷や死に至るおそれがある",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "７．取扱い及び保管上の注意",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "内容物を規制所管官庁が指定する適切な液体又は不活性ガス中で保管すること",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "吸入（蒸気、粉じん）：本物質に関するデータはなく分類できない",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "に基づき、区分1（肺、吸入）に分類されている",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "危険物又は当該危険物を収納した運搬容器が落下し、転倒もしくは破損しないように積載すること",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "危険物又は当該危険物を収納した容器が著しく摩擦または動揺を起こさないように運搬すること",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "危険物の運搬中、危険物が著しく漏れる等、災害が発生するおそれがある場合には、災害を防止するための応急措置を講ずると共に、もよりの消防機関その他の関連機関に通報すること",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "Furuuchi chemical SDS",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ すべての安全注意 (SDS など )を読み理解するまで取り扱わないこと",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 防爆型の電気機器、 換気装置、 照明器具等適切な機器を使用すること",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 容器を密閉し、換気の良い冷暗所で施錠して保管すること",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 内容物を不活性ガスまたは適切な液体中で保管すること",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 作業者は適切な保護具を着用し、眼、皮膚への接触や吸入を避ける",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【7. 取扱い及び保管上の注意】",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ すべての安全注意（ SDS など）を読み理解するまで取り扱わないこと",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 防爆型の電気機器、換気装置、照明器具等適切な機器を使用すること",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 粉じん、煙、ガス、ミスト、蒸気、スプレーの吸入を避けること",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 容器に密閉し、換気の良い乾燥した冷暗所に施錠して保管する",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 不活性ガスまたは適切な液体中で保管するのが望ましい",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日光、熱、着火源、湿気、ハロゲン、混触危険物質",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総粉塵 8mg/m 3、吸入性粉塵 2mg/m 3",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 陸上輸送：消防法および毒物および劇物取締法の規制に従う",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該用途における使用上の注意 加工で発生する粉じんの吸入や粉じん爆発、溶接で発生するヒュームの吸入など",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "急性毒性（吸入:粉じん、ミスト） 分類できない",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉じん／煙／ガス／ミスト／蒸気を吸入しないこと",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製品の粉じん、ヒュームを多量に吸入した場合、直ちに空気の新鮮な場所に移し、安静、保温に努め、速やかに医師の診",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Al; PEL-TWA 15mg/m3（総粉塵）、5mg/m3（吸入性画分）",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Al; 第1種粉塵 0.5mg/m3（吸入性粉塵）、2mg/m3（総粉塵）",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mn; 0.02mg/m3（吸入性粉塵）、0.1mg/m3（総粉塵）",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Al; TLV-TWA 1mg/m3（吸入性粒状物質）",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保管場所は取り扱いに必要な採光、照明を設ける",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "水、アルコール、酸、アルカリ、酸化剤、ハロゲンから離して保管すること",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉末の状態で保管する場合は、雨水に濡れないよう容器内で保管する",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．取扱い及び保管上の注意",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "急性毒性（吸入:粉じん、ミスト）",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "危険物・発火性の物（法第57条、施行令別表第1第2号）: 【アルミニウム粉】【マグネシウム粉】【マグネシウム粉及びアル",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム粉末の製造工程やバフ研磨粉の集塵工程で粉じん爆発の例がある",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Storage Tips for Metal Powders Used in Additive Manufacturing",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Storage Systems",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Metal powders are some of the most critical raw materials involved in additive manufacturing and 3D printing. Flowability, morphology, and purity of the powder dictate the 3D printing process. These properties not only depend on the preparation process but are also dictated by the storage management of the metal powders once produced.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why Metal Powder Storage Matters",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Behind any standardized requirement lies the lessons learned from past experiences. The metal powder quality directly contributes to mechanical properties, dimensional tolerances, and surface finish of printed components. Improper storage can lead to the following issues:",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": ": The metal powders are highly flammable, and improper storage can initiate a dust explosion or fire.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, scientific and rational storage procedures not only prolong the service life of powders but also ensure safety and stability of the printing process.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Factors Affecting Metal Powder Storage",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. General Standards for Metal Powder Storage",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Storage of metal powder needs to comply with stringent environmental control and packing requirements. To begin with, the storage containers have to be constructed from 304 or 316L stainless steel. Moreover, A double-layer sealing structure is coupled with",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "environment. Even if the particle size of reactive metal powders is >53μm, they need high-purity inert gas sealage. Argon or nitrogen, etc., should be inert gases with a purity of ≥99.999%.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, ambient temperature and humidity need to be strictly controlled. There should be a constant temperature in the storage area, preferably between (20±2)°C, and fluctuation not more than ±0.5°C per hour. Relative humidity should be controlled below 15%RH. Humidity should be further reduced to below 5%RH for nano-sized metal powders.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Powders must be stored in a clean, dry, and well-ventilated warehouse and must not be stored near acids, alkalis, corrosive substances, explosive/flammable substances, or reactive materials. Different categories of powders must have a minimum of 1.5 meters safety distance between them, but extremely reactive chemicals must have a distance of not less than 3 meters.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Special Storage Requirements for Metal Powders",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Certain metal powders exhibit varying degrees of sensitivity to the aforementioned factors and may require more stringent storage conditions.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "検体を浸漬した液を用いた遺伝子突然変異試験（ネズミチフス菌TA98、同TA100、大腸菌WP2uvrA）および不定期DNA合成試験ではいずれも陰性であり、これらの試験では変異原性は陰性である",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "不定期 DNA 合成試験ではいずれも陰性であり、 これらの試験で",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "日本産衛学会（2007年版）",
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "pass": 3
+   },
+   {
+    "quote": "許容濃度： 日本産業衛生学会（ 2010 ） 第三種粉塵",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 緊急時応急措置指針 改訂第 3 版 日本規格協会",
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "許容濃度 日本産衛学会 [1]",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内規制 「１５．適用法令」を参照",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本SDSは日本国内での配布に限定して作成したものであり、海外の法規制には対応しておりませんのでご注意願いま",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[3] 日本アルミニウム協会 アルミニウムハンドブック（第7版）",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "[1] 日本産業衛生学会 許容濃度等の勧告（2023年度）",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "注2）対象製品の詳しい濃度又は濃度範囲は、公的規格、仕様書、ミルシートなどを参照ください",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Thermal Spray Coating",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Metal powders are some of the most critical raw materials involved in additive manufacturing and 3D printing. Flowability, morphology, and purity of the powder dictate the 3D printing process. These properties not only depend on the preparation process but are also dictated by the storage management of the metal powders once produced.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Metal powders can easily react with oxygen and humidity in the air, leading to oxide formation that degrades powder flowability as well as sintering performance.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "In summary, humidity, oxygen content, temperature, and light exposure can all induce changes in metal powders.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Argon/nitrogen environments exclude oxygen and moisture, avoiding oxidation of very reactive metals like titanium and aluminum. This maintains powder flowability and chemical stability, which is critical to upholding the mechanical properties and surface finish of printed parts.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "チップ状の製品を飲み込んだ場合、経口毒性は低いが、できるだけ吐き出し、異常を感じるようであれば医師の診断を受ける",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉じん、チップ、ヒュームが発生する場合には、防護眼鏡を用いること",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "粉じん、チップ、ヒュームが目に入ったり吸い込んだりしないように注意する",
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Metal powders can easily react with oxygen and humidity in the air, leading to oxide formation that degrades powder flowability as well as sintering performance.",
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://blog.met3dp.com/ja/blog/metal-pbf-vs-ebm-in-2026-surface-material-and-application-comparison-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morimura.co.jp/products/list/39.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3090835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/2946458",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/product/detail/2000772948/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.pal-system.co.jp/iplg/login.htm?PROC_DIV=1&backUrl=https%3A%2F%2Fshop.pal-system.co.jp%2Fpal%2FInesOrderContents.do%3FcontentsId%3DA100083%26a_banner%3Data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://xf-360.com/mall/goods/2580405",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shiba78.co.jp/products/detail.php?product_id=3883",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserline.com/ja-int/laser-cladding/laser-powder-bed-fusion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/powder-bed-fusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/laser-based-powder-bed-fusion-202407231/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/materials-for-metal-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/am-pbf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pyroban.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/metal-pbf-vs-dmls-in-2026-technology-naming-capabilities-and-selection-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/tiri-news/setsubi-2024-04-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/powder-bed-fusion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/lpbf-vs-ebm-metal-3d-printing-in-2026-process-application-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/sds/W01W0120-0520JGHEJP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://multimedia.3m.com/mws/mediawebserver?mwsId=TTTTTV7o0_VyM9hTmynHPZuwpwvJ2dv_IwVAQ_H7oTTTTTT--",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.litemax.com/jp/document-detail/0/189/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ariel-inc.jp/3d-printer-3d-molding/dictionary/material/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chinametalsupply.com/ja/titanium-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.villotech.com/knowledge/metal-powder-explosion-risks-in-additive-manufacturing-how-to-achieve-safe-powder-management/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://am-printing.com/ja/best-practices-for-handling-and-storing-metal-powder-for-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/north-america-and-asia-pacific-metal-powder-market-112094",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2227-9717/11/10/2943",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/additive-manufacturing-metal-powders-market-size-share-growth-7oekf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-additive-manufacturing-metal-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/titanium-powder-pyrophoricity-passivation-and-handling-for-safe-production-and-processing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prestivac.com/case-studies/titanium-powder-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） 市場規模 CAGR",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-pbf-vs-ebm-in-2026-surface-material-and-application-comparison-guide/",
+    "https://www.morimura.co.jp/products/list/39.html",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://www.atpress.ne.jp/news/3090835",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://newscast.jp/smart/news/2946458",
+    "https://www.koswire.com/jp/product/kosmetal.asp",
+    "https://japan.cnet.com/release/31176494/",
+    "https://www.skymark.co.jp/ja/company/investor/120420_press.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） 価格",
+   "results": [
+    "https://www.ipros.com/product/detail/2000772948/",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://shop.pal-system.co.jp/pal/InesOrderContents.do?contentsId=A100083&a_banner=ata",
+    "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "https://xf-360.com/mall/goods/2580405",
+    "https://shiba78.co.jp/products/detail.php?product_id=3883",
+    "https://www.sourcenext.com/mypage/action/productPage?productgp=0000011033&srsltid=AYCX9vJWHM6dMGi-gFr_mw59aUospQA-Et8jgh-DEMN0FQx31XL_6L7E",
+    "https://product.rakuten.co.jp/product/-/db4203d9079cda3f11f50d771118eaa4/spec/?pref=tokyo&l2-id=pdt_spec",
+    "https://s-to.jp/products/19223",
+    "https://blog.met3dp.com/ja/blog/lpbf-vs-ebm-metal-3d-printing-in-2026-process-application-guide/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） 主要メーカー 一覧",
+   "results": [
+    "https://www.laserline.com/ja-int/laser-cladding/laser-powder-bed-fusion/",
+    "https://blog.met3dp.com/ja/blog/metal-pbf-vs-ebm-in-2026-surface-material-and-application-comparison-guide/",
+    "https://www.morimura.co.jp/products/list/39.html",
+    "https://www.kinzoku.co.jp/media/techinfo/powder-bed-fusion",
+    "https://am-printing.com/ja/laser-based-powder-bed-fusion-202407231/",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/materials-for-metal-3d-printers",
+    "https://news.sharelab.jp/study/am-pbf/",
+    "https://www.ipros.com/product/detail/2000772948/",
+    "https://www.pyroban.com/jp/",
+    "https://blog.met3dp.com/ja/blog/lpbf-vs-ebm-metal-3d-printing-in-2026-process-application-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） 代理店 日本",
+   "results": [
+    "https://www.morimura.co.jp/products/list/39.html",
+    "https://blog.met3dp.com/ja/blog/metal-pbf-vs-dmls-in-2026-technology-naming-capabilities-and-selection-guide/",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://www.ipros.com/product/detail/2000772948/",
+    "https://www.pyroban.com/jp/",
+    "https://www.iri-tokyo.jp/tiri-news/setsubi-2024-04-02/",
+    "https://news.sharelab.jp/study/am-pbf/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/products.html",
+    "https://jampt.jp/column/powder-bed-fusion/",
+    "https://blog.met3dp.com/ja/blog/lpbf-vs-ebm-metal-3d-printing-in-2026-process-application-guide/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） 規制 保管 危険物",
+   "results": [
+    "https://labchem-wako.fujifilm.com/sds/W01W0120-0520JGHEJP.pdf",
+    "https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html",
+    "https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf",
+    "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://multimedia.3m.com/mws/mediawebserver?mwsId=TTTTTV7o0_VyM9hTmynHPZuwpwvJ2dv_IwVAQ_H7oTTTTTT--",
+    "https://www.kojundo.co.jp/dcms_media/other/ALI04PAG.pdf",
+    "https://katokei.co.jp/sds.pdf",
+    "https://www.veritastk.co.jp/products/pdf/0138-0001.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） 純正 指定材料 互換",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-pbf-vs-ebm-in-2026-surface-material-and-application-comparison-guide/",
+    "https://www.morimura.co.jp/products/list/39.html",
+    "https://www.kinzoku.co.jp/media/techinfo/powder-bed-fusion",
+    "https://www.researchgate.net/publication/381725687_Titanium_Alloy_Powder_for_Additive_Manufacturing",
+    "https://www.litemax.com/jp/document-detail/0/189/",
+    "https://news.sharelab.jp/study/am-pbf/",
+    "https://nmmjx-dc.com/products/3d_printer/titan_powder.html",
+    "https://www.youtube.com/watch?v=2axlQlQB4aE",
+    "https://www.ariel-inc.jp/3d-printer-3d-molding/dictionary/material/metal/",
+    "https://blog.met3dp.com/ja/blog/lpbf-vs-ebm-metal-3d-printing-in-2026-process-application-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum market size CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/north-america-and-asia-pacific-metal-powder-market-112094",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.linkedin.com/pulse/additive-manufacturing-metal-powders-market-size-share-growth-7oekf",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-additive-manufacturing-metal-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://www.marketresearchfuture.com/reports/additive-manufacturing-metal-powders-market-9339"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum price per kg",
+   "results": [
+    "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://www.metal-am.com/articles/titanium-powder-pyrophoricity-passivation-and-handling-for-safe-production-and-processing/",
+    "https://prestivac.com/case-studies/titanium-powder-additive-manufacturing",
+    "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=913441",
+    "https://additiveplus.com/a-complete-guide-to-metal-powder-for-3d-printing-types-uses-and-tips/?srsltid=AYCX9vK8rwk0Pw8J6ZPH4cFPOw-3bs5xMHoYdLEkkRT5l708sn0yafnu",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.continuumpowders.com/wp-content/uploads/2025/04/SDS-Titanium-Alloy-Powder-1.pdf",
+    "https://www.researchgate.net/figure/a-Cost-gram-of-different-metal-powder-to-be-used-for-additive-manufacturing-b_fig1_342715547",
+    "https://additiveplus.com/product-category/materials/metal-powders/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum key players",
+   "results": [
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "https://www.metal-am.com/articles/titanium-powder-pyrophoricity-passivation-and-handling-for-safe-production-and-processing/",
+    "https://www.facebook.com/equispheres/videos/what-does-a-safer-non-explosible-aluminum-powder-mean-for-the-additive-manufactu/1494209711493625/",
+    "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=913441",
+    "https://addiblast.com/blog-article/ensuring-safety-metal-3d-printing",
+    "https://prestivac.com/case-studies/titanium-powder-additive-manufacturing",
+    "https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117%2F12.3133918&downloadType=proceedings%20article&isResultClick=True",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://link.springer.com/chapter/10.1007/978-3-658-47473-7_7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum distributor Japan",
+   "results": [
+    "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://www.metal-am.com/articles/titanium-powder-pyrophoricity-passivation-and-handling-for-safe-production-and-processing/",
+    "https://prestivac.com/industries/additive-manufacturing",
+    "https://thermalprocessing.com/wp-content/uploads/2022/04/0422-IF1.pdf",
+    "https://addiblast.com/blog-article/ensuring-safety-metal-3d-printing",
+    "https://www.voxelmatters.directory/company-category/metal-powder-manufacturer/",
+    "https://equispheres.com/best-powder-for-additive-manufacturing-is-non-explosible-aluminum/",
+    "https://mosfe.com/article/safe-metal-powder-storage-n2-cabinet-solutions"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum safety storage regulation",
+   "results": [
+    "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "https://www.metal-am.com/articles/safety-management-in-metal-3d-printing/",
+    "https://www.uschemicalstorage.com/powdered-metals-storage/",
+    "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=913441",
+    "https://www.facebook.com/equispheres/videos/what-does-a-safer-non-explosible-aluminum-powder-mean-for-the-additive-manufactu/1494209711493625/",
+    "https://research.wayne.edu/oehs/lab-safety/3d-printing",
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://www.aluminum.org/sites/default/files/2021-11/Safe_Storage.pdf",
+    "https://www.engineering.com/getting-started-with-metal-am-safety/",
+    "https://link.springer.com/chapter/10.1007/978-3-658-47473-7_7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum closed system open material third-party",
+   "results": [
+    "https://www.volkmannusa.com/additive-manufacturing/",
+    "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=913441",
+    "https://www.metal-am.com/articles/titanium-powder-pyrophoricity-passivation-and-handling-for-safe-production-and-processing/",
+    "https://prestivac.com/industries/additive-manufacturing",
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://addiblast.com/blog-article/ensuring-safety-metal-3d-printing",
+    "https://equispheres.com/best-powder-for-additive-manufacturing-is-non-explosible-aluminum/",
+    "https://www.engineering.com/getting-started-with-metal-am-safety/",
+    "https://mosfe.com/article/safe-metal-powder-storage-n2-cabinet-solutions"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum commodity price competition",
+   "results": [
+    "https://addiblast.com/blog-article/ensuring-safety-metal-3d-printing",
+    "https://www.fortunebusinessinsights.com/3d-printing-powder-market-116678",
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://www.metal-am.com/articles/safety-management-in-metal-3d-printing/",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.linkedin.com/pulse/additive-manufacturing-metal-powders-market-size-share-growth-7oekf",
+    "https://additiveplus.com/a-complete-guide-to-metal-powder-for-3d-printing-types-uses-and-tips/?srsltid=AYCX9vLBea8lF4HUQxdIE-K4qk6ByVOKhPna0naKOGGVv1dLKY85AKUZ",
+    "https://www.continuumpowders.com/wp-content/uploads/2025/04/SDS-Titanium-Alloy-Powder-1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum technical support parameters",
+   "results": [
+    "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=913441",
+    "https://www.mdpi.com/2227-9717/11/10/2943",
+    "https://additiveplus.com/additive-metal-printing-with-powder-a-complete-guide/?srsltid=AYCX9vIDFYSooB2oAHgxg8C84DZ9t3b3Gzt4nTasVt1pmqSWmpGKdLts",
+    "https://www.metal-am.com/articles/safety-management-in-metal-3d-printing/",
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0950423024001979",
+    "https://equispheres.com/best-powder-for-additive-manufacturing-is-non-explosible-aluminum/",
+    "https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html",
+    "https://www.engineering.com/getting-started-with-metal-am-safety/",
+    "https://www.cdc.gov/niosh/hhe/reports/pdfs/2023-0034-3409.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入）",
+   "results": [
+    "https://note.com/kinzoku2/n/n65df0cb397f3",
+    "https://note.com/kinzoku2/n/n0728bd1e62a5",
+    "https://note.com/kinzoku2/n/nf2fa977ff43f",
+    "https://note.com/kinzoku2/n/n988aab83fdc6",
+    "https://note.com/beckhoff_japan/n/n6aab4581daeb",
+    "https://note.com/tomiriki_2026/n/nf901865424d4",
+    "https://note.com/kbtfn744/n/n609ff885cfd8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入）",
+   "results": [
+    "https://www.facebook.com/TokyoFireDepartment/videos/実験後の金属粉の廃棄方法は大丈夫/786634823349633/",
+    "https://www.facebook.com/Kyfe18/",
+    "https://www.facebook.com/TheEastCoastDesi/",
+    "https://www.facebook.com/jeol.jp/photos/ウェビナー-電子ビーム金属3dプリンター電子ビームパウダーベット方式eb-pbfのメカニズム日程2026年1月16日金1600-1700お申し込み詳細はこちらh/1309743357836441/",
+    "https://www.facebook.com/jeol.jp/posts/ウェビナー-電子ビーム金属3dプリンター電子ビームパウダーベット方式eb-pbfのメカニズム日程2026年1月16日金1600-1700お申し込み詳細はこちらh/1309743687836408/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/今さら聞けない金属3dプリンタ-とは樹脂3dプリンタとの違いはpbf方式とded方式って特徴や主な方式造形事例を徹底解説最近では造形精度速度の向上など技術革新が/825161419769730/",
+    "https://www.facebook.com/NagoyaUnivMaterial/photos/物質プロセス工学専攻小橋高田研究室のm1岡-宏樹君が粉体粉末冶金協会2024年度春季大会東京工業大学すずかけ台キャンパスにて優秀講演発表賞を受賞しました発表題目/983800003756039/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） note 社長",
+   "results": [
+    "https://www.laserline.com/ja-int/laser-cladding/laser-powder-bed-fusion/",
+    "https://am-printing.com/ja/best-practices-for-handling-and-storing-metal-powder-for-3d-printing/",
+    "https://blog.met3dp.com/ja/blog/metal-pbf-vs-ebm-in-2026-surface-material-and-application-comparison-guide/",
+    "https://www.vatgroup.com/ja/news/project-news/metal-layer-by-metal-layer",
+    "https://monoken.yamazen.co.jp/blog/articles/metal-printer/yamazen/materials-for-metal-3d-printers",
+    "https://www.youtube.com/watch?v=VRRNEQb9oFA",
+    "https://www.kinzoku.co.jp/media/techinfo/powder-bed-fusion",
+    "https://sato-ayumi.com/2019/01/23/metal-3dprinting-genri/",
+    "https://www.tokushuko.or.jp/publication/magazine/pdf/2023/magazine2305.pdf",
+    "https://blog.met3dp.com/ja/blog/lpbf-vs-ebm-metal-3d-printing-in-2026-process-application-guide/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入） X 投稿",
+   "results": [
+    "https://blog.met3dp.com/ja/blog/metal-pbf-vs-ebm-in-2026-surface-material-and-application-comparison-guide/",
+    "https://www.laserline.com/ja-int/laser-cladding/laser-powder-bed-fusion/",
+    "https://www.ti64.url.tw/ja/",
+    "https://am-printing.com/ja/laser-based-powder-bed-fusion-202407231/",
+    "https://www.nttdata-xam.com/blog/development/article_1284/",
+    "https://jampt.jp/metal3dprinter/system/",
+    "https://publica.fraunhofer.de/bitstreams/a922adcc-bf61-4fe3-a55e-90c75dd9ebba/download",
+    "https://www.jeol.co.jp/column/detail007.html",
+    "https://www.3dnatives.com/en/ebm-vs-l-pbf-which-metal-powder-fusion-process-to-choose-030420254/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal powder additive manufacturing explosion safety storage titanium aluminum site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/jobs/view/process-safety-engineer-powders-at-vulcanforms-inc-4440341623",
+    "https://www.linkedin.com/pulse/metal-powder-technology-news-insights-metalpowdertechnology-9txlf",
+    "https://www.linkedin.com/in/jasonting1",
+    "https://www.linkedin.com/pulse/what-vibrating-powder-screening-machine-da-lin-8jprc",
+    "https://www.linkedin.com/in/jack-grubbs-8445b1143",
+    "https://www.linkedin.com/in/huang-sheng",
+    "https://www.linkedin.com/posts/advanced-armour-engineering_armoursteel-defencemanufacturing-metalfabrication-activity-7520716475079270400-Zbmv",
+    "https://www.linkedin.com/pulse/metal-organic-frameworks-materials-market-size-share-dg5pf",
+    "https://ch.linkedin.com/in/haifa-sallem-phd-ba753718",
+    "https://de.linkedin.com/in/dr-hans-wolfgang-seeliger-77a5b353"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "売り方・商流": "記載なし（読んだ45頁・検索21回）",
+  "技術支援": "記載なし（読んだ45頁・検索21回）",
+  "コモディティ化": "記載なし（読んだ45頁・検索21回）"
+ }
+}

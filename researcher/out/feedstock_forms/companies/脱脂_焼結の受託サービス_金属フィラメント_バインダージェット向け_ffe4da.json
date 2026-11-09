@@ -1,0 +1,1397 @@
+{
+ "name": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け）",
+ "en": "debinding and sintering service metal 3D printing",
+ "aliases": [
+  "脱脂 焼結 受託",
+  "焼結 受託 3Dプリンター",
+  "MIM 焼結 受託"
+ ],
+ "context": "フィラメント・後工程",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:17:38.560110+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの価格は方式やクラスによって数十万円から1億円超まで大きく幅があり、さらに設置環境や後処理の費用も見落とせません",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "1億円を超える",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "数千万円〜1億円超",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "数千万〜1億円超",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "一方、必要なときに必要な数だけ作りたい、まずは金属造形の効果を試したいという段階では、数千万〜1億円超の設備投資をせずに部品単位で利用できる受託造形サービスが現実的です",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの価格は、エントリークラスの約10万円台から産業用ハイエンドの1億円超まで、方式・クラスによって大きく異なります",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": ". The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、金属3Dプリンターの価格・方式・メリット・デメリット・活用事例を徹底解説します",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "結果的に金属3Dプリンターは、樹脂3Dプリンターに比べて高価な装備が求められ、その分、装置価格が高額になる傾向があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以上",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAMにより、いままでの金属3Dプリンタのように防爆設備が必要ないため、設備費用が圧倒的に低価格な上に安全で手軽に造形できます",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "Sinter-1は、Metal Xでプリントしたグリーンパーツを脱脂後、焼結し最終的な高密度の金属パーツに仕上げるための低価格でハイパフォーマンスな炉です",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの価格は？本体価格・導入費用の相場を解説 ｜ SOLIZEオンライン3Dプリント出力サービス",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの価格は？本体価格・導入費用の相場を解説",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの価格は方式やクラスによって数十万円から1億円超まで大きく幅があり、さらに設置環境や後処理の費用も見落とせません",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、金属3Dプリンターの本体価格の相場を方式・クラス別に整理し、導入費用・ランニングコストの全体像、補助金・リースの活用、外注との比較までをわかりやすく解説します",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの価格相場【方式・クラス別】",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの本体価格は、最も安価な金属フィラメント方式で",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "約10万円台",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "1億円を超える",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "エントリークラスの金属3Dプリンターは、約10万円台〜数十万円台で購入できます",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "ミドルクラスは、数百万円〜2,000万円程度が目安です",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば金属FFF方式の代表機は1,500万〜2,000万円程度、ランニングコストを従来機より大幅に抑えた製品も登場しています",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "超硬合金価格の動向を調べてみた：2026年、タングステン輸出規制が工具コストを直撃",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル価格の動向を調べてみたニッケル価格の動向を調べてみた：2026年、インドネシア増産と需要鈍化で17,000ドル台に軟着陸",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "なお、金属3Dプリンター本体の導入費用（数千万円規模）と、受託サービス（外注）で1部品を製作する費用はまったく別物です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "Published prices for metal 3D printers span a wide range, from roughly $80,000 to more than $1,000,000 depending on technology and build size:",
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "About $300 to $600 per kg",
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Published prices range from roughly $80,000 for entry-level bound metal systems to more than $1,000,000 for large powder bed machines. Powder, post-processing, facilities, and staffing add significantly to the total cost of ownership.",
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "metal filament ($250–475/kg for 316L)",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "You can use a brass nozzle, but it will need to be changed after approximately 1kg of material",
+    "url": "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKb-YGrRfaytNVXXHR46rdrPMmjAq2LJ64HEv3RHr65Eus9Onhi",
+    "pass": 3
+   },
+   {
+    "quote": "One processing ticket covers up to only 1kg",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of spending hours researching reliable debinding and sintering companies and negotiating quotes, this MatterHackers BASF Ultrafuse Metal Processing Ticket expedites that process with a manufacturer and price ready to go at checkout. Buy a ticket. Receive a code. Print out the form in Step 4 with the code to ship with your parts.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   },
+   {
+    "quote": "Weigh all the green parts you plan to ship with your processing ticket. Again, one processing ticket only covers up to a total of 1kg in weight of BASF Ultrafuse printed green parts.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "レーザーやビームといった温度の高い熱源を利用するほか、造形庫内を不活性ガスで充填しているなど場合もあるため、冷却やガス交換のための付帯設備が必要になる場合もあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーによっては装置自体で対策を行っている場合もありますが、防塵防爆設備をそなえた環境での使用が望ましいでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "ADAMにより、いままでの金属3Dプリンタのように防爆設備が必要ないため、設備費用が圧倒的に低価格な上に安全で手軽に造形できます",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "3.金属粉末を使用しないので、防爆等の付帯設備も不要",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "従来の金属3Dプリンタのように防爆設備が必要ないため、安全です",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "完全に密閉されたビルドチャンバ、超静音モーションシステム、環境管理された材料保管庫を備えた3Dプリンタです",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "また、パウダーベッド方式などでは酸化を防ぐために不活性ガス（アルゴン・窒素）を使用します",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末は微細で発火・粉塵爆発のリスクがあるため、粉末の取り扱い・保管設備や防塵・防爆対策も必要です",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "設置環境（恒温室・空調・不活性ガス）、後処理・二次加工の設備または委託費、金属粉末・フィラメントの材料費、保守・電力・人件費などのランニングコストがかかります",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Performance Limits: DIY parts often suffer from high porosity and unpredictable 15-20% shrinkage, unlike industrial SLM/BJ which reaches 99%+ density.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "stable atmosphere control using inert or reducing gases such as argon or hydrogen",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "potentially hazardous off-gassing depending on material type",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "gas supply systems for inert or reducing atmospheres",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "safe storage and handling areas for materials and equipment",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "Green parts are weak due to binder content, and even after sintering at home they often contain porosity. In contrast, SLM-produced parts reach near-full density, giving significantly higher strength and reliability.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "ものづくりや物流の流動性が高まる昨今、金属3Dプリンターの需要は益々高まっていると言えるでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "治具、実験試作品、小ロット製品を３Dプリンタで造形したい",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "高額な導入費用は補助金やリースで抑えられる場合もありますが、試作や小ロットの段階では、初期投資が不要な受託造形サービス（外注）でコストを検証してから導入を判断するのが現実的です",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット試作から対応可能で、都内・近郊ユーザーにとってアクセスしやすい",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "AM（金属3Dプリント）用粉末の品質管理──粒度・流動性・酸素量の見方",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "粒度分布（D10/D50/D90）・流動性・酸素量の見方、PBF用とDED用の粒度範囲の違い、衛星粒子・内包ガスの問題、再使用粉末の管理方法を解説",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、量産フェーズでは切削加工や鋳造・鍛造の方がコストを抑えやすいため、「試作・小ロットは3Dプリント受託サービス、量産は切削・鋳造・鍛造」といった使い分けも実務ではよく行われています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット生産にも対応しているかは事前に確認しておきましょう",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：試作段階では小ロット・短納期に対応できる受託先が扱いやすくなります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "量産向けの大ロット対応が中心の業者だと、1〜数個の試作依頼を後回しにされたり、割高な設定になっていたりする場合があります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "試作の小ロットから量産規模まで柔軟に対応できるか",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "部品の形状・数量・後加工の有無によって異なりますが、試作程度の小ロットであれば数日〜1週間程度で対応できる受託先もあります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットでも受託サービスは依頼できますか？",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "切削加工・鋳造・鍛造など従来工法と比べて、複雑形状の一体成形や小ロット試作に強みがある一方、量産では割高になりやすい点は押さえておきましょう",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "受託先を選ぶ際は、対応材料・工法の幅、精度・実績、後加工までの一貫対応、小ロット対応、技術サポート・事前レビュー体制、他工法への対応・提案力の6点を確認することが失敗しないポイントです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "If there is a lot of wiggle room in the box, either use extra bubble wrap or throw in packing foam to reduce as much movement as possible.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "また製造ラインの一部として3Dプリンターの技術要素を取り入れた専用装置を組み込んだ専用生産ラインも登場しはじめたところです",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため3Dプリンターで生産するための最適な設計DfAM（Design for Additive Manufacturing：3Dプリンターならでは設計）への知見や、専用材料の評価基準、造形後の部品の品質評価方法などが確立されていません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を専用のバインダー材で固めながら造形する方式",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "表面を閉じ、中はクローズドセル上のラティス構造状に造形するため、見た目は製品そのままに軽量化を行うことができます",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "ed 3Dプリンタ専用ソフトウェアである Eiger は、操作が非常に簡単です",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "脱脂・焼結を行う専用炉を自社で用意する場合、炉を含めた実質的な導入費用は数百万円規模になることもあります",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "これらを自社で行うには専用設備が必要で、外部委託する場合も費用が発生します",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "ただし造形後に脱脂・焼結の後処理が必要で、専用炉や後処理委託の費用が別途かかる点に注意が必要です",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "（サポート材除去などで影響がある場合もあります）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "造形する側も事前のシミュレーションやパラメーター開発などを都度見直しながら取り組んでいる場合もあるでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートレス、高密度の部品造形が可能",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "熱源を照射した際のスパッタの影響や形状によって最適な造形条件を維持するためにリアルタイムでの造形監視とフィードバックによる最適化が品質向上のために必要となります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェット方式はサポート材が不要で比較的多くの数量を効率よく生産しやすい一方、焼結による収縮管理が必要です",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材不要、数量生産に対応しやすい",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "CADによるデータ準備、造形方向やサポート設計の最適化、後処理の管理など、運用には熟練した人材が欠かせません",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "35年以上の運用実績に基づく豊富なノウハウとサポート体制",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "AM向け設計最適化（DfAM）・サポート設計のコンサルティング提供有無",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "特にフェライト系ステンレス（SUS430）やアルミ合金の高精度・微細形状造形は、材料特性や造形条件の最適化が難しく、高度なノウハウが求められるため、対応可能な受託先は限られます",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材が不要なため複雑形状にも対応しやすく、生産性に優れています",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：熱処理、サポート材除去、表面仕上げ、機械加工などの後加工を追加するほど費用は上がります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "：熱処理・サポート除去・表面仕上げなど、後加工まで一括で依頼できると納期短縮・工数削減につながります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリントでは、造形方向やサポート設計によって品質やコストが大きく変わります",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "受託先を選ぶ際は、対応材料・工法の幅、精度・実績、後加工までの一貫対応、小ロット対応、技術サポート・事前レビュー体制、他工法への対応・提案力の6点を確認することが失敗しないポイントです",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "35年以上の運用実績に基づく豊富なノウハウとサポート体制",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "Training and Services",
+    "url": "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKb-YGrRfaytNVXXHR46rdrPMmjAq2LJ64HEv3RHr65Eus9Onhi",
+    "pass": 3
+   },
+   {
+    "quote": "To learn about available discounts, training, and maintenance options, please use the form below and a MatterHackers Expert will contact you within one business day. Alternatively, you can always feel free to give us a call",
+    "url": "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKb-YGrRfaytNVXXHR46rdrPMmjAq2LJ64HEv3RHr65Eus9Onhi",
+    "pass": 3
+   },
+   {
+    "quote": "Training and Services",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1 - Follow Printing Parameters for Printing Green Parts",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   },
+   {
+    "quote": "We strongly recommend following these parameters as they boost your chances of successfully transforming your green parts into solid steel during the debinding and sintering process.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   },
+   {
+    "quote": "To learn about available discounts, training, and maintenance options, please use the form below and a MatterHackers Expert will contact you within one business day. Alternatively, you can always feel free to give us a call",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "「寸法精度」と「再現性」を高い水準で実現する日本の品質基準は3Dプリンターの利用を検討する際の大きな検討課題です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "また「なぜ？なに？」をどんどん掘り下げる日本の製造現場のカイゼン圧力に対して、理論的な部分から適切に回答できる知見が育っていないという点も課題として挙がってくるでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "焼結炉運用のノウハウを持っている日本企業にとっては大きな可能性がある分野です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM方式などと呼ばれており、国内では三菱電機が取り組んでいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内で市販されている洗浄液が利用できます",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSは、1990年に日本で初めて3Dプリンターを導入し、試作品製作サービスを開始したパイオニア企業です",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級のキャパシティを誇る自社保有の樹脂3Dプリンターで製作対応",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "国内の金属3Dプリンター受託造形企業まとめ：PBF・DED・その他の方式別に解説 - 金属データブック 《たすいち》",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の金属3Dプリンター受託造形企業まとめ：PBF・DED・その他の方式別に解説",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンターで部品せを作りたいけれど、どの会社に頼めばいい？」——この記事では、国内で金属3Dプリンターの受託造形サービスを提供している企業を、",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "国内で受託造形を行う企業の多くがL-PBFを主体としており、コンフォーマルクーリング金型入れ子・航空宇宙部品・医療機器など、精度要求の高い用途に強みを持っています",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県行田市に「Nikon AM Technology Center Japan」を2025年開設",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "国内では清水建設グループや重工業メーカーが研究・実用化を進めています",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "国内ではまだ受託造形会社の数は少なく、欧米のサービスビューロを利用するケースも多い状況です",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Metal（ヘガネス社BJ）の国内での受託造形相談窓口",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外100社超のネットワークを活用したオンデマンド製造プラットフォーム",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal「Studio System 2」「Shop System」の国内での受託造形・コンサルティング",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "✅ まとめ：国内金属3Dプリンター受託造形で押さえておきたいこと",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "が最も普及しており、国内の受託会社数も最多",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "は金型補修・肉盛・傾斜機能材料に強みがあり、フジ・三菱電機・ニコンなど日本発の技術も育っている",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   },
+   {
+    "quote": "SOLIZE PARTNERSは、1990年に日本で初めて3Dプリンターを導入し、試作品製作サービスを開始したパイオニア企業です",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級のキャパシティを誇る自社保有の樹脂3Dプリンターで製作対応",
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "ADAMにより、いままでの金属3Dプリンタのように防爆設備が必要ないため、設備費用が圧倒的に低価格な上に安全で手軽に造形できます",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "Sinter-1は、Metal Xでプリントしたグリーンパーツを脱脂後、焼結し最終的な高密度の金属パーツに仕上げるための低価格でハイパフォーマンスな炉です",
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "pass": 3
+   },
+   {
+    "quote": "That last point matters. Many parts that start as printing candidates are cheaper and faster to machine, and a service that offers both can tell you which one fits.",
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Is it cheaper to buy a metal 3D printer or use a service?",
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "For occasional or varied demand, a service is usually cheaper. Buying makes sense when you have steady, high-volume demand in a few alloys and the staff and facilities to support the machine.",
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "High Hidden Costs: While metal 3d printers for home are cheap, the specialized furnaces required for sintering cost $10,000–$30,000 and carry significant safety risks.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "Q2:What is the cheapest way to get metal 3D printed parts?",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "具体的な金額は各メーカー・販売代理店の最新見積りをご確認ください",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄金属材料商社として有名な白銅が金属3D受託造形を提供",
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "保守・メンテナンス費（定期点検、消耗品・フィルター交換）",
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "pass": 3
+   },
+   {
+    "quote": "Total your expected metal parts per year and their current outsourced cost.",
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "目次 （1）はじめに （2）DEDとPBFの成長率 （3）DEDとPBFの成熟度 （4）DEDの同義...",
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": ". The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "However, they are not plug-and-play for this use case. You need hardened steel or tungsten carbide nozzles to handle abrasion. More importantly, dimensional accuracy at this stage is misleading. A printed “316L part” is not actually 316L yet. It is a polymer-metal composite that will shrink significantly during sintering, typically in the range of 15–20%, depending on the system.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "上位シェア%": [
+   {
+    "value": "20",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "quote": "However, they are not plug-and-play for this use case. You need hardened steel or tungsten carbide nozzles to handle abrasion. More importantly, dimensional accuracy at this stage is misleading. A printed “316L part” is not actually 316L yet. It is a polymer-metal composite that will shrink signific"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%8920-7521261055155642368-rgque",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7302431",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000353813",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vK_o2K2K6h9-GVsNpEX_YHo8EecdgIt_x1Yhp58Ez1Sk2F-7XaP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/column01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fasotec.co.jp/product/metal-x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vIx5SYZBzlHifJys8rSpvR-ZV7_LwxeBUl7cU_NNJBDc5HzjpOU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpc.toray/technology/additive-print/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/desktop-metal/product/shop-system.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vIpe8Wf7u9mAVbaioG9rB4HH9vsJ1QeQFEVa139b7lLLmp9dSJl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/binder-jetting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/guide-to-food-safe-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/news/2025/o9kyan-57quwy2a_.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://micro-mim-printing.com/column/294/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vJD8imsXRUw5UHf3EAeIG-hH2KHTJll8diIO89Z990eumBXQZ_-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://em.mitsui-kinzoku.com/ceramics/featured-content/ceramics-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/3d-printing-service-bureaus-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKb-YGrRfaytNVXXHR46rdrPMmjAq2LJ64HEv3RHr65Eus9Onhi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/ihfhqi/metal_3d_printing_at_home_with_ultrafuse_316l/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/zj9fjb/cost_of_sintering_3d_prints/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thevirtualfoundry.com/debind-sinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/14osxrs/can_this_possibly_be_true_metal_3d_printing_is/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0264127525007725",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.researchnester.jp/industry-analysis/binder-jet-market/2866",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%8920-7521261055155642368-rgque",
+    "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html",
+    "https://www.atpress.ne.jp/news/7302431",
+    "https://www.dreamnews.jp/press/0000353813",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://newscast.jp/news/2419954",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） 価格",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vK_o2K2K6h9-GVsNpEX_YHo8EecdgIt_x1Yhp58Ez1Sk2F-7XaP",
+    "https://www.ricoh.co.jp/3dp/metal/column01",
+    "https://www.fasotec.co.jp/product/metal-x",
+    "https://micro-mim-printing.com/column/294/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2102/04/news067.html",
+    "https://deskmin.net/2026/08/24/金属フィラメント焼結方法完全ガイド：脱脂方式/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） 主要メーカー 一覧",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vIx5SYZBzlHifJys8rSpvR-ZV7_LwxeBUl7cU_NNJBDc5HzjpOU",
+    "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） 代理店 日本",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://skhonpo.com/blogs/blog/3dmetal2025",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://online.solize.com/blog/3dp-metal3dp-installationcost",
+    "https://www.3d-printer.jp/desktop-metal/product/shop-system.html",
+    "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "https://www.tpc.toray/technology/additive-print/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） 規制 保管 危険物",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vIpe8Wf7u9mAVbaioG9rB4HH9vsJ1QeQFEVa139b7lLLmp9dSJl",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/binder-jetting/",
+    "https://formlabs.com/jp/blog/guide-to-food-safe-3d-printing/",
+    "https://www.shimadzu.co.jp/news/2025/o9kyan-57quwy2a_.html",
+    "https://micro-mim-printing.com/column/294/",
+    "https://www.3d-printer.jp/desktop-metal/binder-jetting.html",
+    "https://deskmin.net/2026/08/24/金属フィラメント焼結方法完全ガイド：脱脂方式/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） 純正 指定材料 互換",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html",
+    "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vJD8imsXRUw5UHf3EAeIG-hH2KHTJll8diIO89Z990eumBXQZ_-",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "https://em.mitsui-kinzoku.com/ceramics/featured-content/ceramics-3d-printer/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing market size CAGR",
+   "results": [
+    "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-3d-printing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "https://www.factmr.com/report/3d-printing-service-bureaus-market",
+    "https://www.psmarketresearch.com/market-analysis/3d-printing-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/aerospace-3d-printing-market-101613",
+    "https://www.rootsanalysis.com/3d-printing-market",
+    "https://www.youtube.com/watch?v=w7jHQUrTTaU",
+    "https://www.mordorintelligence.com/industry-reports/metal-3d-printing-market"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing price per kg",
+   "results": [
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://precisionexpedited.com/metal-3d-printer-vs-printing-service/",
+    "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKb-YGrRfaytNVXXHR46rdrPMmjAq2LJ64HEv3RHr65Eus9Onhi",
+    "https://www.reddit.com/r/3Dprinting/comments/ihfhqi/metal_3d_printing_at_home_with_ultrafuse_316l/",
+    "https://www.reddit.com/r/3Dprinting/comments/zj9fjb/cost_of_sintering_3d_prints/",
+    "https://top3dshop.com/product/raise3d-metalfuse-3d-printer",
+    "https://www.quora.com/How-much-is-3D-metal-printing",
+    "https://thevirtualfoundry.com/3d-printing-cost-efficiency-2/",
+    "https://inframotion3d.com/metal-3d-printing-cost/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing key players",
+   "results": [
+    "https://thevirtualfoundry.com/debind-sinter/",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJG6sIKA0krzoHti8UFNpBRJLnvauP3elhQRAKBZMYtpBqIiF-3",
+    "https://www.reddit.com/r/3Dprinting/comments/14osxrs/can_this_possibly_be_true_metal_3d_printing_is/",
+    "https://www.sciencedirect.com/science/article/pii/S0264127525007725",
+    "https://www.thefabricator.com/additivereport/article/additive/metal-3d-printer-eliminates-the-debinding-step",
+    "https://www.youtube.com/watch?v=NLomow0qVz8",
+    "https://www.desktopmetal.com/resources/sintering-101",
+    "https://www.elnik.com/technical-articles/the-basics-of-debinding-%26-sintering",
+    "https://umaine.edu/amc/wp-content/uploads/sites/106/2019/05/BMD-design-guidelines-22819.pdf",
+    "https://metalmerger.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing distributor Japan",
+   "results": [
+    "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/",
+    "https://www.youtube.com/watch?v=44Y91zkHJR0",
+    "https://thevirtualfoundry.com/services/",
+    "https://sodick.com/categories/3d-printing/",
+    "https://www.thefabricator.com/additivereport/article/additive/metal-3d-printer-eliminates-the-debinding-step",
+    "https://www.desktopmetal.com/",
+    "https://www.voxelmatters.directory/company-category/debinding-and-sintering/",
+    "https://move.forward-am.com/ultrafuse-metal-solutions",
+    "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "https://ensun.io/search/3d-metal-printing/japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing safety storage regulation",
+   "results": [
+    "https://thevirtualfoundry.com/getting-started-with-filamet-tips-for-debinding-and-sintering-metal-filament/",
+    "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKXF78BQU9fvPQ1Pv-MUa01ZN2DLK_9A6qBllGsSCVrIiUaV50V",
+    "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "https://www.reddit.com/r/3Dprinting/comments/14osxrs/can_this_possibly_be_true_metal_3d_printing_is/",
+    "https://www.metal-am.com/articles/safety-management-in-metal-3d-printing/",
+    "https://www.desktopmetal.com/uploads/20230601_Metal3DSiteEvalGuide.pdf",
+    "https://umaine.edu/amc/wp-content/uploads/sites/106/2019/05/BMD-design-guidelines-22819.pdf",
+    "https://www.cdc.gov/niosh/docs/2020-114/pdfs/2020-114.pdf",
+    "https://www.youtube.com/watch?v=et0z9DnBr6E",
+    "https://layercraftlog.com/slicer-software/what-safety-precautions-are-needed-for-metal-3d-printing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing closed system open material third-party",
+   "results": [
+    "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "https://www.sciencedirect.com/science/article/pii/S0264127525007725",
+    "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "https://www.reddit.com/r/3Dprinting/comments/14osxrs/can_this_possibly_be_true_metal_3d_printing_is/",
+    "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKL3JgYjFrjHd8NbKvlOkFyOlrEncXot3XFfQLd3U6x3ZL8L7m9",
+    "https://umaine.edu/amc/wp-content/uploads/sites/106/2019/05/BMD-design-guidelines-22819.pdf",
+    "https://www.desktopmetal.com/",
+    "https://sodick.com/blog/types-of-metal-3d-printing-explained-slm-dmls-vs-binder-jetting-and-why-the-difference-matters-for-your-shop/",
+    "https://www.xometry.com/resources/3d-printing/types-of-metal-3d-printing/",
+    "https://ams3dmetal.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing commodity price competition",
+   "results": [
+    "https://thevirtualfoundry.com/metal-3d-printing-in-jewelry-case-study/",
+    "https://markforged.com/resources/blog/comparing-metal-3d-printing-technologies-pros-and-cons-market-outlook-how-they-work",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJXdBlS0NfJ5nmSed2kxRuPmJAbYRxRfVJnuwcBKhncr5AfMZB2",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.reddit.com/r/3Dprinting/comments/d8rnz4/printing_metal_is_getting_cheaper_5k_plus_kiln/",
+    "https://www.facebook.com/MaterialiseNV/posts/up-to-10-of-your-metal-3d-printing-production-costs-can-be-lost-to-scrap-learn-t/1383764660456793/",
+    "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "https://www.thefabricator.com/additivereport/article/additive/metal-3d-printer-eliminates-the-debinding-step"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing technical support parameters",
+   "results": [
+    "https://thevirtualfoundry.com/debind-sinter/",
+    "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vKF1mrratfnqdKSOXn-l7A_mBDWKT1XtzgMgZGqFdnpcECziP1P",
+    "https://www.sciencedirect.com/science/article/pii/S0264127525007725",
+    "https://umaine.edu/amc/wp-content/uploads/sites/106/2019/05/BMD-design-guidelines-22819.pdf",
+    "https://www.reddit.com/r/3Dprinting/comments/ihwrm3/debinding_and_sintering_in_my_garage/",
+    "https://forward-am.com/wp-content/uploads/2021/04/UserGuidelines_2021_03_29.pdf",
+    "https://www.elnik.com/technical-articles/the-basics-of-debinding-%26-sintering",
+    "https://www.youtube.com/watch?v=44Y91zkHJR0",
+    "https://community.ultimaker.com/topic/33826-how-to-3d-print-with-metal/",
+    "https://www.desktopmetal.com/resources/sintering-101"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け）",
+   "results": [
+    "https://note.com/mazzo/n/na6ba792d8a49",
+    "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/takudooon/n/nbefaeb6bb223",
+    "https://note.com/qy_research/n/n29da686bc801",
+    "https://note.com/kinzoku2/n/n4caa06ff2536",
+    "https://note.com/skhonpo/n/nc1704938f168"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2102673441774301206",
+    "https://jf.x.com/images/media-preview/2106821713644372314",
+    "https://x.com/tonnsoku943/status/2070701583525142648",
+    "https://x.com/hashtag/金属３Dプリンター",
+    "https://x.com/daiichiceramo",
+    "https://x.com/momomonin2/status/2118338314717794741",
+    "https://x.com/3DFilamentTokyo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け）",
+   "results": [
+    "https://www.linkedin.com/company/zen-global-co-ltd",
+    "https://no.linkedin.com/in/kaja-bollingmo-7b2954212/es",
+    "https://jp.linkedin.com/pulse/積層造形用金属フィラメント市場の市場セグメンテーションと市場シェアに基づく予測2026年から20-7521261055155642368-rgque",
+    "https://jp.linkedin.com/pulse/真空焼結脱脂一体炉のメーカー別シェアと動向-re-search-markets-drj3e",
+    "https://jp.linkedin.com/posts/re-search-markets_真空焼結脱脂一体炉のメーカー別シェアと動向-activity-7518569869978742784-OoGk",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7100692457704603648/?origin=SHARED_BY_YOUR_PAGES",
+    "https://pe.linkedin.com/posts/keiko-kato-a73b62243_金属3dプリンタ-積層造形-geadditive-activity-7103020499659603968-Icj3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け）",
+   "results": [
+    "https://www.facebook.com/flashforge.co.jp/posts/adventurer3xでお使いいただける金属フィラメントの販売と脱脂焼結サービスをリリースしました詳しくは以下のページからご確認くださいhttpsflashf/3152664414781416/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/557016636427931/",
+    "https://www.facebook.com/metalprintj3d/posts/株式会社j３d-金属３dプリンター受託造形サービスご報告ｊ３ｄが３ｄ造形した作品技術の進化がdmg森精機殿主催第21回切削加工ドリームコンテスト先端加工部門/2560003864499837/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/675479604581633/",
+    "https://www.facebook.com/nidec.machinetool/posts/当社はdigital-metal-社製のバインダージェット方式金属3dプリンターdmp2500の販売とアフターサービスを行っていますバインダージェット方式は金属/3227689090844514/",
+    "https://www.facebook.com/ShimadzuCorporation/posts/プレスリリース工業炉などを手掛ける島津産機システムズ株は小型真空脱脂焼結炉vhs-cubeに金属3dプリンター-向けの設定データを自動で算出する自動レシピ生成機/1214826653779794/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/5678699395480369/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け） X 投稿",
+   "results": [
+    "https://deskmin.net/2026/08/24/金属フィラメント焼結方法完全ガイド：脱脂方式/",
+    "https://3dfs.idarts.co.jp/items/23381305",
+    "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html",
+    "https://3dfs.idarts.co.jp/items/130238557",
+    "https://kepka.tech/ja/debinding-and-sintering/",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/",
+    "https://www.harbermetal.com/jp/Debinding-Sintering-Processes/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "debinding and sintering service metal 3D printing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/selective-laser-sintering-sls-metal-parts-3d-printing-成洋-周-igcpc",
+    "https://www.linkedin.com/posts/3dprint-com_3dpod-314-debinding-sintering-and-metal-activity-7505235045473816576-DlOJ",
+    "https://it.linkedin.com/posts/raise3d-inc._raise3d-metalfuse-full-in-house-metal-3d-activity-7072748994598219777-MR0r",
+    "https://mx.linkedin.com/company/desmoinesprinting",
+    "https://uk.linkedin.com/in/hamza-lemssouguer-109b884b",
+    "https://be.linkedin.com/in/katty-peeters-928b46434",
+    "https://uk.linkedin.com/in/kate-platonova"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

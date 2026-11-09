@@ -1,0 +1,1498 @@
+{
+ "name": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係）",
+ "en": "wire arc additive manufacturing wire feedstock welding wire market",
+ "aliases": [
+  "WAAM ワイヤー",
+  "積層造形 溶接ワイヤ",
+  "ワイヤーDED 材料"
+ ],
+ "context": "ワイヤー",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:15:38.919251+00:00",
+ "evidence": {
+  "装置縛り・オープン材料": [
+   {
+    "quote": ": 大型部品のオープン環境造形に最適で、最も高い堆積速度を誇り、実装が容易で装置コストも低廉です",
+    "url": "https://hdc3d.com/ja/about-waam/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAMは、様々な一般的な溶接ワイヤと幅広い材料互換性を提供します：",
+    "url": "https://met3dp.com/ja/waam-202403224/",
+    "pass": 3
+   },
+   {
+    "quote": "その基本原理、材料の互換性、さまざまなプロジェクト要件への適合性を理解することで、どちらの技術がお客様のニーズに最も合致するかを、十分な情報を得た上で決定することができます",
+    "url": "https://met3dp.com/ja/waam-202403224/",
+    "pass": 3
+   },
+   {
+    "quote": "10m越えの専用チャンバーと、2台のロボットアームを使用して製",
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading position of North America was validated through Dataintelo primary research with market participants and cross-checked against the location of disclosed system orders and installations.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "proprietary workflow solution, MetalXL",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The MX3D MetalXL proprietary software is the real game-changer and what makes MX3D Systems stand out from the competitors’ WAAM machines, together with the offered add-ons. Paired with our industrial expertise, robotic Wire Arc Additive Manufacturing (WAAM) becomes a seamless workflow in which design, robotics, and software operate as one integrated system.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "No PWHT, locked-in stress exceeds yield",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "KUKA KRC2からKRC4へのアップグレード：移行パスと互換性",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "CAD設計が壁厚やオーバーハングなどの造形適性チェックを終えた後、パラメータとプリント戦略に基づいてツールパス計画を生成し、WAAMシステムへ送信してプリントを開始します",
+    "url": "https://hdc3d.com/ja/about-waam/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAMシステムはセミオートマチックな柔軟構成で動作し、制御システムが主要なプロセスパラメータを監視してオペレーターに警告します",
+    "url": "https://hdc3d.com/ja/about-waam/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのパラメータのいずれかが適切に制御されない場合、WAAM製造プロセスによって得られる製品は信頼性・有効性に欠け、多孔質な部品を含む可能性があります",
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップクラスのメーカーでは、高付加価値用途において99.8％の堆積信頼性を確保するために極めて重要なパラメーターに対し、統計的工程管理（SPC）を導入しており、相対的安定性指数（CpK）は1.33以上を達成しています",
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形で鋭角(45°以下)の造形を行う場合は、サポートと呼ばれる格子状の支えを必要とするの",
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が常識だったが、サポート無しで水平方向及びアーチ状に造形した例を図 5 に示す",
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図 5 サポートなしの鋭角造形",
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Robotは、ワイヤーDED方式の金属3Dプリンターで、大型サイズの部品や製品、複雑な形状をサポートレスでプリントできます",
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形時間を大幅に短縮できることと、6軸のロボットアームを活用することでサポート材が不要と、生産コストの削減を実現可能です",
+    "url": "https://news.sharelab.jp/study/am-ded/",
+    "pass": 3
+   },
+   {
+    "quote": "Speed is a critical metric for industrial adoption. While processes like PBF offer excellent resolution, they are inherently slow, typically achieving deposition rates of just 0.1 to 0.5 kg/h. In contrast, WAAM offers a massive speed advantage. Depending on the material and specific process parameters, often controlled by dedicated software like",
+    "url": "https://mx3d.com/why-waam-matters/",
+    "pass": 3
+   },
+   {
+    "quote": "Key WAAM Process Parameters",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Parameters the article must define (no recipes)",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "What these documents do not provide is a universal parameter recipe. They standardize terminology, define control topics, and help structure evidence, but they do not eliminate the need for testing and qualification work. NIST IR 8538 is especially useful here because it makes clear that monitoring, NDE, and qualification practice still have specificity gaps in real use.",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key WAAM process parameters?",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Developed entirely for industrial Wire Arc Additive Manufacturing, MetalXL combines real‑time process control, automated quality monitoring, intelligent parameter management, flexible start‑stop arrangement, simultaneous logging of multiple certified material strategies, and customizable boundaries for each parameter.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-purchase phase and steps: System deployment, installation, process validation, training, long-term comprehensive customer support, and software updates",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, after accounting for the WAAM System cost, including the cell, robot, power source, cleaning station, calibration, and safety devices and solutions such as the emergency button, safety gadgets, the total cost of post-purchase services, such as installation, deployment, training, add-ons, and software, must be considered when evaluating the ROI of this technology.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "To tailor your project, we can validate and refine per-kg figures for your process parameters and finishing scope, precisely personalized according to the project needs, used materials, and printing requirements.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing complexity arises because each system is sold as a turnkey package rather than bare hardware: robot(s), welding power source and wire‑feed, MetalXL software licensing, safety enclosure and ventilation, integration and commissioning, add-ons, operator training, and an initial support period are bundled together.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The following two comparative tables of the MX3D M1 and MX systems are meant to specifically and comprehensively outline the characteristics, quality, efficiency, metrics, parameters, capabilities, and key points of each of the two Metal AM systems.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "If you want a specific, tailored quote for our MX3D M1 or MX Metal AM Systems for a configuration that lists cell capability, consumables, add-ons, installation, training, and support, we are happy to prepare a detailed proposal tailored to your specific project requirements, needs, parts, materials, and production goals.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM Wire Arc Additive Manufacturing Guide: Parameters & ROI",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "試運転、診断、改修、立ち上げをサポートします",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりのサポート、セールスエンジニアリングへのお問い合わせ、Industrial Monitor Directについての詳細をご覧いただけます",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "セールスエンジニアリングおよびサポートへのお問い合わせです",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing: Process Parameters & Eco...",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing: Process Parameters & Economics",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "Process Parameters Reference",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "Start-point parameter windows for common WAAM builds. Values are aligned with published OEM procedure sheets for the corresponding wire diameters:",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "The single biggest planning parameter is layer height h. With bead width w (typically 5–8 mm for 1.2 mm wire at 9 mm/s travel), overlap ratio OL is:",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "— bind all parameters, dwell times, gas flows, and inspection results into a controlled WPS for production.",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "KR C2およびLBR iiwaにおけるKUKAジョイントプロファイルの設定",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "米国資本の産業用コンピューティング — メイン州サンフォードで設計・サポートしている、堅牢なパネルPC、タッチスクリーンモニター & ミニPC",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "HDCは韓国および日本におけるMX3Dのリセラーです",
+    "url": "https://hdc3d.com/ja/about-waam/",
+    "pass": 3
+   },
+   {
+    "quote": "高強度アルミ合金ワイヤーの国内開発を目指し、以下を検討中",
+    "url": "https://www.ard.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高強度アルミ合金ワイヤーの国内開発を目指し、以下を検討中",
+    "url": "https://www.kenkai.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "LENSは指向性エネルギー堆積法の中でもレーザーを用いた造形法で、日本語ではレーザー直接堆積法とよばれることもあります",
+    "url": "https://news.sharelab.jp/study/am-ded/",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada, United Kingdom, Germany, Netherlands, Norway, Spain, Australia, China, Japan, Singapore, Malaysia, Brazil, Mexico, Saudi Arabia, United Arab Emirates",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.2.2 Japan",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America leads with 40.0% of 2025 value and grows at 16.2% a year, driven by US Navy and shipyard demand including six ARCEMY X systems ordered by Newport News Shipbuilding. Asia Pacific is the fastest growing region at 18.2% a year, supported by the DAIHEN launch in Japan, the WAAM3D agreement in Malaysia and Vallourec printing in Singapore.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "WAAM について： ワイヤー アーク積層造形 — WAAM について： ワイヤー アーク積層造形 hdc3d.com https://hdc3d.com > about-waam",
+    "url": "https://hdc3d.com/ja/about-waam/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM用ワイヤー 品質ガイド：5つの重要な特性 — WAAM用ワイヤー 品質ガイド：5つの重要な特性 Nanjing Enigma https://global.enigma-ded.com > blog > what-characteristi...",
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "信頼できるサプライヤーは、AWS A5.xxおよびEN ISO 14341に適合する各ロールについて認証を取得し、化学組成および機械的試験の結果を含むトレーサビリティのあるロット記録を保持します",
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "pass": 3
+   },
+   {
+    "quote": "ASTM／EN規格およびトレーサビリティ要件",
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙およびエネルギー分野のプロジェクトでは、認定済み工場試験報告書（Mill Test Report）を通じた材料のトレーサビリティが、原材料から完成巻き取りスプールに至るまでの監査可能な履歴を提供し、これは絶対に不可欠な要件です",
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーは、認定工場試験報告書（certified mill test reports）という形で追跡可能な文書を提供することが義務付けられています",
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "pass": 3
+   },
+   {
+    "quote": "主な用途としては、試作品などの小ロット生産や金型の製作などが挙げられます",
+    "url": "https://news.sharelab.jp/study/am-ded/",
+    "pass": 3
+   },
+   {
+    "quote": "of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Qualification Opens Serial Production",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "often contract qualification work before committing to a machine. Software for path planning and process monitoring, such as WAAM3D WAAMPlanner, is mostly sold with systems, and the two WAAM3D installations at CCAM in January 2026 passed acceptance testing on software integration as well as performance.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing and qualification remain the practical brake on growth. The American Welding Society Welding Digest noted in 2025 that machining and inspection after the build constrain throughput, and every new aerospace or nuclear part number needs its own approval. Suppliers that pair cells with in-process monitoring and the inspection services sold in the",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global revenue from wire arc additive manufacturing (GMAW and CMT, GTAW and plasma arc wire deposition): WAAM systems and deposition heads, WAAM path planning and monitoring software, and WAAM contract part printing, repair and qualification services.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers are small and many are loss-making: Norsk Titanium reported USD 4.1 million of 2025 revenue and other income, burned an average of USD 2.6 million a month and retracted its revenue guidance in February 2026. Post-build machining and inspection constrain throughput, and each new aerospace or nuclear part needs its own qualification before production.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and naval is the largest application with 32.0% of 2025 value and the fastest at 19.3% a year, led by submarine components and surface warship parts. Aerospace grows at 17.3% a year on Airbus qualification work with Norsk Titanium, and energy and power generation also grows at 17.3% a year on utility repair programs such as the Tennessee Valley Authority installation.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hardfacing and coating contexts",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "What these documents do not provide is a universal parameter recipe. They standardize terminology, define control topics, and help structure evidence, but they do not eliminate the need for testing and qualification work. NIST IR 8538 is especially useful here because it makes clear that monitoring, NDE, and qualification practice still have specificity gaps in real use.",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose WAAM when the part is large, the alloy and wire route are practical, and machining is acceptable. Choose LPBF when thinner layers, finer detail, and powder-bed build logic better match the design requirement. Neither process is universally better; they solve different production problems and impose different post-processing and qualification burdens.",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Common WAAM material classes include steels, aluminum alloys, titanium alloys, and nickel-based alloys. In practice, suitability depends on more than alloy family: weldability, wire availability, oxidation control, feed stability, and the qualification route all matter. PAS 6010 also highlights wire-specific quality topics such as dimensions, tolerances, cast, and helix.",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "MetalXL LIVE is the real-time monitoring and control interface. It enables users to simulate the print before execution, supervise the process as it runs, and automatically log all production data through the integrated MetalXL control system, ensuring stability and full traceability.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualification and post-processing: heat treatment, NDT, and traceable documentation add services and time.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "material traceability, mechanical testing, and regulatory approvals add project-specific costs.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Values ​​​​​​​​​​​​​​​​​​​​assume a stable, productive process and exclude amortization, qualification, scrap, rework, logistics, post-machining, heat treatment, and certification standards for specific prints and regional installation differences, but MX3D includes all these details and aspects in the proposed quote for any project.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Layer height too coarse, no contour passes",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "Verify weld procedure qualification",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Both ASME Section IX and AWS D1.1 cover GMAW procedures with CWB/AWS-certified welders and WPS qualification; a WAAM cell follows the same procedure-qualification pathway as a multi-pass weld, with the additional requirement to document layer-by-layer heat input and interpass temperature as part of the PQR.",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "VIGA（真空誘導不活性ガスアトマイズ）装置",
+    "url": "https://met3dp.com/ja/waam-202403224/",
+    "pass": 3
+   },
+   {
+    "quote": "反応性が高く、印刷には不活性ガス環境が必要",
+    "url": "https://met3dp.com/ja/waam-202403224/",
+    "pass": 3
+   },
+   {
+    "quote": "参照先: https://patentimages.storage.googleapis.com/83/25/a2/c6e506fcb62cf6/US1533300.pdf",
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 and reaches",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry and hybrid machines carry the highest value per unit. Large naval and energy parts often exceed robot reach, which is why the ARCEMY X 6700 family and the GEFERTEC arc80X series, launched in March 2024 for large energy sector components, are built for scale. Integrators of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continue until the target geometry is reached.",
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Robot and positioner spec: payload, reach, and axis count.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "PWHT (post-weld heat treatment) is standard for ferritic and martensitic steel WAAM parts to relieve residual stress and temper the HAZ. Typical schedule for ER70S builds: hold at 595°C ± 15°C for 1 hour per inch of thickness, slow cool ≤55°C/hr to 315°C, then air cool. For 17-4 PH: solution treat at 1040°C, age at 480°C × 1 hr (H900) to reach 44 HRC.",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   },
+   {
+    "quote": "A FANUC M-20iD/25 on a 3 m linear track reaches roughly 3 m × 1.5 m × 1 m; Cartesian gantries built from THK or Hiwin rails commonly reach 6 m × 3 m × 2 m. Beyond that, multi-robot or rotary-table configurations are used, with cycle-time overhead from setup.",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "WAAMシステムは、既存のアーク溶接技術を活用しているため、DED装置、特にレーザーや電子ビームを使用する装置よりも低価格である",
+    "url": "https://met3dp.com/ja/waam-202403224/",
+    "pass": 3
+   },
+   {
+    "quote": "Is WAAM cheaper than laser powder bed fusion?",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "For high-volume production, dedicated foundries, investment casting, or stamping remain cheaper per part once tooling is amortized. WAAM stays competitive in the 1–500 parts/year low-volume segment, where tooling cost and lead time dominate the total-cost equation.",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "で造形が可能な為、設備費用が数千万円といわゆる金属3Dプリンタの中では比較的安価かつ持ち運",
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prices vary with size and automation. DAIHEN priced its ArcBuilder 3D turnkey system at USD 450,000 to 500,000 at its 2026 launch, while large custom gantry cells cost far more: Newport News Shipbuilding paid about AUD 9.9 million for four AML3D ARCEMY X 6700 systems in March 2026, or roughly AUD 2.5 million per cell including integration.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 2025 base was validated through Dataintelo primary research with WAAM system builders and service bureaus and cross-checked against the company revenue and volume and price sizing legs.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Standard welding wire costs €5–15 per kg, against €50–200 per kg for the atomized powder used in powder bed fusion. Subtractive methods often waste 70–90% of the material; WAAM leaves only 5–10% to remove in CNC finishing.",
+    "url": "https://mx3d.com/why-waam-matters/",
+    "pass": 3
+   },
+   {
+    "quote": "€5-15/kg (Welding wire)",
+    "url": "https://mx3d.com/why-waam-matters/",
+    "pass": 3
+   },
+   {
+    "quote": "€50-200/kg (Atomized powder)",
+    "url": "https://mx3d.com/why-waam-matters/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM excels in scale, speed, and cost for large metal parts. It achieves deposition rates of 2-15 kg/h and uses inexpensive welding wire (€5-15/kg), whereas methods like Powder Bed Fusion are slower (0.1-0.5 kg/h) and use expensive powder (€50-200/kg).",
+    "url": "https://mx3d.com/why-waam-matters/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM Machine Price & Cost Guide | M1 & MX Systems Pricing | MX3D",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM machine pricing depends on system capability, not a single list price. The MX3D M1 prints parts up to 2,200 × 1,400 × 1,700 mm and 750 kg; the MX system handles parts from 1,000 to 20,000 kg.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "These elements influence the actual value of the quotes, modify the final price depending on the country, market, quantity of systems, and also the transport distance, so the logistics behind the shipment and deployment of the MX3D M1 and MX Systems. For procurement, this means you must compare capability packages (what’s included) rather than single line-item prices.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D offers complete packages, tailored for each customer, where all these features and add-ons are included in the final price and quote for the M1 and MX WAAM Metal AM Systems.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Approximately €10-€27/kg for steel/SS, €46-€94/kg for Inconel, and €57-€117/kg for titanium. These figures include wire, gas, energy, and operator costs but exclude post-machining and certification.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "The economic wedge WAAM exploits is the gap between wrought/cast bar stock price and finished machined cost. A 2-ton 6061 billet machined down to 40 lb represents a 98% buy-to-fly ratio; WAAM inverts that ratio by depositing only the material needed to machine the final geometry. AWS coverage frames WAAM as a practical, scalable answer for large, high-demand industrial components: see",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "Wire Arc Additive Manufacturing Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market Size, Share and Forecast Report 2025 to 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$160 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$608.47 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$448.47 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Contract part printing is the largest service line: AML3D signed a $2.6 million (AUD) contract in FY2026 to supply high demand, non-safety critical replacement components for US Navy submarines, and Lincoln Electric Additive Solutions sells printed parts alongside its SculptPrint cells. RAMLAB applies the same model to repair and remanufacturing, and buyers of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year, driven by nickel aluminium bronze for submarine valves, fittings and propulsion parts; in March 2026 AML3D won an AUD 2.61 million US Navy contract for such components. Nickel alloys grow at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "FY2026 revenue AUD 12.5 million, up 70%; AUD 9.9 million order for four ARCEMY X systems, March 2026",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D reported record FY2026 revenue including lease income of AUD 12.5 million, up 70%, and its first profitable half year.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D won an AUD 2.61 million US Navy contract for submarine replacement parts in nickel aluminium bronze.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D received an order worth about AUD 9.9 million for four ARCEMY X systems from HII Newport News Shipbuilding.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$160 Million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Customizable >4 m parts; high payloads (multi-tonnes); multi-robot, production-grade architecture.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "by 2034, a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR to 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Global Wire Arc Additive Manufacturing market share by region. Source: Dataintelo research.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Wire Arc Additive Manufacturing market share by segment. Source: Dataintelo research.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive chapter profiles 14 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.2 Global Wire Arc Additive Manufacturing Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading WAAM system manufacturers?",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading position of North America was validated through Dataintelo primary research with market participants and cross-checked against the location of disclosed system orders and installations.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fronius welding system integration (a leading brand in controlled metal deposition)",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "now leading the way (",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "Aerospace OEMs and tier suppliers grow at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Contractors and Shipyards, Aerospace OEMs and Tier Suppliers, Energy and Industrial Manufacturers, Service Bureaus and Contract Manufacturers, Research Institutes and Universities",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.2 List of Key Distributors",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.2.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers, distributors, resellers, and system integrators",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its PolyCore hardware partner network",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Start-point parameter windows for common WAAM builds. Values are aligned with published OEM procedure sheets for the corresponding wire diameters:",
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "When buying a WAAM System, the involved WAAM technology operating costs matter as much as the headline WAAM machine price when evaluating the entire WAAM machine cost. In fact, elements such as wire feedstock, shielding gas, energy consumption, operator time, post-processing such as CNC finishing and heat treatment, and certification or NDT, all add to the campaign cost.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Request vendor estimates for wire cost per kilogram by alloy family, gas and energy consumption per kilogram deposited, and an operator model so you can calculate a realistic cost per kilogram deposited for your parts. Post machining, heat treatment, and certification costs should be modeled separately because they vary with tolerance and application requirements.",
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "\\Meltio社よりウェビナー開催のお知らせ ／... - 株式会社3D Printing... FasTech社のビジネス開発ディレクターであるYashwanth Bandariを迎え、ニッケル基超合金を使用したワイヤーDED方式の技術について説明いたします！ さらにWAAM方式とワイヤーDED方式におけるニッケル基超合金の造形事例や、それぞれの比較を解説。",
+    "url": "https://www.facebook.com/3dpco/posts/meltio社よりウェビナー開催のお知らせfastech社のビジネス開発ディレクターであるyashwanth-bandariを迎えニッケル基超合金を使用したワイ/868855581925648/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.0",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mrctechforum.inkrich.com/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6104846",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%9B%BA%E4%BD%93%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E5%B8%82%E5%A0%B4-113477",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6104846?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/about-waam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vL_iPr4VszJD1rA1Z4d_9dG_67ChgcyfCPM44soe7rCZ8VxcBem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/waam-202403224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.yoshikawa-kinzoku.co.jp/products/lineup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vLLbCP-ZU29RnOItg5sXJJ-R1gh1fKOJ3BNSnLZ2mTiPhYvDKfZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartdiys.com/blog/laser-welding-wire/?srsltid=AYCX9vL5nfJYCLQzPbMdOoasdbtPud7ho9ivmxIdYmRIedlbZIIPtf-Y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weld-all.jp/blog/welding-wire-types/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobelco.co.jp/products/download/welding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/content/data/WS/PDF/201706_WIRE.pdf",
+    "status": "network_error:ReadTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-117047/attr_f1075-4/?srsltid=AYCX9vJTxKC6Nv6eV5xLcIz4bdYtdQqEtzpIAYT45oF0JfsSzVuM83nK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyafasteners.com/ja/Welding-Wire-pl8530695.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.3a-sangyo.co.jp/publics/index/347/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vJYClTojWa68DbO_3FHrCF2Ebc9CZCfWdB0ztNbIHTyerKj5gWc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jkw.co.jp/wp-content/uploads/2022/02/J-J_KM-50ZS.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kobelco.co.jp/products/welding/pdf/catalog.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.correns.co.jp/supplier/durum/products/durmat-oa-ftc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ard.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kenkai.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vJd6UiuxMZ_8kOSbMjE7le_wX4L56NBhjvznw27SKcmTcGtGiAn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/am-ded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/wire-arc-additive-manufacturing-solution-market-reach-jctlf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx3d.com/why-waam-matters/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/welding-wires-market-101597",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/waam-machine-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2071-1050/14/9/5197",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/277921887_Wire_Arc_Additive_Manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/blog-posts/wire-or-powder-based-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ramlab.com/resources/waam-101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/3dpco/posts/meltio社よりウェビナー開催のお知らせfastech社のビジネス開発ディレクターであるyashwanth-bandariを迎えニッケル基超合金を使用したワイ/868855581925648/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） 市場規模 CAGR",
+   "results": [
+    "https://www.theinsightpartners.com/ja/reports/welding-wires-market",
+    "https://mrctechforum.inkrich.com/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%8B%E3%82%A6%E3%83%A0%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1",
+    "https://newscast.jp/news/6104846",
+    "https://www.fortunebusinessinsights.com/jp/%E5%9B%BA%E4%BD%93%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4%E5%B8%82%E5%A0%B4-113477",
+    "https://www.atpress.ne.jp/news/6104846?ct_1I61546c0e0IM827=15.2.365.DxAaqTPAPjkAIAW8.365.DwOIb02APjDZwyhy.DxAaqTPAPjkAIAW8.null&catsConversionApi=true",
+    "https://hdc3d.com/ja/about-waam/",
+    "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "https://monoque.jp/news/b6fa04d118e2793fcd9579ad6edd5b82ad8fdeac/",
+    "https://www.mordorintelligence.com/ja/industry-reports/welding-consumables-market"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） 価格",
+   "results": [
+    "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vL_iPr4VszJD1rA1Z4d_9dG_67ChgcyfCPM44soe7rCZ8VxcBem",
+    "https://hdc3d.com/ja/about-waam/",
+    "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "https://met3dp.com/ja/waam-202403224/",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "http://www.yoshikawa-kinzoku.co.jp/products/lineup/",
+    "https://www.daihen.co.jp/newinfo_2026/news_260518_02.html",
+    "https://www.daihen-robot.com/event/rtj2026/pdf/corner11_pre.html",
+    "https://www.chalcotitanium.com/ja/products/titanium-wire/3d-titanium-wire",
+    "https://www.ard.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） 主要メーカー 一覧",
+   "results": [
+    "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vLLbCP-ZU29RnOItg5sXJJ-R1gh1fKOJ3BNSnLZ2mTiPhYvDKfZ",
+    "https://mono.ipros.com/cg2/%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4/",
+    "https://www.smartdiys.com/blog/laser-welding-wire/?srsltid=AYCX9vL5nfJYCLQzPbMdOoasdbtPud7ho9ivmxIdYmRIedlbZIIPtf-Y",
+    "https://hdc3d.com/ja/about-waam/",
+    "https://weld-all.jp/blog/welding-wire-types/",
+    "https://www.kobelco.co.jp/products/download/welding/",
+    "http://www.yoshikawa-kinzoku.co.jp/products/lineup/",
+    "https://industrial.panasonic.com/content/data/WS/PDF/201706_WIRE.pdf",
+    "https://www.chalcotitanium.com/ja/products/titanium-wire/3d-titanium-wire",
+    "https://met3dp.com/ja/waam-202403224/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） 代理店 日本",
+   "results": [
+    "https://hdc3d.com/ja/about-waam/",
+    "https://mono.ipros.com/cg2/%E6%BA%B6%E6%8E%A5%E3%83%AF%E3%82%A4%E3%83%A4/",
+    "https://www.monotaro.com/s/c-117047/attr_f1075-4/?srsltid=AYCX9vJTxKC6Nv6eV5xLcIz4bdYtdQqEtzpIAYT45oF0JfsSzVuM83nK",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://www.kobelco.co.jp/products/download/welding/",
+    "https://www.kyafasteners.com/ja/Welding-Wire-pl8530695.html",
+    "http://www.3a-sangyo.co.jp/smarts/index/347/",
+    "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "https://industrial.panasonic.com/content/data/WS/PDF/201706_WIRE.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） 規制 保管 危険物",
+   "results": [
+    "https://hdc3d.com/ja/about-waam/",
+    "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vJYClTojWa68DbO_3FHrCF2Ebc9CZCfWdB0ztNbIHTyerKj5gWc",
+    "https://www.jkw.co.jp/wp-content/uploads/2022/02/J-J_KM-50ZS.pdf",
+    "https://www.kobelco.co.jp/products/welding/pdf/catalog.pdf",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://industrial.panasonic.com/content/data/WS/PDF/201706_WIRE.pdf",
+    "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "http://www.yoshikawa-kinzoku.co.jp/products/lineup/",
+    "https://www.correns.co.jp/supplier/durum/products/durmat-oa-ftc.html",
+    "https://met3dp.com/ja/waam-202403224/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） 純正 指定材料 互換",
+   "results": [
+    "https://hdc3d.com/ja/about-waam/",
+    "https://www.monotaro.com/note/productinfo/welding_wire/?srsltid=AYCX9vJd6UiuxMZ_8kOSbMjE7le_wX4L56NBhjvznw27SKcmTcGtGiAn",
+    "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "https://weld-all.jp/blog/welding-wire-types/",
+    "https://www.kobelco.co.jp/products/download/welding/",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "https://news.sharelab.jp/study/am-ded/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market market size CAGR",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.linkedin.com/pulse/wire-arc-additive-manufacturing-solution-market-reach-jctlf",
+    "https://mx3d.com/why-waam-matters/",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.fortunebusinessinsights.com/industry-reports/welding-wires-market-101597",
+    "https://www.openpr.com/news/4654183/growth-of-the-wire-arc-additive-manufacturing-cell-market-driven",
+    "https://www.marketresearchfuture.com/reports/welding-consumables-market-22922",
+    "https://www.waam3d.com/blog-posts/wire-or-powder-based-additive-manufacturing",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6480198/",
+    "https://pmarketresearch.com/auto/wire-arc-additive-manufacturing-solution-market/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market price per kg",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://mx3d.com/waam-machine-pricing/",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.mdpi.com/2071-1050/14/9/5197",
+    "https://www.researchgate.net/publication/277921887_Wire_Arc_Additive_Manufacturing",
+    "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "https://industrialmonitordirect.com/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF",
+    "https://www.waam3d.com/blog-posts/wire-or-powder-based-additive-manufacturing",
+    "https://www.iapt.fraunhofer.de/en/AM_Technologies/technologie_ded/technology_waam.html",
+    "https://cdnstoreapp.blob.core.windows.net/image-container/785078/original/BW_Wire_Arc_Additive_Manufacturing_EN_2019_GL_087_Preview.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market key players",
+   "results": [
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.datainsightsreports.com/reports/wire-arc-additive-manufacturing-system-market-55995",
+    "https://fastech-engineering.com/the-advantages-of-wire-arc-additive-manufacturing",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://www.sciencedirect.com/science/article/pii/S2772810224000163",
+    "https://www.einpresswire.com/article/908996058/wire-arc-additive-manufacturing-cell-market-competitive-landscape-across-leading-and-emerging-players"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market distributor Japan",
+   "results": [
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.airproducts.co.jp/applications/wire-arc-additive-manufacturing",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.sciencedirect.com/science/article/pii/S2238785421001289",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/pggnwe/waam_wire_arc_additive_manufacturing_3d_printing/",
+    "https://mx3d.com/the-waam-guide/",
+    "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "https://ir.library.osaka-u.ac.jp/repo/ouka/all/98790/34606_Dissertation.pdf",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.daido.co.jp/en/products/weld/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market safety storage regulation",
+   "results": [
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://mx3d.com/the-waam-guide/",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/pggnwe/waam_wire_arc_additive_manufacturing_3d_printing/",
+    "https://utw10945.utweb.utexas.edu/sites/default/files/2024/128%20Titanium%20Wire%20Arc%20Additive%20Manufacturing%20Inert.pdf",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "https://www.bsigroup.com/siteassets/pdf/en/insights-and-media/insights/brochures/pas_6012.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market closed system open material third-party",
+   "results": [
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6480198/",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/pggnwe/waam_wire_arc_additive_manufacturing_3d_printing/",
+    "https://shoplogix.com/blog/wire-arc-additive-manufacturing/",
+    "https://laserweldingsolutions.com/main-characteristics-and-exciting-new-applications-for-wire-arc-additive-manufacturing/",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214785320358922",
+    "https://www.sciencedirect.com/science/article/pii/S0925838826004159"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market commodity price competition",
+   "results": [
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://mx3d.com/is-waam-cost-effective-compared-to-machining-or-powder-am/",
+    "https://laserweldingsolutions.com/main-characteristics-and-exciting-new-applications-for-wire-arc-additive-manufacturing/",
+    "https://www.waam3d.com/blog-posts/wire-or-powder-based-additive-manufacturing",
+    "https://www.patsnap.com/resources/blog/articles/waam-vs-powder-bed-fusion-which-am-process-to-choose/",
+    "https://www.mdpi.com/journal/machines/special_issues/x8b4g262j3",
+    "https://pmarketresearch.com/auto/wire-arc-additive-manufacturing-solution-market/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market technical support parameters",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S2949822826020939",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://repositories.lib.utexas.edu/items/4b750b4a-eff8-493d-ad8b-4a4543f3223c",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.mdpi.com/1996-1944/17/6/1337",
+    "https://www.bsigroup.com/siteassets/pdf/en/insights-and-media/insights/brochures/pas_6012.pdf",
+    "https://encyclopedia.pub/entry/45487"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係）",
+   "results": [
+    "https://note.com/kinzoku2/n/n580ff8c4ae2c",
+    "https://note.com/kyanchome_1120/n/n7158837f3bc3",
+    "https://note.com/kinzoku2/n/n580ff8c4ae2c?hl=en",
+    "https://note.com/clear_aster2543/n/n1b1a3484a690",
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/terada_power/n/n24c6199fedcc",
+    "https://note.com/kinzoku2/n/n988aab83fdc6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2094403505029296131",
+    "https://x.com/hirasawalab/status/2099629448157188290",
+    "https://x.com/aminsightasia/status/2075073486259683652",
+    "https://x.com/AEG_JSAE/status/2060269343460757776",
+    "https://x.com/industryJapan/status/2063035773985955913",
+    "https://x.com/industryJapan/status/2062152131273236946",
+    "https://x.com/negitts/status/2056380378743718073"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係）",
+   "results": [
+    "https://www.facebook.com/toshiya.shimada.54/videos/国際ウエルディングショー-パナソニックコネクト-さんは-waamシステム-を参考出展長年培った溶接技術と高精度ロボット制御を組み合わせアーク溶接で金属ワイヤを積/2147725036143298/",
+    "https://www.facebook.com/3dpco/posts/meltio社よりウェビナー開催のお知らせfastech社のビジネス開発ディレクターであるyashwanth-bandariを迎えニッケル基超合金を使用したワイ/868855581925648/",
+    "https://www.facebook.com/3dpco/photos/meltio社よりウェビナー開催のお知らせfastech社のビジネス開発ディレクターであるyashwanth-bandariを迎えニッケル基超合金を使用したワイ/868855568592316/",
+    "https://www.facebook.com/story.php/?story_fbid=797229619229577&id=100068276393050",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/今さら聞けない金属3dプリンタ-とは樹脂3dプリンタとの違いはpbf方式とded方式って特徴や主な方式造形事例を徹底解説最近では造形精度速度の向上など技術革新が/825161419769730/",
+    "https://www.facebook.com/laserhardening/photos/こんにちは富士高周波工業ですレーザクラッディングセミナーのお知らせですㅤ第7回はマルチレーザワイヤded-meltioの紹介です最新設備金属３dプリンティングが/626307119766384/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/photos/今話題のded方式の-金属3dプリンタ-をご紹介当社製品の活用事例もご提案三菱電機ワイヤレーザ金属3dプリンタaz600の実機ご見学会を開催します昨今注目度が高/797229602562912/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） note 社長",
+   "results": [
+    "https://met3dp.com/ja/waam-202403224/",
+    "https://note.com/kinzoku2/n/n580ff8c4ae2c",
+    "https://www.kenkai.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf",
+    "https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf",
+    "http://daido.co.jp/common/pdf/pages/technology/journal/94_1/06_technicaldata03_yamashita.pdf",
+    "https://nsc.jp.nipponsanso.com/Portals/0/resources/jp/rd/giho/pdf/42/tnscgiho42_06.pdf",
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係） X 投稿",
+   "results": [
+    "https://met3dp.com/ja/waam-202403224/",
+    "https://www.ard.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf",
+    "https://www.kenkai.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf",
+    "http://daido.co.jp/common/pdf/pages/technology/journal/94_1/06_technicaldata03_yamashita.pdf",
+    "https://www.ard.jaxa.jp/project/kakushinyusou/stepup/data/202412_kadai.pdf",
+    "https://www.kenkai.jaxa.jp/project/kakushinyusou/stepup/data/202412_kadai.pdf",
+    "https://nsc.jp.nipponsanso.com/Portals/0/resources/jp/rd/giho/pdf/42/tnscgiho42_06.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock welding wire market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/wire-arc-additive-manufacturing-solution-market-reach-jctlf",
+    "https://www.linkedin.com/top-content/innovation/advancements-in-additive-manufacturing/wire-arc-additive-manufacturing-applications/",
+    "https://www.linkedin.com/posts/arc-additive_welding-waam-dedmanufacturing-activity-7267549421964296194-s4Kg",
+    "https://www.linkedin.com/company/lincoln-electric-additive-solutions",
+    "https://www.linkedin.com/posts/alexfaustov_waam-wire-arc-additive-manufacturing-is-activity-7499568459794542592-iljN",
+    "https://www.linkedin.com/pulse/waam-wire-arc-additive-manufacturing-welding-baskarasethupathi-urukc",
+    "https://www.linkedin.com/posts/tomasz-garniec-2a806855_time-to-choose-welding-wire-lets-talk-about-activity-7505505780306059264-vaUf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

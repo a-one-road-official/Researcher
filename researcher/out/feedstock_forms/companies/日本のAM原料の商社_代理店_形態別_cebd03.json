@@ -1,0 +1,793 @@
+{
+ "name": "日本のAM原料の商社・代理店（形態別）",
+ "en": "Japan distributor 3D printing materials powder wire filament pellet resin",
+ "aliases": [
+  "3Dプリンター 材料 代理店 日本",
+  "積層造形 材料 商社",
+  "フィラメント 輸入代理店"
+ ],
+ "context": "日本・商流",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:22:08.516761+00:00",
+ "evidence": {
+  "売り方・商流": [
+   {
+    "quote": "3Dプリンターのリース・レンタル・新品販売・中古売買、造形サービスビューロ（金属/樹脂）、中国BLT社金属3Dプリンター国内販売代理店（保守などアフターサポート）、3DプリントシミュレーションWEBサービス",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "3DSystems・formlabs・BMF・GUTENBERG・SATT Systems 国内一次代理店",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "米３ＤSystems国内代理店、XYZプリンティング国内代理店",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D/GEFERTEC/ADDiTEC/Rapidia国内代理店・産業ガスメーカー",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "AP&C（Colibrium Additiveグループ）・Elementum3D・Constellium・大同特殊鋼などの代理店",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "機械メーカーや商社と連携した『補助金活用による機械・装置の販売支援』も得意",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "BambuLab、Polymaker、Creality、REVOPOINT、resione などの国内販売代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシス/Desktop Metal国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGE・SCANTECH・Markforgedの国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの大型FFF/3Dプリンターメーカー[bigrep]の国内総代理店、 各種3Dエンジニアリング業務支援(リソース/プログラム開発/光学測定etc)",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "BASF社製3Dプリンターフィラメント日本総代理店 |日本3Dプリンター株式会社 |",
+    "url": "https://www.3d-filament.jp/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "3Dプリンターのリース・レンタル・新品販売・中古売買、造形サービスビューロ（金属/樹脂）、中国BLT社金属3Dプリンター国内販売代理店（保守などアフターサポート）、3DプリントシミュレーションWEBサービス",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "装置販売からアフターサポート、受託造形サービスまで、ワンストップでご提供いたします",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "‎ソフトウェア、ハードウェアの 販売及びサポートを通して、 より広範囲な事業領域の課題を トータルエンジニアリング力で 解決する企業",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業や医療分野などの多様な産業における製品設計から製造の各プロセスにおいて、AM技術によるモノづくりをサポート",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "3D CADによる造形図面作成のサポート、ご提案を行っております",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "造形工程だけではなく周辺工程である形状提案、熱処理、仕上げ加工、非破壊検査を含む社内一貫生産体制で、顧客が望む造形部品開発・生産をサポート",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の最先端・高品質技術を日本市場で展開し、コストパフォーマンスに優れた3Dソリューションと技術サポートを提供.",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "DED方式（パウダー、ワイヤー等）金属積層造形及び切削加工に特化した純国産CAD/CAM「CAM-TOOL AM」の開発、販売、サポートを行っております",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "製造、建築、土木インフラ、CG/映像業界向け設計・デザインソフトウェアの販売、サポート、デベロッパー向け技術支援",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンター設備、設計ソフトの提供から実際のサポートまで一貫受託",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形品の精度必要箇所の後加工やサポート除去を実施可能な装置をご提供",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAM、ポリゴン編集、3DPスライサーソフトの製品開発、販売/サポート及び、専 用ソフトの受託開発",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrafuse サポートフィラメントには水溶性のBVOHと、リモネンで溶かすことができるHiPSがラインナップされています",
+    "url": "https://www.3d-filament.jp/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "3Dプリンターのリース・レンタル・新品販売・中古売買、造形サービスビューロ（金属/樹脂）、中国BLT社金属3Dプリンター国内販売代理店（保守などアフターサポート）、3DプリントシミュレーションWEBサービス",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "3DSystems・formlabs・BMF・GUTENBERG・SATT Systems 国内一次代理店",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "米３ＤSystems国内代理店、XYZプリンティング国内代理店",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "Velo3D/GEFERTEC/ADDiTEC/Rapidia国内代理店・産業ガスメーカー",
+    "url": "https://jsam.or.jp/member/regular/",
+    "pass": 3
+   },
+   {
+    "quote": "BambuLab、Polymaker、Creality、REVOPOINT、resione などの国内販売代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の最先端・高品質技術を日本市場で展開し、コストパフォーマンスに優れた3Dソリューションと技術サポートを提供.",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシス/Desktop Metal国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGE・SCANTECH・Markforgedの国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の製造業マーケットプレイス「meviyマーケットプレイス」を運営",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの大型FFF/3Dプリンターメーカー[bigrep]の国内総代理店、 各種3Dエンジニアリング業務支援(リソース/プログラム開発/光学測定etc)",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本と海外のAM業界の架け橋をするコンサル",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "BASF社製3Dプリンターフィラメント日本総代理店 |日本3Dプリンター株式会社 |",
+    "url": "https://www.3d-filament.jp/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "業務用AM/3Dプリンタ―のポータルサイトShareLab（シェアラボ）の運営",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "新製品開発に関するトータルサービス、商品企画、デザイン、工業用製品の設計、解析エンジニアリング、試作、 金型の設計・製造及び小ロット成形品の生産・販売",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "3Dプリンタ、専用材料、ソフト ウェアを自社開発し、試作から量産まで対応可能なプラットフォームを提供",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "スタンダードフィラメントには汎用性の高いPLA・ABS・PET・ASAなどがラインナップされ、扱いやすくコストパフォーマンスに優れています",
+    "url": "https://www.3d-filament.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jp.chemtradehub.com/suppliers/country/jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanct.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E5%8E%9F%E6%96%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/kakaku-support/price-watcher.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizcomjapan.co.jp/product/shiyaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsam.or.jp/member/regular/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://distymap.com/distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsam.or.jp/member/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amjc.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E5%8E%9F%E6%96%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elaws.jp/article/hazardous-materials-regulation-order-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hikaru-office.com/shobo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/publication/hakusho/r6/chapter1/section2/para2/68041.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/kasinhou/qa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journal.smartsds.jp/detail/chemcal-manager-for-trading-and-imported-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcta.or.jp/jceia_web/safe/data/sample.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-materials-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/japan-3d-printing-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.6wresearch.com/industry-report/japan-3d-printing-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/horizon/outlook/3d-printing-materials-market/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-filament-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/japan-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dmart.co.jp/en/collections/materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.farnell.com/en-JP/c/tools-production-supplies/3d-printers-accessories/3d-printer-filaments",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://spoolfinder.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dfilamentprice.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://filamentnavi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunlu.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.6wresearch.com/industry-report/japan-3d-printing-filament-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.decisionsadvisors.com/insights/japan-3d-printing-materials-and-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-filament.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ayard.jp/index_e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprinting.com/safety/3d-printing-safety-guide/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/resources/safety/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aplash.io/blog/hpiqan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/country-commercial-guides/japan-import-requirements-and-documentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/policy/economy/consumer/product_safety/pse_procedure/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dmart.co.jp/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arkema.com/japan/en/products/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digikey.jp/en/supplier-centers/jabil",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.6wresearch.com/industry-report/japan-3d-printing-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.giiresearch.com/report/imarc1905497-japan-3d-printing-materials-market-report-by-type.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） 市場規模 CAGR",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） 価格",
+   "results": [
+    "https://jp.chemtradehub.com/suppliers/country/jp/",
+    "https://www.sanct.co.jp/products/",
+    "https://www.ipros.com/cg1/原料/",
+    "https://www.tokyo-cci.or.jp/kakaku-support/price-watcher.html",
+    "https://bizcomjapan.co.jp/product/shiyaku/",
+    "https://jsam.or.jp/member/regular/",
+    "https://www.material.onl/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） 主要メーカー 一覧",
+   "results": [
+    "https://distymap.com/distributors",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://jsam.or.jp/member/regular/",
+    "https://www.ipros.com/cg1/原料/",
+    "https://jsam.or.jp/member/support/",
+    "https://www.amjc.co.jp/products/",
+    "https://mono.ipros.com/cg1/原料/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） 代理店 日本",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） 規制 保管 危険物",
+   "results": [
+    "https://elaws.jp/article/hazardous-materials-regulation-order-overview",
+    "https://hikaru-office.com/shobo/",
+    "https://www.fdma.go.jp/publication/hakusho/r6/chapter1/section2/para2/68041.html",
+    "https://www.meti.go.jp/policy/chemical_management/kasinhou/qa/index.html",
+    "https://journal.smartsds.jp/detail/chemcal-manager-for-trading-and-imported-goods",
+    "https://www.jcta.or.jp/jceia_web/safe/data/sample.pdf",
+    "https://www.chem-info.nite.go.jp/chem/chrip/chrip_search/sltLst"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） 純正 指定材料 互換",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin market size CAGR",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-materials-market/japan",
+    "https://www.imarcgroup.com/japan-3d-printing-materials-market",
+    "https://www.6wresearch.com/industry-report/japan-3d-printing-materials-market",
+    "https://www.grandviewresearch.com/horizon/outlook/3d-printing-materials-market/japan",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-filament-market/japan",
+    "https://www.precedenceresearch.com/japan-3d-printing-market",
+    "https://www.imarcgroup.com/japan-3d-printing-market"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin price per kg",
+   "results": [
+    "https://www.3dmart.co.jp/en/collections/materials",
+    "https://jp.farnell.com/en-JP/c/tools-production-supplies/3d-printers-accessories/3d-printer-filaments",
+    "https://spoolfinder.com/",
+    "https://www.3dfilamentprice.com/",
+    "https://filamentnavi.com/",
+    "https://skhonpo.com/collections/filament",
+    "https://store.sunlu.com/ja/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin key players",
+   "results": [
+    "https://www.3dmart.co.jp/en/collections/materials",
+    "https://www.sunlu.com/jp",
+    "https://www.precedenceresearch.com/japan-3d-printing-market",
+    "https://www.6wresearch.com/industry-report/japan-3d-printing-filament-market",
+    "https://www.decisionsadvisors.com/insights/japan-3d-printing-materials-and-services-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-materials-market/japan",
+    "https://www.3d-filament.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin distributor Japan",
+   "results": [
+    "https://www.3dmart.co.jp/en/collections/materials",
+    "https://www.sunlu.com/jp",
+    "https://jp.farnell.com/en-JP/c/tools-production-supplies/3d-printers-accessories/3d-printer-filaments",
+    "http://www.ayard.jp/index_e.html",
+    "https://www.3d-filament.jp/",
+    "https://www.brule.co.jp/",
+    "https://skhonpo.com/collections/filament"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin safety storage regulation",
+   "results": [
+    "https://3dprinting.com/safety/3d-printing-safety-guide/",
+    "https://formlabs.com/resources/safety/",
+    "https://www.sunlu.com/jp",
+    "https://aplash.io/blog/hpiqan",
+    "https://www.trade.gov/country-commercial-guides/japan-import-requirements-and-documentation",
+    "https://www.3dmart.co.jp/en/collections/materials",
+    "https://www.meti.go.jp/english/policy/economy/consumer/product_safety/pse_procedure/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin closed system open material third-party",
+   "results": [
+    "https://www.3dmart.co.jp/en/collections/materials",
+    "https://www.sunlu.com/jp",
+    "https://www.3dmart.co.jp/en",
+    "https://www.arkema.com/japan/en/products/3d-printing/",
+    "https://www.digikey.jp/en/supplier-centers/jabil",
+    "http://www.ayard.jp/index_e.html",
+    "https://www.3d-filament.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin commodity price competition",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-materials-market/japan",
+    "https://www.6wresearch.com/industry-report/japan-3d-printing-material-market",
+    "https://www.imarcgroup.com/japan-3d-printing-materials-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-filament-market/japan",
+    "https://www.precedenceresearch.com/japan-3d-printing-market",
+    "https://www.giiresearch.com/report/imarc1905497-japan-3d-printing-materials-market-report-by-type.html",
+    "https://www.6wresearch.com/industry-report/japan-3d-printing-materials-market"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin technical support parameters",
+   "results": [
+    "https://www.3dmart.co.jp/en/collections/materials",
+    "https://www.3dmart.co.jp/en",
+    "https://www.sunlu.com/jp",
+    "https://www.sunlu.com/support",
+    "https://www.arkema.com/japan/en/products/3d-printing/",
+    "https://jp.farnell.com/en-JP/c/tools-production-supplies/3d-printers-accessories/3d-printer-filaments",
+    "https://www.3d-filament.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 日本のAM原料の商社・代理店（形態別）",
+   "results": [
+    "https://note.com/dokuritukaigyou/n/n21654a3db6d7",
+    "https://note.com/dokuritukaigyou/n/n36bb950c5b2f",
+    "https://note.com/8click/n/n2830b16a8056",
+    "https://note.com/firm_yak4862/n/nf90624c53458",
+    "https://note.com/kabutabi2000/n/n0dcba5af0b61",
+    "https://note.com/tatsuya_sabato/n/nad16523aa234",
+    "https://note.com/deft_finch1442/n/n03c56f2d6eea"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 日本のAM原料の商社・代理店（形態別）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2111143498527523160",
+    "https://x.com/chemicaldailyad/status/2043832651484934485",
+    "https://x.com/chukei_news/status/2105443712805503309",
+    "https://x.com/Around40_muscle/status/2038609694479245627",
+    "https://x.com/aminsightasia/status/2089877154159046910",
+    "https://x.com/BGLJAPAN/status/2103837119886369266",
+    "https://x.com/marubishi_real/status/2042544536686362650"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 日本のAM原料の商社・代理店（形態別）",
+   "results": [
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://jp.linkedin.com/pulse/亜鉛グミの国内調達先と供給企業-nutrient-nodes-ipc3e",
+    "https://jp.linkedin.com/pulse/化粧品用油性原料の日本メーカー一覧-drakonix-scan-qxtye",
+    "https://www.linkedin.com/posts/solizepartners_英語の下に日本語の記載があります-we-have-signed-a-memorandum-activity-7523934859103326208-7P-0",
+    "https://www.linkedin.com/posts/chiyoam_テュフズード日本積層造形社にam製造サイト認証を発行テュフズード-activity-7153590046208495616-ldKb",
+    "https://cn.linkedin.com/jobs/view/sourcing-am助理采购经理—食品原料（匠心浓醇）-at-通用磨坊-中国-投资有限公司-4455055882",
+    "https://cn.linkedin.com/jobs/view/sourcing-am助理采购经理—食品原料（匠心浓醇）-at-通用磨坊-中国-投资有限公司-4450429146"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 日本のAM原料の商社・代理店（形態別）",
+   "results": [
+    "https://www.facebook.com/sanctcorporation/",
+    "https://www.facebook.com/asone.axel/",
+    "https://www.facebook.com/ray.wang.10004/videos/彼女は根本的な部分を理解していないと思います実際多くの原薬apiや医薬品原料は現在の日本では製造できなくなっています特に複雑な合成プロセスやバイオ医薬品関連の原/2073789059911382/",
+    "https://www.facebook.com/INTERMOLD/posts/一般社団法人日本am協会からのお知らせ-httpseapto-servicecomphplinkphpq63m_pm_zae507wrnp6gb0vy日本ａｍ協/709964894256941/",
+    "https://www.facebook.com/jpShareLab/posts/558608426266654/",
+    "https://www.facebook.com/INTERMOLD/posts/692193886034042/",
+    "https://www.facebook.com/syukansyogyo/photos/doc-japanアミノ酸系界面活性剤処方の長く続くぬめり感を軽減週刊粧業-2024年7月1日号-31ページ-パーソナルケアやホームケア用途の天然系ポリマーを開/1060482895597001/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/アドバンストマテリアルジャパン",
+    "https://www.alconix.com/media/owned/2026/01/13/AMJ.html",
+    "https://www.amjc.co.jp/company/",
+    "https://www.amjc.co.jp/",
+    "https://diamond.jp/articles/-/5719",
+    "https://jsam.or.jp/member/regular/",
+    "https://www.japanmetaldaily.com/articles/-/143856"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本のAM原料の商社・代理店（形態別） X 投稿",
+   "results": [
+    "https://osn.syogyo.jp/company/search?query[category_id]=3",
+    "https://www.jcsa-cosmetics.jp/memberlist",
+    "https://jsam.or.jp/member/regular/",
+    "https://www.ipros.com/cg2/化粧品原料/",
+    "https://www.syogyo.jp/news/2017/09/post_018981",
+    "https://mono.ipros.com/cg2/化粧品原料/",
+    "https://baseconnect.in/companies/keyword/40907a38-0f92-49b5-b2bc-49b3819f3d67"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Japan distributor 3D printing materials powder wire filament pellet resin site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-3d-printer-filament-materials-market-scope-provide-rmwcf",
+    "https://www.linkedin.com/pulse/japan-3d-printing-filament-material-market-us-korea-europe-efqrf",
+    "https://pe.linkedin.com/pulse/japan-polypropylene-pp-filament-market-trends-overview-bmfzf",
+    "https://in.linkedin.com/company/direct3d-pellet-extrusion",
+    "https://pe.linkedin.com/pulse/japan-acetate-filament-market-trends-overview-key-competitors-jnyyf",
+    "https://www.linkedin.com/pulse/significant-growth-anticipated-japan-3d-gmlve",
+    "https://www.linkedin.com/pulse/japan-conductive-3d-printer-filament-market-industry-i1jjf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "価格": "記載なし（読んだ45頁・検索21回）",
+  "安全・規制・保管": "記載なし（読んだ45頁・検索21回）",
+  "繰り返し性": "記載なし（読んだ45頁・検索21回）"
+ }
+}

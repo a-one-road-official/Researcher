@@ -1,0 +1,986 @@
+{
+ "name": "MoldJet・ペースト型の金属AM材料",
+ "en": "Tritone MoldJet metal paste feedstock",
+ "aliases": [
+  "MoldJet",
+  "金属ペースト 積層",
+  "Tritone"
+ ],
+ "context": "ペースト",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:24:16.846116+00:00",
+ "evidence": {
+  "品質・証明": [
+   {
+    "quote": "：ステンレス鋼、工具鋼、チタン、銅（認定中）、セラミックス（認定中）、および顧客が開発した材料",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "大衆向けサングラス向けに、1ロットあたり16,000個の金属ヒンジ部品（トレイあたり800個）を生産",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "銅、セラミックス、およびその他の合金については現在認定審査中です",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Certificate of Analysis",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": ": Stainless steels, tool steels, titanium, copper (in qualification), ceramics (in qualification), and customer-developed materials. Gold and silver feasibility demonstrated. Switch materials in approximately 30 minutes.",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Released materials include stainless steels (316L, 17-4 PH, 15-5 PH), tool steels (H13, M2), titanium (Ti 6-4), and low-alloy steels. Copper, ceramics, and additional alloys are in qualification. Gold and silver feasibility has been demonstrated. The open platform also supports customer-developed materials.",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Certificate of Analysis",
+    "url": "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Certificate of Analysis",
+    "url": "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/",
+    "pass": 3
+   },
+   {
+    "quote": "European Coatings Show 2025",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fraunhofer IFAM expands its R&D work on \"Coatings for protection against corrosion and marine growth\"",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   },
+   {
+    "quote": "Workforce Qualification and Technology Transfer",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "粉末を使用しないプロセス、高密度な材料積層、そして量産レベルの処理能力を組み合わせることで、粉末の取り扱いの複雑さや専用金型のコスト・リードタイムを伴わずに、量産品質の金属部品を必要とする製造業者に新たな選択肢を提供します",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "また、このオープンプラットフォームは、お客様が開発した材料にも対応しています",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.",
+    "url": "https://tritoneam.com/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "These adjustments are compatible with all popular screen readers, including JAWS and NVDA.",
+    "url": "https://tritoneam.com/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "this mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.",
+    "url": "https://tritoneam.com/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Open material platform",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightweight, biocompatible materials for aerospace, medical, and high-performance applications.",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "paste-based feedstock delivered through sealed cartridges",
+    "url": "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacture complex metal components and devices using a range of biocompatible and medical-grade materials",
+    "url": "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "– Uses metal and ceramic pastes insealed cartridges",
+    "url": "https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ", with material supplied through sealed cartridges. This can simplify material handling and reduce the operational requirements associated with exposed metal powders.",
+    "url": "https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.",
+    "url": "https://tritoneam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "These adjustments are compatible with all popular screen readers, including JAWS and NVDA.",
+    "url": "https://tritoneam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "this mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.",
+    "url": "https://tritoneam.com/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "サポート材を使用せずに、複雑な内部形状、アンダーカット、オーバーハングの造形が可能",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート構造を使用せずに、複雑な内部形状を成形できます",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "The AconityMINI is Acontiy3D’s entry-level AM system. It offers a build space of Ø 140 mm and full access to all relevant process parameters.",
+    "url": "https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Quality assurance and further training",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   },
+   {
+    "quote": "Quality Assurance and Continuing Training",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   },
+   {
+    "quote": "Quality assurance and further training in adhesive bonding technology",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   },
+   {
+    "quote": "Knowledge Transfer: Training Sessions „E-Mobility”",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MoldJet® 金属・セラミック3Dプリンティング技術 | Stratasys — MoldJet®は、密度99%以上の部品を製造する、粉末を使用しない金属・セラミック3Dプリント技術です。 散乱する粉末やサポート構造が不要で、AIによる品質検査が行われます。 年間生産量は1,000～100,000個以上です。",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "日曜MIM知る（金属粉末射出成形）: 新AM技術「MoldJet」を深堀する — これはペースト状のフィードストックを使っているところに優位性があると思われます。 一般的なMIMでは不可能な肉厚200-250μmが造形できる。 ペーストは流動性が大変良いのでBJTより微細な粉末が使える、そのため焼結密度も高くでき精度も高い。",
+    "url": "https://mimsen83.blogspot.com/2023/01/ammoldjet.html",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet® 金属・セラミック3Dプリンティング技術 | Stratasys — 粉末ベースの積層造形プロセスとは異なり、MoldJetは高密度の金属またはセラミックペーストを使用し、クリーンで管理されたワークフローの中で、量産可能な部品を製造します。",
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的な金属積層造形システム｜産業用MoldJet™ 3Dプリンター｜ストラ... — Dominantシステムは、MoldJet™技術を使用した産業用金属積層造形プラットフォームであり、高密度で再現性のある金属部品を、粉体を使用せず、高スループットで、連続生産用に構築されたスケールで製造する。",
+    "url": "https://www.stratasys.co.jp/3d-printers/printer-catalog/moldjet/dominant-system/",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet® Metal & Ceramic 3D Printing Technology | Stratasys — MoldJet® is a paste-based metal and ceramic additive manufacturing technology designed for production—not prototyping. Unlike powder-based additive manufacturing processes, MoldJet uses high-density metal or ceramic paste to produce production-ready parts in a clean, controlled workflow.",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet - Metal and Ceramic Additive Manufacturing — Oct 1, 2026 · MoldJet uses a paste-based feedstock delivered through sealed cartridges, creating a powder-free production environment. For manufacturers, this can simplify material handling and integration of additive manufacturing into an existing industrial production environment.",
+    "url": "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Tritone · MoldJet Paste mold printing (metal/ceramic) — 2 ... — 2 models by Tritone (MoldJet Paste mold printing (metal/ceramic)): build volume, process, lifecycle and which are on offer used. Filter, compare, find what fits your part.",
+    "url": "https://layerbylayer.de/en/machine-market/models/tritone/moldjet",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet: Six steps to production-grade metal 3D printed parts — Dec 28, 2021 · The MoldJet process is fascinating and involves multiple steps, including polymer mold printing, metal paste deposition, layer-by-layer quality inspection and more. Read on for a detailed look at how the technology works.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "Tritone MoldJet Metal 3D Printers | CADimensions — Tritone’s MoldJet technology delivers a fundamentally different approach to metal additive manufacturing. Powder-free, paste-based feedstock means a safer shop floor, cleaner handling, and faster material changeovers.",
+    "url": "https://www.cadimensions.com/products/hardware/3d-printers/tritone-moldjet-metal-3d-printers-cadimensions/",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet - Metal and Ceramic Additive Manufacturing — Oct 1, 2026 · A high-density paste containing metal or ceramic powder and binder is then deposited into the mould cavities. The layer is dried and hardened before the process repeats. Integrated optical inspection and AI-based analysis can identify and correct layer defects during production.",
+    "url": "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet® Metal & Ceramic 3D Printing Technology | Stratasys — Unlike powder-based additive manufacturing processes, MoldJet uses high-density metal or ceramic paste to produce production-ready parts in a clean, controlled workflow. This powder free metal 3D printing process is built for repeatable, high-volume manufacturing.",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Tritone’s MoldJet: The definition-defying AM technology ... — Dec 15, 2022 · The build cavity is filled with a feedstock in the form of a paste, or a high-viscosity slurry. The feedstock could be metal, or it could be ceramic, and, at the end of the day, the green part that emerges from the built mould requires sintering.",
+    "url": "https://www.pim-international.com/articles/tritones-moldjet-the-definition-defying-am-technology-advancing-steadily-toward-commercialisation/",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet sinter-based additive manufactured 316L SS: achieving ... — Apr 1, 2026 · In this study, we focus on 316L stainless steel fabricated on a Tritone Dominant system and briefly outline the three stages of the process: model design and pre-processing, layer-wise printing of mold and paste, and post-processing of the green and sintered parts.",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0264127526003564",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet Metal & Ceramic Additive Manufacturing - ICAM 2023 — Advantages of ‘Paste’ Feedstock Green densities above > 60%: Green strength Surface smoothness Reduced sintering shrinkage (lower potential to deform and crack) Uniformity of paste: Uniform density within and between parts",
+    "url": "https://am-conference.aeai.org.il/wp-content/uploads/sites/28/2023/04/Amnon-Sommer-Tritone-Technologies.pdf",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "If you’ve found a malfunction or have ideas for improvement, we’ll be happy to hear from you. You can reach out to the website’s operators by using the following email",
+    "url": "https://tritoneam.com/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "“After the initial success of our DOMINANT system, we are proud to expand our market reach with the DIM system. The market is ready to shift gear from prototyping to production of high-quality metal parts, and we are proud to be at the forefront of this emerging revolution,” said Omer Sagi, VP Products and Business Development at Tritone.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for statistical purposes.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’ve found a malfunction or have ideas for improvement, we’ll be happy to hear from you. You can reach out to the website’s operators by using the following email",
+    "url": "https://tritoneam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Storage and Converter",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   },
+   {
+    "quote": "Electrical, chemical and thermal energy storage",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "Low energy consumption, operates in standard industrial environment",
+    "url": "https://tritoneam.com/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet is designed for competitive unit costs at production volumes of 1,000–100,000+ parts per year with no tooling investment. Contact Stratasys for application-specific pricing.",
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Low energy consumption, operates in standard industrial environment.",
+    "url": "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/",
+    "pass": 3
+   },
+   {
+    "quote": "The technology is being brought to market in the Tritone DOMINANT system and offers a new solution for medium-volume production (tens of thousands of parts per year) of metal components. To learn more about the promising AM method and its unique capability, we caught up with Omer Sagi, Vice President of Products and Business Development at Tritone.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": ": medium-volume manufacturing. “I believe that metal injection molding (MIM) will always have the advantage when you’re talking about hundreds of thousands or millions of parts,” Sagi explains. “But there are so many businesses that are looking to fulfill low to medium level production volumes—thousands or tens of thousands of parts per year—and this is where metal AM can really shine.”",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "愛知産業は、モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました（2021年07月20日）",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Tritone Technology：以下トライトン）社（イスラエル）は2021年４月７日に日本国内総代理店契約を締結いたしました",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "トライトン社は2017年に設立された金属積層装置の開発・製造メーカで、モールドの中にバインダーを用いた金属のペースト流し込みこれを硬化/積層する最新の金属装置を開発しました",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なパウダーベッド方式の金属造形装置が最大100cc/hでの造形が可能なのに対し、トライトン社の開発した造形機では1600cc/hでの造形が可能で、金属積層造形技術による部品生産が可能となります",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "（本社:東京都品川区東大井2-6-8、資本金:8600万円、社長:井上博貴）とモールドジェット方式の金属積層造形機メーカーである",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました｜新着情報｜愛知産業",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター、MIG/MAG 溶接機、５軸 輸入販売",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業は、モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました（2021年07月20日）",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Tritone Technology：以下トライトン）社（イスラエル）は2021年４月７日に日本国内総代理店契約を締結いたしました",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "view all Distributors & Agents",
+    "url": "https://tritoneam.com/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました｜新着情報｜愛知産業",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業は、モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました（2021年07月20日）",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Tritone Technology：以下トライトン）社（イスラエル）は2021年４月７日に日本国内総代理店契約を締結いたしました",
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "AXT is Australia’s leading supplier of high technology scientific equipment for sample preparation and analysis for academic and industrial applications. Through our various distribution agreements with international renowned and recognised brands, we are uniquely placed to be able to offer complete and comprehensive solution packages from within our own product portfolios.",
+    "url": "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "AXT is Australia’s leading supplier of high technology scientific equipment for sample preparation and analysis for academic and industrial applications. Through our various distribution agreements with international renowned and recognised brands, we are uniquely placed to be able to offer complete and comprehensive solution packages from within our own product portfolios.",
+    "url": "https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "Use of low-cost metal powders",
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "How MoldJet transforms metal paste into jewelry | Tritone ... 🚀 From Paste to Precision: Discover the future of jewelry manufacturing with MoldJet 💫 This bracelet may seem like a simple piece of jewelry, but behind its shine lies a cutting-edge ...",
+    "url": "https://www.linkedin.com/posts/tritone-technologies_metalam-moldjet-jewelry-activity-7330584008759709696-hooX",
+    "pass": 3
+   },
+   {
+    "quote": "How AMT METAL uses Tritone's MoldJet® AM to produce ... At AMT METAL, we use Tritone’s #MoldJet® AM technology to enable high-volume production of complex metal parts with exceptional precision.",
+    "url": "https://www.linkedin.com/posts/amt-metal-ltd_moldjet-additivemanufacturing-metalam-activity-7353043379665928192-arzm",
+    "pass": 3
+   },
+   {
+    "quote": "Quick technical question for AM nerds: under ... - LinkedIn Take MoldJet, a proprietary powder-free AM technology for industrial-scale production of metal and ceramic parts, by Tritone Technologies. 🤯 Their innovative approach involves printing a...",
+    "url": "https://hk.linkedin.com/posts/martinlansard_moldjet-technology-explained-activity-7044616283304202240-JUjx",
+    "pass": 3
+   },
+   {
+    "quote": "#metal3dprinting #moldjet #moldjet #moldjet #stainlesssteel # ... If your part meets any of these criteria, exploring #MoldJet AM as a manufacturing solution is worthwhile. Feel free to contact us to explore the technology further.",
+    "url": "https://pe.linkedin.com/posts/amt-metal-ltd_metal3dprinting-moldjet-moldjet-activity-7164982840915357698-MPri",
+    "pass": 3
+   },
+   {
+    "quote": "MoldJet Solves Metal Powder Handling Challenges | Tritone ... The reality is that powder management remains one of the main reasons metal additive manufacturing has struggled to become a truly industrial production solution.",
+    "url": "https://www.linkedin.com/posts/tritone-technologies_production-workflow-activity-7470770158500929538--xTH",
+    "pass": 3
+   },
+   {
+    "quote": "7 key advantages | Tritone Technologies - LinkedIn A glimpse to the bottom line of our latest white paper: “The 7 Key Advantages of #MoldJet: A Paste Based Feedstock – A Paste Based Feedstock”. How did we get to these advantages and why...",
+    "url": "https://www.linkedin.com/posts/tritone-technologies_7-key-advantages-activity-7135207134887067650-9QTp",
+    "pass": 3
+   },
+   {
+    "quote": "Tritone Technologies - LinkedIn The company’s innovative technology enables industrial throughput of high-quality accurate parts from a verity of metal materials, suitable for the Automotive, Aerospace, Medical and Consumer...",
+    "url": "https://il.linkedin.com/company/tritone-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Amnon Sommer - Product Manager | LinkedInQuick technical question for AM nerds: under ASTM standards ...#moldjettechnology #additivemanufacturing # ...RAPID+TCT 2023: Tritone Technologies Shows a Novel, Mold ... Product Manager · ניסיון: Tritone Technologies · חינוך: Technion - Israel Institute of Technology · מיקום: Tel Aviv District · 500+ חיבורים על LinkedIn. צפה Amnon Sommer בפרופיל... Take Mo",
+    "url": "https://il.linkedin.com/in/amnon-sommer-23b305203",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://mimsen83.blogspot.com/2023/01/ammoldjet.html&q=EgQUeJ4XGKiyxdcGIi3E9jRPUYEx2LrEpXgUTpmIRCxXwTlogmMJq6sA4u_yWBS-8hTdla-zybr2I9oyAnJSWgFDYPPyrZWk0uTIpwE",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/ja/blog/how-to-estimate-cost-for-metal-additive-manufacturing-in-2026-framework/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-1014/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tritoneam.com/moldjet-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mazak.com/jp-ja/products/am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyo-steel.co.jp/technology/images/pdf/32/32_10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stratasys.co.jp/3d-printers/printer-catalog/moldjet/dominant-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsam.or.jp/member/regular/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amjc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsam.or.jp/member/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layerbylayer.de/en/machine-market/models/tritone/moldjet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifam.fraunhofer.de/content/dam/ifam/en/documents/dd/Dokumente+ZMW/White+Paper+MoldJet_Fraunhofer+IFAM+Dresden.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cadimensions.com/products/hardware/3d-printers/tritone-moldjet-metal-3d-printers-cadimensions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tritoneam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pim-international.com/articles/tritones-moldjet-the-definition-defying-am-technology-advancing-steadily-toward-commercialisation/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://21568437.fs1.hubspotusercontent-na1.net/hubfs/21568437/Guides+and+Downloadables/Tritone+MoldJet+vs.+Binderjet+white+paper.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.raremetal.co.jp/en/business_index/for_buy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtlo.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hightech-metal-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ajitrade.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0264127526003564",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-conference.aeai.org.il/wp-content/uploads/sites/28/2023/04/Amnon-Sommer-Tritone-Technologies.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tritone-technologies_metalam-moldjet-jewelry-activity-7330584008759709696-hooX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/amt-metal-ltd_moldjet-additivemanufacturing-metalam-activity-7353043379665928192-arzm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/posts/martinlansard_moldjet-technology-explained-activity-7044616283304202240-JUjx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/amt-metal-ltd_metal3dprinting-moldjet-moldjet-activity-7164982840915357698-MPri",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tritone-technologies_production-workflow-activity-7470770158500929538--xTH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tritone-technologies_7-key-advantages-activity-7135207134887067650-9QTp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/tritone-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/amnon-sommer-23b305203",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 市場規模 CAGR",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 価格",
+   "results": [
+    "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://mimsen83.blogspot.com/2023/01/ammoldjet.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://blog.met3dp.com/ja/blog/how-to-estimate-cost-for-metal-additive-manufacturing-in-2026-framework/",
+    "http://3d.kinzoku-kakou-odec.com/column/column-1014/",
+    "https://rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://blog.met3dp.com/ja/blog/metal-am-vs-forging-cost-in-2026-pricing-volume-and-lifecycle-economics/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 主要メーカー 一覧",
+   "results": [
+    "https://tritoneam.com/moldjet-technology/",
+    "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://mimsen83.blogspot.com/2023/01/ammoldjet.html",
+    "https://tasuichi.jp/2026/04/10/国内の金属3dプリンター受託造形企業まとめ：pbf・ded/",
+    "https://jampt.jp/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.sanyo-steel.co.jp/technology/images/pdf/32/32_10.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 代理店 日本",
+   "results": [
+    "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://www.stratasys.co.jp/3d-printers/printer-catalog/moldjet/dominant-system/",
+    "https://jampt.jp/",
+    "https://jsam.or.jp/member/regular/",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html",
+    "https://www.amjc.co.jp/",
+    "https://jsam.or.jp/member/support/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 規制 保管 危険物",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 純正 指定材料 互換",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock market size CAGR",
+   "results": [
+    "https://tritoneam.com/moldjet-technology/",
+    "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/",
+    "https://layerbylayer.de/en/machine-market/models/tritone/moldjet",
+    "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "https://www.ifam.fraunhofer.de/content/dam/ifam/en/documents/dd/Dokumente+ZMW/White+Paper+MoldJet_Fraunhofer+IFAM+Dresden.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock price per kg",
+   "results": [
+    "https://tritoneam.com/moldjet-technology/",
+    "https://www.cadimensions.com/products/hardware/3d-printers/tritone-moldjet-metal-3d-printers-cadimensions/",
+    "https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/",
+    "https://tritoneam.com/",
+    "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/",
+    "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "https://layerbylayer.de/en/machine-market/models/tritone/moldjet"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock key players",
+   "results": [
+    "https://tritoneam.com/moldjet-technology/",
+    "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/",
+    "https://www.pim-international.com/articles/tritones-moldjet-the-definition-defying-am-technology-advancing-steadily-toward-commercialisation/",
+    "https://21568437.fs1.hubspotusercontent-na1.net/hubfs/21568437/Guides+and+Downloadables/Tritone+MoldJet+vs.+Binderjet+white+paper.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock distributor Japan",
+   "results": [
+    "https://tritoneam.com/moldjet-technology/",
+    "https://www.raremetal.co.jp/en/business_index/for_buy",
+    "https://japanesedistributors.com/",
+    "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://www.mtlo.co.jp/en/",
+    "https://hightech-metal-japan.com/",
+    "https://www.ajitrade.com/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock safety storage regulation",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock closed system open material third-party",
+   "results": [
+    "https://tritoneam.com/moldjet-technology/",
+    "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://www.sciencedirect.com/science/article/pii/S0264127526003564",
+    "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/",
+    "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html",
+    "https://21568437.fs1.hubspotusercontent-na1.net/hubfs/21568437/Guides+and+Downloadables/Tritone+MoldJet+vs.+Binderjet+white+paper.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock commodity price competition",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock technical support parameters",
+   "results": [
+    "https://tritoneam.com/moldjet-technology/",
+    "https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://layerbylayer.de/en/machine-market/models/tritone/moldjet",
+    "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "https://www.axt.com.au/moldjet-additive-manufacturing/",
+    "https://am-conference.aeai.org.il/wp-content/uploads/sites/28/2023/04/Amnon-Sommer-Tritone-Technologies.pdf",
+    "https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MoldJet・ペースト型の金属AM材料",
+   "results": [
+    "https://note.com/hgrx/n/ne327ff650d1a",
+    "https://note.com/kandoinspirefact/n/nc7a62ad92906",
+    "https://note.com/semiconnavi/n/nb00d1fd6bc66",
+    "https://note.com/edgeworks_tokyo/n/nbf2e5fb6bdfe",
+    "https://note.com/kinzoku2/n/na17ff92bc4fe",
+    "https://note.com/qy_research/n/nc7b1959d0050",
+    "https://note.com/edgeworks_tokyo/n/ne4fb28a0cfa1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MoldJet・ペースト型の金属AM材料",
+   "results": [
+    "https://x.com/HexagonScrew/status/2043807131825226164",
+    "https://x.com/sunstella_3d/status/2110948081965707289",
+    "https://x.com/omu_shibaken/status/2101151798593491320",
+    "https://x.com/kabumamajuno/status/2061285307694411800",
+    "https://x.com/Thermal_Grizzly/status/2105659002860568834",
+    "https://x.com/shirouzu/status/2092489756273950898",
+    "https://x.com/jwes5823/status/2042507582741581911"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MoldJet・ペースト型の金属AM材料",
+   "results": [
+    "https://www.linkedin.com/posts/tritone-technologies_metalam-moldjet-jewelry-activity-7330584008759709696-hooX",
+    "https://www.linkedin.com/posts/amt-metal-ltd_moldjet-additivemanufacturing-metalam-activity-7353043379665928192-arzm",
+    "https://hk.linkedin.com/posts/martinlansard_moldjet-technology-explained-activity-7044616283304202240-JUjx",
+    "https://pe.linkedin.com/posts/amt-metal-ltd_metal3dprinting-moldjet-moldjet-activity-7164982840915357698-MPri",
+    "https://tr.linkedin.com/posts/aniwaa_moldjet-technology-explained-activity-7044611867956166657-poQd",
+    "https://jp.linkedin.com/pulse/アクティブな金属ろう付けambペーストの市場規模は2-7510624835249737730-kjmje",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_1112開催最先端の積層造形技術に迫る-国内初導入のam設備とセラミックス-activity-7523665830631407616-n6M2"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MoldJet・ペースト型の金属AM材料",
+   "results": [
+    "https://www.facebook.com/DMGMORI.CO/videos/動画のご紹介-アディティブマニュファクチャリング/382077859595918/",
+    "https://www.facebook.com/mazak.jp/posts/金属積層造形am技術をご存知ですか削る型に流す工法とは異なり必要な箇所に必要な量だけ材料を積層従来工法では困難だった3d形状加工を可能にします部品の一体化や摩耗/1608705891258807/",
+    "https://www.facebook.com/kagawa.sangi/posts/〇-かがわ次世代ものづくり研究会-令和５年度-第２回勉強会-am技術を活用した製品開発と製造プロセスの最新動向日-時令和５年９月７日木-13301530場-所香/788447156621968/",
+    "https://www.facebook.com/INTERMOLD/photos/am関連企業の皆様へ積層造形amの専門展am-expo名古屋では現在出展企業を募集中2026年5月20日水22日金ポートメッセなごや詳細出展案内httpswww/1254653323121426/",
+    "https://www.facebook.com/INTERMOLD/photos/名古屋展事前来場登録-受付開始intermold-金型展-金属プレス加工技術展-am-expo-名古屋2026年5月20日水22日金ポートメッセなごや金型金属プ/1464613958792027/",
+    "https://www.facebook.com/mazak.jp/videos/variaxis-j-6005x-am/535517392746573/",
+    "https://www.facebook.com/INTERMOLD/photos/自動車部品製造技術フェア-出展者紹介国内製造業の中核を担う自動車分野ではev化軽量化高機能化によりギガキャストなど次世代加工法の開発をはじめとした部品製造技術の/1517048286881927/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 note 社長",
+   "results": [
+    "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://tritoneam.com/moldjet-technology/",
+    "https://mimsen83.blogspot.com/2023/01/ammoldjet.html",
+    "https://note.com/kandoinspirefact/n/nc7a62ad92906",
+    "https://mimsen83.blogspot.com/2022/02/mold-jet-mim-like-am.html",
+    "https://www.jsdmt.jp/event/pdf/seminar/167.pdf",
+    "https://kojomag.nikkan.co.jp/kata/kanto/36"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MoldJet・ペースト型の金属AM材料 X 投稿",
+   "results": [
+    "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/",
+    "https://www.stratasys.co.jp/3d-printers/printer-catalog/moldjet/dominant-system/",
+    "https://www.sciencedirect.com/science/article/pii/S0264127526003564",
+    "https://mimsen83.blogspot.com/2023/01/ammoldjet.html",
+    "https://x.com/PTC_Japan/status/2118554021921276402",
+    "http://pubdata.nikkan.co.jp/uploads/magazine_serial/202605/zkat/2.pdf",
+    "https://www.mazak.com/jp-ja/products/am/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tritone MoldJet metal paste feedstock site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/tritone-technologies_production-workflow-activity-7470770158500929538--xTH",
+    "https://www.linkedin.com/posts/tritone-technologies_7-key-advantages-activity-7135207134887067650-9QTp",
+    "https://il.linkedin.com/company/tritone-technologies",
+    "https://il.linkedin.com/in/amnon-sommer-23b305203",
+    "https://pe.linkedin.com/posts/steffenwkuhn_moldjettechnology-additivemanufacturing-activity-7221445932305813506-DDy6",
+    "https://et.linkedin.com/posts/robert-teuber-a822601bb_rapidtct-2023-tritone-technologies-shows-activity-7067459577704800256-03am",
+    "https://hk.linkedin.com/posts/martinlansard_moldjet-technology-explained-activity-7044616283304202240-JUjx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "成長率": "記載なし（読んだ44頁・検索21回）"
+ }
+}

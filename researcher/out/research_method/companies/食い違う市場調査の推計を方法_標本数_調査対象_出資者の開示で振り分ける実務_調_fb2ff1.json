@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-08T20:29:10.668395+00:00",
+ "researched_at": "2026-11-09T05:09:49.063031+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -49,7 +49,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b6c11e5bcaa375c7c41c6586142fca22",
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=698de9aa6415d5e6e146aabea8b499c6",
     "status": "ok",
     "method": "http"
    },
@@ -69,7 +69,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "url": "https://hybrid-analysis.com/sample/519c21e52dbbece7b42ec7d494b63a053a01bf52e2220a40e1e04c2a0563444c/5ba8617c7ca3e175f94e90f5",
     "status": "ok",
     "method": "http"
    },
@@ -104,8 +104,13 @@
     "method": "http"
    },
    {
+    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://www.sprocket.bz/blog/20221018-sample.html",
-    "status": "network_error:ConnectTimeout",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -114,22 +119,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.nikkei-r.co.jp/service/",
+    "url": "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
+    "url": "https://www.macromill.com/service/column/researcher-071/",
     "status": "ok",
     "method": "http"
    },
@@ -175,7 +170,7 @@
     "https://note.com/ote_walk/n/n84135dbb9b34",
     "https://note.com/kakizaway/n/n0922fa9c4878",
     "https://note.com/makememo/n/n7ae565d6e7f0",
-    "https://note.com/miraikyoso/n/n71ef349a6d1c"
+    "https://note.com/oh1ta/n/nbe59fdb76e4f"
    ],
    "engines": [
     "ddgs:google"
@@ -190,7 +185,7 @@
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
     "https://note.com/ai_datamimi/n/na7eff46a487c",
     "https://www.soumu.go.jp/main_content/000456858.pdf",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
+    "https://hybrid-analysis.com/sample/519c21e52dbbece7b42ec7d494b63a053a01bf52e2220a40e1e04c2a0563444c/5ba8617c7ca3e175f94e90f5",
     "https://note.com/ai_datamimi/n/nb5ed46476574",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915"
@@ -226,19 +221,17 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.intage.co.jp/service/glossary/3096/",
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
     "https://www.sprocket.bz/blog/20221018-sample.html",
     "https://jmro.co.jp/amr00045/",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
     "https://www.gminsights.com/ja/customer-faq",
-    "https://www.nikkei-r.co.jp/service/",
-    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
+    "https://hybrid-analysis.com/sample/f8f6a7bec4fcf8ac547da0421e6be3c5939fad6fa8b85c7f3d7288c8bf8e3e43/5dd32156028838fb3aef8e85",
+    "https://www.macromill.com/service/column/researcher-071/"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "reconciling conflicting market research estimates methodology disclosure sample size sponsor bias",
@@ -249,14 +242,16 @@
     "https://embassy.science/wiki/Theme:B962d39b-ee34-4562-951c-5193700beff6",
     "https://www.m3global.com/blog-managing-conflicts-of-interest-in-Industry-sponsored-market-research.html",
     "https://glg.com/articles/avoiding-bias-in-market-research-types-of-bias",
+    "https://link.springer.com/article/10.1186/s41073-016-0006-7",
     "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-13",
     "https://en.testingtreatments.org/recognizing-researchersponsor-biases-fraud/",
-    "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003894"
+    "https://en.wikipedia.org/wiki/Funding_bias"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "site:note.com 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）",
@@ -265,16 +260,14 @@
     "https://note.com/kakizaway/n/n0922fa9c4878",
     "https://note.com/shijochosa_labo/n/n7648b1cfab60",
     "https://note.com/ote_walk/n/n84135dbb9b34",
-    "https://note.com/wish11_11/n/n0438f12d1d54",
     "https://note.com/oh1ta/n/nbe59fdb76e4f",
-    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/wish11_11/n/n0438f12d1d54",
     "https://note.com/brainy_colt3373/n/n71e35b658975"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:x.com 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）",
@@ -284,11 +277,11 @@
     "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
     "https://x.com/tomizawayutaka/article/2109846840900567482",
     "https://x.com/TeraCoreFM1/status/2058555136285217245",
-    "https://x.com/JRTDesk/status/2109550920224895366",
-    "https://x.com/tsumariitachoco/status/2111828518279799224"
+    "https://x.com/tsumariitachoco/status/2111828518279799224",
+    "https://x.com/JRTDesk/status/2109550920224895366"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -297,8 +290,8 @@
    "results": [
     "https://jp.linkedin.com/pulse/競合調査にlinkedinを活用海外市場での立ち位置を把握する方法-嘉一-中島-vjpyc",
     "https://jp.linkedin.com/pulse/how-conduct-comprehensive-market-analysis-srishti-tandon-qqujc?tl=ja",
-    "https://jp.linkedin.com/pulse/ターゲット国を絞り込む海外営業のための市場調査入門-嘉一-中島-peemc",
     "https://jp.linkedin.com/posts/woo-seop-shin-0b23251a0_新規事業におけるtamsamsom推定audit-modeが不可欠な理由-activity-7373892778302488576-N3ug",
+    "https://jp.linkedin.com/pulse/ターゲット国を絞り込む海外営業のための市場調査入門-嘉一-中島-peemc",
     "https://jp.linkedin.com/pulse/why-market-research-matters-choosing-between-syndicated-iuvdc?tl=ja",
     "https://jp.linkedin.com/pulse/how-conduct-market-analysis-procurement-step-by-step-ramzi-bmlle?tl=ja",
     "https://jp.linkedin.com/pulse/best-market-research-survey-examples-analyzing-results-chartexpo-42nqf?tl=ja"
@@ -327,15 +320,15 @@
   {
    "query": "食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか） note 社長",
    "results": [
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
     "https://note.com/ai_datamimi/n/na7eff46a487c",
-    "https://hybrid-analysis.com/sample/6f730fe95cfb5013ef6ddf76309ad0cc34930316bf6ad576b12ff9482b71e563/65047716c8f45574da0f319d",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://note.com/ogataka/n/n9da5cd1635fa",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://media.aitrigger.co.jp/marketing/2504",
     "https://gmo-research.ai/research-column/competitive-surveys",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text"
+    "https://marketing-prod.qualtrics.com/ja/market-research/research/",
+    "https://www.questionpro.com/blog/ja/%E7%AB%B6%E5%90%88%E4%BB%96%E7%A4%BE%E8%AA%BF%E6%9F%BB%EF%BC%9A%E8%AA%BF%E6%9F%BB%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E3%80%81%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A1%8C%E3%81%86%E3%81%8B/",
+    "https://note.com/ogataka/n/n65ca6610f96e"
    ],
    "engines": [
     "yahoo_jp"
@@ -347,21 +340,18 @@
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.intage.co.jp/service/glossary/3096/",
-    "https://japan.eb.com/rg/article-04583800",
     "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/pdf/csrreports30report.pdf",
     "https://www.jmra-net.or.jp/Portals/0/rule/guideline/20220526_ranking_ads_guideline.pdf",
-    "https://jmro.co.jp/amr00045/",
-    "https://www.sprocket.bz/blog/20221018-sample.html",
+    "https://japan.eb.com/rg/article-04583800",
     "https://www.macromill.com/service/words/sampling-survey/",
+    "https://jmro.co.jp/amr00045/",
     "https://www.cic.co.jp/guide/credit-report/",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
+    "https://www.sprocket.bz/blog/20221018-sample.html"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 9
   },
   {
    "query": "reconciling conflicting market research estimates methodology disclosure sample size sponsor bias site:linkedin.com",
@@ -371,27 +361,27 @@
     "https://in.linkedin.com/in/ca-khandelwal-vivek",
     "https://co.linkedin.com/in/daniel-steven-rodriguez-sandoval/es",
     "https://www.linkedin.com/advice/0/how-do-you-reconcile-conflicting-market-research",
-    "https://www.linkedin.com/advice/3/youre-faced-conflicting-data-market-research-how-yvuee",
+    "https://www.linkedin.com/advice/3/youre-faced-conflicting-results-market-research-euxnc",
     "https://pe.linkedin.com/advice/3/your-market-analysis-reveals-conflicting-data-sources-kk9jf",
     "https://pe.linkedin.com/advice/3/how-would-you-navigate-conflicting-data-when-pnkze",
     "https://www.linkedin.com/advice/0/youre-analyzing-market-research-data-conflicting-1ueaf",
-    "https://www.linkedin.com/advice/0/your-market-research-shows-conflicting-data-how-kpxye"
+    "https://www.linkedin.com/advice/3/youre-faced-conflicting-market-research-data-xg9de"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 11
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ29頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）",
+  "実例": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-07T01:06:28.410729+00:00"
 }

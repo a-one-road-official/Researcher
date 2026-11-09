@@ -1,0 +1,634 @@
+{
+ "name": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）",
+ "en": "PRTR notified facilities by industry annual table electroplating Japan xlsx",
+ "aliases": [
+  "PRTR 届出事業所数 業種別 集計表 xlsx",
+  "PRTRデータ 業種別 届出事業所数 年度別",
+  "site:env.go.jp PRTR 集計結果 業種別"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:09:55.640665+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.nite.go.jp/chem/prtr/qanda/faq_prtr2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/qa/manual_faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/nk26/prtr_renraku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/chemi/communication/manual/rcman_qa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kansei.co.jp/pages/78/detail=1/b_id=601/r_id=349/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/council/05hoken/y055-04/900422052.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hikaru-office.com/kakan-about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exedy.com/ja/assets/pdf/stockholder/Report2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cdn.j-bma.or.jp/wp-content/uploads/2020/03/%E3%83%93%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E6%83%85%E5%A0%B1%E5%B9%B4%E9%91%912020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=Kpe%2BA1bTYyE%3D&tabid=159&mid=1060&TabModule1202=0",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000022829.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tosoh.co.jp/sustainability/report/data/web2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nof.co.jp/csr/upload/pdf/26all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/mizutaiki/kurashi/shizen/taiki/prtr/todokedetaisho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nies.go.jp/dchemcore/search/prtr/0/0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/prtr/r5kohyo/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prtr.env.go.jp/prtrinfo/contents/openPrtr2.do",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/chemi/prtr/result/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.prtr.env.go.jp/prtrinfo/contents/prtr.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nite.go.jp/chem/prtr/prepdata.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opendata.pref.chiba.lg.jp/resource_download/48846",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.kobe.lg.jp/documents/6541/2025_prtr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.gifu.lg.jp/uploaded/attachment/4218.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jec/31/0/31_120/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.fukuoka.lg.jp/kankyo/k-hozen/life/kankyohozen/documents/01_R6_haisyutuidou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nite.go.jp/chem/prtr/prtr_katsuyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/prtr/r4kohyo/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/chemi/prtr/notification/sansyutsu/1_tougou_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.data.jma.go.jp/argo/data/bfrdata/epl5907128.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.prtr.env.go.jp/prtrinfo/contents/syuukei.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtr.toxwatch.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nite.go.jp/data/000007864.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.env.go.jp/press/press_04462.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/prtr/3.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://journal.smartsds.jp/detail/prtr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ciaj.or.jp/ciaj-wp/wp-content/uploads/2023/06/PRTR_20230619.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.prtr.env.go.jp/prtrinfo/contents/prtr.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/prtr/6a.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sankyo-chem.com/news/post-781/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceis.or.jp/prtr/jokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihs.go.jp/mhlw/prtr_hp/main.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nite.go.jp/en/chem/prtr/substa-e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env.go.jp/en/chemi/prtr/about/reports.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemical.chemlinked.com/chempedia/japan-prtr",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://toxwatch.net/en/prtr-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.reach24h.com/news/industry-news/chemical/japan-updates-cas-numbers-for-class-i-and-ii-substances-under-prtr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 人手不足 受注 断る",
+   "results": [
+    "https://www.nite.go.jp/chem/prtr/qanda/faq_prtr2.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/qa/manual_faq.html",
+    "https://web.pref.hyogo.lg.jp/nk26/prtr_renraku.html",
+    "https://www.env.go.jp/chemi/communication/manual/rcman_qa.pdf",
+    "https://kansei.co.jp/pages/78/detail=1/b_id=601/r_id=349/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/3.html",
+    "https://www.chitashin.co.jp/images/about/report/R08report_34.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 受注残 人手不足",
+   "results": [
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://web.pref.hyogo.lg.jp/nk26/prtr_renraku.html",
+    "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "https://www.env.go.jp/council/05hoken/y055-04/900422052.pdf",
+    "https://hikaru-office.com/kakan-about/",
+    "https://www.ceis.or.jp/prtr/jokyo/",
+    "https://www.nite.go.jp/data/000009634.pdf",
+    "https://www.prtr.env.go.jp/prtrinfo/contents/openPrtr2.do"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 人手不足 損失 億円",
+   "results": [
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.exedy.com/ja/assets/pdf/stockholder/Report2025.pdf",
+    "https://cdn.j-bma.or.jp/wp-content/uploads/2020/03/%E3%83%93%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E6%83%85%E5%A0%B1%E5%B9%B4%E9%91%912020.pdf",
+    "https://www.mitsui-kinzoku.com/LinkClick.aspx?fileticket=Kpe%2BA1bTYyE%3D&tabid=159&mid=1060&TabModule1202=0",
+    "https://www.soumu.go.jp/main_content/000022829.pdf",
+    "https://www.tosoh.co.jp/sustainability/report/data/web2024.pdf",
+    "https://www.nof.co.jp/csr/upload/pdf/26all.pdf",
+    "https://www.nsk.com/content/dam/nsk/jp/ja/company/investors/library/pdf/nsk_report/NSK2025_web_A4.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl5907128.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）",
+   "results": [
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.pref.nagano.lg.jp/mizutaiki/kurashi/shizen/taiki/prtr/todokedetaisho.html",
+    "https://www.nies.go.jp/dchemcore/search/prtr/0/0/",
+    "https://www.env.go.jp/council/05hoken/y055-04/900422052.pdf",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r5kohyo/gaiyou.html",
+    "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "https://hikaru-office.com/kakan-about/",
+    "https://www.prtr.env.go.jp/prtrinfo/contents/openPrtr2.do"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 推移",
+   "results": [
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://www.nite.go.jp/chem/prtr/prepdata.html",
+    "https://opendata.pref.chiba.lg.jp/resource_download/48846",
+    "https://www.city.kobe.lg.jp/documents/6541/2025_prtr.pdf",
+    "https://www.pref.gifu.lg.jp/uploaded/attachment/4218.pdf",
+    "https://www.jstage.jst.go.jp/article/jec/31/0/31_120/_pdf",
+    "https://www.city.fukuoka.lg.jp/kankyo/k-hozen/life/kankyohozen/documents/01_R6_haisyutuidou.pdf",
+    "https://www.prtr.env.go.jp/prtrinfo/contents/openPrtr2.do",
+    "https://www.env.go.jp/chemi/prtr/result/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 統計 PDF",
+   "results": [
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r5kohyo/gaiyou.html",
+    "https://www.env.go.jp/council/05hoken/y055-04/900422052.pdf",
+    "https://www.nite.go.jp/chem/prtr/prtr_katsuyou.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r4kohyo/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/notification/sansyutsu/1_tougou_all.pdf",
+    "https://www.data.jma.go.jp/argo/data/bfrdata/epl5907128.html",
+    "https://www.nite.go.jp/chem/prtr/prepdata.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://prtr.toxwatch.net/",
+    "https://www.nite.go.jp/data/000007864.pdf",
+    "https://www.env.go.jp/press/press_04462.html",
+    "https://www.nies.go.jp/dchemcore/search/prtr/0/0/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 従業者規模別",
+   "results": [
+    "https://www.env.go.jp/council/05hoken/y055-04/900422052.pdf",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/3.html",
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.pref.nagano.lg.jp/mizutaiki/kurashi/shizen/taiki/prtr/todokedetaisho.html",
+    "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "https://www.jstage.jst.go.jp/article/jec/31/0/31_120/_pdf",
+    "https://journal.smartsds.jp/detail/prtr",
+    "https://www.ciaj.or.jp/ciaj-wp/wp-content/uploads/2023/06/PRTR_20230619.pdf",
+    "https://hikaru-office.com/kakan-about/",
+    "https://www.env.go.jp/chemi/prtr/result/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 1人当たり 万円",
+   "results": [
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/3.html",
+    "https://www.pref.nagano.lg.jp/mizutaiki/kurashi/shizen/taiki/prtr/todokedetaisho.html",
+    "https://www.sankyo-chem.com/news/post-781/",
+    "https://journal.smartsds.jp/detail/prtr",
+    "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "https://kansei.co.jp/pages/78/detail=1/b_id=601/r_id=349/",
+    "https://www.env.go.jp/council/05hoken/y055-04/900422052.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） 2015 2025",
+   "results": [
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.city.kobe.lg.jp/documents/6541/2025_prtr.pdf",
+    "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "https://hikaru-office.com/kakan-about/",
+    "https://www.env.go.jp/press/press_04462.html",
+    "https://www.ceis.or.jp/prtr/jokyo/",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/6a.html",
+    "https://www.prtr.env.go.jp/prtrinfo/contents/openPrtr2.do"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "PRTR notified facilities by industry annual table electroplating Japan xlsx Japan statistics",
+   "results": [
+    "https://www.nite.go.jp/en/chem/prtr/substa-e.html",
+    "https://www.env.go.jp/en/chemi/prtr/about/reports.html",
+    "https://chemical.chemlinked.com/chempedia/japan-prtr",
+    "https://toxwatch.net/en/prtr-in-japan/",
+    "https://en.reach24h.com/news/industry-news/chemical/japan-updates-cas-numbers-for-class-i-and-ii-substances-under-prtr",
+    "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-japan.pdf",
+    "https://www.meti.go.jp/policy/chemical_management/english/prtr.html",
+    "https://one.oecd.org/document/ENV/CBC/MONO(2023)9/en/pdf",
+    "https://enviliance.com/regions/east-asia/jp/jp-chemical/jp-prtr",
+    "https://www.prtr.env.go.jp/prtrinfo/e-index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）",
+   "results": [
+    "https://note.com/lucky_moraea6560/n/n1a8c55f7ee34",
+    "https://note.com/nobuto545/n/n16c9db27456e",
+    "https://note.com/remsylong/n/nb7bafa665824",
+    "https://note.com/matsunoya_note/n/n20d1e6ddadaf",
+    "https://note.com/kaofu/n/n2b0dd17a1a1d",
+    "https://note.com/jitsumu_miss/n/n9611c218c0bd",
+    "https://note.com/m_kasai1659/n/n012b2c3ffbd3",
+    "https://note.com/kamakino_works/n/n496c49f4be3c",
+    "https://note.com/real_mink1623/n/nefe92909ba59",
+    "https://note.com/kens_reading1/n/n472aa64b72bc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）",
+   "results": [
+    "https://jp.linkedin.com/pulse/prtrって一体何当社に関係あるの-heidelberg-japan-k-k",
+    "https://www.linkedin.com/feed/update/urn:li:share:7514335030324801537",
+    "https://de.linkedin.com/in/andreas-schneck-0250093",
+    "https://ch.linkedin.com/in/ceschmitz",
+    "https://pl.linkedin.com/in/bogdan-kuncewicz-58a463177",
+    "https://za.linkedin.com/in/tumelo-nku-16734288",
+    "https://www.linkedin.com/posts/rolf-ollakka-8108a12b4_varoitus-liikkeellä-taitava-verkkotunnushuijaus-activity-7473651036608524288-hdHT"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）",
+   "results": [
+    "https://www.facebook.com/iryouhouzin/posts/%E6%97%A5%E6%9C%AC%E7%97%85%E9%99%A2%E4%BC%9A%E3%82%88%E3%82%8A-%E8%A8%BA%E7%99%82%E6%83%85%E5%A0%B1%E7%AE%A1%E7%90%86%E5%A3%AB110%E6%9C%9F%E7%94%9F%E5%8B%9F%E9%9B%86%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/1408645321354296/",
+    "https://www.facebook.com/prtr.thailand/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/Akirerika27/",
+    "https://www.facebook.com/woodyhorn/",
+    "https://www.facebook.com/PRI.MOF.Japan/posts/9月1日-法人企業統計調査-令和7年46月期令和6年度年次別調査の結果を公表いたしました下記リンクから調査の結果についてご確認いただけますのでどうぞご覧ください/1192735222894708/",
+    "https://www.facebook.com/marketplace/item/932040586436890/",
+    "https://www.facebook.com/kabusatou310/posts/有資格者の一覧表ですどの業種でも必要な資格増えてますねーマグネット方式で掲示しているので定期的にエアで掃除しないと鉄粉がついて見えなくなりますｗ資格表の場所って/226974439638606/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） note 社長",
+   "results": [
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.nite.go.jp/chem/prtr/qanda/faq_prtr2.html",
+    "https://www.jstage.jst.go.jp/article/jec/31/0/31_120/_pdf",
+    "https://www.ciaj.or.jp/ciaj-wp/wp-content/uploads/2023/06/PRTR_20230619.pdf",
+    "https://hikaru-office.com/prtr-todoke-jitsumu/",
+    "https://www.pref.osaka.lg.jp/documents/965/2022seminar_1_meti.pdf",
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r4kohyo/gaiyou.html",
+    "https://www.env.go.jp/press/press_04462.html",
+    "https://www.prtr.env.go.jp/prtrinfo/contents/openPrtr2.do"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/policy/chemical_management/law/prtr/r6kohyo/gaiyou.html",
+    "https://www.nite.go.jp/chem/prtr/prtr-kaizi.html",
+    "https://www.env.go.jp/chemi/prtr/result/gaiyo.html",
+    "https://www.kankyo.metro.tokyo.lg.jp/chemical/chemical/control/total/total/300300a20230330171611366",
+    "https://www.pref.nagano.lg.jp/mizutaiki/kurashi/shizen/taiki/prtr/todokedetaisho.html",
+    "https://www.kaken-tech.co.jp/trouble/prtr/",
+    "https://www.pref.fukuoka.lg.jp/contents/prtr-todokede.html",
+    "https://journal.smartsds.jp/detail/prtr",
+    "https://www.prtr.env.go.jp/prtrinfo/contents/prtr.jsp",
+    "https://www.prtr.env.go.jp/prtrinfo/contents/openPrtr2.do"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "PRTR notified facilities by industry annual table electroplating Japan xlsx site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japan-electroplating-market-growth-size-trends-forecast-gourav-singh-6vmic",
+    "https://linkedin.com/pulse/comprehensive-japan-electroplating-chemistry-report-industry-3ti1e",
+    "https://www.linkedin.com/pulse/japan-electroplating-production-line-market-size-investment-io2df/",
+    "https://www.linkedin.com/pulse/electroplating-manufacturing-plant-project-report-2024-malhotra-ik8ec",
+    "https://www.linkedin.com/pulse/japan-electroplating-additives-market-trends-historical-forecast-llpte",
+    "https://www.linkedin.com/pulse/japan-electroplating-apparatus-market-uljec/",
+    "https://www.linkedin.com/pulse/japan-electroplating-microelectronics-market-report-growth-analysis-9jryc/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ55頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ55頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "10年推移": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

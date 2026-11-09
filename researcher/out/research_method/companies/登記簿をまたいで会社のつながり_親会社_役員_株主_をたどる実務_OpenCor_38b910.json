@@ -8,54 +8,8 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-08T20:31:02.406933+00:00",
+ "researched_at": "2026-11-09T05:17:02.066971+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "Estimated automatically usable companies",
-    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Estimated manual review workload",
-    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Check whether your quote includes the required attempts, endpoints and consumption. This model does not predict that manual review will resolve every exception, and it does not estimate one-time integration cost.",
-    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Provider shortlist by use case",
-    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The defaults below are editable examples, not vendor prices or measured performance. “Usable” means a company was matched and all fields required by your workflow were present. No input is sent to a server by this calculator.",
-    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Example monthly model:",
-    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Prepare a representative sample, ideally 50–100 companies across your actual countries and entity types. This is a practical starting point, not a statistically conclusive benchmark. Include difficult cases as well as easy ones: similar names, branches, inactive companies, holding structures and businesses with limited public filings.",
-    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Start with your countries, required fields and delivery method. Then test the same companies across your shortlist. A large headline database or a low API price tells you little about whether a record is usable in your actual KYB process.",
@@ -107,6 +61,52 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "Estimated automatically usable companies",
+    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Estimated manual review workload",
+    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Check whether your quote includes the required attempts, endpoints and consumption. This model does not predict that manual review will resolve every exception, and it does not estimate one-time integration cost.",
+    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Provider shortlist by use case",
+    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The defaults below are editable examples, not vendor prices or measured performance. “Usable” means a company was matched and all fields required by your workflow were present. No input is sent to a server by this calculator.",
+    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Example monthly model:",
+    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Prepare a representative sample, ideally 50–100 companies across your actual countries and entity types. This is a practical starting point, not a statistically conclusive benchmark. Include difficult cases as well as easy ones: similar names, branches, inactive companies, holding structures and businesses with limited public filings.",
+    "url": "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
   ]
  },
  "figures": {},
@@ -128,17 +128,17 @@
     "method": "http"
    },
    {
-    "url": "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%8F%96%E5%BC%95%E5%85%88%E7%AD%89%E3%81%AE%E4%BF%A1%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E7%99%BB%E8%A8%98%E7%B0%BF%E7%B7%A8/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://shiodome.co.jp/js/blog/4934",
+    "url": "https://www.businesslawyers.jp/practices/379",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -148,12 +148,22 @@
     "method": "http"
    },
    {
-    "url": "https://xn--lcss68alvlysfomtekv.com/pdf/202609FIT.pdf",
+    "url": "https://www.hashimoto-shihou.jp/%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%B3%95%E4%BA%BA-%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98/%E6%B3%95%E4%BA%BA03/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://corporate.ai-con.lawyer/articles/copy-of-register/19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsuji-shihoushoshi.jp/post/415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syogyo-toki.com/heisa-kako-touki-kiroku/",
     "status": "ok",
     "method": "http"
    },
@@ -178,14 +188,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/datasets/comments/1tzy81j/built_an_alternative_to_opencorporates_using/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://bellingcat.gitbook.io/toolkit/more/all-tools/opencorporates",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/datasets/comments/1tzy81j/built_an_alternative_to_opencorporates_using/",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -196,12 +206,12 @@
     "https://office-lso.com/venture-support/governance/shogyo-toki-kisoku-30jo/",
     "https://www.moj.go.jp/MINJI/minji69.html",
     "https://www.tdb.co.jp/report/biz-knowledge/qg_2vpwqy/",
-    "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%8F%96%E5%BC%95%E5%85%88%E7%AD%89%E3%81%AE%E4%BF%A1%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E7%99%BB%E8%A8%98%E7%B0%BF%E7%B7%A8/",
-    "https://shiodome.co.jp/js/blog/4934",
+    "https://www.businesslawyers.jp/practices/379",
+    "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "https://legal-script.com/media/tips_tokibo/",
-    "https://xn--lcss68alvlysfomtekv.com/pdf/202609FIT.pdf",
     "https://corporate.ai-con.lawyer/articles/copy-of-register/19",
+    "https://www.hashimoto-shihou.jp/%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%B3%95%E4%BA%BA-%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98/%E6%B3%95%E4%BA%BA03/",
     "https://note.com/yglpc_iguchi/n/n7140a302ecde"
    ],
    "engines": [
@@ -218,10 +228,10 @@
     "https://www.tdb.co.jp/report/biz-knowledge/qg_2vpwqy/",
     "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%8F%96%E5%BC%95%E5%85%88%E7%AD%89%E3%81%AE%E4%BF%A1%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E7%99%BB%E8%A8%98%E7%B0%BF%E7%B7%A8/",
-    "https://shiodome.co.jp/js/blog/4934",
     "https://legal-script.com/media/tips_tokibo/",
-    "https://xn--lcss68alvlysfomtekv.com/pdf/202609FIT.pdf",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/19"
+    "https://www.hashimoto-shihou.jp/%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%B3%95%E4%BA%BA-%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98/%E6%B3%95%E4%BA%BA03/",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/19",
+    "https://tsuji-shihoushoshi.jp/post/415"
    ],
    "engines": [
     "yahoo_jp"
@@ -236,10 +246,10 @@
     "https://www.tdb.co.jp/report/biz-knowledge/qg_2vpwqy/",
     "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%8F%96%E5%BC%95%E5%85%88%E7%AD%89%E3%81%AE%E4%BF%A1%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E7%99%BB%E8%A8%98%E7%B0%BF%E7%B7%A8/",
-    "https://xn--lcss68alvlysfomtekv.com/pdf/202609FIT.pdf",
     "https://legal-script.com/media/tips_tokibo/",
-    "https://shiodome.co.jp/js/blog/4934",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/19"
+    "https://www.hashimoto-shihou.jp/%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%B3%95%E4%BA%BA-%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98/%E6%B3%95%E4%BA%BA03/",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/19",
+    "https://tsuji-shihoushoshi.jp/post/415"
    ],
    "engines": [
     "yahoo_jp"
@@ -254,10 +264,10 @@
     "https://www.tdb.co.jp/report/biz-knowledge/qg_2vpwqy/",
     "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%8F%96%E5%BC%95%E5%85%88%E7%AD%89%E3%81%AE%E4%BF%A1%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E7%99%BB%E8%A8%98%E7%B0%BF%E7%B7%A8/",
-    "https://xn--lcss68alvlysfomtekv.com/pdf/202609FIT.pdf",
     "https://legal-script.com/media/tips_tokibo/",
-    "https://shiodome.co.jp/js/blog/4934",
-    "https://corporate.ai-con.lawyer/articles/copy-of-register/19"
+    "https://www.hashimoto-shihou.jp/%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%B3%95%E4%BA%BA-%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98/%E6%B3%95%E4%BA%BA03/",
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/19",
+    "https://syogyo-toki.com/heisa-kako-touki-kiroku/"
    ],
    "engines": [
     "yahoo_jp"
@@ -271,11 +281,11 @@
     "https://gijn.org/resource/researching-corporations-and-their-owners/",
     "https://dataharvest.eu/wp-content/uploads/2019/06/2019-05-Using-OpenCorporates-to-Investigate-Companies.pdf",
     "https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/",
-    "https://www.reddit.com/r/datasets/comments/1tzy81j/built_an_alternative_to_opencorporates_using/",
     "https://bellingcat.gitbook.io/toolkit/more/all-tools/opencorporates",
+    "https://www.reddit.com/r/datasets/comments/1tzy81j/built_an_alternative_to_opencorporates_using/",
+    "https://app.snowflake.com/marketplace/providers/GZTDZM1AJW/OpenCorporates",
     "https://exposingtheinvisible.org/en/databases/opencorporates/",
     "https://veridion.com/insights/articles/opencorporates-alternatives",
-    "https://app.snowflake.com/marketplace/providers/GZTDZM1AJW/OpenCorporates",
     "https://opencorporates.com/companies/search"
    ],
    "engines": [
@@ -291,8 +301,8 @@
     "https://note.com/tax6949/n/n656a9ab5c88e",
     "https://note.com/tutanet/n/n474971f6a3f3",
     "https://note.com/regal_liger1600/n/nabecabcfefc0",
-    "https://note.com/g3pdubai/n/n00461ff5dbe8",
     "https://note.com/washow/n/nabefd51e4ea4",
+    "https://note.com/g3pdubai/n/n00461ff5dbe8",
     "https://note.com/tyousachuo/n/n2a9acfee3ed1"
    ],
    "engines": [
@@ -303,29 +313,29 @@
   {
    "query": "site:x.com 登記簿をまたいで会社のつながり（親会社・役員・株主）をたどる実務（OpenCorporates・GIJN の企業記録の手引き・登記番号・届出の日付・住所の共有は根拠にしない）",
    "results": [
+    "https://jf.x.com/images/media-preview/2114344858223771674",
     "https://x.com/GianMattya/status/2101932268944245032",
     "https://x.com/edinetdb/status/2102570655904625124",
     "https://x.com/ownershiplens/status/2114326166870073655",
     "https://x.com/kaijiwire/status/2092172147074662615",
-    "https://x.com/ownershiplens/status/2117388966601404439",
     "https://x.com/ownershiplens/status/2111781469156954429",
     "https://x.com/ownershiplens"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 登記簿をまたいで会社のつながり（親会社・役員・株主）をたどる実務（OpenCorporates・GIJN の企業記録の手引き・登記番号・届出の日付・住所の共有は根拠にしない）",
    "results": [
+    "https://jp.linkedin.com/in/まり-片岡-524b20205",
     "https://business.linkedin.com/ja-jp/marketing-solutions/linkedin-pages",
     "https://www.linkedin.com/help/linkedin/answer/a6511041?lang=ja-JP",
-    "https://www.linkedin.com/pub/dir/信介/片井",
-    "https://jp.linkedin.com/posts/恵佑-熊谷-ab85aa315_株主総会終わりました-会社にとって必要な事柄はとにかく独立性かつ実効性がある第三者委員会-activity-7389196815310663680-rfjf",
     "https://jp.linkedin.com/posts/孝幸-田中-332ba3219_事業承継最初の相談相手は税理士だと思っていませんか-実は最初に整理すべきは株式-activity-7502973620466569217-P0ox",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7394906160140775425/",
     "https://id.linkedin.com/posts/ttp-bengoshi_優先株を持つ株主に対する権利及び制限-1-議決優先株式の場合-activity-7011629919004766209-D7Sb",
-    "https://jp.linkedin.com/in/亮子-橋本-1a4254309"
+    "https://jp.linkedin.com/in/kaori-tokita0108"
    ],
    "engines": [
     "ddgs:google"
@@ -338,13 +348,13 @@
     "https://www.facebook.com/4430.info/posts/株主リストが登記の添付書面となります-平成２８年１０月１日以降の株式会社投資法人特定目的会社の登記の申請に当たっては添付書面として株主リストが必要となる場合があ/1134794993266502/",
     "https://www.facebook.com/yosio.tomiyama.1/photos/沖縄タイムスの株主を知る資料はないでも法務局に行けば商業登記簿謄本が入手できる令和７年８月現在のものが手元にあるそこには役員に関する事項に何名かの取締役が記載さ/4180360852239250/",
     "https://www.facebook.com/sugiyamakaikei.jp/posts/株主リストの添付が義務化登記悪用の違法行為が後を絶たず-株主総会議事録を偽造して役員になりすまして役員変更登記をしたり本人承諾のない取締役就任登記をしたりして会/569956246545385/",
-    "https://www.facebook.com/4430.info/posts/不動産登記申請に添付する利益相反に関する議事録関係の質疑応答単なる羅列-取締役会の議事録の添付の要否登記研究６３２号-要旨-代表取締役を同じくする甲乙両会社が共/1873999412679386/",
     "https://www.facebook.com/tokyoaoyamashihoshoshi/posts/不動産登記における取締役の利益相反取引と印鑑証明書-会社法では取締役が自己又は第三者のために株式会社と取引をしようとするときには株主総会取締役会設置会社の場合は/2813483352306537/",
     "https://www.facebook.com/gvacorporate/posts/株主総会の招集手続き通知の流れという記事を掲載しました株主総会の定義から定時株主総会と臨時株主総会や公開会社と非公開会社の違いを踏まえつつ解説していますhttp/1205233253607322/",
+    "https://www.facebook.com/4430.info/posts/不動産登記申請に添付する利益相反に関する議事録関係の質疑応答単なる羅列-取締役会の議事録の添付の要否登記研究６３２号-要旨-代表取締役を同じくする甲乙両会社が共/1873999412679386/",
     "https://www.facebook.com/goal.ginza/posts/会計検査人は登記簿謄本に載りますので役員として許認可で必要書類の対象になりそうですが会計監査人の権限は計算書類等の監査と会計監査報告の作成であるので当該書類が必/341630199252135/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -356,9 +366,9 @@
     "https://www.tdb.co.jp/report/biz-knowledge/qg_2vpwqy/",
     "https://kigyo-research-compass.com/corporate-registry-reading-guide/",
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%8F%96%E5%BC%95%E5%85%88%E7%AD%89%E3%81%AE%E4%BF%A1%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E7%99%BB%E8%A8%98%E7%B0%BF%E7%B7%A8/",
-    "https://shiodome.co.jp/js/blog/4934",
     "https://legal-script.com/media/tips_tokibo/",
-    "https://xn--lcss68alvlysfomtekv.com/pdf/202609FIT.pdf",
+    "https://www.hashimoto-shihou.jp/%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%B3%95%E4%BA%BA-%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98/%E6%B3%95%E4%BA%BA03/",
+    "https://shiodome.co.jp/js/blog/4934",
     "https://corporate.ai-con.lawyer/articles/copy-of-register/19"
    ],
    "engines": [
@@ -376,8 +386,8 @@
     "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E6%B3%95%E5%8B%99%E9%83%A8%E9%96%80%E6%94%AF%E6%8F%B4/%E5%8F%96%E5%BC%95%E5%85%88%E7%AD%89%E3%81%AE%E4%BF%A1%E7%94%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF-%E7%99%BB%E8%A8%98%E7%B0%BF%E7%B7%A8/",
     "https://legal-script.com/media/tips_tokibo/",
     "https://www.hashimoto-shihou.jp/%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E5%AE%A4/%E6%B3%95%E4%BA%BA-%E5%95%86%E6%A5%AD%E7%99%BB%E8%A8%98/%E6%B3%95%E4%BA%BA03/",
-    "https://xn--lcss68alvlysfomtekv.com/pdf/202609FIT.pdf",
-    "https://www.businesslawyers.jp/practices/379"
+    "https://corporate.ai-con.lawyer/articles/copy-of-register/19",
+    "https://tsuji-shihoushoshi.jp/post/415"
    ],
    "engines": [
     "yahoo_jp"
@@ -395,19 +405,19 @@
     "https://in.linkedin.com/posts/opencorporates_search-300-million-official-company-officer-activity-7009550960427474944-8m_y",
     "https://uk.linkedin.com/company/thecrf",
     "https://nz.linkedin.com/company/global-business-registries-organisation-gbro",
-    "https://www.linkedin.com/posts/open-source-intelligence-center_legal-entity-data-you-can-trust-activity-7515445552927477760-CPO_"
+    "https://uk.linkedin.com/company/tremark-associates"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 9
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ17頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T12:59:20.078105+00:00"
 }

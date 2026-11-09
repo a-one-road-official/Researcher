@@ -1,0 +1,1091 @@
+{
+ "name": "金属・セラミック含有ペレット（MIMフィードストック流用）",
+ "en": "metal MIM feedstock pellets 3D printing pellet extrusion",
+ "aliases": [
+  "MIM フィードストック 3Dプリンター",
+  "金属 ペレット 積層造形",
+  "セラミック ペレット 3D"
+ ],
+ "context": "ペレット・金属",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:17:59.517760+00:00",
+ "evidence": {
+  "価格": [
+   {
+    "quote": "詳しいお問い合わせ図面や情報をいただければ、製品価格や金型価格など詳細なお見積もりをお送りするのに通常2～3日しかかかりません",
+    "url": "https://jhmim.com/ja/metal-injection-molding/",
+    "pass": 3
+   },
+   {
+    "quote": "printer that comes of a price of 49000$. Other desktop models can be found for lower budgets such as the BigFoot 200 from Tumaker",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "粉末冶金にこだわらず、拡散接合処理や熱処理など小ロットでの試験・試作も是非ご相談下さい",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粒子を体積の半分以上含むMIMフィードストックの粘度を、MFR測定、混練性評価装置（東洋精機製作所：ラボプラストミル）、流動性評価装置（HAAKE：minilab）で管理しています",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "穴、スロット、アンダーカット",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "グレード、サプライヤーロット、梱包、保管、成形応答、脱脂、収縮、トレーサビリティ",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIMは通常、社内で金属粉末を製造したり、粉末とバインダーを混合したり、フィードストックをペレット化したりするのではなく、認定された市販のフィードストックを購入します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーのロット、包装状態、保管、成形応答、脱脂挙動、収縮、および最終検査結果は追跡可能である必要があります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIMでは、生産は通常、認定された市販のフィードストックペレットから始まります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "材料およびサプライヤーロットの検証、保護された保管、トライアル成形応答、脱脂適合性、焼結収縮、および最終的な寸法の一貫性",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "フィードストックから焼結部品に至るまでのバッチ一貫性と工程トレーサビリティ",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "ペレットの状態、清浄度、防湿、バッチトレーサビリティも重要であり、これらは材料が成形工程に一貫して供給されるかどうかに影響します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "この段階での一貫性は、流動性、グリーン強度、脱脂、および収縮挙動に影響します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIMでは、ペレットがトライアル成形または量産に入る前に、材料グレード、サプライヤーロット、梱包状態、保管期間、保管要件、および利用可能な材料ドキュメントを確認します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "フィードストックの流動性が悪いと、金型に完全に充填されない可能性があります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "流動性の不良、混合の不均一、またはグリーン強度の弱さは、脱脂前にショートショット、バリ、フローマーク、トリミング損傷、または小さなクラックを引き起こす可能性があります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "試作ロットと量産ロット間の異なる焼結収縮挙動",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIMでは通常、市販のペレットを使用するため、工場管理は、適切な材料投入、保護された取り扱い、プロジェクト固有の成形応答、下流工程との互換性、および最終検査までのトレーサビリティに焦点を当てます",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "材料グレード、サプライヤーロット、梱包、保管期間情報、保管要件、および利用可能な証明書を確認します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "To achieve our goal, we reserved one of the tool slots for a modified extruder head capable of printing from granular feedstock as presented above. For this, we chose to use a commercially available extruder, the Pellet Extruder V3 manufactured by Mahor.XYZ (see link in",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": ".b) present on each tool and that allows its locking. As said before, this part ensures the positioning of the tool by completing the three mechanical connections, which constitutes an isostatic joint with the tool holder. After insertion, it is held in place by rotating the T-shaped latch by 90° through a slot placed facing it in the fixing plate.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Since it is not linked to any physical heater, the “P” parameter must be filled with a value higher than 100 to declare a virtual heater. The interface will feature two new sensors in the “Extra” tab and their value will be plotted along the others in the “Temperature Chart” (see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Paris H., Mokhtarian H., Coatanéa E., Museau M., Ituarte I.F. Comparative environmental impacts of additive and subtractive manufacturing technologies. CIRP Ann. 2016;65(1):29–32. doi: 10.1016/j.cirp.2016.04.036.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "太盛工業では日々の新しいニーズに柔軟に対応するため、生産設備や測定機器はもちろん、試作・開発の為の設備まで、数多くの国内最先端の設備を保有しています",
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "当社の生産管理は、材料グレードとサプライヤーバッチの検証から始まり、保管、トライアル成形、脱脂適合性、焼結収縮、そして最終的な寸法の一貫性までを追跡します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "材料グレード、バッチ識別、包装、保管条件、および証明書データを使用前に検証します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "グレード、サプライヤーロット、梱包、保管、成形応答、脱脂、収縮、トレーサビリティ",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーのロット、包装状態、保管、成形応答、脱脂挙動、収縮、および最終検査結果は追跡可能である必要があります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "材料およびサプライヤーロットの検証、保護された保管、トライアル成形応答、脱脂適合性、焼結収縮、および最終的な寸法の一貫性",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "その実用的な管理ポイントは、金属粉末、バインダー、粉末とバインダーの分散状態、ペレットの状態、および保管安定性です",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "実際のプロジェクトでは、同じ材料ファミリーでも、粉末特性、バインダールート、保管条件、成形ウィンドウ、肉厚、焼結要件が変われば、挙動が異なる場合があります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIMでは、ペレットがトライアル成形または量産に入る前に、材料グレード、サプライヤーロット、梱包状態、保管期間、保管要件、および利用可能な材料ドキュメントを確認します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "材料グレード、サプライヤーロット、梱包、保管期間情報、保管要件、および利用可能な証明書を確認します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "保管ログ、密閉管理、材料分離、および指定された場合のコンディショニング",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーデータは、金型、成形、脱脂、焼結、保管、トレーサビリティの開始参照情報を提供します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIMは、受け入れ材料の検証、保管、トライアル成形、脱脂・焼結時の応答、最終検査、ロットトレーサビリティを管理しています",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": ", which are intended for Large Format Additive Manufacturing. Indeed, the use of granules facilitates the storage and supply of the feedstock while allowing for higher flow rate",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "At the end of this cycle, the part obtained is purely metallic (or ceramic if a different powder is used). The density and the porosity state depend mainly on the sintering step (temperature reached, duration of the steps, heating ramps, control of the atmosphere) but also on the quality of the feedstock and the deposition strategy during the printing.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "To continue, the machine is equipped with a glass heating plate capable of reaching a temperature of 200 °C and that moves along the vertical axis. Following the same principle, a “core XY” driveline allows to relocate the motors outside the frame and to reduce the inertia of the moving parts. This comes in handy when dealing with larger and heavier tool units.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "). The proposed geometrical file allows the user to have a storage capacity of about 20 cl. This funnel fits into a second part called “Pellet Case”.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "). A design version of this component is provided by Mahor XYZ. It has two inlets, one for the pellets to reach the screw and the other to allow a fan to blow on the pellets to cool them. Just as presented previously for the “Heat-Sink Fan”, the purpose of this is to prevent the pellets from melting in the “Pellet Case” so that they do not clog the inlet of the extrusion body.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "environment are much more expensive than solutions for non-flammable gas such as RH5. This would greatly reduce the possibility of creating low cost parts.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "XTMIMでは通常、市販のペレットを使用するため、工場管理は、適切な材料投入、保護された取り扱い、プロジェクト固有の成形応答、下流工程との互換性、および最終検査までのトレーサビリティに焦点を当てます",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "Originally intended for injection molding, these compounds are compatible with Pollen AM 3D printers. Pollen AM recommends Polymim GmbH's MIM raw materials.",
+    "url": "https://pollen.am/use_cases_metal_alloys_copper/",
+    "pass": 3
+   },
+   {
+    "quote": "allows the process of future metal alloy parts at low temperatures. Initially aimed at injection molding, these compounds are compatible with the Pollen AM",
+    "url": "https://pollen.am/use_cases_metal_alloys_copper/",
+    "pass": 3
+   },
+   {
+    "quote": "Heating cartridge and heat temperature sensors.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "この記事は、金属射出成形プロジェクトを評価しているOEMおよびODMのお客様のために、XTMIMのエンジニアリングコンテンツチームが作成しました",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "バインダーは一時的なもので、成形とグリーン部品の取り扱いをサポートし、焼結中に金属粉末が焼結される前に除去されます",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "診断は、単一の機械パラメータを繰り返し調整するのではなく、完全なプロセスチェーンをトレースする必要があります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "実際のプロセス上の課題は、フィードストック、部品設計、金型設計、ゲート位置、成形パラメータが安定したウィンドウ内で協調できるかどうかです",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "選択された市販フィードストックに組み込まれたバインダー経路は、脱脂方法、除去速度、サポート要件、および欠陥リスクに直接影響します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダー除去適合性、サポート方法、収縮トレンド、密度、硬度、寸法、およびファーネスバッチ応答を確認します",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "部品形状、金型およびゲート設計、成形パラメータ、脱脂、炉サポート、検査データの通常のチェックの後で問題が繰り返される場合にレビューしてください",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "流動長、ゲート位置、射出プロファイル、およびキャビティバランス",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "壁厚、脱脂プロファイル、ローディング、およびサポート",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "炉プロファイル、セッター、ローディング方向、形状、およびサイジング計画",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "適切なレビューは、フィードストックバッチの応答と、成形ウィンドウ、トリミングサポート、脱脂ローディング、焼結サポートを関連付けます",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "成形前に始まるばらつきは焼結後にのみ測定可能になる場合があるため、1つの機械パラメータのみを原因として扱うべきではありません",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "部品設計、金型設計、ゲート位置、射出パラメータ、脱脂工程、焼結支持、および検査データも併せてレビューする必要があります",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "内容は、MIM製造の観点から、市販フィードストックの選定、受け入れバッチ管理、成形安定性、グリーン部品の取り扱い、脱脂サポート、焼結収縮、寸法管理、および生産トレーサビリティに注意を払って書かれています",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing parameters",
+    "url": "https://pollen.am/use_cases_metal_alloys_copper/",
+    "pass": 3
+   },
+   {
+    "quote": "investigated the impact of the printing parameters and orientation on the mechanical properties, the micro-structure and the porosity level of the sintered part. Other materials are printed using Material Extrusion with the examples of ceramics like alumina",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "open source control board whose parameters and source codes are all accessible and modifiable. Moreover, the firmware of this board offers to the user a great control as well as all the necessary elements to allow the development of a non-standard tool quite easily.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "A difficulty that is often encountered when assembling printed parts is getting the correct fits. Depending on the nozzle used, the material or the printing parameters, it may be necessary to correct certain holes by conventional drilling or by using a fine file and sandpaper.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "The G-code command “M106 P5 S255 H3 T70” is already present in the config.g file provided by E3D for the tool changer. Nevertheless, the parameter “H” must be modified to correspond to the temperature sensor of the thermal barrier (H1 on the Duet2, H4 on the Duex 5).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Since it is not linked to any physical heater, the “P” parameter must be filled with a value higher than 100 to declare a virtual heater. The interface will feature two new sensors in the “Extra” tab and their value will be plotted along the others in the “Temperature Chart” (see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "An example of G-code to set this parameter is: “G10 P0 X-9 Y39 Z-5″, where the parameter P designates the tool in question and X, Y and Z are the offsets in the three spatial directions.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "On the RepRap firmware, the tuning of this value is done using the M572 G-code command but its value will heavily depend on the material used as binder. Effective parameterization procedures and extended information are available from the duet3D website.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Printing from pellets raises several challenges that we propose to solve by effectively using the capabilities of the Tool Changer printer and its control board. One obstacle inherent to the method is the management of the extrusion rate, whose behavior depends non-linearly on many parameters",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": ". This results in a blocking of the pellets that depends on several parameters such as the cylinder diameter, the hopper slop or the presumed shape of the arch",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "In this section several changes in the printing parameters are presented. These are specific to the use of the Mahor extrusion head with the Tool Changer. The Ultimaker Cura software is chosen for the example but the features used are present in most existing Slicer. A list of the main parameters that were modified to print the PolyMIM 316L pellets is shown in",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "List of parameters used for printing PolyMIM 316L granules.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Printing parameter for Cura: PolyMIM 316L, steel nozzle 0.6 mm",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of calibration parts printed to set the parameters of the printing job are shown in",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "To demonstrate the feasibility of the shaping part, we assembled and parameterized a second granulate extrusion head similar to the first one. The printing of parts in PolyMIM 316L with alumina support was then carried out to obtain more complex geometries that include overhangs as shown in",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Hassan W., Farid M.A., Tosi A., Rane K., Strano M. The effect of printing parameters on sintered properties of extrusion-based additively manufactured stainless steel 316L parts. Int. J. Adv. Manuf. Technol. 2021;114(9):3057–3067. doi: 10.1007/s00170-021-07047-w.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "フィードストックのバッチ記録は、成形、脱脂、焼結、密度、寸法検査、およびその他のプロジェクト固有の結果と連携されるため、リピート注文は承認された製造ルートと比較できます",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "トライアル間、生産バッチ間、またはリピートオーダー間の説明不能なばらつき",
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "pass": 3
+   },
+   {
+    "quote": "You're in. Check your inbox to confirm your subscription.",
+    "url": "https://pollen.am/use_cases_metal_alloys_copper/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "Considering 3D printing manufacturing, the use of compound in pellets form is the cheapest solution on the market to produce metal parts. (Pam vs. FDM, Binder Jetting, SML)",
+    "url": "https://pollen.am/use_cases_metal_alloys_copper/",
+    "pass": 3
+   },
+   {
+    "quote": "Metals Ceramics Commodity Elastomers Performance High Performance.",
+    "url": "https://pollen.am/use_cases_metal_alloys_copper/",
+    "pass": 3
+   },
+   {
+    "quote": ". The main reason for this choice is to investigate the possibility of sintering with cheaper furnace solution. In effect, furnaces equipped to be used with an H",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "received his Ph.D in 2009 from the Laboratoire de mécanique et technologie in Cachan, France. Since 2010, he is a reasearch engineer at CNRS in the Laboratoire de Mécanique Multiphysique Multiéchelle in Lille. His reseach interest focus on Low-Cost Metal Additive Manufacturing, smart mechanical testing and full field measurement.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "“Cheaper 3D Printing with Pellets” All3DP Pro, Dec. 06, 2021.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "https://all3dp.com/1/cheaper-3d-printing-with-pellets/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Zhang C., Wijnen B., Pearce J.M. Open-source 3-D platform for low-cost scientific instrument ecosystem. J Lab Autom. 2016;21(4):517–525. doi: 10.1177/2211068215624406.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   },
+   {
+    "quote": "Navarro M., Matar A., Diltemiz S.F., Eshraghi M. Development of a low-cost wire arc additive manufacturing system. JMMP. 2021;6(1):3. doi: 10.3390/jmmp6010003.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.researchnester.com/ja/reports/metal-injection-molding-market/4916",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/europe-metal-injection-molding-mim-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/metal-injection-molding-parts-mim-parts-market-108833?srsltid=AYCX9vJYxNYaXGWwGBNyR55LGnKuEjaX3oGsQukE-Pna_VlczcefnikI",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/2123?srsltid=AYCX9vLbk3hxhpRM_QXdzBbX5nrkfZShdjLBhRhEI8QxOLcjG-zewHOE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomoruba.eiicon.net/blogs/2550",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jhmim.com/ja/metal-injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nishimuratougyou.co.jp/chinese/item/item18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/service/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision.proterial.com/mim/data/images/data-mim.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokotsusho.co.jp/files/uploads/0006232610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tech-journey.jp/process/mim%E3%80%80%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B0%84%E5%87%BA%E6%88%90%E5%9E%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/mim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newayprecision.com/ja/blogs/metal-injection-molding-what-types-of-metals-can-be-used-in-mim",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h-metalworks.co.jp/mim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ocm.co.jp/mim.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fine-kyoto.jp/mim.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thalesgroup.com/ja/node/3461",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision.proterial.com/mim/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.katsushika-ss.co.jp/mim.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porite.co.jp/mim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gauss.ne.jp/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://onishilite.co.jp/plastic/mim.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precision-mim.com/jp/news/MIM-Feedstock-Binder-System-Powder-Loading-Guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-kogyo.com/technique/3903/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jukiaizu.co.jp/pages/36/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dks-web.co.jp/catalog_pdf/578_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.precision-mim.com/jp/Metal-Injection-Moulding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://xtmim.com/ja/mim-process/feedstock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optimim.com/ja-jp/resources/article/comparing-metal-injection-molding-and-powdered-metallurgy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/ja/powder-technologies/metal-injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pollen.am/use_cases_metal_alloys_copper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/3d-printing-powder-market-116678",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/metal-injection-molding-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/understanding-pellets-filaments-3d-printing-market-2026-2033-fjxce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vL4cbPu0pjQCPHWL3bsBbdP5kXSFQh7sNFeeAGT3oRb5QV2KrCB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/pellet-3d-printing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/iemai3dprinting/posts/introducing-our-iemai-l35-pellet-extruderbuilt-for-large-scale-pellet-additive-m/1166979849228354/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dsystems.com/ext-titan-pellet-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dxtech.com/collections/3d-pellets?srsltid=AYCX9vL0Feo986rZsIn9uNVOezzSOgKMJhVVOdAben2txnopAGMJpKKU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hardware-x.com/article/S2468-0672%2822%2900037-2/fulltext",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） 市場規模 CAGR",
+   "results": [
+    "https://www.researchnester.com/ja/reports/metal-injection-molding-market/4916",
+    "https://www.databridgemarketresearch.com/jp/reports/europe-metal-injection-molding-mim-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-injection-molding-parts-mim-parts-market-108833?srsltid=AYCX9vJYxNYaXGWwGBNyR55LGnKuEjaX3oGsQukE-Pna_VlczcefnikI",
+    "https://www.yano.co.jp/press-release/show/press_id/2123?srsltid=AYCX9vLbk3hxhpRM_QXdzBbX5nrkfZShdjLBhRhEI8QxOLcjG-zewHOE",
+    "https://tomoruba.eiicon.net/blogs/2550",
+    "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "https://japan.zdnet.com/release/31220031/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/02057/",
+    "https://jhmim.com/ja/metal-injection-molding/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） 価格",
+   "results": [
+    "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "https://jhmim.com/ja/metal-injection-molding/",
+    "https://nishimuratougyou.co.jp/chinese/item/item18",
+    "https://www.taisei-kogyo.com/service/equipment/",
+    "https://www.precision.proterial.com/mim/data/images/data-mim.pdf",
+    "https://www.tokotsusho.co.jp/files/uploads/0006232610.pdf",
+    "https://www.tech-journey.jp/process/mim%E3%80%80%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B0%84%E5%87%BA%E6%88%90%E5%9E%8B/",
+    "https://www.ipros.com/product/detail/2001522777/",
+    "https://www.taihei-s.com/archives/products/mim",
+    "https://www.precision-mim.com/jp/news/MIM-Feedstock-Binder-System-Powder-Loading-Guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） 主要メーカー 一覧",
+   "results": [
+    "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/mim/",
+    "https://www.newayprecision.com/ja/blogs/metal-injection-molding-what-types-of-metals-can-be-used-in-mim",
+    "https://jhmim.com/ja/metal-injection-molding/",
+    "https://www.h-metalworks.co.jp/mim/",
+    "https://www.ocm.co.jp/mim.html",
+    "https://fine-kyoto.jp/mim.html",
+    "https://www.thalesgroup.com/ja/node/3461",
+    "https://www.fact-link.com/mem_content.php?pl=jp&mem=00003253&page=00016645",
+    "https://www.basf.com/jp/ja/products/paint-coating-industry/catamold"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） 代理店 日本",
+   "results": [
+    "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "https://jhmim.com/ja/metal-injection-molding/",
+    "https://nishimuratougyou.co.jp/chinese/item/item18",
+    "https://www.taisei-kogyo.com/service/equipment/",
+    "https://www.precision.proterial.com/mim/index.html",
+    "https://www.katsushika-ss.co.jp/mim.html",
+    "https://www.porite.co.jp/mim/",
+    "https://www.gauss.ne.jp/faq.html",
+    "http://onishilite.co.jp/plastic/mim.html",
+    "https://www.precision-mim.com/jp/news/MIM-Feedstock-Binder-System-Powder-Loading-Guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） 規制 保管 危険物",
+   "results": [
+    "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "https://www.newayprecision.com/ja/blogs/metal-injection-molding-what-types-of-metals-can-be-used-in-mim",
+    "https://jhmim.com/ja/metal-injection-molding/",
+    "https://www.taisei-kogyo.com/technique/3903/",
+    "https://jukiaizu.co.jp/pages/36/",
+    "https://www.precision.proterial.com/mim/data/images/data-mim.pdf",
+    "https://www.dks-web.co.jp/catalog_pdf/578_1.pdf",
+    "https://www.precision-mim.com/jp/Metal-Injection-Moulding/",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://xtmim.com/ja/mim-process/feedstock/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） 純正 指定材料 互換",
+   "results": [
+    "https://xtmim.com/ja/mim-process/feedstock/",
+    "https://www.newayprecision.com/ja/blogs/metal-injection-molding-what-types-of-metals-can-be-used-in-mim",
+    "https://www.optimim.com/ja-jp/resources/article/comparing-metal-injection-molding-and-powdered-metallurgy",
+    "https://www.hoganas.com/ja/powder-technologies/metal-injection-molding/",
+    "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "https://jhmim.com/ja/metal-injection-molding/",
+    "https://jukiaizu.co.jp/pages/36/",
+    "https://www.dks-web.co.jp/catalog_pdf/578_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion market size CAGR",
+   "results": [
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://pollen.am/use_cases_metal_alloys_copper/",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/3d-printing-powder-market-116678",
+    "https://www.gminsights.com/industry-analysis/metal-injection-molding-market",
+    "https://www.linkedin.com/pulse/understanding-pellets-filaments-3d-printing-market-2026-2033-fjxce",
+    "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "https://www.mdpi.com/2075-4701/14/11/1296",
+    "https://www.databridgemarketresearch.com/reports/global-metal-injection-molding-mim-powders-and-feedstock-market",
+    "https://www.futuremarketreport.com/industry-report/mim-feedstock-market/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion price per kg",
+   "results": [
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vL4cbPu0pjQCPHWL3bsBbdP5kXSFQh7sNFeeAGT3oRb5QV2KrCB",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "https://pollen.am/use_cases_metal_alloys_copper/",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://www.facebook.com/iemai3dprinting/posts/introducing-our-iemai-l35-pellet-extruderbuilt-for-large-scale-pellet-additive-m/1166979849228354/",
+    "https://www.3dsystems.com/ext-titan-pellet-3d-printers",
+    "https://www.3dxtech.com/collections/3d-pellets?srsltid=AYCX9vL0Feo986rZsIn9uNVOezzSOgKMJhVVOdAben2txnopAGMJpKKU",
+    "https://www.mdpi.com/1996-1944/15/18/6442",
+    "https://www.accio.com/plp/mim-feedstock-pellets",
+    "https://pollen.am/metal_general_introduction/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion key players",
+   "results": [
+    "https://www.hardware-x.com/article/S2468-0672%2822%2900037-2/fulltext",
+    "https://pollen.am/metal_general_introduction/",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vJR7lXdjOxhRFq3dSV-QAp-kUppabEjLIw--NxX8LC7m9nm_GWT",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.fabbaloo.com/2018/01/aim3ds-most-interesting-3d-metal-printing-concept",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://www.mdpi.com/2075-4701/14/11/1296",
+    "https://www.youtube.com/watch?v=Cu5Lk0WX9B4",
+    "https://www.3dsystems.com/ext-titan-pellet-3d-printers",
+    "https://chemicalresearchinsight.com/2026/06/06/top-10-companies-in-the-metal-injection-molding-materials-market-2026-market-leaders-driving-global-innovation/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion distributor Japan",
+   "results": [
+    "https://pollen.am/use_cases_metal_alloys_copper/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9502915/",
+    "https://www.3dsystems.com/ext-titan-pellet-3d-printers",
+    "https://thevirtualfoundry.com/wp-content/uploads/2023/03/22-02-A-Review-on-Material-Extrusion-Additive-Manufacturing-of-Metal-and-How-It-Compares-with-Metal-Injection-Moulding-by-Chanun-Suwanpreecha.pdf",
+    "https://www.fabbaloo.com/news/compact-pellet-extruder-enables-high-content-feedstock-printing",
+    "https://micro-mim.eu/company/business/",
+    "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "https://3dprintingindustry.com/news/3d-systems-collaborates-with-swany-to-promote-large-format-pellet-extrusion-in-japan-223197/",
+    "https://www.youtube.com/watch?v=Yfgm0yzrLQI",
+    "https://pollen.am/metal_general_introduction/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion safety storage regulation",
+   "results": [
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vItPYG2IjnaQg5QGCPTs9vRwoxowoZAG8g6xdG3zKiz3a9NYnV6",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "https://research.wayne.edu/oehs/lab-safety/3d-printing",
+    "https://pollen.am/pim_design_guidelines/",
+    "https://www.metal-am.com/articles/safety-management-in-metal-3d-printing/",
+    "https://encyclopedia.pub/entry/23676",
+    "https://www.mdpi.com/1996-1944/15/18/6442",
+    "https://www.3dmag.com/3d-printers/pellet-3d-printer-how-granule-extrusion-works/",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion closed system open material third-party",
+   "results": [
+    "https://www.hardware-x.com/article/S2468-0672%2822%2900037-2/fulltext",
+    "https://www.3dsystems.com/extrusion",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vLaHWh9I8FMubMe9LiyRoh8R7cC7q4_220wfKm3ZokeCQd-qqy9",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/",
+    "https://thevirtualfoundry.com/wp-content/uploads/2023/03/22-02-A-Review-on-Material-Extrusion-Additive-Manufacturing-of-Metal-and-How-It-Compares-with-Metal-Injection-Moulding-by-Chanun-Suwanpreecha.pdf",
+    "https://pollen.am/pim_feedstock_economic_aspect/",
+    "https://encyclopedia.pub/entry/23676",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://papers.cumincad.org/data/works/att/acadia21_410.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion commodity price competition",
+   "results": [
+    "https://pollen.am/metal_general_introduction/",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vJYbcBJAOklqTRgPcGO2B3HT6ntfBaD84KQybhL_ANskujutzdn",
+    "https://hal.science/hal-04508529v1/file/S2468067222000372.pdf",
+    "https://www.pim-international.com/articles/mim-feedstock-trends-in-asia-competition-innovation-and-market-shifts/",
+    "https://jhmim.com/metal-injection-molding-vs-3d-printing-the-truth-about-production-costs/",
+    "https://www.zcmim.com/mim-vs-3d-printing/",
+    "https://www.mpif.org/Events/MIM2024/MIM2024Schedule/MIM2024Abstracts.aspx",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://www.mdpi.com/2075-4701/14/11/1296",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion technical support parameters",
+   "results": [
+    "https://www.hardware-x.com/article/S2468-0672%2822%2900037-2/fulltext",
+    "https://additiveplus.com/pellet-extrusion-3d-printing/?srsltid=AYCX9vJVFBtQe7f706nvyFfD_FP-Z7TSa_TaM4_cCGuPsmaRPrqn8WRq",
+    "https://pollen.am/use_cases_metal_alloys_fff_vs_pam/",
+    "https://thevirtualfoundry.com/wp-content/uploads/2023/03/22-02-A-Review-on-Material-Extrusion-Additive-Manufacturing-of-Metal-and-How-It-Compares-with-Metal-Injection-Moulding-by-Chanun-Suwanpreecha.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9502915/",
+    "https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.formfutura.com/pellet-3d-printing-guide",
+    "https://encyclopedia.pub/entry/23676",
+    "https://www.additivemanufacturing.media/articles/3d-printing-with-plastic-pellets-what-you-need-to-know"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 金属・セラミック含有ペレット（MIMフィードストック流用）",
+   "results": [
+    "https://note.com/quirky_frog4014/n/ndb8cda39cf7f",
+    "https://note.com/castem/n/n81d895f797c0",
+    "https://note.com/volt_edge/n/n02cafabdf57e",
+    "https://note.com/clean_broom590/n/n083c00e68ae3",
+    "https://note.com/qy_research/n/n29da686bc801",
+    "https://note.com/yokohamashoji05/n/n0de8961f1489",
+    "https://note.com/ripla_business/n/nd1f0b3959efd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属・セラミック含有ペレット（MIMフィードストック流用）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2104182015167975725",
+    "https://jf.x.com/images/media-preview/2114553402764202049",
+    "https://help.x.com/en",
+    "https://x.com/recycleFEN/status/2112311392636457418",
+    "https://x.com/Kong_Sggd/status/2079182982519423048",
+    "https://x.com/Goodicious97/status/2051364165353402776",
+    "https://x.com/recycleFEN/status/2112686965477032222"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属・セラミック含有ペレット（MIMフィードストック流用）",
+   "results": [
+    "https://jp.linkedin.com/pulse/フィードミルの世界シェア2026年版-vireonxcv-x09hf",
+    "https://in.linkedin.com/in/piyanshi-mehra-628312341",
+    "https://hk.linkedin.com/company/dongguan-huayan-new-material-technology-co-ltd",
+    "https://www.linkedin.com/posts/marcoo-chang-74264614b_from-dead-end-to-breakthrough-how-mim-secondary-activity-7371308116094709760-svY1",
+    "https://www.linkedin.com/posts/s-lionel-cho-2343a745_an-array-of-integrated-passive-devices-ipds-activity-7509014746575204352-4DSU",
+    "https://jp.linkedin.com/pulse/セラミックトゥメタルフィードスルー市場のタイプ別用途別地域別セグメンテーション評価64のcagr成長と202-7518653871527997441-jdume",
+    "https://de.linkedin.com/in/karthikcheelamanthula"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属・セラミック含有ペレット（MIMフィードストック流用）",
+   "results": [
+    "https://www.facebook.com/VintageFunny/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/FANUC.CORPORATION/videos/金属粉末射出成形mimを知っていますか金属の粉と樹脂を混ぜて型に流し込んで形を作る技術ですそのあと高温で焼くことでしっかりした金属部品になります️小さくて複雑な/1077436257564545/",
+    "https://www.facebook.com/ntownsend2/",
+    "https://www.facebook.com/kinzokufocus/posts/metsoグレートキルン技術が高品質ペレットを実現driと低炭素製鉄を支えエネルギー効率と生産性を同時に向上させるhttpswwwkinzokufocuscom/1641518224649389/",
+    "https://www.facebook.com/wakohkinzoku/photos/合金古tainttabor-合金古屑とは7000系を除いたアルミ系合金でオールドスクラップ古屑を寄せ集めた物の事です込ジュラとも呼ばれています-主に高炉日本製鉄/210790230302614/",
+    "https://www.facebook.com/torusan.nakagawa/photos/富山のペレット工場立山杉の間伐材ストックを背景に/597338307031486/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） note 社長",
+   "results": [
+    "https://www.precision-mim.com/jp/news/MIM-Feedstock-Binder-System-Powder-Loading-Guide/",
+    "https://www.atect.co.jp/post_pimcase/mimfs/",
+    "https://xtmim.com/ja/mim-process/feedstock/",
+    "https://www.precision-mim.com/jp/Metal-Injection-Moulding/",
+    "https://www.optimim.com/ja-jp/resources/article/mim-series-part-2-feedstock",
+    "https://xtmim.com/ja/mim-materials/custom-mim-materials/",
+    "https://nishimuratougyou.co.jp/chinese/item/item18"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属・セラミック含有ペレット（MIMフィードストック流用） X 投稿",
+   "results": [
+    "https://xtmim.com/ja/mim-process/feedstock/",
+    "https://www.atect.co.jp/post_pimcase/mimfs/",
+    "https://www.precision-mim.com/jp/news/MIM-Feedstock-Binder-System-Powder-Loading-Guide/",
+    "https://www.basf.com/jp/ja/products/paint-coating-industry/catamold",
+    "https://xtmim.com/ja/mim-materials/custom-mim-materials/",
+    "https://www.precision-mim.com/jp/Metal-Injection-Moulding/",
+    "https://nishimuratougyou.co.jp/chinese/item/item18"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "metal MIM feedstock pellets 3D printing pellet extrusion site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/direct3d-pellet-extrusion/",
+    "https://www.linkedin.com/posts/direct3d-pellet-extrusion_316l-mim-feedstock-activity-7379787667519074304-fdMG",
+    "https://pl.linkedin.com/in/inna-stoliar-811907189",
+    "https://fr.linkedin.com/in/gagandip-cheema-09372460",
+    "https://jo.linkedin.com/in/فحل-نار-156782102",
+    "https://no.linkedin.com/in/jan-erik-klinkenberg-4708077a",
+    "https://br.linkedin.com/in/diogo-kravetz-359531259"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "主要企業": "記載なし（読んだ45頁・検索21回）"
+ }
+}

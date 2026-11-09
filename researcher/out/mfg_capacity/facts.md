@@ -13595,25 +13595,53 @@
 
 ## PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）（PRTR notified facilities by industry annual table electroplating Japan xlsx）
 - 文脈：統計
-- 痛み・損（深さの印）：記載なし（読んだ51頁・検索18回）
-- 事業所数・社数：記載なし（読んだ51頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ51頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ51頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ51頁・検索18回）
-- 生産能力・設備：記載なし（読んだ51頁・検索18回）
-- 10年推移：記載なし（読んだ51頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ51頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 調査票記入要領と結果の概要（製造品出荷額等・加工賃収入額・付加価値額の定義・29人以下と30人以上の違い・従業者に臨時雇用・派遣・出向を含むか・規模別の推計の方法・4-121）（Economic Structure Survey manufacturing establishment questionnaire instructions definitions Japan）
 - 文脈：統計
-- 痛み・損（深さの印）：記載なし（読んだ32頁・検索18回）
-- 事業所数・社数：記載なし（読んだ32頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ32頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ32頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ32頁・検索18回）
-- 生産能力・設備：記載なし（読んだ32頁・検索18回）
-- 10年推移：記載なし（読んだ32頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ32頁・検索18回）
+- 事業所数・社数：
+  - 「事業所数及び従業者数は令和６年６月１日現在、製造品出荷額等及び付加価値額は令和５年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和５年６月１日現在、製造品出荷額等及び付加価値額は令和４年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和４年６月１日現在、製造品出荷額等及び付加価値額は令和３年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+- 社員数・平均社員数：
+  - 「事業所数及び従業者数は令和６年６月１日現在、製造品出荷額等及び付加価値額は令和５年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「【第３表】［従業者30人以上の事業所］産業中分類・市町別統計表 (Excelファイル)(20KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「【第４表】［従業者30人以上の事業所］産業中分類別・市町別在庫額及び有形固定資産額統計表 (Excelファイル)(22KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和５年６月１日現在、製造品出荷額等及び付加価値額は令和４年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和４年６月１日現在、製造品出荷額等及び付加価値額は令和３年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「【第３表】［従業者30人以上の事業所］産業中分類・市町別統計表 (Excelファイル)(19KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「法人番号：7000020340006」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+- 受注金額・加工賃収入：
+  - 「事業所数及び従業者数は令和６年６月１日現在、製造品出荷額等及び付加価値額は令和５年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和５年６月１日現在、製造品出荷額等及び付加価値額は令和４年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和４年６月１日現在、製造品出荷額等及び付加価値額は令和３年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+- 1人あたり・1社あたり金額：
+  - 「事業所数及び従業者数は令和６年６月１日現在、製造品出荷額等及び付加価値額は令和５年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和５年６月１日現在、製造品出荷額等及び付加価値額は令和４年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「事業所数及び従業者数は令和４年６月１日現在、製造品出荷額等及び付加価値額は令和３年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+- 生産能力・設備：
+  - 「【第４表】［従業者30人以上の事業所］産業中分類別・市町別在庫額及び有形固定資産額統計表 (Excelファイル)(22KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+- 10年推移：
+  - 「2025年12月25日」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「」として毎年実施してきた調査は、2022年から経済構造実態調査の製造業事業所調査として実施されています」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「（2024年）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「（2023年）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「（2022年）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「※令和２年（2020年）以前の状況については、「」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「※平成23年（2011年）、平成28年（2016年）及び令和３年（2021年）は、「経済センサス-活動調査」が実施されたため、工業統計調査は実施されていません」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「長期時系列表（～2024年経済構造実態調査） (Excelファイル)(1.05MB)」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「令和６年（2024年）（令和５年実績）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「令和５年（2023年）（令和４年実績）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+  - 「令和４年（2022年）（令和３年実績）」（https://www.pref.hiroshima.lg.jp/site/toukei/keizaikouzoujittaityousa.html）
+- 痛み・損（深さの印）：記載なし（読んだ36頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ36頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査の「売上高の9割」までの調査対象と推計で埋めた部分の割合（産業細分類ごとの推計の比率・めっき・金型・熱処理・プレス・覆う割合・4-120・4-121）（Economic Structure Survey manufacturing 90 percent coverage estimated share by industry Japan）
 - 文脈：統計

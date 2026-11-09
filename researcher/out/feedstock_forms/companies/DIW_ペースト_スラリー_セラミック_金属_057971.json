@@ -1,0 +1,805 @@
+{
+ "name": "DIW・ペースト・スラリー（セラミック・金属）",
+ "en": "direct ink writing paste slurry ceramic metal 3D printing materials",
+ "aliases": [
+  "DIW 3Dプリンター ペースト",
+  "セラミック スラリー 積層造形",
+  "金属ペースト 3D"
+ ],
+ "context": "ペースト",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:23:27.075863+00:00",
+ "evidence": {
+  "主要企業": [
+   {
+    "quote": "Inks designed with high solid content and viscoelastic properties enable shape retention of the extruded filaments, thus leading to the fabrication of freestanding, suspended structures with different spacing lines, which is not achievable with other AM techniques such as powder bed printing [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "C) components by combining robocasting and pressureless spark plasma sintering, eventually leading to ultra-fast and highly-efficient densification. Successful geometrically complex B",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "c respectively. Spherical particles are beneficial to increase the paste flowability due to the lower interparticle interaction and friction compared to irregular and platelet-like particles. By contrast, the platelet-like particles with irregular edges particles tend to interlock with each other, thereby leading to cohesive behaviour and agglomeration even at low solid loading [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "], it is not suitable for monolith manufacture as pockets of oil tend to get trapped in-between densely packed ceramic rods, thus leading to printing defects and unwanted porosity.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "]. Ink with 37 vol% of glass, exhibiting a viscosity of 2.6 × 104 Pa s and storage modulus as high as 1.4 × 10",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "C ceramic parts reached a density of 95% ± 3% at 2100 °C after sintering and high mechanical properties (hardness 27 GPa, compressive strength 1800 MPa).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "] this stage has been skipped due to low binder concentration. In some medical (scaffolds for bone regeneration) or energy storage applications (batteries), the porosity of the sintered material is purposely introduced and can reach till 85 vol% [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Complex porous structures for various applications in bio-medical or energy storage fields.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Amplitude-sweep curves showing the variation of storage modulus G′ and loss modulus G′′ in function of stress for: a) pastes containing Al",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "= 14.07 kPa), storage modulus (G′ = 4 × 10",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "and storage modulus G′, which could prevent paste extrusion and yield poor strut merging in the case of monolithic parts [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "is suitable but the storage modulus G′ is too low due to low solid content, the ceramic paste filaments can be extruded but the struts would have a low stiffness resulting in poor shape retention. Although this can be beneficial to a certain extent to promote strut merging and lower surface roughness when monolithic parts are built [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "b, displaying an increase in viscosity by two orders of magnitude at the gelation temperature of ∼17.5 °C, making it ideal for storage at low temperature and printing at room temperature. Printable ceramic inks, as well as the Pluronic gel they are based on, exhibit the typical elastic behaviour at low stress followed by a yielding behaviour as the stress increases (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "c), although storage and loss moduli, viscosity, and yield stress were all larger in the inks with ceramic powder.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Rocha V.G., García-Tuñón E., Botas C., Markoulidis F., Feilden E., D’Elia E., Ni N., Shaffer M., Saiz E. Multimaterial 3D printing of graphene-based electrodes for electrochemical energy storage using thermoresponsive inks. ACS Appl. Mater. Interfaces. 2017;9:37136–37145. doi: 10.1021/acsami.7b10285.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "In classical robocasting inks, the additives can be a mixture of dispersants, thickeners (binders), and coagulants. Dispersants are polymers adsorbed on the ceramic/glass particle surfaces to reduce interparticle friction and overcome van der Waals interparticle attractive forces between powders to produce a homogeneous structure which enables the printability of the paste by robocasting [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Similarly, coagulants are special polymers acting as glues to provide resistance to the external forces and enhance the viscoelastic response [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "The presence of many components (dispersants, thickeners and coagulants) in the colloidal suspension drastically influences the balance between the anionic and cationic forces that tend to change the pH and, hence, create a non-stable suspension [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "], are the most usual choices in which a single multifunctional additive acts as a dispersant, plasticizer, and coagulant agent.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "CMC is an important element in the paste formulation as it allows modulating the rheological properties – especially the flowability of the paste – by means of interactions with the surface of solid loading particles, being partially adsorbed onto them [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "shear rates), which mainly dictates its flowability.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "] with 1.5 wt% CMC and 42 vol% 13–93 glass loading could also be extruded through a conical nozzle with an inner diameter of 410 μm, yielding a good powder dispersion and flowability. A successful implementation of CMC/glass-containing inks deposited by robocasting in reversible solid oxide cell applications has been reported by Lamnini et al [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "The physical features of powders have a vital effect on paste rheology for robocasting. Among others, particle size distribution and shape, powder density and volume fraction are the most significant factors [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "c respectively. Spherical particles are beneficial to increase the paste flowability due to the lower interparticle interaction and friction compared to irregular and platelet-like particles. By contrast, the platelet-like particles with irregular edges particles tend to interlock with each other, thereby leading to cohesive behaviour and agglomeration even at low solid loading [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "feedstock had a coarse particles size distribution of D",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "feedstock with coarse grain size (σ",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "outlines the rheological properties of the previously discussed pastes-based ceramic feedstocks taking into account the effects of particle size distribution (bimodal, monomodal, multimodal), powder morphology, and solid loading. The explicit scheme shown in",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Contour plots of (left) mean arithmetical roughness Sa (μm) vs. infill (IN) and printing speed (PS), and (right) dimensional error (%) vs. infill (IN) and layer height (LH); adapted with permission from [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "]. The roughness of the printing substrate is another important parameter to consider, and most studies agree on the importance of using smooth, flat substrates made of or coated with a non-stick material, such as PTFE, to enable easy removal of printed parts [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "PTFE-coated glass slide",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "Robocasting of advanced ceramics: ink optimization and protocol to predict the printing parameters - A review - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Robocasting of advanced ceramics: ink optimization and protocol to predict the printing parameters - A review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "In the second part, this review suggests a standardized guideline to effectively adapt a suitable setting of the printing parameters, such as printing speed and pressure, printing substrate, strut spacing, layer height, nozzle diameter in function of ink intrinsic rheology.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Robocasting, Glass, Ceramics, Feedstock features, Printing parameters",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Robocasting; Glass; Ceramics; Feedstock features; Printing parameters.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Protocol to predict printing parameters for robocasting",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "a) Colloidal particles in aqueous suspensions can form a non-continuous, weak, or strong network depending on the particle volume fraction. b) Printability map for GO suspensions including three key rheology parameters: at rest structure or network stiffness (G",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "]. This is where the optimisation of robocasting parameters to account for the specific rheological and drying behaviour of a given ceramic ink plays an essential role in enabling not only printability per se but also optimal printing outcome.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "The choice of printing parameters is greatly influenced by the intended geometry to be printed, namely either dense monolithic specimens or porous scaffolds (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "] investigated the role of robocasting printing parameters on the surface roughness and dimensional accuracy of the lateral walls of porous prismatic zirconia parts. The extrusion orifice diameter was 0.67 mm, and the ink formulation was 40 vol% of ZrO",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "] also detailed the effects of several printing parameters on the final properties of monolithic Al",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "C green parts produced using the 584 μm (A0-2) and 406 μm (B0-2) extrusion orifices; better resolution and shape retention were achieved with the finer extrusion nozzle. Printing parameters: 47 vol% B",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "]. The roughness of the printing substrate is another important parameter to consider, and most studies agree on the importance of using smooth, flat substrates made of or coated with a non-stick material, such as PTFE, to enable easy removal of printed parts [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "provides an overview of the main printing parameters used in ceramic robocasting studies in the literature.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   },
+   {
+    "quote": "Printing parameters as key factors to predict the printing resolution and sintered density for different ceramic inks.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/cmp-slurry-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88%E5%B8%82%E5%A0%B4-111429",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/cmp%E3%82%B9%E3%83%A9%E3%83%AA%E3%83%BC%E5%B8%82%E5%A0%B4-115384",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dri.co.jp/auto/report/qyr/250403-cmp-slurry-global-market-share-and-ranking.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/ceramics-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerpi3d.com/Applications/336-ja.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/CMP%E3%82%B9%E3%83%A9%E3%83%AA%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerpi3dprinter.com/japanese/sale-56023615-autobio-2000-ceramic-paste-and-slurry-extrusion-3d-printer-for-hydroxyapatite-calcium-phosphate-and-.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngk.co.jp/academy/course03/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmsltd.co.jp/ceramic-3dprinter/ceramic-slurry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/vona2/s_cate/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%B9%E3%83%A9%E3%83%AA%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/金属cmpスラリーの主要メーカー一覧-futurescout-analytics-upuue",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E3%82%B9%E3%83%A9%E3%83%AA%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toishi.info/link/kenmazai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiken-chem.co.jp/products/metal-paste/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg1/%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trustwell.co.jp/ja/polishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engis.co.jp/lapping-polishing/diamond-slurries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahidia.co.jp/products/product75/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kemet-international.com/ja/products/diamond-polishing/diamond-slurry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumiseki.co.jp/dia/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujimiinc.co.jp/service/specialty/lineup.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/ceramic-3d-printing-slurry-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/ceramic-3d-printing-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://researchintelo.com/report/ceramic-3d-printing-slurry-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/3d-printing-ceramic-market-26085601.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/ceramic-3d-printing-market-110548",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/3d-printing-ceramics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diw3d.com/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product/zirconia-3y/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/direct-ink-writing-guide-23122025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product/ceramic-paste-for-direct-ink-writing-diw/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2571-6131/9/2/16",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666952822000334",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0301679X2500101X",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2950425226000368",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s44500-026-00001-4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202108855",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceramics.onlinelibrary.wiley.com/doi/full/10.1002/ces2.10158",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wh-ilaser.com/en/list.php?pid=1&ty=8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcefromjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s10853-026-13774-w",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1002/ces2.10158",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/cmp-slurry-market",
+    "https://www.fortunebusinessinsights.com/jp/シルバーペースト市場-111429",
+    "https://straitsresearch.com/jp/report/ceramics-market",
+    "https://www.fortunebusinessinsights.com/jp/cmpスラリー市場-115384",
+    "https://www.dri.co.jp/auto/report/qyr/250403-cmp-slurry-global-market-share-and-ranking.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/ceramics-market",
+    "https://www.marketresearch.co.jp/global-diamond-polishing-compound-market-mrclp-r8-nv3697/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） 価格",
+   "results": [
+    "https://www.makerpi3d.com/Applications/336-ja.html",
+    "https://mono.ipros.com/cg2/CMPスラリー/",
+    "https://www.makerpi3dprinter.com/japanese/sale-56023615-autobio-2000-ceramic-paste-and-slurry-extrusion-3d-printer-for-hydroxyapatite-calcium-phosphate-and-.html",
+    "https://www.ngk.co.jp/academy/course03/04.html",
+    "https://www.jmsltd.co.jp/ceramic-3dprinter/ceramic-slurry.html",
+    "https://jp.misumi-ec.com/vona2/s_cate/ダイヤモンドスラリー/",
+    "https://nishimura-ct.co.jp/apparatus/slurrylocal/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） 主要メーカー 一覧",
+   "results": [
+    "https://jp.linkedin.com/pulse/金属cmpスラリーの主要メーカー一覧-futurescout-analytics-upuue",
+    "https://mono.ipros.com/cg2/CMPスラリー/",
+    "https://mono.ipros.com/cg1/スラリー/",
+    "https://www.makerpi3d.com/Applications/336-ja.html",
+    "https://www.toishi.info/link/kenmazai.html",
+    "https://www.daiken-chem.co.jp/products/metal-paste/",
+    "https://www.ipros.com/cg1/ペースト/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） 代理店 日本",
+   "results": [
+    "https://trustwell.co.jp/ja/polishing/",
+    "https://engis.co.jp/lapping-polishing/diamond-slurries/",
+    "https://www.asahidia.co.jp/products/product75/",
+    "https://mono.ipros.com/cg1/スラリー/",
+    "https://www.kemet-international.com/ja/products/diamond-polishing/diamond-slurry",
+    "https://www.sumiseki.co.jp/dia/products.html",
+    "https://www.fujimiinc.co.jp/service/specialty/lineup.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） 規制 保管 危険物",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） 純正 指定材料 互換",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials market size CAGR",
+   "results": [
+    "https://growthmarketreports.com/report/ceramic-3d-printing-slurry-market",
+    "https://www.mordorintelligence.com/industry-reports/ceramic-3d-printing-materials-market",
+    "https://researchintelo.com/report/ceramic-3d-printing-slurry-market",
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-ceramic-market-26085601.html",
+    "https://www.businessresearchinsights.com/market-reports/ceramic-3d-printing-market-110548",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-ceramics-market",
+    "https://www.gminsights.com/industry-analysis/ceramic-3d-printing-market"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials price per kg",
+   "results": [
+    "https://diw3d.com/materials/",
+    "https://additiveplus.com/product/zirconia-3y/",
+    "https://www.3dnatives.com/en/direct-ink-writing-guide-23122025/",
+    "https://additiveplus.com/product/ceramic-paste-for-direct-ink-writing-diw/",
+    "https://www.mdpi.com/2571-6131/9/2/16",
+    "https://www.sciencedirect.com/science/article/pii/S2666952822000334",
+    "https://www.alibaba.com/product-detail/DMK-Industrial-High-Precision-Sinterable-Ceramic_1601712973304.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials key players",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S0301679X2500101X",
+    "https://www.mdpi.com/2571-6131/9/2/16",
+    "https://www.sciencedirect.com/science/article/pii/S2950425226000368",
+    "https://link.springer.com/article/10.1007/s44500-026-00001-4",
+    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202108855",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "https://ceramics.onlinelibrary.wiley.com/doi/full/10.1002/ces2.10158"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials distributor Japan",
+   "results": [
+    "https://diw3d.com/materials/",
+    "https://www.sciencedirect.com/science/article/pii/S0301679X2500101X",
+    "https://www.wh-ilaser.com/en/list.php?pid=1&ty=8",
+    "https://www.sciencedirect.com/science/article/pii/S2666952822000334",
+    "https://www.mdpi.com/2571-6131/9/2/16",
+    "https://sourcefromjapan.com/",
+    "https://www.3dnatives.com/en/direct-ink-writing-guide-23122025/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials safety storage regulation",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S0301679X2500101X",
+    "https://www.mdpi.com/2571-6131/9/2/16",
+    "https://www.sciencedirect.com/science/article/pii/S2950425226000368",
+    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202108855",
+    "https://link.springer.com/article/10.1007/s44500-026-00001-4",
+    "https://link.springer.com/article/10.1007/s10853-026-13774-w",
+    "https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1002/ces2.10158"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials closed system open material third-party",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S0301679X2500101X",
+    "https://www.mdpi.com/2571-6131/9/2/16",
+    "https://www.sciencedirect.com/science/article/pii/S0955221924004333",
+    "https://link.springer.com/article/10.1007/s44500-026-00001-4",
+    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202108855",
+    "https://www.nature.com/articles/s41467-023-38082-8",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials commodity price competition",
+   "results": [
+    "https://www.mdpi.com/2571-6131/9/2/16",
+    "https://www.sciencedirect.com/science/article/pii/S0301679X2500101X",
+    "https://www.sciencedirect.com/science/article/pii/S2950425226000368",
+    "https://link.springer.com/article/10.1007/s44500-026-00001-4",
+    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202108855",
+    "https://www.3dnatives.com/en/direct-ink-writing-guide-23122025/",
+    "https://diw3d.com/materials/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials technical support parameters",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S0955221924004333",
+    "https://www.mdpi.com/2571-6131/9/2/16",
+    "https://www.sciencedirect.com/science/article/pii/S2666952822000334",
+    "https://link.springer.com/article/10.1007/s44500-026-00001-4",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/",
+    "https://www.researchgate.net/publication/363697845_Robocasting_of_advanced_ceramics_ink_optimization_and_protocol_to_predict_the_printing_parameters_-A_review",
+    "https://link.springer.com/chapter/10.1007/978-981-97-5967-5_9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com DIW・ペースト・スラリー（セラミック・金属）",
+   "results": [
+    "https://note.com/yhresearch_news/n/n7dd7f455ec71",
+    "https://note.com/qy_research/n/nc7b1959d0050",
+    "https://note.com/metalslime11/n/na649c0caf450",
+    "https://note.com/bitwalk/n/n653b1201f58e",
+    "https://note.com/modern_eider5829/n/nfa3d691ff677",
+    "https://note.com/vast_slug4459/n/n324bd53255ff",
+    "https://note.com/vast_slug4459/n/n81e59d46e866"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com DIW・ペースト・スラリー（セラミック・金属）",
+   "results": [
+    "https://x.com/grok/status/2033954949785079828",
+    "https://x.com/noguchi_shokai/status/2021078653174677633",
+    "https://x.com/sunstella_3d/status/2110948081965707289",
+    "https://x.com/Thermal_Grizzly/status/2105659002860568834",
+    "https://x.com/t_ryoma1985/status/2059110476135706740",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/gdun/status/2116607993295118542"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com DIW・ペースト・スラリー（セラミック・金属）",
+   "results": [
+    "https://jp.linkedin.com/pulse/フロントシルバーペースト市場の主要10社まとめ-grog-grid-we4ce",
+    "https://jp.linkedin.com/pulse/金属cmpスラリーの主要メーカー一覧-futurescout-analytics-upuue",
+    "https://www.linkedin.com/jobs/view/セラミックパッケージの要素技術開発-at-（株）ｍａｒｕｗａ-4224587939",
+    "https://www.linkedin.com/check/en",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://fi.linkedin.com/in/rikuforsell",
+    "https://vn.linkedin.com/in/clipnongclub"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com DIW・ペースト・スラリー（セラミック・金属）",
+   "results": [
+    "https://www.facebook.com/",
+    "https://www.facebook.com/MDJPN/posts/研磨ジェルダイヤモンドコンパウンドペーストでもなくスラリーでもないそんな研磨剤をお探しではありませんか金型など比較的大きなワークに手研磨や回転工具を使う研磨にお/423694591766919/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/tckyoto/photos/京都セラミックフォーラム-技術セミナー開催報告-濃厚スラリーの性質と配合設計製造-水系無機粒子スラリーを中心に-を213木に開催しました-講師の小林様東京理科大/1184459527022799/",
+    "https://www.facebook.com/DiwShop/",
+    "https://www.facebook.com/jussayin.007/photos/",
+    "https://www.facebook.com/archilys/posts/北海道大学米澤徹先生らが開発した銅ナノ粒子を半導体モジュール用の低温焼結ペーストスラリーとしてノリタケが量産化し三菱商事とともに市場展開すると報道されました部材/1375257571272352/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） note 社長",
+   "results": [
+    "https://www.makerpi3d.com/Applications/336-ja.html",
+    "https://swiftwand.com/ceramic-printing-renaissance-diw-microwave-kiln/",
+    "https://www.makerpi3d.com/product/104-ja.html",
+    "https://www.makerpi3dprinter.com/japanese/sale-56023615-autobio-2000-ceramic-paste-and-slurry-extrusion-3d-printer-for-hydroxyapatite-calcium-phosphate-and-.html",
+    "https://www.ngk.co.jp/academy/course03/04.html",
+    "https://3dproshop.org/?p=171",
+    "https://www.yugyokuen-ceramics.com/3dprinting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "DIW・ペースト・スラリー（セラミック・金属） X 投稿",
+   "results": [
+    "https://x.com/grok/status/2033954949785079828",
+    "https://www.makerpi3d.com/Applications/336-ja.html",
+    "https://www.sciencedirect.com/science/article/pii/S2666539526000477",
+    "https://www.sciencedirect.com/science/article/pii/S0955221924004333",
+    "https://www.tandfonline.com/doi/pdf/10.1080/17452759.2025.2499938",
+    "https://link.springer.com/article/10.1007/s44500-026-00001-4",
+    "https://www.jstage.jst.go.jp/article/jcersj2/133/12/133_25113/_article"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "direct ink writing paste slurry ceramic metal 3D printing materials site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/zhidong-luo_additivemanufacturing-directinkwriting-activity-7473040281177825280-i-nd",
+    "https://www.linkedin.com/company/adventuretech-ceramic-3d-printing",
+    "https://pe.linkedin.com/posts/seikoinstrumentsgmbh_ceramitec-slurry-additivemanufacturing-activity-7184157078343589888--0lq",
+    "https://www.linkedin.com/posts/baikowski_ceramic-3d-printing-powders-and-slurries-activity-7388958082913173504-2Z93",
+    "https://www.linkedin.com/posts/fei-zhang-12866078_uvcuring-assisted-direct-ink-writing-of-activity-7133112388257492992-03AG",
+    "https://www.linkedin.com/posts/vincenticart_sintx-prodways-ceramic-slurry-and-3d-activity-7190654124227485696-hflq",
+    "https://www.linkedin.com/posts/adventuretech-ceramic-3d-printing_how-ceramic-additives-enhance-slurry-rheology-activity-7438237480329375744-wUe8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "価格": "記載なし（読んだ45頁・検索21回）",
+  "装置縛り・オープン材料": "記載なし（読んだ45頁・検索21回）",
+  "売り方・商流": "記載なし（読んだ45頁・検索21回）",
+  "コモディティ化": "記載なし（読んだ45頁・検索21回）",
+  "繰り返し性": "記載なし（読んだ45頁・検索21回）",
+  "日本": "記載なし（読んだ45頁・検索21回）"
+ }
+}

@@ -1,0 +1,1210 @@
+{
+ "name": "WAAM・ワイヤーAM用ワイヤーの新興企業",
+ "en": "wire arc additive manufacturing wire feedstock startup",
+ "aliases": [
+  "WAAM Draht Start-up",
+  "fil WAAM start-up",
+  "电弧增材 丝材 初创"
+ ],
+ "context": "ワイヤー",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:10:02.366139+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": "This article will explore the WAAM process, including the materials and steps involved. You’ll learn the advantages and drawbacks of WAAM and its applications in various industries. One crucial section highlights when to use Wire Arc Additive Manufacturing vs.",
+    "url": "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "Variations in grain structure resulting from different heat inputs can significantly influence the material properties of the deposited parts, including aspects such as grain size, porosity, and overall mechanical strength.",
+    "url": "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "In the two years since the Las Vegas demonstration, Lincoln Electric has poured considerable resources into wire arc AM, including a new, additive-focused business unit called Lincoln Electric Additive Solutions. As the company’s business development manager Dr. Mark Douglass calls it, Lincoln Electric Additive Solutions is “a startup within a major company.”",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Innovative Space Carrier Inc. (ISC), headquartered in Tokyo and led by CEO Kojiro Hatada, is a startup aiming to realize a transportation system enabling routine space travel for people and cargo. ISC envisions a world where space travel is as common as everyday del",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   },
+   {
+    "quote": "For prototype creation and component design adaptations, wire arc additive manufacturing (WAAM) offers many benefits, including flexibility, risk-reduction and cost benefits, particularly for large-scale parts.",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   },
+   {
+    "quote": "In a separate development, Belgian startup",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Industry Start-up of the Year",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "Engineered for environments where resupply may take months rather than days, Cerberus supports a wide range of bulk materials, dual independent heads to prevent downtime, and operation at temperatures up to 500°C for advanced composites. Its container-native design includes a self-leveling system and automated start-up sequence, allowing full deployment in just 25 minutes.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you operate a 3D printing start-up? Reach readers, potential investors, and customers with the",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Industry Start-up of Year",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": ", a San Diego startup known for high-resolution copper 3D printing of electronics and thermal applications.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Thompson’s company is also exploring advanced polymer materials, including ESD-safe thermoplastics like",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Thompson acknowledged persistent hurdles, including the high cost and complexity of non-recurring engineering, as well as DED’s lower level of automation compared to LPBF. Yet he remains convinced that the gains in design flexibility and the reduced supply chain vulnerability outweigh the technical difficulties and initial investment.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Participaties, the largest impact investor in the Netherlands for sustainable and social startups, and PDENH, a sustainability-focused investment firm.",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "#3Dstartup: 6K on creating advanced materials for additive manufacturing - 3Dnatives",
+    "url": "https://www.3dnatives.com/en/6k-advanced-materials-additive-manufacturing-100320204/",
+    "pass": 3
+   },
+   {
+    "quote": "#3Dstartup: 6K on creating advanced materials for additive manufacturing",
+    "url": "https://www.3dnatives.com/en/6k-advanced-materials-additive-manufacturing-100320204/",
+    "pass": 3
+   },
+   {
+    "quote": "Its also important to note that the UniMelt has a tunable particle sized distribution (PSD) with 100% yield which allows 6K to produce metal powder very efficiently for many technologies including powder bed, EBM, and Binder Jet, direct energy deposition and cold spray, plus PM processes like MIM and HIP.",
+    "url": "https://www.3dnatives.com/en/6k-advanced-materials-additive-manufacturing-100320204/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Are you looking for an alternative to Xometry for CNC machining, 3D printing, or injection moulding? Whether due to high prices, long delivery times, or the desire for more personalised",
+    "url": "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration between these two European companies strengthens their leadership in nautical and naval innovation, positioning 3D printing as a key solution to tackle the future challenges of the industry.",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D raises €2.25M, prepares for launch of M1 robotic metal 3D printer | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "MX3D raises €2.25M, prepares for launch of M1 robotic metal 3D printer",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "pass": 3
+   }
+  ],
+  "資金調達・株主": [
+   {
+    "quote": "Lincoln Electric Additive Solutions’ robotic metal 3D printing process is a choreographed dance between welding, robots, automation, heat management and machining. The new venture may have a distinct advantage in the field: its parent company’s 125 year-old legacy.",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Do you operate a 3D printing start-up? Reach readers, potential investors, and customers with the",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "AMAA 2025: 90% Cost and Time Savings at Northrop Grumman Enabled by 3D Printing - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "AMAA 2025: 90% Cost and Time Savings at Northrop Grumman Enabled by 3D Printing",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "Qualification/Certification",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Northrop Grumman, Phase3D Collaborating on Part Real-Time Qualification",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "five-axis machines that measure up to 27 feet along the X axis. The years of training and the incremental knowledge and experience that Baker’s engineers and machine operators have with uniquely complex setups and programming were key factors in Lincoln Electric’s decision to acquire the company.",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "In the past the qualification and production aspects of WAAM process were more difficult to monitor. Now, thanks to the introduction of WAAMCtrl®, a digital quality control tool with the support of robust Statistical Process Control (SPC) is now possible.",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Operationally, scaling global deployments introduces further demands in remote diagnostics, spare-parts logistics, and operator training, making consistent technical support and system uptime critical as the company expands internationally.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "The project used the material qualification dataset developed by",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": ", these flight-ready components reduce size, weight, and power demands while enhancing on-orbit performance. Northrop completed qualification of the feed chains in January 2024 and is considering using CP1 to 3D print additional satellite hardware in the future.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "To ensure consistency across programs, Northrop has created a bespoke internal framework for additive manufacturing qualification called SPAMRS (Space Additive Manufacturing Requirements Standard). It draws on NASA-STD-6030, AWS D20.1, MMPDS, and key AMS specifications, which have been tailored to meet the Virginian aerospace manufacturer’s needs.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s not one size fits all,” Thompson said. “[SPAMRS] allows us to have flexibility to tailor our qualification process to the products we’re trying to support.” This proprietary framework aims to reduce redundant testing and ease adoption across Northrop’s different flight programs.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": "Solving a Materials Challenge in Soft Robotics",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "In a case study co-written by ORNL and Lincoln Electric researchers about the 3D-printed excavator arm, the authors discuss key challenges they encountered during the build process. Notably, they point to the types of melted beads, and the overlap between them, as being central to the success of the project and the process.",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration between these two European companies strengthens their leadership in nautical and naval innovation, positioning 3D printing as a key solution to tackle the future challenges of the industry.",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Addere’s robot-based laser system builds using standard weld wire. The company was spawned from a robot integrator, and that background has been valuable for both overcoming the challenges and perceiving the possibilities of using a robot for metal 3D printing.",
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "From prototyping to production cycle efficiency Directed Energy Deposition is helping manufacturers respond to a rapidly changing manufacturing environment.",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   },
+   {
+    "quote": "As modern manufacturing continues to develop rapidly, manufacturers need to fight for every percent of market share, and when revolutionary innovations and production volumes keep setting conditions, DED 3D printing appears to be a profitable and efficient solution.",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   },
+   {
+    "quote": "With rapid deposition, material versatility, & large-scale production capacity, DED processes are versatile and powerful additive manufacturing technologies. DED processes can be used for rapid prototyping and tooling, repair and cladding & customisation projects.",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   },
+   {
+    "quote": "A wide range of Directed Energy Deposition (DED) 3D printing techniques available to manufacturers looking to produce or repair components. One process in particular - Wire Arc Additive Manufacturing, has now stands head and shoulders above the rest. Find out why?",
+    "url": "https://www.waam3d.com/resources/blog",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG selects High Speed Sintering inventor Neil Hopkinson for Innovators Award",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its PolyCore hardware partner network",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "ESC is a welding-based process known for its high deposition rates but has historically been difficult to apply in additive manufacturing due to challenges in containing molten slag and weld pools. To address this, the researchers combined ESC with WAAM, using gas tungsten arc welding (GTAW) to build retaining walls that confine the ESC deposition region.",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "(DED) processes to improve monitoring, stability, and predictive control, addressing challenges associated with scaling metal AM for industrial use.",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Fusion Surpasses £2M as On-Site 3D Printing Solutions Gain Traction - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Fusion Surpasses £2M as On-Site 3D Printing Solutions Gain Traction",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s growth reflects a focus on practical, application-driven 3D printing. Founder Jake Hand explained that Rapid Fusion prioritizes solutions that create functional manufacturing parts rather than experimental, one-off prints.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Strong sales of the company’s core robotic systems—designed, developed, and built entirely in the UK—have provided the foundation for Rapid Fusion to accelerate the deployment of its latest innovation: Cerberus. The company plans to expand its engineering, design, and software teams with five new roles immediately, and four more by the end of 2026, supporting ongoing growth and technology rollout.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Jake Hand and Martin Jewell. Photo via Rapid Fusion.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Cerberus, unveiled at Formnext in November, is a containerized hybrid manufacturing system designed for rapid deployment and operation in challenging or remote locations. The system combines 3D printing and CNC machining capabilities, offering a build volume of 1,200mm³, pellet throughput of up to 17kg per hour, and 3kW of continuous spindle power.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Fusion is also exploring additional manufacturing space to meet anticipated demand, reflecting the company’s ambition to capitalize on Cerberus’ potential across both domestic and international markets.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Cerberus at Formnext. Photo via Rapid Fusion.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Limits and Challenges",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "interview with Rapid Fusion",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Alongside Rapid Fusion,",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "In his presentation, Thompson emphasized that advanced 3D printers and novel materials are meaningless if the final part doesn’t add value or can’t be certified. Therefore, he argued, the core challenges lie in design, testing, and inspection, noting that “If you don’t have those things, you can’t make the products.”",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "From its facility in Elkton, Maryland, Northrop’s additive manufacturing CoE is working to address these challenges and help shape the future of 3D printing in space applications.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "through the GAMAT initiative. Thompson added that this effort pushes the boundaries of certifying monolithic pressure vessels for flight, especially in meeting non-destructive evaluation (NDE) standards.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Another standout use case Thompson shared involves topology-optimized honeycomb panels for spacecraft and satellites. These lightweight structures pair a thin outer layer with a honeycomb-shaped core. This combination delivers high strength and stiffness with minimal weight, making them ideal for satellite chassis, enclosures, and antenna structures.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "To ensure consistency across programs, Northrop has created a bespoke internal framework for additive manufacturing qualification called SPAMRS (Space Additive Manufacturing Requirements Standard). It draws on NASA-STD-6030, AWS D20.1, MMPDS, and key AMS specifications, which have been tailored to meet the Virginian aerospace manufacturer’s needs.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing for space remains focused on high-mix, low-volume production, posing challenges for standardization. Thompson identified four major hurdles the industry still needs to overcome: design-for-AM (DfAM), inconsistent customer requirements, siloed material databases, and unique supplier processes.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Northrop has sought to curb industry fragmentation by releasing non-competitive material data and advocating for greater supplier interoperability. “We want proliferation in the industry,” said Thompson, while acknowledging the pressing need to unify standards and requirements.",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Validated for Space: Horizon’s Coated 3D Printed Parts Meet ECSS Outgassing Standard",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials partnership",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG selects High Speed Sintering inventor Neil Hopkinson for Innovators Award",
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its PolyCore hardware partner network",
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials partnership",
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "pass": 3
+   }
+  ],
+  "年商・規模": [
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "has achieved a new milestone, exceeding £2 million in revenue for the first time in its three-year history. The company, operating from a £750,000 advanced demonstration facility at Sky Park, has seen increasing demand for its large-format additive manufacturing systems, with domestic and international orders for its Apollo, Zeus, and Medusa product lines.",
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.ramlab.com/resources/waam-101/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0263436819301192",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1adbpkt/thoughts_on_large_scale_metal_additive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.waam3d.com/resources/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pure.psu.edu/en/publications/wire-arc-additive-manufacturing-fundamental-challenges-solutions-/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laserweldingsolutions.com/main-characteristics-and-exciting-new-applications-for-wire-arc-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/394854776_A_Review_of_Wire_Arc_Additive_Manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2238785425031631",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/radian-forge-closes-2-5m-seed-round-for-large-format-waam-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gtr.ukri.org/projects?ref=53610",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.waam3d.com/project/hpwaam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8471010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0925838826004159",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://navusinc.com/capabilities/additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/pggpzr/waam_wire_arc_additive_manufacturing_aka_3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aws.org/magazines-and-media/welding-digest/2026/march/beyond-the-bead-applying-wire-arc-additive-manufacturing-to-largescale-highdemand-components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/blog-posts/waam-answering-frequently-asked-questions-faqs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/become-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aws.org/magazines-and-media/welding-digest/2026/march/beyond-the-bead-applying-wire-arc-additive-manufacturing-to-largescale-highdemand-components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/the-waam-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/interview-formnext-2023-waam3d-ceo-filomeno-martina-on-the-industrialization-of-wire-arc-additive-manufacturing-226651/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/gefertec_formnext2025-wirearcadditivemanufacturing-activity-7386400883468656640-W9L2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://addiwire.com/en/events/formnext-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/mx3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/cases/construction/takenaka-200911/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waam3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovative-space-carrier.co.jp/news/20250324",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/charting-the-rise-of-wire-based-ded-additive-manufacturing-with-waam3d/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/wire-based-directed-energy-deposition-in-large-scale-metal-additive-manufacturing-choosing-the-right-process/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/what-xeroxs-aluminium-liquid-metal-am-3d-printing-offers-for-supply-chain-resiliency/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/new-horizons-for-additive-manufacturing-in-the-oil-gas-and-maritime-industries/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/metal-additive-manufacturing-journey-to-industrialisation-are-we-there-yet/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/amfree-releases-amfree-one-for-large-scale-ded-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/nurol-makina-and-metalworm-validate-waam-for-high-performance-armored-vehicle-part-241890/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/interview-waam3d-launches-the-new-miniwaam-at-tct-3sixty-2024-230787/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/valcuns-molten-metal-deposition-aims-to-democratize-aluminium-3d-printing-246308/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/aml3ds-expanding-wam-empire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/arcemy-on-the-world-stage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/3d-printing-topic/large-format-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/6k-advanced-materials-additive-manufacturing-100320204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/inside-lincoln-electrics-mission-to-3d-print-components-for-nuclear-submarines-311020254/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/grx-810-nasas-tim-smith-28062026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/the-complete-guide-to-waam-in-metal-3d-printing-291220234/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/bmw-turns-to-waam-to-make-vehicle-components-250320245/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/comparing-the-best-ded-3d-printers-on-the-market-050420234/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0263436819301192",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1adbpkt/thoughts_on_large_scale_metal_additive/",
+    "https://www.waam3d.com/resources/blog",
+    "https://shoplogix.com/blog/wire-arc-additive-manufacturing/",
+    "https://www.aws.org/magazines-and-media/welding-digest/beyond-the-bead-applying-wire-arc-additive-manufacturing-to-largescale-highdemand-components/",
+    "https://www.sciencedirect.com/science/article/pii/S0925838826004159",
+    "https://www.forgecise.com/wire-arc-additive-manufacturing-waam-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock startup founded 2021 OR 2022 OR 2023 OR 2024",
+   "results": [
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0263436819301192",
+    "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://www.waam3d.com/resources/blog",
+    "https://pure.psu.edu/en/publications/wire-arc-additive-manufacturing-fundamental-challenges-solutions-/",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://laserweldingsolutions.com/main-characteristics-and-exciting-new-applications-for-wire-arc-additive-manufacturing/",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.youtube.com/watch?v=v-kR4KWn1SA"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock startup raises seed Series A",
+   "results": [
+    "https://www.tctmagazine.com/waam3d-funding-wire-based-additive-manufacturing/",
+    "https://www.voxelmatters.com/radian-forge-closes-2-5m-seed-round-for-large-format-waam-expansion/",
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://gtr.ukri.org/projects?ref=53610",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://www.waam3d.com/project/hpwaam",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://pure.psu.edu/en/publications/wire-arc-additive-manufacturing-fundamental-challenges-solutions-/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8471010/",
+    "https://www.sciencedirect.com/science/article/pii/S0925838826004159"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock startup distributor reseller program",
+   "results": [
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://navusinc.com/capabilities/additive-manufacturing/",
+    "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/",
+    "https://www.reddit.com/r/3Dprinting/comments/pggpzr/waam_wire_arc_additive_manufacturing_aka_3d/",
+    "https://www.aws.org/magazines-and-media/welding-digest/beyond-the-bead-applying-wire-arc-additive-manufacturing-to-largescale-highdemand-components/",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/",
+    "https://www.waam3d.com/blog-posts/waam-answering-frequently-asked-questions-faqs",
+    "https://mx3d.com/become-a-reseller/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock startup Formnext Start-up Area",
+   "results": [
+    "https://www.ramlab.com/resources/waam-101/",
+    "https://laserweldingsolutions.com/main-characteristics-and-exciting-new-applications-for-wire-arc-additive-manufacturing/",
+    "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1adbpkt/thoughts_on_large_scale_metal_additive/",
+    "https://mx3d.com/the-waam-guide/",
+    "https://www.waam3d.com/blog-posts/waam-answering-frequently-asked-questions-faqs",
+    "https://www.reddit.com/r/3Dprinting/comments/pggpzr/waam_wire_arc_additive_manufacturing_aka_3d/",
+    "https://www.additivemanufacturing.media/articles/the-hidden-complexities-of-wire-arc-additive-manufacturing",
+    "https://www.youtube.com/watch?v=bBbRDndPtiE",
+    "https://www.3dprintingindustry.com/news/interview-formnext-2023-waam3d-ceo-filomeno-martina-on-the-industrialization-of-wire-arc-additive-manufacturing-226651/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "WAAM・ワイヤーAM用ワイヤーの新興企業 スタートアップ",
+   "results": [
+    "https://hdc3d.com/ja/mx3d/",
+    "https://news.sharelab.jp/cases/construction/takenaka-200911/",
+    "https://www.waam3d.com/",
+    "https://www.youtube.com/watch?v=FOvTcTE06_s",
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "https://innovative-space-carrier.co.jp/news/20250324",
+    "https://www.shimztechnonews.com/hotTopics/feature/vol25/dialogue01.html",
+    "https://www.instagram.com/reel/DbWHq3cCdYy/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:metal-am.com wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://www.metal-am.com/articles/charting-the-rise-of-wire-based-ded-additive-manufacturing-with-waam3d/",
+    "https://www.metal-am.com/articles/wire-based-directed-energy-deposition-in-large-scale-metal-additive-manufacturing-choosing-the-right-process/",
+    "https://www.metal-am.com/articles/what-xeroxs-aluminium-liquid-metal-am-3d-printing-offers-for-supply-chain-resiliency/",
+    "https://www.metal-am.com/articles/new-horizons-for-additive-manufacturing-in-the-oil-gas-and-maritime-industries/",
+    "https://www.metal-am.com/articles/metal-additive-manufacturing-journey-to-industrialisation-are-we-there-yet/",
+    "https://www.metal-am.com/amfree-releases-amfree-one-for-large-scale-ded-additive-manufacturing/",
+    "https://www.metal-am.com/articles/fly-by-wire-how-additive-manufacturing-took-to-the-skies-with-norsk-titanium/",
+    "https://www.metal-am.com/articles/wire-electron-beam-directed-energy-deposition-ded-advancing-productivity-and-sustainability-in-metal-am/",
+    "https://www.metal-am.com/articles/valcuns-mmd-a-robust-wire-based-aluminium-am-technology-for-defence-and-industrial-applications/",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2026/03/Metal-Additive-Manufacturing-magazine-Spring-2026-issue.pdf?utm_source=Contra&utm_medium=The%20Advanced%20Ceramics/Materials%20Show&utm_campaign=2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:3dprintingindustry.com wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://3dprintingindustry.com/news/nurol-makina-and-metalworm-validate-waam-for-high-performance-armored-vehicle-part-241890/",
+    "https://3dprintingindustry.com/news/electroslag-additive-manufacturing-for-high-throughput-metal-production-demonstrated-by-ornl-248285/",
+    "https://3dprintingindustry.com/news/interview-waam3d-launches-the-new-miniwaam-at-tct-3sixty-2024-230787/",
+    "https://3dprintingindustry.com/news/valcuns-molten-metal-deposition-aims-to-democratize-aluminium-3d-printing-246308/",
+    "https://3dprintingindustry.com/news/rapid-fusion-surpasses-2m-as-on-site-3d-printing-solutions-gain-traction-248790/",
+    "https://3dprintingindustry.com/news/amaa-2025-90-cost-and-time-savings-at-northrop-grumman-enabled-by-3d-printing-242304/",
+    "https://3dprintingindustry.com/news/what-is-the-future-of-3d-printing-80-additive-manufacturing-experts-forecast-3d-printing-trends-for-2023-220261/",
+    "https://3dprintingindustry.com/news/meltio-aims-for-accessible-metal-3d-printing-with-its-first-wire-based-materials-range-202551/",
+    "https://3dprintingindustry.com/news/interview-adrian-kukofka-ceo-progresja-new-materials-recycled-titanium-in-additive-manufacturing-225735/",
+    "https://3dprintingindustry.com/news/ama-energy-2025-conference-speakers-announced-real-projects-qualified-parts-and-digital-supply-chains-243262/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:voxelmatters.com wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/",
+    "https://www.voxelmatters.com/aml3ds-expanding-wam-empire/",
+    "https://www.voxelmatters.com/mx3d-commercial-launch-m1-robotic-metal-3d-printer/",
+    "https://www.voxelmatters.com/arcemy-on-the-world-stage/",
+    "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction/",
+    "https://www.voxelmatters.com/category/3d-printing-topic/large-format-3d-printing/",
+    "https://www.voxelmatters.com/70-micron-flexible-tungsten-3d-printed-by-twi-takes-thin-walls-to-new-level/",
+    "https://www.voxelmatters.com/additive-manufacturing-at-esa/",
+    "https://www.voxelmatters.com/new-apc-metal-powder-atomization-plant-progressing-plan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:3dnatives.com wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://www.3dnatives.com/en/6k-advanced-materials-additive-manufacturing-100320204/",
+    "https://www.3dnatives.com/en/inside-lincoln-electrics-mission-to-3d-print-components-for-nuclear-submarines-311020254/",
+    "https://www.3dnatives.com/en/grx-810-nasas-tim-smith-28062026/",
+    "https://www.3dnatives.com/en/the-complete-guide-to-waam-in-metal-3d-printing-291220234/",
+    "https://www.3dnatives.com/en/bmw-turns-to-waam-to-make-vehicle-components-250320245/",
+    "https://www.3dnatives.com/en/comparing-the-best-ded-3d-printers-on-the-market-050420234/",
+    "https://www.3dnatives.com/en/waamathon-2026-05052026/",
+    "https://www.3dnatives.com/en/mx3d-interview-300720204/",
+    "https://www.3dnatives.com/en/amgta-study-tests-sustainability-of-energy-dynamics-in-metal-am-feedstock-250420246/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:3printr.com wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://www.3printr.com/tag/wire-additive-manufacturing/",
+    "https://www.3printr.com/tag/additive-manufacturing-materials-consortium/",
+    "https://www.3printr.com/tag/additive-manufacturing-applications/",
+    "https://www.3printr.com/category/research/page/4/",
+    "https://www.3printr.com/tag/3d-manufacturing/",
+    "https://www.3printr.com/tag/additive-manufacturing-investment-casting/",
+    "https://www.3printr.com/anca-and-csiro-collaborate-to-develop-new-3d-printing-technology-for-cutting-tools-0457171/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://3druck.com/en/printers-and-products/gefertec-arctitan-waam-system-with-enclosed-build-chamber-for-industrial-titanium-manufacturing-10161267/",
+    "https://3druck.com/forschung/wire-and-arc-additive-manufacturing-waam-additive-subtraktiven-fertigungsprozesskette-08118788/",
+    "https://3druck.com/drucker-und-produkte/metal-3d-printer-additive-manufacturing-systems-made-in-austria-4380178/",
+    "https://3druck.com/en/industry-2/gefertec-expands-us-business-and-relies-on-waam-for-large-metal-components-03156161/",
+    "https://3druck.com/industrie/gefertec-baut-us-geschaeft-aus-und-setzt-auf-waam-fuer-grosse-metallbauteile-03156161/",
+    "https://3druck.com/industrie/gefertec-zeigt-grossformatige-metallbauteile-aus-dem-waam-3d-druck-auf-der-formnext-2026-06164232/",
+    "https://3druck.com/en/industry-2/bmw-brings-large-format-waam-3d-printing-into-series-production-from-2027-32160521/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dadept.com wire arc additive manufacturing wire feedstock startup",
+   "results": [
+    "https://3dadept.com/unveiling-the-disguised-complexities-of-wire-arc-additive-manufacturing/",
+    "https://3dadept.com/large-format-additive-manufacturing-materials-software-and-costs/",
+    "https://3dadept.com/the-use-of-hip-for-critical-3d-printed-parts-introduction-and-applications/",
+    "https://3dadept.com/electric-vehicle-chassis-built-with-wire-arc-additive-manufacturing/",
+    "https://3dadept.com/mazak-and-ornl-integrate-fronius-waam-into-advanced-five-axis-manufacturing-workflows/",
+    "https://3dadept.com/bmw-group-on-its-growing-use-of-wire-arc-additive-manufacturing-waam-to-produce-vehicle-components/",
+    "https://3dadept.com/swiss-steel-group-introduces-a-wire-arc-additive-manufacturing-solution-here-are-its-characteristics/",
+    "https://3dadept.com/swiss-steel-group-presente-une-solution-de-fabrication-additive-par-arc-electrique-voici-ses-caracteristiques/",
+    "https://3dadept.com/ornl-boeing-3d-print-a-2-ton-stamp-form-die-mold/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com WAAM・ワイヤーAM用ワイヤーの新興企業",
+   "results": [
+    "https://note.com/good_dill292/n/nee8a8fb8e7b9",
+    "https://note.com/kinzoku2/n/n580ff8c4ae2c",
+    "https://note.com/clear_aster2543/n/n1b1a3484a690",
+    "https://note.com/arcmasters/n/n3caf8b849268",
+    "https://note.com/edgeworks_tokyo/n/nbf2e5fb6bdfe",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/t_ryoma1985/n/n0045bfbdd264",
+    "https://note.com/20240901_kabu/n/nb42fddf6c6ea"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com WAAM・ワイヤーAM用ワイヤーの新興企業",
+   "results": [
+    "https://x.com/waam3d",
+    "https://x.com/hirasawalab/status/2099629448157188290",
+    "https://x.com/hirasawalab/status/2117441875376566343",
+    "https://x.com/aminsightasia/status/2075073486259683652",
+    "https://x.com/nikkiso_jp/status/2033737718812053826",
+    "https://x.com/KiyomiH38873/status/2107431087672856619",
+    "https://x.com/aliexp_store/status/2079570944000229443"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com WAAM・ワイヤーAM用ワイヤーの新興企業",
+   "results": [
+    "https://www.linkedin.com/company/waam3d",
+    "https://www.linkedin.com/pulse/wire-arc-additive-manufacturing-process-jeyaraj-s-gblic",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://al.linkedin.com/posts/oguzhan-yilmaz-042b07117_additivemanucfacturing-waam-am-activity-7043258421453668352-hwAY",
+    "https://ae.linkedin.com/jobs/view/emirates-group-elevate-internship-programme-at-emirates-4465207313",
+    "https://jp.linkedin.com/pulse/wire-arc-additive-manufacturing-benefits-designers-filomeno-martina?tl=ja",
+    "https://jp.linkedin.com/pulse/高純度のアルミニウムワイヤメーカー比較と各社の強み-echoinsightz-w69zf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com WAAM・ワイヤーAM用ワイヤーの新興企業",
+   "results": [
+    "https://www.facebook.com/toshiya.shimada.54/videos/国際ウエルディングショー-パナソニックコネクト-さんは-waamシステム-を参考出展長年培った溶接技術と高精度ロボット制御を組み合わせアーク溶接で金属ワイヤを積/2147725036143298/",
+    "https://www.facebook.com/mazak.jp/videos/variaxis-j-6005x-am/535517392746573/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/reel/1270142661017933/",
+    "https://www.facebook.com/WevolverApp/posts/wire-arc-additive-manufacturing-waam-and-robotic-filament-windingwaam-enables-th/673422808145166/",
+    "https://www.facebook.com/think.beam/posts/waam-produced-architectural-column-structurestechnical-university-of-darmstadtbe/150103694338907/",
+    "https://www.facebook.com/3dpco/posts/meltio社よりウェビナー開催のお知らせfastech社のビジネス開発ディレクターであるyashwanth-bandariを迎えニッケル基超合金を使用したワイ/868855581925648/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "WAAM・ワイヤーAM用ワイヤーの新興企業 note 社長",
+   "results": [
+    "https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have",
+    "https://hdc3d.com/ja/about-waam/",
+    "https://www.youtube.com/watch?v=FOvTcTE06_s",
+    "https://met3dp.com/ja/wire-arc-additive-manufacturing-waam-202707092/",
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "https://note.com/kmoriyama/n/nf2d9acdec761",
+    "https://www.shimztechnonews.com/hotTopics/feature/vol25/dialogue01.html",
+    "https://www.arl.tcu.ac.jp/research/siam-ru.html",
+    "https://www.waam3d.com/resources/blog"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "WAAM・ワイヤーAM用ワイヤーの新興企業 X 投稿",
+   "results": [
+    "https://hdc3d.com/ja/mx3d/",
+    "https://news.sharelab.jp/cases/other-fields/deep-manufacturing-fortius-multi-material-waam-production-260624/",
+    "https://www.youtube.com/watch?v=FOvTcTE06_s",
+    "https://www.dpac.net.au/arc-x-waam",
+    "https://www.daido.co.jp/about/release/2026/260127_waam.html",
+    "https://www.shimztechnonews.com/hotTopics/feature/vol25/dialogue01.html",
+    "https://www.waam3d.com/categories/wire-arc-additive-manufacturing-waam",
+    "https://www.youtube.com/watch?v=J5zEzMvoqbE",
+    "https://www.arl.tcu.ac.jp/research/siam-ru.html",
+    "https://aminsightasia.com/ja/news-ja/daihen-waam-arcbuilder-3d-ja/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "wire arc additive manufacturing wire feedstock startup site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/3dprintingsarah_someone-asked-me-if-we-could-use-waam-wire-activity-7519423696894283776-siW5",
+    "https://tr.linkedin.com/company/alloy-additive",
+    "https://in.linkedin.com/in/ritam-sarma-48832715a",
+    "https://de.linkedin.com/company/gefertec",
+    "https://uk.linkedin.com/in/david-rico-sierra-phd",
+    "https://www.linkedin.com/in/maximilian-liese",
+    "https://fi.linkedin.com/in/antoine-queguineur",
+    "https://www.linkedin.com/posts/joint-center-for-aerospace-technology-innovation-jcati_researchers-use-ai-to-democratize-3d-printing-activity-7509009069383372800-iyG8",
+    "https://uk.linkedin.com/in/amir-kabir",
+    "https://www.linkedin.com/in/adampaxson"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年": "記載なし（読んだ60頁・検索20回）",
+  "日本の担い手": "記載なし（読んだ60頁・検索20回）",
+  "代理店募集・売り方": "記載なし（読んだ60頁・検索20回）"
+ }
+}

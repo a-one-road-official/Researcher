@@ -1,0 +1,843 @@
+{
+ "name": "高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ",
+ "en": "high performance carbon fiber PEEK filament startup",
+ "aliases": [
+  "Hochleistungsfilament Start-up",
+  "filament carbone start-up",
+  "碳纤维 线材 初创"
+ ],
+ "context": "フィラメント・高性能",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:09:48.531718+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": ", the Apium P 155 and Apium P220. The new systems allow users to process a wide range of high-performance polymers, including PEEK.",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", LLC, a startup company focused on engineering porous bone-like structures in PEEK, launched the first fused filament fabrication (FFF) 3D printed ‘fully’ porous PEEK bone-like structures within implantable devices.",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", OPM moved on to address critical unmet needs in key markets including the medical, aerospace, automotive, electronics, energy and semiconductor industries.",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "produces a 3D printer called the Orb 1, designed for large end-use parts. Among composites additive manufacturing companies, Orbital also specializes in end-effectors, which are capable of processing a range of thermoplastics (including PEEK) and fiber tows (between 3k and 100k) for continuous fiber printing. Orbital also offers design and manufacturing services.",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "specializes in the recycling of advanced materials like carbon fiber. Using its patented recycling process, the company has developed a low-cost grade of carbon fiber that behaves similarly to virgin material. Founded in 2014, Vartega sells its materials in various forms, including VartegaFil, a recycled carbon fiber FDM 3D printing filament available in an ABS or PLA version.",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": "With a construction volume of 700 x 380 x 380 mm, the new EOS P 810 enables fast and economical production of high-performance techno polymer parts directly from CAD data, without the need for tooling. EOS HT-23 parts can ensure high strength at low weight and withstand temperatures well above 200°C. They can also be metalized to provide electrical continuity or serve as electromagnetic shielding.",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials partnership",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "From the Shenzhen HQ to Formnext in Frankfurt, it’s a new Creality",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in Grand Rapids, Michigan, materials manufacturer",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials partnership",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Shenzhen shows that the next 3D printing “show-down” will be in China",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "MOI Composites bringing new materials and more to Formnext 2026",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Roboze One +400 was one of the very first competitively priced systems to specifically target PEEK",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ". In fact, the US company is so set on advanced thermoplastics such as PEEK that it began offering the Funmat HT 3D Printer from INTAMSYS in a special bundle offer with its own PEEK and ULTEM filaments, for $5,250.",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "became the first firm in Europe to add the EOS P 810 machine to produce EOS HT- 23 parts, an EOS powder made from Kepstan PEKK. This is a high-performance polymer supplied by Arkema, and reinforced with carbon fibers. EOS P 810 is the first laser sintering solution for mass production of high-temperature PEKK polymer functional parts.",
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "創業年": [
+   {
+    "quote": "Founded in 2015, Moscow-headquartered",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2013,",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   },
+   {
+    "quote": "specializes in the recycling of advanced materials like carbon fiber. Using its patented recycling process, the company has developed a low-cost grade of carbon fiber that behaves similarly to virgin material. Founded in 2014, Vartega sells its materials in various forms, including VartegaFil, a recycled carbon fiber FDM 3D printing filament available in an ABS or PLA version.",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "創業年": [
+   {
+    "value": "2015",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "quote": "Founded in 2015, Moscow-headquartered"
+   },
+   {
+    "value": "2013",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "quote": "Founded in 2013,"
+   },
+   {
+    "value": "2014",
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "quote": "specializes in the recycling of advanced materials like carbon fiber. Using its patented recycling process, the company has developed a low-cost grade of carbon fiber that behaves similarly to virgin material. Founded in 2014, Vartega sells its materials in various forms, including VartegaFil, a rec"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/cefb2l/carbon_fiber_peek_prints_like_plastic_works_like/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.creatbot.com/filamentList/peek-cf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3devo.com/blog/the-ultimate-guide-to-high-performance-filaments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemai3d.com/index.php/how-strong-is-carbon-fiber-peek%EF%BC%88cf-peek%EF%BC%89-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0266353823004566",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kairosadditive.net/product/carbon-fiber-peek-filament/?srsltid=AYCX9vJFYuCqIC1I20HWOqGEzM8IdycE8PIsYj1U7M57b5cx3Gnm3G0M",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evonik.com/en/news/press-releases/2023/10/evonik-introduces-the-world-s-first-carbon-fiber-reinforced-peek.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.odtmag.com/breaking-news/evonik-debuts-worlds-first-carbon-fiber-reinforced-peek-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.filamentive.com/high-performance-filament-uk-guide-to-peek-peek-cf-ultem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intamsys.com/materials/peek-cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s00170-025-17142-x",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aon3d.com/materials/cf-peek/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemai3d.com/index.php/cf-peek-3d-printing-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.in3dtec.com/blog/how-to-print-with-peek-and-peek-carbon-fiber-a-comprehensive-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vshaper.com/filaments/peek-cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://visionminer.com/products/carbonx%E2%84%A2-cf-peek",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rev1tech.com/shop/3d-printing/3d-print-materials/filament/3dxtech-carbonx-peek-cf10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creatbot.com/peek-high-performance-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dxtech.com/blogs/featured/3dxtech-partners-with-bigrep-for-large-format-high-temperature-3d-printing?srsltid=AYCX9vIWSLhPUKCcgZ5UUdNWVGzbKUGrP8ZwvshEcpJ9qBXEcS-_hBSh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vshaper.com/blog/peek-cf-filament-for-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/3d-printing-high-performance-plastic-market-216044197.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1taep0d/state_of_advanced_materials_on_consumer_grade/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://visionminer.com/?srsltid=AYCX9vKkl6WBKbxGojLicR13o71ODh5RJZMeAE9NLay6p2cjXNJxNX1z",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dxtech.com/blogs/featured/formnext-2025-new-innovations-driving-high-temperature-am-forward?srsltid=AYCX9vLo-lGAiNEymKNzigPAjre4QIhC1j-754yB1yZAYmcMAYT2mUxM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evonik.com/en/events/2026/formnext.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weerg.com/guides/peek-3d-printing-all-you-need-to-know",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d4makers.com/blogs/news?srsltid=AYCX9vIqdEk3oNBraL8u4BeyCwfj9zQjIUOukfdDRRR5p-gGTamY_dfd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sssray.com/formnext-2026-new-3d-printing-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.creatbot.com/ja/filamentList/peek-cf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orion-am.com/ja/blog/1/blogcontinuous-carbon-fiber-3d-printing-19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonele.com/ja/products/cf-series/peek-cf-series/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://peekmaterials.com/ja/cf-peek%E3%81%A8unfilled-peek%E3%81%AE%E9%81%95%E3%81%84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/materials/continuous-fibers/continuous-carbon-fiber-fr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-techno.biz/3d4makers-peek-peekcf.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/6k-additive-commissions-first-two-unimelt-systems-for-its-new-facility/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/6kshowcases-custom-engineered-metal-powders-for-am-at-formnext/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/additive-manufacturing-for-semiconductor-capital-equipment-unlocking-critical-supply-chains/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/nikon-advanced-manufacturing-and-america-makes-to-develop-aheadd-cp1-dataset/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/pyrogenesis-nexgen-powder-production-line-in-operation/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/fraunhofer-ilt-develops-flexible-beam-shaping-process-to-optimise-pbf-lb-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/ricoh-3d-and-impossible-objects-launch-new-powder-based-carbon-fiber-3d-printing-materials-187968/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/essentium-launches-new-pekk-filament-for-high-performance-3d-printing-applications-196125/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/evonik-launches-new-peek-3d-printing-filament-for-body-contact-medical-parts-191432/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/3d-printing-industry-news-sliced-desktop-metal-exone-shapeways-voxeldance-massivit3d-henkel-bcn3d-3yourmind-and-more-199572/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/review-intamsys-funmat-pro-410-industrial-grade-dual-extrusion-3d-printer-202784/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/3dgence-launches-the-high-temperature-industry-f350-3d-printer-technical-specifications-and-pricing-186602/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/impossible-objects-announces-the-worlds-fastest-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/essentium-launches-pps-cf-filament-industrial-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/desktop-metal-fiber-afp-based-continuous-fiber-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/aon3d-reveals-new-hylo-3d-printer-and-basis-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/hp-launches-hp-if-600ht-industrial-filament-3d-printer-at-formnext-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/peek-3d-printing-060420204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/carbon-fiber-filament-3d-printing-050520204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/peek-vs-pekk-240620214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d-materials-peek-ultem-170120194/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/desktop-metal-fiber-3d-printer-launch-051120194/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/composite-3d-printers-market-260520204/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://www.youtube.com/watch?v=TGv47NQmtJs",
+    "https://www.reddit.com/r/3Dprinting/comments/cefb2l/carbon_fiber_peek_prints_like_plastic_works_like/",
+    "https://www.creatbot.com/filamentList/peek-cf",
+    "https://www.3devo.com/blog/the-ultimate-guide-to-high-performance-filaments",
+    "https://www.iemai3d.com/index.php/how-strong-is-carbon-fiber-peek%EF%BC%88cf-peek%EF%BC%89-filament/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0266353823004566",
+    "https://kairosadditive.net/product/carbon-fiber-peek-filament/?srsltid=AYCX9vJFYuCqIC1I20HWOqGEzM8IdycE8PIsYj1U7M57b5cx3Gnm3G0M",
+    "https://formlabs.com/blog/carbon-fiber-3d-printing-guide-printers-materials-comparison/",
+    "https://www.3dxtech.com/products/carbonx-peek-cf10-1?srsltid=AYCX9vKTUQDx9i-jLzjSEc6HMKoQ8JrzKJBhbaLS2ZCIAqSQBOdNd40d",
+    "https://www.sciencedirect.com/science/article/pii/S0266353823004566"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "high performance carbon fiber PEEK filament startup founded 2021 OR 2022 OR 2023 OR 2024",
+   "results": [
+    "https://www.evonik.com/en/news/press-releases/2023/10/evonik-introduces-the-world-s-first-carbon-fiber-reinforced-peek.html",
+    "https://www.youtube.com/watch?v=EIwA7PXL9b4",
+    "https://www.iemai3d.com/index.php/how-strong-is-carbon-fiber-peek%EF%BC%88cf-peek%EF%BC%89-filament/",
+    "https://www.3devo.com/blog/the-ultimate-guide-to-high-performance-filaments",
+    "https://www.odtmag.com/breaking-news/evonik-debuts-worlds-first-carbon-fiber-reinforced-peek-filament/",
+    "https://www.creatbot.com/filamentList/peek-cf",
+    "https://www.filamentive.com/high-performance-filament-uk-guide-to-peek-peek-cf-ultem/",
+    "https://www.youtube.com/playlist?list=PLU4LEDz25xtk",
+    "https://www.reddit.com/r/3Dprinting/comments/cefb2l/carbon_fiber_peek_prints_like_plastic_works_like/",
+    "https://www.intamsys.com/materials/peek-cf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "high performance carbon fiber PEEK filament startup raises seed Series A",
+   "results": [
+    "https://www.creatbot.com/filamentList/peek-cf",
+    "https://www.youtube.com/watch?v=TGv47NQmtJs",
+    "https://www.evonik.com/en/news/press-releases/2023/10/evonik-introduces-the-world-s-first-carbon-fiber-reinforced-peek.html",
+    "https://www.iemai3d.com/index.php/cf-peek-3d-printing-filament/",
+    "https://www.youtube.com/playlist?list=PLU4LEDz25xtk",
+    "https://www.in3dtec.com/blog/how-to-print-with-peek-and-peek-carbon-fiber-a-comprehensive-guide",
+    "https://www.reddit.com/r/3Dprinting/comments/cefb2l/carbon_fiber_peek_prints_like_plastic_works_like/",
+    "https://vshaper.com/filaments/peek-cf",
+    "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "https://visionminer.com/products/carbonx™-cf-peek"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "high performance carbon fiber PEEK filament startup distributor reseller program",
+   "results": [
+    "https://www.creatbot.com/peek-high-performance-materials/",
+    "https://www.3dxtech.com/blogs/featured/3dxtech-partners-with-bigrep-for-large-format-high-temperature-3d-printing?srsltid=AYCX9vIWSLhPUKCcgZ5UUdNWVGzbKUGrP8ZwvshEcpJ9qBXEcS-_hBSh",
+    "https://vshaper.com/blog/peek-cf-filament-for-3d-printing",
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-high-performance-plastic-market-216044197.html",
+    "https://www.in3dtec.com/blog/how-to-print-with-peek-and-peek-carbon-fiber-a-comprehensive-guide",
+    "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "https://www.reddit.com/r/3Dprinting/comments/1taep0d/state_of_advanced_materials_on_consumer_grade/",
+    "https://visionminer.com/?srsltid=AYCX9vKkl6WBKbxGojLicR13o71ODh5RJZMeAE9NLay6p2cjXNJxNX1z",
+    "https://store.sunlu.com/pages/reseller-program",
+    "https://www.3dxtech.com/products/carbonx-peek-cf10-1"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "high performance carbon fiber PEEK filament startup Formnext Start-up Area",
+   "results": [
+    "https://www.3dxtech.com/blogs/featured/formnext-2025-new-innovations-driving-high-temperature-am-forward?srsltid=AYCX9vLo-lGAiNEymKNzigPAjre4QIhC1j-754yB1yZAYmcMAYT2mUxM",
+    "https://www.youtube.com/watch?v=TGv47NQmtJs",
+    "https://www.evonik.com/en/events/2026/formnext.html",
+    "https://www.reddit.com/r/3Dprinting/comments/cefb2l/carbon_fiber_peek_prints_like_plastic_works_like/",
+    "https://www.creatbot.com/peek-high-performance-materials/",
+    "https://www.weerg.com/guides/peek-3d-printing-all-you-need-to-know",
+    "https://www.3d4makers.com/blogs/news?srsltid=AYCX9vIqdEk3oNBraL8u4BeyCwfj9zQjIUOukfdDRRR5p-gGTamY_dfd",
+    "https://www.youtube.com/playlist?list=PLU4LEDz25xtk",
+    "https://www.in3dtec.com/blog/how-to-print-with-peek-and-peek-carbon-fiber-a-comprehensive-guide",
+    "https://sssray.com/formnext-2026-new-3d-printing-materials/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ スタートアップ",
+   "results": [
+    "https://www.creatbot.com/ja/filamentList/peek-cf/",
+    "https://orion-am.com/ja/blog/1/blogcontinuous-carbon-fiber-3d-printing-19",
+    "https://www.carbonele.com/ja/products/cf-series/peek-cf-series/",
+    "https://peekmaterials.com/ja/cf-peek%E3%81%A8unfilled-peek%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://markforged.com/jp/materials/continuous-fibers/continuous-carbon-fiber-fr",
+    "https://j-techno.biz/3d4makers-peek-peekcf.html",
+    "https://skhonpo.com/blogs/faq/what-is-cff-cfr-filament",
+    "https://www.raise3d.jp/news/102",
+    "https://gutenberg.co.jp/products/poticon-peek",
+    "https://intamsys.jp/materials/peek-cf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:metal-am.com high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://www.metal-am.com/6k-additive-commissions-first-two-unimelt-systems-for-its-new-facility/",
+    "https://www.metal-am.com/6kshowcases-custom-engineered-metal-powders-for-am-at-formnext/",
+    "https://www.metal-am.com/articles/additive-manufacturing-for-semiconductor-capital-equipment-unlocking-critical-supply-chains/",
+    "https://www.metal-am.com/nikon-advanced-manufacturing-and-america-makes-to-develop-aheadd-cp1-dataset/",
+    "https://www.metal-am.com/pyrogenesis-nexgen-powder-production-line-in-operation/",
+    "https://www.metal-am.com/fraunhofer-ilt-develops-flexible-beam-shaping-process-to-optimise-pbf-lb-additive-manufacturing/",
+    "https://www.metal-am.com/autosmooth-project-looks-to-develop-automated-post-processing-in-coldmetalfusion-series-production/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dprintingindustry.com high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://3dprintingindustry.com/news/ricoh-3d-and-impossible-objects-launch-new-powder-based-carbon-fiber-3d-printing-materials-187968/",
+    "https://3dprintingindustry.com/news/essentium-launches-new-pekk-filament-for-high-performance-3d-printing-applications-196125/",
+    "https://3dprintingindustry.com/news/evonik-launches-new-peek-3d-printing-filament-for-body-contact-medical-parts-191432/",
+    "https://3dprintingindustry.com/news/3d-printing-industry-news-sliced-desktop-metal-exone-shapeways-voxeldance-massivit3d-henkel-bcn3d-3yourmind-and-more-199572/",
+    "https://3dprintingindustry.com/news/review-intamsys-funmat-pro-410-industrial-grade-dual-extrusion-3d-printer-202784/",
+    "https://3dprintingindustry.com/news/3dgence-launches-the-high-temperature-industry-f350-3d-printer-technical-specifications-and-pricing-186602/",
+    "https://3dprintingindustry.com/news/aon-m2-high-temp-3d-printer-launch-technical-specifications-pricing-130332/",
+    "https://3dprintingindustry.com/news/the-kumovis-team-is-back-this-time-with-their-own-implants-254678/",
+    "https://3dprintingindustry.com/news/3devo-launches-filament-maker-x10-technical-specification-and-pricing-254528/",
+    "https://3dprintingindustry.com/news/aim3d-advances-3d-pellet-printing-with-voxelfill-and-high-performance-upgrades-246203/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:voxelmatters.com high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://www.voxelmatters.com/everything-about-peek-3d-printing/",
+    "https://www.voxelmatters.com/impossible-objects-announces-the-worlds-fastest-printer/",
+    "https://www.voxelmatters.com/essentium-launches-pps-cf-filament-industrial-applications/",
+    "https://www.voxelmatters.com/desktop-metal-fiber-afp-based-continuous-fiber-3d-printer/",
+    "https://www.voxelmatters.com/aon3d-reveals-new-hylo-3d-printer-and-basis-software/",
+    "https://www.voxelmatters.com/hp-launches-hp-if-600ht-industrial-filament-3d-printer-at-formnext-2025/",
+    "https://www.voxelmatters.com/the-15-composites-am-companies-to-keep-your-eye-on/",
+    "https://www.voxelmatters.com/can-a-prusa-3d-printer-print-peek/",
+    "https://www.voxelmatters.com/3d-printing-filaments-leading-suppliers-agree-industry-begun-expansion-cycle/",
+    "https://www.voxelmatters.com/xenia-to-unveil-carbon-fiber-reinforced-peba-filament-at-formnext-2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:3dnatives.com high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://www.3dnatives.com/en/peek-3d-printing-060420204/",
+    "https://www.3dnatives.com/en/carbon-fiber-filament-3d-printing-050520204/",
+    "https://www.3dnatives.com/en/peek-vs-pekk-240620214/",
+    "https://www.3dnatives.com/en/3d-materials-peek-ultem-170120194/",
+    "https://www.3dnatives.com/en/desktop-metal-fiber-3d-printer-launch-051120194/",
+    "https://www.3dnatives.com/en/composite-3d-printers-market-260520204/",
+    "https://www.3dnatives.com/en/complete-guide-3d-printing-composites-280120204/",
+    "https://www.3dnatives.com/en/iemai3d-isanmate-carbon-fiber-materials-250920244/",
+    "https://www.3dnatives.com/en/plastics-used-3d-printing110420174/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:3printr.com high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://www.3printr.com/tag/my-mini-factory/",
+    "https://www.3printr.com/tag/graphen-filament/",
+    "https://www.3printr.com/fusion3-supports-widest-range-materials-3d-printer-manufacturer-2944598/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:3druck.com high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://3druck.com/en/sponsored/hp-industrial-filament-3d-printer-600-ht-high-temperature-fff-with-material-performance-traceability-and-cybersecurity-12164785/",
+    "https://3druck.com/en/3d-printing-materials-2/3devo-filament-maker-x10-new-extruder-for-in-house-filament-production-34162554/",
+    "https://3druck.com/en/sponsored/3dmensionals-becomes-hp-partner-and-expands-its-portfolio-with-the-hp-industrial-filament-600-ht-04157090/",
+    "https://3druck.com/en/printers-and-products/prusa-ht-hotend-core-one-and-l-print-at-up-to-400c-40164369/",
+    "https://3druck.com/en/directory/hp-mjf-1200/",
+    "https://3druck.com/en/printers-and-products/aon3d-launches-aon-m2-3d-printer-for-high-performance-plastics-0168743/",
+    "https://3druck.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/kumovis%E3%81%AF%E5%8C%BB%E7%99%82%E5%88%86%E9%87%8E%E5%90%91%E3%81%91%E3%81%AE%E6%96%B0%E3%81%97%E3%81%843d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97-2/",
+    "https://3druck.com/en/case-studies/cubesat-structure-made-of-carbon-peek-produced-via-fff-3d-printing-00161580/",
+    "https://3druck.com/en/directory/hp-3d-filament-peek-cf/",
+    "https://3druck.com/en/3d-printing-materials-2/evonik-presents-carbon-fiber-reinforced-peek-filament-for-medical-3d-printed-long-term-implants-07122730/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:3dadept.com high performance carbon fiber PEEK filament startup",
+   "results": [
+    "https://3dadept.com/",
+    "https://3dadept.com/enhancing-3d-printed-medical-implants-using-evoniks-carbon-fiber-reinforced-peek-filament/",
+    "https://3dadept.com/roboze-discusses-new-developments-in-3d-printing-of-carbon-fiber-composite-materials-used-as-metal-replacement/",
+    "https://3dadept.com/invibio-unveils-implantable-peek-filament-for-3d-printing/",
+    "https://3dadept.com/xenia-unveils-a-flexible-carbon-fiber-filament-for-drones-and-robotics/",
+    "https://3dadept.com/evonik-unveils-a-new-peek-filament-for-industrial-3d-printing-applications/",
+    "https://3dadept.com/solvay-strengthens-the-neat-ketaspire-peek-am-filament-for-3d-printing-simulation/",
+    "https://3dadept.com/weerg-unveils-a-peek-material-for-3d-metal-replacement/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com 高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ",
+   "results": [
+    "https://note.com/qy_research/n/n9611930e6157",
+    "https://note.com/qy_research/n/nefe4e7e339f3",
+    "https://note.com/qy_research/n/nfc92c963156f",
+    "https://note.com/yhresearch_news/n/n0da7238ad961",
+    "https://note.com/qy_research/n/nbb2cda51ef60",
+    "https://note.com/tenlab/n/ne46f44465708",
+    "https://note.com/qy_research/n/n38a6339006a4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ",
+   "results": [
+    "https://x.com/N3uuSp3ak/status/2041872901612433787",
+    "https://jf.x.com/images/media-preview/2104768341542117559",
+    "https://jf.x.com/images/media-preview/2099504879580611001",
+    "https://x.com/YuTR0N/status/2033762249819730050",
+    "https://x.com/chemicaldailyad/status/2072099878671642712",
+    "https://x.com/FANTASYGEEK66/status/2052247928853733821",
+    "https://x.com/CgtnJapanese/status/2031572299024142633"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ",
+   "results": [
+    "https://www.linkedin.com/pulse/cf-peek-material-properties-market-forecast-applications-peek-china-5bvtc",
+    "https://it.linkedin.com/pulse/peek-caricato-carbonio-cf-caratteristiche-212ke",
+    "https://cn.linkedin.com/posts/凯-张-4a53911b1_peek在石油领域的应用-peek材料在能源行业中的应用-随着能源行业对于工作环境的要求越来越高-activity-6808015731888930816-AC7j",
+    "https://jp.linkedin.com/posts/hiromi-kobayashi-250416_vega-markforged初の高耐熱プラスチック-activity-7132606538048782336-zkek",
+    "https://jp.linkedin.com/pulse/炭素繊維強化ポリマー-cfrp-市場分析パンデミック後のリセット新たなトレンドそして2026年から2033年までの65のcagrに基づく成長期待-kptke",
+    "https://www.linkedin.com/pulse/サーキュラーエコノミー循環経済の実現に向けたスタートアップの取り組み繊維循環プラットフォーム-hiroyuki-tada-hd1pc",
+    "https://cn.linkedin.com/company/thefilamentjp"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ",
+   "results": [
+    "https://www.facebook.com/raise3djp/videos/raise3d新製品繊維強化高性能フィラメントppaシリーズが間もなく登場します最新の工業用グレードの高性能ppaシリーズフィラメントはraise3d-e2cf/685430895995629/",
+    "https://www.facebook.com/raise3djp/videos/hypercore-abs-cf15フィラメントを使用してraise3d-pro3-plus-hsで正確で信頼性の高い大型yダクトを超高速で製作造形時間22時間/558661036993861/",
+    "https://www.facebook.com/Tohoku.University.School.of.Dentistry/photos/研究成果peek冠の接着性を向上させる新たな前処理技術を開発-ポリエーテルエーテルケトンpeekは機械的強度が高く生体適合性にも優れることから大臼歯に使用可能な/1439949001257179/",
+    "https://www.facebook.com/prtimes.startup/posts/paekポリアリールエーテルケトン市場ータイプ別pekpeekpekkフィラー別ガラス充填カーボン充填未充填用途別および地域別ー世界的な予測2030年/4954528917893748/",
+    "https://www.facebook.com/cgtnjapanese/photos/中国独自開発のt1000級高性能炭素繊維が量産化中国石油化工集団シノペックの発表によると中国が独自開発したt1000級高性能炭素繊維がこのほど上海で量産に成功し/1341974201406173/",
+    "https://www.facebook.com/MarkforgedJapan/photos/markforgedの最新マテリアルvegaヴェガスーパーエンプラのpekk素材にカーボンファイバーのフィラーを充填し最高レベルの高耐熱高強度を実現しました航空/971804534956072/",
+    "https://www.facebook.com/raise3djp/videos/raise3dの最新フィラメントraise3d-pa12cfraise3d-pa12cf-support-pa12-cfは低反り低吸湿の安定性の高いカーボンフィ/2288151721352320/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ note 社長",
+   "results": [
+    "https://www.creatbot.com/ja/filamentList/peek-cf/",
+    "https://orion-am.com/ja/blog/1/blogcontinuous-carbon-fiber-3d-printing-19",
+    "https://note.com/rock204/n/n94e02fdf2c0d",
+    "https://trend-3d.com/materials/1138/",
+    "http://jglobal.jst.go.jp/public/202502216539613760",
+    "https://www.carbonele.com/ja/products/cf-series/peek-cf-series/",
+    "https://wiki.polymaker.com/polymaker-wiki/polymaker-wiki-ja/ji-chu-zhi-shi/3dpurinto-1/firamento",
+    "https://peekmaterials.com/ja/cf-peek%E3%81%A8unfilled-peek%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://www.reddit.com/r/MechanicalEngineering/comments/1mdqai8/how_would_chopped_carbon_fibres_increase_the/?tl=ja",
+    "https://intamsys.jp/materials/peek-cf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "高性能・強化フィラメント（PEEK・CF・連続繊維）のスタートアップ X 投稿",
+   "results": [
+    "https://www.creatbot.com/ja/filamentList/peek-cf/",
+    "https://orion-am.com/ja/blog/1/blogcontinuous-carbon-fiber-3d-printing-19",
+    "https://www.jscm.gr.jp/3Dprinting/int_info2021.php",
+    "https://www.carbonele.com/ja/products/cf-series/peek-cf-series/",
+    "https://peekmaterials.com/ja/cf-peek%E3%81%A8unfilled-peek%E3%81%AE%E9%81%95%E3%81%84/",
+    "https://j-techno.biz/3d4makers-peek-peekcf.html",
+    "https://www.youtube.com/watch?v=TGv47NQmtJs",
+    "https://fusiontechnology.co.jp/column/210719-3/",
+    "https://track3d.de/en/materials/peek-cf/",
+    "https://intamsys.jp/materials/peek-cf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "high performance carbon fiber PEEK filament startup site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/koen-binnemans_additivemanufacturing-3dprinting-solventextraction-activity-7514062576247291904-PnXM",
+    "https://www.linkedin.com/in/krzysztof-roguski-612417114",
+    "https://nl.linkedin.com/in/jan-peter-wille",
+    "https://in.linkedin.com/company/rp3d-products-llp-official",
+    "https://au.linkedin.com/in/chris-teoh",
+    "https://nl.linkedin.com/in/chantal-van-sambeek-46a284b7",
+    "https://au.linkedin.com/in/shaineil-maharaj-110313106",
+    "https://www.linkedin.com/posts/compositesworld_greene-tweed-replaces-metal-stator-vanes-activity-7419718934167261185-VtJi",
+    "https://il.linkedin.com/in/dotan-duek-87234a33",
+    "https://www.linkedin.com/in/garrett-peters-96084571"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "資金調達・株主": "記載なし（読んだ60頁・検索20回）",
+  "年商・規模": "記載なし（読んだ60頁・検索20回）",
+  "日本の担い手": "記載なし（読んだ60頁・検索20回）",
+  "代理店募集・売り方": "記載なし（読んだ60頁・検索20回）",
+  "技術支援": "記載なし（読んだ60頁・検索20回）"
+ }
+}

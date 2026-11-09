@@ -8,120 +8,8 @@
  ],
  "context": "手順",
  "kind": "market",
- "researched_at": "2026-11-08T20:37:06.080208+00:00",
+ "researched_at": "2026-11-09T05:23:06.012740+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.",
-    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "常勤換算でよくある計算ミスと運営指導での指摘事例",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、常勤職員が1人、常勤職員の半分の時間だけ働く非常勤職員が2人いる事業所の場合、直感的には3人の職員がいるように見えます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、訪問介護の特定事業所加算では、サービス提供責任者の常勤換算人数や体制が要件に含まれています",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、就業規則で「週40時間」が常勤の勤務時間と定められている事業所の場合、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、就業規則で「週35時間」と定めている事業所であれば、月の常勤勤務時間は35時間×4週＝140時間となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この基準時間が異なれば、同じ勤務時間の非常勤職員でも常勤換算の結果が変わってきます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "計算結果に小数点以下の端数が出た場合、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、計算結果が「3.75人」となった場合、常勤換算人数は「3.7人」として扱います",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "人員配置基準ギリギリの事業所では、この端数処理によって基準を下回ってしまうケースもあるため、常に余裕を持った人員配置を心がけることが大切です",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "なお、常勤換算の計算結果は、職種ごとに算出します",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、「介護職員」「看護職員」「生活相談員」など、人員配置基準で定められた職種ごとに別々に計算し、それぞれの基準を満たしているかを確認します",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このように、施設サービスでは必要な人員数が多いため、常勤換算の計算結果が基準をわずかに下回るだけでも大きな問題となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Step 1: Pull your revenue figure.",
@@ -268,6 +156,150 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "When RPE is falling, two root causes explain most cases. Headcount grew faster than revenue, meaning the organization hired ahead of actual demand. Or revenue declined while headcount held steady, meaning a retention or hiring freeze decision is already overdue. Each cause calls for a different response.",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "常勤換算でよくある計算ミスと運営指導での指摘事例",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、常勤職員が1人、常勤職員の半分の時間だけ働く非常勤職員が2人いる事業所の場合、直感的には3人の職員がいるように見えます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、訪問介護の特定事業所加算では、サービス提供責任者の常勤換算人数や体制が要件に含まれています",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、就業規則で「週40時間」が常勤の勤務時間と定められている事業所の場合、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この点を誤解すると、計算結果が大きく変わってしまうため、注意が必要です",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、就業規則で「週35時間」と定めている事業所であれば、月の常勤勤務時間は35時間×4週＝140時間となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この基準時間が異なれば、同じ勤務時間の非常勤職員でも常勤換算の結果が変わってきます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "計算結果に小数点以下の端数が出た場合、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、計算結果が「3.75人」となった場合、常勤換算人数は「3.7人」として扱います",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "人員配置基準ギリギリの事業所では、この端数処理によって基準を下回ってしまうケースもあるため、常に余裕を持った人員配置を心がけることが大切です",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なお、常勤換算の計算結果は、職種ごとに算出します",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、「介護職員」「看護職員」「生活相談員」など、人員配置基準で定められた職種ごとに別々に計算し、それぞれの基準を満たしているかを確認します",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このように、施設サービスでは必要な人員数が多いため、常勤換算の計算結果が基準をわずかに下回るだけでも大きな問題となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "有休・産休・兼務など、間違いやすいケースの扱い",
@@ -341,38 +373,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -380,6 +380,11 @@
   "pass3": [
    {
     "url": "https://note.com/yuwa_office/n/n6e51e9503644",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yudai_ops/n/nb01da119aaf4",
     "status": "ok",
     "method": "http"
    },
@@ -394,17 +399,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kumagoro_/n/n4c2a4287cd54",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/high_city/n/n0bdd75891593",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/dpopsgroup/n/n6ead1340b46d",
+    "url": "https://note.com/aicafe_fukui/n/n4986db22f948",
     "status": "ok",
     "method": "http"
    },
@@ -424,12 +424,12 @@
     "method": "http"
    },
    {
-    "url": "https://sp-21.co.jp/study/1-uriagedaka/",
+    "url": "https://ta5k.com/tools/industry/sales-per-employee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ta5k.com/tools/industry/sales-per-employee",
+    "url": "https://sp-21.co.jp/study/1-uriagedaka/",
     "status": "ok",
     "method": "http"
    },
@@ -444,9 +444,14 @@
     "method": "browser"
    },
    {
+    "url": "https://wazabako.com/column/jokin-kansan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://comimi.jp/archives/column/fte-kaigo",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://biz.moneyforward.com/payroll/basic/112603/",
@@ -479,7 +484,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.insightful.io/blog/revenue-per-employee",
+    "url": "https://dashcalculator.com/calculators/revenue-per-employee",
     "status": "ok",
     "method": "http"
    }
@@ -490,17 +495,19 @@
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き site:note.com",
    "results": [
     "https://note.com/yuwa_office/n/n6e51e9503644",
+    "https://note.com/yudai_ops/n/nb01da119aaf4",
     "https://note.com/revenuescope/n/n00fd31afad70",
     "https://note.com/shinkin_ai/n/n936be826b6ef",
-    "https://note.com/kumagoro_/n/n4c2a4287cd54",
     "https://note.com/high_city/n/n0bdd75891593",
+    "https://note.com/aicafe_fukui/n/n4986db22f948",
     "https://note.com/dpopsgroup/n/n6ead1340b46d",
-    "https://note.com/aicafe_fukui/n/n4986db22f948"
+    "https://note.com/markeducation/n/n90132f936d08"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き note",
@@ -509,14 +516,17 @@
     "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
     "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
     "https://note.com/revenuescope/n/n00fd31afad70",
-    "https://sp-21.co.jp/study/1-uriagedaka/",
     "https://ta5k.com/tools/industry/sales-per-employee",
-    "https://zaimani.com/financial-indicators/sales-per-employee/"
+    "https://sp-21.co.jp/study/1-uriagedaka/",
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://comimi.jp/archives/column/fte-kaigo",
+    "https://evergreen-mgt.biz/2026/04/27/gross-profit-definition-calc"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き やり方",
@@ -524,13 +534,13 @@
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
     "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan",
     "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
+    "https://wazabako.com/column/jokin-kansan",
     "https://comimi.jp/archives/column/fte-kaigo",
     "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
-    "https://ta5k.com/tools/industry/sales-per-employee",
-    "https://sp-21.co.jp/study/1-uriagedaka/"
+    "https://ta5k.com/tools/industry/sales-per-employee"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -538,15 +548,15 @@
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き 事例",
    "results": [
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
-    "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan",
     "https://biz.moneyforward.com/payroll/basic/112603/",
-    "https://comimi.jp/archives/column/fte-kaigo",
+    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
+    "https://wazabako.com/column/jokin-kansan",
     "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
     "https://ta5k.com/tools/industry/sales-per-employee",
     "https://sp-21.co.jp/study/1-uriagedaka/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -558,22 +568,20 @@
     "https://parityai.pro/blog/revenue-per-employee",
     "https://workcalcs.com/revenue-per-employee-calculator/",
     "https://www.hrbench.com/resource/learn/current-headcount",
-    "https://www.insightful.io/blog/revenue-per-employee",
-    "https://www.thesaascfo.com/arr-per-employee-benchmarks/",
-    "https://smallhrtools.com/blog/revenue-per-employee-benchmarks-hiring-governor/"
+    "https://dashcalculator.com/calculators/revenue-per-employee",
+    "https://www.thesaascfo.com/arr-per-employee-benchmarks/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:note.com 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き",
    "results": [
     "https://note.com/revenuescope/n/n00fd31afad70",
-    "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/shinkin_ai/n/n936be826b6ef",
+    "https://note.com/markeducation/n/n90132f936d08",
     "https://note.com/dpopsgroup/n/n6ead1340b46d",
     "https://note.com/bizgem_1220/n/n09441131d3fe",
     "https://note.com/high_city/n/n0bdd75891593",
@@ -592,8 +600,8 @@
     "https://x.com/RokuhanaYutaka/status/2101897629336740103",
     "https://x.com/bakahakken21/status/2114264380338844055",
     "https://x.com/nikkei_business/status/2110099584727109886",
-    "https://x.com/CoreRiseCo/status/2093664742145704393",
-    "https://x.com/ytr_growthpilot/status/2097468777327726704"
+    "https://x.com/ytr_growthpilot/status/2097468777327726704",
+    "https://x.com/CoreRiseCo/status/2093664742145704393"
    ],
    "engines": [
     "ddgs:bing"
@@ -607,9 +615,9 @@
     "https://jp.linkedin.com/posts/祐二-古澤-8787022a5_1人あたり売上高12億円-anthropicの売上と従業員数から計算してみた-activity-7435255695031218176-YrwR",
     "https://jp.linkedin.com/posts/koyo-katsuki-23032016b_セリア従業員1人あたり売上高首位100均維持の秘訣は小さな本社-日本経済新聞-activity-7516387911714480128-gjCC",
     "https://www.linkedin.com/pulse/今の売上のつくり方を考える12の問い-一佐-森口-fsgyc/",
-    "https://jp.linkedin.com/pulse/choosing-right-denominator-understanding-importance-sales-kumar-pmp-hgpsc?tl=ja",
     "https://jp.linkedin.com/pulse/医師の年収は妥当か売上との関係から考える-md-phd-tamura-ccllc",
-    "https://jp.linkedin.com/pulse/day-2-advanced-sql-analytics-sales-trends-mom-growth-moving-s--ndqme?tl=ja"
+    "https://jp.linkedin.com/pulse/choosing-right-denominator-understanding-importance-sales-kumar-pmp-hgpsc?tl=ja",
+    "https://jp.linkedin.com/pulse/生産性向上のはずがmr削減の衝撃の事実-売上も生産性も上がらなかった-michio-okazaki-4r0xc"
    ],
    "engines": [
     "ddgs:google"
@@ -628,7 +636,7 @@
     "https://www.facebook.com/minnanokaigo/videos/ケアマネの担当件数に上限はある2024年度介護報酬改定による影響を解説/957712149334697/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -636,12 +644,12 @@
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き note 社長",
    "results": [
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
+    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
     "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
     "https://note.com/revenuescope/n/n00fd31afad70",
     "https://sp-21.co.jp/study/1-uriagedaka/",
     "https://ta5k.com/tools/industry/sales-per-employee",
-    "https://zaimani.com/financial-indicators/sales-per-employee/",
-    "https://miories.com/決算書における【-1人当たり売上高・期末従業員数/"
+    "https://zaimani.com/financial-indicators/sales-per-employee/"
    ],
    "engines": [
     "ddgs:google"
@@ -652,37 +660,42 @@
    "query": "1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き X 投稿",
    "results": [
     "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
-    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
     "https://biz.moneyforward.com/payroll/basic/112603/",
+    "https://kaigo-jitsumu-note.com/joukin-kansan-kazoekata/",
+    "https://wazabako.com/column/jokin-kansan",
     "https://unso-houkoku.com/guide/gaikyo-houkokusho-kakikata",
-    "https://ta5k.com/tools/industry/sales-per-employee",
     "https://sp-21.co.jp/study/1-uriagedaka/",
-    "https://ayusawa-partners.jp/column/houjin-jigyo-gaikyousho"
+    "https://ta5k.com/tools/industry/sales-per-employee",
+    "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "revenue per employee headcount vs FTE average headcount false trend site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/business-strategy/scaling-business-operations/breaking-revenue-vs-headcount-scaling/",
-    "https://www.linkedin.com/pulse/arr-per-employee-efficiency-metric-randy-wootton-vxlcc",
     "https://www.linkedin.com/posts/cheyannebanks_ipa-data-dive-the-new-economics-of-growth-activity-7425185996855738368-MH0z",
+    "https://www.linkedin.com/pulse/arr-per-employee-efficiency-metric-randy-wootton-vxlcc",
+    "https://gt.linkedin.com/posts/iamsergeimorozov_peopleanalytics-hranalytics-hrmetrics-activity-7019967761783128064-sjVR",
+    "https://www.linkedin.com/top-content/business-strategy/scaling-business-operations/breaking-revenue-vs-headcount-scaling/",
     "https://www.linkedin.com/pulse/headcount-vs-fte-why-workforce-metrics-keep-getting-up-tskhay-phd-b9tec",
+    "https://pe.linkedin.com/posts/taxplow_87000-accounting-firms-in-the-us-only-activity-7265731034871136259-ClYs",
+    "https://www.linkedin.com/posts/marcbegins_87000-accounting-firms-in-the-us-only-activity-7265703171409219584-PR7i",
     "https://www.linkedin.com/pulse/hidden-link-between-headcount-revenue-misses-chris-mannion-z2khe",
-    "https://www.linkedin.com/pulse/revenue-per-employee-number-tells-truth-patrick-rooney-qdjhe",
-    "https://www.linkedin.com/posts/stuart-norris-78984171_headcount-grows-faster-than-revenue-it-activity-7392932915254501376-52ps"
+    "https://www.linkedin.com/pulse/revenue-per-employee-number-tells-truth-patrick-rooney-qdjhe"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 9
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-07T01:58:53.836418+00:00"
 }

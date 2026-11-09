@@ -1,0 +1,1883 @@
+{
+ "name": "マテリアルジェット用材料",
+ "en": "material jetting materials market inkjet 3D printing",
+ "aliases": [
+  "マテリアルジェット 材料",
+  "インクジェット 3Dプリンター 材料"
+ ],
+ "context": "液体レジン",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:14:58.023623+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53% | IMARC Group Pvt.Ltd.のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53%",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "従業員エンゲージメント・ソフトウェア市場規模、2034年までに32億5,590万米ドルに到達へ ― 年平均成長率（CAGR）11.43%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウムリサイクル市場規模、2026年に132450百万米ドル拡大確実",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～1億円以上",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円～1億円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing vs Injection Molding: If you need a million identical parts, injection molding will crush 3D printing on cost per unit. But the mold itself costs thousands to make upfront. If you only need 50 or 500 parts? That’s where 3D printing comes out ahead.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53% | IMARC Group Pvt.Ltd.のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53%",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートによると、世界の3Dプリンティング市場は2025年に336億米ドルと評価され、2034年には1386億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は16.53%となる見込みです",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケア分野は、2030年まで年平均成長率25.33%で成長を続ける最も急成長している分野であり、これはカスタマイズされた医療製品の高い価値と、認証済みのAM（積層造形）医療機器の普及に向けた規制当局の意欲の高まりを反映しています",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "日本生分解性フードサービス使い捨て製品市場の成長予測 2034 | 795.72百万米ドルの評価額、5.18%のCAGR",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "オルタネーター市場、2034年までにCAGR 4.28%で298億米ドルへ急拡大する見通し",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "従業員エンゲージメント・ソフトウェア市場規模、2034年までに32億5,590万米ドルに到達へ ― 年平均成長率（CAGR）11.43%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "ニューヨーク発 – IMARCグループは、包括的な市場情報レポート「3Dプリンティング市場：技術、プロセス、材料、製品、用途、エンドユーザー、地域別の規模、シェア、動向、予測 – 2026年～2034年」を発表しました",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には、溶融堆積モデリング（FDM）が35.7%の市場シェアで技術構成をリードし、2025年に39億米ドルの収益を上げたステレオリソグラフィーがそれに続き、選択的レーザー焼結（SLS）は16.49%のシェアを占めています",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、金属材料が3Dプリンティング材料カテゴリーで51%の収益シェアを獲得し、航空宇宙、防衛、自動車分野における同技術の浸透度の高さを反映しています",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧│業務用3Dプリンターのポータルサイト ShareLab | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 海外メーカー一覧",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1989年に設立された3Dプリンターの世界シェアNo.1の会社",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年より日本市場においてコンシューマー向け3Dプリンター事業を展開しており、グローバルではデスクトップ3Dプリンター製品ならびにサービス分野においてトップシェアを誇る",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年に大手インクジェットプリンタメーカー出身者によって設立された大型造形用3Dプリンタメーカー",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "産業分野では、バインダージェット方式がサポート構造を不要にし、粉末床溶融方式よりも最大10倍速く部品を印刷できるため、自動車部品生産において大量生産のニッチ市場を開拓しています",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのノズルからモデル材とサポート材をステージに噴射し、材料に応じて紫外線の照射や加熱、冷却することで硬化させ、複雑な造形物を高解像度、高精度にモデリングできる造形方式です",
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "pass": 3
+   },
+   {
+    "quote": "モデル材となる光硬化性樹脂とサポート材となるワックスを複数のノズルから噴射し、紫外線を照射することでモデル材の部分だけを硬化させるプロセスを繰り返して積層する造形方式です",
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "pass": 3
+   },
+   {
+    "quote": "一方でモデル材とサポート材を別の材料にする必要があり、完成品の空洞部すべてにサポート材が必要なので、造形したい形状によっては、コストが高くなってしまう可能性があります",
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "pass": 3
+   },
+   {
+    "quote": "NPJは、モデル材となるナノサイズの金属粒子と特殊なサポート剤をインクジェットノズルから吹き付ける造形方式です",
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "pass": 3
+   },
+   {
+    "quote": "材料を硬化させる際には、最高300℃という環境でサポート材を蒸発させるとともに、ナノサイズの金属粒子同士を結合させ、造形物の層を形成します",
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "pass": 3
+   },
+   {
+    "quote": "特長は高強度で高精細な仕上がりができ、かつこれまでのFDMや光造形、PolyJet方式とは違い、サポート材がつかないことから綺麗で高強度な仕上がりが可能",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "高強度、高精細でサポート材がつかない",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "粉末自体がサポートの役割を果たすため、FDMや光造形方式にくらべて比較的自由に設計可能です",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "DMM.makeでは通常、サポート付きでお届けいたしますが、「除去有」オプションを選択することで、サポートを除去してお届けいたします",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "※DMM.makeでは通常、サポート付きでお届けいたしますが、「除去有」オプションを選択することで、サポートを除去してお届けいたします",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱性、靭性、強度に優れ、サポート不要のため複雑な形状の造形が可能です",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "高精細プラスチックは、黄土色が素地となっておりますが、サポートが付着する箇所については、サポート除去の関係上、白くなりますのでご留意ください",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "水溶性サポート材を使用しているため、微細な形状の造形も可能です",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "プロセス：3Dプリント、サポート除去、硬化後、ポリッシュ|材料：樹脂|リードタイム：4営業日",
+    "url": "http://ja.insta3dm.com/3d-printing-service/material-jetting-3d-printing-service/",
+    "pass": 3
+   },
+   {
+    "quote": "張り出しや空中に浮く形状にはサポート材を使用します",
+    "url": "https://trend-3d.com/basic/1327/",
+    "pass": 3
+   },
+   {
+    "quote": "除去方法は機種によって異なり、手作業で取り除くものや、水で除去しやすい水溶性サポート材を使う機種もあります",
+    "url": "https://trend-3d.com/basic/1327/",
+    "pass": 3
+   },
+   {
+    "quote": "高精細造形やフルカラー表現に対応する装置では、材料費や設備費、サポート材などの影響から、一般的なFDM造形より費用が高くなる場合があります",
+    "url": "https://trend-3d.com/basic/1327/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材とは、3DプリンターでT字やH字、◯のような、宙に浮く部分がある造形物を製作する際に、支えとなる素材です",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材を使用した場合は、造形後に除去作業が必要になります",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのノズルの本数によって、使用するサポート材が異なり、シングルヘッドの機種では、押出ノズルが1本しかないため、造形する素材をそのままサポート材としても使用します",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、デュアルヘッドの機種では、押出ノズルが2本あるため、専用のサポート材を使用することができます",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材の取り外しやすさは、そのまま、造形物の仕上がりに直結するため、",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材を使用することがあらかじめ分かっている場合は、デュアルヘッドの機種を導入することをおすすめ",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "造形する素材をそのままサポート材として使用していると、除去作業が難しくなるからです",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "またサポート材にもさまざまな種類があり、",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "除去作業のしやすさを重視するのであれば、水で簡単に溶ける水溶性のサポート材をおすすめ",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "特に3Dプリンターで複雑な形の造形物を制作する場合は、サポート材が必須になりますので、造形素材選びと合わせて、サポート材のことも頭に入れておいてください",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターのサポート材とは？",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "噴射する樹脂の粒子が非常に細かく、表面が滑らかで小さく複雑な形状を造形することが可能であり、硬さや色など広範囲な材料をサポートしている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "のコンサルティングチーム「AddWorks」が導入プロセスをサポート",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "MakerBot Methodは、造形室内を密閉し温度制御をする加熱ビルドチャンバーや、水溶性サポート材に対応するなど、デスクトップサイズでありながら、より複雑で微細な形状に対応可能となっている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "と販売代理店契約を結んだNTTデータエンジニアリングシステムズは、20年以上に渡り装置販売から技術サポートまで行っており、日本法人設立後も",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "高温に加熱された造形エリア内でインクの液体懸濁液を蒸発させて造形し、最後に焼結させてサポート材料を除去することで完成する",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "また、造形条件により表面に筋状の跡が残ることがあります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "※サポート材を取り除くため直径10mm以上の穴が必要となります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "※モデルの形状次第では、空洞内部のサポート材が除去しきれない場合もあります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "※モデルの形状次第では、中空部のサポートが除去しきれない可能性が有ります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "サポート付着面は、面荒れが発生します",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "※サポート材を取り除くため直径5mm以上の穴が必要となります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "※モデルの形状次第では、中空内のサポート材が除去しきれない場合もあります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "・造形材料自体に溶解する成分を含むため、長時間の溶解ができずサポート除去が不十分となる可能性が有ります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "※サポート材を手作業で除去する為、工具の届かない範囲はサポート材を除去することができません",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "・手作業によるサポート除去（ブレークアウェイ）となるため、形状によってはサポート除去が不十分となる可能性が有ります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "・奥まった空洞の内部にはサポート材が残ることがありますので、できるだけ避けてください",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "範囲：AMのプロセス，用語および定義，プロセスチェーン（ハードおよびソフトウェア），試験方法，品質パラメータ，供給契約およびすべての基本事項に関する標準化を行う．公開ISO：31件，審議中ISO：30件．",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing --- Feedstock materials --- Part 1: Parameters for characterization of powder flow properties",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加製造 - 造形用材料 - Part 1:粉体流動特性の特性評価のためのパラメータ",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "付加製造 - データ形式 - サポート，エコシステム，展開のファイルフォーマット",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、造形過程においてサポート材が不要なため、造形時のサポート材の除去作業が不要な点も大きなメリットのひとつです",
+    "url": "https://www.marubeni-idigio.com/insight-hub/3dprnter-material/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は世界をリードするStratasys社製品の取り扱いを含め、30年以上にわたる販売・保守サポートの実績があり、その豊富な知見を活かし、顧客の個別プロジェクトに最適な材料選定をきめ細かくサポートしています",
+    "url": "https://www.marubeni-idigio.com/insight-hub/3dprnter-material/",
+    "pass": 3
+   },
+   {
+    "quote": "Training & Learning Curve",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "日本の偽造防止パッケージ市場、偽造防止や製品セキュリティへの需要拡大を背景に2034年までに167億5,520万米ドルに達する見通し",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "日本生分解性フードサービス使い捨て製品市場の成長予測 2034 | 795.72百万米ドルの評価額、5.18%のCAGR",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "日本データセンター冷却市場：AIインフラの拡大が液冷技術とエネルギー...",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "日本通信事業者（MNO）市場：5G展開、ネットワークの近代化、法人向け接...",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、Formlabs社の",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "英語では「Material Jetting」と呼ばれ、日本では「材料噴射法」「マテリアルジェット」と表記されることがあります",
+    "url": "https://trend-3d.com/basic/1327/",
+    "pass": 3
+   },
+   {
+    "quote": "TREND 3Dをご覧いただきありがとうございます！国内トップクラスのフルカラー3Dプリントが可能",
+    "url": "https://trend-3d.com/basic/1327/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで使用できる素材にはどんなものがある？ | 日本3Dプリンター株式会社",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社は材料コンサルまで行います！",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D 日本OFPとは何か",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "もしも、3Dプリンターの選定や素材選びでお悩みなら、日本3Dプリンター株式会社へご相談ください",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社は、自社で世界トップメーカーの3Dプリンターを複数保有しており、実際に使用した経験から機械の特徴や、各造形方式の材料特徴（樹脂～金属）などを把握し、3Dプリンターの選択や材料選びのコンサルティングを行っています",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "国内での認知度は低くても、海外ではよく話題のニュースとして新しいテクノロジーの開発事例が紹介され、注目の的となっている企業も少なくありません",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内メーカー一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター 国内代理店一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "」では、3Dプリンターの国内販売と3Dプリンター導入のコンサルティングサービスをおこなっている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "日本においてはHP Inc.の日本法人として株式会社日本HPが分離設立され、PC、プリンターなどの製造販売を行っている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "＜日本3Dプリンター＞",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年より日本市場においてコンシューマー向け3Dプリンター事業を展開しており、グローバルではデスクトップ3Dプリンター製品ならびにサービス分野においてトップシェアを誇る",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年6月には日本における産業用3Dプリンター事業への参入および新製品6機種を発表し、2019年より順次産業向け3Dプリンター製品の出荷を開始するなど、産業用3Dプリンター事業の本格展開を図っている",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年に日本法人を設立し、2018年横浜にショールーム、トレーニングセンター機能を備えたテクニカルセンターを開設した",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "と販売代理店契約を結んだNTTデータエンジニアリングシステムズは、20年以上に渡り装置販売から技術サポートまで行っており、日本法人設立後も",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "＜EOS Electro Optical Systems Japan 株式会社＞",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Electro Optical Systems Japan 公式Webサイト（日）",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年にイスラエル国内最大の3Dプリントセンターを開設している",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区日本橋室町4-4-3",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "（オーストラリア，オーストリア、ベルギー，ブラジル，カナダ，中国，デンマーク，フィンランド，フランス，ドイツ[事務局]，アイルランド，イスラエル，イタリア，日本，韓国，オランダ，ノルウェイ，フィリピン、ポーランド，ポルトガル、ロシア，シンガポール，スペイン，スウェーデン，スイス，英国，米国）",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "「JIMTOF2026(第33回 日本国際工作機械見本市)」出展レポート",
+    "url": "https://www.marubeni-idigio.com/insight-hub/3dprnter-material/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Antigravity とは？料金や日本語化の手順、Cursorとの違いまで解説",
+    "url": "https://www.marubeni-idigio.com/insight-hub/3dprnter-material/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "また、高圧なレーザーを使用しないため安全であり、材料は専用のカートリッジで供給するため、材料を交換・補充する際の手間も大きくありません",
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "pass": 3
+   },
+   {
+    "quote": "この3機種は、UV硬化レジンが純正のものになります",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs社製の3Dプリンター「Form 4®」(※1)シリーズ専用に開発された、幅広い用途に活用可能な、明るい白色の汎用レジンです",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "Black Resin V5は、Formlabs社製の3Dプリンター「Form 4®」シリーズ専用に開発された、幅広い用途に活用可能なスタンダードレジンです",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "Grey Resin V5は、Formlabs社製の3Dプリンター「Form 4®」シリーズ専用に開発された、幅広い用途に活用可能なスタンダードレジンです",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "純正品以外のフィラメント・素材も使えるの？",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、デュアルヘッドの機種では、押出ノズルが2本あるため、専用のサポート材を使用することができます",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に、フィラメントや素材は、メーカーの純正品を使用",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの温度設定やヘッドの移動速度は、純正品に最適化されており、最も品質の高い製品を造形できるからです",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、絶対に純正品以外を使用してはいけないかというと、そういうわけでもありません",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、純正品以外のフィラメントを使用した際や、その後のトラブル・故障については、メーカーの保証外です",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "MARK TWO、MARK X7は、ポリアミドに炭素繊維を織り込んだ専用マテリアルの「ONYX」による造形を行う3Dプリンター",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "また、高圧なレーザーを使用しないため安全であり、材料は専用のカートリッジで供給するため、材料を交換・補充する際の手間も大きくありません",
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーにて、一定期間にわたって初期の機械特性を高い割合で保持できるかテスト*を実施しています",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "On paper, DIY sounds cheap, “just buy a printer and some filament, right?” But when you factor in maintenance, wasted prints, power consumption, and your own time, the math gets fuzzy fast. Outsourcing, meanwhile, offers predictability: you pay a set price for the part, and that’s it.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "100万円未満",
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "pass": 3
+   },
+   {
+    "quote": "100～500万円未満",
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "pass": 3
+   },
+   {
+    "quote": "500～1000万円未満",
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "pass": 3
+   },
+   {
+    "quote": "1000～3000万円未満",
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "pass": 3
+   },
+   {
+    "quote": "3000万円以上",
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの樹脂材料の価格とは？ | 3Dプリンター・3Dプリントならi-MAKER",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの樹脂材料の価格帯について",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯も樹脂（プラスチック）の種類、3Dプリンターの種類によって大きく異なります",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、3Dプリンターの樹脂材料の価格帯に焦点を当て、かつ対応している3Dプリンターや使い勝手、できることなどにふれつつ、ご紹介していきたいと思います",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "種類別3Dプリンターの樹脂材料の価格帯",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "材料の価格帯（1㎏目安）",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "2,000円～100,000円程度",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "2,000円～37,800円程度",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "58,000円～",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "10,000円～",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "数万円～5,000万円以上",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "数万円～200万円以上",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "400万円～5000万円以上",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "500万円～",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "2009年に基本特許の保護期間が終了した後、FDM方式の低価格の3Dプリンターが各社から発売され、3Dプリンターの利用が一般にも広がった",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年には個人向け低価格3DプリンターのメーカーであるMakerBot社を買収した",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～5000万円以上",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "100万円～3,000万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円～4,000万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性、軽量性、硬度、強靭性を持ち合わせた工業向けの3Dプリンタを手頃な価格で製造販売している",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円～110万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3万円～880万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円～5,000万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "要問合せ（FUNMAT HT3Dプリンターは約55万円との情報あり）",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "25万～75万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～1億円以上",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "1000万円～1億円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "約1,350万円",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター出力サービス価格体系はこちら",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター材料を選ぶ際には、性能と価格のバランスを考慮した選択が重要です",
+    "url": "https://www.marubeni-idigio.com/insight-hub/3dprnter-material/",
+    "pass": 3
+   },
+   {
+    "quote": "b. Need ABS, resin, or carbon-fiber reinforced nylon? You're paying more, sometimes $70–$150/kg.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "PLA and PETG: $20–$30 per 1kg spool.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s put that in perspective: 1kg of PLA can print roughly 30-40 small phone stands, which means each one costs less than $1 in raw material.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "PLA averages $20-25 per kg, which is about",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printing Cost: What Affects the Price?",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "熱可塑性樹脂①汎用樹脂、エンプラ",
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "pass": 3
+   },
+   {
+    "quote": "粉末樹脂:エンプラ、汎用プラスチック等",
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "pass": 3
+   },
+   {
+    "quote": "シンプルで小さい形状で、大まかな形だけ見たいというのであれば、低価格な樹脂材料で可能です",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "低価格用 FDM/FFF 3Dプリンター用フィラメント",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "低価格用 光造形3Dプリンター用レジン",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは家庭用低価格の樹脂材料と、業務用、工業用3Dプリンターでそれぞれご紹介します",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用・低価格（100万円代以下）のFDM/FFF 3Dプリンター用の樹脂材料",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用・低価格3Dプリンターではさまざまな材料が登場しています",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "反りやすく、低価格3Dプリンターではコントロールが難しい",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "用と、それ以外の低価格機種で材料が異なります",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "家庭用・低価格（30万円代以下）の光造形 3Dプリンター用の樹脂材料",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "光造形でも家庭用・低価格3Dプリンターではさまざまな材料が登場しています",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "上記でご紹介した低価格とは異なり、",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター用樹脂材料は造形方式で4種類あり、また低価格、高価格で価格帯が全く異なります",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "低価格な材料も用途によっては、コストパフォーマンスに優れた使い方ができます",
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs社製の3Dプリンター「Form 4®」(※1)シリーズ専用に開発された、幅広い用途に活用可能な、明るい白色の汎用レジンです",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "低価格でプロトタイプを製作する用途に最適です",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "低価格ながら、靭性と強度に優れており機能試作などにもお使いいただけます",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "最も汎用性の高いプラスチックで、さまざまな製品に使用されています",
+    "url": "https://3dprinter.co.jp/2835/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年に基本特許の保護期間が終了した後、FDM方式の低価格の3Dプリンターが各社から発売され、3Dプリンターの利用が一般にも広がった",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年には個人向け低価格3DプリンターのメーカーであるMakerBot社を買収した",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量でありながら強度の高い複雑な形状の金属パーツを低価格で造詣することが可能となる",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "低価格で使いやすい個人向けの小型3Dプリンターを各種製造販売している",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "個人や教育向けの小型、低価格のFDM方式3Dプリンターを各種製造販売している",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Form2は50万円程度の低価格でありながら、高精細の光造形が可能",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用的なABSを中心にラインナップが幅広く、内部を中空構造にすることも可能で、試作品や治具などへの適用が多くなっています",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "PP（ポリプロピレン）は柔軟で強度が高い汎用プラスチックです",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "ABS-M30：汎用ABS",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "ABS樹脂は電化製品の外装部品などに広く使われている汎用熱可塑性樹脂です",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "ASAは、ABSのブタジエン成分をアクリレートに置換えた汎用熱可塑性樹脂で、基本特性はABSに似ています",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "And here’s the truth: Some projects can be surprisingly cheap, while others cost more than you’d expect.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "a. Printing with everyday PLA or PETG? That's cheap and cheerful, around $20–$30 per kilogram.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "When you factor these in, the \"cheap\" $10 part can easily turn into $30–50. That's why understanding the breakdown matters.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "On paper, DIY sounds cheap, “just buy a printer and some filament, right?” But when you factor in maintenance, wasted prints, power consumption, and your own time, the math gets fuzzy fast. Outsourcing, meanwhile, offers predictability: you pay a set price for the part, and that’s it.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Q: Is 3D printing cheaper than buying?",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "If it's a generic product, usually not. But for prototypes, custom parts, or one-offs, 3D printing is almost always cheaper.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Q: What's the cheapest 3D printing material?",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "PLA is usually the lowest-cost filament. For resin, standard resins are cheapest, though not always the strongest.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing vs Buying Off-the-Shelf: For common items like phone cases or generic brackets, buying premade is almost always cheaper. But the moment you need something customized or unavailable in stores, 3D printing wins.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "But the “cheap filament equals cheap prints” myth doesn’t hold up once you factor in electricity, time, finishing, and machine wear.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "*ASTM D543: 異なる化学薬品に浸した試料は22℃で保管",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "モーターオイルに浸した試料は50℃で保管",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "最適化された不活性ガスフローにより、造形チェンバーで発生する燻煙も効率よく除去し、最良の造形環境を維持する",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "・光造形は強い衝撃に弱く耐光性も弱い為、保管には注意が必要となります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing - Environment, health and safety - Test method for the hazardous substances emitted from material extrusion type 3D printers in the non-industrial places",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "creep into in-house 3D printing. Power bills, replacement tools, calibration time, scrapped parts, storage for spools you’ll never use again, they all add up.",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "このレジンはFormlabsにおいて1.6mmの厚さでUL 94 V-0の認定を取得しており、高温環境や製造現場で利用される治具や設備機器の交換部品、航空機・自動車・鉄道車両などの内装部品、電子機器の筐体などへの活用が期待されます",
+    "url": "https://make.dmm.com/print/material/",
+    "pass": 3
+   },
+   {
+    "quote": "DDMにより、ラピッドプロトタイピングによる市場への早い投入だけでなく、小ロット生産やカスタムオーダーに対応が可能となる",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイロン6の粒形が真球であるため、粉末の流動性が良好で、造形品は高密度かつ表面平滑性に優れています",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "NSF 51食品接触認定を受けた唯一のFDM材料であり、ISO 10993/USPクラスVI認定と生体適合性があります",
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "pass": 3
+   },
+   {
+    "quote": "Qualification principles",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing --- Qualification principles --- Requirements for industrial additive manufacturing processes and production sites",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of polymers --- Qualification principles --- Classification of part properties",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of polymers --- Feedstock materials --- Qualification of materials for laser-based powder bed fusion of parts",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂AM - 造形用材料- レーザーベースの粉末床溶融結合部品用の材料の認定",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of metals --- Qualification principles --- Part 1: General qualification of operators",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of metals --- Qualification principles --- Part 2: Qualification of operators for PBF-LB",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of metals --- Qualification principles --- Part 3: Qualification of operators for PBF-EB",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of metals --- Qualification principles --- Part 4: Qualification of operators for DED-LB",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of metals --- Qualification principles --- Part 5: Qualification of operators for DED-Arc",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing --- Qualification principles --- Installation, operation and performance (IQ/OQ/PQ) of PBF-LB equipment",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of metals --- Qualification principles --- Qualification of coordination personnel",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing of polymers --- Qualification principles --- Part 1: General principles and preparation of test specimens for PBF-LB",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing for construction --- Qualification principles --- Structural and infrastructure elements",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設用付加製造 - 認定原則 - 構造およびインフラストラクチャ要素",
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "pass": 3
+   },
+   {
+    "quote": "We get this question a lot at JLC3DP:",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   },
+   {
+    "quote": "The average FDM printer consumes around 50-250 watts while printing. For a 10-hour print, that’s maybe $0.50-$1.00 depending on local rates. (Pretty minor, but it adds up if you print a lot.)",
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "3Dプリンター 国内代理店一覧はコチラ",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "と販売代理店契約を結んだNTTデータエンジニアリングシステムズは、20年以上に渡り装置販売から技術サポートまで行っており、日本法人設立後も",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   },
+   {
+    "quote": "https://news.sharelab.jp/study-usageguide-dealers/",
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Material Jetting 3d Printing Market: Regional Share & Growth ... Material Jetting 3D Printing Market is a segment of additive manufacturing that utilizes inkjet-like print heads to deposit photopolymer or wax-based materials layer-by-layer, creating high ...",
+    "url": "https://www.linkedin.com/pulse/material-jetting-3d-printing-market-regional-share-vekmc",
+    "pass": 3
+   },
+   {
+    "quote": "Qifeng Qian (PhD, CEng, MIMMM) - Product Manager-Flashforge ...How Material Jetting 3D Printing Market Is ... - LinkedInComprehensive Overview of the Material Jetting 3D Printing ...Comprehensive Report on Material Jetting 3D Printing Market ... Mar 1, 2022 · Product Manager-Flashforge · I am an Additive Manufacturing Specialist in Polymer Materials whose areas of expertise include Inkjet printing",
+    "url": "https://uk.linkedin.com/in/qifengqian",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.53",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "quote": "3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53% | IMARC Group Pvt.Ltd.のプレスリリース"
+   },
+   {
+    "value": "25.33",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "quote": "ヘルスケア分野は、2030年まで年平均成長率25.33%で成長を続ける最も急成長している分野であり、これはカスタマイズされた医療製品の高い価値と、認証済みのAM（積層造形）医療機器の普及に向けた規制当局の意欲の高まりを反映しています"
+   },
+   {
+    "value": "4.28",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "quote": "オルタネーター市場、2034年までにCAGR 4.28%で298億米ドルへ急拡大する見通し"
+   },
+   {
+    "value": "11.43",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "quote": "従業員エンゲージメント・ソフトウェア市場規模、2034年までに32億5,590万米ドルに到達へ ― 年平均成長率（CAGR）11.43%で拡大"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "35.7",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "quote": "2026年には、溶融堆積モデリング（FDM）が35.7%の市場シェアで技術構成をリードし、2025年に39億米ドルの収益を上げたステレオリソグラフィーがそれに続き、選択的レーザー焼結（SLS）は16.49%のシェアを占めています"
+   },
+   {
+    "value": "16.49",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "quote": "2026年には、溶融堆積モデリング（FDM）が35.7%の市場シェアで技術構成をリードし、2025年に39億米ドルの収益を上げたステレオリソグラフィーがそれに続き、選択的レーザー焼結（SLS）は16.49%のシェアを占めています"
+   },
+   {
+    "value": "51",
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "quote": "2025年には、金属材料が3Dプリンティング材料カテゴリーで51%の収益シェアを獲得し、航空宇宙、防衛、自動車分野における同技術の浸透度の高さを反映しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102296",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5653525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/3d-printing-market-1031",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/5684846",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000349615",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/am-mjt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/lineup/polyjet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dih.jp/printer/stratasys/J850Pro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://make.dmm.com/print/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/page/material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ja.insta3dm.com/3d-printing-service/material-jetting-3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8517/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jhmim.com/ja/material-jetting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/lineup/byMaterial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trend-3d.com/basic/1327/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/2835/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stratasys.altech.jp/polyjet-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/polyjet-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/?srsltid=AYCX9vL_Fs6q7VES_RSqfi96-jyKGI_UKd7tHbtTg83qX35meN0Vet91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/stratasys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5523/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/faq/resin-printer-fire-law",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/fire-service-act-70l-limit-53266.html?srsltid=AYCX9vLMiKkQtw8DzPLrk0eWPlsj8P4x7lTzn3xW24PfEJZKcsEP3053",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsui-gl.com/column/article_8193/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaken-tech.co.jp/trouble/shiteikanenbutsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/print_service/material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/insight-hub/3dprnter-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flashforge.jp/3dprinter-filament-correspondence-table/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/jp/support/technical/article/caas/sfdcarticles/sfdcarticles/JPN/Inventor-Is-a-material-library-available-with-all-material-names-from-Standards.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/3d-printing-market-1276.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/3d-printing-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-materials-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/material-jetting-mj-market-growth-from-2026-2033-projected-o7smc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/binder-jetting-3d-printing-technology-market-42869",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/knowledge-base/introduction-material-jetting-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/material-jetting-3d-printing-market-regional-share-vekmc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/qifengqian",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マテリアルジェット用材料 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-102296",
+    "https://www.atpress.ne.jp/news/5653525",
+    "https://www.marketresearchfuture.com/ja/reports/3d-printing-market-1031",
+    "https://newscast.jp/smart/news/5684846",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://www.dreamnews.jp/press/0000349615",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.mordorintelligence.com/ja/industry-reports/3d-printing-materials-market",
+    "https://crying278.inkrich.com/posts/3d-printing-materials-and-services-655118-mv7xgbno",
+    "https://www.verifiedmarketreports.com/ja/product/material-jetting-mj-market/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "マテリアルジェット用材料 価格",
+   "results": [
+    "https://news.sharelab.jp/study/am-mjt/",
+    "https://www.ricoh.co.jp/3dp/lineup/polyjet/",
+    "https://3dih.jp/printer/stratasys/J850Pro/",
+    "https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl",
+    "https://make.dmm.com/print/material/",
+    "https://online.solize.com/page/material",
+    "https://3d-modely.com/blog/3d-printer/3d-printer-materials/",
+    "https://apple-tree.co.jp/column/3d-printing-materials/",
+    "https://jhmim.com/ja/material-jetting/",
+    "https://www.verifiedmarketreports.com/ja/product/material-jetting-mj-market/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "マテリアルジェット用材料 主要メーカー 一覧",
+   "results": [
+    "http://ja.insta3dm.com/3d-printing-service/material-jetting-3d-printing-service/",
+    "https://news.sharelab.jp/study/am-mjt/",
+    "https://metoree.com/categories/8517/",
+    "https://jhmim.com/ja/material-jetting/",
+    "https://www.ricoh.co.jp/3dp/lineup/byMaterial",
+    "https://trend-3d.com/basic/1327/",
+    "https://3dprinter.co.jp/2835/",
+    "https://online.solize.com/page/material",
+    "https://make.dmm.com/print/material/",
+    "https://semirai.com/semiconductor-equipment/materials/semiconductor-materials"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "マテリアルジェット用材料 代理店 日本",
+   "results": [
+    "https://stratasys.altech.jp/polyjet-materials/",
+    "https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/polyjet-technology/",
+    "https://www.brule.co.jp/?srsltid=AYCX9vL_Fs6q7VES_RSqfi96-jyKGI_UKd7tHbtTg83qX35meN0Vet91",
+    "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "https://www.3d-printer.jp/stratasys/",
+    "https://metoree.com/categories/5523/",
+    "https://jp.ext.hp.com/printers/3d-printers/materials/plastic/",
+    "https://www.solidyard.jp/",
+    "https://jsam.or.jp/member/support/",
+    "https://jmgs.jp/agency/dealer.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "マテリアルジェット用材料 規制 保管 危険物",
+   "results": [
+    "https://www.sankyo-chem.com/news/post-689/",
+    "https://skhonpo.com/blogs/faq/resin-printer-fire-law",
+    "https://i-maker.jp/blog/fire-service-act-70l-limit-53266.html?srsltid=AYCX9vLMiKkQtw8DzPLrk0eWPlsj8P4x7lTzn3xW24PfEJZKcsEP3053",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://www.mitsui-gl.com/column/article_8193/",
+    "https://www.kaken-tech.co.jp/trouble/shiteikanenbutsu/",
+    "https://www.city.kumamoto.jp/kiji00337174/3_37174_444515_up_syanarcv.pdf",
+    "https://www.city.yokosuka.kanagawa.jp/7415/documents/kiseireibeppyoudai4.pdf",
+    "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "https://www.scas.co.jp/services/materialscience/hazard-protection/hazardous-materials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "マテリアルジェット用材料 純正 指定材料 互換",
+   "results": [
+    "https://news.sharelab.jp/study/am-mjt/",
+    "https://trend-3d.com/basic/1327/",
+    "https://ja.3dsystems.com/materials",
+    "https://www.ricoh.co.jp/3dp/print_service/material",
+    "https://online.solize.com/page/material",
+    "http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html",
+    "https://jhmim.com/ja/material-jetting/",
+    "https://www.marubeni-idigio.com/insight-hub/3dprnter-material/",
+    "https://flashforge.jp/3dprinter-filament-correspondence-table/",
+    "https://stratasys.altech.jp/polyjet-materials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing market size CAGR",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-market-1276.html",
+    "https://www.precedenceresearch.com/3d-printing-materials-market",
+    "https://market.us/report/3d-printing-materials-market/",
+    "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "https://www.linkedin.com/pulse/material-jetting-mj-market-growth-from-2026-2033-projected-o7smc",
+    "https://www.marketresearchfuture.com/reports/binder-jetting-3d-printing-technology-market-42869",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-materials-market",
+    "https://www.marketdataforecast.com/market-reports/3d-printing-market",
+    "https://www.researchgate.net/figure/The-global-market-for-3D-printing-and-the-estimation-for-the-current-decade-The-market_fig1_376690677",
+    "https://www.verifiedmarketreports.com/product/material-jetting-3d-printer-market/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing price per kg",
+   "results": [
+    "https://www.hubs.com/knowledge-base/introduction-material-jetting-3d-printing/",
+    "https://jlc3dp.com/blog/3d-printing-cost",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "https://additiveplus.com/how-much-does-3d-printing-really-cost-a-complete-breakdown-for-beginners/?srsltid=AYCX9vKxCqFYgEOGkdM-LvKCXI1zr19uFUQ3ciYgwT0rNRFG2tCfZ7zY",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-materials-market-1295.html",
+    "https://www.xometry.com/resources/3d-printing/what-is-material-jetting/",
+    "https://printpal.io/tools/3d-print-cost-calculator",
+    "https://makerrate.cc/polyjet-cost-calculator/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing key players",
+   "results": [
+    "https://www.factmr.com/report/material-jetting-process-3d-printing-market",
+    "https://www.marketresearchfuture.com/reports/material-jetting-process-3d-printing-market-42811",
+    "https://www.sciencedirect.com/science/article/pii/S2214860422006595",
+    "https://www.linkedin.com/pulse/analyzing-material-jetting-3d-printing-market-competitive-landscape-bnnre",
+    "https://www.treatstock.com/guide/article/126-what-is-material-jetting",
+    "https://www.businessresearchinsights.com/market-reports/material-jetting-market-100519?srsltid=AYCX9vJoZ5J41hQ4pEJcqQUKk1sNkaPzcSGeTVeHWYrUrBDrhE460L00",
+    "https://jlc3dp.com/blog/jetting-technology-basics",
+    "https://www.3ds.com/make/guide/process/material-jetting",
+    "https://www.knowledge-sourcing.com/report/binder-jetting-3d-printing-technology-market",
+    "https://www.marketsizeandtrends.com/report/material-jetting-3d-printing-market/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing distributor Japan",
+   "results": [
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.3ds.com/make/guide/process/material-jetting",
+    "https://www.exone.com/en/ressources/additive-manufacturing/",
+    "https://www.shapeways.com/3d-print-material-technology/material-jetting?srsltid=AYCX9vJRcnHKZXMnXvrFT3mwnUdVeTQhA09XnMBsznTdlgwqzxQOTuDE",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/materialjetting/",
+    "https://www.amfg.ai/post/material-jetting-3d-printing-guide",
+    "https://www.xometry.com/resources/3d-printing/what-is-material-jetting/",
+    "https://www.linkedin.com/pulse/japan-material-jetting-3d-printing-market-report-in-depth-6rhcf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing safety storage regulation",
+   "results": [
+    "https://research.wayne.edu/oehs/lab-safety/3d-printing",
+    "https://www.raise3d.com/blog/3d-printing-safety/",
+    "https://www.exone.com/en/ressources/additive-manufacturing/",
+    "https://www.cpsc.gov/s3fs-public/Safety-Concerns-Associiated-with-3D-Printing-and-3D-Printed-Consumer-Products.pdf",
+    "https://ehs.vt.edu/programs/occupational-safety/3dprinting.html",
+    "https://www.ul.com/news/safety-considerations-additive-manufacturing-and-3-d-printing",
+    "https://riskmanagement.sites.olt.ubc.ca/files/2025/05/CHEM-GDL-004-Guideline-for-3D-Printer-Safety.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S2214860422006595",
+    "https://www.futuremarketreport.com/industry-report/material-jetting-3d-printing-market",
+    "https://www.factmr.com/report/material-jetting-process-3d-printing-market"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing closed system open material third-party",
+   "results": [
+    "https://www.exone.com/en/ressources/binder-jetting-technology/",
+    "https://formlabs.com/blog/sla-vs-polyjet-3d-printing/",
+    "https://www.sciencedirect.com/science/article/pii/S2214860422006595",
+    "https://www.treatstock.com/guide/article/126-what-is-material-jetting",
+    "https://www.xometry.com/resources/3d-printing/binder-jetting-vs-material-jetting/",
+    "https://www.additivemanufacturing.media/articles/material-jetting---its-like-printing-just-in-3d",
+    "https://www.voxelmatters.com/category/3d-printing-topic/inkjet/",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/materialjetting/",
+    "https://www.reddit.com/r/3Dprinting/comments/u5tg8l/is_material_jetting_the_next_generation_of_3d/",
+    "https://www.mordorintelligence.com/industry-reports/material-jetting-process-3d-printing-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing commodity price competition",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S2214860422006595",
+    "https://www.hubs.com/knowledge-base/introduction-material-jetting-3d-printing/",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://www.fortunebusinessinsights.com/3d-printing-material-market-102296",
+    "https://www.3ds.com/make/guide/process/material-jetting",
+    "https://jlc3dp.com/blog/jetting-technology-basics",
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-market-1276.html",
+    "https://www.amfg.ai/post/material-jetting-3d-printing-guide",
+    "https://www.reddit.com/r/3Dprinting/comments/u5tg8l/is_material_jetting_the_next_generation_of_3d/",
+    "https://www.futuremarketreport.com/industry-report/material-jetting-3d-printing-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing technical support parameters",
+   "results": [
+    "https://www.hubs.com/knowledge-base/introduction-material-jetting-3d-printing/",
+    "https://www.sciencedirect.com/science/article/pii/S2214860422006595",
+    "https://www.3ds.com/make/guide/process/material-jetting",
+    "https://www.factmr.com/report/material-jetting-process-3d-printing-market",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/materialjetting/",
+    "https://www.amfg.ai/post/material-jetting-3d-printing-guide",
+    "https://jlc3dp.com/blog/jetting-technology-basics",
+    "https://www.scribd.com/document/459590851/Material-Jetting",
+    "https://prototek.com/material-jetting/",
+    "https://www.knowledge-sourcing.com/report/binder-jetting-3d-printing-technology-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com マテリアルジェット用材料",
+   "results": [
+    "https://note.com/xdxdto/n/n45520849c2bd",
+    "https://note.com/t23/n/n923cbcb565b2",
+    "https://note.com/mar810/n/n75954e5b6621",
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/tsujikawa1921/n/n4541830cfe18",
+    "https://note.com/mar810/n/n2fb28a04b6f3",
+    "https://note.com/izuku_idea/n/n5912d9d5c0cd",
+    "https://note.com/3n7no_tech_pr/n/n89ef5491c131",
+    "https://note.com/teruemon/n/n648948aaaef4",
+    "https://note.com/moka_3dpsales/n/n0a1ece0fdc2c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com マテリアルジェット用材料",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/NIMS_PR/status/2050514886057472380",
+    "https://x.com/ns32v/status/2110233192724832511",
+    "https://x.com/TodaiMaterial",
+    "https://x.com/tuisekimode/status/2111294683574100357",
+    "https://x.com/coronasha/status/2027307846371537177",
+    "https://x.com/dot_nim/status/2117573595706822934"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com マテリアルジェット用材料",
+   "results": [
+    "https://jp.linkedin.com/in/智佐都-加藤-7447a0391",
+    "https://www.linkedin.com/company/sofab-inks",
+    "https://tw.linkedin.com/company/daxin-materials-corp-5234-",
+    "https://jp.linkedin.com/pulse/additive-manufacturing-krishnashree-matheswaran?tl=ja",
+    "https://www.linkedin.com/?language=english",
+    "https://cn.linkedin.com/company/shaanxi-jutai-new-material-technology-co-ltd-陕西聚泰新材料科技有限公司",
+    "https://cn.linkedin.com/in/寛成-大脇-a69a9243a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com マテリアルジェット用材料",
+   "results": [
+    "https://www.facebook.com/material.link/",
+    "https://www.facebook.com/mspcjapan/posts/1171557834260698/",
+    "https://www.facebook.com/groups/3dspidermaker/posts/1811271916281869/",
+    "https://www.facebook.com/p/服飾資材の販売Hobby-Materialsです-ホビーマテリアルプロショップ手芸材料の専門店持ち手屋さんを運営してます-100032458551969/",
+    "https://www.facebook.com/Elephantech.Inc/posts/491462954660921/",
+    "https://www.facebook.com/MATERIALWORLDJAPAN/posts/1649753195118567/",
+    "https://www.facebook.com/materialexpo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "マテリアルジェット用材料 note 社長",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000097.000080389.html",
+    "https://news.sharelab.jp/study/am-mjt/",
+    "https://www.microjet.co.jp/company/message/attachment/社長監修_産業用３dプリンターの最新技術・材料・/",
+    "https://www.materialgate.com/message/",
+    "https://www.eneos-materials.com/company/message/",
+    "https://trend-3d.com/basic/1327/",
+    "https://met3dp.com/ja/material-jetting-202403203/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "マテリアルジェット用材料 X 投稿",
+   "results": [
+    "https://news.sharelab.jp/study/am-mjt/",
+    "https://ja.3dsystems.com/materials",
+    "https://met3dp.com/ja/material-jetting-202403203/",
+    "https://matlib.gpuopen.com/",
+    "https://trend-3d.com/basic/1327/",
+    "https://www.neway3dp.com/ja/services/material-jetting",
+    "https://www.keyence.co.jp/ss/products/3d-printers/agilista/knowledge/matl_others.jsp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "material jetting materials market inkjet 3D printing site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/material-jetting-3d-printing-market-structure-sbckf",
+    "https://www.linkedin.com/pulse/material-jetting-3d-printing-market-regional-share-vekmc",
+    "https://pe.linkedin.com/pulse/malaysia-material-jetting-market-type-size-trends-akmdf",
+    "https://uk.linkedin.com/in/qifengqian",
+    "https://www.linkedin.com/pulse/how-material-jetting-3d-printing-market-transforming-svvic",
+    "https://www.linkedin.com/pulse/comprehensive-overview-material-jetting-3d-printing-market-hk9de",
+    "https://www.linkedin.com/pulse/comprehensive-report-material-jetting-3d-printing-market-ecjce"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

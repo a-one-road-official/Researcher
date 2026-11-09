@@ -1,0 +1,2725 @@
+{
+ "name": "レーザー・電子ビームのワイヤー積層用ワイヤー",
+ "en": "wire laser additive manufacturing electron beam wire feedstock",
+ "aliases": [
+  "ワイヤー レーザー 積層造形",
+  "EBAM ワイヤー",
+  "ワイヤ送給 積層"
+ ],
+ "context": "ワイヤー",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:19:56.808709+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は17.39%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "the global Directed Energy Deposition (DED) 3D printing market is projected to reach USD 5.76 billion by 2036.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size by 2036",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.76 Billion",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.14 Million",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "USD 988.7 Million",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "USD 988.7 million",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.14 billion",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.76 billion",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "What is the projected market size and growth rate (CAGR) for the DED 3D Printing Market from 2026 to 2036?",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "The global DED 3D Printing Market is projected to reach a valuation of USD 5.76 billion by 2036, expanding from USD 1.14 billion in 2026. This significant growth trajectory is underpinned by a robust Compound Annual Growth Rate (CAGR) of 17.5% over the forecast period, reflecting the technology’s transition from niche application to mainstream industrial production.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wire Arc Additive Manufacturing Market Size, Share and Forecast Report 2025 to 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$160 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$608.47 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$448.47 million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Contract part printing is the largest service line: AML3D signed a $2.6 million (AUD) contract in FY2026 to supply high demand, non-safety critical replacement components for US Navy submarines, and Lincoln Electric Additive Solutions sells printed parts alongside its SculptPrint cells. RAMLAB applies the same model to repair and remanufacturing, and buyers of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year, driven by nickel aluminium bronze for submarine valves, fittings and propulsion parts; in March 2026 AML3D won an AUD 2.61 million US Navy contract for such components. Nickel alloys grow at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "FY2026 revenue AUD 12.5 million, up 70%; AUD 9.9 million order for four ARCEMY X systems, March 2026",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D reported record FY2026 revenue including lease income of AUD 12.5 million, up 70%, and its first profitable half year.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D won an AUD 2.61 million US Navy contract for submarine replacement parts in nickel aluminium bronze.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "AML3D received an order worth about AUD 9.9 million for four ARCEMY X systems from HII Newport News Shipbuilding.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "$160 Million",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing Market Size, Share | CAGR of 23.8%.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Size (2025): USD 2,223.3 million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast (2035): USD 3,981.6 million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Size (2025): USD 17.24 Billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast (2035): USD 145.80 Billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 145.80 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 17.24 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.32 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7.32 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.91 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 27.67 billion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "AM revenues reached USD 24.2 billion in 2025",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.70 billion",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.85 billion",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.70 billion",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is forecast to reach USD 5.70 billion by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market was estimated at USD 0.70 billion in 2025.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 0.85 billion in 2026.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The forecast period represents an incremental opportunity of USD 4.85 billion.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.85 billion to USD 5.70 billion, at a CAGR of 21.0%",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Million) Analysis, 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Current and Future Market Size Value (USD Million) Projections, 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Million) Analysis By Manufacturing Technique , 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Current and Future Market Size Value (USD Million) Analysis and Forecast By Manufacturing Technique , 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Million) Analysis By Material, 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "金属積層造形市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は17.39%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形市場の規模は、2026年には62億7000万米ドルと評価され、2034年までに226億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%です",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）17.39%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な製造業市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "熱圧縮成形市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "at a CAGR of 17.5% from 2026 to 2036.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 17.5",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "~5.1× expansion 2026–2036 at 17.5% CAGR",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "What is the projected market size and growth rate (CAGR) for the DED 3D Printing Market from 2026 to 2036?",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "The global DED 3D Printing Market is projected to reach a valuation of USD 5.76 billion by 2036, expanding from USD 1.14 billion in 2026. This significant growth trajectory is underpinned by a robust Compound Annual Growth Rate (CAGR) of 17.5% over the forecast period, reflecting the technology’s transition from niche application to mainstream industrial production.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR to 2034",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing Market Size, Share | CAGR of 23.8%.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 6% (2025 to 2035)",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 23.8%",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035, growing at a CAGR of",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035 at a CAGR of",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing, contract manufacturing, and maintenance services growing at 15.5% in 2025 per Wohlers Report 2026, now representing 48% of total AM market value",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global metal additive manufacturing market reaches USD 17.24 billion in 2025 and USD 145.80 billion by 2035, growing at a CAGR of 23.8%. Aerospace, defense, and medical demand anchor this growth as manufacturers shift metal AM into serial production programs.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global digital twin in manufacturing market size will be worth around USD 139.57 billion by 2035 from USD 8.12 billion in 2025, growing at a CAGR of 32.9% during the forecast period 2026 to 2035.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global advanced and Intelligent Manufacturing Market size will be worth around USD 730.18 billion by 2035 from USD 460.8 billion in 2025, growing at a CAGR of 15.8% during the forecast period 2026 to 2035.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global industrial 3D printing market will reach USD 140.64 billion by 2035 from USD 15.58 billion in 2025, growing at a CAGR of 24.61% during the forecast period 2026 to 2035.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "21.0% CAGR",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 21.0% from 2026 to 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is the fastest-growing market at a CAGR of 26.3%, followed by China at 28.4% and Germany at 24.2%.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2036)",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Additive Manufacturing With Metal Powders Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.85 billion to USD 5.70 billion, at a CAGR of 21.0%",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for the Additive Manufacturing With Metal Powders Market is expected to grow at a CAGR of 21.0% between 2026 and 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "India registers the fastest growth at a 26.3% CAGR through 2036, supported by ISRO and DRDO additive manufacturing adoption programmes and domestic powder atomisation capacity investments under the Production Linked Incentive scheme.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "金属積層造形市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形市場の規模、シェア、トレンド分析レポート：タイプ別（粉末床溶融、バインダージェット、直接エネルギー堆積、結合粉末押出、その他）、コンポーネント別（システム、材料、サービス、部品）、エンドユーザー産業別（航空宇宙、自動車、ヘルスケア、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に市場シェア37.2%を占め、金属積層造形市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は予測期間中、世界市場において相当なシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は予測期間中、最大の市場シェアを獲得すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で37.2%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属積層造形市場における主要メーカーはどこですか？",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能な製造業市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "熱圧縮成形市場の規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "業務用AM/3Dプリンタ―のポータルサイトShareLab（シェアラボ）の運営",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "・急速にシェアを広げるMeltioが実現する効率的な次世代の金属3Dプリンターとは",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "石油大手エクソンモービル社が金属3Dプリンター「Meltio M600」を活用し、チタン部品の製造コスト42%削減、納期を6週間から58.8時間へ短縮した最新事例を解説",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "with the largest market share in 2026, driven by significant investments in defense and aerospace R&D and the presence of leading technology innovators.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "By energy source, the laser-based DED segment holds the largest market share in 2026,",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "tool innovation and the push for sustainable manufacturing are driving the adoption of high-efficiency DED systems. Germany, France, and the UK are leading the way, with a strong focus on hybrid manufacturing and the integration of DED into digital factory environments through players like DMG MORI and Trumpf.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "Which end-use industry holds the largest market share, and what is the primary application driving this dominance?",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "Global Wire Arc Additive Manufacturing market share by region. Source: Dataintelo research.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Wire Arc Additive Manufacturing market share by segment. Source: Dataintelo research.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive chapter profiles 14 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.2 Global Wire Arc Additive Manufacturing Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading WAAM system manufacturers?",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading position of North America was validated through Dataintelo primary research with market participants and cross-checked against the location of disclosed system orders and installations.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share, driven by precision requirements in aerospace and medical applications.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "leading adoption through aerospace MRO and oil and gas sector demand for on-demand spare parts. Limited local powder supply chains and a small certified industrial buyer base constrain volume growth in",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading metal additive manufacturing market key players include EOS GmbH, GE Additive, TRUMPF, Renishaw plc, and Nikon SLM Solutions. Nano Dimension reshaped the competitive field in 2025 by completing acquisitions of both Desktop Metal and Markforged.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Winning Strategy Adopted by Leading Players",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Market Share Analysis",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The powder bed segment is projected to account for 46.5% of the additive manufacturing with metal powders market revenue in 2026, maintaining its position as the leading manufacturing technique. Its dominance has been built on the ability to produce highly detailed and structurally sound components with excellent dimensional accuracy.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The alloy segment is projected to capture 39.7% of the additive manufacturing with metal powders market revenue in 2026, leading due to its versatility and enhanced performance characteristics. Alloys such as titanium, nickel, and aluminum-based blends have been favored for their strength-to-weight ratios, corrosion resistance, and suitability for high-stress environments.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous advancements in alloy powder production methods have improved particle size uniformity and flowability, resulting in consistent build quality. With increasing emphasis on performance optimization and material efficiency, the alloy segment is expected to sustain its market-leading role.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing With Metal Powders Market Europe Country Market Share Analysis, 2026 & 2036",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Additive Manufacturing With Metal Powders Market",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis of Top Players",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sciaky also provides industry-leading electron beam and advanced arc welding systems, as well as affordable job shop welding services, for the aerospace, defense, automotive, healthcare and other manufacturing industries. Our welding equipment meets rigid military specifications to manufacture items such as airframes, landing gear, jet engines, guided missiles and vehicle parts.",
+    "url": "https://additivemanufacturing.com/2015/10/14/electron-beam-additive-manufacturing-ebam-advantages-of-wire-am-vs-powder-am/",
+    "pass": 3
+   },
+   {
+    "quote": "As a result, there may be reduced need for extensive protective equipment, leading to improved operator comfort and safety.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "the risk of cross-contamination between different materials is minimized. In contrast, powdered feedstock can be more susceptible to mixing or accidental spills, leading to potential material contamination.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "この市場は、日本、中国、インド、韓国における自動車産業の工業化と需要の増加により成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、三菱重工業などの日本の航空宇宙企業は、航空機部品への金属積層造形技術の応用を研究している",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "いま日本で購入可能な最大級の造形体積と造形速度を誇るワイヤーDED方式の金属3Dプリンター―米サイアキ | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "pass": 3
+   },
+   {
+    "quote": "いま日本で購入可能な最大級の造形体積と造形速度を誇るワイヤーDED方式の金属3Dプリンター―米サイアキ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "pass": 3
+   },
+   {
+    "quote": "主なメーカーとしてはWAAM3D、Lincoln Additive Solutions、GKN Aerospace、Sciaky、AddiTec、Gefertec、MX3DAML3Dなどが取り組んでいる他、国内でも三菱電機が開発に取り組んでいる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末は表面積が大きいため、環境に影響を受けやすく、空気中に存在する水分、酸素、その他の元素を吸収し材料特性が変化しやすいため、特に日本では湿度の影響に対する対策が必須と言われている",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "pass": 3
+   },
+   {
+    "quote": "大型造形や設置場所や運用環境に左右されにくいという長所をもったワイヤーDED方式の金属3Dプリンターだが、国内でも三菱電機が独自にレーザー式のワイヤーDED方式の金属3Dプリンターを開発中だ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説 | コラム | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本においても、2014年に",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "・電子ビーム：Colibrium Additive（旧Arcam）, 三菱電機, 日本電子",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子JAM-5200EBMの特徴と仕様",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、日本電子が開発した電子ビームパウダーベッド方式の金属3Dプリンター、JAM-5200EBMについてご紹介します",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子工業株式会社様～高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子工業株式会社は、高周波焼入れ技術の分野で長年の実績を持ち、金属積層造形技術を採用することでさらなる進化を目指しています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のインタビューでは、日本電子工業が金属3Dプリンターを導入した経緯や今後の展望、日本電子に寄せる期待について詳しくお話を伺いました",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子は、1949年の創業以来、これまで最先端の理科学・計測機器、産業機器そして医用機器の開発に邁進してきました",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "TREND 3Dをご覧いただきありがとうございます！国内トップクラスのフルカラー3Dプリントが可能",
+    "url": "https://trend-3d.com/basic/999/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MadeHereはMeltio社3Dプリンターの日本総代理店です",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの導入前に比較・検討すべきこと | 日本積層造形株式会社",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "日本積層造形株式会社／JAMPT（ジャンプ）",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは海外のメーカーが多いため、日本市場では国内代理店が装置の販売・メンテナンスを請け負っています",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店によっては、粉末や主要な交換部品・消耗部品の在庫状況や、技術スタッフ（特に海外メーカーの装置の場合は日本人エンジニア）の数が違うため、この点も装置選定にあたっては比較・検討しておくべき項目になります",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "BambuLab、Polymaker、Creality、REVOPOINT、resione などの国内販売代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の最先端・高品質技術を日本市場で展開し、コストパフォーマンスに優れた3Dソリューションと技術サポートを提供.",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシス/Desktop Metal国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGE・SCANTECH・Markforgedの国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の製造業マーケットプレイス「meviyマーケットプレイス」を運営",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの大型FFF/3Dプリンターメーカー[bigrep]の国内総代理店、 各種3Dエンジニアリング業務支援(リソース/プログラム開発/光学測定etc)",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "日本と海外のAM業界の架け橋をするコンサル",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "・3DPCが国内総代理店を務めるMeltio社がスペインの「SME of the Year（中小企業大賞）」を受賞",
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "pass": 3
+   },
+   {
+    "quote": "「至急、この図面を確認してください」 いつもの取引先から、自然な日本語でメールが届く",
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "pass": 3
+   },
+   {
+    "quote": "国内での金属AM受託やDfAM相談は横浜のMadeHereへ",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "国内でのMeltio活用や受託製造、DfAMのご相談は横浜のMadeHereへ",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターによる銅の造形：技術的課題と解決アプローチ | コラム | JEOL 日本電子株式会社",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金ではなく純銅にこだわり、電子ビーム方式の金属3Dプリンターを導入した日本電子工業様の事例をご紹介します",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子工業株式会社様～高周波焼入れ技術の進化を支える金属3Dプリンター",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子工業株式会社は、高周波焼入れ技術の分野で長年の実績を持ち、金属積層造形技術を採用することでさらなる進化を目指しています",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のインタビューでは、日本電子工業が金属3Dプリンターを導入した経緯や今後の展望、日本電子に寄せる期待について詳しくお話を伺いました",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子は、1949年の創業以来、これまで最先端の理科学・計測機器、産業機器そして医用機器の開発に邁進してきました",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電子では、お客様に安心して製品をお使い頂くために、",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States, Canada, United Kingdom, Germany, Netherlands, Norway, Spain, Australia, China, Japan, Singapore, Malaysia, Brazil, Mexico, Saudi Arabia, United Arab Emirates",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.2.2 Japan",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America leads with 40.0% of 2025 value and grows at 16.2% a year, driven by US Navy and shipyard demand including six ARCEMY X systems ordered by Newport News Shipbuilding. Asia Pacific is the fastest growing region at 18.2% a year, supported by the DAIHEN launch in Japan, the WAAM3D agreement in Malaysia and Vallourec printing in Singapore.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US and Canada), Europe (Germany, France, The UK, Spain, Italy, and Rest of Europe), Asia Pacific (China, Japan, South Korea, India, Australia, and Rest of APAC), Latin America (Brazil, Mexico, and Rest of Latin America), Middle East & Africa (GCC, South Africa, and Rest of MEA)",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (+81)",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "Robotは、ワイヤーDED方式の金属3Dプリンターで、大型サイズの部品や製品、複雑な形状をサポートレスでプリントできます",
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの方式やメーカーの機種により異なるが、サポート材(中空部分の土台)の除去、熱処理、ブラスト処理、表面仕上げ加工などが必要になってくる",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "またレーザー方式に比べてサポート材が少なくて済むこともメリットです",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形時に高温の熱源を必要とせずサポート材が不要です",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々なサポート体制でお客様をバックアップしております",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属AMでは、方式によりサポート除去、熱処理、脱脂、焼結、切削加工などが必要です",
+    "url": "https://trend-3d.com/basic/999/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の管理や安全設備が必要で、造形後にサポート除去、熱処理、表面仕上げを行う場合があります",
+    "url": "https://trend-3d.com/basic/999/",
+    "pass": 3
+   },
+   {
+    "quote": "装置ごとの対応材料と造形条件を確認する必要があります",
+    "url": "https://trend-3d.com/basic/999/",
+    "pass": 3
+   },
+   {
+    "quote": "Laserline社のダイオードレーザのトップハットビームプロファイルは、非常に均一な溶融プールを形成し、均質でクラックのない材料層をもたらす冷静なプロセス制御を可能にする",
+    "url": "https://www.laserline.com/ja-int/laser-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "造形向きとパラメータを決定し、Gコードを生成します",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "造形パラメータを選択し、Gコードを読み込んだ後、ビルドプレートをセットして造形開始",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "MeltioのDED方式は、造形後に除去が必要となる内部のサポート構造を作らずに、大型部品や、非常に滑らかな壁面を3Dプリントできるという点が特徴です",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "パン工場のコンベアベルトを固定するサポート材です",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス・ランニングコスト／代理店のサポート体制",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "代表的なパラメータとしては、レーザー出力、レーザースキャン速度、 積層厚（積層ピッチ）などがありますが、その他も含めると最大で20ほどの項目を変化させて設定する必要があるケースもあり、造形するワークによっては経験とノウハウが必要になります",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末充填後、一般的には装置メーカーが鋼種毎に用意している推奨パラメータを選択するだけで3Dプリントをスタートさせることができますが、お客様からの様々な造形依頼に対応したいと考えている当社では、これまでの経験から作りたい形状によって調整したオリジナルのパラメータを使用して造形していますので、このパラメータ設定の自由度を重視しています",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "装置メーカーによってこのパラメータ設定の自由度が違うため、材料開発などを主目的として導入を検討されている方はこの点を考慮する必要があります",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは一層毎に粉末を溶融・凝固させながら、積層して造形する（Additive Manufacturing）ため、オーバーハング部や応力除去のためにサポート材を付けて造形を行う必要があります",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "このサポート材をワークに対してどのように取り付けるか、ワークをどのようなレイアウトで配置するかについてはソフトウェアを使用して設定します",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "オーバーハング部や応力除去のためにワークに付けたサポートは、工具等を使用してワークから取り外す必要がありますが、ワークによってはこの作業に数時間を要することもあり、地道な作業が要る点も考慮する必要があります",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "造形後、プレートと製品の間にサポートがびっしり付いている状態",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "導入・活用にあたっては、装置価格や性能、価格、対応鋼種、対応サイズ等のいわゆるカタログ値だけではなく、金属粉末の管理特性（品質保持・交換難易度）、造形パラメーターの設定自由度、作業性（取り出し易さ・運用保守）、代理店のサポート体制など、運用する上で発生する作業についても十分リサーチすることをお勧めします",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "3D CADによる造形図面作成のサポート、ご提案を行っております",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "造形工程だけではなく周辺工程である形状提案、熱処理、仕上げ加工、非破壊検査を含む社内一貫生産体制で、顧客が望む造形部品開発・生産をサポート",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の最先端・高品質技術を日本市場で展開し、コストパフォーマンスに優れた3Dソリューションと技術サポートを提供.",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "DED方式（パウダー、ワイヤー等）金属積層造形及び切削加工に特化した純国産CAD/CAM「CAM-TOOL AM」の開発、販売、サポートを行っております",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "製造、建築、土木インフラ、CG/映像業界向け設計・デザインソフトウェアの販売、サポート、デベロッパー向け技術支援",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンター設備、設計ソフトの提供から実際のサポートまで一貫受託",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "AM造形品の精度必要箇所の後加工やサポート除去を実施可能な装置をご提供",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAM、ポリゴン編集、3DPスライサーソフトの製品開発、販売/サポート及び、専 用ソフトの受託開発",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "また機器のご紹介も行っており、ご購入後は、1日から2日間のトレーニング、修理、メンテナンスのサポートを実施しております",
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "pass": 3
+   },
+   {
+    "quote": "：造形向きとパラメータを決定し、Gコードを作成します",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "：造形が完了した部品は、必要に応じて、サポート材の除去や表面処理などの後処理を行います",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "残留応力による変形を低減させる解決策としては、造形時に予備加熱をして溶融時と冷却時の温度差を小さくする方法、造形対象の形状や造形する角度、サポート材の付け方を工夫することで全体の変形をコントロールする方法、レーザーの走査方向を工夫することにより残留応力の局所的な異方性を活用する方法などがあります",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々なサポート体制でお客様をバックアップしております",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "Digital parameter control and adjustments are made in response to real-time measured data, without process disruption",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "Prevents surprises by dynamically adjusting parameters to maintain part integrity",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "System Implementation & Training to Ongoing Support & Maintenance, Sciaky Is With You Every Step of the Way",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": ") features and functionality from day one. Our turnkey package includes the installation of the EBAM system, all configuration and design software, and comprehensive training on all aspects of EBAM technology. We also provide remote production monitoring and on-site preventive and predictive maintenance agreements.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "Training on the engineering-related EBAM methods of CAD model design.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "Training on the CAD/CAM conversion of the deposition strategy through machine tool path generation.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "Training on machine operation and maintenance.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us for more information about Sciaky’s additive manufacturing customer training, service and support packages.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "多くの場合、ワイヤー原料は金属粉末原料よりも50％程度安く、安全で保管が簡単だという利点がある",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "pass": 3
+   },
+   {
+    "quote": "また金属粉は粉塵爆発の危険性や可燃性対策、作業者の吸入による健康被害対策が必要になる",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "pass": 3
+   },
+   {
+    "quote": "金型や鋳型、冶具が不要で、金型などの保管の必要もない",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAM-5200EBMは造形中の不活性ガス導入が不要で、長寿命カソードを搭載し、高精度な自動ビーム補正技術により再現性の高い生産が可能となっています",
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーザー照射部分に不活性ガスを送り酸素を除去することで、材料となる金属の酸化や燃焼を防止すること",
+    "url": "https://www.jaxa.jp/press/2024/06/20240613-1_j.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、粉末の再利用や保管には注意が必要で環境管理や安全対策も求められます",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "造形時の酸化を抑えるための対策として、レーザー方式ではアルゴンや窒素などの不活性ガス環境下での造形、表面処理が施された粉末材料の使用などがあります",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAM-5200EBMは造形中の不活性ガス導入が不要で、長寿命カソードを搭載し、高精度な自動ビーム補正技術により再現性の高い生産が可能となっています",
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "pass": 3
+   },
+   {
+    "quote": "the global Directed Energy Deposition (DED) 3D printing market is projected to reach USD 5.76 billion by 2036.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "The global DED 3D Printing Market is projected to reach a valuation of USD 5.76 billion by 2036, expanding from USD 1.14 billion in 2026. This significant growth trajectory is underpinned by a robust Compound Annual Growth Rate (CAGR) of 17.5% over the forecast period, reflecting the technology’s transition from niche application to mainstream industrial production.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 and reaches",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry and hybrid machines carry the highest value per unit. Large naval and energy parts often exceed robot reach, which is why the ARCEMY X 6700 family and the GEFERTEC arc80X series, launched in March 2024 for large energy sector components, are built for scale. Integrators of",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "or EBAM®), we feed metallic wire directly into an electron beam to create metal preforms out of a molten substrate pool. Once the part reaches near-net shape, it undergoes finish heat treating, machining and inspection.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "Arc DED refers to three different Arc Welding technologies – Plasma Arc Welding (PAW) DED, Gas Tungsten Arc Welding (GTAW) DED, and Metal Inert Gas (MIG) DED.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "Laser-based wirefeed systems, such as Laser Metal Deposition-wire (LMD-w), feed wire through a nozzle that is melted by a laser, which incorporates inert gas shielding in either an open environment (gas surrounding the laser), or in a sealed gas enclosure or chamber. This process provides higher deposition rates as compared with powder bed and blown powder DED.",
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 and is projected to reach",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of the North American market, reaching",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "system shipments reached",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "AM revenues reached USD 24.2 billion in 2025",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of total value. Wohlers Report 2024 confirmed the industry reached USD",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The United States metal additive manufacturing market reaches USD",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "metal AM system shipments reached 3,793 units in 2023",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Systems revenue reached USD 440.1 million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys total revenue reached USD 572.5 million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "had materially breached its Merger Agreement with",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "production facility on time and under budget, adding manufacturing floor capacity for AM, CMM, and encoder products; total capital expenditure for the year reached GBP",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Wohlers Report 2026 – AM Revenues Reached USD 24.2 Billion in 2025; Services at 48% of Total Value; System Sales Rebounded 3.6%; AM Services Grew 15.5%; Asia-Pacific Revenue Growth Averaged 19.8%",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Wohlers Report 2024 – Metal AM System Shipments Reached 3,793 Units in 2023, Up 24.4% from 3,049 Units in 2022; Industry Reached USD 20.035 Billion in 2023 with 11.1% Growth",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Renishaw FY2024 Preliminary Results – Record Revenue of GBP 691.3 Million, 3.7% Underlying Growth; RenAM 500 Ultra Cuts Build Times by Up to 50%; Capital Expenditure Reached GBP 65.2 Million",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global metal additive manufacturing market reaches USD 17.24 billion in 2025 and USD 145.80 billion by 2035, growing at a CAGR of 23.8%. Aerospace, defense, and medical demand anchor this growth as manufacturers shift metal AM into serial production programs.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, projected to reach",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is forecast to reach USD 5.70 billion by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 0.85 billion in 2026.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The additive manufacturing with metal powders market size is projected to reach USD 5.698 billion by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Laser-based wirefeed systems, such as Laser Metal Deposition-wire (LMD-w), feed wire through a nozzle that is melted by a laser, which incorporates inert gas shielding in either an open environment (gas surrounding the laser), or in a sealed gas enclosure or chamber. This process provides higher deposition rates as compared with powder bed and blown powder DED.",
+    "url": "https://additivemanufacturing.com/2015/10/14/electron-beam-additive-manufacturing-ebam-advantages-of-wire-am-vs-powder-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrating metal AM usually requires a dedicated “bunker” with explosion-proof ventilation, respirators, and vacuum suits to handle reactive powders like Titanium or Aluminum. Wire eliminates this infrastructure burden.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "requires less storage space",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "allowing a better organization and utilization of storage areas, maximizing the available space.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "enabling better planning for material restocking. Moreover, wire feedstock tends to have a longer shelf life compared to some powdered materials, which may ensure the material remains usable over extended periods without degradation.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "3,000円(税抜)",
+    "url": "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "pass": 3
+   },
+   {
+    "quote": "5,500円(税抜)",
+    "url": "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "pass": 3
+   },
+   {
+    "quote": "1,905円(税抜)",
+    "url": "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "pass": 3
+   },
+   {
+    "quote": "3,909円円(税抜)",
+    "url": "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "pass": 3
+   },
+   {
+    "quote": "6,000円(税抜)",
+    "url": "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "pass": 3
+   },
+   {
+    "quote": "4,000円(税抜)",
+    "url": "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "pass": 3
+   },
+   {
+    "quote": "② 金属3Dプリンターの価格はどのくらいですか？",
+    "url": "https://trend-3d.com/basic/999/",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーメタルデポジション方式（DED）の技術を使用して、 高性能・手頃な価格・使いやすい金属3Dプリンターを開発・製造することで、金属における積層造形を次のレベルに引き上げます",
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "pass": 3
+   },
+   {
+    "quote": "など、円筒形状の部品では、従来のアルミ合金構造と比較して最大で約20%の軽量化効果が得られる可能性があると試算しました",
+    "url": "https://www.jaxa.jp/press/2024/06/20240613-1_j.html",
+    "pass": 3
+   },
+   {
+    "quote": "a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prices vary with size and automation. DAIHEN priced its ArcBuilder 3D turnkey system at USD 450,000 to 500,000 at its 2026 launch, while large custom gantry cells cost far more: Newport News Shipbuilding paid about AUD 9.9 million for four AML3D ARCEMY X 6700 systems in March 2026, or roughly AUD 2.5 million per cell including integration.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 2025 base was validated through Dataintelo primary research with WAAM system builders and service bureaus and cross-checked against the company revenue and volume and price sizing legs.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "are qualifying multi-laser LPBF platforms at significantly lower price points, driven by Made in China 2025 mandates and a national push toward",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "With stainless steel wire often trading around $5–$8/kg compared to $80+/kg for specialized AM powders, the OpEx reduction is immediate.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "もともとはプロトタイピングのために開発されたが、今日では主に、1～1,000個の小ロットサイズで、幾何学的に複雑な部品の製造に使用されている",
+    "url": "https://www.laserline.com/ja-int/laser-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットの大型（１m以上）製品を、好きな材料で、効率的に生産できる",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "新製品開発に関するトータルサービス、商品企画、デザイン、工業用製品の設計、解析エンジニアリング、試作、 金型の設計・製造及び小ロット成形品の生産・販売",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "型代ゼロの「型レス製造」で試作・小ロットのコストと納期を劇的に削減",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "coating, and multi-material deposition across a wide range of industries.",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "pass": 3
+   },
+   {
+    "quote": "of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Qualification Opens Serial Production",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "often contract qualification work before committing to a machine. Software for path planning and process monitoring, such as WAAM3D WAAMPlanner, is mostly sold with systems, and the two WAAM3D installations at CCAM in January 2026 passed acceptance testing on software integration as well as performance.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Post-processing and qualification remain the practical brake on growth. The American Welding Society Welding Digest noted in 2025 that machining and inspection after the build constrain throughput, and every new aerospace or nuclear part number needs its own approval. Suppliers that pair cells with in-process monitoring and the inspection services sold in the",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global revenue from wire arc additive manufacturing (GMAW and CMT, GTAW and plasma arc wire deposition): WAAM systems and deposition heads, WAAM path planning and monitoring software, and WAAM contract part printing, repair and qualification services.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers are small and many are loss-making: Norsk Titanium reported USD 4.1 million of 2025 revenue and other income, burned an average of USD 2.6 million a month and retracted its revenue guidance in February 2026. Post-build machining and inspection constrain throughput, and each new aerospace or nuclear part needs its own qualification before production.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and naval is the largest application with 32.0% of 2025 value and the fastest at 19.3% a year, led by submarine components and surface warship parts. Aerospace grows at 17.3% a year on Airbus qualification work with Norsk Titanium, and energy and power generation also grows at 17.3% a year on utility repair programs such as the Tennessee Valley Authority installation.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "share, anchored by flight-critical part qualification programs at Boeing, GE Aviation, and Lockheed Martin.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology choice defines cost per part, qualification pathway, and production volume ceiling — making the By Technology segment the highest-value dimension for operators and investors. Application segmentation reveals where certified demand is concentrated today, while material and component segments show where recurring revenue and supply chain leverage sit across the metal AM value chain.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Flight-critical part qualification and weight reduction",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "drive this share through qualification programs for flight-critical titanium and Inconel parts, where metal AM reduces buy-to-fly ratios and cuts lead times versus forged alternatives.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "run active metal AM qualification programs for flight-critical components, and the U.S. Department of Defense Additive Manufacturing for Sustainment program is accelerating adoption at military depots and shipyards. This combination of private-sector demand and government-backed qualification makes the U.S. the single most important geography for metal AM capital deployment decisions through",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO ASTM Standards and FAA Approval Shape Metal AM Qualification",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "governs LPBF process qualification, giving aerospace buyers a certified pathway for flight-hardware approval under FAA and EASA rules.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "guidance issued between 2022 and 2025 allows metal AM components in type-certificated aircraft, conditional on full material traceability, in-process monitoring — increasingly supported by",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "requires feedstock traceability, machine qualification logs, and destructive test coupons for all metal AM defense parts under MIL-STD guidelines. Medical buyers face",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 13485",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "qualification runway that raises barriers for new market entrants.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "consecutive years of tracking. Aerospace and defense qualification programs drove this acceleration as",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Powder Bed Fusion dominates the technology segment with a 49.3% share, driven by precision requirements in aerospace and medical part production. Selective Laser Melting is the most commercially deployed variant, producing fully dense parts from titanium and Inconel alloys under ISO/ASTM 52904 qualification.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defense qualification programs drove metal AM system shipments to 3,793 units in 2023 — a 24.4% annual increase per Wohlers Report 2024. Government investment through the U.S. DoD Additive Manufacturing for Sustainment program reinforces structural demand through the forecast period.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". Primary processing platforms include selective laser melting and electron beam melting under powder bed fusion, laser-cladding-based directed energy deposition, and binder jetting systems, each presenting distinct powder morphology and flowability requirements tied to specific certification pathways.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous advancements in alloy powder production methods have improved particle size uniformity and flowability, resulting in consistent build quality. With increasing emphasis on performance optimization and material efficiency, the alloy segment is expected to sustain its market-leading role.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid bottom-up and scenario-based forecasting model calibrated against installed system fleet data, application-specific adoption curves, and regulatory qualification timelines",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Powder Bed accounts for 46.5% share in 2026 as its superior geometric resolution and established qualification status under EASA and FAA airworthiness frameworks make it the preferred platform for flight-critical aerospace component certification.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market generates an incremental opportunity of USD 4.85 billion between 2026 and 2036, reflecting sustained structural demand from aerospace serial production qualifications, medical implant reimbursement expansion, and industrial energy sector platform deployments.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio’s dual wire metal deposition process enables the wire to enter the melt pool coaxially,",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "utilizes a coaxial laser array to achieve forging-level properties.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio’s LMD ensures precise control over the wire as it enters the melt pool coaxially.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio’s printhead is equipped with two independent wire feeders, enabling the printing of two different materials during a single print. This capability allows for applications such as hard-facing or anti-corrosion coatings and it offers an",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "The design features a coaxial wire feed, ensuring that the wire comes through the center of the melt pool. This setup enables",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "株式会社MadeHereはMeltio社3Dプリンターの日本総代理店です",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "メンテナンス・ランニングコスト／代理店のサポート体制",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターは海外のメーカーが多いため、日本市場では国内代理店が装置の販売・メンテナンスを請け負っています",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店によっては、粉末や主要な交換部品・消耗部品の在庫状況や、技術スタッフ（特に海外メーカーの装置の場合は日本人エンジニア）の数が違うため、この点も装置選定にあたっては比較・検討しておくべき項目になります",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "導入・活用にあたっては、装置価格や性能、価格、対応鋼種、対応サイズ等のいわゆるカタログ値だけではなく、金属粉末の管理特性（品質保持・交換難易度）、造形パラメーターの設定自由度、作業性（取り出し易さ・運用保守）、代理店のサポート体制など、運用する上で発生する作業についても十分リサーチすることをお勧めします",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "BambuLab、Polymaker、Creality、REVOPOINT、resione などの国内販売代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ストラタシス/Desktop Metal国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGE・SCANTECH・Markforgedの国内代理店",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの大型FFF/3Dプリンターメーカー[bigrep]の国内総代理店、 各種3Dエンジニアリング業務支援(リソース/プログラム開発/光学測定etc)",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "・3DPCが国内総代理店を務めるMeltio社がスペインの「SME of the Year（中小企業大賞）」を受賞",
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace OEMs and tier suppliers grow at",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Contractors and Shipyards, Aerospace OEMs and Tier Suppliers, Energy and Industrial Manufacturers, Service Bureaus and Contract Manufacturers, Research Institutes and Universities",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.2 List of Key Distributors",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.2.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.22.2 Aerospace OEMs and Tier Suppliers",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers, distributors, resellers, and system integrators",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor and Partner Research",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Capital hardware sales from OEMs including EOS GmbH, TRUMPF, and GE Additive driving initial market revenue; Wohlers 2026 signals system sales rebounding at 3.6% as services outpace hardware",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "— supported by a defense procurement base and aerospace OEM ecosystem that no other region matches in certified metal AM production volume. This concentration means North America will absorb a disproportionate share of new capital equipment investment through",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "are expanding globally on system pricing that undercuts Western OEMs on comparable LPBF platforms.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "— exposing the divergence between vendor revenue ambitions and actual hardware demand. System OEMs that built on prototype-era growth assumptions now face a market where buyers prefer service bureau access over capital equipment ownership.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese OEM expansion",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". The revenue decline reflects broader hardware market softness that hit system OEMs hardest in",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "ブルーレーザー搭載により、エネルギーの消費量を削減",
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "pass": 3
+   },
+   {
+    "quote": "定期メンテナンスという縛りはありませんが、当社では1年に1回の装置メンテナンスを依頼しており、その際に消耗部品を定期交換しています",
+    "url": "https://jampt.jp/column/column_453/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤーDED方式を念頭に置いて直接レーザー光源を開発することで、オペレーターの手間とエネルギーの使用量を削減し、リーズナブルな価格を維持するシステムの提供が可能になっています",
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、部品1個あたりのエネルギー消費量とコストの大幅削減を実現します",
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology choice defines cost per part, qualification pathway, and production volume ceiling — making the By Technology segment the highest-value dimension for operators and investors. Application segmentation reveals where certified demand is concentrated today, while material and component segments show where recurring revenue and supply chain leverage sit across the metal AM value chain.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Recurring powder revenue growing as installed base expands; metal AM materials market is the fastest-growing revenue stream as production volumes scale beyond prototyping",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In our view, the shift from prototyping to serial production is the single most consequential structural change in metal AM demand. Aerospace and defense buyers are no longer evaluating metal AM against design intent — they are qualifying it against forged and machined supply chains on cost, lead time, and part performance, locking in recurring production contracts.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The metal AM materials market is the fastest-growing recurring revenue stream in the value chain — as the global installed base of metal AM systems expands, powder consumption scales proportionally without requiring new capital equipment sales.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", accessing certified metal AM production without machine ownership. This shift confirms the broader additive manufacturing industry transition from hardware sales to recurring services revenue.",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription Datasets and Paid Sources",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Production and Consumption Statistics",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "3Dプリンタ、専用材料、ソフト ウェアを自社開発し、試作から量産まで対応可能なプラットフォームを提供",
+    "url": "https://jsam.or.jp/member/support/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、Meltio社はオープンプラットフォームを採用しており、様々なメーカーの金属ワイヤーを使用できるため、材料選択の幅が広く、用途に合わせた最適な材料で造形することができます",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "5. Meltio社の多種多様な材料と互換性のある材料",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "また、Meltioはオープンプラットフォームであるため、",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "【事例】鋳造製造から3Dプリントへ転換：クローズドインペラを金属3Dプリンターで製造、型レスでリードタイムとコストを大幅削減",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "クローズドインペラの製造を従来の鋳造からMeltio社製金属3Dプリンターへ置き換えた事例を解説",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "pass": 3
+   },
+   {
+    "quote": "Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The leading position of North America was validated through Dataintelo primary research with market participants and cross-checked against the location of disclosed system orders and installations.",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio utilizes a proprietary",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "Wire formats are standardized (AWS, ISO). You are not locked into a proprietary vendor; you can source mild steel or Inconel 718 from any local welding supplier.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   },
+   {
+    "quote": "Is the Meltio system compatible with third-party software?",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "Low-cost entry-level metal part prototyping and tooling",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Prototyping, tooling, low-cost",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "5. World Bank Group. (2025, April). Commodity Markets Outlook: Persistence of High Interest Rates Weighs on Commodity Markets. World Bank. https://openknowledge.worldbank.org/handle/10986/41531",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Meltio’s technology utilizes commercial welding wire, a global industrial commodity.",
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "17.39",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "quote": "世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%となる見込みです"
+   },
+   {
+    "value": "19.21",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "quote": "航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています"
+   },
+   {
+    "value": "17.5",
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "quote": "at a CAGR of 17.5% from 2026 to 2036."
+   },
+   {
+    "value": "16.0",
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "quote": "The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and"
+   },
+   {
+    "value": "23.8",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "quote": "Metal Additive Manufacturing Market Size, Share | CAGR of 23.8%."
+   },
+   {
+    "value": "6",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "quote": "CAGR: 6% (2025 to 2035)"
+   },
+   {
+    "value": "32.9",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "quote": "The global digital twin in manufacturing market size will be worth around USD 139.57 billion by 2035 from USD 8.12 billion in 2025, growing at a CAGR of 32.9% during the forecast period 2026 to 2035."
+   },
+   {
+    "value": "15.8",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "quote": "The global advanced and Intelligent Manufacturing Market size will be worth around USD 730.18 billion by 2035 from USD 460.8 billion in 2025, growing at a CAGR of 15.8% during the forecast period 2026 to 2035."
+   },
+   {
+    "value": "24.61",
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "quote": "The global industrial 3D printing market will reach USD 140.64 billion by 2035 from USD 15.58 billion in 2025, growing at a CAGR of 24.61% during the forecast period 2026 to 2035."
+   },
+   {
+    "value": "21.0",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "The market is expected to grow at a CAGR of 21.0% from 2026 to 2036."
+   },
+   {
+    "value": "26.3",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "India is the fastest-growing market at a CAGR of 26.3%, followed by China at 28.4% and Germany at 24.2%."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "37.2",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "quote": "北米は、2025年に市場シェア37.2%を占め、金属積層造形市場を牽引しました"
+   },
+   {
+    "value": "19.21",
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "quote": "航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています"
+   },
+   {
+    "value": "42",
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "quote": "石油大手エクソンモービル社が金属3Dプリンター「Meltio M600」を活用し、チタン部品の製造コスト42%削減、納期を6週間から58.8時間へ短縮した最新事例を解説"
+   },
+   {
+    "value": "46.5",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "The powder bed segment is projected to account for 46.5% of the additive manufacturing with metal powders market revenue in 2026, maintaining its position as the leading manufacturing technique. Its dominance has been built on the ability to produce highly detailed and structurally sound components "
+   },
+   {
+    "value": "39.7",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "The alloy segment is projected to capture 39.7% of the additive manufacturing with metal powders market revenue in 2026, leading due to its versatility and enhanced performance characteristics. Alloys such as titanium, nickel, and aluminum-based blends have been favored for their strength-to-weight "
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metal-3d-printing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/laser-processing-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547?srsltid=AYCX9vKMRC5-FfKY-BKWJXEEO7W2_WqossYsbkQqThBHuS955Mh8YKI4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/%E3%82%88%E3%82%8A%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AA%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%BA%90%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%93%E3%83%BC%E3%83%A0-18156517/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trend-3d.com/basic/999/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserline.com/ja-int/laser-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precitec.com/jp/laser-welding/applications/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5523/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/technique/sol_additive_manufact/3D_printer_trend_report_2017.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hdc3d.com/ja/meltio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-skin.clinic/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E6%B2%BB%E7%99%82",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_453/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsam.or.jp/member/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-skin.clinic/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-skin.clinic/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E7%BE%8E%E5%AE%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11200000-Roudoukijunkyoku/0000184700.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.machinist.co.jp/2023/11/19324/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserax.com/ja/blog/laser-safety-laser-classes-explained",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/faq/resin-printer-fire-law",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/laws/kokuji/post34/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaxa.jp/press/2024/06/20240613-1_j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-skin.clinic/%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%97%E3%83%A9%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-skin.clinic/%E6%96%99%E9%87%91%E8%A1%A8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-skin.clinic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ts-skin.clinic/%E5%8C%BB%E7%99%82%E8%84%B1%E6%AF%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://additivemanufacturing.com/2015/10/14/electron-beam-additive-manufacturing-ebam-advantages-of-wire-am-vs-powder-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-3d-printing-market",
+    "https://www.gminsights.com/ja/industry-analysis/laser-processing-equipment-market",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.businessresearchinsights.com/jp/market-reports/metal-3d-printer-market-127547?srsltid=AYCX9vKMRC5-FfKY-BKWJXEEO7W2_WqossYsbkQqThBHuS955Mh8YKI4",
+    "https://www.dreamnews.jp/press/0000336060",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817",
+    "https://newscast.jp/smart/news/6469343",
+    "https://ts-skin.clinic/レーザー治療"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー 価格",
+   "results": [
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://3druck.com/ja/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/%E3%82%88%E3%82%8A%E5%8A%B9%E7%8E%87%E7%9A%84%E3%81%AA%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%BA%90%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%93%E3%83%BC%E3%83%A0-18156517/",
+    "https://www.adcom-media.co.jp/news/2024/06/17/117012/",
+    "https://trend-3d.com/basic/999/",
+    "https://www.metal.sin.jp/news20230427",
+    "https://www.datadesign.co.jp/markforged/news/5423/",
+    "https://ts-skin.clinic/レーザー治療",
+    "https://ts-skin.clinic/レーザー脱毛"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー 主要メーカー 一覧",
+   "results": [
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.laserline.com/ja-int/laser-additive-manufacturing/",
+    "https://www.precitec.com/jp/laser-welding/applications/3d-printing/",
+    "https://metoree.com/categories/5523/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "https://www.aichi-sangyo.co.jp/technique/sol_additive_manufact/3D_printer_trend_report_2017.html",
+    "https://hdc3d.com/ja/meltio/",
+    "https://ts-skin.clinic/レーザー治療",
+    "https://ts-skin.clinic/レーザー脱毛"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー 代理店 日本",
+   "results": [
+    "https://metoree.com/categories/5523/",
+    "https://www.3dpc.co.jp/products/meltio-robot-cell",
+    "https://www.laserline.com/ja-int/laser-additive-manufacturing/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "https://www.precitec.com/jp/laser-welding/applications/3d-printing/",
+    "https://jampt.jp/column/column_453/",
+    "https://jsam.or.jp/member/support/",
+    "https://kikaicatalog.com/column/meltio-m600-blue-laser/",
+    "https://ts-skin.clinic/レーザー治療"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー 規制 保管 危険物",
+   "results": [
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "https://www.laserline.com/ja-int/laser-additive-manufacturing/",
+    "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11200000-Roudoukijunkyoku/0000184700.pdf",
+    "https://www.machinist.co.jp/2023/11/19324/",
+    "https://www.laserax.com/ja/blog/laser-safety-laser-classes-explained",
+    "https://skhonpo.com/blogs/faq/resin-printer-fire-law",
+    "https://www.fdma.go.jp/laws/kokuji/post34/",
+    "https://www.japanlaser.co.jp/column/%E3%80%90%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%A3%BD%E5%93%81%E3%81%AE%E5%AE%89%E5%85%A8%E5%9F%BA%E6%BA%96%E3%80%91%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E5%88%86/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー 純正 指定材料 互換",
+   "results": [
+    "https://www.precitec.com/jp/laser-welding/applications/3d-printing/",
+    "https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html",
+    "https://www.jaxa.jp/press/2024/06/20240613-1_j.html",
+    "https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process",
+    "https://www.jeol.co.jp/column/detail003.html",
+    "https://www.laserline.com/ja-int/laser-additive-manufacturing/",
+    "https://trend-3d.com/basic/999/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/",
+    "https://ts-skin.clinic/レーザー治療",
+    "https://ts-skin.clinic/レーザー脱毛"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock market size CAGR",
+   "results": [
+    "https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10004454/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-additive-manufacturing-equipment-market-report",
+    "https://www.linkedin.com/pulse/global-united-states-metal-additive-manufacturing-slqlf",
+    "https://en.m.wikipedia.org/wiki/Wire_(software)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock price per kg",
+   "results": [
+    "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://additivemanufacturing.com/2015/10/14/electron-beam-additive-manufacturing-ebam-advantages-of-wire-am-vs-powder-am/",
+    "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "https://www.sciencedirect.com/science/article/pii/S0927796X26000987",
+    "https://www.metal-am.com/articles/wire-electron-beam-directed-energy-deposition-ded-advancing-productivity-and-sustainability-in-metal-am/",
+    "https://www.academia.edu/36404463/WIRE_BASED_ELECTRON_BEAM_ADDITIVE_MANUFACTURING",
+    "https://famaero.com/our-technology",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10004454/",
+    "https://en.m.wikipedia.org/wiki/Wire_(software)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock key players",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S026343682200141X",
+    "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "https://www.metal-am.com/articles/wire-based-directed-energy-deposition-in-large-scale-metal-additive-manufacturing-choosing-the-right-process/",
+    "https://eureka.patsnap.com/report-comparison-of-electron-beam-vs-wire-feedstock-methods",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7435555/",
+    "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "https://www.metalformingmagazine.com/article/?/directed-energy-systems/wire-fed/wire-directed-energy-deposition-technology",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://www.twi-global.com/what-we-do/research-and-technology/technologies/welding-joining-and-cutting/electron-beam-technology/electron-beam-additive-manufacturing",
+    "https://en.m.wikipedia.org/wiki/Wire_(software)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock distributor Japan",
+   "results": [
+    "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10004454/",
+    "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://ntrs.nasa.gov/api/citations/20210017497/downloads/JASON%20EB%20wire%20presentation%20-%20Taminger%20June21_rev.pdf",
+    "https://www.metalformingmagazine.com/article/?/directed-energy-systems/wire-fed/wire-directed-energy-deposition-technology",
+    "https://www.twi-global.com/what-we-do/research-and-technology/technologies/welding-joining-and-cutting/electron-beam-technology/electron-beam-additive-manufacturing",
+    "https://onlinelibrary.wiley.com/doi/10.1155/2019/3979471",
+    "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "https://en.m.wikipedia.org/wiki/Wire_(software)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock safety storage regulation",
+   "results": [
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "https://www.metal-am.com/articles/wire-based-directed-energy-deposition-in-large-scale-metal-additive-manufacturing-choosing-the-right-process/",
+    "https://link.springer.com/article/10.1007/s11665-022-06994-z",
+    "https://www.nrc.gov/docs/ML2129/ML21292A187.pdf",
+    "https://ntrs.nasa.gov/api/citations/20210017497/downloads/JASON%20EB%20wire%20presentation%20-%20Taminger%20June21_rev.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10004454/",
+    "https://www.twi-global.com/what-we-do/research-and-technology/technologies/welding-joining-and-cutting/electron-beam-technology/electron-beam-additive-manufacturing",
+    "https://en.m.wikipedia.org/wiki/Wire_(software)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock closed system open material third-party",
+   "results": [
+    "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "https://meltio3d.com/technology/wire-laser-ded/",
+    "https://www.sciencedirect.com/science/article/pii/S026343682200141X",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10004454/",
+    "https://www.metal-am.com/articles/wire-electron-beam-directed-energy-deposition-ded-advancing-productivity-and-sustainability-in-metal-am/",
+    "https://www.pro-beam.com/en/additive-manufacturing/wireprocess/",
+    "https://www.twi-global.com/what-we-do/research-and-technology/technologies/welding-joining-and-cutting/electron-beam-technology/electron-beam-additive-manufacturing",
+    "https://en.wikipedia.org/wiki/Electron-beam_additive_manufacturing",
+    "https://www.engineering.com/which-vendors-make-electron-beam-additive-manufacturing-systems/",
+    "https://en.m.wikipedia.org/wiki/Wire_(software)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock commodity price competition",
+   "results": [
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "http://www.sciaky.com/additive-manufacturing/wire-vs-powder",
+    "https://www.sciencedirect.com/science/article/pii/S0927796X26000987",
+    "https://www.metal-am.com/articles/wire-electron-beam-directed-energy-deposition-ded-advancing-productivity-and-sustainability-in-metal-am/",
+    "https://dataintelo.com/report/wire-arc-additive-manufacturing-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10004454/",
+    "https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/",
+    "https://www.youtube.com/watch?v=CvoXoFVAg-U",
+    "https://ntrs.nasa.gov/api/citations/20080013538/downloads/20080013538.pdf",
+    "https://en.m.wikipedia.org/wiki/Wire_(software)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock technical support parameters",
+   "results": [
+    "https://www.sciaky.com/additive-manufacturing/electron-beam-additive-manufacturing-technology?view=category&id=8",
+    "https://www.sciencedirect.com/science/article/pii/S026343682200141X",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7435555/",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2025.2587790",
+    "https://additivemanufacturing.com/2015/10/14/electron-beam-additive-manufacturing-ebam-advantages-of-wire-am-vs-powder-am/",
+    "https://www.pro-beam.com/en/additive-manufacturing/wireprocess/",
+    "https://www.twi-global.com/what-we-do/research-and-technology/technologies/welding-joining-and-cutting/electron-beam-technology/electron-beam-additive-manufacturing",
+    "https://www.academia.edu/36404463/WIRE_BASED_ELECTRON_BEAM_ADDITIVE_MANUFACTURING",
+    "https://www.metal-am.com/articles/wire-electron-beam-directed-energy-deposition-ded-advancing-productivity-and-sustainability-in-metal-am/",
+    "https://ntrs.nasa.gov/api/citations/20080013538/downloads/20080013538.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com レーザー・電子ビームのワイヤー積層用ワイヤー",
+   "results": [
+    "https://note.com/good_dill292/n/n66656c597063",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/mar810/n/n2fb28a04b6f3",
+    "https://note.com/fujimotosangyo/n/n19d8eb70fca7",
+    "https://note.com/taise_blog/n/nf5b60345d06e",
+    "https://note.com/hmjrd/n/n629f01c61897",
+    "https://note.com/1p_semicon/n/n39c5b5d6ba11",
+    "https://note.com/atom_/n/n36ef5262373a",
+    "https://note.com/good_dill292/n/nee8a8fb8e7b9",
+    "https://note.com/tatsuya_sabato/n/ndfcdcf8ae23f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com レーザー・電子ビームのワイヤー積層用ワイヤー",
+   "results": [
+    "https://ts-skin.clinic/レーザー治療",
+    "https://ts-skin.clinic/レーザー脱毛",
+    "https://ts-skin.clinic/レーザー美容",
+    "https://ts-skin.clinic/ジェントルマックスプロプラス",
+    "https://ts-skin.clinic/料金表",
+    "https://ts-skin.clinic/",
+    "https://ts-skin.clinic/医療脱毛"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com レーザー・電子ビームのワイヤー積層用ワイヤー",
+   "results": [
+    "https://ts-skin.clinic/レーザー治療",
+    "https://ts-skin.clinic/レーザー脱毛",
+    "https://ts-skin.clinic/レーザー美容",
+    "https://ts-skin.clinic/ジェントルマックスプロプラス",
+    "https://ts-skin.clinic/料金表",
+    "https://ts-skin.clinic/",
+    "https://ts-skin.clinic/医療脱毛"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com レーザー・電子ビームのワイヤー積層用ワイヤー",
+   "results": [
+    "https://ts-skin.clinic/レーザー治療",
+    "https://ts-skin.clinic/レーザー脱毛",
+    "https://ts-skin.clinic/レーザー美容",
+    "https://ts-skin.clinic/ジェントルマックスプロプラス",
+    "https://ts-skin.clinic/料金表",
+    "https://ts-skin.clinic/",
+    "https://ts-skin.clinic/医療脱毛"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "レーザー・電子ビームのワイヤー積層用ワイヤー X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "wire laser additive manufacturing electron beam wire feedstock site:linkedin.com",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {}
+}

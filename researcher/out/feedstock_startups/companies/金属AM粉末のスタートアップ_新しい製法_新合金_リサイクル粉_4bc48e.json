@@ -1,0 +1,1595 @@
+{
+ "name": "金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉）",
+ "en": "metal additive manufacturing powder startup",
+ "aliases": [
+  "Metallpulver Start-up additive Fertigung",
+  "poudre métallique fabrication additive start-up",
+  "金属3D打印粉末 初创",
+  "금속 3D프린팅 분말 스타트업"
+ ],
+ "context": "粉末",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:09:59.001499+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": "After several years in focus as the breakthrough industry waiting to break through, metal additive manufacturing commanded center stage in 2023 as the billions invested in the development of additive manufacturing technology and in 3D printing startup ventures began to yield substantial results.",
+    "url": "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", BMW, and GKN Powder Metallurgy, we’re also still a key partner to startups and other growing small manufacturers. Our",
+    "url": "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "startup, have spent years studying the delicate process of turning powdered metal into customized parts using layers and layers of laser-melted material. To create defect-free parts for aerospace, biomedical, and automotive industries, this printing process requires metal powder to spread easily and evenly.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "I-Corps™ was critical in the entrepreneurial process. The program provided the team early entrepreneurship education, including processes, terms, and practices to take innovation to the marketplace. It also offered additional training on how to interview customers, gather data, and analyze feedback when exploring marketing venues. In summer 2025,",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest challenge Escaño notes from his startup journey has been shifting from a research-oriented mindset to a commercial one. “The skillset and mentality required to bring technology into market are very different from those required at a laboratory. The ability to create a network and pull individuals to believe in your vision is an art in itself,” he said.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM raises 1.3 million € to boost the production of high-performance metal powders for 3D printing - Startup Luxembourg",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "It's a real pleasure to see AM 4 AM continuing to grow and succeed from Luxembourg! After taking part in Fit 4 Start in 2022, the company continued its successful development from the Technoport in Foetz. Now, by leveraging the Young Innovative Enterprise scheme, AM 4 AM is set to expand and scale its operations internationally.” Sven Baltes, Manager of start-up relations at Luxinnovation",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas Sauvage, Managing Director of TDK Ventures, outlined our mission to invest in materials science startups as a means to unlocking a sustainable future and positive venture capital returns. We recently invested in Fabric8Labs, a materials science start-up focusing on metal 3D printing, so today I’ll discuss the why.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Second, we look for the right fit into TDK’s long-term strategic plan to ensure we can bring tangible value to the startup beyond the capital we invest — we call this",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Third, we establish that such a start-up brings positive impact to the world using the United Nations’",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": ". If the start-up satisfies all three criteria we invest, otherwise we don’t.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "We were attracted by the new technologies and market opportunity in the metal 3D printing industry because this industry is growing rapidly. Understanding the true costs in metal 3D printing was a fundamental factor in determining which startups are candidates for best in class and our investment criteria, in the explosive markets of our interest.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "start-up in an explosive market with high strategic value, and shares an aligned mission and values focused on sustainability and how we can collectively decrease our environmental footprint.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Fabric8Labs is initially targeting the rapidly growing copper market by developing copper 3D printing in cooling applications for semiconductors, chip-scale fabrication and radio frequency 5G components. The company is also sampling other metals, including nickel, aluminum, and other alloys, which creates opportunities across multiple industries, from automotive to medical industries.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Open-Source Mothership Startup Engagements Tracker",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "EntroMat is a pioneering deep-tech startup transforming the metal powder industry through the advancement of High Entropy Material (HEM) powders. Our proprietary technology delivers sustainable, high-performance HEM powders tailored for additive manufacturing, surface-engineered coatings or powder metallurgy component.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups | Additive Manufacturing",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMaker partners with Singapore-based MedTech startup Bioactivx under a new MOU to co-develop a scalable, on-demand medical printing solution for regenerative wound care, as Bioactivx earns HSA approval for its Bioactiv Matrix — manufactured on UltiMaker systems.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "IMTS – The International Manufacturing Technology Show offers a snapshot of additive manufacturing in the context of the broader manufacturing landscape. This year, exhibitors highlighted part production services, advances in machine setup and postprocessing, robot-enabled flexibility, their own supply chains and the one application on everyone’s mind: drones.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "MIT Spinout Atlas Turns Single-Use Plastics Into Resilient Building Materials",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Composite LFAM Startup Perseus Materials Closes Strategic Lockheed Martin Investment",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Funding propels the 2025 JEC Startup Booster winner closer to industrial-scale composites 3D printing in defense and marine. More than incremental: “We’re not interested in making marginal improvements to 3D printing,” says CEO Daniel Lee.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The Michigan startup is leveraging 3D printing support through Project DIAMOnD to produce charging stations for e-bikes, e-scooters and more.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "VIEW ALL Startups Articles",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The Netherlands-based startup has developed a technique for smoothing parts during fused filament fabrication, resulting in low porosity and surface finish comparable to injection molding.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "United Performance Metals (UPM), an O’Neal Industries affiliate company, has acquired Fabrisonic LLC, a small tech startup focused on new ways of making materials through its patented process.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Services like welding and CNC machining have made the North Dakota company a go-to resource for custom engineered solutions, but additive manufacturing is where this startup aims to grow.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Ohio-Based Startup Rebrands as Vixiv",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The startup founded in 2018 has matured in its product offerings as well as its manufacturing equipment, moving from homegrown 3D printers to industrial large-format machines.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Targeting labs, startups, and education",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal-Base is positioning the Metal 1.0 as a production-grade system suitable for engineering labs, startups, and educational environments. The machine is described as featuring a fully enclosed build chamber with safety interlocks and active monitoring, distinguishing it from open-frame metal printing systems.",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Industry Start-up of the Year",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "award winning 3D printing startup Desktop Metal",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Elements receives start-up award and launches AE12 binder jetting material system",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "Icelandic startup opens up access to powder bed image data with browser-based monitoring tool",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Euler, an Icelandic software startup focused on AI-driven defect detection in 3D printing",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Schaeffler acquires Belgian startup Aerosint from Desktop Metal",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal.md",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "is strengthening its know-how in additive manufacturing technologies with the acquisition of Belgian startup",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "3D4MEC, The Italian Startup Focusing on Steel and Brass",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "#3DStartup: One Click Metal Wants to Make Metal Additive Manufacturing Accessible to All",
+    "url": "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "pass": 3
+   },
+   {
+    "quote": "We first met German startup One Click Metal at",
+    "url": "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "pass": 3
+   },
+   {
+    "quote": "Go to our website, we provide a lot of information about metal 3D printing, including topics like powder disposal or heat management that are often left out but are hugely important. Have a look around and if you have any questions or comments, please contact us.",
+    "url": "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "pass": 3
+   },
+   {
+    "quote": "Due to rapid technological advancement, metal 3D printing has grown massively in recent years. Many innovative startups and suppliers have proposed new and increasingly affordable metal additive manufacturing processes, and more and more compatible materials.",
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D printing is popular in many industries, including the aerospace, automotive, and medical industries, allowing the printing of complex metal parts for a relatively low price when compared to traditional manufacturing processes.",
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": ". This method involves construction of metal parts through a CLAD laser. During the process, powder is projected by the nozzle, and fuses at the outlet through a laser beam to weld together. This method allows for printing directly onto a piece or part, unlike most other technologies. Companies such as BeAM, Sciaky, and Optomec use this technology.",
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Outside America there are also manufacturers such as Israeli company XJet, who use NanoParticle Jetting technology involving fine metal droplets to 3D print. Additionally, companies such as Pollen AM use 3D printing alongside subtractive technology to create metal 3D printed parts.",
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "pass": 3
+   }
+  ],
+  "資金調達・株主": [
+   {
+    "quote": "After several years in focus as the breakthrough industry waiting to break through, metal additive manufacturing commanded center stage in 2023 as the billions invested in the development of additive manufacturing technology and in 3D printing startup ventures began to yield substantial results.",
+    "url": "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", mentored Escaño and his team throughout the National Program. This 7-week intensive course awards increased funding and more detailed evaluation.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM, a rapidly expanding materials supplier specializing in metal powders for 3D printing, announced on October 22 the successful completion of a €1.3 million Seed funding round.",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "This financing was led by Luxembourg Space Sector Development, EIT Raw Materials, and further supported by the \"Young Innovative Enterprise\" initiative from the Ministry of Economy of Luxembourg. This significant investment will enable AM 4 AM to expand its facilities and enhance its production and product development capabilities.",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "With this funding, AM 4 AM is entering a new phase in its development. The future infrastructures we will put in place will allow us to enhance production capacity, broaden our product portfolio, and accelerate our innovation efforts.” Maxime Delmée, CEO of AM 4 AM",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": ", is one of the key contributors to AM 4 AM's latest funding round.",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "Why We Invested in Metal 3D Printing and Fabric8Labs | TDK Ventures",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas Sauvage, Managing Director of TDK Ventures, outlined our mission to invest in materials science startups as a means to unlocking a sustainable future and positive venture capital returns. We recently invested in Fabric8Labs, a materials science start-up focusing on metal 3D printing, so today I’ll discuss the why.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Ventures’ investment strategy for the metal 3D printing market",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "At TDK Ventures, we employ simplicity as the cornerstone of our investment criteria that has 3 simple steps:",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 2. TDK Ventures’ triple bottom line philosophy in a nutshell",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The SUMMSEED project, led by the Technical University of Catalonia - BarcelonaTech, is developing medium manganese steels for wire-based DED. Potential outcome: The project aims to create an alternative to Hadfield steels with reduced CO2 footprint.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Funding propels the 2025 JEC Startup Booster winner closer to industrial-scale composites 3D printing in defense and marine. More than incremental: “We’re not interested in making marginal improvements to 3D printing,” says CEO Daniel Lee.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Loudspeaker Enabled by Polymer 3D Printing: Pic of the Week",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The Metal 1.0 is currently in beta testing. Metal-Base plans to launch a public crowdfunding campaign on",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "Euler closed a €2 million ($2.35m) seed funding round last November.",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": ", for example, packs the core powder handling functions of the PowTReX into a compact, stand-alone unit that serves a single 3D printer.",
+    "url": "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "“The study provided new understandings of powder behavior, which led us to create and patent a novel method to test the powder’s usability and performance for metal 3D printing,” said Escaño.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "The biggest challenge Escaño notes from his startup journey has been shifting from a research-oriented mindset to a commercial one. “The skillset and mentality required to bring technology into market are very different from those required at a laboratory. The ability to create a network and pull individuals to believe in your vision is an art in itself,” he said.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM, a rapidly expanding materials supplier specializing in metal powders for 3D printing, announced on October 22 the successful completion of a €1.3 million Seed funding round.",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "He further highlighted the industry’s current challenges: “The 3D printing market is expanding rapidly, yet there remains a shortage of suitable metal materials. With HiperAL, our high-performance aluminum, we've demonstrated a groundbreaking ability to provide metals with the required properties, meeting the demands of this growing sector.”",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "And today, with the emergence of high-speed, high-capacity binder jetting systems, the industry stands on the precipice of a revolution — Additive Manufacturing 2.0 — that won’t just change how products and parts are made but could fundamentally alter the manufacturing landscape.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "We were attracted by the new technologies and market opportunity in the metal 3D printing industry because this industry is growing rapidly. Understanding the true costs in metal 3D printing was a fundamental factor in determining which startups are candidates for best in class and our investment criteria, in the explosive markets of our interest.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Fabric8Labs is initially targeting the rapidly growing copper market by developing copper 3D printing in cooling applications for semiconductors, chip-scale fabrication and radio frequency 5G components. The company is also sampling other metals, including nickel, aluminum, and other alloys, which creates opportunities across multiple industries, from automotive to medical industries.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Ervin is always close to the customer. Providing the best standard, we also want to guarantee you find your optimal product for your individual needs. There’s always more than one way to look at an abrasive application, and we’re here to help you find your ideal steel or stainless steel abrasive.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Shenzhen, China, YANMI with more than 20 years of professional and technical personnel, YANMI are a prototyping company and rapid manufacturer specializing in rapid prototyping and low-volume manufacturing of plastic and metal parts, providing a one-stop-shop from prototype to production.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "ASTRO, the Applied Science & Technology Research Organization of America, is executing a Cooperative Research and Development Agreement with Northrop Grumman, Florida State University InSPIRE and the Air Force Research Laboratory to reduce costs and production timelines for subsonic munitions under the Design for Affordable and Rapid Throughput initiative.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "CONTRAX Grand Rapids 2026 Registration is Now Open",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "NIST Reference Material Promotes Standardization in Photopolymer 3D Printing",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The National Institute of Standards and Technology introduces Reference Material 8047, a standardized photoactive resin developed with the Photopolymer Additive Manufacturing Alliance to improve measurement consistency and reproducibility in photopolymer additive manufacturing.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext 2026",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "As hub for Additive Manufacturing, Formnext is central information platform for industrial 3D Printing experts and production professionals from a wide range of application industries. With the trade show in Frankfurt, up-to-date industry information and networking opportunities 365 days a year, we bundle expertise, create in-depth professional exchange and access to the latest AM solutions.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Can an aluminum DED pressure vessel withstand conditions up to and beyond those it was designed to handle? And how far could it be pushed? In this video, we collaborate with Big Metal Additive and Stress Engineering to discover the answers.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Plugging a hole is a complex challenge when it’s a well for geothermal power. Additive manufacturing produces a shape-changing stainless steel seal for high-temperature applications deep underground.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "The company states that the blue laser wavelength is absorbed more efficiently by metals than conventional infrared lasers, allowing full melting at lower power levels while simplifying optics and power requirements. This design enables the printer to operate from a standard wall outlet, with total power consumption below 800 W.",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "The stated standard build volume is 128 x 100 mm, with an expandable Z-axis up to 150 mm. An optional integration with a nitrogen generator is intended to remove the need for external industrial gas bottles.",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "RAPID + TCT 2025",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": ", a phenomenon linked to defects and surface quality that remains a challenge for both compact and industrial-scale systems.",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": ". The material is used across all metal manufacturing industries, with unmatched factors in fabrication, strength-to-weight ratio and biocompatibility. It is also capable of withstanding temperatures up to almost 800°C.",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "In powder form, managing the oxygen content of a metal alloy is one of the key challenges to its 3D printability. If a metal powder is exposed to too much oxygen, the material becomes contaminated, and unsuitable for re-use.",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "As a high value market rapidly adopting additive manufacturing technologies, aerospace is a key area of focus for materials production at Carpenter Technology. As stated by Carpenter CEO Tony R. Thene,",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "with its Rapid Additive Forging (RAF) process.",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": ", has released Euler Viewer, a free real-time build viewer for metal additive manufacturing operators, which the company is unveiling at this week’s RAPID + TCT 2026.",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "StandardFlow launches AI platform for AM standards qualification",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG selects High Speed Sintering inventor Neil Hopkinson for Innovators Award",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its PolyCore hardware partner network",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "at Formnext 2024. Eplus3D also worked with",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "ZRapid’s iSLM Range Is Taking the World by Storm",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of ZRapid’s solutions in a factory (photo credits: ZRapid)",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Photo Credits: Rapidia",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "EBM (Electron Beam Melting) 3D metal printing technology is very similar to the laser bed fusion process. One of the main differences is the heat source used: here, an electron beam is used to melt the metal powder, layer by layer. This process is only compatible with conductive metals and will enable the rapid design of dense parts. We invite you to consult our dedicated article",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext 2019",
+    "url": "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "pass": 3
+   },
+   {
+    "quote": "In the future, we will focus more on entering new industries and adapting our product solutions to the requirements without losing sight of our development guideline. We will also continue to align our products and features with customer needs and constantly optimise them to get closer to our vision: Making technology understandable for everyone and available with one click.",
+    "url": "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "pass": 3
+   },
+   {
+    "quote": "Due to rapid technological advancement, metal 3D printing has grown massively in recent years. Many innovative startups and suppliers have proposed new and increasingly affordable metal additive manufacturing processes, and more and more compatible materials.",
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Precious metal are mainly used in jewelry. Despite its high cost, gold, silver, and bronze are all used with 3D printing to create complex pieces of jewelry. The main challenges within this however is in the finish.",
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Germany 59%, United States (USA) 31%, Japan 5%, Other 5%",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Based in Japan, the metal 3D printer manufacturer was founded in 1935 and currently employs 300 people worldwide. It markets hybrid 3D printers that combine CNC milling and subtractive manufacturing processes with additive manufacturing such as powder bed fusion. The company sells two models, the LUMEX Avance-25 and the LUMEX Avance-60.",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi makes a laser wire metal DED system called the AZ600. Available in Japan and soon around the globe. bit.ly/435GUwG",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "$575.0M, August 2021",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "$15.3M, May 2020",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "$6.0M, November 2015",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "$3.5M, September 2024",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "$3.0M, August 2023",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "13. Seurat Technologies",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Series C, $99.0M, October 2023",
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "pass": 3
+   },
+   {
+    "quote": "How 3D Powder Tech is Revolutionizing Metal Manufacturing – Technology Entrepreneurship Office – UW–Madison",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "College of Engineering Early Entrepreneur in Residence postdoc Dr. Luis Izet Escaño Vólquez and Mechanical Engineering professor Dr.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "I-Corps™ was critical in the entrepreneurial process. The program provided the team early entrepreneurship education, including processes, terms, and practices to take innovation to the marketplace. It also offered additional training on how to interview customers, gather data, and analyze feedback when exploring marketing venues. In summer 2025,",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "“I-Corps greatly helped us to organize and establish a better approach in our business. It is a highly recommended experience for those seeking to be entrepreneurs and to acquire the proper skillset and mentality to be successful,” said Escaño.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM raises 1.3 million € to boost the production of high-performance metal powders for 3D printing - Startup Luxembourg",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM raises 1.3 million € to boost the production of high-performance metal powders for 3D printing",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "AM 4 AM, a rapidly expanding materials supplier specializing in metal powders for 3D printing, announced on October 22 the successful completion of a €1.3 million Seed funding round.",
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "pass": 3
+   },
+   {
+    "quote": "predicts company adoption of additive manufacturing for end-use parts increasing from 5% in 2016 to 46% by 2022, with an increase in compound annual growth rate (CAGR) from $12 billion to $146 billion from 2019 to 2030.",
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Uptive Manufacturing has its roots in AM’s Wild West entrepreneurial past, but today it helps customers of all sizes use the technology as a strategic manufacturing option.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Metal-Base pre-launches sub-€10,000 LPBF metal 3D printer on Kickstarter - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal-Base pre-launches sub-€10,000 LPBF metal 3D printer on Kickstarter",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": ", a compact Laser Powder Bed Fusion (LPBF) metal 3D printer priced below €10,000. The system is scheduled to launch via Kickstarter in Q1 2026 and is positioned to lower the barrier to entry for industrial metal additive manufacturing.",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "To achieve its targeted price point, Metal-Base says it has redesigned the core LPBF architecture. Instead of using the fiber lasers and galvanometer scanning systems common in industrial machines, the Metal 1.0 employs an XY gantry motion system similar to high-end FDM printers. The system is powered by a 60 W, 445 nm blue diode laser.",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "in Q1 2026, with Super Early Bird pricing expected to start at approximately €8,500.",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "CARTECH PURIS 5+ is the first material to be produced since Carpenter Technology’s acquisition of Puris LLC. In March 2017 the powder specialist was bought by Carpenter for a total sum of $35 million, marking the company’s entrance into the titanium materials market.",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "Louisiana Board of Regents awards $150k to FDM 3D printer material research",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "Euler closed a €2 million ($2.35m) seed funding round last November.",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "by offering a printing solution that is easier to use, a powder system that is less complex to handle, all at a more affordable price. Its",
+    "url": "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D printing is popular in many industries, including the aerospace, automotive, and medical industries, allowing the printing of complex metal parts for a relatively low price when compared to traditional manufacturing processes.",
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "Analysis of alluminum alloy (AlSi10Mg) powder using 3D Powder Tech’s qualification system. Photo by Escaño.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Once their device prototype was up and running, the team realized its many applications in commercial or real-world processes: incorporating novel materials in the production lines, accelerating production through quicker material testing and qualification, increasing printing success rate across 3D metal manufacturing, and enhancing powder recycling.",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "I-Corps™ was critical in the entrepreneurial process. The program provided the team early entrepreneurship education, including processes, terms, and practices to take innovation to the marketplace. It also offered additional training on how to interview customers, gather data, and analyze feedback when exploring marketing venues. In summer 2025,",
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Supports America Makes Delta Qual 2.0 to Advance Metal Additive Manufacturing Qualification",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Qualification/Certification",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Training & Consultancy for Additive Manufacturing",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Northrop Grumman, Phase3D Collaborating on Part Real-Time Qualification",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   },
+   {
+    "quote": "StandardFlow launches AI platform for AM standards qualification",
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "pass": 3
+   }
+  ],
+  "創業年": [
+   {
+    "quote": "Since 2008 we have been driven to impact the future of metal powder technology",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Our company specializes in fabrication and exporting high-purity metals to Global Market since 2019. We have direct partnerships with leading production plants in Russia and interested in establishing longterm cooperation with reliable distributors in Asian region.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Shenzhen, China, YANMI with more than 20 years of professional and technical personnel, YANMI are a prototyping company and rapid manufacturer specializing in rapid prototyping and low-volume manufacturing of plastic and metal parts, providing a one-stop-shop from prototype to production.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup founded in 2018 has matured in its product offerings as well as its manufacturing equipment, moving from homegrown 3D printers to industrial large-format machines.",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "pass": 3
+   },
+   {
+    "quote": "Based in Japan, the metal 3D printer manufacturer was founded in 1935 and currently employs 300 people worldwide. It markets hybrid 3D printers that combine CNC milling and subtractive manufacturing processes with additive manufacturing such as powder bed fusion. The company sells two models, the LUMEX Avance-25 and the LUMEX Avance-60.",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you sure Sciaky is the oldest company on the list you say they were founded in 1939 but not when in 1939, if it’s after 1st of January 1939 they are the second oldest company on the list behind HP.",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "pass": 3
+   }
+  ],
+  "年商・規模": [
+   {
+    "quote": "SCHLENK employs about 900 members of staff worldwide and acts as a leading international manufacturer of metal powders, pigments and foils.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "pass": 3
+   }
+  ],
+  "代理店募集・売り方": [
+   {
+    "quote": "Our company specializes in fabrication and exporting high-purity metals to Global Market since 2019. We have direct partnerships with leading production plants in Russia and interested in establishing longterm cooperation with reliable distributors in Asian region.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "ARCWAY is a global distributor and technology partner in the field of Additive Manufacturing, specializing in advanced 3D printing solutions and metal powder atomization.",
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "創業年": [
+   {
+    "value": "2018",
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "quote": "The startup founded in 2018 has matured in its product offerings as well as its manufacturing equipment, moving from homegrown 3D printers to industrial large-format machines."
+   },
+   {
+    "value": "1935",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "quote": "Based in Japan, the metal 3D printer manufacturer was founded in 1935 and currently employs 300 people worldwide. It markets hybrid 3D printers that combine CNC milling and subtractive manufacturing processes with additive manufacturing such as powder bed fusion. The company sells two models, the LU"
+   },
+   {
+    "value": "1939",
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "quote": "Are you sure Sciaky is the oldest company on the list you say they were founded in 1939 but not when in 1939, if it’s after 1st of January 1939 they are the second oldest company on the list behind HP."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.colibriumadditive.com/news/powder-productivity-apcs-role-scaling-metal-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/what-is-metal-additive-manufacturing--15240?srsltid=AYCX9vKUoFvVyNcRoPHQTtcMACFVaUxXuHeliYnt2Os600Czdl3Om8GB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S2213846322000104",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lindeus.com/industries/manufacturing-and-materials-processing/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adem.202300375",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazemet.com/metal-powders-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nist.gov/additive-manufacturing/work-us-0/consortia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tdk-ventures.com/news/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctmagazine.com/metal-3d-printing-powders-supplier-am-4-am-completes-1-3-million-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ventureradar.com/funding/industrial%20metal%20parts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.metal-am.com/euler-raises-e2m-to-scale-ai-monitoring-of-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astroalloys.com/additive-manufacturing-powders.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carpenteradditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/post/metal-additive-manufacturing-5-questions-to-ask-a-potential-metal-powder-supplier",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eplus3d.com/products/MetalPowder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/the-evolving-metal-powder-marketplace-total-solutions-vertical-integrations-and-start-up-innovations/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/PhillipsCorporation/posts/formnext-2026-is-almost-here-and-mx3d-is-heading-to-frankfurtfrom-november-1720-/1761808585954498/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.polyformnext.de/additive-manufacturing/industrial-3d-printing-formnext-2026-showcases-growth-markets-and-scalable-business-models.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/topics/startups",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trumpf.com/en_CA/newsroom/global-press-releases/press-release-detail-page/release/formnext-trumpf-enables-additive-manufacturing-with-new-metals/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/expanding-the-foundations-for-the-next-decade-of-am-growth-at-formnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/toyota-sun-metalon-recycle-230620/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/a-step-by-step-guide-to-using-metal-powder-for-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda-kyoto.co.jp/technology/research/additive-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinto.co.jp/promotion/metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://events.malvernpanalytical.com/AM_Hyogo2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/powder-removal-in-powder-bed-based-metal-3d-printing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/introduction-to-metal-additive-manufacturing-and-3d-printing/metal-3d-printing-additive-manufacturing-processes/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/metal-base-unveils-low-cost-metal-1-0-am-machine-ahead-of-kickstarter-launch/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/understanding-metal-powder-requirements-for-additive-manufacturing-views-from-the-industry/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/introduction-to-metal-additive-manufacturing-and-3d-printing/metal-powders-metal-3d-printing-material/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/component-design-for-cost-efficient-metal-3d-printing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/6k-additive-launches-new-refractory-metal-powders-for-additive-manufacturing-196024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/ato-one-launch-worlds-first-office-friendly-metal-powder-atomizer-122850/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/microgravity-research-targets-defects-in-metal-additive-manufacturing-255110/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/sandvik-and-renishaw-to-qualify-new-metal-powders-for-laser-powder-bed-fusion-3d-printing-165306/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/a-growing-metal-am-portfolio-at-eos/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/amazemet-launches-atomization-service-for-rd-users/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nanosteel-launch-bldrmetal-l-40-newest-3d-printed-tool-steel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/support-less-metal-additive-manufacturing-260220204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/the-future-metal-additive-manufacturing-080620224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d-printing-jobs/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "metal additive manufacturing powder startup",
+   "results": [
+    "https://www.colibriumadditive.com/news/powder-productivity-apcs-role-scaling-metal-3d-printing",
+    "https://www.renishaw.com/en/what-is-metal-additive-manufacturing--15240?srsltid=AYCX9vKUoFvVyNcRoPHQTtcMACFVaUxXuHeliYnt2Os600Czdl3Om8GB",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2213846322000104",
+    "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/",
+    "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/",
+    "https://www.lindeus.com/industries/manufacturing-and-materials-processing/additive-manufacturing",
+    "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "https://boundlessimpact.net/reports/fabric8labs",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.tomshardware.com/3d-printing/new-metal-3d-printer-shrinks-industrial-tech-down-to-workbench-size-with-laser-powder-bed-fusion-system-aims-to-bring-laser-metal-printing-to-workshops-and-labs-for-usd9-600"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal additive manufacturing powder startup founded 2021 OR 2022 OR 2023 OR 2024",
+   "results": [
+    "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2213846322000104",
+    "https://www.colibriumadditive.com/news/powder-productivity-apcs-role-scaling-metal-3d-printing",
+    "https://www.youtube.com/watch?v=S-z_Pcd86Rc",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.inven.ai/company-lists/top-21-metal-additive-manufacturing-companies",
+    "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adem.202300375",
+    "https://www.amazemet.com/metal-powders-for-additive-manufacturing/",
+    "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "metal additive manufacturing powder startup raises seed Series A",
+   "results": [
+    "https://startupluxembourg.com/news/am-4-am-raises-1-3-million-%E2%82%AC-to-boost-the-production-of-high-performance-metal-powders-for-3d-printi",
+    "https://tdk-ventures.com/insights/why-we-invested-in-metal-3d-printing-and-fabric8labs/",
+    "https://www.tctmagazine.com/metal-3d-printing-powders-supplier-am-4-am-completes-1-3-million-funding/",
+    "https://www.instagram.com/p/DedzKX9l8UJ/",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.hoganas.com/en/powder-technologies/additive-manufacturing-metal-powders/",
+    "https://www.ventureradar.com/funding/industrial%20metal%20parts",
+    "https://www.metal-am.com/euler-raises-e2m-to-scale-ai-monitoring-of-additive-manufacturing/",
+    "https://www.additivemanufacturing.media/topics/startups",
+    "https://www.citybiz.co/article/925630/american-advanced-materials-raises-12-5m-seed-round-led-by-amity-ventures/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal additive manufacturing powder startup distributor reseller program",
+   "results": [
+    "https://www.astroalloys.com/additive-manufacturing-powders.html",
+    "https://www.volkmannusa.com/volkmann-expands-additive-manufacturing-equipment-line-supports-scale-up-in-3d-printing/",
+    "https://www.carpenteradditive.com/",
+    "https://www.amfg.ai/post/metal-additive-manufacturing-5-questions-to-ask-a-potential-metal-powder-supplier",
+    "https://www.youtube.com/watch?v=IXEC7ndHpKM",
+    "https://www.eplus3d.com/products/MetalPowder/",
+    "https://www.metal-am.com/articles/the-evolving-metal-powder-marketplace-total-solutions-vertical-integrations-and-start-up-innovations/",
+    "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "https://micronmetals.com/industries/3d-printing/",
+    "https://mx3d.com/become-a-reseller/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal additive manufacturing powder startup Formnext Start-up Area",
+   "results": [
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.facebook.com/PhillipsCorporation/posts/formnext-2026-is-almost-here-and-mx3d-is-heading-to-frankfurtfrom-november-1720-/1761808585954498/",
+    "https://www.polyformnext.de/additive-manufacturing/industrial-3d-printing-formnext-2026-showcases-growth-markets-and-scalable-business-models.htm",
+    "https://www.youtube.com/watch?v=S-z_Pcd86Rc",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.additivemanufacturing.media/topics/startups",
+    "https://www.trumpf.com/en_CA/newsroom/global-press-releases/press-release-detail-page/release/formnext-trumpf-enables-additive-manufacturing-with-new-metals/",
+    "https://www.voxelmatters.com/expanding-the-foundations-for-the-next-decade-of-am-growth-at-formnext/",
+    "https://www.linkedin.com/posts/metalpowdertechnology_additivemanufacturing-3dprinting-aerospace-activity-7506004040502325248-b1XM",
+    "https://www.3dnatives.com/en/formnext-awards-2026-06112026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉） スタートアップ",
+   "results": [
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/toyota-sun-metalon-recycle-230620/",
+    "https://am-printing.com/ja/a-step-by-step-guide-to-using-metal-powder-for-3d-printing/",
+    "https://www.fukuda-kyoto.co.jp/technology/research/additive-manufacturing.html",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://events.malvernpanalytical.com/AM_Hyogo2025",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02259/013100012/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:metal-am.com metal additive manufacturing powder startup",
+   "results": [
+    "https://www.metal-am.com/articles/the-evolving-metal-powder-marketplace-total-solutions-vertical-integrations-and-start-up-innovations/",
+    "https://www.metal-am.com/articles/powder-removal-in-powder-bed-based-metal-3d-printing/",
+    "https://www.metal-am.com/introduction-to-metal-additive-manufacturing-and-3d-printing/metal-3d-printing-additive-manufacturing-processes/",
+    "https://www.metal-am.com/metal-base-unveils-low-cost-metal-1-0-am-machine-ahead-of-kickstarter-launch/",
+    "https://www.metal-am.com/articles/understanding-metal-powder-requirements-for-additive-manufacturing-views-from-the-industry/",
+    "https://www.metal-am.com/introduction-to-metal-additive-manufacturing-and-3d-printing/metal-powders-metal-3d-printing-material/",
+    "https://www.metal-am.com/articles/component-design-for-cost-efficient-metal-3d-printing/",
+    "https://www.metal-am.com/articles/investing-in-metal-3d-printing-costs-and-considerations/",
+    "https://www.metal-am.com/blt-breaks-ground-on-additive-manufacturing-powder-production-factories/",
+    "https://www.metal-am.com/articles/what-does-a-decades-old-metal-powder-titan-bring-to-additive-manufacturing-in-conversation-with-hoganas-ab/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:3dprintingindustry.com metal additive manufacturing powder startup",
+   "results": [
+    "https://3dprintingindustry.com/news/6k-additive-launches-new-refractory-metal-powders-for-additive-manufacturing-196024/",
+    "https://3dprintingindustry.com/news/ato-one-launch-worlds-first-office-friendly-metal-powder-atomizer-122850/",
+    "https://3dprintingindustry.com/news/microgravity-research-targets-defects-in-metal-additive-manufacturing-255110/",
+    "https://3dprintingindustry.com/news/metal-base-pre-launches-sub-e10000-lpbf-metal-3d-printer-on-kickstarter-248083/",
+    "https://3dprintingindustry.com/news/carpenter-technology-begins-production-3d-printing-industry-first-titanium-powder-116505/",
+    "https://3dprintingindustry.com/news/sandvik-and-renishaw-to-qualify-new-metal-powders-for-laser-powder-bed-fusion-3d-printing-165306/",
+    "https://3dprintingindustry.com/news/am-4-am-to-scale-metal-powder-production-with-e1-3m-in-new-funding-233824",
+    "https://3dprintingindustry.com/news/continuum-powders-opens-new-platform-to-specialty-alloy-and-small-batch-customers-252180/",
+    "https://3dprintingindustry.com/news/iro3d-starts-shipment-of-5000-metal-3d-printer-142483/",
+    "https://3dprintingindustry.com/news/eplus3d-empowers-innospaces-hybrid-rocket-production-with-metal-3d-printing-242735/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:voxelmatters.com metal additive manufacturing powder startup",
+   "results": [
+    "https://www.voxelmatters.com/a-growing-metal-am-portfolio-at-eos/",
+    "https://www.voxelmatters.com/amazemet-launches-atomization-service-for-rd-users/",
+    "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/",
+    "https://www.voxelmatters.com/nanosteel-launch-bldrmetal-l-40-newest-3d-printed-tool-steel/",
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "https://www.voxelmatters.com/schaeffler-acquires-belgian-startup-aerosint-from-desktop-metal/",
+    "https://www.voxelmatters.com/fomas-eyes-aerospace-am-with-mimete-metal-powders/",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.voxelmatters.com/new-apc-metal-powder-atomization-plant-progressing-plan/",
+    "https://www.voxelmatters.com/3dpbm-pulse-podcast-s2e1-skyrocketing-into-additive-mass-production/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:3dnatives.com metal additive manufacturing powder startup",
+   "results": [
+    "https://www.3dnatives.com/en/metal-3d-printer-manufacturers/",
+    "https://www.3dnatives.com/en/3d3startup-one-click-metal-110520214/",
+    "https://www.3dnatives.com/en/the-metal-3d-printing-guide/",
+    "https://www.3dnatives.com/en/support-less-metal-additive-manufacturing-260220204/",
+    "https://www.3dnatives.com/en/the-future-metal-additive-manufacturing-080620224/",
+    "https://www.3dnatives.com/en/3d-printing-jobs/additive-manufacturing-materials-technician/",
+    "https://www.3dnatives.com/en/metal-1-0-kickstarter-06042026/",
+    "https://www.3dnatives.com/en/mastrex-affordable-lpbf-systems-19052026/",
+    "https://www.3dnatives.com/3d-materials/en/3d-printers/xm200/",
+    "https://www.3dnatives.com/en/webinar-binder-jetting-research-platform-ceramic-metal-10022026/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:3printr.com metal additive manufacturing powder startup",
+   "results": [
+    "https://www.3printr.com/tag/metal-additive-manufacturing-2022-2032-technology-and-market-outlook/",
+    "https://www.3printr.com/tag/metal-am-applications/",
+    "https://www.3printr.com/9t-labs-and-setforge-collaborate-to-bring-additive-manufacturing-cfrp-to-series-production-4453131/",
+    "https://www.3printr.com/tag/3d-printing-powder-manufacturer/",
+    "https://www.3printr.com/tag/wayland-additive/",
+    "https://www.3printr.com/tag/additive-manufacturing-metals/",
+    "https://www.3printr.com/tag/centre-for-additive-manufacture-metal/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com metal additive manufacturing powder startup",
+   "results": [
+    "https://3druck.com/en/printers-and-products/2onelab-2create-26106265/",
+    "https://3druck.com/en/industry-2/deep-manufacturing-prefers-us-launch-and-opens-waam-plant-in-houston-earlier-07155311/",
+    "https://3druck.com/en/industry-2/framatome-opens-center-for-metal-3d-printing-in-france-21159833/",
+    "https://3druck.com/en/industry-2/6k-uses-plasma-technology-from-metal-3d-printing-for-battery-cathodes-47165290/",
+    "https://3druck.com/en/printers-and-products/metal-1-0-printer-on-kickstarter-lpbf-metal-printing-from-8-500-euro-from-dutch-startup-metal-base-37155343/",
+    "https://3druck.com/en/programs/interview-with-amsis-what-simulation-must-enable-in-metal-3d-printing-39163445/",
+    "https://3druck.com/en/printers-and-products/snowpod-snowx-is-planning-a-compact-slm-metal-3d-printer-with-a-closed-powder-loop-for-desktop-use-10163025/",
+    "https://3druck.com/en/industry-2/at-happy-hour-women-in-3d-printing-austria-and-am-austria-launch-online-series-with-eos-and-deutsche-bahn-40165316/",
+    "https://3druck.com/en/printers-and-products/interview-with-costas-andronikidis-of-anima-what-makes-a-metal-3d-printer-a-production-tool-21164355/",
+    "https://3druck.com/en/industry-2/formnext-awards-2026-new-3d-printing-processes-and-industrial-applications-in-the-finals-41164337/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:3dadept.com metal additive manufacturing powder startup",
+   "results": [
+    "https://3dadept.com/continuum-powders-to-quality-its-metal-powders-for-mastrex-lpbf-3d-printers/",
+    "https://3dadept.com/a-desktop-metal-3d-printer-that-processes-both-wire-and-or-powder-feedstock/",
+    "https://3dadept.com/high-performance-materials-their-mark-in-manufacturing/",
+    "https://3dadept.com/eos-develops-new-metal-3d-printer-based-on-lpbf/",
+    "https://3dadept.com/from-goldbeating-to-3d-printing-powders-eckart-celebrates-150-years/",
+    "https://3dadept.com/automated-powder-removal-for-polymer-3d-printed-parts-process-and-main-features-of-solukons-system/",
+    "https://3dadept.com/the-right-moment-in-am-when-machine-manufacturers-should-launch-and-am-users-should-invest/",
+    "https://3dadept.com/colibrium-additive-on-the-challenges-their-binder-jet-series-3-addresses-and-possible-applications/",
+    "https://3dadept.com/large-format-additive-manufacturing-materials-software-and-costs/",
+    "https://3dadept.com/makino-unveils-a-new-metal-3d-printer-based-on-laser-metal-deposition/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com 金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉）",
+   "results": [
+    "https://note.com/edgeworks_tokyo/n/nbf2e5fb6bdfe",
+    "https://note.com/kandoinspirefact/n/nc7a62ad92906",
+    "https://note.com/hgrx/n/ne327ff650d1a",
+    "https://note.com/thermal_plasma/n/n29b40608cbe8",
+    "https://note.com/edgeworks_tokyo/n/ne4fb28a0cfa1",
+    "https://note.com/nk_wonlavo120/n/n94a1c357ae64",
+    "https://note.com/kinzoku2/n/na17ff92bc4fe"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉）",
+   "results": [
+    "https://x.com/tumada/status/2071409737628049618",
+    "https://x.com/jampt_official/status/2013766645555335481",
+    "https://x.com/sangyo_web/status/2067800652705878152",
+    "https://x.com/TANANY_VC/status/2104741863291019402",
+    "https://x.com/SHIMADZU_PR/status/1925378582165262760",
+    "https://x.com/nikkei_local/status/2110185023395795057",
+    "https://x.com/aminsightasia/status/2067998838372340092"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉）",
+   "results": [
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://cn.linkedin.com/company/avimetal-am",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b",
+    "https://www.linkedin.com/posts/mizutaniyasuhisa19730922_私たちの部門のウェブサイトです-am向け金属粉はもちろん最適化設計支援や熱処理-activity-7175792211115008000-mPUN",
+    "https://www.linkedin.com/posts/yuko-niimi-baa0a363_米スタートアップコマツと金属リサイクル研究工場の研磨粉活用-日本経済新聞-activity-7254649866880995329--QNJ",
+    "https://cn.linkedin.com/posts/sean-chen-6a6a0319b_3d列印-3d列印用金屬粉末-創造-activity-6644409193279426560-ESTj",
+    "https://jp.linkedin.com/posts/nsc-am-advanced-solution_tct-equispheres-最新-activity-7025716933744369664-_JNN"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉） note 社長",
+   "results": [
+    "https://am-printing.com/ja/a-step-by-step-guide-to-using-metal-powder-for-3d-printing/",
+    "https://met3dp.com/ja/additive-manufacturing-metal-powder/",
+    "https://note.com/nagoya_ura/n/n84b8fd06dcc4",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://events.malvernpanalytical.com/AM_Hyogo2025",
+    "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "https://www.dmgmori.co.jp/sp/am/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属AM粉末のスタートアップ（新しい製法・新合金・リサイクル粉） X 投稿",
+   "results": [
+    "https://am-printing.com/ja/a-step-by-step-guide-to-using-metal-powder-for-3d-printing/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://news.sharelab.jp/3dp-news/metal-materials/continuum-sustainability-230816/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://met3dp.com/ja/metal-powders-for-3d-printing/",
+    "https://jampt.jp/technology/new-aluminum-alloy/",
+    "https://www.3dpro.jp/news/",
+    "https://www.iri-tokyo.jp/tiri-news/setsubi-2024-04-02/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://seisan-navi.com/20260323-600padam-20/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal additive manufacturing powder startup site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/venture-kick_a-metal-wins-chf-150000-to-market-an-affordable-activity-7057647906375258112-ieGa",
+    "https://www.linkedin.com/company/precisionadditivesolutions",
+    "https://www.linkedin.com/posts/iamhh_letsprint-activity-7434987283960844289-f-5R",
+    "https://www.linkedin.com/posts/metalammagazine_additivemanufacturing-3dprinting-defense-activity-7405290361058762752-Dw96",
+    "https://www.linkedin.com/posts/3dprintingsarah_someone-asked-me-if-we-could-use-waam-wire-activity-7519423696894283776-siW5",
+    "https://www.linkedin.com/company/atome-powder",
+    "https://www.linkedin.com/in/mv2woods",
+    "https://www.linkedin.com/pulse/south-koreas-additive-manufacturing-am-metal-cnztf",
+    "https://www.linkedin.com/company/metal-powder-works",
+    "https://in.linkedin.com/company/rapiddmls"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {}
+}

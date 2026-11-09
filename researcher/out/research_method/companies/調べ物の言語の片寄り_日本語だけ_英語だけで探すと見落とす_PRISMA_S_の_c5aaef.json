@@ -8,8 +8,426 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-08T20:29:15.336375+00:00",
+ "researched_at": "2026-11-09T05:15:12.572180+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": ": Here, an overall term for the entire information retrieval process as part of a systematic review. This includes the full range of searching methods and information sources, including databases, study registries, regulatory datasets, web searches, government documents, unpublished data, and much more.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": Additional content for a study that does not fit in the main manuscript text. For a systematic review, supplementary materials should include full search strategies for all information sources and more complete search methods description. Supplementary materials are generally submitted with the manuscript for peer review.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": For the purposes of PRISMA-S, systematic review is used for the entire family of methods-based reviews. This includes rapid reviews, scoping reviews, meta-narrative reviews, realist reviews, meta-ethnography, and more.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A larger issue may be that, even amongst librarians and information specialists, debate exists as to what constitutes a reproducible search and how best to report the details of the search. Researchers assessing the reproducibility of the search have used varying methods to determine what constitutes a reproducible search [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "]. Post-publication peer review of search methods, even amongst Cochrane reviews, which generally have superior reporting compared to non-Cochrane reviews [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "]. Furthermore, little guidance on how to report searches using information sources or methods other than literature databases, such as searching web sites or study registries, exists [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "To develop an interdisciplinary checklist applicable to all method-driven literature searches for evidence synthesis.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "]. This includes, but is not limited to, scoping reviews, rapid reviews, realist reviews, metanarrative reviews, mixed methods reviews, umbrella reviews, and evidence maps [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "]. We use the term “literature search” or “search” throughout to encompass the full range of possible search methods and information sources.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "] according to the steps outlined in the “Guidance for Developers of Health Research Reporting Guidelines [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "To narrow the list into a usable checklist, we then used a three-step Delphi survey process [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "]. All participants in the Delphi process and/or consensus conference were contacted via email with instructions on how to provide feedback on the draft checklist items and/or elaboration and explanation document by commenting directly on the explanation and elaboration draft using a private commenting system, Hypothesis [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ") and the other, guidance on depositing search data and method descriptions in online repositories (see Table",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Open Science Framework",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "): The Open Science Framework (OSF) platform enables the storage of any documentation associated with a research study. It is possible to create DOIs for individual files or groups of files. OSF is openly and freely available.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "システマティック・レビュー（SR）の報告方法に",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "な作業手順の1 つである",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "成手順のような SR プロセスの追加的要素は，適格",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "様な SR の報告方法のいわばスタンダード版である",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "3. エビデンス統合のためのすべての文献検索方法に",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ブ ・レビュー ） ，mixed methods review（混合法レ",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "のか，また検索の詳細を報告する最善の方法につい",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "るためにさまざまな方法を用いてきた 11, 17, 19, 20）",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "難である可能性が高いことが，検索方法の出版後査",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報源や方法を使用した検索を報告方法に関する指",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "文献検索方法の報告が不完全であると疑念が生",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "rapid review: SR の手順を簡略化したアプローチ ; realist review: 複",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "雑な政策介入のためにデザインされた新しい SR の方法 ; meta-",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "レビュー ; mixed methods review: 定性的および定量的研究の結果を",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "意 図 的 に 検 索 ，閲 覧 し た オ ン ラ イ ン ま た は 印 刷 物 の 情 報 源（例 ：目次， 学会抄録， Web サイ ト） と， その方法を記述する",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Applying systematic review search methods to the grey literature: a case study examining guidelines for school-based breakfast programs in Canada - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Applying systematic review search methods to the grey literature: a case study examining guidelines for school-based breakfast programs in Canada",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. Applying systematic methods to grey literature searches should improve the quality of review syntheses that include grey literature by providing a more comprehensive and less biassed set of reports to examine.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In general, systematic review search methods should be explicit, reproducible, and attempt to identify all documents that meet the pre-defined eligibility criteria for inclusion in the review [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. These standards can theoretically be applied to search methods used to capture grey literature. However, grey literature searches are often not as systematic as traditional systematic searches of academic literature [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. However, there is no ‘gold standard’ for rigorous systematic grey literature search methods and there are few resources on how to conduct this type of search. For example, the Cochrane Handbook, often cited as the gold standard for conducting systematic reviews, provides limited guidance and specificity for grey literature search methods [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. In addition, the reporting of grey literature search methods in systematic reviews are often not held to the same high standards in transparency and reproducibility as the academic database search methods [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Prior to conducting the grey literature search, it is essential to develop a detailed search plan which forms the search methods section of the systematic review protocol [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". These criteria demonstrate that the usual method of systematically searching academic journal databases is inappropriate for adequately addressing the case study review’s research questions.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". A filter was applied to each search to capture only Canadian websites. The first ten pages of each search’s hits (again, representing 100 results) were reviewed for potentially relevant titles (supplemented with the text under the title). Seventy-seven websites were identified in this step (see Additional file",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. This process was applied to the grey literature search methods (Fig.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Who’s hungry? How to start a breakfast program at your school [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The search strategies for identifying and screening publications for inclusion in the case study review were found to be manageable, comprehensive, and intuitive when applied in practice. All components of the methodological search plan were conducted in a 2-month period by the lead author (as shown in Fig.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. Researchers are encouraged to incorporate the methodological search plan outlined in this paper in their review syntheses, whether the syntheses be focused solely on the grey literature or used in parallel with a search of the peer-reviewed literature base. This will ensure transparent and reproducible search methods, a requirement of any strong systematic review.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Dobbins M, Robeson P, Jetha NJ, DesMeules M. Grey literature: a methodology for searching the grey literature for effectiveness evidence syntheses related to public health-a report from Canada. Health. 2008;17(1):9.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(142.2KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDF (720.0 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "善したというエビデンスは統計的に有意でないもの",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を採用しているため，研究レジストリはますます重",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "発表された研究の大部分は，とくに研究結果が統計",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Cochrane Reviews 119, 120）で採用された介入（実施戦",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "を採用する 135-138）",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "情報源が採用されると，著者は新しいプロセスに対",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Webサイトから Wordおよび PDF 形式でダウンロー",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "普及させ，雑誌による採用を促進する予定である",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2018/08/27/401554.full.pdf.",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "of%20Cochrane%20Intervention%20Reviews.PDF. Accessed",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (2.3 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses? Lancet. 2000;356(9237):1228–1231. doi: 10.1016/S0140-6736(00)02786-0.",
@@ -441,424 +859,6 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(142.2KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.equator-network.org/wp-content/uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.biorxiv.org/content/biorxiv/early/2018/08/27/401554.full.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://sti.cochrane.org/sites/sti.cochrane.org/files/public/uploads/Methodological%20standards%20for%20the%20conduct%20of%20Cochrane%20Intervention%20Reviews.PDF",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://www.ncbi.nlm.nih.gov/books/NBK44099/pdf/TOC.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF (720.0 KB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "善したというエビデンスは統計的に有意でないもの",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "を採用しているため，研究レジストリはますます重",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "発表された研究の大部分は，とくに研究結果が統計",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Cochrane Reviews 119, 120）で採用された介入（実施戦",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "を採用する 135-138）",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "crd/Systematic_Reviews.pdf. Accessed 31 Jan, 2020.",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Retrieval_v2-0.pdf. Accessed 31 Jan, 2020.",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "情報源が採用されると，著者は新しいプロセスに対",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Webサイトから Wordおよび PDF 形式でダウンロー",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "普及させ，雑誌による採用を促進する予定である",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "uploads/2009/02/Protocol-PRISMA-S-Delphi.pdf. Accessed",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2018/08/27/401554.full.pdf.",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "of%20Cochrane%20Intervention%20Reviews.PDF. Accessed",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "books/NBK44099/pdf/TOC.pdf. Accessed 1 Feb, 2020.",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDF (2.3 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": ": Here, an overall term for the entire information retrieval process as part of a systematic review. This includes the full range of searching methods and information sources, including databases, study registries, regulatory datasets, web searches, government documents, unpublished data, and much more.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ": Additional content for a study that does not fit in the main manuscript text. For a systematic review, supplementary materials should include full search strategies for all information sources and more complete search methods description. Supplementary materials are generally submitted with the manuscript for peer review.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ": For the purposes of PRISMA-S, systematic review is used for the entire family of methods-based reviews. This includes rapid reviews, scoping reviews, meta-narrative reviews, realist reviews, meta-ethnography, and more.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A larger issue may be that, even amongst librarians and information specialists, debate exists as to what constitutes a reproducible search and how best to report the details of the search. Researchers assessing the reproducibility of the search have used varying methods to determine what constitutes a reproducible search [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "]. Post-publication peer review of search methods, even amongst Cochrane reviews, which generally have superior reporting compared to non-Cochrane reviews [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "]. Furthermore, little guidance on how to report searches using information sources or methods other than literature databases, such as searching web sites or study registries, exists [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "To develop an interdisciplinary checklist applicable to all method-driven literature searches for evidence synthesis.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "]. This includes, but is not limited to, scoping reviews, rapid reviews, realist reviews, metanarrative reviews, mixed methods reviews, umbrella reviews, and evidence maps [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "]. We use the term “literature search” or “search” throughout to encompass the full range of possible search methods and information sources.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "] according to the steps outlined in the “Guidance for Developers of Health Research Reporting Guidelines [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "To narrow the list into a usable checklist, we then used a three-step Delphi survey process [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "]. All participants in the Delphi process and/or consensus conference were contacted via email with instructions on how to provide feedback on the draft checklist items and/or elaboration and explanation document by commenting directly on the explanation and elaboration draft using a private commenting system, Hypothesis [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ") and the other, guidance on depositing search data and method descriptions in online repositories (see Table",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Open Science Framework",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "): The Open Science Framework (OSF) platform enables the storage of any documentation associated with a research study. It is possible to create DOIs for individual files or groups of files. OSF is openly and freely available.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "システマティック・レビュー（SR）の報告方法に",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "な作業手順の1 つである",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "成手順のような SR プロセスの追加的要素は，適格",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "様な SR の報告方法のいわばスタンダード版である",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "3. エビデンス統合のためのすべての文献検索方法に",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ブ ・レビュー ） ，mixed methods review（混合法レ",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "のか，また検索の詳細を報告する最善の方法につい",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "るためにさまざまな方法を用いてきた 11, 17, 19, 20）",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "難である可能性が高いことが，検索方法の出版後査",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "情報源や方法を使用した検索を報告方法に関する指",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "文献検索方法の報告が不完全であると疑念が生",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "rapid review: SR の手順を簡略化したアプローチ ; realist review: 複",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "雑な政策介入のためにデザインされた新しい SR の方法 ; meta-",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "レビュー ; mixed methods review: 定性的および定量的研究の結果を",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "意 図 的 に 検 索 ，閲 覧 し た オ ン ラ イ ン ま た は 印 刷 物 の 情 報 源（例 ：目次， 学会抄録， Web サイ ト） と， その方法を記述する",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Applying systematic review search methods to the grey literature: a case study examining guidelines for school-based breakfast programs in Canada - PMC",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Applying systematic review search methods to the grey literature: a case study examining guidelines for school-based breakfast programs in Canada",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. Applying systematic methods to grey literature searches should improve the quality of review syntheses that include grey literature by providing a more comprehensive and less biassed set of reports to examine.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In general, systematic review search methods should be explicit, reproducible, and attempt to identify all documents that meet the pre-defined eligibility criteria for inclusion in the review [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. These standards can theoretically be applied to search methods used to capture grey literature. However, grey literature searches are often not as systematic as traditional systematic searches of academic literature [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. However, there is no ‘gold standard’ for rigorous systematic grey literature search methods and there are few resources on how to conduct this type of search. For example, the Cochrane Handbook, often cited as the gold standard for conducting systematic reviews, provides limited guidance and specificity for grey literature search methods [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. In addition, the reporting of grey literature search methods in systematic reviews are often not held to the same high standards in transparency and reproducibility as the academic database search methods [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Prior to conducting the grey literature search, it is essential to develop a detailed search plan which forms the search methods section of the systematic review protocol [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". These criteria demonstrate that the usual method of systematically searching academic journal databases is inappropriate for adequately addressing the case study review’s research questions.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". A filter was applied to each search to capture only Canadian websites. The first ten pages of each search’s hits (again, representing 100 results) were reviewed for potentially relevant titles (supplemented with the text under the title). Seventy-seven websites were identified in this step (see Additional file",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. This process was applied to the grey literature search methods (Fig.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Who’s hungry? How to start a breakfast program at your school [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The search strategies for identifying and screening publications for inclusion in the case study review were found to be manageable, comprehensive, and intuitive when applied in practice. All components of the methodological search plan were conducted in a 2-month period by the lead author (as shown in Fig.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. Researchers are encouraged to incorporate the methodological search plan outlined in this paper in their review syntheses, whether the syntheses be focused solely on the grey literature or used in parallel with a search of the peer-reviewed literature base. This will ensure transparent and reproducible search methods, a requirement of any strong systematic review.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Dobbins M, Robeson P, Jetha NJ, DesMeules M. Grey literature: a methodology for searching the grey literature for effectiveness evidence syntheses related to public health-a report from Canada. Health. 2008;17(1):9.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
@@ -920,13 +920,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/pii/S0895435626000971",
-    "status": "http_403",
+    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
-    "status": "ok",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0895435626000971",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -935,7 +935,7 @@
     "method": "http"
    },
    {
-    "url": "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
+    "url": "https://equator-network.org/reporting-guidelines/prisma-s/",
     "status": "ok",
     "method": "http"
    }
@@ -953,15 +953,14 @@
     "https://cir.nii.ac.jp/crid/1010576118567891584",
     "https://jdream3.com/jd-room/technique/20160513/",
     "https://jti.lib.virginia.edu/japanese/search.jp.html",
-    "https://waseda-jp.libguides.com/research-navi/find_translated-works",
-    "https://note.com/pastel_yama/n/nab048e3b83c1"
+    "https://note.com/pastel_yama/n/nab048e3b83c1",
+    "https://note.com/koh_note_tejun/n/n87f15dfb4b22"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 14
   },
   {
    "query": "調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方） note",
@@ -1022,12 +1021,12 @@
    "results": [
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC4619264/",
     "https://casrai.org/guides/searching-grey-literature-for-a-systematic-review",
-    "https://www.sciencedirect.com/science/article/pii/S0895435626000971",
     "https://libraryguides.binghamton.edu/scopingreview/search",
+    "https://www.sciencedirect.com/science/article/pii/S0895435626000971",
     "https://guides.lib.unc.edu/grey-literature/systematic-reviews",
-    "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
-    "https://www.jclinepi.com/article/S0895-4356(26)00097-1/pdf",
     "https://equator-network.org/reporting-guidelines/prisma-s/",
+    "https://library-guides.imperial.ac.uk/systematic-review/using_greyliterature",
+    "https://www.jclinepi.com/article/S0895-4356(26)00097-1/pdf",
     "https://www.prisma-statement.org/",
     "https://www.prisma-statement.org/prisma-search"
    ],
@@ -1035,36 +1034,34 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 12
   },
   {
    "query": "site:note.com 調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方）",
    "results": [
     "https://note.com/pastel_yama/n/nab048e3b83c1",
     "https://note.com/pingue7/n/neccf547aaaaf",
+    "https://note.com/koh_note_tejun/n/n87f15dfb4b22",
     "https://note.com/fast_cosmos9357/n/ned4ffe5b76c7",
     "https://note.com/aikaorun/n/n94b4cca76fd6",
-    "https://note.com/koh_note_tejun/n/n87f15dfb4b22",
-    "https://note.com/ai_tool_media/n/ne79530a40fa6",
-    "https://note.com/ai_tool_media/n/n72e7b90cda8f",
-    "https://note.com/hello_base/n/n062bb786b7d5"
+    "https://note.com/hello_base/n/n062bb786b7d5",
+    "https://note.com/ai_tool_media/n/n72e7b90cda8f"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:x.com 調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方）",
    "results": [
-    "https://x.com/atvw01/status/1589907522181533696",
     "https://x.com/piske_cc/status/2103256735477895571",
-    "https://help.x.com/ja/managing-your-account/how-to-change-language-settings",
     "https://x.com/TensyokuRmla/status/2084027582467756261",
-    "https://x.com/kbysms/status/2092657046646833330",
+    "https://help.x.com/ja/managing-your-account/how-to-change-language-settings",
+    "https://help.x.com/ja/using-x/x-search",
+    "https://x.com/atvw01/status/1589907522181533696",
     "https://x.com/lalalalack/status/2068548853880738279",
-    "https://x.com/Yukkuri_mond/status/2030295394706665498"
+    "https://x.com/dansyu_callenge/article/2034578319056961637"
    ],
    "engines": [
     "ddgs:google"
@@ -1074,38 +1071,24 @@
   {
    "query": "site:linkedin.com 調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方）",
    "results": [
-    "https://jp.linkedin.com/pulse/アナ雪とヤマトが明らかにする日本語の致命的な情報量の少なさ-akito-sato",
+    "https://jp.linkedin.com/learning/learning-linkedin-for-students-2/3050658",
+    "https://www.linkedin.com/help/linkedin/answer/a541791?lang=ja",
     "https://jp.linkedin.com/pulse/using-prisma-guidelines-strengthen-systematic-reviews-aderla-la3oc?tl=ja",
-    "https://www.linkedin.com/company/jonesengineering",
     "https://jp.linkedin.com/pulse/full-fuzzy-text-search-postgres-prisma-tomás-garcía-gobet?tl=ja",
-    "https://jp.linkedin.com/pulse/building-high-performance-library-management-api-bun-bao-atkinson-wbnke?tl=ja",
     "https://www.linkedin.com/pulse/英語ペラペラの定義と見えない変数を探す旅-minako-ito-edwme/",
-    "https://jp.linkedin.com/pulse/リンクトインラーニングを英語など日本語以外の言語で視聴する手順-noritaka-tamura",
-    "https://jp.linkedin.com/pulse/how-write-systematic-review-from-scratch-using-prisma-dr-preeti-eh7xc?tl=ja",
-    "https://jp.linkedin.com/pulse/end-language-alone-why-ai-needs-world-think-evai-intelligence-zwbrf?tl=ja",
-    "https://jp.linkedin.com/pulse/conducting-english-only-classes-multilingual-benefits-ilankumaran-tb1hc?tl=ja"
+    "https://jp.linkedin.com/pulse/アナ雪とヤマトが明らかにする日本語の致命的な情報量の少なさ-akito-sato",
+    "https://jp.linkedin.com/pulse/リンクトインラーニングを英語など日本語以外の言語で視聴する手順-noritaka-tamura"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方）",
-   "results": [
-    "https://www.facebook.com/mr.fuji0t0/videos/外国人日本語だけの特徴じゃない-海外の反応-日本語-難しい/2112492089570750/",
-    "https://www.facebook.com/gizmodojp/posts/904397954577482/",
-    "https://www.facebook.com/kikosenglishplayroom/videos/勉強するstudyと思っていませんか実は小学生がよく間違えやすい落とし穴があるんです机に向かってガリガリ書くのがstudy一方で自分で調べたり経験したりして自発/2855887298124138/",
-    "https://www.facebook.com/sppinfolibrary/posts/調べ物をしていく中でこんなことを思ったことはありませんか-どんな本が参考になるのか分からない本以外でも役に立つ情報があれば知りたい-そんな方の道しるべとしてテー/835546048358096/",
-    "https://www.facebook.com/yumehome.ishikawa/posts/ちょっと調べ物で漢和辞典を開いたらコレが挟まってたの天空の城ラピュタのカセットレーベルカセットレーベルがわからない人もいるかな笑カセットテープの入れ物に入れる見/24533250849616875/",
-    "https://www.facebook.com/tbs.jp/posts/ニノなのに人は３日間だけで英語が話せるようになるのか秘習得法で驚きの進化がたった３日なのに英語がペラペラになるのか検証英語が話せないワタリ119が文法を気にしな/1253427016939248/",
-    "https://www.facebook.com/kiwienglish/posts/探すって英語でどう表現していますか何を探してるの仕事探すの手伝うよどこか住むところを探さないとみたいな探すを表すときにネイティブがよく使う表現を紹介します/4005234459516306/"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "調べ物の言語の片寄り（日本語だけ・英語だけで探すと見落とす・PRISMA-S の言語の制限と灰色文献・官公庁・団体のサイトの探し方） note 社長",
@@ -1152,13 +1135,13 @@
     "https://www.linkedin.com/posts/peter-munene-9ab033b8_scopingreview-phd-thesis-activity-7491476908157837313-yCYv",
     "https://in.linkedin.com/in/gaushini-ramuvel-4579399b",
     "https://www.linkedin.com/in/alicia-livinski-15115b134",
+    "https://www.linkedin.com/in/nathan-cl-davies",
     "https://uk.linkedin.com/in/madison-milne-ives",
     "https://ca.linkedin.com/in/brettlwilliams",
-    "https://ca.linkedin.com/in/david-puvan",
-    "https://au.linkedin.com/in/stav-hillel-5303aa375"
+    "https://ca.linkedin.com/in/david-puvan"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1166,6 +1149,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-07T22:59:36.710946+00:00"
 }

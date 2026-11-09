@@ -1,0 +1,3097 @@
+{
+ "name": "砂型3Dプリンターの砂とバインダー（2成分の原料システム）",
+ "en": "sand binder jetting foundry sand binder consumables market",
+ "aliases": [
+  "砂型 3Dプリンター 砂 バインダー",
+  "砂型積層 消耗品",
+  "鋳造用 3D 砂型 材料"
+ ],
+ "context": "砂＋バインダー",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:25:55.088222+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のサンド 3D プリンター市場規模、シェア、トレンド、業界予測 2026 ～ 2034 年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサンド3Dプリンタ市場規模：技術別（バインダージェッティング、選択的レーザー焼結（SLS））、最終用途産業別（航空宇宙および防衛、自動車）、アプリケーション別（試作、工具）、材料別（シリカ砂、アルミナ砂）、コンポーネント別（プリンタ、ソフトウェア）、地理的範囲別および予測",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2024)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.5 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.2 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "サンド3Dプリンター市場規模別展望と予測",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2024年に12億米ドルと評価され、2025年の13億米ドルから2033年までに24億米ドルに、約8.2%のCAGRで成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America 市場推定 & 予測 2022 - 2032 (USD Million)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe 市場推定 & 予測 2022 - 2032 (USD Million)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific 市場推定 & 予測 2022 - 2032 (USD Million)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America 市場推定 & 予測 2022 - 2032 (USD Million)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East and Africa 市場推定 & 予測 2022 - 2032 (USD Million)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "砂用3Dプリンターの世界市場（2026年～2032年）、市場規模（200L/h以下、200L/h～500L/h、500L/h以上）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "砂用3Dプリンターの世界市場（2026年～2032年）、市場規模（200L/h以下、200L/h～500L/h、500L/h以上）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、砂用3Dプリンターの世界市場規模、市場動向、セグメント別予測（200L/h以下、200L/h～500L/h、500L/h以上）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "世界の砂3Dプリンター市場規模は、2025年の1億1,800万米ドルから2032年には2億5,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）13.0％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "voxeljetのような企業は、砂型3Dプリンティングが、大型鋳物（数トン以上）や小ロット・多品種生産において、金型コストと納期面で大きな利点をもたらし、エネルギー、重機、ポンプ・バルブ、自動車パワートレインなどの分野での応用を可能にすると強調しています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、サンド3Dプリンターの世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、最大造形速度、用途、地域、市場規模ごとに予測を細分化することで、新たな機会の領域を浮き彫りにします",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、地域別（2021年～2026年）および国/地域別（2021年～2026年）の砂用3Dプリンターの歴史的な市場規模が分析されており、各地域における年間販売量と年間収益が示されています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "第12章には、地域別（2027年～2032年）のグローバルな砂用3Dプリンターの市場規模予測、年間収益予測が示されています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "voxeljetのような企業は、砂型3Dプリンティングが大規模鋳造（トン単位以上）や小ロット・多品種生産において型のコストや納期において大きな利点を提供し、エネルギー、重機、ポンプとバルブ、自動車のパワートレインなどの分野での応用を可能にすると強調しています",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "1.7 世界の砂3Dプリンター市場規模と予測",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "4.1 地域別のグローバルサンド3Dプリンター市場規模",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3 国別の北米サンド3Dプリンター市場規模",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3.3 アメリカ合衆国の市場規模と予測（2021-2032）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "11.3 中東およびアフリカの砂3Dプリンター市場規模（国別）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "11.3.3 トルコの市場規模と予測（2021-2032）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "11.3.4 エジプトの市場規模と予測（2021-2032）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "11.3.5 サウジアラビアの市場規模と予測（2021-2032）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "11.3.6 南アフリカの市場規模と予測（2021-2032）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "モジュール式トンネル低温殺菌装置市場：グローバル予測2026年-2032年",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "voxeljetのような企業は、砂型3Dプリンティングが、大型鋳物（数トン以上）や小ロット・多品種生産において、金型コストと納期面で大きな利点をもたらし、エネルギー、重機、ポンプ・バルブ、自動車パワートレインなどの分野での応用を可能にすると強調しています",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、砂型3Dプリンターの世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（台数および百万米ドル）および前年比成長率を提示しています",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 世界のサンド3Dプリンター市場規模、2021-2025年の過去データ、および2026-2032年の予測データ（百万米ドル）および（台数）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 世界の砂3Dプリンター市場規模と予測",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.1 消費額別、世界の砂3Dプリンター市場規模（2021年～2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.2 販売数量別、世界の砂3Dプリンター市場規模（2021年～2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 日本の砂3Dプリンター市場規模と予測",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 消費額別、日本の砂3Dプリンター市場規模、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売数量別、日本の砂3Dプリンター市場規模、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.3 砂3Dプリンター市場規模：日本対世界、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "8.4.1 北米砂3Dプリンター市場規模および予測、2021年～2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "8.4.2 国別、北米サンド3Dプリンター市場規模・市場シェア",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "8.5.1 欧州サンド3Dプリンター市場規模および予測、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "8.5.2 国別、欧州サンド3Dプリンター市場規模・市場シェア",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "8.6.1 アジア太平洋地域の砂3Dプリンター市場規模および予測（2021年～2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1億7,000万円～4億円",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンター世界総市場規模",
+    "url": "https://mono.ipros.com/cg3/%E7%A0%82%E5%9E%8B3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "当資料では、砂型3Dプリンターの世界総市場規模について、",
+    "url": "https://mono.ipros.com/cg3/%E7%A0%82%E5%9E%8B3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "500トンの自動車用鋳造工場に最適な砂型3Dプリンターは、20トンの美術鋳造スタジオにとっては過剰な性能となる可能性があり、その逆もまた然りです",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPTEK傘下の鋳造工場（6カ所、年間生産量20,000トン以上）において検証済み",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な小型金型であれば一晩で完成し、約2.7トンの砂を用いたJ2500でのフル造形は、層の厚さや部品の密度にもよりますが、およそ12～17時間かかります",
+    "url": "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "pass": 3
+   },
+   {
+    "quote": "J2500でのフルビルド（砂約2.7トン）にはおよそ12～17時間かかります",
+    "url": "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "pass": 3
+   },
+   {
+    "quote": "情報源の推定値では、脱塩され分級された海砂は 1 トンあたり 80 米ドル近くであるのに対し、プロ用シリカの場合は 1 トンあたり約 50 米ドルとなります",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Consumables Market Size ,Share ,Growth & Forecast 2034",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2025)",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 11.8 Billion",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "valued at USD 11.8 billion in 2025 and is projected to reach USD 18.8 billion",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2026",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "サンド 3D プリンター市場は加速的な成長軌道にあり、2026 年から 203 年までの年間平均成長率 (CAGR) は約 16.2% と予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2024年に12億米ドルと評価され、2025年の13億米ドルから2033年までに24億米ドルに、約8.2%のCAGRで成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の価値は 9 億米ドルですが、CAGR は約 8.0% で、2025 年の 10 億米ドルから 2033 年までに 18 億米ドルに成長すると予想されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2024年に8億米ドルと評価され、2025年の9億米ドルから2033年までに約10.1%のCAGRで20億米ドルに成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に2億米ドルと評価される市場は、2025年の2億2000万米ドルから2033年までに3億5000万米ドルに、約6.8%のCAGRで成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年には 6 億米ドルと評価され、2025 年の 7 億米ドルから 2033 年までに 18 億米ドルに、約 12.4% の CAGR で成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には1.5億米ドルと評価され、2025年の1.7億米ドルから2033年までに3.0億米ドルに、約8.2%のCAGRで成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2024年に9億米ドルと評価され、2025年の10億米ドルから2033年までに21億米ドルに、約10.0%のCAGRで成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には3億米ドルと評価され、2025年の3億3000万米ドルから2033年までに5億5000万米ドルに、約7.5%のCAGRで成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には2億米ドルと評価され、2025年の2億2000万米ドルから2033年までに4億米ドルに、約8.0%のCAGRで成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2024年に3億米ドルと評価され、2025年の3億5000万米ドルから2033年までに7億5000万米ドルに、約10.8%のCAGRで成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2024年に2億米ドルと評価され、2025年の2億5000万米ドルから2033年までに6億米ドルに、約11.2%のCAGRで成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "砂3Dプリンター市場 地域別分析（CAGR %）",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の砂3Dプリンター市場規模は、2025年の1億1,800万米ドルから2032年には2億5,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）13.0％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "世界の砂3Dプリンター市場の規模は2025年に1億2400万米ドルと評価され、2032年には2億5900万米ドルに調整される見込みで、2026年から2032年の期間中に年平均成長率（CAGR）が12.3%と予測されています",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "第5章と第6章では、最大ビルドレートおよびアプリケーション別に販売をセグメント化し、2021年から2032年までの最大ビルドレート、アプリケーション別の販売市場シェアと成長率を示します",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "テーブル99. 世界の砂3Dプリンターの地域別消費価値（2021-2025-2032年）＆（百万米ドル）＆CAGR",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサンド3Dプリンター市場は、2025年の1億2,800万米ドルから2032年までに2億6,100万米ドルへと成長し、2026年から2032年までの期間における年平均成長率（CAGR）は11.8％になると見込まれています",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、砂型3Dプリンターの世界市場に関する詳細かつ包括的な分析であり、2025年を基準年として、市場規模（台数および百万米ドル）および前年比成長率を提示しています",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 世界のサンド3Dプリンター主要生産地域、生産能力、生産量、および前年比成長率",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：世界のサンド3Dプリンター主要生産地域、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：最大造形速度別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：用途別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021年～2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "7.2 用途別、世界の砂3Dプリンター消費額およびCAGR（2021年対2025年対2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "9.1 国別、世界のサンド3Dプリンター市場規模およびCAGR（2021年対2025年対2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "表1. 砂3Dプリンターの市場規模（金額）およびCAGR：日本対世界、2021年～2032年、百万米ドル",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "表25. 用途別、世界の砂3Dプリンター消費額およびCAGR、2021年対2025年対2032年、百万米ドル",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "表29.国別、世界の砂3Dプリンター消費額およびCAGR、2021年対2025年対2032年、百万米ドル",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, growing at a CAGR of 5.3% during the forecast period (2026–2034). The",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Consumables Market Share 2025, (CAGR)",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Foundry Consumables Market was valued at USD 11.8 billion in 2025 and is projected to reach USD 18.8 billion by 2034, growing at a CAGR of 5.3%.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035, growing at a",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.2%",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035, growing at a CAGR of",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Binder Jetting Market size, 2025 vs 2035 (USD), and the 2027–2035 CAGR.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The next decade should bring a gradual shift from equipment-led adoption to process-led production. The 10.2% forecast CAGR assumes that metal and sand systems secure more repeat programs, while ceramic and construction applications develop selectively. It does not assume that every announced printer reaches full factory utilization.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "3.6 Binder Jetting Market Geographical Analysis (CAGR %)",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "325.5 Million USD in 2025, Expanding to 1.01 Billion USD by 2032 at a CAGR of 17.58%",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025-2032 CAGR",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Projected CAGR (2025-2032): 17.58%",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 17.58% (2025-2032)",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global 3D sand printing binder systems market was valued at USD 325.5 Million in 2025 and is projected to grow at a compound annual growth rate of 17.58% over 2026–2032, reaching USD 1,011.27 Million by 2032.",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "*このセクションでは、市場の成長要因、機会、バリューチェーン分析、ポーターの5フォース分析、価格分析、およびマクロ経済分析を強調します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界のサンド3Dプリンターの販売台数は約3,114台に達し、世界平均市場価格は1台あたり約38.65千米ドルでした",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "また、最大造形速度別（200L/h以下、200L/h-500L/h、500L/h超）、印刷速度別（20秒/層以下、20-30秒/層、30秒/層超）、タイプ別（大型、中小型）、用途別（航空宇宙、軍事、自動車、海洋、建設機械、風力発電、医療、その他）に、それぞれ砂用3Dプリンターの販売量、収益、市場シェア、販売価格（2021年～2026年）に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別の砂用3Dプリンターの年間販売量（2021年～2026年）、販売市場シェア（2021年～2026年）、年間収益（2021年～2026年）、収益市場シェア（2021年～2026年）、販売価格に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、世界の砂3Dプリンターの販売台数は約3,114台に達し、平均的なグローバル市場価格は約38.65K米ドル/台となりました",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2032年までの消費価値（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）における世界の砂3Dプリンター市場の規模と予測",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2032年までの消費価値（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）における地域および国別の世界の砂3Dプリンター市場の規模と予測",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2032年までの消費価値（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）における最大ビルドレート別およびアプリケーション別の世界の砂3Dプリンター市場の規模と予測",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの主要プレイヤーの市場シェア、収益（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "このレポートは、世界の砂3Dプリンター市場における主要プレーヤーを、企業概要、販売数量、収益、価格、粗利益、製品ポートフォリオ、地理的存在、主要な開発などのパラメーターに基づいてプロファイルしています",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、2021年から2026年までのサンド3Dプリンターの価格、販売数量、収益、世界市場シェアをもとに、主要な製造業者をプロファイルします",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "1.7.3 世界の砂3Dプリンター平均価格（2021年-2032年）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.1.4 ExOneの砂3Dプリンター販売数量、平均価格、収益、粗利益率、市場シェア（2021年-2026年）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.4 Voxeljetの砂3Dプリンター販売数量、平均価格、収益、粗利益率、市場シェア（2021年-2026年）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.4 Envisiontecの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.4.4 BigRepの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.4 Stratasysの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.6.4 Kocel Machineryの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界のサンド3Dプリンターの販売台数は約3,114台に達し、世界平均市場価格は1台あたり約38.65千米ドルでした",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 世界の砂3Dプリンターの販売台数、売上高、企業別価格、市場シェア、業界ランキング（2021-2026年）（百万米ドル）および（台数）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 日本の砂3Dプリンターの販売台数、売上高、企業別価格、市場シェア、業界ランキング（2021-2026年）（百万米ドル）および（台数）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：サンド3Dプリンターの製品範囲、世界の販売数量、販売額、平均価格、日本の販売数量、販売額、平均価格、開発機会、課題、動向、および政策について記述",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界のサンド3Dプリンター市場における主要メーカーのシェアおよびランキング、販売数量、売上高、平均価格（2021年～2026年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：日本のサンド3Dプリンター市場における主要メーカーのシェアおよびランキング、販売数量、売上高、平均価格（2021年～2026年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：最大造形速度別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：用途別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021年～2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：企業プロファイル、市場における主要企業の基本状況を詳細に紹介（製品仕様、用途、最近の動向、販売数量、平均価格、売上高、粗利益率を含む）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2.3 世界の砂3Dプリンター平均販売価格（ASP）、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.3 日本の砂3Dプリンター平均販売価格（ASP）、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3 平均販売価格（ASP）：サンド3Dプリンター（企業別、2021-2026年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "6.1.6 最大造形速度別、世界の砂3Dプリンター平均販売価格（ASP）、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、装置価格の相場、継続的に発生する材料費、部品ごとの具体的なコスト例、そして3Dプリント金型が従来の金型に勝る点と劣る点を明らかにしています",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの価格：購入前に下すべき最も重要な決断",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "砂用3Dプリンターの価格は、造形容積、速度、および自動化の程度によって決まります",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPTEK社の砂型3Dプリンターの価格は、J1800Sの工場渡し価格で約$218,000から、フル装備のJ4000Proで約$1,060,000までとなっています",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "J2500は約$581,000～639,000、J4000は約$682,000～740,000で、造形容積、印刷速度、自動化の程度によって価格が変わります",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント用の標準的な鋳物用シリカ砂の価格は、およそ",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "$2–5/kg",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "珪砂：$2–5/kg；結合材の添加量：重量比で約2%",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "機械の減価償却：購入価格を5年間にわたり、60%の稼働率で按分",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "45 kg × $2–5/kg",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "～0.9 kg × $4–6/kg",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "外部委託する場合、この項目は委託先が設定する1kgあたりまたは1型あたりの料金となります",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンタの価格、メーカーとサプライヤーの説明",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、砂型3Dプリンターの価格、メーカー、サプライヤーについて掘り下げ、総合的なリファレンスを提供します",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、砂型3Dプリンターの価格要因の影響である",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターの価格は、以下のようなさまざまな要因によって異なります：",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンターは、ブランドやメーカーによって技術レベルや品質、アフターサービスが異なり、価格も異なります",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "これは2.5メートル機と同じ価格で購入でき、7メートル、あるいは10メートルクラスまでカスタマイズできます",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "III.砂型3Dプリンターの価格帯",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、市場に出回っている砂型3Dプリンターの価格は、数十万円から数百万円までと幅広い",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は100万ドルから200万ドルです",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "価格は200万元以上で、数百万元に達することもある",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "IV.砂型3Dプリントの価格計算",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリントの価格は通常、以下のコンポーネントで構成されています：",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンター価格ガイド：包括的なコスト分析とROIのメリット",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "3D砂型プリンタ価格",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "砂3Dプリンターの価格は産業製造分野において、ますます競争力を持つものとなっており、技術の普及と機能向上を反映しています",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "世界のサンド 3D プリンター市場規模、シェア、トレンド、業界予測 2026 ～ 2034 年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ExOne、3D Systems、Desktop Metal などの大手企業は、バインダーの配合を改良し、印刷速度を向上させ、後処理技術を改善するために研究開発に多額の投資を行っています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "特定のプリンタモデルのコモディティ化による価格圧力は、特に新規参入者が低コストのソリューションで市場に参入するため、大手企業のマージンを脅かしています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ExOne や 3D Systems などの既存のリーダーは革新を続けていますが、AI、自動化、低コストのハードウェアを活用する新規参入者が市場シェアを獲得しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的な M&A 活動によりエコシステムが強化されており、大手企業が新興企業を買収して先端材料、ソフトウェア、または製造能力を統合しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "新興市場は、工業化とインフラ開発によって促進され、成長の大きなシェアを占めることになります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ExOne、Desktop Metal、3D Systems などの大手企業は、産業用途に合わせた高度なサンド プリンティング システムで製品ポートフォリオを拡大しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイングやエアバスなどの大手航空宇宙 OEM は、重量と組み立ての複雑さを軽減するために積層造形に投資しており、これは燃料節約と運用効率につながります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "エアバスなどの航空宇宙大手と積層造形企業との最近のコラボレーションは、高温砂複合材料やマルチマテリアル システムの革新につながりました",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "インダストリー 4.0 とデジタル製造統合への移行がさらに加速し、主要企業が研究開発に多額の投資を行って、より速く、より正確で、環境的に持続可能なサンド 3D プリンティング ソリューションを開発しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "サンド 3D プリンター市場は、世界的なテクノロジー大手から専門のニッチ企業まで、多様なプレーヤーによって特徴付けられる、主に断片的な構造を示しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業は、解像度の向上と構築時間の短縮を可能にする独自の砂結合および積層技術の開発に多額の投資を行っており、これにより運用コストが削減され、製品の品質が向上します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "業界が成熟するにつれて、生産能力の拡大と技術ポートフォリオの拡大の必要性により、大手企業間のさらなる統合が予想されますが、中小企業はオーダーメイドのソリューションと迅速な納期を必要とする高価値の特殊なアプリケーションに注力する可能性があります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", ABC Additive Manufacturingは、既存のサンドプリンターと互換性のある環境に優しい結合剤を開発するため、大手化学サプライヤーとの戦略的パートナーシップを発表しました",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダー化学、マルチマテリアル印刷、廃棄物リサイクル技術におけるイノベーションを優先する企業は、より高い利益率と市場シェアを獲得する可能性があります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "本インサイトレポートは、世界の砂3Dプリンター市場の包括的な分析を提供するとともに、製品セグメンテーション、企業設立、収益、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、特にサンド3Dプリンターの製品ポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界のサンド3Dプリンター市場におけるこれらの企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、サンド3Dプリンター市場の包括的な概要、市場シェア、成長機会を提示しています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "広東CH Leading Additive Manufacturing",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "また、最大造形速度別（200L/h以下、200L/h-500L/h、500L/h超）、印刷速度別（20秒/層以下、20-30秒/層、30秒/層超）、タイプ別（大型、中小型）、用途別（航空宇宙、軍事、自動車、海洋、建設機械、風力発電、医療、その他）に、それぞれ砂用3Dプリンターの販売量、収益、市場シェア、販売価格（2021年～2026年）に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別の砂用3Dプリンターの年間販売量（2021年～2026年）、販売市場シェア（2021年～2026年）、年間収益（2021年～2026年）、収益市場シェア（2021年～2026年）、販売価格に関する詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10の集中度（2024年～2026年））、新製品および潜在的な新規参入者、市場のM&A活動と戦略に関する情報も含まれています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "選定された競合他社の企業プロフィールや製品例、2025年の一部の主要企業の市場シェア推定も提供されています",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの主要プレイヤーの市場シェア、収益（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "この研究の一環として取り上げられている主要企業には、ExOne、Voxeljet、Envisiontec、BigRep、Stratasys、Kocel Machinery、Guangdong Fenghua Zhuoli Technology、3D Printing Technology (3DPTEK)、Wuhan EASYMFG、Hangzhou Eplus3Dなどが含まれます",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "Guangdong CH Leading Additive Manufacturing",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、2021年から2026年までのサンド3Dプリンターの価格、販売数量、収益、世界市場シェアをもとに、主要な製造業者をプロファイルします",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、サンド3Dプリンターの競争状況、販売数量、収益、主要製造業者の世界市場シェアを、景観の対比によって重点的に分析します",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "第5章と第6章では、最大ビルドレートおよびアプリケーション別に販売をセグメント化し、2021年から2032年までの最大ビルドレート、アプリケーション別の販売市場シェアと成長率を示します",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "第7章、8章、9章、10章、11章では、国別の販売データを分解し、2021年から2026年までの主要国の販売数量、消費価値、市場シェアを示し、2027年から2032年までの地域別、最大ビルドレート別、アプリケーション別のサンド3Dプリンター市場予測を、販売と収益の観点から示します",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.1.4 ExOneの砂3Dプリンター販売数量、平均価格、収益、粗利益率、市場シェア（2021年-2026年）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.4 Voxeljetの砂3Dプリンター販売数量、平均価格、収益、粗利益率、市場シェア（2021年-2026年）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.4 Envisiontecの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.4.4 BigRepの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.4 Stratasysの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.6.4 Kocel Machineryの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "2.7.4 Guangdong Fenghua Zhuoli Technologyの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーの売上高、市場シェア、企業プロファイルを含む、市場内の競争環境を評価します",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 世界の砂3Dプリンターの販売台数、売上高、企業別価格、市場シェア、業界ランキング（2021-2026年）（百万米ドル）および（台数）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 日本の砂3Dプリンターの販売台数、売上高、企業別価格、市場シェア、業界ランキング（2021-2026年）（百万米ドル）および（台数）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートが対象とする主要企業別市場セグメント：",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界のサンド3Dプリンター市場における主要メーカーのシェアおよびランキング、販売数量、売上高、平均価格（2021年～2026年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：日本のサンド3Dプリンター市場における主要メーカーのシェアおよびランキング、販売数量、売上高、平均価格（2021年～2026年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：世界のサンド3Dプリンター主要生産地域、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：最大造形速度別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：用途別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021-2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別セグメント、販売数量、平均価格、消費額、シェアおよびCAGR（2021年～2032年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：企業プロファイル、市場における主要企業の基本状況を詳細に紹介（製品仕様、用途、最近の動向、販売数量、平均価格、売上高、粗利益率を含む）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 世界市場における日本の砂3Dプリンター市場のシェア",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.1 消費額別、日本の砂3Dプリンターの世界市場におけるシェア、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.2 販売数量別、日本の砂3Dプリンターの世界市場におけるシェア、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "有名ブランドや大手メーカーの製品は通常より高価ですが、品質やアフターサービスはより保証されています",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "また、株式会社リコーも独自のインクジェット技術を応用した3Dプリンティングソリューションを強化しており、第一実業は世界シェアの高い2ブランドを揃えることで、これらの競合に対抗する構えだ",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "sand-casting consumables. Leading automakers continued rollout of single-piece",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025, driven by sustained demand for engine, transmission,",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Consumables Market Share 2025, (CAGR)",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "compete on cost in commodity-grade sand and binder categories. Leading",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which foundry type has the highest market share?",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is segmented by by material, by technology, by application, by end user, with regional coverage across North America, Europe, Asia-Pacific, Latin America and the Middle East & Africa. Leading companies include",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "現場での生産が可能になり、輸送と保管のコストが削減されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "•有害排気ガスのない中子の生産、中子の保管、鋳造",
+    "url": "https://www.ask-chemicals.com/ja/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/3d%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "• 印刷された中子と主型は非常に優れた保管安定性を備えています",
+    "url": "https://www.ask-chemicals.com/ja/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/3d%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "pass": 3
+   },
+   {
+    "quote": "これは、高価なパターン設備や保管スペースが必要なくなるためです",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "生産プロセスのデジタル化により、在庫管理やジャストインタイム生産が向上し、保管コストの削減と資金繰りの改善につながります",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "従来のパターン保管の必要性がなくなることで倉庫コストが削減されます",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "設計データをデジタルで保存することで、物理的なパターン保管に関する維持管理コストも不要になります",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "→木型製造納期短縮、管理・保管コスト削減、中子組付け作業時間・工数短縮が可能",
+    "url": "https://mono.ipros.com/cg3/%E7%A0%82%E5%9E%8B3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "砂やバインダーが変わるたびに、ジェッティング、硬化、強度、保管、ガス、鋳造を再評価します",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "砂とバインダーの TDS/SDS を入手し、サンプルをロットします",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて、強度、寸法、保管、透過性、またはガスをテストします",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "valued at USD 11.8 billion in 2025 and is projected to reach USD 18.8 billion",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Foundry Consumables Market was valued at USD 11.8 billion in 2025 and is projected to reach USD 18.8 billion by 2034, growing at a CAGR of 5.3%.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 and is projected to reach",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "It is projected to reach",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry applications can reach commercial value with fewer qualification hurdles than safety-critical aerospace components because the printed object is often a mold or core rather than the final load-bearing part. Metal components offer a larger long-term revenue pool, but qualification cycles are longer and customers demand extensive traceability.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The next decade should bring a gradual shift from equipment-led adoption to process-led production. The 10.2% forecast CAGR assumes that metal and sand systems secure more repeat programs, while ceramic and construction applications develop selectively. It does not assume that every announced printer reaches full factory utilization.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "emerged as the absolute market leader for 3D sand printing binder systems in 2025, reaching an estimated",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "are reinforcing competitive moats through structural consolidation and exclusive distribution partnerships that widen global reach and secure preferred binder channels; the consolidation of key binder-jetting capabilities under a single holding exemplifies Tier-1 strategic integration to preserve technological leadership",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global 3D sand printing binder systems market was valued at USD 325.5 Million in 2025 and is projected to grow at a compound annual growth rate of 17.58% over 2026–2032, reaching USD 1,011.27 Million by 2032.",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "セットアップコストが低いため、小ロットやオーダーメイドの製造が容易になります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "政府は、特に航空宇宙、防衛、インフラ分野におけるイノベーションを促進するための研究イニシアチブやパイロットプロジェクトを支援しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "政府の補助金と補助金は、初期段階の導入とパイロット プロジェクトをサポートします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の軌道には、認定された高性能材料の開発、プロセス検証のためのデジタルツイン技術の統合、現場での現場修理やスペアパーツ製造のためのサンド 3D プリンティングの使用の拡大が含まれます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "建物のファサードやインフラコンポーネント用の 3D プリントされたコンクリート型枠など、最近のパイロット プロジェクトでは、その可能性が実証されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "原材料、主に特殊な砂複合材と結合剤は、流動性、熱安定性、結合強度などの材料特性の最適化に重点を置いている化学会社や鉱物会社から供給されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の形態に基づいて、大型・中ロットの鋳造向けの高耐久大型装置と、小ロット・多品種・迅速な試作向けの小～中規模システムに大別されます",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "voxeljetのような企業は、砂型3Dプリンティングが、大型鋳物（数トン以上）や小ロット・多品種生産において、金型コストと納期面で大きな利点をもたらし、エネルギー、重機、ポンプ・バルブ、自動車パワートレインなどの分野での応用を可能にすると強調しています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "砂用3Dプリンターの主な用途は、工業部品の試作や小ロット生産です",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "特に、自動車産業では、早期のプロトタイプ作成や市場調査用の小ロット生産が求められるため、砂用3Dプリンターの需要が増加しています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "製品の形状に基づいて、これらは大サイズの中型鋳造用の重-duty大型機器と、小型・中型のシステムに大別され、小ロット、多品種、迅速なプロトタイピングに対応しています",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "voxeljetのような企業は、砂型3Dプリンティングが大規模鋳造（トン単位以上）や小ロット・多品種生産において型のコストや納期において大きな利点を提供し、エネルギー、重機、ポンプとバルブ、自動車のパワートレインなどの分野での応用を可能にすると強調しています",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の形態に基づき、大型・中ロットの鋳造向けの高耐久大型装置と、小ロット・多品種・迅速な試作向けの中小型システムに大別される",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "voxeljetのような企業は、砂型3Dプリンティングが、大型鋳物（数トン以上）や小ロット・多品種生産において、金型コストと納期面で大きな利点をもたらし、エネルギー、重機、ポンプ・バルブ、自動車パワートレインなどの分野での応用を可能にすると強調しています",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "それにより高流動性を確保し、高耐熱性・低熱膨張性・高密度・高強度な造形を実現します",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "専用砂：Catalyst Coated Sand",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーはプロトタイプ開発や小ロット生産において大幅なコスト削減を実現できます",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、迅速にプロトタイプや小ロット生産が可能になるため、企業は最小限の財務リスクで市場需要をテストでき、結果として市場占有率や収益機会の拡大が期待できます",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "2010年に設立された康碩グループ（Kangshuo Group）は、重要なコンポーネント向けのスマート製造分野のパイオニアであり、中国工業情報化省より国家ハイテク企業および「リトルジャイアント」と認定されています",
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "pass": 3
+   },
+   {
+    "quote": "され、特に試作品や小ロット生産において大きなコストメリットが生まれます",
+    "url": "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作品や小ロット生産において、初期費用（イニシャルコスト）を大幅に削減できます",
+    "url": "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "pass": 3
+   },
+   {
+    "quote": "従来必要であった木型や金型を使用せず、主型・中子をダイレクトに造形することで、試作から小ロット生産までのリードタイムを大幅に短縮します",
+    "url": "https://www.cmet.co.jp/product/infomation/1353/",
+    "pass": 3
+   },
+   {
+    "quote": "G-CCS（Catalyst Coated Sand）/専用バインダー",
+    "url": "https://www.cmet.co.jp/product/infomation/1353/",
+    "pass": 3
+   },
+   {
+    "quote": "社の供給する人工砂（Catalyst Coated Sand）およ",
+    "url": "https://www.pref.mie.lg.jp/common/content/000869724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "認定された材料については 90% 以上の回収が可能ですが、使用可能な回収率は重量だけではなく、許容される鋳型と鋳物によって決まります",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "流動性、耐火性、低膨張性",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "塩、粘土、微粉、等級、ロット、コンプライアンス",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "洗浄、分級、乾燥、または表面処理には、依然としてコスト、廃棄物規制、ロットの安定性、および鋳造の見直しが必要です",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、認定された鋳物砂は、処理、安定性、回収を含めると通常より経済的です",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "砂とバインダーの TDS/SDS を入手し、サンプルをロットします",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "の認定資料は、現在の技術文書とトライアルに従っています",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "内の材料テストとレビュー認定については、",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "微粉、バインダー残留物、ロットを監視し、金型と鋳造の結果で確認します",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Paints, Sealant, Coatings and Adhesives",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "refractory coatings, filters, and additives consumed during ferrous and",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "refractory coatings, and digitally monitored sand management solutions.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "took effect on 16 January 2026 to protect domestic refractory and coatings",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "bentonite-bonded green sand and coal-dust additives across ferrous foundries.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "lifting consumption of resin-coated sand, specialty coatings, and non-ferrous",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Zircon-Alternative Refractory Coatings Creates Significant Market Opportunity",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "programs are creating demand for zircon-alternative refractory coatings and",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "downstream binder, coating, and filtration manufacturing is opening",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Coatings are projected to grow at the",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "zircon-based refractory coatings toward zircon-alternative, low-VOC",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "structural parts, are pushing coating suppliers to accelerate development of",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Coatings (Fastest-growing Segment)",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "bentonite, coal-dust, and refractory sand volumes used in cast-iron and",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "shift is increasing consumption of specialty resin-coated sand, degassing",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Digital qualification tools that predict shrinkage and furnace distortion.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry applications can reach commercial value with fewer qualification hurdles than safety-critical aerospace components because the printed object is often a mold or core rather than the final load-bearing part. Metal components offer a larger long-term revenue pool, but qualification cycles are longer and customers demand extensive traceability.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The process is considered for weight-sensitive components, low-volume replacement parts, tooling and castings, subject to rigorous qualification and traceability.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Demand is strongest where domestic supply, shorter lead times and part consolidation justify process development. Defense programs can support small and irregular production volumes, although qualification and documentation are demanding. Canada contributes through aerospace, research and industrial manufacturing, but its equipment base is smaller than that of the United States.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Sintering is another bottleneck. Furnaces require capital, controlled atmospheres and carefully designed loading patterns. A printer can produce a large batch of parts, but the furnace may determine the actual factory throughput. For metal users, shrinkage and density must be tracked across geometries and lots. In ceramic applications, warpage and cracking can be equally difficult to manage.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, competing processes continue to improve. Casting is highly efficient for stable high volumes, machining remains dependable for many metal shapes, and laser powder-bed fusion has a substantial qualification base for complex high-value parts. Binder jetting must show a measurable advantage in cost, throughput, geometry or supply-chain flexibility for each program.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite these technological advancements, the market’s expansion was tempered by high initial investment costs for industrial-grade binder jetting hardware and the elevated price of proprietary chemical consumables relative to conventional resin-coated sands. Geographically,",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", supported by ongoing industrial qualification and scaling of additive workflows. Meanwhile, Latin America represented roughly",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". Standardized feedstock is expected to reduce qualification cycles for foundries and is anticipated to witness lucrative growth in adoption as printer builders and material suppliers align specifications.",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Distribution strategies tightened at the start of 2026 when Multistation signed an exclusive distribution agreement to represent Kangshuo’s sand binder jetting 3D printers — including high-productivity models with bidirectional recoating — across France and North Africa, an arrangement that is expected to accelerate regional adoption of higher-throughput systems",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". Collectively, automation milestones, feedstock standardization, corporate consolidation, and targeted distribution expansion create a coherent directional signal for the 2026–2032 horizon: industrial-scale binder jetting for sand casting is projected to gain traction as suppliers align to reduce variability, scale throughput, and shorten qualification timelines.",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Completely open. Sand particle size distribution (PSD) and morphology are managed via parameter tuning in the printer itself.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "高解像度プリンターのコスト低下と、互換性のある材料とソフトウェアのエコシステムの拡大により、市場がニッチな用途から主流の製造業へと進化するにつれて、構造の変化は明らかです",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "互換性のある砂やバインダーの選択肢が狭いなど、材料の制限により、特に高性能コンポーネントや特殊なコンポーネントの適用範囲が制限されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙規格と互換性のある認証済みの高強度砂材料の開発が進行中であるため、この機会がさらに拡大し、砂 3D プリンティングが次世代の航空宇宙製造の戦略的実現手段として位置づけられることが期待されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の成長のチャンスは、印刷速度の向上、材料互換性の拡大、SLS と他の積層造形技術を組み合わせたハイブリッド システムの開発にあります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", ABC Additive Manufacturingは、既存のサンドプリンターと互換性のある環境に優しい結合剤を開発するため、大手化学サプライヤーとの戦略的パートナーシップを発表しました",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "シングルチップ降圧型電圧レギュレータの世界及び日本市場2026年：種類別（AC降圧型電圧レギュレータ、DC降圧型電圧レギュレータ）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "プリントヘッドの数、スライスソフトウェア、印刷速度、材料の互換性など、その他多くのオプション機器、部品を含めると、構成が高くなるほど、価格もそれに応じて高くなります",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型積層専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型積層造形装置利用で最も適している専用のG-CCS（砂）、バインダ（樹脂）をご提供しています",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用砂型3Dプリンター専用材料",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用砂型3Dプリンター専用材料は、人工砂に酸触媒をコーティングすることで乾態化します",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用砂型3Dプリンター専用材料の特長",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "専用砂：Catalyst Coated Sand",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "JMCでは砂型鋳造でも豊富な実績を有しており、長野県飯田市に設置する鋳造専用工場にて、鋳造工程やその後の追加工まで一括で対応することが可能です",
+    "url": "https://www.3d-printout.com/system/sprint/",
+    "pass": 3
+   },
+   {
+    "quote": "G-CCS（Catalyst Coated Sand）/専用バインダー",
+    "url": "https://www.cmet.co.jp/product/infomation/1353/",
+    "pass": 3
+   },
+   {
+    "quote": "CM-6/専用添加剤/専用バインダー",
+    "url": "https://www.cmet.co.jp/product/infomation/1353/",
+    "pass": 3
+   },
+   {
+    "quote": "is the best sand 3D printer for most foundries in 2026 — it offers 2,500 × 1,500 × 1,000 mm build volume, open material system, 2-month delivery, and a 5-year TCO roughly 40% below comparable Western machines. For large-format casting, the",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "— オープン方式（互換性のある砂・結合材なら何でも使用可能）対クローズド方式（専用消耗品）",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンマテリアルシステム — クローズドシステムの競合製品に比べ、バインダーコストが40–60%低減",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "その代償として、価格（$400K～$600K）、リードタイム（4～7ヶ月）、およびセミクローズド型の材料システムが挙げられます",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "購入価格が30%安いものの、専用消耗品を使用する機器は、より高価なオープンシステムの機器よりも、5年間で見た場合の総コストが高くなる可能性があります",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3DPTEK J1800 is the best sand 3D printer for small foundries. It offers 1,800 × 1,000 × 700 mm build volume (enough for most small-to-medium casting parts), an open material system (lower operating cost), 6–8 week delivery, and an entry price of $120K–$180K. For foundries new to sand 3D printing, the J1800 provides the fastest path to production without overcommitting capital.",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "クローズドシステム（voxeljet、一部はExOne）では、高価格の専用バインダーの使用が義務付けられており、その価格は通常、一般市場で販売されているフuran系やフェノール系バインダーの2～3倍になります",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンシステム（3DPTEK）では、砂やバインダーを任意のサプライヤーから調達できるため、消耗品コストを40～60％削減できます",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "5年間にわたり適度な稼働率で運用した場合、オープンシステムによる節約額は装置の購入価格を上回る可能性があります",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "オープンシステムは、ハードウェアの変更なしに新しい砂の配合、新しい結合剤の化学組成、そして新しい材料技術に適応できるため、本質的に将来性があります",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、クローズドシステムでは、メーカーがサポートすることを選択した範囲に縛られてしまいます",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPTEKの装置では、砂システムはオープン型となっており、砂の供給源を自社で選定できます",
+    "url": "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "pass": 3
+   },
+   {
+    "quote": "一貫したプリント品質を確保するため、装置内の環境（22～28 °C、湿度30～50%）は厳密に制御されており、バインダーの反応が完了するまで、専用の硬化ステーションが部品を保持します",
+    "url": "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダージェッティング3Dプリンティング技術に関するすべて：金属バインダージェッティング、砂バインダージェッティング、セラミックバインダージェッティング、材料システムの比較、オープンプラットフォームとクローズドプラットフォームの比較、およびプロセス選定ガイド",
+    "url": "https://www.lyafs.com/ja/blog/category/sand-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "SCM-800Ⅱは、光造形装置とは異なり、レーザーではなくインクジェットヘッドを搭載し、専用の特殊バインダーを噴射し特殊コーティング人工砂を硬化させ積層し砂型を造形する装置です",
+    "url": "https://www.cmet.co.jp/%E3%80%90%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%80%91%E4%B9%BE%E5%BC%8F%E7%A0%82-%E6%B9%BF%E5%BC%8F%E7%A0%82%E3%81%AE%E4%B8%A1%E9%AA%A8%E6%9D%90%E5%AF%BE%E5%BF%9C%E3%81%AE%E3%80%8Escm-800%E2%85%B1/",
+    "pass": 3
+   },
+   {
+    "quote": "additive-manufacturing-compatible (binder-jetting) sand and core materials is",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Despite these technological advancements, the market’s expansion was tempered by high initial investment costs for industrial-grade binder jetting hardware and the elevated price of proprietary chemical consumables relative to conventional resin-coated sands. Geographically,",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "High initial capital requirements for industrial binder‑jet hardware and the relatively higher cost of proprietary chemical consumables remain primary barriers. The competitive landscape is highly consolidated with a few major equipment manufacturers controlling certified binder chemistry, although independent chemical suppliers are gaining traction through specialized formulations.",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "To understand the revolution, one must first understand the status quo. In a traditional closed system, the binder jetting printer is calibrated to accept only a specific, chipped, or chemically locked resin and activator. This arrangement comes with several crippling financial penalties:",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "This means if you are a foundry sitting on a stockpile of locally sourced silica, Cerabeads (宝珠砂), or synthetic refractory sands that you bought at a competitive bulk rate, you can use it. 3DPTEK does not mandate that you buy sand from them. In fact, their R&D team actively validates third-party materials.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you currently overpaying for locked-in OEM consumables? Our team can provide a",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Closed System (Est. Western OEM)",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Marked-up proprietary bag",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": ". For a typical 3DPTEK-J1600Plus printing roughly 1.7 tons of sand per build cycle three times a day, the cost savings over a closed system amount to thousands of dollars daily.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Customer may purchase externally; however, equipment problems caused by incompatible third-party resins, curing agents, or cleaning fluids are",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "An open-sand policy would be meaningless if the machine hardware wasn't robust enough to handle the variable characteristics of third-party materials. 3DPTEK's binder jetting lineup is engineered for industrial abuse:",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "The Strategic Choice: SLS vs. 3DP Open Materials",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "results in a TCO that legacy Western brands, shackled by their proprietary razor-blade models, simply cannot match. For the global foundry industry—where margins are measured in pennies per kilogram—the choice to embrace an",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to move beyond proprietary constraints?",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "ボーイングやエアバスなどの大手航空宇宙 OEM は、重量と組み立ての複雑さを軽減するために積層造形に投資しており、これは燃料節約と運用効率につながります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車 OEM が市場投入までの時間を短縮し、革新的な機能を開発しようとしているため、サンド プリンティングは、特に製品開発の初期段階で、複雑な金型、治具、機能プロトタイプの開発において戦略的な利点をもたらします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "フォードや BMW などの自動車 OEM による社内サンド 3D プリンティング施設への最近の投資は、この傾向を例示しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "北米のサンド 3D プリンター市場は、成熟した産業基盤、多額の研究開発投資、OEM とエンドユーザーの堅牢なエコシステムが特徴です",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "地元の OEM や中国ロケット技術アカデミーなどの研究機関による最近の投資は、サンド 3D プリンティングの戦略的重要性を浮き彫りにしています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "中国製造 2025 計画などの最近の取り組みでは、国産の高性能材料の開発と輸入機器への依存の削減に重点が置かれています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "地方政府や民間企業による最近の投資は、先住民の能力を開発し、輸入への依存を減らし、イノベーション拠点を育成することを目的としています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は、OEM や政府機関と戦略的契約を締結することが多く、安定した収益源を提供し、市場での存在感を強化します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "流通チャネルには通常、印刷システムの複雑さと規模に応じて、大規模な OEM への直接販売、または専門の産業機器販売代理店を通じての販売が含まれます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "このエコシステム内の主要な関係者には、材料サプライヤー、プリンター OEM、ソフトウェア開発者、エンドユーザー業界が含まれます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "5.7.2 砂3Dプリンターの代表的な販売代理店",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "表24. 砂3Dプリンターの主な販売代理店",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業がExOneと砂型3Dプリンターの販売代理店契約を締結 - VOIX biz",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業がExOneと砂型3Dプリンターの販売代理店契約を締結",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は2026年9月7日、産業用3Dプリンティングソリューションを展開する株式会社ExOne（エクスワン）と、砂型3Dプリンターの日本国内における販売代理店契約を締結した",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業は、単なる装置の販売にとどまらず、総合機械商社として培ってきた国内の販売・技術サポート体制を最大限に活用する",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D sand printing binder systems market remains highly concentrated, with a small number of equipment OEMs and their certified binder chemistries accounting for a dominant share of supply, while specialist chemical suppliers are gaining traction through targeted formulations that improve print-head compatibility and part performance. Leading platform providers such as",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". This milestone propelled OEM interest in automation-led binder strategies and is attributed to a sharper focus on process repeatability and core quality.",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM controls the supply chain, often marking up base chemicals by 300-500%. A foundry isn't paying for chemistry; it's paying for a license to operate.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Relying on a single source for critical inputs creates catastrophic risk. A production halt due to a logistics delay at the OEM threatens just-in-time delivery contracts in the automotive and heavy machinery sectors.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you currently overpaying for locked-in OEM consumables? Our team can provide a",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Closed System (Est. Western OEM)",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "Local/OEM (Open Source)",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": ".\" This repairability starkly contrasts with the \"sealed unit\" replacement philosophy of some Western OEMs, where a minor issue mandates a full, expensive printhead swap.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   },
+   {
+    "quote": "The move toward open-source consumables in additive manufacturing is not merely a trend; it is a market correction. By decoupling the hardware sale from the chemical supply chain, 3DPTEK fundamentally redefines the relationship between the OEM and the foundry.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "AI モデルは、成功した印刷パラメーターと形状の膨大なデータセットから学習するため、最適化プロセスの自動化が進み、プロトタイピング サイクルの短縮とより革新的なアプリケーションの実現につながります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習アルゴリズムは、印刷中にセンサー データを分析して異常を検出し、オンザフライでパラメーターを最適化し、欠陥を防ぐことができるため、スループットが向上し、ダウンタイムが削減されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この変化の証拠としては、資本投資の増加、戦略的提携、大規模製造をサポートできる高解像度でスケーラブルなプリンターの普及などが挙げられます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分野は、従来の鋳造方法では効率的にサポートできない設計の複雑さの限界を押し広げており、その結果、高度なサンド 3D プリンティング ソリューションに対する継続的なニーズが生まれています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "より大型の金型を処理できる高解像度でスケーラブルなプリンタの普及により、本格的な生産をサポートする市場の能力が拡大しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ジェネレーティブ デザインとシミュレーション ツールの採用の増加により、より複雑で最適化された砂型が可能になり、需要の増加が促進され、予測される CAGR がサポートされます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "AI アルゴリズムはプロセスパラメータを最適化し、一貫した品質の出力を実現します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "政府の補助金と補助金は、初期段階の導入とパイロット プロジェクトをサポートします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズはニッチな限定モデルの車両をサポートします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "現場での製造をサポートし、物流コストを削減します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、未使用の砂やバインダーの残留物を新しい印刷サイクルにリサイクルできる可能性により、資源効率が向上し、企業の持続可能性目標と規制遵守をサポートします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "AI アルゴリズムは、プリンターに組み込まれたセンサーからの膨大なデータセットを分析して、パターンを特定し、故障を予測し、プロセス パラメーターを動的に最適化します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔地や災害地域への迅速な導入をサポートします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ラピッドプロトタイピングと反復的な設計サイクルをサポートします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "この機能により、メーカーは物理的な実行前に印刷パラメータをシミュレートし、潜在的な欠陥を予測し、プロセス設定を最適化できるため、試行錯誤のコストが大幅に削減されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "このレポートは、世界の砂3Dプリンター市場における主要プレーヤーを、企業概要、販売数量、収益、価格、粗利益、製品ポートフォリオ、地理的存在、主要な開発などのパラメーターに基づいてプロファイルしています",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、2021年から2026年までのサンド3Dプリンターの価格、販売数量、収益、世界市場シェアをもとに、主要な製造業者をプロファイルします",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AIや機械学習を活用した最適化技術も注目を集めており、設計から製造までのプロセスをサポートする方向に進化しています",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "市場をより深く理解するために、本レポートでは競争環境、主要競合他社、およびそれぞれの市場順位に関するプロファイルを提供しています",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーの売上高、市場シェア、企業プロファイルを含む、市場内の競争環境を評価します",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：企業プロファイル、市場における主要企業の基本状況を詳細に紹介（製品仕様、用途、最近の動向、販売数量、平均価格、売上高、粗利益率を含む）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "プリンター、ソフトウェア、および除粉ステーションに関するオペレーター研修",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、製品パラメータ、事例デモ、顧客評価をチェックすることで評価できます",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 砂型3Dプリンター選択ガイド：鋳造サイズと材料に基づいて適切な機械パラメータを選択する",
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "pass": 3
+   },
+   {
+    "quote": "乾式湿式の段取り切替はユーザ自身で対応可能 ：材料の入れ替えおよびパラメータ変更のみで簡単に切替",
+    "url": "https://www.cmet.co.jp/product/infomation/1353/",
+    "pass": 3
+   },
+   {
+    "quote": "— 機械がどれほど早く納品されるか、そして故障した際にどれほど迅速にサポートを受けられるか",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPTEKは、1～3週間のリードタイムで地域ごとのスペアパーツ在庫を確保し、24時間体制の遠隔サポートを提供するとともに、重大な問題が発生した場合には24～48時間以内に現場エンジニアを派遣します",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、クローズドシステムでは、メーカーがサポートすることを選択した範囲に縛られてしまいます",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPTEKは、スライシングアルゴリズム、造形準備ツール、プロセスパラメータライブラリなど、自社製マシン向けに継続的なソフトウェアアップデートを提供しています",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業は、単なる装置の販売にとどまらず、総合機械商社として培ってきた国内の販売・技術サポート体制を最大限に活用する",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "我々第一メカテックでは、砂型造形サービスとマシン導入後の技術サービスサポートをメインに対応しております",
+    "url": "https://plastic-surfacetreatment.com/solution/products/3d-print/sand/",
+    "pass": 3
+   },
+   {
+    "quote": "マシン導入のサポートや導入後の保守点検・トラブル対応など、安心して使い続けられるようにアフターサポートも対応しております",
+    "url": "https://plastic-surfacetreatment.com/solution/products/3d-print/sand/",
+    "pass": 3
+   },
+   {
+    "quote": "本ガイドでは、デジタルファイルの準備から鋳込み、シェイクアウトに至るまでの全工程を7つのステップに分けて解説し、現場で実際に重要な機械パラメータ、材料、所要時間について詳しく説明します",
+    "url": "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "pass": 3
+   },
+   {
+    "quote": "このステップで設定される 2 つのパラメータによって、ジョブの大部分が定義されます：",
+    "url": "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "pass": 3
+   },
+   {
+    "quote": "シリカサンドは広く使用されており、成熟した実践によってサポートされていますが、その相変化と熱膨張には管理が必要です",
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Software is becoming a larger part of the purchasing decision. Build-preparation systems must account for powder spreading, binder saturation, packing density, orientation, shrinkage compensation and furnace behavior. A printer that can physically deposit binder is not enough; users need a qualified process window and reliable data linking the digital model to the finished part.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Universities, laboratories and training centers use binder jet systems for process development, material studies and manufacturing instruction.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "These users support materials research, process development and workforce training, often serving as early adopters for new powders and binders.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive, electronics, consumer goods and foundry applications are the most visible demand centers. Cost-sensitive buyers may initially favor service providers or smaller systems, then scale after demonstrating yield. The region's opportunity is substantial, but market development will depend on consistent powder standards, operator training and access to industrial sintering capacity.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Completely open. Sand particle size distribution (PSD) and morphology are managed via parameter tuning in the printer itself.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "SLS プロセスは、シリカ、ジルコン、アルミナベースの砂など、幅広い砂組成を処理できるため、その汎用性が高まります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "中国製造 2025 計画などの最近の取り組みでは、国産の高性能材料の開発と輸入機器への依存の削減に重点が置かれています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、長期サービス契約、独自ソフトウェアのライセンス、カスタマイズ製品が追加の収益源として機能し、企業は熾烈な価格競争の中でも健全な利益率を維持することができます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行式ヒューマノイドロボットの世界及び日本市場2026年：種類別（フルサイズ汎用二足歩行ロボット、簡易型二足ヒューマノイドロボット）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "欧米製と中国製の設備の価格を率直に比較検討したい場合は、当社の",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "欧米製と中国製の3Dプリンターのコスト分析",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "装置は量産段階にあり、砂や結合剤は汎用品並みの価格で入手可能であり、このプロセスを採用している鋳造所からは、重要な案件において30～80%のコストと時間の削減が報告されています",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "600 × 600 × 600 mmの造形領域とSLS技術ならではの精度により、汎用性の高いミッドレンジモデルとなっています",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "higher-margin revenue streams beyond commodity sand supply.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "compete on cost in commodity-grade sand and binder categories. Leading",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "When 95% of a \"failed print\" or a broken mold returns to the hopper, the effective cost of that \"open\" sand becomes almost negligible. You aren't just buying cheap sand; you are buying that cheap sand once and reusing it 20 times.",
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "この技術の相乗効果により、軽量でありながら構造的に堅牢な砂型の開発が可能になり、材料の消費量と後処理要件が削減されます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "低消費量のフラン系（例：SS06）",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "バインダーによって結合された砂のみが鋳型となり、造形ボックス内の未結合の砂はふるい分けられて再利用されるため、実質的な消費量はボックスの容積のほんの一部にとどまります",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPと鋳造を組み合わせた統合プロセスでは、エネルギー消費量が約",
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、造形容積が大きくなると、1層あたりのプリント時間が長くなり、1回の造形あたりの砂の消費量が増え、設置面積も大きくなります",
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "pass": 3
+   },
+   {
+    "quote": "50 %軽量化されており，人工砂の使用量を 50 %減",
+    "url": "https://www.pref.mie.lg.jp/common/content/000869724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る砂型よりも人工砂の使用量を減らすことができる",
+    "url": "https://www.pref.mie.lg.jp/common/content/000869724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "rates in real time, reducing scrap and raw-material consumption across",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "lifting consumption of resin-coated sand, specialty coatings, and non-ferrous",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "directly increasing bentonite, refractory, and filter consumption.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "shift is increasing consumption of specialty resin-coated sand, degassing",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "battery housings and motor components sustaining consumables consumption even",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "across China, India, Japan, and South Korea. China leads regional consumption",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "witnessing growing consumption of resin-coated sand and specialty coatings tied",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Email Subscription Management",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Foundries and automotive suppliers are particularly relevant. Europe also has a strong technical university network, supporting improvements in simulation, sintering and ceramic processing. Adoption can be slower where industrial buyers require extensive certification, but once a production route is approved, recurring consumables and service revenue can be durable.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Pfo Closure Device Consumption Market",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "North America (U.S, Canada, Mexico), Europe (Germany, United Kingdom, France), Asia-Pacific (China, Japan, South Korea, India), Middle-East (Saudi Arabia, UAE, Kuwait, Qatar).",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、急速な工業化、積層造形を促進する政府の取り組み、中国、日本、韓国、インドなどの国の製造能力の拡大によって、サンド 3D プリンティングの重要な成長拠点として台頭しつつあります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサンド3Dプリンター市場",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサンド 3D プリンタ市場は、日本の先進的な製造部門によって推進され、品質と信頼性を重視した高精度アプリケーションに焦点を当てていることが特徴です",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ニコンなどの日本企業と地元の大学との最近の提携は、高解像度のバインダー噴射システムと環境に優しいバインダーの開発を目的としています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "将来の展望には、このニッチ分野で日本の技術的リーダーシップを維持するための、AI 主導のプロセス最適化の統合、マルチマテリアル機能の拡大、認証と品質保証の基準の開発が含まれます",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾の詳細な市場状況も含まれています",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：砂用3Dプリンターの世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域（中国、日本、韓国、インド、東南アジア、オーストラリア）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "9.3.4 日本市場の規模と予測（2021-2032）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "図70. 日本の砂3Dプリンター消費価値（2021-2032年）＆（百万米ドル）",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "pass": 3
+   },
+   {
+    "quote": "砂3Dプリンターの世界及び日本市場2026年：最大処理能力別（200L/h以下、200L/h～500L/h、500L/h以上）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 日本の砂3Dプリンターの販売台数、売上高、企業別価格、市場シェア、業界ランキング（2021-2026年）（百万米ドル）および（台数）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（中国、日本、韓国、インド、東南アジア、オーストラリア、その他アジア太平洋諸国）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：サンド3Dプリンターの製品範囲、世界の販売数量、販売額、平均価格、日本の販売数量、販売額、平均価格、開発機会、課題、動向、および政策について記述",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：日本のサンド3Dプリンター市場における主要メーカーのシェアおよびランキング、販売数量、売上高、平均価格（2021年～2026年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 日本の砂3Dプリンター市場規模と予測",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.1 消費額別、日本の砂3Dプリンター市場規模、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.2 販売数量別、日本の砂3Dプリンター市場規模、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3.3 日本の砂3Dプリンター平均販売価格（ASP）、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4 世界市場における日本の砂3Dプリンター市場のシェア",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.1 消費額別、日本の砂3Dプリンターの世界市場におけるシェア、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.2 販売数量別、日本の砂3Dプリンターの世界市場におけるシェア、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "1.4.3 砂3Dプリンター市場規模：日本対世界、2021-2032年",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "3 日本の主要メーカーと市場シェア",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "3.1 売上高別：砂3Dプリンターの日本市場における企業別シェア（2021年～2026年）",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "pass": 3
+   },
+   {
+    "quote": "砂型3Dプリンタ KOCEL：AJS-300A 日本初上陸実機展示！",
+    "url": "https://mono.ipros.com/cg3/%E7%A0%82%E5%9E%8B3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の多くの企業が、3Dプリンター",
+    "url": "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は2026年9月7日、産業用3Dプリンティングソリューションを展開する株式会社ExOne（エクスワン）と、砂型3Dプリンターの日本国内における販売代理店契約を締結した",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、鋳造（ちゅうぞう：溶かした金属を型に流し込んで製品を作ること）業界をはじめとする国内製造業に対し、用途や生産条件に応じた最適なソリューションの提供が可能となる",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "国内の鋳造業界では、熟練技能者の高齢化や人手不足が深刻な課題となっている",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "これを受け、第一実業は関係各社と協議を進め、両ブランドの国内販売窓口を一本化することで合意した",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から保守まで一貫支援し国内製造業の競争力を下支え",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業は、単なる装置の販売にとどまらず、総合機械商社として培ってきた国内の販売・技術サポート体制を最大限に活用する",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業は、ExOneとvoxeljetの両ブランドを軸に、日本のものづくりの基盤である鋳造プロセスの効率化と高度化を支援し、製造業全体の競争力向上に寄与していく方針だ",
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, where regulatory limits on VOC and formaldehyde emissions are tightening",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "across China, India, Japan, and South Korea. China leads regional consumption",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Southeast Asia and the Middle East. Japan's shell-molding sector favors",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sintokogio, Ltd. (Japan)",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kao Corporation (Japan)",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific dominates the market, supported by extensive casting capacity in China, India, Japan, and South Korea, while North America is the fastest-growing region due to reshoring and EV-linked casting investment.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific accounted for 24% in 2025 and has the strongest long-term expansion potential. China, Japan, South Korea, Singapore and India combine large manufacturing bases with growing interest in localized digital production. China supplies equipment and materials across multiple additive technologies, while Japan brings expertise in precision manufacturing, ceramics and industrial automation.",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   },
+   {
+    "quote": "9.4.3 Japan",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "砂型積層専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売... — 鋳造用砂型3Dプリンター専用材料 について 鋳造用砂型3Dプリンター専用材料は、人工砂に酸触媒をコーティングすることで乾態化します。 それにより高流動性を確保し、高耐熱性・低熱膨張性・高密度・高強度な造形を実現します。",
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Consumables Market Size ,Share ,Growth & Forecast 2034 — Rising adoption of additive-manufacturing-compatible (binder-jetting) sand and core materials is creating a new high-value consumable category tied to rapid tooling and prototype casting.",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.2",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "quote": "サンド 3D プリンター市場は加速的な成長軌道にあり、2026 年から 203 年までの年間平均成長率 (CAGR) は約 16.2% と予測されています"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "quote": "2024 年の価値は 9 億米ドルですが、CAGR は約 8.0% で、2025 年の 10 億米ドルから 2033 年までに 18 億米ドルに成長すると予想されます"
+   },
+   {
+    "value": "13.0",
+    "url": "https://newscast.jp/smart/news/8024458",
+    "quote": "世界の砂3Dプリンター市場規模は、2025年の1億1,800万米ドルから2032年には2億5,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）13.0％で成長すると見込まれています"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "quote": "世界の砂3Dプリンター市場の規模は2025年に1億2400万米ドルと評価され、2032年には2億5900万米ドルに調整される見込みで、2026年から2032年の期間中に年平均成長率（CAGR）が12.3%と予測されています"
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "quote": "世界のサンド3Dプリンター市場は、2025年の1億2,800万米ドルから2032年までに2億6,100万米ドルへと成長し、2026年から2032年までの期間における年平均成長率（CAGR）は11.8％になると見込まれています"
+   },
+   {
+    "value": "5.3",
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "quote": "by 2034, growing at a CAGR of 5.3% during the forecast period (2026–2034). The"
+   },
+   {
+    "value": "10.2",
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "quote": "CAGR of 10.2%"
+   },
+   {
+    "value": "17.58",
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "quote": "325.5 Million USD in 2025, Expanding to 1.01 Billion USD by 2032 at a CAGR of 17.58%"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/8024458",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.co.jp/reports/1858599/sand-3d-printing-equipment",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/binder-jetting-3d-sand-printer-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ask-chemicals.com/ja/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/3d%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product_cate/material-sand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printout.com/system/sprint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8417/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E7%A0%82%E5%9E%8B3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/product/infomation/1353/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/09/09/416346.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voix.jp/biz/news-analysis/178499/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plastic-surfacetreatment.com/solution/products/3d-print/sand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tochu.com/business/3dprinter.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kuwabara-3d.com/column/c048/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.mie.lg.jp/common/content/000869724.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ask-chemicals.com/fileadmin/user_upload/Download_page/foundry_service_brochures/JP/3D_Binder_Technology.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lyafs.com/ja/blog/category/sand-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cmet.co.jp/%E3%80%90%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%80%91%E4%B9%BE%E5%BC%8F%E7%A0%82-%E6%B9%BF%E5%BC%8F%E7%A0%82%E3%81%AE%E4%B8%A1%E9%AA%A8%E6%9D%90%E5%AF%BE%E5%BF%9C%E3%81%AE%E3%80%8Escm-800%E2%85%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/foundry-consumables-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.igtps.com/report/foundry-consumables-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.com/Prof-Research-v4036/Global-Sand-Casting-Binder-Summary-44932982/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmarketresearch.com/chemi/sand-casting-binder-for-foundry-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/binder-jetting-technology-market-102934",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/blog/sand-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accio.com/business/foundry-silica-sand-in-hand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/blog/sand-3d-printing-materials-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelmarketresearch.com/foundry-binder-market-16204",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6059551/sand-casting-binder-global-market-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/foundry-binder-market-37089",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketreport.com/industry-report/foundry-binder-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freeman-japan.co.jp/en/sand_casting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/comprehensive-analysis-japan-binder-jetting-market-hkale",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） 市場規模 CAGR",
+   "results": [
+    "https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/",
+    "https://newscast.jp/smart/news/8024458",
+    "https://www.qyresearch.co.jp/reports/1858599/sand-3d-printing-equipment",
+    "https://www.verifiedmarketreports.com/ja/product/binder-jetting-3d-sand-printer-market/",
+    "https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/",
+    "https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/",
+    "https://yhresearch.hatenablog.com/entry/2026/09/09/123019"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） 価格",
+   "results": [
+    "https://www.lyafs.com/ja/blog/sand-3d-printing-cost/",
+    "https://www.3dptek.com/ja/blogs/sand-3d-printer-price/",
+    "https://www.ask-chemicals.com/ja/テクノロジー/3dバインダーシステム",
+    "https://www.cmet.co.jp/product_cate/material-sand/",
+    "https://www.kangshuoim.com/ja/application/sand-3d-printer-price",
+    "https://www.3d-printout.com/system/sprint/",
+    "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） 主要メーカー 一覧",
+   "results": [
+    "https://metoree.com/categories/8417/",
+    "https://mono.ipros.com/cg3/砂型3Dプリンタ/",
+    "https://www.ask-chemicals.com/ja/テクノロジー/3dバインダーシステム",
+    "https://www.cmet.co.jp/product_cate/material-sand/",
+    "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "https://www.cmet.co.jp/product/infomation/1353/",
+    "https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） 代理店 日本",
+   "results": [
+    "https://response.jp/article/2026/09/09/416346.html",
+    "https://voix.jp/biz/news-analysis/178499/",
+    "https://www.cmet.co.jp/product_cate/material-sand/",
+    "https://www.cmet.co.jp/product/infomation/1353/",
+    "https://plastic-surfacetreatment.com/solution/products/3d-print/sand/",
+    "https://www.tochu.com/business/3dprinter.html",
+    "https://www.ask-chemicals.com/ja/テクノロジー/3dバインダーシステム"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） 規制 保管 危険物",
+   "results": [
+    "https://www.ask-chemicals.com/ja/テクノロジー/3dバインダーシステム",
+    "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "https://www.kuwabara-3d.com/column/c048/",
+    "https://www.pref.mie.lg.jp/common/content/000869724.pdf",
+    "https://www.ask-chemicals.com/fileadmin/user_upload/Download_page/foundry_service_brochures/JP/3D_Binder_Technology.pdf",
+    "https://www.lyafs.com/ja/blog/category/sand-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） 純正 指定材料 互換",
+   "results": [
+    "https://www.cmet.co.jp/product_cate/material-sand/",
+    "https://www.ask-chemicals.com/fileadmin/user_upload/Download_page/foundry_service_brochures/JP/3D_Binder_Technology.pdf",
+    "https://www.ask-chemicals.com/ja/テクノロジー/3dバインダーシステム",
+    "https://www.cmet.co.jp/【最新情報】乾式砂-湿式砂の両骨材対応の『scm-800ⅱ/",
+    "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market market size CAGR",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/foundry-consumables-market",
+    "https://www.igtps.com/report/foundry-consumables-market",
+    "https://www.marketresearch.com/Prof-Research-v4036/Global-Sand-Casting-Binder-Summary-44932982/",
+    "https://www.marketresearchintellect.com/product/binder-jetting-market/",
+    "https://pmarketresearch.com/chemi/sand-casting-binder-for-foundry-market/",
+    "https://www.businessresearchinsights.com/market-reports/binder-jetting-technology-market-102934",
+    "https://www.intelmarketresearch.com/foundry-binder-market-market-16204"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market price per kg",
+   "results": [
+    "https://www.lyafs.com/blog/sand-3d-printing-cost/",
+    "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "https://pmarketresearch.com/chemi/sand-casting-binder-for-foundry-market/",
+    "https://www.accio.com/business/foundry-silica-sand-in-hand",
+    "https://www.igtps.com/report/foundry-consumables-market",
+    "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "https://www.lyafs.com/blog/sand-3d-printing-materials-guide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market key players",
+   "results": [
+    "https://www.marketresearch.com/Prof-Research-v4036/Global-Sand-Casting-Binder-Summary-44932982/",
+    "https://www.intelmarketresearch.com/foundry-binder-market-16204",
+    "https://www.researchandmarkets.com/reports/6059551/sand-casting-binder-global-market-insights",
+    "https://www.mordorintelligence.com/industry-reports/foundry-consumables-market",
+    "https://www.marketresearchfuture.com/reports/foundry-binder-market-37089",
+    "https://www.futuremarketreport.com/industry-report/foundry-binder-market/",
+    "https://pmarketresearch.com/chemi/sand-casting-binder-for-foundry-market/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market distributor Japan",
+   "results": [
+    "https://freeman-japan.co.jp/en/sand_casting/",
+    "https://www.linkedin.com/pulse/comprehensive-analysis-japan-binder-jetting-market-hkale",
+    "https://www.igtps.com/report/foundry-consumables-market",
+    "https://www.linkedin.com/pulse/japan-foundry-binder-market-global-insights-regional-analysis-3xclc",
+    "https://www.mordorintelligence.com/industry-reports/foundry-consumables-market",
+    "https://www.tochu.com/english/business/material.html",
+    "https://www.dri.co.jp/auto/report/tsci/250714-foundry-binders-market-global-industry.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market safety storage regulation",
+   "results": [
+    "https://www.igtps.com/report/foundry-consumables-market",
+    "https://www.marketresearch.com/Prof-Research-v4036/Global-Sand-Casting-Binder-Summary-44932982/",
+    "https://www.mordorintelligence.com/industry-reports/foundry-consumables-market",
+    "https://pmarketresearch.com/chemi/sand-casting-binder-for-foundry-market/",
+    "https://www.verifiedmarketresearch.com/product/binder-jetting-3d-sand-printer-market/",
+    "https://www.verifiedmarketreports.com/product/binder-jetting-3d-sand-printer-market/",
+    "https://www.mordorintelligence.com/industry-reports/binder-jetting-3d-printing-technology-market"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market closed system open material third-party",
+   "results": [
+    "https://www.lyafs.com/blog/open-vs-closed-material-systems/",
+    "https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/",
+    "https://www.3dpcasting.com/blogs/open-material-systems-vs-closed-ecosystems-why-binder-lock-in-is-a-profit-killer/",
+    "https://www.sciencedirect.com/science/article/pii/S266653952600026X",
+    "https://www.sciencedirect.com/science/article/pii/S2950431724000297",
+    "https://www.3dmag.com/3d-wikipedia/sand-3d-printing-binder-jetting-foundry-molds/",
+    "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market commodity price competition",
+   "results": [
+    "https://www.igtps.com/report/foundry-consumables-market",
+    "https://www.accio.com/business/foundry-silica-sand-in-hand",
+    "https://pmarketresearch.com/chemi/3d-sand-drinting-binder-systems-market/",
+    "https://www.verifiedmarketreports.com/product/binder-jetting-3d-sand-printer-market/",
+    "https://www.researchandmarkets.com/reports/6037069/binder-jetting-market",
+    "https://pmarketresearch.com/chemi/sand-casting-binder-for-foundry-market/",
+    "https://www.mordorintelligence.com/industry-reports/foundry-consumables-market"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market technical support parameters",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S266653952600026X",
+    "https://www.ask-chemicals.com/support/technical-papers/sand-binder-systems",
+    "https://www.sciencedirect.com/science/article/pii/S2950431724000297",
+    "https://www.researchgate.net/publication/393495673_Use_of_Sintered_Bauxite_Sand_in_Binder_Jetting_of_Casting_Cores",
+    "https://link.springer.com/content/pdf/10.1007/s40962-025-01691-8.pdf",
+    "https://link.springer.com/article/10.1007/s40962-025-01691-8",
+    "https://www.3dpcasting.com/blogs/the-race-for-high-strength-ceramic-sands-what-foundries-need-to-know/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 砂型3Dプリンターの砂とバインダー（2成分の原料システム）",
+   "results": [
+    "https://note.com/qy_research/n/n3e67ace2f609",
+    "https://note.com/askchemicalsjp/n/nf6aa3057e974",
+    "https://note.com/kinzoku2/n/n4caa06ff2536",
+    "https://note.com/moka_3dpsales/n/n0a1ece0fdc2c",
+    "https://note.com/seikatsukun0/n/n3f01bc891bbd",
+    "https://note.com/satokin5522/n/n408e87ec33cd",
+    "https://note.com/brave_polestar/n/nd95703b6327c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 砂型3Dプリンターの砂とバインダー（2成分の原料システム）",
+   "results": [
+    "https://x.com/sumi_plus/status/2060512755686445492",
+    "https://x.com/BusinessHub413/status/2116617485646741579",
+    "https://x.com/denwaya/status/2110223244179767577",
+    "https://x.com/masahiro_hiraki/status/1820084557305254124",
+    "https://x.com/spacevision/status/2060344118400938179",
+    "https://x.com/para_850/status/2044558505626243470",
+    "https://x.com/spacevision/status/2060581227120509177"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 砂型3Dプリンターの砂とバインダー（2成分の原料システム）",
+   "results": [
+    "https://jp.linkedin.com/posts/junlong-yi-32707633a_3dプリンター-砂型3dプリンター-砂型造形-activity-7364193676983455744-YFJa",
+    "https://jp.linkedin.com/posts/kangshuo-group_3dプリント-砂型鋳造-スマート製造-activity-7351535777681506304-tfA6",
+    "https://www.linkedin.com/posts/keiko-kato-a73b62243_３dプリンターによる金型レス金属部品の量産事業-住友電工株と協業開始しました-activity-7090200485923614721-97iz",
+    "https://www.linkedin.com/posts/aifund_国内初の土を主原料とした3dプリンターモデルハウスが完成-activity-7158476944823508993-Wz3A",
+    "https://jp.linkedin.com/pulse/3d-printing-revolution-sand-casting-transforming-52fcc?tl=ja",
+    "https://jp.linkedin.com/posts/kangshuo-group_康碩グループ-kss1800b-砂型3dプリンター-activity-7402533478661361666-_Stk",
+    "https://jp.linkedin.com/posts/sharelab-jp_第一実業exoneと国内販売代理店契約を締結voxeljetと合わせ砂型3dプリンター-activity-7512796756657569792-g-ec"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 砂型3Dプリンターの砂とバインダー（2成分の原料システム）",
+   "results": [
+    "https://www.facebook.com/KimuraFoundry/posts/5122250521128976/",
+    "https://www.facebook.com/ask.chemicals.jp/photos/砂型用-無機バインダー-inotecの-技術資料-ダウンロード-アクセスですアルミのみならず鋳鉄への応用も含めてチャレンジしております最新開発状況共同開発共同試/1264652070548065/",
+    "https://www.facebook.com/YoshidaIndustries/photos/3d-プリンター砂型アルミ鋳物-ロボット自動車バイク3dプリンター-cae金型砂型鋳造機械加工レースsandcastingcastingmachining3/5296206487146496/",
+    "https://www.facebook.com/YoshidaIndustries/photos/3d-プリンター砂型アルミ鋳物-ロボット自動車バイク3dプリンター-cae金型砂型鋳造機械加工レースsandcastingcastingmachining3/969000048566747/",
+    "https://www.facebook.com/YoshidaIndustries/photos/鋳造プロセスその1-積層砂型鋳造積層砂型鋳造とは3dプリンタで製作した砂型に鋳造するプロセスです積層造形技術による製造方法のことを最近ではamadditive/2685867818180389/",
+    "https://www.facebook.com/YoshidaIndustries/photos/砂型鋳物アルミ鋳物-ロボット自動車バイク3dプリンター-cae金型砂型鋳造機械加工レースsandcastingcastingmachining3dprint/3613684138732081/",
+    "https://www.facebook.com/visionokayama/posts/鋳造で機械部品を製造するイノテックはこのほど砂型用の3dプリンターを導入しました鋳物業界での3dプリンターの導入は全国的にも珍しく低コスト短納期で製品を仕入れら/1366328156847636/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） note 社長",
+   "results": [
+    "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "https://ctt-media888.com/sand-mold-three-d-printer-guide/",
+    "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "https://www.ask-chemicals.com/ja/テクノロジー/3dバインダーシステム",
+    "https://news.sharelab.jp/interviews/no1-sand-3dprinter-secret-story-231215/",
+    "https://news.sharelab.jp/what-is-sand-3dprinter/",
+    "https://www.aist.go.jp/aist_j/magazine/20190102.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3Dプリンターの砂とバインダー（2成分の原料システム） X 投稿",
+   "results": [
+    "https://www.lantu3d.cn/ja/news/binder-jetting-sand-mold-rapid-casting-3d-printing-ja",
+    "https://www.lyafs.com/ja/blog/category/sand-3d-printing/",
+    "https://www.ask-chemicals.com/ja/テクノロジー/3dバインダーシステム",
+    "https://casting-pattern-production.businesshub.trueone.co.jp/page-03-3d-printer-casting.html",
+    "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/",
+    "https://www.lyafs.com/ja/blog/how-sand-3d-printing-works/",
+    "https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-sunagata-cad-kara-dappun-made/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder jetting foundry sand binder consumables market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/sand-binder-jetting-sbj-printers-market-characterized-rapid-jnole",
+    "https://www.linkedin.com/pulse/binder-jetting-3d-sand-printer-market-trends-forecast-m6u2c",
+    "https://pe.linkedin.com/pulse/sand-binder-jetting-sbj-printers-market-wwmaf",
+    "https://pe.linkedin.com/pulse/binder-jetting-3d-sand-printer-market-size-scope-growth-8uvuc",
+    "https://ca.linkedin.com/in/sonja-denobrega-8b854028",
+    "https://www.linkedin.com/pulse/detailed-examination-binder-jetting-market-4sbyf",
+    "https://www.linkedin.com/pulse/binder-jetting-3d-sand-printer-market-analysis-us-japan-aaybf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

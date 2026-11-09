@@ -1,0 +1,1296 @@
+{
+ "name": "砂型3D用の砂・バインダーの新興企業",
+ "en": "sand binder 3D printing foundry startup",
+ "aliases": [
+  "Sand Binder 3D-Druck Start-up",
+  "sable liant impression 3D start-up",
+  "砂型 3D打印 粘结剂 初创"
+ ],
+ "context": "砂＋バインダー",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:16:33.181076+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": "UltiMaker partners with Singapore-based MedTech startup Bioactivx under a new MOU to co-develop a scalable, on-demand medical printing solution for regenerative wound care, as Bioactivx earns HSA approval for its Bioactiv Matrix — manufactured on UltiMaker systems.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "IMTS – The International Manufacturing Technology Show offers a snapshot of additive manufacturing in the context of the broader manufacturing landscape. This year, exhibitors highlighted part production services, advances in machine setup and postprocessing, robot-enabled flexibility, their own supply chains and the one application on everyone’s mind: drones.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "MIT Spinout Atlas Turns Single-Use Plastics Into Resilient Building Materials",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "The Hawaiian startup and CEAD developed a demonstration platform using LFAM, which is informing Voltage Vessels’ basalt fiber-reinforced PETG material developments.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "systems to 3D print sand molds and cores for its metal casting business. Other car companies, including Tesla and General Motors,",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": ", represented a major evolution of the supplier market. We’ve purchased sand molds from Hoosier ever since, they are a superlative supplier of everything foundry pattern related, including 3D printed sand molds.”",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": ". voxeljet and Loramendi implemented the first ICP production line at BMW Group’s plant in Landshut, Germany which supplies all of its vehicle and engine plants worldwide, including for nearly all BMW, MINI and Rolls-Royce vehicles, as well as for its motorcycle brand, BMW Motorrad.",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Royal Electronics develops binder jetting (3D-BJ) 3D printing technology and hardware, including printheads, printer controllers, and slicing software, for metal, sand casting, ceramic, wax, and full-color 3D printing.",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2021, the startup ADDIMETAL is developing an additive manufacturing (AM) solution based on binder jetting technology.",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation engines, blades, and pipes for state-owned enterprises and research institutes including AECC, Norinco, CRRC, and the Institute of Applied Physics.",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Flashforge “Veteran” Drives the Rise of a North American 3D Printing Farm: From Garage Startup to a Daily Output of 2,000 Parts",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ACMI's Horizon Manufacturing Cup Offers Startups Funding",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": "A couple of weeks ago, a Dutch 3D printing startup named",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": ", restoration and cultural preservation are high up on the list of Concr3de’s applications. Prior to the Notre-Dame project, the company’s unique AM technology was also used to 3D print a piece of a reproduction Palmyra Arch—whose original was famously destroyed by ISIS in Syria.",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "went from startup to a leading contender in just a few years, especially after opening a large facility in Rotterdam to offer services last year.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "; however, it is currently focusing only on BrightOrb (a type of artificial sand) applications for arts and design products. This was the case for Concr3de initially, so things may change quickly. Concr3de today offers one of the broadest selections of materials (including alumina, zirconia, silicon carbide and CeO2) through its partnership with the experts at WZR.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": ", a manufacturer of silicon carbide materials, including powders for binder jetting.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The silicon carbide 3D printing business is now so mature that some of the first service startups are emerging specifically around it. These include companies like NUWAM, the first to acquire a D3 microparticle jetting system to offer services, and CENTAM, a company founded specifically to offer sintering services for 3D printed SiC parts.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "a couple of very interesting startups",
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "pass": 3
+   },
+   {
+    "quote": "#3DStartup: Virtual Foundry, 3D metal printing with FFF technology - 3Dnatives",
+    "url": "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "pass": 3
+   },
+   {
+    "quote": "#3DStartup: Virtual Foundry, 3D metal printing with FFF technology",
+    "url": "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "pass": 3
+   },
+   {
+    "quote": "The Virtual Foundry is an American startup specialising in the development of materials for",
+    "url": "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "pass": 3
+   },
+   {
+    "quote": "Filamet™ is used in many industries including but certainly not limited to: Aerospace, Petroleum, Prototyping, Injection Molding, Dentistry, Education and Nuclear Energy.",
+    "url": "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext 2025 Finalists Highlight Cutting-Edge 3D Printing Innovations",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": ". This year’s finalists reflect the industry’s growing emphasis on speed, sustainability, and education, with new 3D printing solutions emerging across sectors from healthcare to heavy industry. The winners will be announced during the",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "Across six categories, the finalists represent a diverse mix of breakthroughs that push the limits of AM technology. Many projects focus on how 3D printing can solve real-world challenges, from custom medical devices to sustainable material reuse. Visitors will be able to explore all the finalists at a dedicated exhibition space in Hall 11.0 of the Messe Frankfurt venue.",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "The awards recognize achievements in six categories, including emerging startups, forward-thinking sustainable business models, and innovative technologies. (Photo Credit: Formnext)",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   }
+  ],
+  "資金調達・株主": [
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "The SUMMSEED project, led by the Technical University of Catalonia - BarcelonaTech, is developing medium manganese steels for wire-based DED. Potential outcome: The project aims to create an alternative to Hadfield steels with reduced CO2 footprint.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "America Makes Announces IMPACT 2.0 Project Call Worth $6.6 Million in Funding",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Meituan Enters the 3D Printing Arena — Leads Series B Inves",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "Dyndrite Supports America Makes Delta Qual 2.0 to Advance Metal Additive Manufacturing Qualification",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Qualification/Certification",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Training & Consultancy for Additive Manufacturing",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Northrop Grumman, Phase3D Collaborating on Part Real-Time Qualification",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Industry is inviting speakers for its 2026 Additive Manufacturing Applications (AMA) series, covering Energy, Healthcare, Automotive and Mobility, Aerospace, Space and Defense, and Software. Each online event focuses on real production deployments, qualification, and supply chain integration. Practitioners interested in contributing can",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": ", qualification, supply chains, and",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": "ASTRO, the Applied Science & Technology Research Organization of America, is executing a Cooperative Research and Development Agreement with Northrop Grumman, Florida State University InSPIRE and the Air Force Research Laboratory to reduce costs and production timelines for subsonic munitions under the Design for Affordable and Rapid Throughput initiative.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "CONTRAX Grand Rapids 2026 Registration is Now Open",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "NIST Reference Material Promotes Standardization in Photopolymer 3D Printing",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "The National Institute of Standards and Technology introduces Reference Material 8047, a standardized photoactive resin developed with the Photopolymer Additive Manufacturing Alliance to improve measurement consistency and reproducibility in photopolymer additive manufacturing.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext 2026",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "As hub for Additive Manufacturing, Formnext is central information platform for industrial 3D Printing experts and production professionals from a wide range of application industries. With the trade show in Frankfurt, up-to-date industry information and networking opportunities 365 days a year, we bundle expertise, create in-depth professional exchange and access to the latest AM solutions.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Can an aluminum DED pressure vessel withstand conditions up to and beyond those it was designed to handle? And how far could it be pushed? In this video, we collaborate with Big Metal Additive and Stress Engineering to discover the answers.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Brooks Crownhill Limited has used Voxeljet’s sand 3D printers to rapidly prototype automobile part molds, with the increased design flexibility enabling lightweighting while strengthening individual components.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "RAPID 2020: Hoosier Pattern offers the use of 3D printing sand molds and cores that enable users to design and print geometrically intricate designs straight from a CAD file without sacrificing valuable costs and resources.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "In the following sections, we will focus primarily on understanding the value proposition of direct sand binder jetting for the casting of metal parts and what it means for the companies that are making it happen.",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Bader, Managing Director of ExOne, a Desktop Metal Company, stands behind a cylinder head that was produced with the help of a 6-cylinder water jacket core that was binder jet 3D printed on the ExOne Exerial system.",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG selects High Speed Sintering inventor Neil Hopkinson for Innovators Award",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its PolyCore hardware partner network",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "We are a world leading supplier of foundry solutions for core making. We stand for innovative machine technology for core production with maximum efficiency.",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "pass": 3
+   },
+   {
+    "quote": "With three leading-edge technologies for manufacturing precision net shape titanium parts in-house, TriTech Titanium Parts matches the best production method to each part to optimize custom characteristics. We offer 3D binder-jet printing, investment casting and metal injection molding, as well as rapid prototyping to meet tight launch scheduled or first-to-market product timing.",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "pass": 3
+   },
+   {
+    "quote": "The 2025 Formnext Shenzhen exhibition welcomed over 20,000 professionals, while Panda3dp.com’slivestream drew more than 34,000 viewers.https://www.bilibili.com/video/BV1LKe9zmEhw?t=232.4During the ev ...",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "The 2025 Formnext Shenzhen exhibition welcomed over 20,000 professionals, while",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "The high-speed version prints a layer in just 19 seconds, while the Plus configuration cuts it further to 15 seconds—a 25% improvement. The larger L251510 Plus model achieves single-layer times as fast as 13 seconds, boosting efficiency by 50% over the standard version.",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sample parts demonstrated outstanding quality:",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "The fully enclosed design integrates industrial-grade air conditioning, automatically regulating chamber temperature and humidity. This eliminates the need for specialized climate-controlled facilities, stabilizes performance, conserves energy, and resolves the industry’s long-standing vulnerability to ambient fluctuations.",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Priced Around CNY200/kg, Withstands Over 190°C Without Cham",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": "“We wanted to work with inkjet printing, which we like because it gives you a lot more freedom than standard FDM,” he adds. “You can print more complex shapes and it gives a nicer finish. With that in mind, we started off by buying an old",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "Though using industrial byproducts as a material base is affordable, it also comes with certain challenges. As Geboers explains, it is essential that the powders supplied by the quarries have the right chemistry and dimensions for optimal printing.",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "“It also comes with challenges, such as the ethical question of what is allowed; can you restore historical artifacts with new technologies? But 3D printing is much cheaper and faster for restoration applications, and there is a lot that can be done with it.”",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "The massive Schunk booth.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of materials, WZR showed perovskite 3D printed parts made by MEX, while research centers such as CTTC showed parts made in silicon carbide, as well as more standard materials like alumina and black zirconia.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Still more fringe innovation came from the hybridization of technologies, where MEX (single nozzle) meets material jetting (multiple nozzles) and binder jetting (multiple nozzles and powder). Via multiple nozzles, it becomes possible (although extremely challenging) to combine multiple materials.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials partnership",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "From the Shenzhen HQ to Formnext in Frankfurt, it’s a new Creality",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its PolyCore hardware partner network",
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic AM Alliance organizes joint pavilion for Formnext 2026",
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its…",
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema and Carbon deepen longstanding materials…",
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "pass": 3
+   },
+   {
+    "quote": "To understand the development of materials and the importance",
+    "url": "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "pass": 3
+   },
+   {
+    "quote": "Over the next few months we will be expanding our materials kept in standard inventory in order to meet customer demand.",
+    "url": "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext Awards 2025 Recognize AM’s Brightest Innovators - 3Dnatives",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext 2025 Finalists Highlight Cutting-Edge 3D Printing Innovations",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "The shortlist for the Formnext Awards 2025 has been unveiled, showcasing some of the most innovative applications and technologies in",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "Across six categories, the finalists represent a diverse mix of breakthroughs that push the limits of AM technology. Many projects focus on how 3D printing can solve real-world challenges, from custom medical devices to sustainable material reuse. Visitors will be able to explore all the finalists at a dedicated exhibition space in Hall 11.0 of the Messe Frankfurt venue.",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "Formnext will be taking place in Frankfurt from the 18th to the 21st of November. (Photo Credit: Formnext)",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "The awards recognize achievements in six categories, including emerging startups, forward-thinking sustainable business models, and innovative technologies. (Photo Credit: Formnext)",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "What are your thoughts on the Formnext Awards 2025? Let us know in the comments or on our",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   },
+   {
+    "quote": "*Cover Photo Credit: Formnext",
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Florida to Host New Defense Manufacturing Lab Backed by $9M Investment",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Uptive Manufacturing has its roots in AM’s Wild West entrepreneurial past, but today it helps customers of all sizes use the technology as a strategic manufacturing option.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "The concluded CHIPART (Chips to Parts: Circularity of titanium scrap from machining to additive manufacturing) project, supported by the European Defence Agency, validates that titanium chips from aerospace suppliers can be converted into metal powder suitable for additive manufacturing without energy-intensive remelting.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite has been selected as a participant in two funded technical efforts under the America Makes Delta Qual 2.0 program, a $9 million initiative focused on modernizing qualification methodologies for laser powder bed fusion.",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "America Makes Announces IMPACT 2.0 Project Call Worth $6.6 Million in Funding",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Stratasys and Desktop Metal to Combine in Approximately $1.8 Billion All-Stock Transaction",
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "CMET manufactures and sells 3D printers for professional use (Stereolithography System and Sand Molding System), proposes from large sizes to middle sizes that are easy for customers to fit. It is offered at a reasonable price, although a high-end machine.",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "pass": 3
+   },
+   {
+    "quote": "Priced Around CNY200/kg, Withstands Over 190°C Without Cham",
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   },
+   {
+    "quote": "With 2025 revenues of $187 million and projected 2030 revenues of $635 million,",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Ric Fulop, Founder and CEO at Desktop Metal, and serial AM industry entrepreneur.",
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "pass": 3
+   },
+   {
+    "quote": "Tronix3D commits $4 million to Pittsburgh expansion and 47 new jobs",
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "pass": 3
+   }
+  ],
+  "創業年": [
+   {
+    "quote": "According to VoxelMatters research data, Humtown is currently the largest provider of sand 3D printing services using binder jetting technology. This started when Mark Lamoncha, president of an Ohio business making patterns, molds, and cores for the shrinking foundry industry, made a risky decision that he hoped would re-energize the business founded in 1959 by his father.",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2010, Kangshuo Group is a leader of intelligent manufacturing in the field of key components in China.",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2021, the startup ADDIMETAL is developing an additive manufacturing (AM) solution based on binder jetting technology.",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "pass": 3
+   },
+   {
+    "quote": "Concr3de was founded in 2016 by Geboers and Matteo Baldassari, two Delft/Rotterdam-based architects who set out with the common goal of creating a way to produce unique and affordable designs for the architecture and construction industries, among others.",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "pass": 3
+   }
+  ],
+  "年商・規模": [
+   {
+    "quote": "ExOne’s S-Max and Exerial machines thus continue to represent the lion’s share of revenue scale with 3D printed sand cores and molds as indirect 3D printing of castings. These are also the processes used for the production of the Mercury Maring and Caterpillar engines.",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "pass": 3
+   },
+   {
+    "quote": "With 2025 revenues of $187 million and projected 2030 revenues of $635 million,",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "The Japanese company Roland has also just entered this segment",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   }
+  ],
+  "代理店募集・売り方": [
+   {
+    "quote": "The competition in China from lower-cost stereolithographic ceramic 3D printers is becoming so strong that Ten Dimensions is now looking at Western markets through new distributor Equipp3D.",
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "創業年": [
+   {
+    "value": "1959",
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "quote": "According to VoxelMatters research data, Humtown is currently the largest provider of sand 3D printing services using binder jetting technology. This started when Mark Lamoncha, president of an Ohio business making patterns, molds, and cores for the shrinking foundry industry, made a risky decision "
+   },
+   {
+    "value": "2010",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "quote": "Founded in 2010, Kangshuo Group is a leader of intelligent manufacturing in the field of key components in China."
+   },
+   {
+    "value": "2021",
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "quote": "Founded in 2021, the startup ADDIMETAL is developing an additive manufacturing (AM) solution based on binder jetting technology."
+   },
+   {
+    "value": "2016",
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "quote": "Concr3de was founded in 2016 by Geboers and Matteo Baldassari, two Delft/Rotterdam-based architects who set out with the common goal of creating a way to produce unique and affordable designs for the architecture and construction industries, among others."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.exone.com/en/3d-printing-solutions_overview/3dp-solutions-sand-casting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coviacorp.com/insights/additive-advantage-why-foundries-are-turning-to-3d-sand-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/topics/sand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product/ch-leading-l251510-sand-3d-printer/?srsltid=AYCX9vJxLeV3T6fOscTKGolfP8Kp9XUasKeH9INvSZssq4O3upQQxqlp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S2214860421000543",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/formnext/posts/industrial-sand-3d-printing-for-smaller-foundriesexone-has-introduced-the-s-prin/1491764566312029/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.exone.com/en/3d-printing-solutions_overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S266653952600026X",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foundrymag.com/molds-cores/article/21931923/understanding-3d-sand-printers-and-binder-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.igcv.fraunhofer.de/en/research/competences/3D-sand-printing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10179400/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moderncasting.com/articles/2025/01/03/3d-printing-goes-mainstream-metalcasting",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/whitepaper-hybrid-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoosierpattern.com/additive-manufacturing/3d-sand-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/foundry-giant-grede-internalizes-sand-binder-jetting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpcasting.com/blogs/7-common-misconceptions-about-binder-jetting-for-sand-casting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpcasting.com/blogs/3d-printing-for-casting-revolutionizing-the-foundry-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humtown.com/3d-printed-sand-cores-molds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/industries_overview/industries_foundry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shellsinc.com/3dprinting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/3d-printers/sand-3d-printers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://humtown.com/understanding-3d-sand-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dmag.com/3d-wikipedia/sand-3d-printing-binder-jetting-foundry-molds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://panda3dp.com/3dprintnews-6458-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/formnext-awards-2026-06112026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dptek.com/ja/blogs/li-yong-3d-da-yin-ji-shu-shi-xian-kuai-su-sha-xing-zhu-zao/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20190102.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com/ja/3d-printers/sand-3d-printers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202002aist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/news/exone-s-print-pro-sand-binder-jetting-foundries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printout.com/study3d/sandcasting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/introduction-to-metal-additive-manufacturing-and-3d-printing/metal-3d-printing-additive-manufacturing-processes/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/wp-content/uploads/sites/4/2025/10/Metal-Additive-Manufacturing-magazine-Autumn-2025-issue.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metal-am.com/wp-content/uploads/sites/4/2025/03/Metal-Additive-Manufacturing-magazine-Spring-2025-issue.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/bmw-group-laying-the-foundations-for-the-application-of-metal-additive-manufacturing-in-the-automotive-industry/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/exones-x1-160pro-metal-binder-jetting-machine-enters-production/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/binder-jetting-fdm-comparison-with-powder-bed-fusion-3d-printing-injection-moulding/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/exone-sand-3d-printing-network-launch-gives-manufacturers-access-to-industrial-binder-jetting-174123/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/versevo-acquires-new-3d-sand-printer-to-streamline-the-production-of-cores-and-molds-230196/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/vx9000-validated-for-multi-ton-additive-casting-applications-244311/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/exone-launches-new-s-max-pro-3d-sand-printer-announces-partnership-with-siemens-157757/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/desktop-metal-launches-affordable-new-exone-s-max-flex-3d-printer-technical-specifications-and-pricing-208036/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/desktop-metal-officially-launches-all-new-s-max-flex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/acc-a-new-era-for-am-sand-casting-in-haliade-x-offshore-wind-turbines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/wp-content/uploads/2023/11/VoxelMatters-VMFocus2023-eBook-Metal-AM.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/exone-on-the-launch-of-its-s-max-flex-sand-3d-printer-160520224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/powder-binding100420174/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d-printing-material110420174/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d-printing-webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "sand binder 3D printing foundry startup",
+   "results": [
+    "https://www.exone.com/en/3d-printing-solutions_overview/3dp-solutions-sand-casting/",
+    "https://www.coviacorp.com/insights/additive-advantage-why-foundries-are-turning-to-3d-sand-printing/",
+    "https://www.additivemanufacturing.media/topics/sand",
+    "https://additiveplus.com/product/ch-leading-l251510-sand-3d-printer/?srsltid=AYCX9vJxLeV3T6fOscTKGolfP8Kp9XUasKeH9INvSZssq4O3upQQxqlp",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860421000543",
+    "https://www.facebook.com/formnext/posts/industrial-sand-3d-printing-for-smaller-foundriesexone-has-introduced-the-s-prin/1491764566312029/",
+    "https://www.foundrymag.com/molds-cores/article/21931923/understanding-3d-sand-printers-and-binder-technologies",
+    "https://www.exone.com/en/",
+    "https://www.3dmag.com/3d-wikipedia/sand-3d-printing-binder-jetting-foundry-molds/",
+    "https://www.zhycasting.com/my-journey-with-sand-casting-3d-printing-applications-challenges-and-future-directions/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "sand binder 3D printing foundry startup founded 2021 OR 2022 OR 2023 OR 2024",
+   "results": [
+    "https://www.exone.com/en/3d-printing-solutions_overview/",
+    "https://www.youtube.com/watch?v=kxt-qU_q09o",
+    "https://www.coviacorp.com/insights/additive-advantage-why-foundries-are-turning-to-3d-sand-printing/",
+    "https://www.sciencedirect.com/science/article/pii/S266653952600026X",
+    "https://www.foundrymag.com/molds-cores/article/21931923/understanding-3d-sand-printers-and-binder-technologies",
+    "https://www.igcv.fraunhofer.de/en/research/competences/3D-sand-printing.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10179400/",
+    "https://www.moderncasting.com/articles/2025/01/03/3d-printing-goes-mainstream-metalcasting",
+    "https://hoosierpattern.com/additive-manufacturing/3d-sand-printing/",
+    "https://www.voxelmatters.directory/company-category/binder-jetting/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "sand binder 3D printing foundry startup raises seed Series A",
+   "results": [
+    "https://www.exone.com/en/whitepaper-hybrid-production/",
+    "https://www.coviacorp.com/insights/additive-advantage-why-foundries-are-turning-to-3d-sand-printing/",
+    "https://www.youtube.com/watch?v=kxt-qU_q09o",
+    "https://www.foundrymag.com/molds-cores/article/21931923/understanding-3d-sand-printers-and-binder-technologies",
+    "https://www.igcv.fraunhofer.de/en/research/competences/3D-sand-printing.html",
+    "https://hoosierpattern.com/additive-manufacturing/3d-sand-printing/",
+    "https://www.youtube.com/watch?v=eZ5jtE8MRH4",
+    "https://www.voxelmatters.com/foundry-giant-grede-internalizes-sand-binder-jetting/",
+    "https://www.3dpcasting.com/blogs/7-common-misconceptions-about-binder-jetting-for-sand-casting/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "sand binder 3D printing foundry startup distributor reseller program",
+   "results": [
+    "https://www.exone.com/en/3d-printing-solutions_overview/3dp-solutions-sand-casting/",
+    "https://www.youtube.com/watch?v=krc3krsD7Kk",
+    "https://www.coviacorp.com/insights/additive-advantage-why-foundries-are-turning-to-3d-sand-printing/",
+    "https://www.foundrymag.com/molds-cores/article/21931923/understanding-3d-sand-printers-and-binder-technologies",
+    "https://www.facebook.com/formnext/posts/industrial-sand-3d-printing-for-smaller-foundriesexone-has-introduced-the-s-prin/1491764566312029/",
+    "https://www.igcv.fraunhofer.de/en/research/competences/3D-sand-printing.html",
+    "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "https://www.3dpcasting.com/blogs/3d-printing-for-casting-revolutionizing-the-foundry-industry/",
+    "https://humtown.com/3d-printed-sand-cores-molds",
+    "https://www.exone.com/en/industries_overview/industries_foundry/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "sand binder 3D printing foundry startup Formnext Start-up Area",
+   "results": [
+    "https://www.facebook.com/formnext/posts/industrial-sand-3d-printing-for-smaller-foundriesexone-has-introduced-the-s-prin/1491764566312029/",
+    "https://www.exone.com/en/industries_overview/industries_foundry/",
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.youtube.com/watch?v=kxt-qU_q09o",
+    "https://humtown.com/understanding-3d-sand-printing",
+    "https://www.coviacorp.com/insights/additive-advantage-why-foundries-are-turning-to-3d-sand-printing/",
+    "https://www.igcv.fraunhofer.de/en/research/competences/3D-sand-printing.html",
+    "https://www.foundrymag.com/molds-cores/article/21931923/understanding-3d-sand-printers-and-binder-technologies",
+    "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "https://www.3dmag.com/3d-wikipedia/sand-3d-printing-binder-jetting-foundry-molds/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "砂型3D用の砂・バインダーの新興企業 スタートアップ",
+   "results": [
+    "https://www.3dptek.com/ja/blogs/li-yong-3d-da-yin-ji-shu-shi-xian-kuai-su-sha-xing-zhu-zao/",
+    "https://www.aist.go.jp/aist_j/magazine/20190102.html",
+    "https://www.lyafs.com/ja/3d-printers/sand-3d-printers/",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202002aist/",
+    "https://fabscene.com/new/news/exone-s-print-pro-sand-binder-jetting-foundries/",
+    "https://www.3d-printout.com/study3d/sandcasting/",
+    "https://www.ask-chemicals.com/ja/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/3d%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "https://www.kimuragrp.co.jp/blog/information/354/",
+    "https://www.hyogo-kg.jp/download/publish/report_30/rep30-10.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:metal-am.com sand binder 3D printing foundry startup",
+   "results": [
+    "https://www.metal-am.com/introduction-to-metal-additive-manufacturing-and-3d-printing/metal-3d-printing-additive-manufacturing-processes/",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2025/10/Metal-Additive-Manufacturing-magazine-Autumn-2025-issue.pdf",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2025/03/Metal-Additive-Manufacturing-magazine-Spring-2025-issue.pdf",
+    "https://www.metal-am.com/articles/bmw-group-laying-the-foundations-for-the-application-of-metal-additive-manufacturing-in-the-automotive-industry/",
+    "https://www.metal-am.com/exones-x1-160pro-metal-binder-jetting-machine-enters-production/",
+    "https://www.metal-am.com/articles/binder-jetting-fdm-comparison-with-powder-bed-fusion-3d-printing-injection-moulding/",
+    "https://www.metal-am.com/articles/design-for-additive-manufacturing-3d-printing-dfam-binder-jetting-technology-demystified/",
+    "https://www.metal-am.com/hp-enhances-its-binder-jetting-offer-adds-endeavor-3d-as-metal-jet-manufacturing-partner/",
+    "https://www.metal-am.com/articles/binder-jet-metal-3d-printing-process-chain-considerations/",
+    "https://www.metal-am.com/new-binder-jetting-service-bureau-purchases-exone-innovent/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:3dprintingindustry.com sand binder 3D printing foundry startup",
+   "results": [
+    "https://3dprintingindustry.com/news/exone-sand-3d-printing-network-launch-gives-manufacturers-access-to-industrial-binder-jetting-174123/",
+    "https://3dprintingindustry.com/news/sarginsons-first-uk-foundry-to-install-inorganic-3d-sand-core-printing-254335/",
+    "https://3dprintingindustry.com/news/versevo-acquires-new-3d-sand-printer-to-streamline-the-production-of-cores-and-molds-230196/",
+    "https://3dprintingindustry.com/news/vx9000-validated-for-multi-ton-additive-casting-applications-244311/",
+    "https://3dprintingindustry.com/news/exone-launches-new-s-max-pro-3d-sand-printer-announces-partnership-with-siemens-157757/",
+    "https://3dprintingindustry.com/news/desktop-metal-launches-affordable-new-exone-s-max-flex-3d-printer-technical-specifications-and-pricing-208036/",
+    "https://3dprintingindustry.com/news/the-virtual-foundry-filament-for-3d-printing-metal-on-an-fdm-system-140705/",
+    "https://3dprintingindustry.com/news/what-is-the-future-of-3d-printing-80-additive-manufacturing-experts-forecast-3d-printing-trends-for-2023-220261/",
+    "https://3dprintingindustry.com/news/new-e23m-bmw-additive-manufacturing-campus-238882/",
+    "https://3dprintingindustry.com/news/return-ferrari-312p-27580/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:voxelmatters.com sand binder 3D printing foundry startup",
+   "results": [
+    "https://www.voxelmatters.com/foundry-giant-grede-internalizes-sand-binder-jetting/",
+    "https://www.voxelmatters.com/the-metal-die-is-sand-cast/",
+    "https://www.voxelmatters.com/desktop-metal-officially-launches-all-new-s-max-flex/",
+    "https://www.voxelmatters.com/concr3de-eric-geboers-3d-printing-stone/",
+    "https://www.voxelmatters.com/acc-a-new-era-for-am-sand-casting-in-haliade-x-offshore-wind-turbines/",
+    "https://www.voxelmatters.com/wp-content/uploads/2023/11/VoxelMatters-VMFocus2023-eBook-Metal-AM.pdf",
+    "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "https://www.voxelmatters.com/why-did-desktop-metal-acquire-exone-and-not-the-other-way-around/",
+    "https://www.voxelmatters.com/finalists-formext-awards-2025/",
+    "https://www.voxelmatters.com/exone-targets-small-foundries-with-s-print-pro-sand-binder-jetting-system/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:3dnatives.com sand binder 3D printing foundry startup",
+   "results": [
+    "https://www.3dnatives.com/en/exone-on-the-launch-of-its-s-max-flex-sand-3d-printer-160520224/",
+    "https://www.3dnatives.com/en/powder-binding100420174/",
+    "https://www.3dnatives.com/en/3dstartup-virtual-foundry-3d-metal-printing-with-fff-technology-051120184/",
+    "https://www.3dnatives.com/en/formnext-2025-finalists-highlight-cutting-edge-3d-printing-innovations-23102025/",
+    "https://www.3dnatives.com/en/3d-printing-material110420174/",
+    "https://www.3dnatives.com/en/3d-printing-webinar/",
+    "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "https://www.3dnatives.com/en/hpp-vs-metals-which-material-should-you-use-for-3d-printing-010220244/",
+    "https://www.3dnatives.com/es/guia-completa-impresion-3d-arena-241020242/",
+    "https://www.3dnatives.com/en/all-you-need-to-know-about-sand-3d-printing-070820244/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:3printr.com sand binder 3D printing foundry startup",
+   "results": [
+    "https://www.3printr.com/tag/sand-3d-printing/",
+    "https://www.3printr.com/tag/3d-prints-sand-tooling/",
+    "https://www.3printr.com/tag/s-max-binder-jet-3d-printing/",
+    "https://www.3printr.com/tag/casting/",
+    "https://www.3printr.com/tag/sand-casting-moulds/",
+    "https://www.3printr.com/tag/metal-binder-jetting/",
+    "https://www.3printr.com/tag/sand-casting/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com sand binder 3D printing foundry startup",
+   "results": [
+    "https://3druck.com/en/printers-and-products/exone-brings-compact-sand-3d-printer-for-foundries-51158943/",
+    "https://3druck.com/en/industry-2/multistation-distributes-binder-jet-sand-printing-systems-from-kangshuo-in-france-and-north-africa-38153135/",
+    "https://3druck.com/en/case-studies/voxeljet-develops-the-worlds-largest-3d-sand-printer-successful-validation-with-first-large-molds-36149950/",
+    "https://3druck.com/en/printers-and-products/exone-gifa-2023-20118883/",
+    "https://3druck.com/case-studies/voxeljet-entwickelt-groessten-3d-sanddrucker-der-welt-erfolgreiche-validierung-mit-ersten-grossgussformen-36149950/",
+    "https://3druck.com/en/industry-2/liberty-pattern-scaled-3d-sand-printing-with-pdb-for-air-and-space-casting-15151373/",
+    "https://3druck.com/en/case-studies/eth-zurich-bacteria-turn-3d-printed-sand-components-into-biocement-51164053/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dadept.com sand binder 3D printing foundry startup",
+   "results": [
+    "https://3dadept.com/the-worlds-largest-sand-binder-jetting-3d-printer-to-streamline-production-for-offshore-wind-turbines/",
+    "https://3dadept.com/exone-creates-a-sand-3d-printing-network-powered-by-over-40-industrial-binder-jetting-systems/",
+    "https://3dadept.com/bmw-group-takes-over-a-3d-printing-line-developed-by-laempe/",
+    "https://3dadept.com/desktop-metal-makes-sand-3d-printing-affordable-with-new-robotic-3d-printing-machine/",
+    "https://3dadept.com/exone-launches-the-s-print-pro-its-lowest-priced-industrial-sand-3d-printer/",
+    "https://3dadept.com/ford-and-sharrow-engineering-slash-propeller-lead-times-with-3d-sand-casting/",
+    "https://3dadept.com/exone-expands-into-3d-printed-tooling-business-by-acquiring-freshmade-3d-assets/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 砂型3D用の砂・バインダーの新興企業",
+   "results": [
+    "https://note.com/moka_3dpsales/n/nb9ffba5b89d0",
+    "https://note.com/qy_research/n/n3e67ace2f609",
+    "https://note.com/askchemicalsjp/n/nf6aa3057e974",
+    "https://note.com/kinzoku2/n/nd9351728b704",
+    "https://note.com/kinzoku2/n/n4caa06ff2536",
+    "https://note.com/sankituushin/n/ncf459c646fa3",
+    "https://note.com/mobio_osaka/n/n287348d739f8"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 砂型3D用の砂・バインダーの新興企業",
+   "results": [
+    "https://jf.x.com/images/media-preview/2094984799698243753",
+    "https://jf.x.com/images/media-preview/2113244864938999945",
+    "https://x.com/ASK03618625/status/2075649186901672256",
+    "https://x.com/para_850/status/2044558505626243470",
+    "https://x.com/sumi_plus/status/2060512755686445492",
+    "https://x.com/BusinessHub413/status/2116617485646741579",
+    "https://x.com/horita_ss/status/2115277328192545181"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 砂型3D用の砂・バインダーの新興企業",
+   "results": [
+    "https://jp.linkedin.com/posts/junlong-yi-32707633a_3dプリンター-砂型3dプリンター-砂型造形-activity-7364193676983455744-YFJa",
+    "https://jp.linkedin.com/posts/kangshuo-group_無人化3d砂型プリントラインが実現する次世代スマート鋳造-康碩グループの最新3d-activity-7481264265962749954-mjPJ",
+    "https://www.linkedin.com/posts/sharelab-jp_砂型3dプリンターで自動車向けギガキャスト用アルミフレームを試作-コイワイ-activity-7151369767990251520-MnLz",
+    "https://www.linkedin.com/posts/universal-materials-incubator-co.-ltd._建設用３ｄプリンターで業界進化ｐｏｌｙｕｓｅ大岡航さん東京発四国人未来に挑-activity-7281844332288978945-Qsbo",
+    "https://jp.linkedin.com/pulse/3d-printing-revolution-sand-casting-transforming-52fcc?tl=ja",
+    "https://jp.linkedin.com/pulse/鋳造用樹脂バインダーメーカー一覧2026年版-quantumz-consumer-scan-lfowe",
+    "https://jp.linkedin.com/posts/kangshuo-group_康碩グループ-kss1800b-砂型3dプリンター-activity-7402533478661361666-_Stk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 砂型3D用の砂・バインダーの新興企業",
+   "results": [
+    "https://www.facebook.com/people/Kangshuo-Group/61569715643433/",
+    "https://www.facebook.com/KimuraFoundry/posts/5122250521128976/",
+    "https://www.facebook.com/ask.chemicals.jp/photos/砂型用-無機バインダー-inotecの-技術資料-ダウンロード-アクセスですアルミのみならず鋳鉄への応用も含めてチャレンジしております最新開発状況共同開発共同試/1264652070548065/",
+    "https://www.facebook.com/ask.chemicals.jp/photos/ask取り扱い製品-part-1askの祖業たる鋳造化学品の紹介です砂型鋳造におなじみの各種バインダー類最近では無機に注目が集まってます塗型材砂添加剤接着剤など/1080349064092097/",
+    "https://www.facebook.com/ask.chemicals.jp/posts/1264652113881394/",
+    "https://www.facebook.com/ask.chemicals.jp/posts/ask取り扱い製品-part-1askの祖業たる鋳造化学品の紹介です砂型鋳造におなじみの各種バインダー類最近では無機に注目が集まってます塗型材砂添加剤接着剤など/1080349114092092/",
+    "https://www.facebook.com/ask.chemicals.jp/videos/メタルチャイナ-ask-展示今回の展示では日本独自展開の砂型造型用模型-ax-3d-mold-の展示があります木型代替の次世代型枠材質である繊維強化樹脂製です製/1643715250184335/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "砂型3D用の砂・バインダーの新興企業 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "砂型3D用の砂・バインダーの新興企業 X 投稿",
+   "results": [
+    "https://metoree.com/categories/8417/",
+    "https://prtimes.jp/topics/keywords/砂型3Dプリンター",
+    "https://fabscene.com/new/news/exone-s-print-pro-sand-binder-jetting-foundries/",
+    "https://www.sphericalinsights.jp/blogs/top-40-companies-in-binder-jetting-3d-printing-market-statistics-report-till-2035",
+    "https://note.com/qy_research/n/n3e67ace2f609",
+    "https://ja.xindacastingtech.com/news/xinda-launches-special-resin-for-binder-jet-3d-printing-to-enable-green-efficient-production-of-high-end-precision-castings",
+    "https://www.kangshuoim.com/ja/sand-3d-printing-production-line-kangshuo-tct-asia-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sand binder 3D printing foundry startup site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/the-ex-one-company",
+    "https://www.linkedin.com/pulse/3d-printing-revolution-sand-casting-transforming-52fcc",
+    "https://cn.linkedin.com/in/sand3dprinter/en",
+    "https://tr.linkedin.com/posts/the-ex-one-company_sand3dprinting-foundry-activity-6995754335443836928-T6U7",
+    "https://in.linkedin.com/in/nidhishah09",
+    "https://pe.linkedin.com/posts/voxeljet-ag_3d-printing-for-sand-casting-in-portugal-activity-7303440729501057025-I-2D",
+    "https://br.linkedin.com/in/joaobahia"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

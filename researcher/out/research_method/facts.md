@@ -726,6 +726,8 @@
   - 「で有価証券報告書、臨時報告書、訂正報告書などを検索でき、APIから書類一覧と開示書類を取得できる」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
   - 「単独では平凡な公開情報も、位置履歴、購買、勤務、家族、SNS、登記等を結合すると、個人の生活や機微な属性を推定できる」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
 - 失敗・落とし穴：
+  - 「暗号資産（仮想通貨）の送金を追跡する方法｜Etherscanの使い方から専門ツール・詐欺被害時の注意点まで」（https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/）
+  - 「仮想通貨の送金は本当に追跡できるのか？Etherscanなど無料の追跡サイトの使い方から、警察も使う専門ツール、追跡できても取り戻せない理由、詐欺被害に遭った際の正しい相談先や二次被害への注意点まで、初心者にもわかりやすく丁寧に解説します」（https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/）
   - 「NISTの報告によれば、合成画像検出器の精度は、評価データの圧縮や破損、画像の様式や被写体、学習に用いた生成器によって変わり、未知の生成器や圧縮・縮小後の画像では誤りが増える」（https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9）
   - 「また、多くの場合、情報の各オープンソースから活用できる膨大な二次データが存在することに注意することにも留意してください」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
   - 「攻撃対象領域分析のポイントは、アプリケーションのリスク領域を把握し、開発者やセキュリティ専門家にアプリケーションのどの部分が攻撃を受けやすいかを認識させ、これを最小限に抑える方法を見つけて、攻撃対象領域がいつ、どのように変化し、それがリスクの観点からどのような意味があるかに注意することです」（https://www.crowdstrike.com/ja-jp/cybersecurity-101/threat-intelligence/open-source-intelligence-osint/）
@@ -739,8 +741,6 @@
   - 「OSINTの注意点」（https://note.com/subland_/n/nd946aa4f734d）
   - 「多くの場合、非常に有益な情報を取得できますが、注意すべき点もあるということを頭に入れておく必要があります」（https://note.com/subland_/n/nd946aa4f734d）
   - 「下記に注意点をあげます」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「特に、サイトやブログなどで公開されている個人情報を収集する場合、取り扱いには十分に注意する必要があります」（https://note.com/subland_/n/nd946aa4f734d）
-  - 「特に２については、収集先のサービスの運営元の国の法律に則った処罰を場合によっては受けますので、細心の注意が必要となります」（https://note.com/subland_/n/nd946aa4f734d）
 - 実例：
   - 「site:example.com キーワード」（https://general-survey-concierge.com/investigation-skills/osint/osint-kihon-yarikata-3sen/）
   - 「Actual Intelligence Case Studies Leveraging Open Source Intelligence (OSINT)」（https://en.wikipedia.org/wiki/Open-source_intelligence）
@@ -2540,6 +2540,9 @@
 ## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
 - 文脈：探し先
 - 手順・やり方：
+  - 「会話からルールやスキルを自動生成するには？CodexとClaude Codeで残す手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「作業会話から規約とSkillの下書きを自動生成する方法を紹介します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「MicrosoftのAI検索エンジンBingとは？使い方・他サービスとの比較やリサーチの使い分けを徹底レビュー！」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「情シスが遅い会社と進む会社の分岐点｜大企業でAIを回した6社の共通型」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「情シスが律速段階になる4つの構造と、パナソニックコネクト・DeNA・MUFG・SMBC・みずほ・旭化成の共通型を、一次データで解剖する業界オピニオン」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「本記事では、汎用型から専門型まで7つのAI製品を取り上げ、公開情報を用いて市場調」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2552,9 +2555,6 @@
   - 「How to Clean Up Messy CRM Data (A Practitioner’s Workflow)」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Patentfieldの検索、AI分類、生成AI査読の役割を分け、候補集合から公報原文の確認、監視判断までをつなぐ実務手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AIのファイルアクセス要求をRead・Create・Update・Deleteに分け、契約、送信、権限取消まで確認する手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「AI Skillが具体的すぎると使えない｜個別例を判断基準へ抽象化する方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「Claude Fable 5とffmpeg、Piper/Coqui XTTS v2のローカルナレーションを組み合わせてYouTube動画編集を自動化する実装手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2572,6 +2572,7 @@
   - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
+  - 「SessionEndでの受付、別処理でのAI生成、候補の保存と人による採用を、架空会話で試したサンプルとともに説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「同じ入力でPoCを行い、単独採用か併用かを決める手順も示します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Patentfieldとは？特許検索・分析とAI査読の使い分け」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「論文サーベイAIとZotero、EndNote、Mendeleyの違いを、探索、要約、引用管理、PDF整理など9つの役割で比較します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2586,7 +2587,6 @@
   - 「AIリサーチエージェントの市場規模を、世界（Grand View 10.9B USD）、日本（IDC 2029年6.9兆円）、Deep Research・特許AI・論文AI・市場調査AIのカテゴリ別、資金調達、業界別導入率、2030年予測の5軸で一次ソースURL付きで整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「また、観点マトリクスを30秒・構造化レポートを10分で自動生成する機能があり、出典付きのレポートをMarkdown/PDF形式でエクスポートできます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 失敗・落とし穴：
   - 「2025年時点におけるAIエージェントとAGI（汎用人工知能）の違いとは？OpenAIやDeepMindなど専門家が描くAGIへの進化ロードマップや定義、経営者が知るべき投資判断、先駆者企業の成功と失敗事例まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2604,6 +2604,7 @@
   - 「AIが生成した候補のリストや比較メモをそのまま調査の実績として鵜呑みにせず、AIの出力はあくまで探索の補助として、人が監督することが求められます」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
+  - 「Hermes Agentの使い方とユースケース6選を実機で解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「2026年7月24日にリリースされたClaude Opus 5と、Anthropic公式が公開した「Claude 5世代向けコンテキストエンジニアリング新ルール」を、Claude Codeシステムプロンプト80％削減の実例、残す3要素と削る4要素の判断基準、CLAUDE.mdを半分に減らす書き換え辞書7例、Fable 5との使い分けまで一気に整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Anthropic・VS Code・GitHub Copilotの公式ドキュメントで確認できる条件付き許可の設定と、許可リストが破られた実例、そして今の判断の賞味期限までを扱います」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Kimiとは？K3.1 Proの使い方・料金とXの活用事例」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2618,7 +2619,6 @@
   - 「市場の白地と特許の白地の違い、ナレッジグラフ型AI調査エージェントで白地を見つける手順、R&D企画・新規事業・知財の職種別実例、2026年のトレンド、月曜日から試せる3つの一歩まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「5つの専門AIエージェントを持つSkyworkとは？DeepResearchの性能、活用事例や比較を徹底レビュー！」（https://media.deskrex.ai/how-to-conference-survey-2026/）
   - 「Claude Fable 5.1とは？使い方・料金・おすすめユースケースを解説」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「Claude CodeとAPIの始め方、公開事例、受入テストを解説します」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 
 ## 情報機関の手法を企業調査に（代理観測・倫理の線・裁判記録）（everprogress note）（intelligence tradecraft applied to business research alternative data proxy observation ethics）
 - 文脈：分析の型
@@ -7295,70 +7295,70 @@
 ## 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）（entity resolution evaluation cluster sampling unbiased precision recall estimator）
 - 文脈：手順・やり方
 - 手順・やり方：
-  - 「This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated」（https://arxiv.org/pdf/2210.01230）
-  - 「using an entity resolution algorithm. We provide a data collection methodology and tailored performance」（https://arxiv.org/pdf/2210.01230）
-  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
-  - 「able to measure performance, to inform users of the reliability of the data, and to support methodological」（https://arxiv.org/pdf/2210.01230）
-  - 「porting methodological research to improve disambiguation algorithms. We propose novel evaluation method-」（https://arxiv.org/pdf/2210.01230）
-  - 「datasets, with nearly perfect precision and recall reported in the latest methodological report (Monath et al.,」（https://arxiv.org/pdf/2210.01230）
-  - 「There are two main uses for accurate and statistically rigorous evaluation methodology.」（https://arxiv.org/pdf/2210.01230）
-  - 「biguation methodology. This requires choosing between alternative methods and evaluating the results of」（https://arxiv.org/pdf/2210.01230）
-  - 「methodological experiments. Without sound evaluation methodology, decisions regarding the disambigua-」（https://arxiv.org/pdf/2210.01230）
-  - 「disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use」（https://arxiv.org/pdf/2210.01230）
-  - 「2 Data and Methodology」（https://arxiv.org/pdf/2210.01230）
-  - 「In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation method-」（https://arxiv.org/pdf/2210.01230）
-  - 「ology, our proposed performance metric estimators, and the simulation framework that we use to compare」（https://arxiv.org/pdf/2210.01230）
-  - 「2.2 Hand-Disambiguation Methodology」（https://arxiv.org/pdf/2210.01230）
-  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
+  - 「How to Evaluate Entity Resolution Systems:」（https://arxiv.org/pdf/2404.05622）
+  - 「An Entity-Centric Framework with Application to」（https://arxiv.org/pdf/2404.05622）
+  - 「ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-」（https://arxiv.org/pdf/2404.05622）
+  - 「and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology」（https://arxiv.org/pdf/2404.05622）
+  - 「that integrates with a unified framework for monitoring summary statistics, estimating key performance」（https://arxiv.org/pdf/2404.05622）
+  - 「date the framework in an application to inventor name disambiguation and through simulation studies.」（https://arxiv.org/pdf/2404.05622）
+  - 「methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding」（https://arxiv.org/pdf/2404.05622）
+  - 「evaluation framework with the following components.」（https://arxiv.org/pdf/2404.05622）
+  - 「4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-」（https://arxiv.org/pdf/2404.05622）
+  - 「Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,」（https://arxiv.org/pdf/2404.05622）
+  - 「without considering its specific architecture. This allows our framework to apply to any entity resolution」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 1 represents the elements of the evaluation framework as well as their interdependencies.」（https://arxiv.org/pdf/2404.05622）
+  - 「Methodology (§3.2)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity」（https://arxiv.org/pdf/2404.05622）
+  - 「or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error」（https://arxiv.org/pdf/2404.05622）
 - 突き合わせ・推定：
-  - 「is to obtain estimates that are representative of performance on the full data, for which no ground truth」（https://arxiv.org/pdf/2210.01230）
-  - 「tative performance estimates (Fuller, 2011).」（https://arxiv.org/pdf/2210.01230）
-  - 「Figure 1: Distribution of precision estimates versus the true precision of 52% (shown as a dotted vertical」（https://arxiv.org/pdf/2210.01230）
-  - 「line). Panel A shows the trivial precision estimates computed for sampled records. Panel B shows our」（https://arxiv.org/pdf/2210.01230）
-  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
-  - 「In panel A of ﬁgure 1, we see the distribution of precision estimates versus the true precision of 52%」（https://arxiv.org/pdf/2210.01230）
-  - 「shown as a dotted vertical line. Precision estimates are usually very close to 100% and always higher than」（https://arxiv.org/pdf/2210.01230）
-  - 「benchmark datasets. In our simulation studies (see Figure 3 for instance), naive precision estimates are」（https://arxiv.org/pdf/2210.01230）
-  - 「estimate precision and recall from sampled record pairs. Other approaches to the estimation of performance」（https://arxiv.org/pdf/2210.01230）
-  - 「metrics are model based, where estimated precision and recall can be obtained from predicted match prob-」（https://arxiv.org/pdf/2210.01230）
-  - 「2. It can easily be generalized to estimate other clustering metrics, such as cluster precision, cluster recall,」（https://arxiv.org/pdf/2210.01230）
-  - 「provide estimates for precision or recall (McVeigh et al., 2019), or provided solutions tailored to very speciﬁc」（https://arxiv.org/pdf/2210.01230）
-  - 「provide cost-eﬀective estimates for any disambiguation algorithm.」（https://arxiv.org/pdf/2210.01230）
-  - 「to validate the performance of our estimators. Section 3 then presents our performance estimates and results」（https://arxiv.org/pdf/2210.01230）
-  - 「estimates based on this data might therefore be slightly optimistic, which should be acknowledged when」（https://arxiv.org/pdf/2210.01230）
+  - 「2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such」（https://arxiv.org/pdf/2404.05622）
+  - 「tain estimates that are representative of the system’s performance on the entire data set, not just the」（https://arxiv.org/pdf/2404.05622）
+  - 「Estimates (§3.4)」（https://arxiv.org/pdf/2404.05622）
+  - 「computed for predictions, while their true value for a ground truth clustering can be estimated using labeled」（https://arxiv.org/pdf/2404.05622）
+  - 「or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:」（https://arxiv.org/pdf/2404.05622）
+  - 「Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were」（https://arxiv.org/pdf/2404.05622）
+  - 「results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey」（https://arxiv.org/pdf/2404.05622）
+  - 「querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the」（https://arxiv.org/pdf/2404.05622）
+  - 「files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of」（https://arxiv.org/pdf/2404.05622）
+  - 「variance of estimated linkage propensities.」（https://arxiv.org/pdf/2404.05622）
+  - 「At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,」（https://arxiv.org/pdf/2404.05622）
+  - 「considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to」（https://arxiv.org/pdf/2404.05622）
 - 失敗・落とし穴：
+  - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the」（https://arxiv.org/pdf/2404.05622）
+  - 「bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy」（https://arxiv.org/pdf/2404.05622）
+  - 「adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include」（https://arxiv.org/pdf/2404.05622）
+  - 「reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.」（https://arxiv.org/pdf/2404.05622）
+  - 「ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always」（https://arxiv.org/pdf/2404.05622）
+  - 「less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the」（https://arxiv.org/pdf/2404.05622）
+  - 「In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-」（https://arxiv.org/pdf/2404.05622）
+  - 「cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias」（https://arxiv.org/pdf/2404.05622）
+  - 「Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past」（https://arxiv.org/pdf/2404.05622）
+  - 「precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.」（https://arxiv.org/pdf/2404.05622）
+  - 「of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially」（https://arxiv.org/pdf/2404.05622）
   - 「estimators that account for sampling biases. Our approach is simple, practical and principled – key」（https://arxiv.org/pdf/2210.01230）
-  - 「leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given」（https://arxiv.org/pdf/2210.01230）
-  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
-  - 「bias = 0.467」（https://arxiv.org/pdf/2210.01230）
-  - 「bias = -0.001」（https://arxiv.org/pdf/2210.01230）
-  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
-  - 「proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same」（https://arxiv.org/pdf/2210.01230）
-  - 「discussed in section 1.1, are nearly unbiased, and are easy to use in practice.」（https://arxiv.org/pdf/2210.01230）
-  - 「Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance」（https://arxiv.org/pdf/2210.01230）
-  - 「estimators based on cluster and block samples. Past work either ignored biases when computing precision」（https://arxiv.org/pdf/2210.01230）
-  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
-  - 「readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means」（https://arxiv.org/pdf/2210.01230）
-  - 「and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias」（https://arxiv.org/pdf/2210.01230）
-  - 「assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula」（https://arxiv.org/pdf/2210.01230）
-  - 「100 times in order to provide the distribution of the estimators and metrics such as bias and root mean」（https://arxiv.org/pdf/2210.01230）
 - 実例：
-  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
-  - 「example 1 below.」（https://arxiv.org/pdf/2210.01230）
-  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
-  - 「used in numerous scientiﬁc studies (Toole et al., 2021). For example, Choudhury and Kim (2019) studied」（https://arxiv.org/pdf/2210.01230）
-  - 「In cases where no errors were found, the current disambiguation was assumed to be correct. Performance」（https://arxiv.org/pdf/2210.01230）
-  - 「Figure 2: Example of ground truth clustering C (represented by boxes with a full border) and pre-」（https://arxiv.org/pdf/2210.01230）
-  - 「Cluster Sampling Representation In the cluster sampling case, sampling probabilities are typically」（https://arxiv.org/pdf/2210.01230）
-  - 「rate helps showcase the properties of our estimators when only a small proportion of the sampled clusters is」（https://arxiv.org/pdf/2210.01230）
-  - 「record/cluster sampling cases, we looked at the eﬀect of sampling 100, 200 and 400 records/clusters.」（https://arxiv.org/pdf/2210.01230）
-  - 「and with the bias adjustment given in (8). Note that in the case of recall with cluster blocks, the」（https://arxiv.org/pdf/2210.01230）
-  - 「naive recall estimator performs well in this case. However, the recall estimator accounting for the sampling」（https://arxiv.org/pdf/2210.01230）
-  - 「size distributions. The bias of ratio estimators can be high in this case, especially when using small samples」（https://arxiv.org/pdf/2210.01230）
-  - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
-  - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
-  - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+  - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
+  - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
+  - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
+  - 「resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/pdf/2404.05622）
+  - 「patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.」（https://arxiv.org/pdf/2404.05622）
+  - 「T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as」（https://arxiv.org/pdf/2404.05622）
+  - 「or operational. In the former case, the main goal is to produce a linked file including all the required」（https://arxiv.org/pdf/2404.05622）
+  - 「responses and explanatory variables, to fit some regression model. A good example is the linkage of the」（https://arxiv.org/pdf/2404.05622）
+  - 「considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to」（https://arxiv.org/pdf/2404.05622）
+  - 「example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,」（https://arxiv.org/pdf/2404.05622）
+  - 「example, we can estimate each expectation with its corresponding weighted sample average—and take the」（https://arxiv.org/pdf/2404.05622）
+  - 「In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling」（https://arxiv.org/pdf/2404.05622）
+  - 「of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be」（https://arxiv.org/pdf/2404.05622）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
@@ -8365,22 +8365,24 @@
 ## 食い違う市場データの突き合わせ（元の値を残す・食い違いの次元を名指し・そろう欄だけ換算・幅で報告）（reconcile conflicting market data definitions scope period revisions evidence ledger）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「Grok Botは、2026年8月にxAIとCursorが共同で公開した自律型AIエージェントです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「架空メール・架空ECデータで結果を自己採点する方法」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「複数Botに仕事を分ける「Swarm」の引き継ぎ手順」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「25本の依頼文と3つのケーススタディで、手元にすぐ使える型を持ち帰る」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「Grok Botとは、xAIとCursorが共同で提供する、ブラウザーやアプリを自分で操作して仕事を進める自律型のAIエージェントです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「ここで大切なのは、立派な管理方法よりも、何を渡したら何が返ったかを見失わないことです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「これを行うと、うまくいった理由を説明しやすくなり、担当者が変わったときにも手順を渡せます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「第8章で確認済みの手順を保存・定期化し、第9章の点検票で運用を見直しましょう」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「スキルは作業方法を保存した手順、ルーティンは実行する時刻や条件の設定、グループは複数の担当者が一つの成果を作るための会話の場所を指します」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「そこでこの記事は、準備、単独作業、情報整理、数値分析、分担、デザインへの応用、手順の保存、運用の順にまとめました」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「プラグインは外部サービスへの接続、スキルは作業方法の保存、ルーティンは実行する時刻や条件の設定です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「起動後の「Get started」からCursorアカウントで認証する（公式手順）」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「保存方法はアプリ版の実画面で確認してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「分類方法の検討と、実メールへの適用を同じメッセージで依頼しないほうが、何を変えたかを確認しやすくなります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「Gmailへの接続と、5件だけ読ませる手順」（https://note.com/ai_love_009/n/n2f8c22cb0191）
+  - 「How to Reconcile Conflicting Market Data Without Inventing Certainty | SellersGPT」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「Two credible sources can disagree without either being wrong. The conflict often comes from different definitions, scopes, classifications, periods, valuations, revisions, or measurement methods.」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「Reconcile conflicting market data by preserving each original value, documenting its definition and method, identifying the exact dimension of disagreement, converting only compatible fields, testing revisions and exclusions, and reporting the result as a supported value, range, scenario, or unresolved question. Never average incompatible figures merely to produce one answer.」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「1 Treat disagreement as a diagnostic signal 2 Preserve every source in an evidence ledger 3 Classify the source of conflict 4 Apply the SellersGPT Reconciliation Protocol 5 Choose the right output type 6 Decide when the evidence is sufficient 7 Illustrative example 8 Common mistakes 9 What this does not mean 10 Common questions 11 Sources and methodology」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「• A commercial source is not invalid merely because its method differs; its fitness depends on transparency and fit.」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「11. Sources and methodology」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「Sources and Methodology」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「census.gov: How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「statcan.gc.ca: How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「unstats.un.org: How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「usitc.gov: How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「bls.gov: How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「bea.gov: How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「worldbank.org: How to Reconcile Conflicting Market Data Without Inventing Certainty」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
 - 突き合わせ・推定：
+  - 「Triangulation tests a hypothesis across independent evidence; it does not make every source equally authoritative.」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「Illustrative example. All products, values, calculations, and conclusions below are fictional. They do not represent a SellersGPT customer or a market estimate. An industrial supplier finds three estimates for a North American replacement-component market:」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
   - 「架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「実機検証はケース1のみで、ほかの出力例はすべて執筆時の想定アンサーです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「ただし、今回の実機検証はWindows版です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
@@ -8394,9 +8396,8 @@
   - 「人が元資料と照合できる成果になったかを基準にします」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「興味のある応用章から選んでも構いませんが、入力と結果を照合する基本は第2章で身に付けてください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「重要なのは量よりも、矛盾がないことです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「実務では文脈から推定する場合もありますが、この演習の条件は「本文にない年月日を補わない」です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「推定が役立つ場面でも、確定情報とは分けて表示させる必要があります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
 - 一次情報の探し方：
+  - 「This guide is for market intelligence teams, manufacturers, exporters, strategy leaders, and B2B decision-makers using official statistics, commercial databases, industry reports, company filings, tenders, and interviews to select markets or accounts.」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
   - 「この記事の解答は、AIが出した文章をそのまま採用してよいという意味ではありません」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「本文「2026年9月7日17時までに採用する案をご返信ください」」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「返信案が自然でも、資料にない納期や値引きを約束していたら採用できません」（https://note.com/ai_love_009/n/n2f8c22cb0191）
@@ -8410,6 +8411,8 @@
   - 「同じ情報の重複説明を省き、却下された案と現在採用している案を分けます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「人が決めること：確認担当、回答期限、採用する改善一件」（https://note.com/ai_love_009/n/n2f8c22cb0191）
 - 失敗・落とし穴：
+  - 「1 Treat disagreement as a diagnostic signal 2 Preserve every source in an evidence ledger 3 Classify the source of conflict 4 Apply the SellersGPT Reconciliation Protocol 5 Choose the right output type 6 Decide when the evidence is sufficient 7 Illustrative example 8 Common mistakes 9 What this does not mean 10 Common questions 11 Sources and methodology」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「8. Common mistakes」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
   - 「説明欄の禁止事項は作業方針であり、技術的なアクセス権を隔離する設定ではない点に注意してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「逆に、毎回守る必要がある「原文にない期限は補わない」が会話の奥に埋もれてしまうと、後から見直しにくくなるので注意してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「「6件中5件だから本番で問題ない」とは判断せず、失敗した条件を直してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
@@ -8423,9 +8426,11 @@
   - 「担当Bot、入力の置き場所、データの日付、変更しない操作、失敗時の扱いを明記してください」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「：正しい例と、注意する例があるか」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「今回の誤り：配布予定日を返信期限として扱いました」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「ただし、変化なしの通知を減らすことと、失敗を隠すことは別です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「確認作業が増え続ける、元資料に戻れない、期限や金額の誤りが繰り返される場合は、自動化の範囲を狭めます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
 - 実例：
+  - 「1 Treat disagreement as a diagnostic signal 2 Preserve every source in an evidence ledger 3 Classify the source of conflict 4 Apply the SellersGPT Reconciliation Protocol 5 Choose the right output type 6 Decide when the evidence is sufficient 7 Illustrative example 8 Common mistakes 9 What this does not mean 10 Common questions 11 Sources and methodology」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「7. Illustrative example」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「Illustrative example. All products, values, calculations, and conclusions below are fictional. They do not represent a SellersGPT customer or a market estimate. An industrial supplier finds three estimates for a North American replacement-component market:」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
+  - 「This article separates cited official or first-party facts from SellersGPT calculations, examples, frameworks, and recommendations. Source links and scope are retained from the publication pack.」（https://sellersgpt.com/knowledge/how-to-reconcile-conflicting-market-data-without-inventing-certainty/）
   - 「返ってきた結果を自分で点検できて、はじめて実務に使えるようになります」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「この記事は、楽天やAmazonなどのモールや自社サイトを運営するEC運営者・店舗担当者が、Grok Botに「1つの仕事」を渡し、その結果を自分で点検する力を身につけるための演習集です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「架空のメール・架空のEC販売データ・架空の問い合わせを使い、9つの章と25本の依頼文、3つのケーススタディ、実機検証1件を通して、AIエージェントとの正しい距離感を学んでいきます」（https://note.com/ai_love_009/n/n2f8c22cb0191）
@@ -8437,10 +8442,6 @@
   - 「ケース2は問い合わせ6件の対応表、返信案6通、FAQ候補です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「ケース3は商品紹介文1本、SNS案2本、画像案3件、15秒動画台本1本です」（https://note.com/ai_love_009/n/n2f8c22cb0191）
   - 「ケース1のBot作成、入力確認、3商品の計算、確認事項の抜けの修正、会話内の週次報告を確認しています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「実機未検証なのは、ケース2・3、ケース1の確認依頼作成、インストールと初回認証、実サービスへの接続・書き込み、定期実行、複数Bot連携などです」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「公式資料や動画を参考にした説明と、実行して確認した結果は、この記事の中で区別しています」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「例えば「2026-09-05_メール分類_01」のようにします」（https://note.com/ai_love_009/n/n2f8c22cb0191）
-  - 「例えば「分類が良くなった」と感じても、入力したメールが違えば、指示を直した効果なのか、簡単なメールに変わっただけなのか分かりません」（https://note.com/ai_love_009/n/n2f8c22cb0191）
 
 ## ポイントインタイム（当時公表済みの資料だけで過去を評価する）と生き残りの偏りの防ぎ方（アナリスト・バックテスト・調査）（point in time data survivorship bias research analyst method）
 - 文脈：検証
@@ -9764,11 +9765,11 @@
 
 ## 食い違う市場調査の推計を方法・標本数・調査対象・出資者の開示で振り分ける実務（調査概要の読み方・開示しない推計の扱い・HR Fraternity ほか）（reconciling conflicting market research estimates methodology disclosure sample size sponsor bias）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 業種・会社の比較で平均並みの幅（標準誤差・95%の幅）を引いて高い・低いを決める報道の実務（Journalist's Resource・データ報道の手引き）（data journalism making the call close comparisons standard error confidence interval ranking）
 - 文脈：突き合わせ
@@ -14306,7 +14307,7 @@
   - 「The defaults below are editable examples, not vendor prices or measured performance. “Usable” means a company was matched and all fields required by your workflow were present. No input is sent to a server by this calculator.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
   - 「Example monthly model:」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
   - 「Prepare a representative sample, ideally 50–100 companies across your actual countries and entity types. This is a practical starting point, not a statistically conclusive benchmark. Include difficult cases as well as easy ones: similar names, branches, inactive companies, holding structures and businesses with limited public filings.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
 
 ## 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）（Statistics Commission Japan consultation report survey change discontinuation sampling frame）
 - 文脈：統計の読み方
@@ -15254,11 +15255,11 @@
 
 ## 調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120）（CJR The Audit reporting estimates private company numbers attribution）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ29頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
-- 実例：記載なし（読んだ29頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）（Monthly Labour Survey Japan sample rotation benchmark revision gap）
 - 文脈：統計の版

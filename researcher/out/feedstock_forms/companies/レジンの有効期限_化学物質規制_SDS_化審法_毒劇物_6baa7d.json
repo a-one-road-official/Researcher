@@ -1,0 +1,840 @@
+{
+ "name": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物）",
+ "en": "3D printing resin shelf life chemical regulation SDS REACH",
+ "aliases": [
+  "3Dプリンター レジン 有効期限",
+  "レジン SDS 化審法",
+  "光硬化樹脂 規制"
+ ],
+ "context": "液体レジン・規制",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:14:14.849785+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "surface water concentration limit for ACMO: releases must not result in estimated surface water concentrations exceeding 100 parts per billion",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Acrylic and gel nail products (now the leading cause of acrylate allergy worldwide)",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "Modern SLA, DLP and MSLA photopolymer resins consist of reactive acrylate monomers and oligomers that polymerize into solid polymers when exposed to <405 nm UV light, triggered by photoinitiators. Before that reaction is complete, these chemicals are hazardous to your skin, lungs and the environment.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Water-washable SLA resin contains the same hazardous acrylate monomers as standard resin. It just dissolves in water instead of IPA.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple manufacturers’ own Safety Data Sheets classify their water-washable resins as “Environmentally Hazardous Substance” that is “toxic to aquatic life with long lasting effects.”",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Safety Data Sheet (SDS",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Short answer: No, these terms do not mean that the resins do not contain any hazardous components.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "These resins undergo heavy chemical modification and still contain hazardous components.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Commonly available plant-based resins contain substantial amounts of epoxidized soybean oil oligomer (a skin irritant) alongside standard resin chemicals including isooctyl acrylate (respiratory toxicity), photoinitiators (organ toxicity) and other hazardous compounds.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "The real danger of bio-based resins is not that they are more toxic. It is that the marketing actively misleads users into skipping PPE. Labels like “eco-friendly,” “biodegradable” and “plant-based” signal safety to most people. The SDS tells a different story than the front of the bottle.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Dispose of bio-based resin waste following hazardous material procedures.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Removing certain hazardous ingredients can reduce specific chemical hazards, but it doesn’t make a resin completely safe. Other ingredients may still cause skin allergies, irritation or other health problems.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Always check the resin’s Safety Data Sheet (SDS).",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Use effective ventilation during printing, washing and curing. Follow the SDS and safety guidance for any additional protection needed.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Having a Safety Data Sheet (SDS) doesn’t mean a resin is safe or free from hazardous ingredients. What matters is the information inside it, so don’t just check whether an SDS exists. Read it.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "If a resin manufacturer provides an SDS, the product must be safe and properly tested.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "An SDS is a standardized safety document, so it’s easy to assume that having one means the product has been tested and approved as safe.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "Do not use: surgical masks, N95/KN95 respirators, dust masks or cloth masks.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "First, printer lids do not seal airtight. VOCs escape through gaps around the lid, the build plate slot, cable pass-throughs and any venting holes in the housing. The leak rate is slow enough that you may not notice the smell, but VOC concentrations in the room still rise throughout a multi-hour print. You are breathing contaminated air for the entire print duration without realizing it.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "And printing is only one part of the whole workflow. There’s also washing, post-curing, and a lot of handling of uncured prints, liquid resin and washing liquids. Often, all of this happens in the same room. Many VOCs are released during these steps, and a printer’s low-emission certification does not automatically mean that these parts of the process have also been evaluated or certified.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Never use the printing area for food, clothing or children’s items.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "If you must use resin for food applications, coat with an FDA-compliant or EU Regulation 10/2011-compliant food-safe epoxy.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Consider coating with clear epoxy or polyurethane for skin-contact items.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Wash your hands and change your clothes before handling children or pets after a print session.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Disposable aprons or dedicated printing clothes",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Prevent resin transfer to personal clothing",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "with appropriate cartridges (such as 3M 6075, 3M 6005) during printing, cleaning and post-processing.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Another thing to watch for is how manufacturers disclose ingredients. Some SDSs use terms such as “proprietary,” “trade secret” or broad chemical descriptions instead of identifying specific substances.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "If ingredients are listed as proprietary or the safety information is unclear, ask the manufacturer for clarification.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Some might think that printers with automatic resin dispensing and sealed cartridges can help. While they reduce the contact during refills, they do not remove it completely. You still handle resin when you take out the tank, remove the build platform, take parts off the plate and carry fresh parts to the wash.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Only organic vapor respirators with proper cartridges protect against resin VOC’s.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Use an organic vapor (OV) respirator with the right cartridges:",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3M 6001 Organic Vapor Cartridge (effective against methacrylate and similar acrylates).",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3M 6075 Formaldehyde/Organic Vapor Cartridge.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3M 6005 Formaldehyde/Organic Vapor Cartridge.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Only organic vapor respirators with proper cartridges are effective against VOCs released during resin 3D printing. Use appropriate PPE.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "You may see resins marketed as biocompatible based on testing under ISO 10993, the standard series used for the biological evaluation of medical devices. That result is real, but it is narrower than it sounds.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "If printing continues, maximize all existing controls: dedicated outdoor exhaust ventilation, fresh organic vapor respirator cartridges changed on schedule, full nitrile glove changes every 5 minutes (depends on resin formulation).",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Type of Respirator Cartridge",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3M 6001 Organic Vapor Cartridge – protection against certain organic vapors",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "3M 6005 Formaldehyde/Organic Vapor Cartridge – protection against formaldehyde and certain organic vapors",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "Some might think that printers with automatic resin dispensing and sealed cartridges can help. While they reduce the contact during refills, they do not remove it completely. You still handle resin when you take out the tank, remove the build platform, take parts off the plate and carry fresh parts to the wash.",
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.jcia-bigdr.jp/jcia-bigdr/material/law_search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/1000051.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11120000/001622226.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetoc.or.jp/domestic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ca-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cerij.or.jp/knowledge/chem-safe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/law/qa/3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11120000/001642581.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://johokiko.co.jp/chemmaga/tkkqa0008/tkk_qa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xiglobe.com/ehs-legal-notes/sds.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multimedia.3m.com/mws/mediawebserver?mwsId=TTTTTV7o0_VyM9hTnygfOynTmwvJ2dv_IwVAQ_H7oTTTTTT--",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.env-value.co.jp/column/lawamendment/column-176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/jp/question/legal-regulations/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkakyo.org/safety_of_chemical_products/domestic/sds.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nite.go.jp/chem/jcheck/search.action?request_locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thermofisher.com/us/en/home/technical-resources/msds.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://toryo.or.jp/jp/event/seminar/texts/2019forum2chemicals.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/chemical_management/kasinhou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemreg.net/regulations/gmsds-dec21-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tkk-lab.jp/post/reach-q653",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowledge.chemican.com/contents/y41izuf18owdy0zxl69swuo3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jsac.or.jp/~gc/pdf/GC357_01_wada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.epc.osaka-u.ac.jp/yellow/Chemicals&Laws.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/sds/W01W0120-2044JGHEJP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://multimedia.3m.com/mws/mediawebserver?mwsId=tttttvV5A9vZm0ItoyH_NzAhQXWjGEW9iXvaq9hV5tttttt--",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi-ghs.com/blog/%E6%B3%95%E8%A6%8F%E3%83%BB%E8%A6%8F%E6%A0%BC/2172/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_11237.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi-ghs.com/faq/info-q004/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/3d-printing-resin-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/blog/3d-resin-prints-lasting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sds-create.pl/en/3d-printing-materials-and-clp-is-a-printed-object-still-a-chemical-product-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/3d-printing-materials-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/3d-printing-material-market-5083",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs-media.formlabs.com/datasheets/1801037-SDS-ENEU-0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://static.3d-basics.com/files/SDS/re10/SDS-Value_Resin-IE-en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/blog/3d-printing-toxicity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pro3dshop.com/blogs/blog/expired-3d-printer-resin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/support/Resin-Care/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.3dsystems.com/s/article/figure-4-modular-resin-storage-and-safety?language=en_US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/resinprinting/comments/swftts/resin_shelf_life/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://layercraftlog.com/slicer-software/does-3d-printing-resin-expire-or-go-bad-over-time",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://layercraftlog.com/slicer-software/what-is-the-shelf-life-of-3d-printing-resin",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） 市場規模 CAGR",
+   "results": [
+    "https://www.jcia-bigdr.jp/jcia-bigdr/material/law_search",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/1000051.pdf",
+    "https://www.mhlw.go.jp/content/11120000/001622226.pdf",
+    "https://www.jetoc.or.jp/domestic/",
+    "https://www.ca-japan.co.jp/",
+    "https://www.cerij.or.jp/knowledge/chem-safe/",
+    "https://www.chemtopia.net/jp/customer/news-letter/335",
+    "https://www.jas.or.jp/wp/wp-content/uploads/2022/05/833bc95547cd3a75d44cd119f3edbd34.pdf",
+    "https://www.ja-saroma.or.jp/about/magazine/pdf/2212.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） 価格",
+   "results": [
+    "https://www.meti.go.jp/policy/chemical_management/law/qa/3.html",
+    "https://www.mhlw.go.jp/content/11120000/001642581.pdf",
+    "https://johokiko.co.jp/chemmaga/tkkqa0008/tkk_qa/",
+    "https://www.xiglobe.com/ehs-legal-notes/sds.html",
+    "https://multimedia.3m.com/mws/mediawebserver?mwsId=TTTTTV7o0_VyM9hTnygfOynTmwvJ2dv_IwVAQ_H7oTTTTTT--",
+    "https://www.env-value.co.jp/column/lawamendment/column-176",
+    "https://www.kandakiko.co.jp/catalogue/ste500sds.pdf?srsltid=AYCX9vLqZ6DhFtc6VDdwL5lkUST4DjuZmvGOD9DyOgFXxA-6zhM9sJ7u",
+    "https://chemreg.net/regulations/gmsds-dec21-1.pdf",
+    "https://www.nikkakyo.org/safety_of_chemical_products/domestic/sds.html",
+    "https://journal.smartsds.jp/detail/how-to-mass-update-sds"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） 主要メーカー 一覧",
+   "results": [
+    "https://www.meti.go.jp/policy/chemical_management/law/qa/3.html",
+    "https://www.mhlw.go.jp/content/11120000/001642581.pdf",
+    "https://johokiko.co.jp/chemmaga/tkkqa0008/tkk_qa/",
+    "https://labchem-wako.fujifilm.com/jp/question/legal-regulations/index.html",
+    "https://www.nikkakyo.org/safety_of_chemical_products/domestic/sds.html",
+    "https://www.nite.go.jp/chem/jcheck/search.action?request_locale=ja",
+    "https://www.thermofisher.com/jp/ja/home/technical-resources/msds.html",
+    "https://toryo.or.jp/jp/event/seminar/texts/2019forum2chemicals.pdf",
+    "https://multimedia.3m.com/mws/mediawebserver?mwsId=TTTTTV7o0_VyM9hTnygfOynTmwvJ2dv_IwVAQ_H7oTTTTTT--",
+    "https://www.meti.go.jp/policy/chemical_management/kasinhou/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） 代理店 日本",
+   "results": [
+    "https://www.meti.go.jp/policy/chemical_management/law/qa/3.html",
+    "https://www.mhlw.go.jp/content/11120000/001642581.pdf",
+    "https://www.nikkakyo.org/safety_of_chemical_products/domestic/sds.html",
+    "https://chemreg.net/regulations/gmsds-dec21-1.pdf",
+    "https://www.xiglobe.com/ehs-legal-notes/sds.html",
+    "https://labchem-wako.fujifilm.com/jp/question/legal-regulations/index.html",
+    "https://www.env-value.co.jp/column/lawamendment/column-176",
+    "https://www.tkk-lab.jp/post/reach-q653",
+    "https://knowledge.chemican.com/contents/y41izuf18owdy0zxl69swuo3"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） 規制 保管 危険物",
+   "results": [
+    "https://www.mhlw.go.jp/content/11120000/001642581.pdf",
+    "https://www.xiglobe.com/ehs-legal-notes/sds.html",
+    "https://www.jsac.or.jp/~gc/pdf/GC357_01_wada.pdf",
+    "http://www.epc.osaka-u.ac.jp/yellow/Chemicals&Laws.htm",
+    "https://labchem-wako.fujifilm.com/sds/W01W0120-2044JGHEJP.pdf",
+    "https://multimedia.3m.com/mws/mediawebserver?mwsId=tttttvV5A9vZm0ItoyH_NzAhQXWjGEW9iXvaq9hV5tttttt--",
+    "https://www.env-value.co.jp/column/lawamendment/column-176",
+    "https://www.meti.go.jp/policy/chemical_management/law/qa/3.html",
+    "https://www.asahi-ghs.com/blog/%E6%B3%95%E8%A6%8F%E3%83%BB%E8%A6%8F%E6%A0%BC/2172/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） 純正 指定材料 互換",
+   "results": [
+    "https://www.meti.go.jp/policy/chemical_management/law/qa/3.html",
+    "https://www.mhlw.go.jp/stf/newpage_11237.html",
+    "https://johokiko.co.jp/chemmaga/tkkqa0008/tkk_qa/",
+    "https://chemreg.net/regulations/gmsds-dec21-1.pdf",
+    "https://multimedia.3m.com/mws/mediawebserver?mwsId=TTTTTV7o0_VyM9hTnygfOynTmwvJ2dv_IwVAQ_H7oTTTTTT--",
+    "https://www.xiglobe.com/ehs-legal-notes/sds.html",
+    "https://labchem-wako.fujifilm.com/jp/question/legal-regulations/index.html",
+    "https://www.asahi-ghs.com/faq/info-q004/",
+    "https://www.env-value.co.jp/column/lawamendment/column-176"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH market size CAGR",
+   "results": [
+    "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "https://growthmarketreports.com/report/3d-printing-resin-market",
+    "https://www.raise3d.com/blog/3d-resin-prints-lasting/",
+    "https://www.sds-create.pl/en/3d-printing-materials-and-clp-is-a-printed-object-still-a-chemical-product-2",
+    "https://www.mordorintelligence.com/industry-reports/3d-printing-materials-market",
+    "https://www.meticulousresearch.com/product/3d-printing-material-market-5083",
+    "https://www.fortunebusinessinsights.com/industry-reports/resin-market-101746",
+    "https://www.grandviewresearch.com/industry-analysis/biocompatible-3d-printing-materials-market-report",
+    "https://www.datainsightsreports.com/reports/3d-druck-harzmaterialien-388704",
+    "https://www.verifiedmarketresearch.com/product/3d-printing-resin-market/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH price per kg",
+   "results": [
+    "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "https://formlabs-media.formlabs.com/datasheets/1801037-SDS-ENEU-0.pdf",
+    "https://static.3d-basics.com/files/SDS/re10/SDS-Value_Resin-IE-en.pdf",
+    "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "https://www.raise3d.com/blog/3d-printing-toxicity/",
+    "https://www.youtube.com/watch?v=W5QfxcRBiRI",
+    "https://pro3dshop.com/blogs/blog/expired-3d-printer-resin",
+    "https://www.crea3d.com/en/?controller=attachment&id_attachment=1157",
+    "https://www.sds-create.pl/en/3d-printing-materials-and-clp-is-a-printed-object-still-a-chemical-product-2",
+    "https://layercraftlog.com/slicer-software/does-3d-printing-resin-expire-or-go-bad-over-time"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH key players",
+   "results": [
+    "https://formlabs.com/support/Resin-Care/",
+    "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "https://www.youtube.com/watch?v=W5QfxcRBiRI",
+    "https://www.raise3d.com/blog/3d-printing-toxicity/",
+    "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "https://pro3dshop.com/blogs/blog/expired-3d-printer-resin",
+    "https://support.3dsystems.com/s/article/figure-4-modular-resin-storage-and-safety",
+    "https://www.reddit.com/r/resinprinting/comments/swftts/resin_shelf_life/",
+    "https://layercraftlog.com/slicer-software/does-3d-printing-resin-expire-or-go-bad-over-time"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH distributor Japan",
+   "results": [
+    "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "https://formlabs.com/support/Resin-Care/",
+    "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "https://www.raise3d.com/blog/3d-resin-prints-lasting/",
+    "https://3dprinting.co.uk/wp-content/uploads/2021/04/MSDS-PLA.pdf",
+    "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "https://www.sds-create.pl/en/3d-printing-materials-and-clp-is-a-printed-object-still-a-chemical-product-2",
+    "https://static.3d-basics.com/files/SDS/re22/SDS-Value_Resin_-_Water_Washable-GB-en.pdf",
+    "https://alliancechemical.com/blogs/articles/chemicals-in-3d-printing-pioneering-materials-for-additive-manufactur?srsltid=AYCX9vJSaRSWy713DR_vzir9jGaK6SJq8VxAsPNgXKmrONRDkVNauiY9",
+    "https://www.nexreg.com/chemical-labeling-and-sds-requirements-in-japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH safety storage regulation",
+   "results": [
+    "https://formlabs.com/support/Resin-Care/",
+    "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "https://support.3dsystems.com/s/article/figure-4-standalone-material-handling-and-safety?language=en_US",
+    "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "https://www.youtube.com/watch?v=W5QfxcRBiRI",
+    "https://www.raise3d.com/blog/3d-printing-safety/",
+    "https://pro3dshop.com/blogs/blog/expired-3d-printer-resin",
+    "https://mcfenvironmental.com/the-dirty-side-of-3d-printing-safe-disposal-of-toxic-materials/",
+    "https://learn.carbon3d.com/process/resin-and-solvent-storage"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH closed system open material third-party",
+   "results": [
+    "https://support.3dsystems.com/s/article/figure-4-standalone-material-handling-and-safety?language=en_US",
+    "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "https://formlabs.com/support/Resin-Care/",
+    "https://www.raise3d.com/blog/3d-resin-prints-lasting/",
+    "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "https://www.sds-create.pl/en/3d-printing-materials-and-clp-is-a-printed-object-still-a-chemical-product-2",
+    "https://3dprinting.com/safety/3d-printing-safety-guide/",
+    "https://pro3dshop.com/blogs/blog/expired-3d-printer-resin",
+    "https://formlabs.com/support/Certifications-and-standards-resin/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH commodity price competition",
+   "results": [
+    "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "https://www.sds-create.pl/en/3d-printing-materials-and-clp-is-a-printed-object-still-a-chemical-product-2",
+    "https://alliancechemical.com/blogs/articles/chemicals-in-3d-printing-pioneering-materials-for-additive-manufactur?srsltid=AYCX9vLs_gL99wACXGdWykKPH_thXwoSasPYHNf4vQKkOqHvXybj2t0r",
+    "https://formlabs.com/blog/resin-safety-resin-terms-faq/",
+    "https://www.raise3d.com/blog/3d-printing-toxicity/",
+    "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "https://www.youtube.com/watch?v=W5QfxcRBiRI",
+    "https://additiveplus.com/how-long-do-resin-3d-prints-last-factors-affecting-durability-and-longevity-in-3d-printing/?srsltid=AYCX9vLEsP6gmFUscgJYjndFjGloaNiYIxO3clDGviaahMxTfe7HQw6e",
+    "https://layercraftlog.com/slicer-software/does-3d-printing-resin-expire-or-go-bad-over-time"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH technical support parameters",
+   "results": [
+    "https://ameralabs.com/blog/resin-safety-myths-3d-printing/",
+    "https://formlabs.com/support/Resin-Care/",
+    "https://support.3dsystems.com/s/article/figure-4-standalone-material-handling-and-safety?language=en_US",
+    "https://www.raise3d.com/blog/3d-printing-toxicity/",
+    "https://www.youtube.com/watch?v=W5QfxcRBiRI",
+    "https://radtech.org/safe-handling-of-3d-printing-resins/",
+    "https://www.3dmag.com/3d-wikipedia/reach-compliance-for-3d-printing-materials/",
+    "https://www.3dresyns.com/pages/about-material-safety-data-sheets-msdss?srsltid=AYCX9vJzH6Venxfr6WTrHdC5EnnDfSlKRzZ59mnWG1oP_LBDuGq2MzqA",
+    "https://alliancechemical.com/blogs/articles/chemicals-in-3d-printing-pioneering-materials-for-additive-manufactur?srsltid=AYCX9vKGZPi2P-uLFTUqCKv7nqK0-4hAgGZWt4eX2JN3enyYenq6G9ey",
+    "https://pdf.benchchem.com/1593/Technical_Support_Center_Safe_Handling_and_Disposal_of_3D_Printing_Resins_for_Scientific_Applications.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com レジンの有効期限・化学物質規制（SDS・化審法・毒劇物）",
+   "results": [
+    "https://note.com/chem_reg_lab/n/n9f7ee6fc3b18",
+    "https://note.com/chem_reg_lab/n/ncfee5c66bfff",
+    "https://note.com/gold_committee/n/n533c79a15943",
+    "https://note.com/mimi9142/n/n494746c4d491",
+    "https://note.com/konaco3/n/n55901383c0ce",
+    "https://note.com/anshindesign/n/nf7bfc1ddbe8c",
+    "https://note.com/ecrin_0611moemi/n/n08d98608d8a7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com レジンの有効期限・化学物質規制（SDS・化審法・毒劇物）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2106713967435677699",
+    "https://jf.x.com/images/media-preview/2107821025513844811",
+    "https://x.com/meti_NIPPON/status/2113375339883970818",
+    "https://x.com/kudo_sangyoui/status/2062672188332032199",
+    "https://x.com/Kiyohara_PR/status/855737950847459328",
+    "https://x.com/3dprinter_SK/status/1104745254903668737",
+    "https://x.com/CoMayu0088/status/2115837179377418359"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com レジンの有効期限・化学物質規制（SDS・化審法・毒劇物）",
+   "results": [
+    "https://jp.linkedin.com/posts/ulsolutions_ウェビナー化学物質法規制の最新動向とsds自動作成ソフトウェアwercs-studio-activity-7265159527094755328-UA5P",
+    "https://www.linkedin.com/posts/shohei-tsuru-5561a3194_オンデマンドウェビナー化学物質法規制の最新動向とsds自動作成ソフトウェアwercs-activity-7272962993657647104-waeN",
+    "https://jp.linkedin.com/in/officekkt",
+    "https://pe.linkedin.com/posts/dr-steven-brennan_化審法優先評価化学物質及び一般化学物質に関するリスク評価の加速化適正化のための有害性情報収集-activity-7334868818499964928-Cxnx",
+    "https://jp.linkedin.com/jobs/view/【東京本社】化学物質管理（sds作成・各国の法規制対応など／専任部署）◇残業10h程度◇プライム上場-at-doda-デューダ-4423322551?position=33&pageNum=0",
+    "https://www.linkedin.com/posts/activity-7468102245042180096-STqO",
+    "https://jp.linkedin.com/posts/green-regulation-insight-btb-139476411_環境規制インサイト-green-regulation-insight-activity-7465750258837311488-S2rs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com レジンの有効期限・化学物質規制（SDS・化審法・毒劇物）",
+   "results": [
+    "https://www.facebook.com/isozakitetsuji.jaw/posts/本日参議院経済産業委員会で化審法化学物質の審査及び製造等の規制に関する法律改正案について質疑に立ちました化審法は化学物質の製造や化学物質を輸入する場合にその毒性/1429802657090060/",
+    "https://www.facebook.com/kagakuhinkanriko/",
+    "https://www.facebook.com/JapanProsthodonticSociety/posts/622854626490157/",
+    "https://www.facebook.com/toxwatch/posts/日本の化学物質の審査及び製造等の規制に関する法律化審法に相当するeuの法律がreach規則ですeuのnpoでchemsecという団体がreach規則で規制するべ/1352405745331089/",
+    "https://www.facebook.com/reel/953006179321375/",
+    "https://www.facebook.com/washimamo/posts/926701273020464/",
+    "https://www.facebook.com/soundlife0822/videos/いろいろ試しましたがまったく固まらない泣わかったのがレジン樹脂が1年の使用期限記載されていいたけどなんと開封後は2ヵ月で使用しないといけなかった開封して一年以上/665104665445984/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "レジンの有効期限・化学物質規制（SDS・化審法・毒劇物） X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "3D printing resin shelf life chemical regulation SDS REACH site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/2026-chemical-compliance-checklist-pcn-ufi-reach-chemius-part-8cxqe",
+    "https://www.linkedin.com/pulse/how-prepare-safety-data-sheet-sds-accordance-reach-shapypro-upvre",
+    "https://www.linkedin.com/pulse/reach-ec-19072006-vs-regulation-eu-2020878-what-plastic-tzafos-bslhf",
+    "https://www.linkedin.com/pulse/reach-regulation-compliance-article-vs-substancemixture-decision-fwihe",
+    "https://www.linkedin.com/pulse/practical-guide-chemical-compliance-eu-eu-business-showcase-7pj2e",
+    "https://www.linkedin.com/pulse/sds-access-exemptions-under-reach-rabiye-baştürk-r4lwf/",
+    "https://www.linkedin.com/pulse/reach-fda-pfas-free-how-check-resin-suppliers-compliance-zola-zhao-kxoyc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "価格": "記載なし（読んだ45頁・検索21回）",
+  "売り方・商流": "記載なし（読んだ45頁・検索21回）",
+  "技術支援": "記載なし（読んだ45頁・検索21回）",
+  "コモディティ化": "記載なし（読んだ45頁・検索21回）",
+  "日本": "記載なし（読んだ45頁・検索21回）"
+ }
+}

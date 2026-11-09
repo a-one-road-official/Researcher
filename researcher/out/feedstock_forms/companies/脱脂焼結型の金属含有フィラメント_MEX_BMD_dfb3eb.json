@@ -1,0 +1,1595 @@
+{
+ "name": "脱脂焼結型の金属含有フィラメント（MEX・BMD）",
+ "en": "metal filament debinding sintering bound metal market",
+ "aliases": [
+  "金属フィラメント 脱脂 焼結",
+  "メタルフィラメント 3Dプリンター",
+  "Ultrafuse 316L"
+ ],
+ "context": "フィラメント・金属",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:09:51.877417+00:00",
+ "evidence": {
+  "価格": [
+   {
+    "quote": "【2025】低価格3Dスキャナー比較",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "A. レーザー方式の金属3Dプリンタが数千万後半円規模であるのに対し、金属・セラミックスFFFプリンタは数百万円～数千万前半から導入可能です",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "A. 個人で3Dプリントまでであれば低価格帯の3Dプリンターでも難なく可能ですが、脱脂焼結まではさすがに厳しいと思います",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "思い返せば、10年ほど前に低価格帯の樹脂3Dプリンターが登場した当初も、「精度が出ないから実用にはならない」と多くの人が指摘していました",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "低価格3Dスキャナー",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター用TPUフィラメントの特性・販売先・価格を解説",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約20万円からとなっています",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約89,000円と手頃で、代理店が脱脂・焼結の後処理をサポートしてくれるのも魅力です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約83,000円となっています",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、金属3Dプリンターの価格・方式・メリット・デメリット・活用事例を徹底解説します",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "結果的に金属3Dプリンターは、樹脂3Dプリンターに比べて高価な装備が求められ、その分、装置価格が高額になる傾向があります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円～",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,000万円以上",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO",
+    "pass": 3
+   },
+   {
+    "quote": "今回提供開始したステンレス316Lは、Adventurer3Xで使用可能な金属フィラメントで、販売価格は1リール3万3000円（税別、重量1000g）だ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "脱脂・焼結サービスは、サイズがX／Y／Z軸方向で200mm以内、総重量1000g以内に収まるモデル（範囲内であれば複数モデルでも可能）を対象とし、サービス利用単価は8万5000円（税別＋国際送料3000円）",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメントに対応した3Dプリンタの“日本限定モデル”が10万円以下で",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "One processing ticket covers up to only 1kg",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of spending hours researching reliable debinding and sintering companies and negotiating quotes, this MatterHackers BASF Ultrafuse Metal Processing Ticket expedites that process with a manufacturer and price ready to go at checkout. Buy a ticket. Receive a code. Print out the form in Step 4 with the code to ship with your parts.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "Weigh all the green parts you plan to ship with your processing ticket. Again, one processing ticket only covers up to a total of 1kg in weight of BASF Ultrafuse printed green parts.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "Invest in a hardened steel nozzle sized 0.6-0.8mm. This size handles the heavy, particle-laden filament without frequent clogs or backpressure issues, lasting for over 1kg of prints. For example, on Prusa or Creality printers, a 0.6mm nozzle ensures smooth extrusion at 60-80mm/s speeds. Clean it regularly with cold pulls to maintain precision.",
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "metal filament ($250–475/kg for 316L)",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "Prices of Raise3D MetalFuse system are not disclosed at this time, but Raise3D asserts that, in addition to all mentioned technical advantages, it will have a substantially lower total cost of ownership than the solutions available in the market.",
+    "url": "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "pass": 3
+   },
+   {
+    "quote": "価格もかなり高く、海外に出すので時間もかかる",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "焼結工程では真空・不活性ガス・還元ガスなどの制御が必要になりますが、それによって",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "1. フィラメントの保管",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "フィラメントは密閉容器や乾燥剤と一緒に保管し、湿気の少ない環境を維持することが重要です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": ": 金属フィラメントは湿気を吸収しやすいため、使用しないときは密閉容器に乾燥剤と一緒に保管しましょう",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーやビームといった温度の高い熱源を利用するほか、造形庫内を不活性ガスで充填しているなど場合もあるため、冷却やガス交換のための付帯設備が必要になる場合もあります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーによっては装置自体で対策を行っている場合もありますが、防塵防爆設備をそなえた環境での使用が望ましいでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": "The metal filament market underscores this growth, projected at $3.82 billion by recent estimates, with metal 3D printing reaching $11.18 billion in 2026. This surge reflects desktop accessibility driving adoption.",
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "A desktop kiln under $1000, like programmable models reaching 1300°C, is crucial for debinding and sintering to achieve 80-95% dense metal parts. Bury green prints in alumina powder, ramp to 482°C for debinding, then sinter at alloy-specific temperatures with 5-20% shrinkage compensation in your designs. This in-house process slashes costs by 50-80% versus services.",
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Performance Limits: DIY parts often suffer from high porosity and unpredictable 15-20% shrinkage, unlike industrial SLM/BJ which reaches 99%+ density.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "stable atmosphere control using inert or reducing gases such as argon or hydrogen",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "potentially hazardous off-gassing depending on material type",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "gas supply systems for inert or reducing atmospheres",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "safe storage and handling areas for materials and equipment",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "Green parts are weak due to binder content, and even after sintering at home they often contain porosity. In contrast, SLM-produced parts reach near-full density, giving significantly higher strength and reliability.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "• Finally, a sintering process at temperatures right below the melting temperature of the metal removes the secondary binder from the brown part and causes the metal particles to coalesce. The material reaches its final properties post-sintering regarding hardness and strength.",
+    "url": "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "pass": 3
+   },
+   {
+    "quote": "Or fill out the form below, and we'll reach out within one business day.",
+    "url": "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vKOK1FoED-pjcCLWSGeg242CYGrp_MI3TaKKZBtkdEmgK2ESYFQ",
+    "pass": 3
+   },
+   {
+    "quote": "Filamet is a bound metal filament that lets open‑architecture FDM printers produce real metal parts. The filament encapsulates fine metal powders in a PLA‑compatible binder, with certain variants reaching up to 90 percent metal by mass, which is crucial for dense, predominantly metal outcomes after sintering",
+    "url": "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "特に「少数ロットで必要な特殊治具」を短納期で作れる点は現場改善に直結します",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりや物流の流動性が高まる昨今、金属3Dプリンターの需要は益々高まっていると言えるでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "前項でご紹介した後者のフィラメントをピックアップすると、具体的には「焼くことによって完全な金属素材にすることができる」「複雑な形状にも対応できる」「試作品や小ロットを短期納品できる」といったことが挙げられるので、各々詳しく解説します",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "このメリットは金属フィラメントに限った話ではありませんが、金属フィラメントと3Dプリンターの組み合わせで試作品や小ロット品を短時間で製造できます",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメントでの造形は、あくまでも「小ロット」のものを短期納品できるものです",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "If there is a lot of wiggle room in the box, either use extra bubble wrap or throw in packing foam to reduce as much movement as possible.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "• Finally, a sintering process at temperatures right below the melting temperature of the metal removes the secondary binder from the brown part and causes the metal particles to coalesce. The material reaches its final properties post-sintering regarding hardness and strength.",
+    "url": "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "pass": 3
+   },
+   {
+    "quote": "The resulting metal part can then be further processed with traditional manufacturing techniques such as machining, polishing, or coating.",
+    "url": "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vKOK1FoED-pjcCLWSGeg242CYGrp_MI3TaKKZBtkdEmgK2ESYFQ",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "各メーカーは専用ソフトや補正係数を提供しているのでその値にモデルを拡大すると設計データと近しい寸法で出力できます",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア（Eiger）による自動収縮補正機能や専用の脱脂、焼結、造形テンプレート値が備えられているため、特に詳しい知識がなくても、指示に従って焼結までを行えばパーツが作成できるという専用システムならではの強みがあり、失敗も少ないです",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "専用機はこの辺も工夫されているので比較的安定した密度での作成ができる傾向があります",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. 脱脂と焼結は必ず専用の脱脂焼結炉が必要ですか？",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "A. 小型部品なら市販の管状炉や真空炉でも対応可能ですが、均一な品質や再現性を確保するには専用やメーカー推奨の脱脂炉・焼結炉を備えたシステムが望ましいです",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "尚、こちらのお問合せは、法人専用となっております",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのプロセスは専用の設備が必要であり、家庭で行うのは難しい場合があります",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "また製造ラインの一部として3Dプリンターの技術要素を取り入れた専用装置を組み込んだ専用生産ラインも登場しはじめたところです",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため3Dプリンターで生産するための最適な設計DfAM（Design for Additive Manufacturing：3Dプリンターならでは設計）への知見や、専用材料の評価基準、造形後の部品の品質評価方法などが確立されていません",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末を専用のバインダー材で固めながら造形する方式",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "LEGOでコマツの建機ジオラマを制作 専用3D CADで配置や地形を検討",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造・鍛造プロセスでは、一つの製品を作るために専用の金型を用意しなければなりません",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "Filamet works seamlessly on open-architecture FDM printers like Prusa MK3S or Creality Ender series. Direct-drive extruders minimize jams, and a simple nozzle upgrade suffices. No proprietary systems required, lowering barriers for hobbyists and manufacturers alike.",
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "In this guide, you have unlocked the essentials of metal infused filament 3D printing. Key takeaways include selecting the ideal filament like stainless steel or bronze infused PLA, optimizing printer settings for dense and flawless prints, mastering simple post-processing techniques for a genuine metal sheen, and navigating common pitfalls with safety-first troubleshooting.",
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Compatible with both Bowden and direct drive extruders",
+    "url": "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vKOK1FoED-pjcCLWSGeg242CYGrp_MI3TaKKZBtkdEmgK2ESYFQ",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing BASF Ultrafuse® as your metal 3D printer filament opens the door to functional metal part production at a fraction of the cost. Unlike traditional metal additive manufacturing systems, such as Direct Metal Laser Sintering (DMLS) machines which start at around $600,000, Ultrafuse® is designed to be compatible with commercially available Fused Filament Fabrication (FFF) printers.",
+    "url": "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vKOK1FoED-pjcCLWSGeg242CYGrp_MI3TaKKZBtkdEmgK2ESYFQ",
+    "pass": 3
+   },
+   {
+    "quote": "Filamet is a bound metal filament that lets open‑architecture FDM printers produce real metal parts. The filament encapsulates fine metal powders in a PLA‑compatible binder, with certain variants reaching up to 90 percent metal by mass, which is crucial for dense, predominantly metal outcomes after sintering",
+    "url": "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "メタル（金属）フィラメント | BASF社製3Dプリンターフィラメント日本総代理店",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "【本音レビュー】3DMakerpro Raven MAX RTKを実際に評価｜メリット・デメリットを正直に正規販売代理店が解説",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約89,000円と手頃で、代理店が脱脂・焼結の後処理をサポートしてくれるのも魅力です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREEは2020年7月31日、同社が日本総代理店を務めるFLASHFORGE（フラッシュフォージ）のデスクトップ型FDM（熱溶解積層）方式3Dプリンタ「",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGEと同社の日本総代理店であるApple Treeは「TCT Japan 2020」に出展し、金属フィラメントに対応したデスクトップタイプのFDM（熱溶解積層）方式3Dプリンタ「Adventurer3X」の展示デモを披露した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "3Dプリンターユーザーがまず疑問に思うのは「サポートはどうするのか？」という点です",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "サポートはなるべく不要になるように設計すること",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、どうしてもサポートが必要な場合には、以下のような対応方法があります",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "焼結後は同一材同士が完全に一体化してしまうため、サポートと本体を分離することが困難です",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "そのため実際には、陶器のように壊れやすいセラミックス材をサポートとして金属部品の間に挟み込みます",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "焼結完了後にハンマーなどで叩くことで、金属部品とセラミックスサポートを分離できます",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "一般的には造形時にサポートを付け、脱脂後で脆くなった段階で取り外し、その後に焼結を行う方法だったり、",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂等のサポート材をつけて脱脂や焼結時に除去などもあります",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、焼結時に対象物のクラックや破損、発生するガスの量など炉に与えるリスクがあるため、やはりサポートを前提とした設計は避けるのが無難です",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工ができる場合は焼結まで同一サポートで行いサポートの除去を行います",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "また、この形状では3Dプリンターでもサポート不要で造形や脱脂焼結時にも成功しやすい形状となっています",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "Seed3Dのサポート体制",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャナーの販売・運用サポート",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "スキャンから金属3Dプリント用のデータ作成、造形、脱脂・焼結条件の最適化までをサポート",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "また、本体は最新のタッチスクリーンインターフェースを備え、デスクトップメタル3Dプリンタ材料用のパラメータがあらかじめプログラムされている",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN",
+    "pass": 3
+   },
+   {
+    "quote": "価格は約89,000円と手頃で、代理店が脱脂・焼結の後処理をサポートしてくれるのも魅力です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "造形後はサポート材の除去や表面処理が必要です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "4. サポート材の設定",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "オーバーハングやブリッジ部分が多いモデルでは、適切なサポート材の設定が重要です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材の密度や配置を調整し、造形物をしっかりと支えるようにしましょう",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材の設置に関する詳細なテクニックは、以下の記事が参考になります",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "1. サポート材の除去",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "造形後、サポート材を慎重に取り除きます",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材の除去方法については、以下の記事でも詳しく解説しています",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材を除去した後、造形物の表面をサンドペーパーや研磨ツールで滑らかにします",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "（サポート材除去などで影響がある場合もあります）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "造形する側も事前のシミュレーションやパラメーター開発などを都度見直しながら取り組んでいる場合もあるでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "サポートレス、高密度の部品造形が可能",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "熱源を照射した際のスパッタの影響や形状によって最適な造形条件を維持するためにリアルタイムでの造形監視とフィードバックによる最適化が品質向上のために必要となります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "また、本体は最新のタッチスクリーンインターフェースを備え、デスクトップメタル3Dプリンタ材料用のパラメータがあらかじめプログラムされている",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス316Lと同時提供の脱脂・焼結サービスを利用するには、出力サイズは50〜100mm角以内、肉厚は5mm以上、サポート材を必要とせず、オーバーハングの少ない安定した形状を推奨するなど、規定の出力条件に準拠しなければならない（詳細は、",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、FlashXPrint上で使用するステンレス316L用の設定パラメーターは、フィラメント購入時に提供される",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメントに精通した専任のスタッフが充実のサポートを提供いたします",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "Training and Services",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1 - Follow Printing Parameters for Printing Green Parts",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "We strongly recommend following these parameters as they boost your chances of successfully transforming your green parts into solid steel during the debinding and sintering process.",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "To learn about available discounts, training, and maintenance options, please use the form below and a MatterHackers Expert will contact you within one business day. Alternatively, you can always feel free to give us a call",
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "pass": 3
+   },
+   {
+    "quote": "Leveraging existing printers avoids the capital, facilities, and training burden typical of high‑energy metal systems, cutting both initial and operating costs. Because Filamet keeps powders bound in a thermoplastic matrix, it simplifies handling and improves shop safety compared to loose powders, aligning with an open, safe, and cost‑competitive approach",
+    "url": "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "【2025】低価格3Dスキャナー比較",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "通常の造形自体は簡単にでき、低価格帯のプリンターでも問題なく造形はできます",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "A. 個人で3Dプリントまでであれば低価格帯の3Dプリンターでも難なく可能ですが、脱脂焼結まではさすがに厳しいと思います",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "思い返せば、10年ほど前に低価格帯の樹脂3Dプリンターが登場した当初も、「精度が出ないから実用にはならない」と多くの人が指摘していました",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "低価格3Dスキャナー",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "PLA、ABS、PETG、ナイロンなどの汎用プラスチック樹脂をベースに、微細な金属粉末（銅、真鍮、ステンレス鋼、鉄、アルミニウムなど）を配合して作られています",
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "High Hidden Costs: While metal 3d printers for home are cheap, the specialized furnaces required for sintering cost $10,000–$30,000 and carry significant safety risks.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "Q2:What is the cheapest way to get metal 3D printed parts?",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D MetalFuse-produced parts with Ultrafuse® Metal Filaments are in general 1.4 to 2 times cheaper than most metal powders; also, the solution requires less investment in hardware.",
+    "url": "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "メタル（金属）フィラメント | BASF社製3Dプリンターフィラメント日本総代理店",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター導入事例 | Markforged最新素材ーー銅の特性と用途 | 日本3Dプリンター株式会社",
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大の情報量を誇る3Dプリント＆テクノロジー専門メディア 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "「寸法精度」と「再現性」を高い水準で実現する日本の品質基準は3Dプリンターの利用を検討する際の大きな検討課題です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "また「なぜ？なに？」をどんどん掘り下げる日本の製造現場のカイゼン圧力に対して、理論的な部分から適切に回答できる知見が育っていないという点も課題として挙がってくるでしょう",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "焼結炉運用のノウハウを持っている日本企業にとっては大きな可能性がある分野です",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "WAAM方式などと呼ばれており、国内では三菱電機が取り組んでいます",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大の情報量を誇る3Dプリント＆テクノロジー専門メディア 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO",
+    "pass": 3
+   },
+   {
+    "quote": "APPLE TREEは2020年7月31日、同社が日本総代理店を務めるFLASHFORGE（フラッシュフォージ）のデスクトップ型FDM（熱溶解積層）方式3Dプリンタ「",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "Adventurer3Xは、従来機種「Adventurer3」の“日本限定モデル”として販売開始された3Dプリンタで、金属フィラメントに対応する他、カーボンファイバー製プラットフォーム、0.3mm小径ノズル、排気フィルターなどを標準搭載する",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメントに対応した3Dプリンタの“日本限定モデル”が10万円以下で",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "FLASHFORGEと同社の日本総代理店であるApple Treeは「TCT Japan 2020」に出展し、金属フィラメントに対応したデスクトップタイプのFDM（熱溶解積層）方式3Dプリンタ「Adventurer3X」の展示デモを披露した",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニックのドラム式洗濯機64万台超リコール、国内で6件の発煙／発火事故",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社と提携しているForward AM社は、ドイツに本拠地を置く世界的な総合化学・材料メーカーです",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "金属フィラメント選びでお悩みの方は、日本3Dプリンター株式会社にご相談ください！",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "もしも金属フィラメントについて知りたいことがあれば、、ぜひ日本3Dプリンター株式会社にご相談ください",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社では、自社で世界トップクラスのメーカーの3Dプリンターを複数保有",
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "金属AM部品市場が2031年までに750億ドルに到達",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み",
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "pass": 3
+   },
+   {
+    "quote": "金属AM部品市場が2031年までに750億ドルに到達",
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": ". The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": "The metal filament market underscores this growth, projected at $3.82 billion by recent estimates, with metal 3D printing reaching $11.18 billion in 2026. This surge reflects desktop accessibility driving adoption.",
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing is entering a scaling phase, with analyses indicating roughly 25 percent annual growth. Recent data values the sector near 9.3 billion dollars in 2024 and 11.7 billion in 2025 at 26.2 percent CAGR, with a forecast of 29.4 billion by 2029 around 25.9 percent CAGR, see",
+    "url": "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "適切な温度設定、高品質のフィラメント使用、定期的なメンテナンスが重要です",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   },
+   {
+    "quote": "ノズルを定期的にクリーニングし、詰まりを防ぎましょう",
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金属フィラメント の販売と 脱脂 ・ 焼結 サービスの提供を開始 — 金属フィラメント の販売と 脱脂 ・ 焼結 サービスの提供を開始 MONOist https://monoist.itmedia.co.jp > ... > 3Dプリンタニュース",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "pass": 3
+   },
+   {
+    "quote": "BASF officially launches Ultrafuse 316L bound metal filament — BASF officially launches Ultrafuse 316L bound metal filament VoxelMatters https://www.voxelmatters.com > ultra...",
+    "url": "https://www.voxelmatters.com/ultrafuse-316l-bound-metal-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultrafuse® 316L User Guidelines - Forward AM — Ultrafuse® 316L User Guidelines - Forward AM Forward AM PDF https://forward-am.com > uploads > 2021/04 > User...",
+    "url": "https://forward-am.com/wp-content/uploads/2021/04/UserGuidelines_2021_03_29.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printing with BASF Ultrafuse® 316L - 3D Universe — Metal 3D Printing with BASF Ultrafuse® 316L - 3D Universe shop3duniverse.com https://shop3duniverse.com > blogs",
+    "url": "https://shop3duniverse.com/blogs/3d-printing-materials/metal-3d-printing-with-basf-ultrafuse-316l?srsltid=AYCX9vLkAWDI5eDszbLFdV7tKAHWMfq04h9o9gy5y354nv88hzBlkJRg",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": ". The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains",
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing is entering a scaling phase, with analyses indicating roughly 25 percent annual growth. Recent data values the sector near 9.3 billion dollars in 2024 and 11.7 billion in 2025 at 26.2 percent CAGR, with a forecast of 29.4 billion by 2029 around 25.9 percent CAGR, see",
+    "url": "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "However, they are not plug-and-play for this use case. You need hardened steel or tungsten carbide nozzles to handle abrasion. More importantly, dimensional accuracy at this stage is misleading. A printed “316L part” is not actually 316L yet. It is a polymer-metal composite that will shrink significantly during sintering, typically in the range of 15–20%, depending on the system.",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "pass": 3
+   },
+   {
+    "quote": "多分、グルドンで最もシェアが高いと思われる、Ender-3 V2の詳細なレビュー",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "立体#02｜Koya Matsuo - note（ノート） Aug 23, 2020 · ep.356で取り上げなかった3Dプリンタネタを集めたコーナーです。 金属フィラメントの販売と脱脂・焼結サービスの提供を開始、ただし法人向け APPLE TREEは、FLASHFORGE製3Dプリンタ「Adventurer3X」で使用可能な金属フィラメント「ステン monoist.atmarkit.co.jp カズさんが購入したFLASHFORGE Adventure3の後継機で ...",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ep.356で取り上げなかった3Dプリンタネタを集めたコーナーです。",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   },
+   {
+    "quote": "カズさんが購入したFLASHFORGE Adventure3の後継機である3Xの特徴は金属フィラメントを使えるというところ。だけど、その金属フィラメントを金属にするには出力後、脱脂・焼結工程が必要で、有料かつ外部に出さなければならない。で、残念なお知らせなのだが、これは法人でなければ使えないということらしい。価格もかなり高く、海外に出すので時間もかかる。がっかりしている人も多いのでは。",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   },
+   {
+    "quote": "最近、グルドンに入ってくれた、はるかぜポポポさん（たぶん、はるかぜちゃんとは違う人）のnote。3Dプリンタに関するオーソリティなのでとても心強い。",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   },
+   {
+    "quote": "そのはるかぜポポポさんがお勧めするのがこれ。basukeさんも勧めていたよね。",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   },
+   {
+    "quote": "多分、グルドンで最もシェアが高いと思われる、Ender-3 V2の詳細なレビュー。300ドル以下ではベストですってよ、奥さん！ 我々は正しかったのだ！",
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "これがわずか数個しか生産されなかった 第一セラモの金属フィラメント... これがわずか数個しか生産されなかった 第一セラモの金属フィラメントで作られた SUS316LのMakerChipだ 比較に1円玉を置いたが、この細かい文字もエッジが出て良い感じ Bambu LabのA1で出力してるとは思えん オチはご存知、脱脂焼結に1000万超える炉が必要 #JRRF2026",
+    "url": "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "速報!!! 第一セラモ株式会社、Formnext Forum Tokyoで革新的な金属・...ShareLab（シェアラボ） - 【金属MEX方式用脱脂焼結炉に“自動レシピ生...⚙️金属フィラメントUltrafuse 316L造形 ... - FacebookAdventurer3Xでお使いいただける金属フィラメントの販売と、脱脂・焼....日本3Dプリンター株式会社 - シェア@TITANS of CNC MACHINING...シェア＠ James Pitts BASF Ultrafuse 316Lフィラメントで遊星歯車を... Oct 2, 2024 · 金属・セラミ ックフィラメントによる高品質な造形を出力し、来場 者の注目を集めました。 さらに、第一セラモは、従来の粉末ベースシステムの 10分の1以下の価格で提供される脱脂・焼結一体型シ ステムも発表。 島津製作所のグループ企業",
+    "url": "https://www.facebook.com/UltimakerJP/videos/速報第一セラモ株式会社formnext-forum-tokyoで革新的な金属セラミックフィラメントを発表-粉末射出成形材料のリーディングカンパニーである第一セラ/836574821871932/",
+    "pass": 3
+   },
+   {
+    "quote": "⚙️金属フィラメントUltrafuse 316L造形 ... - Facebook Ultrafuse Metalフィラメントは従来のFFF方式3Dプリンターで、簡単に造形しやすいよう、ステンレス80%とポリマー20%を混合しており、「Ultrafuse 316L」は脱脂・焼結のプロセスを経ることで、ステンレス316Lグレードの部品生産が可能です。",
+    "url": "https://www.facebook.com/3Dprinter.co.jp/videos/️金属フィラメントultrafuse-316l造形プロセス/835633603659015/",
+    "pass": 3
+   },
+   {
+    "quote": "日本3Dプリンター株式会社 - 3Dプリンターで栓抜きを作ってみた~ 造形... Mar 21, 2023 · BASF Ultrafuse 316LはFDM方式で金属の造形を可能にしたフィラメントです。 ステンレス80%とポリマー20%の混合でできており、脱脂・焼結のプロセスを経ることでステンレス316Lグレードの造形が可能になります。 高強度、耐食性、延性、靭性に優れています。",
+    "url": "https://www.facebook.com/3Dprinter.co.jp/posts/675479604581633/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "上位シェア%": [
+   {
+    "value": "20",
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "quote": "However, they are not plug-and-play for this use case. You need hardened steel or tungsten carbide nozzles to handle abrasion. More importantly, dimensional accuracy at this stage is misleading. A printed “316L part” is not actually 316L yet. It is a polymer-metal composite that will shrink signific"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%8920-7521261055155642368-rgque",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3351728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/metal-filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/ic/metal-filament?srsltid=AYCX9vKObRqxCA6ro9H-w1pdSbkBP0F-nXZ4o0LDOd9YterVbiXcRH1e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/product/metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vKN8hCg_W-2kDD_81p_XdJdDF1o63mXgwtJMTciz_BfAAirxhYg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-filament.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimadzu.co.jp/news/2025/o9kyan-57quwy2a_.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vJju5HOV9wje2XvnnVo8IfI2oNTvpxqhTPnxApYvszAsMLo31Z7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01537/00879/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoto.co.jp/glossary-bmdmethod/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/desktop-metal/bmd.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/blog/guide-to-food-safe-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/cms3d/wp-content/uploads/2024/12/J3P_Markforged_241219_WEB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/metal-3d-printing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryarc.com/report/15312/3d-printing-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vKOK1FoED-pjcCLWSGeg242CYGrp_MI3TaKKZBtkdEmgK2ESYFQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/13ioftw/bound_metal_debinding/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mazzo/n/na6ba792d8a49",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UltimakerJP/videos/速報第一セラモ株式会社formnext-forum-tokyoで革新的な金属セラミックフィラメントを発表-粉末射出成形材料のリーディングカンパニーである第一セラ/836574821871932/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3Dprinter.co.jp/videos/️金属フィラメントultrafuse-316l造形プロセス/835633603659015/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3Dprinter.co.jp/posts/675479604581633/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） 市場規模 CAGR",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032.html",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%8920-7521261055155642368-rgque",
+    "https://straitsresearch.com/jp/report/3d-printing-metal-market",
+    "https://newscast.jp/news/3351728",
+    "https://www.atpress.ne.jp/news/9540683",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.fortunebusinessinsights.com/jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E9%87%91%E5%B1%9E%E5%B8%82%E5%A0%B4-110817"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） 価格",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032_2.html",
+    "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "https://www.amazon.co.jp/%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/s?k=%E9%87%91%E5%B1%9E%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://skhonpo.com/collections/metal-filament",
+    "https://i-maker.jp/ic/metal-filament?srsltid=AYCX9vKObRqxCA6ro9H-w1pdSbkBP0F-nXZ4o0LDOd9YterVbiXcRH1e",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88+%E9%87%91%E5%B1%9E/",
+    "https://www.seed3d.net/post/低コストで金属・セラミックス造形を実現する金属fff-mex方式3dプリントとは？"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） 主要メーカー 一覧",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO",
+    "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://www.3d-printer.jp/product/metal/",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vKN8hCg_W-2kDD_81p_XdJdDF1o63mXgwtJMTciz_BfAAirxhYg",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.ricoh.co.jp/3dp/metal/column_markforged01",
+    "https://mimsen83.blogspot.com/2026/01/mex2026.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） 代理店 日本",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032.html",
+    "https://www.3d-filament.jp/",
+    "https://www.shimadzu.co.jp/news/2025/o9kyan-57quwy2a_.html",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vJju5HOV9wje2XvnnVo8IfI2oNTvpxqhTPnxApYvszAsMLo31Z7",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/01537/00879/",
+    "https://monoto.co.jp/glossary-bmdmethod/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） 規制 保管 危険物",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://www.shimadzu.co.jp/news/2025/o9kyan-57quwy2a_.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://www.marubeni-idigio.com/product/3dprinter/desktopmetal/service.html",
+    "https://www.3d-printer.jp/desktop-metal/bmd.html",
+    "https://monoto.co.jp/glossary-bmdmethod/",
+    "https://formlabs.com/jp/blog/guide-to-food-safe-3d-printing/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） 純正 指定材料 互換",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "https://3dprinter.co.jp/cms3d/wp-content/uploads/2024/12/J3P_Markforged_241219_WEB.pdf",
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032.html",
+    "https://www.shimadzu.co.jp/news/2025/o9kyan-57quwy2a_.html",
+    "https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X",
+    "https://www.jeol.co.jp/column/detail001.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market market size CAGR",
+   "results": [
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://thevirtualfoundry.com/3d-metal-printing-function-2/",
+    "https://www.mordorintelligence.com/industry-reports/metal-3d-printing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/US",
+    "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "https://www.industryarc.com/report/15312/3d-printing-metal-market",
+    "https://www.youtube.com/watch?v=w7jHQUrTTaU",
+    "https://www.idtechex.com/en/research-article/trends-impacting-metal-additive-manufacturings-us-13-billion-future/33233",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://www.researchandmarkets.com/reports/6283295/metal-filament-market-global-forecast"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market price per kg",
+   "results": [
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs",
+    "https://thevirtualfoundry.com/metal-infused-filament-3d-printing/",
+    "https://jlc3dp.com/blog/3d-printing-metal-at-home",
+    "https://www.youtube.com/watch?v=et0z9DnBr6E",
+    "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vKOK1FoED-pjcCLWSGeg242CYGrp_MI3TaKKZBtkdEmgK2ESYFQ",
+    "https://www.polyfab3d.com/68-metal-filament",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/metal-additive-manufacturing-process",
+    "https://sigmafilament.com/metal-filament/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market key players",
+   "results": [
+    "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/13ioftw/bound_metal_debinding/",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vLFIQ8tyVbH0qGIQtDDOVqOxOT0Ky6dYnJkMJgTeeBDuDq7OoKW",
+    "https://www.voxelmatters.com/ultrafuse-316l-bound-metal-filament/",
+    "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "https://www.youtube.com/watch?v=44Y91zkHJR0",
+    "https://thevirtualfoundry.com/3d-printing-additive-manufacturing-definition-2/",
+    "https://www.wevolver.com/article/metal-3d-printing-a-comprehensive-guide-for-engineers-and-students",
+    "https://www.sciencedirect.com/science/article/pii/S1359836823004183"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market distributor Japan",
+   "results": [
+    "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vKFPGBTxgJUzQXfQDdWI9SfOYUxKiYO7FXt81GTG96_TaeclFis",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/13ioftw/bound_metal_debinding/",
+    "https://www.youtube.com/watch?v=44Y91zkHJR0",
+    "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vL2EWgxcynH6pu1kBHnTZZJNkkHAR6hZkeQV9oGJiIPDzbD4ow-",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://www.youtube.com/watch?v=et0z9DnBr6E",
+    "https://www.indexbox.io/store/japan-metal-binder-system-market-analysis-forecast-size-trends-and-insights/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market safety storage regulation",
+   "results": [
+    "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/13ioftw/bound_metal_debinding/",
+    "https://www.matterhackers.com/support/how-to-succeed-with-3d-printing-metal-on-a-desktop-3d-printer?srsltid=AYCX9vJZ6gtONcRbAckoOu1XZqvDWhRgsN2tAPLoXUE1Urib0X9EkRBS",
+    "https://umaine.edu/amc/wp-content/uploads/sites/106/2019/05/BMD-design-guidelines-22819.pdf",
+    "https://forward-am.com/wp-content/uploads/2021/04/UserGuidelines_2021_03_29.pdf",
+    "https://www.desktopmetal.com/resources/deep-dive-bmd",
+    "https://www.youtube.com/watch?v=44Y91zkHJR0",
+    "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-316l-parts-for-debinding-and-sintering"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market closed system open material third-party",
+   "results": [
+    "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vKn028jumOACmjg5sNyb5isrVOC8H24HeC897j6BZJmEWHe09pL",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/13ioftw/bound_metal_debinding/",
+    "https://www.voxelmatters.com/ultrafuse-316l-bound-metal-filament/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860419305743",
+    "https://www.youtube.com/watch?v=44Y91zkHJR0",
+    "https://umaine.edu/amc/wp-content/uploads/sites/106/2019/05/BMD-design-guidelines-22819.pdf",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://www.sciencedirect.com/science/article/pii/S1359836823004183"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market commodity price competition",
+   "results": [
+    "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJS6iLw27zEIqsX7Vq7pELePHEkDZtGtPV-FZcEfgWH3yBNs2Y3",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/13ioftw/bound_metal_debinding/",
+    "https://www.youtube.com/watch?v=et0z9DnBr6E",
+    "https://shop3duniverse.com/blogs/3d-printing-materials/metal-3d-printing-with-basf-ultrafuse-316l?srsltid=AYCX9vLkAWDI5eDszbLFdV7tKAHWMfq04h9o9gy5y354nv88hzBlkJRg",
+    "https://www.wevolver.com/article/breaking-down-production-barriers-with-scalable-affordable-metal-3d-printing",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/",
+    "https://www.researchandmarkets.com/reports/6283295/metal-filament-market-global-forecast"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market technical support parameters",
+   "results": [
+    "https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vI4EvmXEU_G-ic1TAuzqwPQFyBALaKfh9cpe9lSoZj-edplzM1Q",
+    "https://thevirtualfoundry.com/fdm-meaning-3d-printing/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/13ioftw/bound_metal_debinding/",
+    "https://forward-am.com/wp-content/uploads/2021/04/UserGuidelines_2021_03_29.pdf",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860419305743",
+    "https://markforged.com/resources/blog/how-the-metal-fff-3d-printing-process-works",
+    "https://www.wevolver.com/article/metal-3d-printing-a-comprehensive-guide-for-engineers-and-students",
+    "https://community.ultimaker.com/topic/33826-how-to-3d-print-with-metal/",
+    "https://umaine.edu/amc/wp-content/uploads/sites/106/2019/05/BMD-design-guidelines-22819.pdf",
+    "https://www.youtube.com/watch?v=w7jHQUrTTaU"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com 脱脂焼結型の金属含有フィラメント（MEX・BMD）",
+   "results": [
+    "https://note.com/mazzo/n/na6ba792d8a49",
+    "https://note.com/itohimo/n/na891c5ba7ab8",
+    "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "https://note.com/kicrea_20251026/n/n058660c47208",
+    "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "https://note.com/skhonpo/n/nc1704938f168",
+    "https://note.com/qy_research/n/n29da686bc801"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 脱脂焼結型の金属含有フィラメント（MEX・BMD）",
+   "results": [
+    "https://x.com/daiichiceramo/status/1963169073946341651",
+    "https://jf.x.com/images/media-preview/2113826544472969490",
+    "https://x.com/daiichiceramo",
+    "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "https://x.com/tonnsoku943/status/2070701583525142648",
+    "https://x.com/APPLE_TREE_CO/status/1222005663884181504",
+    "https://x.com/OS_Giken/status/2062097468536635427"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 脱脂焼結型の金属含有フィラメント（MEX・BMD）",
+   "results": [
+    "https://mx.linkedin.com/company/bm-marketing-s-de-rl-de-cv",
+    "https://mx.linkedin.com/in/juan-antonio-hernández-hinojosa-1aa27521",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://www.linkedin.com/posts/3dprinterjp_markforged-カーボン3dプリンター-activity-6897049773442949120-LjWX",
+    "https://jp.linkedin.com/pulse/真空焼結脱脂一体炉のメーカー別シェアと動向-re-search-markets-drj3e",
+    "https://jp.linkedin.com/posts/3dprinterjp_basf-ultrafuse-metalシリーズのフィラメントは従来のfff方式-activity-7022085516980363264-3kvS",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7100692457704603648/?origin=SHARED_BY_YOUR_PAGES"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 脱脂焼結型の金属含有フィラメント（MEX・BMD）",
+   "results": [
+    "https://www.facebook.com/UltimakerJP/videos/速報第一セラモ株式会社formnext-forum-tokyoで革新的な金属セラミックフィラメントを発表-粉末射出成形材料のリーディングカンパニーである第一セラ/836574821871932/",
+    "https://www.facebook.com/jpShareLab/posts/金属mex方式用脱脂焼結炉に自動レシピ生成機能を搭載-島津産機システムズ島津製作所のグループ企業である島津産機システムズ株式会社滋賀県大津市以下島津産機システム/1364481739012648/",
+    "https://www.facebook.com/3Dprinter.co.jp/videos/️金属フィラメントultrafuse-316l造形プロセス/835633603659015/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/675479604581633/",
+    "https://www.facebook.com/flashforge.co.jp/posts/adventurer3xでお使いいただける金属フィラメントの販売と脱脂焼結サービスをリリースしました詳しくは以下のページからご確認くださいhttpsflashf/3152664414781416/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/557016636427931/",
+    "https://www.facebook.com/3Dprinter.co.jp/videos/シェア-james-pittsbasf-ultrafuse-316lフィラメントで遊星歯車を搭載したグリッパーを造形しましたultrafuse-316lはfdm/277461611595300/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） note 社長",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://monoist.itmedia.co.jp/mn/articles/2307/11/news032.html",
+    "https://monoto.co.jp/glossary-bmdmethod/",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vIgcB6U_Dk3Zv70GEqtn8iMAKTXeNz57_DL4MHD1jRWRIl8O6tZ",
+    "https://www.shimadzu.co.jp/news/2025/o9kyan-57quwy2a_.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://x.com/daiichiceramo/status/1965250513861292295",
+    "https://note.com/skhonpo/n/ncdb035a5a4c9",
+    "https://www.seed3d.net/post/低コストで金属・セラミックス造形を実現する金属fff-mex方式3dプリントとは？"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "脱脂焼結型の金属含有フィラメント（MEX・BMD） X 投稿",
+   "results": [
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://idarts.co.jp/3dp/brule-metal-sintering-services/?srsltid=AYCX9vI1en9hovAJlhvtViXPiJcHDnslCExha42EtqOn9YhGe3zCKRW7",
+    "https://3dprinter.co.jp/product/markforged/metal-x/",
+    "https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "https://www.hotty.co.jp/columns/metal-filament-3dprinter/",
+    "https://www.ricoh.co.jp/3dp/metal/column_markforged01",
+    "https://x.com/daiichiceramo/status/1965250513861292295",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E8%84%B1%E8%84%82%E4%B8%8D%E8%A6%81%E3%81%AE%E9%87%91%E5%B1%9Efdm%E6%96%B9%E5%BC%8F%E3%80%8Cshop%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A02%E3%80%8D%E3%82%92%E7%99%BA%E8%A1%A8%EF%BC%8Ddesktopmetal/",
+    "https://www.seed3d.net/post/低コストで金属・セラミックス造形を実現する金属fff-mex方式3dプリントとは？"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal filament debinding sintering bound metal market site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/metal-additive-manufacturing-technologies-choosing-right-costa-artyf",
+    "https://www.linkedin.com/in/bradley-d-woods",
+    "https://www.linkedin.com/in/paramjots",
+    "https://www.linkedin.com/in/mitch-campbell-039994141",
+    "https://www.linkedin.com/in/elisa-teipel-60508290",
+    "https://www.linkedin.com/in/benjamintoomey",
+    "https://www.linkedin.com/posts/indianstartuptimes_tonboimaging-ipo-defencetech-activity-7516488442286059520-aI9E",
+    "https://de.linkedin.com/in/bastian-barthel",
+    "https://pl.linkedin.com/in/karolwalkowiak",
+    "https://de.linkedin.com/in/nishant-jain-polymerscience"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {}
+}

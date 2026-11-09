@@ -1,0 +1,2703 @@
+# AM原料の形態別（粉末・フィラメント・ワイヤー・ペレット・レジン・ペースト・シート/テープ・砂）— 規制・保管・縛り・商流・価格・市場（事実のみ・23品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## PBF（LPBF・EBM）用金属粉末の安全規制と保管（チタン・アルミの防爆・吸入）（metal powder additive manufacturing explosion safety storage titanium aluminum）
+- 文脈：粉末・安全
+- 価格：
+  - 「：＞10000mg/kg」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「は12g/kgを上回った」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「ラット LD50 ＞10000mg/kg(IUCLID,2000) との記述がある」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+- 主要企業：
+  - 「Metal powders can easily react with oxygen and humidity in the air, leading to oxide formation that degrades powder flowability as well as sintering performance.」（https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html）
+- 安全・規制・保管：
+  - 「防爆型の電気機器、換気装置、照明器具等適切な機器を使用すること」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「内容物を適切な液体又は不活性ガス中で保管すること」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「分解生成物を吸入すると、重傷や死に至るおそれがある」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「７．取扱い及び保管上の注意」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「内容物を規制所管官庁が指定する適切な液体又は不活性ガス中で保管すること」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「吸入（蒸気、粉じん）：本物質に関するデータはなく分類できない」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「に基づき、区分1（肺、吸入）に分類されている」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「危険物又は当該危険物を収納した運搬容器が落下し、転倒もしくは破損しないように積載すること」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「危険物又は当該危険物を収納した容器が著しく摩擦または動揺を起こさないように運搬すること」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「危険物の運搬中、危険物が著しく漏れる等、災害が発生するおそれがある場合には、災害を防止するための応急措置を講ずると共に、もよりの消防機関その他の関連機関に通報すること」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「Furuuchi chemical SDS」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+  - 「・ すべての安全注意 (SDS など )を読み理解するまで取り扱わないこと」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+  - 「・ 防爆型の電気機器、 換気装置、 照明器具等適切な機器を使用すること」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+  - 「・ 容器を密閉し、換気の良い冷暗所で施錠して保管すること」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+  - 「・ 内容物を不活性ガスまたは適切な液体中で保管すること」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+- 品質・証明：
+  - 「注2）対象製品の詳しい濃度又は濃度範囲は、公的規格、仕様書、ミルシートなどを参照ください」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+  - 「Thermal Spray Coating」（https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html）
+  - 「Metal powders are some of the most critical raw materials involved in additive manufacturing and 3D printing. Flowability, morphology, and purity of the powder dictate the 3D printing process. These properties not only depend on the preparation process but are also dictated by the storage management of the metal powders once produced.」（https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html）
+  - 「Metal powders can easily react with oxygen and humidity in the air, leading to oxide formation that degrades powder flowability as well as sintering performance.」（https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html）
+  - 「In summary, humidity, oxygen content, temperature, and light exposure can all induce changes in metal powders.」（https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html）
+  - 「Argon/nitrogen environments exclude oxygen and moisture, avoiding oxidation of very reactive metals like titanium and aluminum. This maintains powder flowability and chemical stability, which is critical to upholding the mechanical properties and surface finish of printed parts.」（https://powder.samaterials.com/storage-tips-for-metal-powders-used-in-additive-manufacturing.html）
+- 装置縛り・オープン材料：
+  - 「チップ状の製品を飲み込んだ場合、経口毒性は低いが、できるだけ吐き出し、異常を感じるようであれば医師の診断を受ける」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+  - 「粉じん、チップ、ヒュームが発生する場合には、防護眼鏡を用いること」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+  - 「粉じん、チップ、ヒュームが目に入ったり吸い込んだりしないように注意する」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+- 繰り返し性：
+  - 「検体を浸漬した液を用いた遺伝子突然変異試験（ネズミチフス菌TA98、同TA100、大腸菌WP2uvrA）および不定期DNA合成試験ではいずれも陰性であり、これらの試験では変異原性は陰性である」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「不定期 DNA 合成試験ではいずれも陰性であり、 これらの試験で」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+- 日本：
+  - 「日本産衛学会（2007年版）」（https://anzeninfo.mhlw.go.jp/anzen/gmsds/cas-7440-32-6.html）
+  - 「許容濃度： 日本産業衛生学会（ 2010 ） 第三種粉塵」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+  - 「・ 緊急時応急措置指針 改訂第 3 版 日本規格協会」（https://www.furuchi.co.jp/material/msds/assets/pdf/Ti(powder)_2A.pdf）
+  - 「許容濃度 日本産衛学会 [1]」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+  - 「国内規制 「１５．適用法令」を参照」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+  - 「なお、本SDSは日本国内での配布に限定して作成したものであり、海外の法規制には対応しておりませんのでご注意願いま」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+  - 「[3] 日本アルミニウム協会 アルミニウムハンドブック（第7版）」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+  - 「[1] 日本産業衛生学会 許容濃度等の勧告（2023年度）」（https://ufo.uacj-group.com/products/SDS_UACJ.pdf）
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 売り方・商流：記載なし（読んだ45頁・検索21回）
+- 技術支援：記載なし（読んだ45頁・検索21回）
+- コモディティ化：記載なし（読んだ45頁・検索21回）
+
+## 金属AM粉末のロット証明・成績書・受入検査（粒度分布・球形度・酸素量）（metal AM powder certificate of analysis lot traceability PSD sphericity oxygen）
+- 文脈：粉末・品質
+- 価格：
+  - 「A medical device manufacturer in Minneapolis may choose 316L powder for custom instrument components that require excellent cleanability, corrosion resistance, and lot traceability. In that case, the winning supplier is often the one that can provide stable chemistry, validated PSD, and paperwork suited to internal quality audits rather than simply the lowest per-kilogram price.」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+- 主要企業：
+  - 「MET3DP Technology Co., LTD is a leading provider of additive manufacturing solutions headquartered in Qingdao, China. Our company specializes in 3D printing equipment and high-performance metal powders for industrial applications.」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+- 安全・規制・保管：
+  - 「Packaging under inert atmosphere with a moisture barrier」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「for reactive or moisture-sensitive alloys, and a current safety data sheet (SDS) shipped with every order.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「, is the primary US consensus standard covering the storage, handling, processing, and fire protection requirements for combustible metal powders, and includes provisions addressing additive manufacturing operations specifically.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「does not have a single dedicated combustible-dust standard, but enforces combustible-dust hazards under the General Duty Clause (Section 5(a)(1) of the OSH Act) and has run a national emphasis program directing inspectors to industries handling combustible dust, which explicitly includes metal powder processing.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「should use vacuum equipment specifically rated for combustible dust collection, not a shop vacuum, and spilled powder should be treated as a hazard requiring a documented cleanup procedure rather than a quick sweep.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「for powder handling typically includes flame-resistant clothing, antistatic footwear, and respiratory protection appropriate to the specific alloy’s exposure limits — check the SDS for the specific product, since exposure limits and reactivity vary by alloy.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Anyone specifying a facility’s powder-handling procedure should treat the supplier’s SDS and NFPA 484 as the two baseline reference documents, and should not assume that a procedure validated for one alloy (say, 316L stainless) is automatically safe for a more reactive one (say, aluminum or titanium) without a fresh hazard review.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Is packaging appropriate to the alloy’s reactivity (inert atmosphere, moisture barrier), and is a current SDS included?」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Is metal powder for 3D printing hazardous to store?」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Many metal AM powders, especially titanium, aluminum, and magnesium alloys, are combustible dusts and require storage and handling controls consistent with NFPA 484 and the product’s SDS — ignition-source control, appropriate ventilation, and grounding/bonding of handling equipment are standard baseline controls, not optional extras.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Safety data sheet (SDS)」（https://metal3dpowder.com/quality/）
+  - 「Hazards, storage, handling and transport information for the material.」（https://metal3dpowder.com/quality/）
+  - 「Inert gas fusion: the sample melts in a graphite crucible under helium; oxygen is measured as CO and CO₂ by infrared, nitrogen and hydrogen typically by thermal conductivity.」（https://metal3dpowder.com/quality/）
+  - 「VIGA (Vacuum Induction Inert Gas Atomization) Equipment」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+  - 「Large powder expertise and broad industrial reach」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+- 品質・証明：
+  - 「Each process has different tolerances for particle size distribution, flowability, and powder chemistry, which is why “metal powder” is never a single specification — the correct powder is defined by the combination of alloy, process, and machine OEM’s qualified parameter set.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Particle size distribution (PSD) is one of the most consequential specifications in an AM powder purchase because it directly governs layer spreadability, packing density, and surface finish. As a general rule (exact cutoffs vary by machine OEM and should always be confirmed against the specific printer’s qualified parameter set):」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「can tolerate or require a coarser distribution, commonly in the roughly 45–150 micron range, since the powder is fed through a nozzle rather than spread as a thin bed layer.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「A certificate of analysis (CoA)」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「for the specific lot, reporting chemical composition against the governing alloy/process specification (for example, the ASTM F30xx and F31xx series of standards that define chemistry and property requirements for specific alloy-and-process combinations used in AM).」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「A particle size distribution report」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「(D10/D50/D90, method used) for the specific lot, not a generic product datasheet.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「— SEM imagery or a stated sphericity/satellite-content assessment, since irregular morphology or high satellite content degrades flowability even when PSD numbers look acceptable.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Lot traceability back to the atomization run」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「, including whether the lot is virgin powder or contains reclaimed/recycled material, and if so, what fraction and how many prior thermal cycles it has seen.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「where relevant to the application — ISO 9001 at minimum, AS9100 for aerospace-bound material, or ISO 13485 for implant-grade material — and, for powder reuse and requalification testing methodology specifically, familiarity with」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「None of this documentation guarantees a good print outcome on its own — it establishes that the powder you received is the powder you specified, which is the baseline a procurement or quality function needs before a materials engineer even begins process qualification.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「for powder handling typically includes flame-resistant clothing, antistatic footwear, and respiratory protection appropriate to the specific alloy’s exposure limits — check the SDS for the specific product, since exposure limits and reactivity vary by alloy.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Reactive alloys, titanium in particular, tend to accumulate oxygen with each thermal exposure and reuse cycle, and oxygen content should be re-verified periodically rather than assumed stable.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Particle size distribution drift.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+- 売り方・商流：
+  - 「Each process has different tolerances for particle size distribution, flowability, and powder chemistry, which is why “metal powder” is never a single specification — the correct powder is defined by the combination of alloy, process, and machine OEM’s qualified parameter set.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Particle size distribution (PSD) is one of the most consequential specifications in an AM powder purchase because it directly governs layer spreadability, packing density, and surface finish. As a general rule (exact cutoffs vary by machine OEM and should always be confirmed against the specific printer’s qualified parameter set):」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Does the quoted particle size distribution match your machine OEM’s qualified range for that alloy and process?」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「PBF-LB/M generally uses a finer distribution, commonly in the roughly 15–45 micron range, while DED typically uses a coarser distribution, commonly in the roughly 45–150 micron range — always confirm against your specific machine OEM’s qualified parameter set rather than treating these as fixed cutoffs.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+- 技術支援：
+  - 「Each process has different tolerances for particle size distribution, flowability, and powder chemistry, which is why “metal powder” is never a single specification — the correct powder is defined by the combination of alloy, process, and machine OEM’s qualified parameter set.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Particle size distribution (PSD) is one of the most consequential specifications in an AM powder purchase because it directly governs layer spreadability, packing density, and surface finish. As a general rule (exact cutoffs vary by machine OEM and should always be confirmed against the specific printer’s qualified parameter set):」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「PBF-LB/M generally uses a finer distribution, commonly in the roughly 15–45 micron range, while DED typically uses a coarser distribution, commonly in the roughly 45–150 micron range — always confirm against your specific machine OEM’s qualified parameter set rather than treating these as fixed cutoffs.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+  - 「Best value route: compare U.S. suppliers with qualified international powder makers that provide local-style technical support and documentation」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+  - 「Verify machine parameter maturity before scale-up」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+  - 「Machine-material parameter alignment」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+  - 「United States through export, technical support, and project cooperation」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+  - 「Application and parameter guidance」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+- コモディティ化：
+  - 「The explanation behind this table is simple: powder cost is only one line item. U.S. buyers who ignore machine compatibility, reusability, qualification burden, and support often spend more overall, even if the purchase order looks cheaper at first. The best sourcing outcome usually comes from stable print performance and low operational friction.」（https://blog.met3dp.com/blog/stainless-steel-3d-printing-powder-properties-and-uses/）
+- 繰り返し性：
+  - 「This guide covers the alloy systems in common use, how particle size and powder characterization drive process selection, the standards a supplier should be able to certify against, what to ask for in a procurement evaluation, combustible-dust handling safety, and powder reuse practices — the recurring cost driver in any metal AM operation.」（https://casrai.org/guides/metal-powder-for-3d-printing）
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 装置縛り・オープン材料：記載なし（読んだ45頁・検索21回）
+- 日本：記載なし（読んだ45頁・検索21回）
+
+## バインダージェット用金属粉末（binder jetting metal powder market）
+- 文脈：粉末
+- 市場規模：
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「日本金属粉末市場規模、シェア、および成長レポート 2034」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場規模は、2025年に」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「2025年の市場規模」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本パウダーコーティング市場規模、シェア、動向および予測樹脂タイプ、コーティング方法、用途、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の粉末冶金市場規模、シェア、動向、予測タイプ、材料、製造プロセス、用途、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本のフルーツパウダー市場規模、シェア、動向および予測果物の種類別、技術別、流通チャネル別、用途別、地域別2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「航空宇宙用バインダージェット式3Dプリンターの世界市場（2026年～2032年）、市場規模（金属バインダージェッティング、砂バインダージェッティング、ポリマーバインダージェッティング、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/7302431）
+  - 「航空宇宙用バインダージェット式3Dプリンターの世界市場（2026年～2032年）、市場規模（金属バインダージェッティング、砂バインダージェッティング、ポリマーバインダージェッティング、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/7302431）
+  - 「本資料には、航空宇宙用バインダージェット式3Dプリンターの世界市場規模、市場動向、セグメント別予測（金属バインダージェッティング、砂バインダージェッティング、ポリマーバインダージェッティング、その他）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/7302431）
+- 成長率：
+  - 「金属積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場の規模は、2026年には62億7000万米ドルと評価され、2034年までに226億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%です」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）17.39%で成長すると予測されている」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「持続可能な製造業市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「熱圧縮成形市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「に達し、2026年から2034年の期間に年平均成長率」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「（CAGR）4.06%」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「市場成長率 2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+- 価格：
+  - 「さらに、メタル、サンド、ポリマー、その他のタイプ別セグメントに関する販売、収益、市場シェア、販売価格（2021-2026年）、および軍事用、民間用といった用途別セグメントに関する販売、収益、市場シェア、販売価格（2021-2026年）の要約が収録されています」（https://www.atpress.ne.jp/news/7302431）
+  - 「具体的には、各企業の航空宇宙用バインダージェット式3Dプリンターの年間販売台数と市場シェア、年間収益と市場シェア（いずれも2021-2026年）、および企業別の販売価格に関するデータが提供されます」（https://www.atpress.ne.jp/news/7302431）
+  - 「HP、3D Systems、Voxeljet、GE Additive、Desktop Metal、Markforged、Stratasys、CMETといった各企業の会社情報、航空宇宙用バインダージェット式3Dプリンターの製品ポートフォリオと仕様、販売台数、収益、価格、粗利益（2021-2026年）、主要事業概要、および最新の動向に関する詳細な情報が提供されています」（https://www.atpress.ne.jp/news/7302431）
+  - 「宿泊助成券2万円分などが当たる」（https://www.atpress.ne.jp/news/7302431）
+  - 「ExOneでは今後投入する商品に焼結後の造形物の形状を造形前にシミュレーションできるCAEソフトウエアを準備して、焼結の経験が深くないお客様でも比較的円滑にバインダージェット方式の3Dプリンターの導入可能にすること、また今後造形サイズの拡大、生産性が向上された商品を投入する計画です」（https://www.ricoh.co.jp/3dp/metal/column02）
+  - 「さらに、メタル、サンド、ポリマー、その他のタイプ別セグメントに関する販売、収益、市場シェア、販売価格（2021-2026年）、および軍事用、民間用といった用途別セグメントに関する販売、収益、市場シェア、販売価格（2021-2026年）の要約が収録されています」（https://newscast.jp/smart/news/7302431）
+  - 「具体的には、各企業の航空宇宙用バインダージェット式3Dプリンターの年間販売台数と市場シェア、年間収益と市場シェア（いずれも2021-2026年）、および企業別の販売価格に関するデータが提供されます」（https://newscast.jp/smart/news/7302431）
+  - 「HP、3D Systems、Voxeljet、GE Additive、Desktop Metal、Markforged、Stratasys、CMETといった各企業の会社情報、航空宇宙用バインダージェット式3Dプリンターの製品ポートフォリオと仕様、販売台数、収益、価格、粗利益（2021-2026年）、主要事業概要、および最新の動向に関する詳細な情報が提供されています」（https://newscast.jp/smart/news/7302431）
+  - 「：約20万円～」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「：約10万円」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「：約150万円～」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「で、1kgあたり」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「材料費は、銅の1kgあたり$50からチタン合金の1kgあたり$400まで、大きく異なる」（https://am-printing.com/ja/binder-jet-3d-printing-202407232/）
+  - 「2024年9月25日、Nano Dimension社がMarkforged社の発行済株式すべてを1株あたり5ドル（約700円）の全額現金取引で取得することに合意 …」（https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-production-system-p-1-240523/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-production-system-p-1-240523/）
+- 主要企業：
+  - 「金属積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場の規模、シェア、トレンド分析レポート：タイプ別（粉末床溶融、バインダージェット、直接エネルギー堆積、結合粉末押出、その他）、コンポーネント別（システム、材料、サービス、部品）、エンドユーザー産業別（航空宇宙、自動車、ヘルスケア、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米は、2025年に市場シェア37.2%を占め、金属積層造形市場を牽引しました」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米は予測期間中、世界市場において相当なシェアを占める見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米市場は予測期間中、最大の市場シェアを獲得すると予想されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米は2025年時点で37.2%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場における主要メーカーはどこですか？」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「持続可能な製造業市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「熱圧縮成形市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「日本金属粉末市場規模、シェア、および成長レポート 2034」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+- 安全・規制・保管：
+  - 「We would be happy to reach out to IMARC again, if we need Market Research/Consulting/Consumer Research or any associated service. Overall experience was good, and the data points were quite helpful.」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「We would be happy to reach out to IMARC for more market reports in the future. The response from the account sales manager was very good. I appreciate the timely follow ups and post purchase support from the team. My overall experience with IMARC was good.」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「VIGA（真空誘導不活性ガスアトマイズ）装置」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「Q: 金属粉はどのように保管されるのですか？」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「そのため、酸化を防ぎ、印刷中に安定した性能を発揮するためには、湿度管理された環境で保管する必要があります」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「設計拠点が作成したデータにて多数の生産拠点で同じものを瞬時で生産できるということは、輸送費の削減、リードタイム短縮等のメリットは、新製品導入、設計変更対応等にメリットがあり、また、保守用として長期に保管し続ける部品も必要なときに瞬時に3Dプリンターで造形できることは革命的なことと考えています」（https://www.ricoh.co.jp/3dp/metal/column02）
+  - 「The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.」（https://www.indo-mim.com/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/）
+  - 「The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.」（https://www.indo-mim.com/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/）
+  - 「The technical storage or access that is used exclusively for statistical purposes.」（https://www.indo-mim.com/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.indo-mim.com/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.indo-mim.com/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/）
+  - 「金属粉末の保管と取り扱いは、3Dプリンティングプロセスにおいて非常に重要です」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「適切に保管することで、粉末の品質と完全性が保証され、汚染や劣化を防ぐことができます」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「金属粉末は、湿気、熱、直射日光を避け、乾燥した管理された環境で保管する必要があります」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「吸入や皮膚への接触を避けるため、手袋やマスクなどの適切な個人用保護具を使用し、パウダーを注意深く取り扱うことが不可欠です」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+- 品質・証明：
+  - 「球状の方が流動性が良く、印刷時に均一な成膜が可能です」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「バインダージェッティングは、小ロットや1点もののカスタムパーツの製造に適しています」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「また、粉体の流動性やお客様の製品との相性などについてもアドバイスが可能です」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「Q: 金属粉末の流動性に影響を与える要因にはどのようなものがありますか？」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「A: 粒径、形状、表面特性はすべて流動性に影響します」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「より微細なパウダーや不規則な形状のパウダーは流動性の問題につながる可能性があります」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「サプライヤーは、バインダージェッティング用途向けに流動性を向上させたパウダーを提供することがよくあります」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「ガスアトマイズ法には、球形で粒度分布の狭い粉末を製造できるなど、いくつかの利点がある」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「さらに、高品質の3Dプリントパーツを実現するために重要な、制御された組成と改善された流動性を持つ粉末の製造を可能にします」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「粒度分布は、3Dプリンティング用の金属粉末において極めて重要な要素である」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「粒度分布は、プリントパーツの品質と性能に直接影響します」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「粒度分布が狭いと、一貫した均一な印刷が可能になり、正確な寸法と機械的特性が改善されたパーツが得られます」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「一方、粒度分布が広いと、印刷パラメータにばらつきが生じ、全体的な印刷品質に影響します」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「そのため、3Dプリンティング用金属粉末メーカーは、粒度分布を注意深く制御し、最適化することで、望ましい印刷結果を実現しています」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「流動性と嵩密度は、3Dプリント用の金属粉末を扱う際に考慮すべき重要な特性です」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+- 装置縛り・オープン材料：
+  - 「ExOneは材料粉末をオープンにしていますので、すでにお使いの材料に対応できます」（https://www.ricoh.co.jp/3dp/metal/column02）
+  - 「208 - 220 VAC, 50/60 Hz, 30 A,3相 専用回路」（https://www.3d-printer.jp/desktop-metal/product/shop-system.html）
+  - 「380 - 400 VAC, 50/60 Hz, 16 A, 3相 専用回路」（https://www.3d-printer.jp/desktop-metal/product/shop-system.html）
+  - 「オープンプラットフォームにより様々な金属やセラミック材料に対応した バインダージェット方式３Dプリンタ―」（https://www.3d-printer.jp/desktop-metal/binder-jetting.html）
+  - 「この作業は専用の設備が必要な場合があり、家庭でやるには」（https://skhonpo.com/blogs/blog/3dmetal2025）
+- 売り方・商流：
+  - 「Shop System™ - 3Dプリンター日本代理店 アルテック」（https://www.3d-printer.jp/desktop-metal/product/shop-system.html）
+  - 「｜3Dプリンターとレジン&フィラメントの通販・購入はSK本舗」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「3Dプリンターの通販ページ」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「Bambu Lab・Elegoo・Anycubic等の正規代理店として、安心のサポートをお届けします」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「【2026年版】3Dプリンターフィラメント完全比較ガイド｜素材・用途別の選び方を正規代理店が解説」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-production-system-p-1-240523/）
+  - 「Binder Jetting Services by Service Provider Type (Pure-play Service Bureaus, OEM In-house Services), Service Level (Standard Printing, Full Post-Processing), Application (Prototyping, Production Parts, Tooling & Molds), and Regional Analysis 2026 – 2033」（https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp）
+  - 「North America is expected to lead the binder jetting service market with around 38% share, supported by early technology adoption, concentration of advanced manufacturing service providers, strong aerospace and defense demand, and active collaboration between service bureaus, OEMs, and research institutions.」（https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp）
+  - 「North America is the leading regional market, accounting for approximately 38% share, supported by early technology adoption, a concentration of advanced service bureaus and OEMs, and strong demand from the aerospace, defense, and healthcare sectors.」（https://www.persistencemarketresearch.com/market-research/binder-jetting-services-market.asp）
+  - 「Value-Added Resellers (VARs)」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「Direct sales are set to secure 43.0% share of distribution channel in 2026, influenced by qualification support and integrated commercial discussions.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Why does direct sales lead distribution channel selection?」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Direct sales connects equipment discussions with material qualification and application engineering. Complex purchase decisions require coordinated printer and post-processing assessment. HP introduced a contained powder-management system in April 2026 for semi-automated de-powdering and refilling. Availability across 3 geographies strengthens direct technical support during workflow planning.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Direct sales are estimated to secure 43.0% share of distribution channel in 2026, backed by complex qualification work and negotiated service arrangements. Manufacturer contact helps buyers align printing equipment with powder handling and furnace requirements.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Authorized distributors and system integrators extend installation support across local industrial accounts. Online sales and technology partners contribute to standard component orders and specialized workflow connections.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+- 技術支援：
+  - 「Digital, Documentation & Training」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「そこで実際にバインダージェット方式の先駆者ExOne社の中で、技術面のサポートを行っている飯塚隆将氏にお話を伺い、バインダージェット方式の現在と今後の展望に関して詳しく解説をいただきました」（https://www.ricoh.co.jp/3dp/metal/column02）
+  - 「なんでも簡単につくれるというわけではなく、使いたい材料で最適な造形ができるようにパラメーターの設定などに取り組む体制をご用意しているので、サポートをさせていただくという意味です」（https://www.ricoh.co.jp/3dp/metal/column02）
+  - 「Shopシステムでの造形物は、パウダーベッドの中にあるため基本サポート材が不要で、焼結後にはセッター（焼結時の変形防止用治具）を手で取り外しできるのが特徴です」（https://www.3d-printer.jp/desktop-metal/product/shop-system.html）
+  - 「レーザー造形の3Dプリントのようにサポート材を何時間もかけて除去する手間がなく、焼結後すぐに使えるニアネットシェイプの部品となります」（https://www.3d-printer.jp/desktop-metal/product/shop-system.html）
+  - 「デスクトップメタル製加工粉末と処理パラメータが高品質かつ高い再現性をもたらします」（https://www.3d-printer.jp/desktop-metal/product/shop-system.html）
+  - 「バインダージェット方式で3Dプリンティングによる部品を造形する場合、サポート構造を除外できます」（https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/binder-jetting/）
+  - 「Bambu Lab・Elegoo・Anycubic等の正規代理店として、安心のサポートをお届けします」（https://skhonpo.com/blogs/blog/3dmetal2025）
+  - 「一方、粒度分布が広いと、印刷パラメータにばらつきが生じ、全体的な印刷品質に影響します」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「:他の3Dプリンティング方法と異なり、バインダージェッティングはサポート構造を必要としません」（https://am-printing.com/ja/binder-jet-3d-printing-202407232/）
+  - 「サポートなしで非常に複雑な形状の製造が可能」（https://am-printing.com/ja/binder-jet-3d-printing-202407232/）
+  - 「スピード、費用対効果、サポートなしで複雑な形状を製造する能力」（https://am-printing.com/ja/binder-jet-3d-printing-202407232/）
+  - 「Direct sales connects equipment discussions with material qualification and application engineering. Complex purchase decisions require coordinated printer and post-processing assessment. HP introduced a contained powder-management system in April 2026 for semi-automated de-powdering and refilling. Availability across 3 geographies strengthens direct technical support during workflow planning.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Industrial users in Germany gain access to established expertise across debinding and sintering. Fraunhofer IFAM hosted its sixth sinter-based additive manufacturing workshop in October 2025, covering industrial metal binder jetting implementation and use cases. Demand in Germany is projected to record 19.2% CAGR by 2036, led by application engineering and process-chain knowledge.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+- コモディティ化：
+  - 「このプロセスは、金属、セラミックス、複合材料など幅広い材料に対応しており、航空宇宙グレードの用途において汎用性の高い選択肢となっています」（https://www.atpress.ne.jp/news/7302431）
+  - 「汎用性の高い316Lステンレスパウダーは、バインダージェッ トの頂点に君臨しています」（https://met3dp.com/ja/binder-jetting-202403192/）
+  - 「このプロセスは、金属、セラミックス、複合材料など幅広い材料に対応しており、航空宇宙グレードの用途において汎用性の高い選択肢となっています」（https://newscast.jp/smart/news/7302431）
+  - 「プロトタイプであれ最終用途の部品であれ、ステンレス鋼粉末は3Dプリンティングにおいて信頼性が高く、汎用性の高い選択肢です」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「その卓越した機械的特性と汎用性により、チタンパウダーは3Dプリンティングの世界に革命を起こし続けています」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「汎用性と優れた特性により、アルミニウムパウダーは3Dプリント愛好家や専門家の間で人気のある選択肢であり続けています」（https://am-printing.com/ja/introduction-to-metal-powder-for-3d-printing/）
+  - 「バインダージェッティングは汎用性が高く、様々な業界で使用されています」（https://am-printing.com/ja/binder-jet-3d-printing-202407232/）
+  - 「は、製造業に数多くの可能性をもたらす強力で汎用性の高い技術である」（https://am-printing.com/ja/binder-jet-3d-printing-202407232/）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/metal-3dprinter/desktopmetal-production-system-p-1-240523/）
+  - 「Binder jetting is usually cheaper below roughly 10,000–20,000 parts a year because it avoids mold tooling. Above that range, MIM's lower per-part cost generally wins」（https://www.marketresearchfuture.com/reports/binder-jetting-3d-printing-technology-market-42869）
+- 繰り返し性：
+  - 「. Because parts are not anchored to the build plate, the full build volume can be nested, so per-part costs fall with batch size. Programs of 5,000–50,000 parts per year are where the economics against machining now favour this process.」（https://www.marketresearchfuture.com/reports/binder-jetting-3d-printing-technology-market-42869）
+  - 「Vendors and bureaus can sell parts instead of printers, with pricing per kilogram or per part, and bundled qualification data. Each construction produces process data concerning binder saturation, layer quality and furnace profiles. These data can be packaged and licensed to customers as approved process recipes, producing recurring revenue that is less vulnerable to capital cycles.」（https://www.marketresearchfuture.com/reports/binder-jetting-3d-printing-technology-market-42869）
+  - 「Metal binder jetting printers combine powder deposition and binder placement inside one controlled production platform. Equipment selection affects layer consistency and build capacity across recurring part families. HP introduced a 170 mm build height for its Metal Jet S100 in June 2024, supporting」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「By application, automotive components are likely to account for 31.0% share in 2026 as it reflects recurring demand for complex parts across vehicle platforms. Engineering teams compare machining cost against batch yield and occupied furnace capacity.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Direct sales connects equipment discussions with material qualification and application engineering. Complex purchase decisions require coordinated printer and post-processing assessment. HP introduced a contained powder-management system in April 2026 for semi-automated de-powdering and refilling. Availability across 3 geographies strengthens direct technical support during workflow planning.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Stainless steel is projected to hold 33.0% share in 2026, guided by corrosion resistance and established sintering knowledge. Buyers assess powder flow and dimensional change across recurring production batches.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Driver: Manufacturers seek complex metal parts without dedicated tooling across recurring production batches. Binder jetting supports parallel part placement and efficient powder use across suitable geometries.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Sculpteo and Legor Group S.p.A. compete depending on accessible production services across industrial and jewellery applications. Customers compare material access and application assistance prior to recurring orders.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「What company capabilities improve confidence across recurring orders?」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「Production and Consumption Statistics」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+  - 「The metal binder jetting market grows at a CAGR of 16.1% between 2026 and 2036, supported by manufacturers converting design freedom into qualified part families across automotive, aerospace, and industrial programs that require controlled sintering behavior and verified production economics throughout recurring serial component production.」（https://www.futuremarketinsights.com/reports/metal-binder-jetting-market）
+- 日本：
+  - 「この市場は、日本、中国、インド、韓国における自動車産業の工業化と需要の増加により成長すると予測されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「さらに、三菱重工業などの日本の航空宇宙企業は、航空機部品への金属積層造形技術の応用を研究している」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「日本金属粉末市場規模、シェア、および成長レポート 2034」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場規模は、2025年に」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「アディティブ・マニュファクチャリング（AM）と金属3Dプリンティングは、航空宇宙、自動車、医療機器などの分野における高精度で軽量な部品への需要の高まりに後押しされ、日本の製造業の状況を急速に変化させている」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「同時に、大同特殊鋼やJFEスチールなどの国内メーカーも事業を拡大している」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「イノベーションと伝統的なモノづくりの融合は、3Dプリンターが前例のない設計の柔軟性と製造効率を可能にする、日本の進化する産業アイデンティティを反映している」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「2050年までの電動化とカーボンニュートラルに向けた日本の野心的な動きは、先端材料、特に磁性合金、電池電極、燃料電池、軽量構造部品の開発に重要な役割を果たす金属粉末の需要を大幅に押し上げている」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本がグリーン・エネルギー・インフラストラクチャーを拡大する中、金属粉末はクリーン技術全体の性能、持続可能性、リサイクル性を高める基盤材料として台頭している」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場はこれまでどのように推移し、今後どのように推移していくのか?」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場のバリューチェーンにおける様々な段階とは？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場の主な推進要因と課題は何か？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場の構造と主要プレーヤーは？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場における競争の度合いは？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+- 検索結果の抜粋：
+  - 「バインダージェット に適した 金属粉末 - MET3DP — バインダージェット に適した 金属粉末 - MET3DP Met3DP https://met3dp.com > 未分類」（https://met3dp.com/ja/binder-jetting-202403192/）
+
+## 粉末DED（レーザー肉盛り）用粉末（powder DED laser metal deposition powder market）
+- 文脈：粉末
+- 市場規模：
+  - 「日本金属粉末市場規模、シェア、および成長レポート 2034」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場規模は、2025年に」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「2025年の市場規模」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本パウダーコーティング市場規模、シェア、動向および予測樹脂タイプ、コーティング方法、用途、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の粉末冶金市場規模、シェア、動向、予測タイプ、材料、製造プロセス、用途、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本のフルーツパウダー市場規模、シェア、動向および予測果物の種類別、技術別、流通チャネル別、用途別、地域別2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「世界のレインスクリーンクラッディングの市場規模は、2022年に1,348億8,000万米ドルとなり、予測期間（2024～2031年）のCAGRは7.10%で、2023年の1,444億6,000万米ドルから、2031年までには2,500億6,000万米ドルに成長する見通しです」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「世界の建築用金属コーティングの市場規模は、2023年の53億米ドルから、予測期間中に4.6%のCAGRで推移し、67億米ドルの規模に成長すると予測されています」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「Metal Additive Manufacturing Market Size, Share, Forecast 2033」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「Global Metal Additive Manufacturing Market Size to worth USD 19.34 Billion by 2033: Market Insight Report」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「The Global Metal Additive Manufacturing Market Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「Global Metal Additive Manufacturing Market Size to worth USD 19.34 Billion by 2033」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+- 成長率：
+  - 「に達し、2026年から2034年の期間に年平均成長率」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「（CAGR）4.06%」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「市場成長率 2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「世界のレインスクリーンクラッディングの市場規模は、2022年に1,348億8,000万米ドルとなり、予測期間（2024～2031年）のCAGRは7.10%で、2023年の1,444億6,000万米ドルから、2031年までには2,500億6,000万米ドルに成長する見通しです」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「世界の建築用金属コーティングの市場規模は、2023年の53億米ドルから、予測期間中に4.6%のCAGRで推移し、67億米ドルの規模に成長すると予測されています」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「The Global Metal Additive Manufacturing Market Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「Size is Expected to Grow from USD 5.26 Billion in 2023 to USD 19.34 Billion by 2033, at a CAGR of 13.91% during the forecast period 2023-2033.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「28.88% of the market share in 2023 and is expected to grow at a significant CAGR during the forecast period.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「The aerospace segment held 33.68% of the market share in 2023 and is estimated to grow at a CAGR of 17.75% during the forecast period.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「CAGR (2026 to 2036)」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「21.0% CAGR」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market is expected to grow at a CAGR of 21.0% from 2026 to 2036.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「India is the fastest-growing market at a CAGR of 26.3%, followed by China at 28.4% and Germany at 24.2%.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「CAGR (2026-2036)」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Top Country Growth Comparison Additive Manufacturing With Metal Powders Market Cagr (2026 2036)」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+- 価格：
+  - 「価格：50万円 ~ 100万円」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「1,000 万円」（https://ja.nc-net.or.jp/company/106275/product/detail/262266/）
+  - 「are qualifying multi-laser LPBF platforms at significantly lower price points, driven by Made in China 2025 mandates and a national push toward」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「$100–$300+ per kg」（https://meltio3d.com/exploring-powder-ded-technologies-key-insights/）
+  - 「316LSi Stainless Steel wire can cost ~$15/kg. The same material in AM-grade powder can exceed $60-$80/kg.」（https://meltio3d.com/exploring-powder-ded-technologies-key-insights/）
+  - 「List your top 3 alloys. Compare the price of」（https://meltio3d.com/exploring-powder-ded-technologies-key-insights/）
+  - 「of the price of atomized AM-grade powder (e.g., Ti64 wire vs. Ti64 powder). Additionally, because Wire DED has 100% transfer efficiency, there is no cost associated with recycling, sieving, or disposing of hazardous "overspray" powder.」（https://meltio3d.com/exploring-powder-ded-technologies-key-insights/）
+- 主要企業：
+  - 「日本金属粉末市場規模、シェア、および成長レポート 2034」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「また、すべての主要企業の詳細なプロフィールが提供されています」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本粉体塗装装置市場規模、シェア、動向および予測樹脂タイプ別、コンポーネント別、最終用途産業別、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本パウダーコーティング市場規模、シェア、動向および予測樹脂タイプ、コーティング方法、用途、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の粉末冶金市場規模、シェア、動向、予測タイプ、材料、製造プロセス、用途、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本のフルーツパウダー市場規模、シェア、動向および予測果物の種類別、技術別、流通チャネル別、用途別、地域別2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「IMARC Group is a leading market research company dedicated to providing data-driven insights and expert consulting services to support businesses in achieving their strategic objectives across diverse industries.」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「28.88% of the market share in 2023 and is expected to grow at a significant CAGR during the forecast period.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「The aerospace segment held 33.68% of the market share in 2023 and is estimated to grow at a CAGR of 17.75% during the forecast period.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「Major key players in the metal additive manufacturing market include GE Additive, 3D Systems, Desktop Metal, EOS GmbH, Renishaw, SLM Solutions, Stratasys, Markforged, Velo3D, DMG Mori, HP Inc., TRUMPF, ExOne (a Desktop Metal company), Materialise, Formlabs, Norsk Titanium, Optomec, Prima Additive, XJet, and VulcanForms, and Others.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「The powder bed segment is projected to account for 46.5% of the additive manufacturing with metal powders market revenue in 2026, maintaining its position as the leading manufacturing technique. Its dominance has been built on the ability to produce highly detailed and structurally sound components with excellent dimensional accuracy.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The alloy segment is projected to capture 39.7% of the additive manufacturing with metal powders market revenue in 2026, leading due to its versatility and enhanced performance characteristics. Alloys such as titanium, nickel, and aluminum-based blends have been favored for their strength-to-weight ratios, corrosion resistance, and suitability for high-stress environments.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Continuous advancements in alloy powder production methods have improved particle size uniformity and flowability, resulting in consistent build quality. With increasing emphasis on performance optimization and material efficiency, the alloy segment is expected to sustain its market-leading role.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+- 安全・規制・保管：
+  - 「We would be happy to reach out to IMARC again, if we need Market Research/Consulting/Consumer Research or any associated service. Overall experience was good, and the data points were quite helpful.」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「We would be happy to reach out to IMARC for more market reports in the future. The response from the account sales manager was very good. I appreciate the timely follow ups and post purchase support from the team. My overall experience with IMARC was good.」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「- NextEra Energy is investing in power generation, transmission networks, solar energy, wind power, and energy storage to strengthen electricity infrastructure and support growing demand from AI and digital industries.」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「in 2025, projected to reach」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market is forecast to reach USD 5.70 billion by 2036.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market is projected to reach USD 0.85 billion in 2026.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The additive manufacturing with metal powders market size is projected to reach USD 5.698 billion by 2036.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「in 2025 and is projected to reach」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「in 2025 and is projected to reach」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「of the North American market, reaching」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「system shipments reached」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「AM revenues reached USD 24.2 billion in 2025」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「of total value. Wohlers Report 2024 confirmed the industry reached USD」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「The United States metal additive manufacturing market reaches USD」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「metal AM system shipments reached 3,793 units in 2023」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+- 品質・証明：
+  - 「・対応ロット：1ヶ〜1,000ヶ/月」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「小ロットの大型（１m以上）製品を、好きな材料で、効率的に生産できる」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「ガスアトマイズによって製造された球状粉末で流動性に優れています」（https://www.daido.co.jp/products/powder/ldm/index.html）
+  - 「. Primary processing platforms include selective laser melting and electron beam melting under powder bed fusion, laser-cladding-based directed energy deposition, and binder jetting systems, each presenting distinct powder morphology and flowability requirements tied to specific certification pathways.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Continuous advancements in alloy powder production methods have improved particle size uniformity and flowability, resulting in consistent build quality. With increasing emphasis on performance optimization and material efficiency, the alloy segment is expected to sustain its market-leading role.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Hybrid bottom-up and scenario-based forecasting model calibrated against installed system fleet data, application-specific adoption curves, and regulatory qualification timelines」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Powder Bed accounts for 46.5% share in 2026 as its superior geometric resolution and established qualification status under EASA and FAA airworthiness frameworks make it the preferred platform for flight-critical aerospace component certification.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market generates an incremental opportunity of USD 4.85 billion between 2026 and 2036, reflecting sustained structural demand from aerospace serial production qualifications, medical implant reimbursement expansion, and industrial energy sector platform deployments.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「of market share in 2025 and is expected to develop niche positions in specialty coating and refractory metal deposition applications through 2034.」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「through 2034, supported by an aging global population and the continued qualification of DED-produced implant devices by regulatory bodies in the United States, European Union, and Japan.」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「of market revenue in 2025, reflecting the substantial investment by universities, national laboratories, and corporate research centers in DED process science, new material development, and qualification methodology research. The」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「through 2034, the highest among material segments, as research programs at leading institutions translate DED ceramic deposition findings into commercial production applications, particularly in aerospace thermal protection systems and biomedical implant coatings. The」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「Kudos to you and your team for exceptional work on compiling global trade data and industry insights. The reports on silver paste and coal tar stand out for their unique and valuable information.」（https://dataintelo.com/report/directed-energy-deposition-market）
+- 装置縛り・オープン材料：
+  - 「対してレーザークラッドの場合、これはオープン設備のため、ハード的な熱制限がありません」（https://www.nankaikozai.co.jp/column/20260107-000151.html）
+  - 「Directed energy deposition is compatible with a wide spectrum of metallic materials and a growing range of ceramic and composite feedstocks. The most commercially prevalent DED materials include titanium alloys (Ti-6Al-4V, Ti-6Al-2Sn-4Zr-2Mo), nickel-based superalloys (Inconel 625, Inconel 718, Haynes 282), stainless steels (316L, 17-4PH), tool steels (H13, P20),」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+- 売り方・商流：
+  - 「株式会社MadeHereはMeltio社3Dプリンターの日本総代理店です」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「Value-Added Resellers (VARs)」（https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market）
+  - 「Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The global directed energy deposition market is characterized by a moderately consolidated competitive structure at the OEM level, with the top five equipment vendors (DMG Mori, Trumpf Group, GE Additive, Optomec, and Sciaky Inc.) collectively accounting for an estimated」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「4.3.2 List of Key Distributors」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「Manufacturers, distributors, resellers, and system integrators」（https://dataintelo.com/report/directed-energy-deposition-market）
+  - 「Distributor and Partner Research」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Capital hardware sales from OEMs including EOS GmbH, TRUMPF, and GE Additive driving initial market revenue; Wohlers 2026 signals system sales rebounding at 3.6% as services outpace hardware」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「— supported by a defense procurement base and aerospace OEM ecosystem that no other region matches in certified metal AM production volume. This concentration means North America will absorb a disproportionate share of new capital equipment investment through」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「are expanding globally on system pricing that undercuts Western OEMs on comparable LPBF platforms.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「— exposing the divergence between vendor revenue ambitions and actual hardware demand. System OEMs that built on prototype-era growth assumptions now face a market where buyers prefer service bureau access over capital equipment ownership.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Chinese OEM expansion」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「. The revenue decline reflects broader hardware market softness that hit system OEMs hardest in」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+- 技術支援：
+  - 「Digital, Documentation & Training」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「6.LCのパラメーター」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「造形向きとパラメータを決定し、Gコードを生成します」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「造形パラメータを選択し、Gコードを読み込んだ後、ビルドプレートをセットして造形開始」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「MeltioのDED方式は、造形後に除去が必要となる内部のサポート構造を作らずに、大型部品や、非常に滑らかな壁面を3Dプリントできるという点が特徴です」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「パン工場のコンベアベルトを固定するサポート材です」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Digital parameter control and adjustments are made in response to real-time measured data, without process disruption」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+  - 「Prevents surprises by dynamically adjusting parameters to maintain part integrity」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+  - 「System Implementation & Training to Ongoing Support & Maintenance, Sciaky Is With You Every Step of the Way」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+  - 「) features and functionality from day one. Our turnkey package includes the installation of the EBAM system, all configuration and design software, and comprehensive training on all aspects of EBAM technology. We also provide remote production monitoring and on-site preventive and predictive maintenance agreements.」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+  - 「Training on the engineering-related EBAM methods of CAD model design.」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+  - 「Training on the CAD/CAM conversion of the deposition strategy through machine tool path generation.」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+  - 「Training on machine operation and maintenance.」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+  - 「Contact us for more information about Sciaky’s additive manufacturing customer training, service and support packages.」（https://www.sciaky.com/largest-metal-3d-printer-available?view=category&id=8）
+- コモディティ化：
+  - 「5. World Bank Group. (2025, April). Commodity Markets Outlook: Persistence of High Interest Rates Weighs on Commodity Markets. World Bank. https://openknowledge.worldbank.org/handle/10986/41531」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Low-cost entry-level metal part prototyping and tooling」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Prototyping, tooling, low-cost」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Meltio uses commodity welding wire (MIG wire). It is globally available and costs significantly less—often」（https://meltio3d.com/exploring-powder-ded-technologies-key-insights/）
+  - 「commodity welding wire」（https://meltio3d.com/exploring-powder-ded-technologies-key-insights/）
+- 繰り返し性：
+  - 「レアメタルの使用量を減らすことが出来ないのか？」（https://mono.ipros.com/cg1/%E3%82%AF%E3%83%A9%E3%83%83%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+  - 「ネルギー消費量大, 積層」（http://www.aichi-sangyo.co.jp/pdf/weld/weld_0021.pdf）
+  - 「ブルーレーザー搭載により、エネルギーの消費量を削減」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Subscription Datasets and Paid Sources」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Production and Consumption Statistics」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Technology choice defines cost per part, qualification pathway, and production volume ceiling — making the By Technology segment the highest-value dimension for operators and investors. Application segmentation reveals where certified demand is concentrated today, while material and component segments show where recurring revenue and supply chain leverage sit across the metal AM value chain.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Recurring powder revenue growing as installed base expands; metal AM materials market is the fastest-growing revenue stream as production volumes scale beyond prototyping」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「In our view, the shift from prototyping to serial production is the single most consequential structural change in metal AM demand. Aerospace and defense buyers are no longer evaluating metal AM against design intent — they are qualifying it against forged and machined supply chains on cost, lead time, and part performance, locking in recurring production contracts.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「The metal AM materials market is the fastest-growing recurring revenue stream in the value chain — as the global installed base of metal AM systems expands, powder consumption scales proportionally without requiring new capital equipment sales.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「, accessing certified metal AM production without machine ownership. This shift confirms the broader additive manufacturing industry transition from hardware sales to recurring services revenue.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+- 日本：
+  - 「日本金属粉末市場規模、シェア、および成長レポート 2034」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本金属粉末市場規模、シェア、動向および予測材料、技術、用途、地域別、2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場規模は、2025年に」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「アディティブ・マニュファクチャリング（AM）と金属3Dプリンティングは、航空宇宙、自動車、医療機器などの分野における高精度で軽量な部品への需要の高まりに後押しされ、日本の製造業の状況を急速に変化させている」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「同時に、大同特殊鋼やJFEスチールなどの国内メーカーも事業を拡大している」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「イノベーションと伝統的なモノづくりの融合は、3Dプリンターが前例のない設計の柔軟性と製造効率を可能にする、日本の進化する産業アイデンティティを反映している」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「2050年までの電動化とカーボンニュートラルに向けた日本の野心的な動きは、先端材料、特に磁性合金、電池電極、燃料電池、軽量構造部品の開発に重要な役割を果たす金属粉末の需要を大幅に押し上げている」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本がグリーン・エネルギー・インフラストラクチャーを拡大する中、金属粉末はクリーン技術全体の性能、持続可能性、リサイクル性を高める基盤材料として台頭している」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場はこれまでどのように推移し、今後どのように推移していくのか?」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場のバリューチェーンにおける様々な段階とは？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場の主な推進要因と課題は何か？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場の構造と主要プレーヤーは？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「日本の金属粉末市場における競争の度合いは？」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「IMARC’の業界レポートは、2020年から2034年までの日本の金属粉末市場の様々な市場セグメント、過去と現在の市場動向、市場予測、ダイナミクスを包括的に定量分析します」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+  - 「この調査レポートは、日本の金属粉末市場における市場促進要因、課題、機会に関する最新情報を提供しています」（https://www.imarcgroup.com/report/ja/japan-metal-powder-market）
+- 検索結果の抜粋：
+  - 「レーザー肉盛り 加工の会社22社 注目ランキング【2026年】 — レーザー肉盛り 加工の会社22社 注目ランキング【2026年】 Metoree https://metoree.com > 加工サービス」（https://metoree.com/categories/11159/）
+
+## 装置メーカー純正材料の縛り（クローズド・オープン材料）（3D printer closed material system open material policy powder filament）
+- 文脈：共通・縛り
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 価格：記載なし（読んだ45頁・検索21回）
+- 主要企業：記載なし（読んだ45頁・検索21回）
+- 安全・規制・保管：記載なし（読んだ45頁・検索21回）
+- 品質・証明：記載なし（読んだ45頁・検索21回）
+- 装置縛り・オープン材料：記載なし（読んだ45頁・検索21回）
+- 売り方・商流：記載なし（読んだ45頁・検索21回）
+- 技術支援：記載なし（読んだ45頁・検索21回）
+- コモディティ化：記載なし（読んだ45頁・検索21回）
+- 繰り返し性：記載なし（読んだ45頁・検索21回）
+- 日本：記載なし（読んだ45頁・検索21回）
+
+## 樹脂フィラメント（汎用PLA・ABS・PETG）の市場と価格（3D printing filament market PLA ABS PETG price commodity）
+- 文脈：フィラメント・汎用
+- 市場規模：
+  - 「3Dプリンティング用フィラメント市場規模」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「世界の3Dプリンティング用フィラメント市場規模は、2025年には20億4589万米ドルと評価され、2026年の26億667万米ドルから2034年には181億147万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.41%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の現在の市場規模はどれくらいですか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「エポキシ市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「300mmウェハーキャリアボックス市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「PUFパネル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティングフィラメント市場、2030年までに42億ドル | e.x.press」（https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/71117/）
+  - 「3Dプリンティングフィラメント市場、2030年までに42億ドル」（https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/71117/）
+  - 「ポリ乳酸(Pla) 市場規模, シェア & 2032 への予測」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「3Dプリント向けポリ乳酸（PLA）市場規模、シェア、トレンド分析レポート - 業界概要と2033年までの予測」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「3Dプリント向けポリ乳酸（PLA）市場規模、シェア、トレンド分析レポート」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「... 3Dプリント向けポリ乳酸（PLA）市場規模、シェア、トレンド分析レポート」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「2025 年の市場規模」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「USD 660.56 Million」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「2033 年の市場規模」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+- 成長率：
+  - 「3Dプリンティング用フィラメント市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「世界の3Dプリンティング用フィラメント市場規模は、2025年には20億4589万米ドルと評価され、2026年の26億667万米ドルから2034年には181億147万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.41%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の規模は、2026年には26億667万米ドルと評価され、2034年までに181億147万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は27.41%です」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の予測CAGRはどのくらいですか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）27.41%で成長すると予測されています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「エポキシ市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「キャストアクリルシート市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「鉱業におけるコンベヤベルト市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「300mmウェハーキャリアボックス市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「PUFパネル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「回転成形用粉末市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「--マーケッツ&マーケッツ(MarketsandMarkets)のレポート「3Dプリンティングフィラメント市場、タイプ別(プラスチック、金属、セラミック、その他)、最終用途産業別(航空宇宙・防衛、医療・歯科、自動車、消費財、その他)、地域別- 2030年までの世界予測」によると、3Dプリンティングフィラメント市場は、金額ベースでCAGR 18.8%で成長し、2025年の17億7,000万米ドルから2030年までに42億米ドルに達すると予測されている」（https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/71117/）
+  - 「19.00％のCAGR」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「3mmまたは2.85mmのフィラメントは、その高い流動性、大規模印刷への適合性、そして優れた機械的強度により、2026年から2033年にかけて最も高い成長率を示すと予想されています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「自動車分野は、持続可能で軽量、かつカスタマイズ可能な3Dプリント部品の需要の高まりを背景に、2026年から2033年にかけて最も高い成長率を示すと予想されています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+- 価格：
+  - 「3Dプリンティング用フィラメント市場は、汎用性、使いやすさ、そして手頃な価格で知られるプラスチック分野が圧倒的なシェアを占めています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「フィラメント価格帯ガイド（2026年1月時点）」（https://news.sharelab.jp/study/filament/）
+  - 「2,000〜4,000円」（https://news.sharelab.jp/study/filament/）
+  - 「3,000〜5,000円」（https://news.sharelab.jp/study/filament/）
+  - 「4,000〜8,000円」（https://news.sharelab.jp/study/filament/）
+  - 「4,000〜7,000円」（https://news.sharelab.jp/study/filament/）
+  - 「5,000〜10,000円」（https://news.sharelab.jp/study/filament/）
+  - 「10,000〜20,000円」（https://news.sharelab.jp/study/filament/）
+  - 「50,000〜100,000円」（https://news.sharelab.jp/study/filament/）
+  - 「5〜10万円」（https://news.sharelab.jp/study/filament/）
+  - 「：PEEK対応機は100万円〜500万円が目安」（https://news.sharelab.jp/study/filament/）
+  - 「プラスチック分野は、大量入手が可能であること、手頃な価格、業界で複数のタスクを実行できることにより、3D プリンティング フィラメント市場で最大のシェアを占めている」（https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/71117/）
+  - 「PLAは手頃な価格で、幅広い3Dプリンターに対応しているため、産業用途と趣味用途の両方で好まれています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「さらに、アジア太平洋地域が3Dプリントフィラメントの主要製造拠点として台頭するにつれ、PLAの価格と入手しやすさは、より広範な産業および消費者層に広がっています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「また、教育・試作・小規模生産における3Dプリンティングの普及により、手頃な価格・ユーザーフレンドリーな素材の需要が高まります」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+- 主要企業：
+  - 「3Dプリンティング用フィラメント市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の規模、シェア、トレンド分析レポート：材料タイプ別（プラスチック、金属、セラミック、複合材料）、プラスチックタイプ別（ポリ乳酸（PLA）、アクリロニトリルブタジエンスチレン（ABS）、ポリエチレンテレフタレートグリコール（PETG）、アクリロニトリルスチレンアクリレート（ASA）、その他）、直径別（標準直径（1.75mm）、大径（2.85mm～3mm））、用途別（航空宇宙・防衛、自動車、医療・歯科、電子機器、その他の用途）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「北米は2025年に35.6%の市場シェアを占め、3Dプリンティング用フィラメント市場を牽引しました」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「特にCOVID-19パンデミックは、医療分野における3Dプリンティングの利用を加速させ、BASF、Stratasys、DuPontといった業界大手企業にとって、医療分野に特化したフィラメントソリューションを通じて新たな収益源を生み出しました」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場は、汎用性、使いやすさ、そして手頃な価格で知られるプラスチック分野が圧倒的なシェアを占めています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「ナイロンやPETGなどの先進的なフィラメントで知られる大手企業である」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「2025年の3Dプリンティング用フィラメント市場において、最大のシェアを占める地域はどこでしょうか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「北米は2025年時点で35.6%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「エポキシ市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「キャストアクリルシート市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「鉱業におけるコンベヤベルト市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「300mmウェハーキャリアボックス市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「PUFパネル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「回転成形用粉末市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+- 安全・規制・保管：
+  - 「この記事では、材質別の特徴・用途・価格帯・保管方法を徹底比較します」（https://news.sharelab.jp/study/filament/）
+  - 「STEP4：保管上の問題がないか」（https://news.sharelab.jp/study/filament/）
+  - 「Q3. フィラメントの保管方法は？」（https://news.sharelab.jp/study/filament/）
+  - 「“name”: “フィラメントの保管方法は？”,」（https://news.sharelab.jp/study/filament/）
+  - 「“text”: “湿気を避けて密閉保管が基本です」（https://news.sharelab.jp/study/filament/）
+  - 「吸湿による造形不良に備え、製品指定の乾燥・保管方法を確認」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「使用前に乾燥させ、密封された容器で保管することが望ましいです」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「保存状態：生分解性が高いため、湿気や光から遮断した密閉容器で保管することが重要です」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「保管状態が悪いと、劣化が早まることがあります」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「保管方法：鋳造用フィラメントは湿気に敏感であるため、乾燥剤と一緒に密閉容器で保管することが推奨されます」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「保管方法：サポート専用フィラメントも他のフィラメント同様に湿気に敏感であるため、乾燥剤と一緒に密閉容器で保管することが推奨されます」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「フィラメントは湿気や汚れに弱いため、適切な保管方法が重要です」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「フィラメントは密閉された容器や専用の保管ボックスに入れて保管しましょう」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「フィラメントの寿命は一般的には1年～2年程度とされていますが、保管状態によっては短くなることもあります」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「フィラメントを保管する際には、専用の保管ボックスを利用しましょう」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+- 品質・証明：
+  - 「シミュレーションと小ロット試作で条件を詰める」（https://news.sharelab.jp/study/filament/）
+  - 「消費財セグメントは、日用品のプロトタイピング、カスタマイズ、小ロット生産に 3D プリンティングが広く採用されているため、3D プリンティング フィラメント市場を支配している」（https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/71117/）
+  - 「3mmまたは2.85mmのフィラメントは、その高い流動性、大規模印刷への適合性、そして優れた機械的強度により、2026年から2033年にかけて最も高い成長率を示すと予想されています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「●製造ロットにより、細部形状の違いや、同色でも色味に多少の誤差が生じます」（https://search.kakaku.com/pla%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/）
+  - 「初心者ユーザーを守るには、径の安定・吸湿管理・色のロット管理といった」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「流動性No.1」（https://www.poly-maker.jp/）
+  - 「流動性が高く100ｍｍ/s以上の高速印刷が可能」（https://www.poly-maker.jp/）
+  - 「自社加工を生かして1mごとのフィラメント直系のトレーサビリティーを提供しており、フィラメントリールに貼ってあるQRコードで確認可能です」（https://note.com/newspeak/n/n5739062381f5）
+  - 「産業生産における積層造形の利用拡大は、認証取得済みでトレーサビリティを確保したフィラメント材料のサプライヤーにビジネス機会をもたらしています」（https://japan.zdnet.com/release/31221703/）
+  - 「医療・歯科メーカーは、信頼性の高い材料トレーサビリティと製造プロセスの一貫性も求めており、専門フィラメントサプライヤーにビジネス機会が生まれています」（https://japan.zdnet.com/release/31221703/）
+  - 「エンジニアリングポリマーや複合材料フィラメントは、信頼性の高い機械的性能とトレーサビリティを備えた材料を開発するサプライヤーにビジネス機会をもたらしています」（https://japan.zdnet.com/release/31221703/）
+  - 「- リサイクルと材料トレーサビリティ： リサイクルフィラメントには、原料品質の一貫性と効果的な材料処理が求められます」（https://japan.zdnet.com/release/31221703/）
+  - 「試作から機能部品の製造への移行は、材料の信頼性、トレーサビリティ、用途に応じた性能の重要性を高めるため、特に重要です」（https://japan.zdnet.com/release/31221703/）
+  - 「ロットごとのばらつきが小さい継続生産の製品を選ぶ」（https://i-maker.jp/blog/pla-filament-11486.html?srsltid=AYCX9vLMh1CZ-oUO-XcqYLjbcgQGoueCPD78Vjv7jUnl4sp76EjBLjFU）
+  - 「ロットごとの色や品質のばらつきが小さい継続生産の製品を選ぶと、途中で設定をやり直す手間が減ります」（https://i-maker.jp/blog/pla-filament-11486.html?srsltid=AYCX9vLMh1CZ-oUO-XcqYLjbcgQGoueCPD78Vjv7jUnl4sp76EjBLjFU）
+- 装置縛り・オープン材料：
+  - 「この標準サイズは、ほとんどのデスクトップ型および産業用3Dプリンターと互換性があります」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「これらの材料は、寸法精度、耐久性、および同社の最新FDMプリンタープラットフォームとの互換性を向上させます」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「安価な家庭用3Dプリンター用以外でも、ストラタシスなどの産業用3Dプリンターの装置メーカーに対応する互換性のある材料の販売も盛んになってきました」（https://news.sharelab.jp/study/filament/）
+  - 「互換性のあるフィラメントは、単価が数倍違います」（https://news.sharelab.jp/study/filament/）
+  - 「：PEIシート、ガラス＋糊、専用接着剤など素材に合わせて使い分け」（https://news.sharelab.jp/study/filament/）
+  - 「互換性がないため、購入前に必ず確認しましょう」（https://news.sharelab.jp/study/filament/）
+  - 「PLA、ABS、PETG、ナイロンなどの材料は、プリントが容易で機械的特性が優れており、有名なデスクトップおよび産業用デスクトップおよび産業用 FDM 3D プリンタと互換性があるため、一般的に使用される」（https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/71117/）
+  - 「1.75mmフィラメントは、幅広いデスクトップ型および業務用3Dプリンターとの互換性、取り扱いやすさ、そして精緻なプロトタイピングへの適合性により、2025年には市場最大の収益シェアを獲得しました」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「PLAの汎用性と3Dプリント技術との幅広い互換性は、自動車、ヘルスケア、包装、そして消費財といった分野における革新的な用途開発をメーカーに促しています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「1.75mmフィラメントは、幅広いデスクトップ型および業務用3Dプリンターとの互換性、取り扱いやすさ、そして精緻なプロトタイピングへの適合性により、2025年には最大の市場収益シェアを獲得しました」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「PLAは信頼性、費用対効果、そして多様な印刷技術との互換性から、産業用途に最適な材料となっています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「この地域の消費者や企業は、PLAの使いやすさ、環境へのメリット、幅広い3Dプリンターとの互換性、迅速な試作と小規模生産を可能にすることから、PLAを高く評価しています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「フィラメントと様々な3Dプリンターモデルとの互換性は、ユーザーがプリンターに合わせた特定の材料に投資する必要がよくあります」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+  - 「様々な3Dプリンターと手頃な価格の互換性により、産業や趣味のユーザーにも人気があります」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+  - 「密着性：ベッドへの接着が難しい場合があるため、接着剤や専用のビルドプレートを使用することが推奨されます」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+- 売り方・商流：
+  - 「ご自身で利用する3Dプリンターを分解してメンテナンスできる場合は、多少のスペック違いでもトライする価値はありますが、その時間がかけられない場合や、機構が複雑で故障を自分で修理できない場合は、メーカーが保証する材料や、販売店の推奨製品を利用する必要があります」（https://news.sharelab.jp/study/filament/）
+  - 「メーカーや販売店主催のセミナーの後にユーザー交流会が企画される場合もありますので、そういった場で生の情報を得ることも重要になってきます」（https://news.sharelab.jp/study/filament/）
+  - 「Bambu Lab・Elegoo・Anycubic等の正規代理店として、初心者から上級者まで安心のサポートをお届けします」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「【2026年版】3Dプリンターフィラメント完全比較ガイド｜素材・用途別の選び方を正規代理店が解説」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「「pla フィラメント」の人気商品一覧 | 安い商品を通販サイトから探す - 価格.com」（https://search.kakaku.com/pla%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/）
+  - 「Amazonの3Dプリンター売れ筋ランキング」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「海外からの輸入障壁による一部高額商品を除き、フィラメントの品質は『値段相応』」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「AmazonでのPLAフィラメントを検索した結果」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「たとえば、PolymakerのPLAだと初日からきれいにプリントできるのに対し、Amazonで販売されている無名（ノーブランド）のPLAだと、正常に動作させるまでに4回のキャリブレーション（※温度・流量・リトラクションなど印刷設定の再調整）が必要だった（Polymaker PolyTerra PLA prints clean on day one, generic Amazon PLA needs 4 calibration runs before it works）ということです」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「PolymakerはAmazonからの購入の方が若干安くなりそうです」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「Polymaker（Amazonと自社サイト）」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「フィラメント（ポリメーカー社製）一覧 | Polymaker社製3Dプリンターフィラメント日本総代理店」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「Bambu Lab（Amazonと自社サイト）」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「Hatchboxは並行輸入品が中心で7,000円前後からと割高、Inlandは米国の量販店Micro Centerの店舗ブランドのため、日本では事実上入手できません」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「Amazonで頻繁にタイムセールが行われているので、実質的にはもっと安く買うことができる」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+- 技術支援：
+  - 「この新製品シリーズは、高い印刷品質と性能を維持しながら、環境に配慮した積層造形をサポートします」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「教育分野は、学校、大学、研究機関におけるSTEM学習、研修、環境に優しいプロジェクトへのPLAフィラメントの導入増加に牽引され、2026年から2033年にかけて最も高い成長率を示すと予想されています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「この広範な採用は、高度な製造インフラ、多額の研究開発投資、環境に優しい材料への嗜好の高まりによってさらにサポートされ、PLAは産業用途と趣味用途の両方で好まれるフィラメントとして確立されています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「この製品は、材料性能を向上させ、大規模生産をサポートし、工業用3DプリントアプリケーションにおけるPLAの採用を促進します」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「この資金により、生産能力の増強、コスト削減、そして持続可能な3Dプリンティング市場におけるフィラメンティブの地位強化が実現し、環境に優しい積層造形がサポートされます」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「このセンターは、PLA材料のイノベーションを加速し、3Dプリントアプリケーションをサポートし、産業市場および消費者市場におけるバイオベースポリマーの採用を促進します」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「市場レポートの詳細さとサポートに感謝いたします」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「フィラメント技術を活用し、強度、柔軟性、持続性を高め、このトレンドをさらにサポートします」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+  - 「添加剤製造のための政府サポート、研究開発の重要な投資と相まって、さらに市場成長を後押しします」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+  - 「このレポートを購入するにはサポートが必要ですか?」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+  - 「細かな表現、橋渡し部分、サポートの外しやすさも試し刷りで確認」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「細かな表現、橋渡し、サポートの外しやすさ」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「メーカーの対応表と製品プロファイルを優先してください」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「強度や耐熱性は製品と造形条件で変わるため、素材名だけで優劣を決めず、用途とデータシートを照合してください」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「まずメーカー指定の条件で乾燥し、対応する製品プロファイルを使います」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+- コモディティ化：
+  - 「3Dプリンティング用フィラメント市場は、汎用性、使いやすさ、そして手頃な価格で知られるプラスチック分野が圧倒的なシェアを占めています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「コストパフォーマンスがよく、低い温度でも造形できるため多くの3Dプリンターで利用されている汎用材料です」（https://news.sharelab.jp/study/filament/）
+  - 「材料価格が汎用的な樹脂材料よりも高額で、利用できる装置も限られますが強度面で大きなアドバンテージを持つ材料です」（https://news.sharelab.jp/study/filament/）
+  - 「このようなフィラメントは、汎用性が高く、手頃な価格で、扱いやすいため、プロトタイピング、ツーリング、生産部品、さらには生物医学産業や航空宇宙産業でも使用されている」（https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/71117/）
+  - 「従来の3Dプリント材料と比較して、PLAは汎用性、コスト効率、環境面でのメリットがあるため、市場は力強い成長を遂げています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「PLAの使いやすさと汎用性により、複雑なデザインの迅速な試作・製造が可能になり、廃棄物と環境への影響を削減できます」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「さらに、複合ブレンドやカラーバリエーションといったフィラメント配合の進歩により、機能の汎用性と適用範囲が拡大しています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「PLAの汎用性と3Dプリント技術との幅広い互換性は、自動車、ヘルスケア、包装、そして消費財といった分野における革新的な用途開発をメーカーに促しています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「ヨーロッパの消費者とメーカーは、PLAの持続可能性、使いやすさ、そして汎用性にも魅力を感じており、新たな産業用途や教育用途へのPLAの導入を後押ししています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「この開発により、BASFの積層造形製品ラインナップが拡充され、汎用性と高品質を兼ね備えたフィラメントの提供が可能となり、産業用プロトタイピングと持続可能な3Dプリントにおける市場ポジションが強化されます」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「PLAやPETGなどの手頃な価格で汎用性の高いフィラメントの需要が増え、産業と消費者の両方の市場に対応できます」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+  - 「PETGフィラメント – 強度と耐水性を兼ね備えた汎用性」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「その優れた汎用性から、様々な分野で活用されています」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「【アズワン AS ONE】汎用科学機器 汎用科学機器 一般 その他汎用科学機器 ●悪臭が少ない農産物由来のエコ素材」（https://search.kakaku.com/pla%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/）
+  - 「PETGフィラメント – 強度と耐水性を兼ね備えた汎用性」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vKJRtMEOJ4C2EfevtWNrtik8hUosDWSaapxD7o9F7xnkx-tJ9z4）
+- 繰り返し性：
+  - 「ノズル詰まり：木粉がノズルに詰まることがあるため、定期的なノズルの清掃が必要です」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「また、乾燥剤は定期的に交しましょう」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「ノズル詰まり：木粉がノズルに詰まることがあるため、定期的なノズルの清掃が必要です」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vKJRtMEOJ4C2EfevtWNrtik8hUosDWSaapxD7o9F7xnkx-tJ9z4）
+  - 「また、乾燥剤は定期的に交しましょう」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vKJRtMEOJ4C2EfevtWNrtik8hUosDWSaapxD7o9F7xnkx-tJ9z4）
+  - 「Amazonで買える3Dプリンター用フィラメント厳選8選｜使用量1トン超のユーザーが本音でレビュー｜きよさん」（https://note.com/create_gbm/n/n03b1cd8b3b90）
+  - 「ノズル詰まり：木粉がノズルに詰まることがあるため、定期的なノズルの清掃が必要です」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vJZC2gOCactrfW66trl10FcSrIShdmNZkz1yg3_WnzA_2Xh19ez）
+  - 「また、乾燥剤は定期的に交しましょう」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vJZC2gOCactrfW66trl10FcSrIShdmNZkz1yg3_WnzA_2Xh19ez）
+  - 「Bambu PLA Basic, refill」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+  - 「Bambu PETG Translucent, refill」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+  - 「Here, “filament” means thermoplastic feedstock supplied as spool or refill material for material-extrusion 3D printing, the family usually called FDM or FFF in desktop use. ISO/」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+  - 「Why “A Spool” Isn’t a Unit (Diameter, Weight, Refills)」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+  - 「Refills make the comparison trickier. Bambu’s official pricing table separates with-spool and refill pricing for PLA, PETG, and ABS, which is a reminder that refill is refill-only pricing, not the true first-purchase cost if you still need the reusable spool. Bulk-threshold pricing is a separate case again and should not be discussed as if it were a one-roll shelf price.」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+  - 「, everyday PLA or PETG can be relatively inexpensive in current snapshots, but the sticker price is only meaningful after you check whether the listing is refill, with-spool, sale, or bulk-threshold pricing.」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+  - 「No. In snapshots accessed 2026-09-10, commodity PETG could overlap commodity PLA: Bambu’s PETG Translucent refill pricing showed $19.99 for 1 kg, while Bambu PLA Basic refill pricing and Creality Hyper PLA sale pricing also showed $19.99 for 1 kg. What changes the budget is specialty PETG, such as carbon-fiber or glow variants.」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+  - 「Not necessarily as a buying assumption. Some filament is sold as 500 g, 750 g, 800 g, or 900 g refill packages rather than 1 kg spools, and refill listings may require a compatible reusable spool. Read the net filament weight and the price label, not just the word “spool.”」（https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/）
+- 日本：
+  - 「これは主に、中国や日本などの国々における製造業の急成長と3Dプリンティング技術への投資増加によるものです」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「日本は、医療や歯科用途に不可欠な生体適合性フィラメントの開発において目覚ましい進歩を遂げている」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「2023年2月、日本の研究者たちは、オーダーメイドの義肢や医療機器向けの新しい生体適合性フィラメントを開発し、革新的な3Dプリンティングソリューションを通じて医療技術の発展を目指す日本の姿勢を示した」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「またせっかく特性を把握している材料でも、日本のように高温多湿な環境の場合、湿度を吸ってフィラメントの特性が変化してしまう場合があります」（https://news.sharelab.jp/study/filament/）
+  - 「アジア太平洋地域のPLA市場は、中国、日本、インドなどの国々における急速な都市化、工業化の進展、そして持続可能な3Dプリント材料への意識の高まりを背景に、2026年から2033年にかけて最も高い成長率を記録すると予想されています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「日本の3Dプリント向けPLA市場に関する市場インサイト」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「日本のPLA市場は、ハイテク文化、教育および産業における3Dプリントの急速な導入、そして持続可能な材料への重点化により、2026年から2033年にかけて最も高い成長率を示すと予想されています」（https://www.databridgemarketresearch.com/jp/reports/global-polylactic-acid-(pla)-market-for-3d-printing-market）
+  - 「中国、日本、韓国、インドなどの国は、自動車、消費財、ヘルスケアなどの業界を横断する3Dプリンティングの採用を主導しています」（https://www.sphericalinsights.com/jp/reports/3d-printing-filament-market）
+  - 「全8色（Bambu Lab日本公式ストア・TDS確認、商品ページ記載）」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「SK本舗は国内最大級の3Dプリンター専門店です」（https://skhonpo.com/blogs/3dprinter-practice/3dpetg）
+  - 「GSIクレオスは、日本の3Dプリンターフィラメントメーカーで、環境にやさしいPBATフィラメントを提供しています」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「ホッティポリマーは、日本のゴムメーカーで、フィラメント材料も提供しています」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「日本の3Dプリンターユーザーの声を反映した配合・カラーが特長です」（https://skhonpo.com/pages/filament-features）
+  - 「、藍・朱・抹茶など日本の伝統色をモチーフにした」（https://skhonpo.com/pages/filament-features）
+  - 「NIHON COLOR FILAMENT（日本カラー）」（https://skhonpo.com/pages/filament-features）
+- 検索結果の抜粋：
+  - 「3Dプリンター フィラメント 材料完全ガイド。種類と選び方 — 3Dプリンター フィラメント 材料完全ガイド。種類と選び方 アイ・メーカー https://i-maker.jp > Home > フィラメント材料ガイド」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vIhEd8GXbvuA3KrLIdt22G_oRT-ESKGstEq19baic__j11tpuMn）
+  - 「3Dプリンター フィラメント 材料完全ガイド。種類と選び方 — 3Dプリンター フィラメント 材料完全ガイド。種類と選び方 アイ・メーカー https://i-maker.jp > Home > フィラメント材料ガイド」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vKJRtMEOJ4C2EfevtWNrtik8hUosDWSaapxD7o9F7xnkx-tJ9z4）
+  - 「3Dプリンター フィラメント 材料完全ガイド。種類と選び方 — 3Dプリンター フィラメント 材料完全ガイド。種類と選び方 アイ・メーカー https://i-maker.jp > Home > フィラメント材料ガイド」（https://i-maker.jp/blog/3dprint-filament-11722.html?srsltid=AYCX9vJZC2gOCactrfW66trl10FcSrIShdmNZkz1yg3_WnzA_2Xh19ez）
+
+## 高性能フィラメント（PEEK・PEKK・PEI・ULTEM・CF強化）（high performance filament PEEK PEKK ULTEM carbon fiber market）
+- 文脈：フィラメント・高性能
+- 市場規模：
+  - 「3Dプリンティング用フィラメント市場規模」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「世界の3Dプリンティング用フィラメント市場規模は、2025年には20億4589万米ドルと評価され、2026年の26億667万米ドルから2034年には181億147万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.41%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の現在の市場規模はどれくらいですか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「エポキシ市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「300mmウェハーキャリアボックス市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「PUFパネル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「物理的、化学的性質に優れたPEEK(ポリエーテルエーテルケトン)樹脂で製作されたMEX(熱溶解積層)方式3Dプリンターフィラメントです」（https://www.monotaro.com/k/store/PEEK%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vIq3cPvnPxuePxWO1ezqD7I5-IiQ9AdQbTpxJHed4BHPYrwwAnr）
+  - 「PEEK（ポリエーテルエーテルケトン）3Dプリントフィラメントは、343℃という優れた融点、卓越した耐摩耗性、そして長期静荷重下での優れたクリープ耐性により、このシリーズの中でも際立っています」（https://www.tuntunplastic.com/ja/products-category/3d-printing-filament.html）
+  - 「3DXTechの「ThermaX PEEK（ポリエーテルエーテルケトン）」は、世界で最も高性能なポリマーの1つです」（https://3dfs.idarts.co.jp/items/71470574）
+  - 「車両電動化市場規模、シェア、動向、2033年までの世界予測（MarketsandMarkets）」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「工業用CVDダイヤモンド材料の世界市場2026年、グローバル市場規模（単結晶化学気相成長ダイヤモンド、多結晶化学気相成長ダイヤモンド）・分析レポートを発表」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「航空宇宙エンジニアが、極端な温度、化学物質、機械的ストレスに耐えられる高性能ポリマーを必要とする場合、PEEK（ポリエーテルエーテルケトン）とPEI（ポリエーテルイミド、ウルテムとして知られています）の2つの材料が最有力候補となります」（https://www.ymolding.com/ja/PEEK%E3%81%A8PEI-Ultem%E3%80%81%E3%81%A9%E3%81%A1%E3%82%89%E3%81%8C%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E7%94%A8%E9%80%94%E5%90%91%E3%81%91%E3%81%AE%E9%AB%98%E6%80%A7%E8%83%BD%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC%E3%81%8B%EF%BC%9F/）
+  - 「化学的には、その分子構造はケトンと2つのエーテルから構成されています」（https://english.tpm3d.com/ja/peek-3d-printing-complete-guide/）
+  - 「ポリエーテルエーテルケトン（PEEK）とポリエーテルケトンケトン（PEKK）は、非金属3Dプリント材料の中でも、」（https://english.tpm3d.com/ja/peek-3d-printing-complete-guide/）
+  - 「Market Size, 2024」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+- 成長率：
+  - 「3Dプリンティング用フィラメント市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「世界の3Dプリンティング用フィラメント市場規模は、2025年には20億4589万米ドルと評価され、2026年の26億667万米ドルから2034年には181億147万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.41%となる見込みです」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の規模は、2026年には26億667万米ドルと評価され、2034年までに181億147万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は27.41%です」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の予測CAGRはどのくらいですか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）27.41%で成長すると予測されています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「エポキシ市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「キャストアクリルシート市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「鉱業におけるコンベヤベルト市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「300mmウェハーキャリアボックス市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「PUFパネル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「回転成形用粉末市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「重金属検査市場、2035年に71億3,012万米ドルへ拡大予測――食品安全、水質管理、環境規制の強化が市場成長を後押し、年平均成長率6.80％」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「CAGR, 2025–2033」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+  - 「By product, the carbon fiber reinforced PEKK filament segment recorded the largest market revenue share of over 44.0% in 2024 and is expected to grow at the fastest CAGR of 19.0% during the forecast period.」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+  - 「CAGR (2025-2033): 18.2%」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+- 価格：
+  - 「3Dプリンティング用フィラメント市場は、汎用性、使いやすさ、そして手頃な価格で知られるプラスチック分野が圧倒的なシェアを占めています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「公称重量:それぞれ1kg、0.5kg」（https://peekmaterials.com/ja/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-2/）
+  - 「PEEKフィラメント1kg（1.75mm）の長さはどれくらいですか？」（https://peekmaterials.com/ja/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-2/）
+  - 「1kgフィラメントを2巻まで収納可能」（https://www.enpla.sin.jp/）
+  - 「21,780円（税込）」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「10,890円（税込）」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「28,160円（税込）」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Raise3D Premium PLA フィラメント 1.75mm 1kg」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「6,380円（税込）」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Raise3D Hyper Speed PLA フィラメント 1.75mm 1kg」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「6,930円（税込）」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Raise3D Premium ABS フィラメント 1.75mm 1kg」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「14,630円（税込）」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「62,073円（税込）」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「・廃棄費0円」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+- 主要企業：
+  - 「3Dプリンティング用フィラメント市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場の規模、シェア、トレンド分析レポート：材料タイプ別（プラスチック、金属、セラミック、複合材料）、プラスチックタイプ別（ポリ乳酸（PLA）、アクリロニトリルブタジエンスチレン（ABS）、ポリエチレンテレフタレートグリコール（PETG）、アクリロニトリルスチレンアクリレート（ASA）、その他）、直径別（標準直径（1.75mm）、大径（2.85mm～3mm））、用途別（航空宇宙・防衛、自動車、医療・歯科、電子機器、その他の用途）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「北米は2025年に35.6%の市場シェアを占め、3Dプリンティング用フィラメント市場を牽引しました」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「特にCOVID-19パンデミックは、医療分野における3Dプリンティングの利用を加速させ、BASF、Stratasys、DuPontといった業界大手企業にとって、医療分野に特化したフィラメントソリューションを通じて新たな収益源を生み出しました」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場は、汎用性、使いやすさ、そして手頃な価格で知られるプラスチック分野が圧倒的なシェアを占めています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「ナイロンやPETGなどの先進的なフィラメントで知られる大手企業である」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「2025年の3Dプリンティング用フィラメント市場において、最大のシェアを占める地域はどこでしょうか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「北米は2025年時点で35.6%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「エポキシ市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「キャストアクリルシート市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「鉱業におけるコンベヤベルト市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「300mmウェハーキャリアボックス市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「PUFパネル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「回転成形用粉末市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+- 安全・規制・保管：
+  - 「最短当日回答・有効期限30日」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「http://idarts.co.jp/3dfs/data_sheet/3dxtech/ThermaX_PEEK/PEEK_SDS.pdf」（https://3dfs.idarts.co.jp/items/71470574）
+  - 「取り出し時又は保管事には取扱いに十分ご注意ください」（https://3dfs.idarts.co.jp/items/71470574）
+  - 「この記事では、材質別の特徴・用途・価格帯・保管方法を徹底比較します」（https://news.sharelab.jp/study/filament/）
+  - 「STEP4：保管上の問題がないか」（https://news.sharelab.jp/study/filament/）
+  - 「Q3. フィラメントの保管方法は？」（https://news.sharelab.jp/study/filament/）
+  - 「“name”: “フィラメントの保管方法は？”,」（https://news.sharelab.jp/study/filament/）
+  - 「“text”: “湿気を避けて密閉保管が基本です」（https://news.sharelab.jp/study/filament/）
+  - 「最短当日回答・有効期限30日」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJXgew8YHqazoX4d9JaQ8t56Jm7gHxmvCmitEUQde5yDvNPPTZH）
+  - 「乾燥と保管を両立した画期的な3Dプリントフィラメントドライヤー」（https://www.poly-maker.jp/）
+  - 「テクニカル・データ・シート（TDS）および製品安全データ・シート（MSDS）は、各材料について入手可能です」（https://bigrep.com/ja/filaments/）
+  - 「To process materials like PEEK, PEKK, and other PAEK polymers, the extruder must reach temperatures in the range of 350 to 450°C. These polymers do not flow correctly at lower temperatures, and insufficient melt energy leads to poor layer adhesion, warping, and incomplete crystallization.」（https://bigrep.com/posts/high-temperature-polymers-3d-printing-peek-pekk/）
+  - 「Material selection and printing conditions determine whether a part reaches its full mechanical potential. Engineers who match the right high-temperature polymer with the correct print strategy can unlock new opportunities in lightweighting, tooling, and production applications.」（https://bigrep.com/posts/high-temperature-polymers-3d-printing-peek-pekk/）
+  - 「The global polyetherketoneketone filaments market is expected to grow at a CAGR of 18.2% from 2025 to 2033, reaching USD 961.2 million by 2033.」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+- 品質・証明：
+  - 「第二に、小ロット製品の生産需要に対して、生産のために金型を個別に製造する必要がなくなり、コストが大幅に節約されます」（https://www.plastic-material.com/ja/3d-filaments.html）
+  - 「産業生産における積層造形の利用拡大は、認証取得済みでトレーサビリティを確保したフィラメント材料のサプライヤーにビジネス機会をもたらしています」（https://japan.zdnet.com/release/31221703/）
+  - 「医療・歯科メーカーは、信頼性の高い材料トレーサビリティと製造プロセスの一貫性も求めており、専門フィラメントサプライヤーにビジネス機会が生まれています」（https://japan.zdnet.com/release/31221703/）
+  - 「エンジニアリングポリマーや複合材料フィラメントは、信頼性の高い機械的性能とトレーサビリティを備えた材料を開発するサプライヤーにビジネス機会をもたらしています」（https://japan.zdnet.com/release/31221703/）
+  - 「- リサイクルと材料トレーサビリティ： リサイクルフィラメントには、原料品質の一貫性と効果的な材料処理が求められます」（https://japan.zdnet.com/release/31221703/）
+  - 「試作から機能部品の製造への移行は、材料の信頼性、トレーサビリティ、用途に応じた性能の重要性を高めるため、特に重要です」（https://japan.zdnet.com/release/31221703/）
+  - 「熱可塑性樹脂、融点343℃、UL認定の長期使用温度260℃」（https://peekmaterials.com/ja/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-2/）
+  - 「流動性が高く、印刷が容易」（https://www.tuntunplastic.com/ja/products-category/3d-printing-filament.html）
+  - 「以下に示す引張強度データは、 各材料サプライヤーから独立して提供され、第三者認定試験所によって検証されたものです」（https://orion-am.com/ja/advanced-materials）
+  - 「産業生産における積層造形の利用拡大は、認証取得済みでトレーサビリティを確保したフィラメント材料のサプライヤーにビジネス機会をもたらしています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「医療・歯科メーカーは、信頼性の高い材料トレーサビリティと製造プロセスの一貫性も求めており、専門フィラメントサプライヤーにビジネス機会が生まれています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「エンジニアリングポリマーや複合材料フィラメントは、信頼性の高い機械的性能とトレーサビリティを備えた材料を開発するサプライヤーにビジネス機会をもたらしています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「- リサイクルと材料トレーサビリティ： リサイクルフィラメントには、原料品質の一貫性と効果的な材料処理が求められます」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「試作から機能部品の製造への移行は、材料の信頼性、トレーサビリティ、用途に応じた性能の重要性を高めるため、特に重要です」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「シミュレーションと小ロット試作で条件を詰める」（https://news.sharelab.jp/study/filament/）
+- 装置縛り・オープン材料：
+  - 「（注：このアニール処理方法はCreatBot製PEEKプリンタとフィラメント専用です」（https://www.creatbot.com/ja/peek-high-performance-materials/）
+  - 「この標準サイズは、ほとんどのデスクトップ型および産業用3Dプリンターと互換性があります」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「これらの材料は、寸法精度、耐久性、および同社の最新FDMプリンタープラットフォームとの互換性を向上させます」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「- プリンターとの互換性： プリンターの構成、ノズル温度、押出システムの違いが、材料の性能に影響を与える可能性があります」（https://japan.zdnet.com/release/31221703/）
+  - 「3Dプリンター専用」（https://www.monotaro.com/k/store/PEEK%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vIq3cPvnPxuePxWO1ezqD7I5-IiQ9AdQbTpxJHed4BHPYrwwAnr）
+  - 「Raise3D純正プレミアムPLAフィラメント(白)(1000g)」（https://www.monotaro.com/k/store/PEEK%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vIq3cPvnPxuePxWO1ezqD7I5-IiQ9AdQbTpxJHed4BHPYrwwAnr）
+  - 「対応温度はノズル500℃、ベッド200℃、チャンバー100℃となっており、またオープンフィラメントシステムにより多種多様な素材が使用可能です」（https://www.enpla.sin.jp/）
+  - 「またPEEKなどの高温材料でも使用可能なブレカブルまたは水溶性のサポート専用材を用意しています」（https://www.enpla.sin.jp/）
+  - 「またスマートデュアルノズルシステムを採用し水溶性のサポート専用材を使った複雑な造形も可能としています」（https://www.enpla.sin.jp/）
+  - 「Formlabs Tough 2000 レジン V2 Form 4 専用 1L」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Formlabs クリアレジン V5 Form 4 専用 1L」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Raise3D専用」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Form4専用レジン」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Form3/Form2専用レジン」（https://i-maker.jp/ic/super-engineering-filament?srsltid=AYCX9vJtM2x11Q8vq2Y_6S2ojX4gRgeV6DdJk3AYkac1v99pcgxrA2Rs）
+  - 「Stratasys（Stratasys 互換）」（https://3dfs.idarts.co.jp/items/71470574）
+- 売り方・商流：
+  - 「ポリマーメーカー、3Dプリンティング材料サプライヤー、装置メーカー、販売代理店、投資家にとって、3Dプリンティング用フィラメント市場は、汎用材料、エンジニアリングポリマー、複合材料フィラメント、リサイクル材料、用途特化型ソリューションの各分野でビジネス機会を提供しています」（https://japan.zdnet.com/release/31221703/）
+  - 「- 3Dプリンティング専門販売代理店」（https://japan.zdnet.com/release/31221703/）
+  - 「- 相手先ブランド製造業者（OEM）との提携」（https://japan.zdnet.com/release/31221703/）
+  - 「積層造形の導入が拡大するにつれ、販売代理店は、エンジニアリング企業、教育機関、産業ユーザー、プロ向けプリンティングサービス事業者に向けた専門的な製品ポートフォリオを構築できます」（https://japan.zdnet.com/release/31221703/）
+  - 「KD Market Insightsの3Dプリンティング用フィラメント市場レポートは、フィラメントメーカー、ポリマーサプライヤー、積層造形企業、販売代理店、投資家が、業界の商業環境を理解するために作成されています」（https://japan.zdnet.com/release/31221703/）
+  - 「販売代理店にとっては、ユーザー基盤の拡大に伴い、専門材料、技術支援、安定供給への需要が高まっています」（https://japan.zdnet.com/release/31221703/）
+  - 「Amazon Payは、Amazonアカウントに登録された配送先住所とお支払い方法を利用して、簡単・便利にお買いものができる決済サービスです」（https://3dfs.idarts.co.jp/items/71470574）
+  - 「ポリマーメーカー、3Dプリンティング材料サプライヤー、装置メーカー、販売代理店、投資家にとって、3Dプリンティング用フィラメント市場は、汎用材料、エンジニアリングポリマー、複合材料フィラメント、リサイクル材料、用途特化型ソリューションの各分野でビジネス機会を提供しています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「- 3Dプリンティング専門販売代理店」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「- 相手先ブランド製造業者（OEM）との提携」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「積層造形の導入が拡大するにつれ、販売代理店は、エンジニアリング企業、教育機関、産業ユーザー、プロ向けプリンティングサービス事業者に向けた専門的な製品ポートフォリオを構築できます」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「KD Market Insightsの3Dプリンティング用フィラメント市場レポートは、フィラメントメーカー、ポリマーサプライヤー、積層造形企業、販売代理店、投資家が、業界の商業環境を理解するために作成されています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「販売代理店にとっては、ユーザー基盤の拡大に伴い、専門材料、技術支援、安定供給への需要が高まっています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「ご自身で利用する3Dプリンターを分解してメンテナンスできる場合は、多少のスペック違いでもトライする価値はありますが、その時間がかけられない場合や、機構が複雑で故障を自分で修理できない場合は、メーカーが保証する材料や、販売店の推奨製品を利用する必要があります」（https://news.sharelab.jp/study/filament/）
+  - 「メーカーや販売店主催のセミナーの後にユーザー交流会が企画される場合もありますので、そういった場で生の情報を得ることも重要になってきます」（https://news.sharelab.jp/study/filament/）
+- 技術支援：
+  - 「この新製品シリーズは、高い印刷品質と性能を維持しながら、環境に配慮した積層造形をサポートします」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「- 技術サポート要件： 産業分野の顧客は、用途に関するガイダンス、材料データシート、トラブルシューティング支援を必要とすることが多くあります」（https://japan.zdnet.com/release/31221703/）
+  - 「販売代理店にとっては、ユーザー基盤の拡大に伴い、専門材料、技術支援、安定供給への需要が高まっています」（https://japan.zdnet.com/release/31221703/）
+  - 「ポリマーに関する専門知識、安定した製造品質、技術サポート、顧客ニーズを重視した製品開発を組み合わせる企業は、世界の3Dプリンティング用フィラメントのバリューチェーンにおける競争力を強化できます」（https://japan.zdnet.com/release/31221703/）
+  - 「注意: 低い送り速度から始めて徐々に上げ、安定した押し出しと印刷品質を確保しながら最適なパラメータを見つけてください」（https://peekmaterials.com/ja/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-2/）
+  - 「PEEK 3Dプリンターフィラメントキーパラメータ」（https://peekmaterials.com/ja/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0/%E3%83%94%E3%83%BC%E3%82%AF%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-2/）
+  - 「またPEEKなどの高温材料でも使用可能なブレカブルまたは水溶性のサポート専用材を用意しています」（https://www.enpla.sin.jp/）
+  - 「またスマートデュアルノズルシステムを採用し水溶性のサポート専用材を使った複雑な造形も可能としています」（https://www.enpla.sin.jp/）
+  - 「2ヘッドのため除去が簡単な「サポート材」が使用可能」（https://www.enpla.sin.jp/）
+  - 「サポート材は「PVA（水溶性）」「Hips（リモネンで溶解）」スーパーエンプラ用サポート材「SP5000」など各種使用可能」（https://www.enpla.sin.jp/）
+  - 「- 技術サポート要件： 産業分野の顧客は、用途に関するガイダンス、材料データシート、トラブルシューティング支援を必要とすることが多くあります」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「販売代理店にとっては、ユーザー基盤の拡大に伴い、専門材料、技術支援、安定供給への需要が高まっています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「ポリマーに関する専門知識、安定した製造品質、技術サポート、顧客ニーズを重視した製品開発を組み合わせる企業は、世界の3Dプリンティング用フィラメントのバリューチェーンにおける競争力を強化できます」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「まずSimplyPrintのアカウントで最も使用されているものを表示し、次にオンラインで購入でき、スライサープロファイルがあるものを表示します」（https://simplyprint.io/ja/filaments/materials/high-temp）
+  - 「2026年12月29日（火）～ 2027年1月3日（日）は、配送業務およびサポート業務をお休みさせていただきます」（https://www.poly-maker.jp/）
+- コモディティ化：
+  - 「3Dプリンティング用フィラメント市場は、汎用性、使いやすさ、そして手頃な価格で知られるプラスチック分野が圧倒的なシェアを占めています」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「ポリマーメーカー、3Dプリンティング材料サプライヤー、装置メーカー、販売代理店、投資家にとって、3Dプリンティング用フィラメント市場は、汎用材料、エンジニアリングポリマー、複合材料フィラメント、リサイクル材料、用途特化型ソリューションの各分野でビジネス機会を提供しています」（https://japan.zdnet.com/release/31221703/）
+  - 「- PETGフィラメント： 耐薬品性と実用的な印刷特性を備え、機能性製品に適した強度と汎用性を持つフィラメント」（https://japan.zdnet.com/release/31221703/）
+  - 「HPフィラメントは汎用のFDM方式3Dプリンターで使用できる、メーカー独自配合により作成された軟質フィラメントです」（https://www.monotaro.com/k/store/PEEK%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vIq3cPvnPxuePxWO1ezqD7I5-IiQ9AdQbTpxJHed4BHPYrwwAnr）
+  - 「FUNMAT HTは低価格でありながらノズル温度を」（https://www.enpla.sin.jp/）
+  - 「・ULTEM™ 1010より印刷しやすく、汎用性が高い」（https://fusiontechnology.co.jp/column/221109-2/）
+  - 「ポリマーメーカー、3Dプリンティング材料サプライヤー、装置メーカー、販売代理店、投資家にとって、3Dプリンティング用フィラメント市場は、汎用材料、エンジニアリングポリマー、複合材料フィラメント、リサイクル材料、用途特化型ソリューションの各分野でビジネス機会を提供しています」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「- PETGフィラメント： 耐薬品性と実用的な印刷特性を備え、機能性製品に適した強度と汎用性を持つフィラメント」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1232273.html）
+  - 「コストパフォーマンスがよく、低い温度でも造形できるため多くの3Dプリンターで利用されている汎用材料です」（https://news.sharelab.jp/study/filament/）
+  - 「材料価格が汎用的な樹脂材料よりも高額で、利用できる装置も限られますが強度面で大きなアドバンテージを持つ材料です」（https://news.sharelab.jp/study/filament/）
+  - 「ウルテムは、その独自の特性により、様々な分野でその汎用性を発揮します」（https://peekmaterials.com/ja/%E3%82%A6%E3%83%AB%E3%83%86%E3%83%A0-vs-%E3%83%94%E3%83%BC%E3%82%AF/）
+  - 「ウルテムは、低価格でありながら優れた機械的強度と寸法安定性を備えているため、究極の性能が求められない用途には魅力的です」（https://peekmaterials.com/ja/%E3%82%A6%E3%83%AB%E3%83%86%E3%83%A0-vs-%E3%83%94%E3%83%BC%E3%82%AF/）
+  - 「しかし、低価格で高性能が求められる場合には、Ultemが最適な特性の組み合わせを提供し、推奨されます」（https://peekmaterials.com/ja/%E3%82%A6%E3%83%AB%E3%83%86%E3%83%A0-vs-%E3%83%94%E3%83%BC%E3%82%AF/）
+  - 「Materials such as PEEK and PEKK deliver tensile and flexural strength that far exceeds commodity plastics. This level of stiffness and load capacity enables them to replace aluminium in brackets, fixtures, and structural components.」（https://bigrep.com/posts/high-temperature-polymers-3d-printing-peek-pekk/）
+  - 「Signal - Commodity Pricing」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+- 繰り返し性：
+  - 「For report inquiries, custom research, subscriptions and other market intelligence requirements.」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+- 日本：
+  - 「これは主に、中国や日本などの国々における製造業の急成長と3Dプリンティング技術への投資増加によるものです」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「日本は、医療や歯科用途に不可欠な生体適合性フィラメントの開発において目覚ましい進歩を遂げている」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「2023年2月、日本の研究者たちは、オーダーメイドの義肢や医療機器向けの新しい生体適合性フィラメントを開発し、革新的な3Dプリンティングソリューションを通じて医療技術の発展を目指す日本の姿勢を示した」（https://straitsresearch.com/jp/report/3d-printing-filament-market）
+  - 「3Dプリンティング用フィラメント市場：先端材料、産業用積層造形、高性能3Dプリンティングソリューションにおけるビジネス機会 - ZDNET Japan」（https://japan.zdnet.com/release/31221703/）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31221703/）
+  - 「日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始」（https://japan.zdnet.com/release/31221703/）
+  - 「セキュリティ予算は増加、被害は深刻化──国内調査が提示する「投資の質」への転換」（https://japan.zdnet.com/release/31221703/）
+  - 「「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題」（https://japan.zdnet.com/release/31221703/）
+  - 「ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します」（https://japan.zdnet.com/release/31221703/）
+  - 「またせっかく特性を把握している材料でも、日本のように高温多湿な環境の場合、湿度を吸ってフィラメントの特性が変化してしまう場合があります」（https://news.sharelab.jp/study/filament/）
+  - 「Polymaker社製3Dプリンターフィラメント日本総代理店」（https://www.poly-maker.jp/）
+  - 「グーテンベルクの3Dプリンターフィラメント | 国内設計/製造の3Dプリンター開発ベンチャー企業『株式会社グーテンベルク（GUTENBERG）』」（https://gutenberg.co.jp/products/poticon-peek）
+  - 「U.S.; Canada; Mexico; Germany; UK; France; Spain; Italy; China; India; Japan; Australia; South Korea; Brazil; Argentina; Saudi Arabia; UAE; South Africa」（https://www.grandviewresearch.com/industry-analysis/polyetherketoneketone-pekk-filaments-market-report）
+
+## 脱脂焼結型の金属含有フィラメント（MEX・BMD）（metal filament debinding sintering bound metal market）
+- 文脈：フィラメント・金属
+- 市場規模：
+  - 「金属AM部品市場が2031年までに750億ドルに到達」（https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属AM部品市場が2031年までに750億ドルに到達」（https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO）
+  - 「Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「. The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「The metal filament market underscores this growth, projected at $3.82 billion by recent estimates, with metal 3D printing reaching $11.18 billion in 2026. This surge reflects desktop accessibility driving adoption.」（https://thevirtualfoundry.com/metal-infused-filament-3d-printing/）
+  - 「Metal additive manufacturing is entering a scaling phase, with analyses indicating roughly 25 percent annual growth. Recent data values the sector near 9.3 billion dollars in 2024 and 11.7 billion in 2025 at 26.2 percent CAGR, with a forecast of 29.4 billion by 2029 around 25.9 percent CAGR, see」（https://thevirtualfoundry.com/fdm-meaning-3d-printing/）
+- 成長率：
+  - 「Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「. The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「Metal additive manufacturing is entering a scaling phase, with analyses indicating roughly 25 percent annual growth. Recent data values the sector near 9.3 billion dollars in 2024 and 11.7 billion in 2025 at 26.2 percent CAGR, with a forecast of 29.4 billion by 2029 around 25.9 percent CAGR, see」（https://thevirtualfoundry.com/fdm-meaning-3d-printing/）
+- 価格：
+  - 「【2025】低価格3Dスキャナー比較」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「A. レーザー方式の金属3Dプリンタが数千万後半円規模であるのに対し、金属・セラミックスFFFプリンタは数百万円～数千万前半から導入可能です」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「A. 個人で3Dプリントまでであれば低価格帯の3Dプリンターでも難なく可能ですが、脱脂焼結まではさすがに厳しいと思います」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「思い返せば、10年ほど前に低価格帯の樹脂3Dプリンターが登場した当初も、「精度が出ないから実用にはならない」と多くの人が指摘していました」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「低価格3Dスキャナー」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「3Dプリンター用TPUフィラメントの特性・販売先・価格を解説」（https://www.hotty.co.jp/columns/metal-filament-3dprinter/）
+  - 「3Dプリンタ用材料専門ショップ『3DFS』では、世界中から選りすぐりの3Dプリンタ用材料をお手頃な価格で販売しています」（https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN）
+  - 「価格は約20万円からとなっています」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「価格は約89,000円と手頃で、代理店が脱脂・焼結の後処理をサポートしてくれるのも魅力です」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「価格は約83,000円となっています」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「この記事では、金属3Dプリンターの価格・方式・メリット・デメリット・活用事例を徹底解説します」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「結果的に金属3Dプリンターは、樹脂3Dプリンターに比べて高価な装備が求められ、その分、装置価格が高額になる傾向があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+- 主要企業：
+  - 「However, they are not plug-and-play for this use case. You need hardened steel or tungsten carbide nozzles to handle abrasion. More importantly, dimensional accuracy at this stage is misleading. A printed “316L part” is not actually 316L yet. It is a polymer-metal composite that will shrink significantly during sintering, typically in the range of 15–20%, depending on the system.」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「多分、グルドンで最もシェアが高いと思われる、Ender-3 V2の詳細なレビュー」（https://note.com/mazzo/n/na6ba792d8a49）
+- 安全・規制・保管：
+  - 「焼結工程では真空・不活性ガス・還元ガスなどの制御が必要になりますが、それによって」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「1. フィラメントの保管」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「フィラメントは密閉容器や乾燥剤と一緒に保管し、湿気の少ない環境を維持することが重要です」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「: 金属フィラメントは湿気を吸収しやすいため、使用しないときは密閉容器に乾燥剤と一緒に保管しましょう」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「レーザーやビームといった温度の高い熱源を利用するほか、造形庫内を不活性ガスで充填しているなど場合もあるため、冷却やガス交換のための付帯設備が必要になる場合もあります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「メーカーによっては装置自体で対策を行っている場合もありますが、防塵防爆設備をそなえた環境での使用が望ましいでしょう」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「The metal filament market underscores this growth, projected at $3.82 billion by recent estimates, with metal 3D printing reaching $11.18 billion in 2026. This surge reflects desktop accessibility driving adoption.」（https://thevirtualfoundry.com/metal-infused-filament-3d-printing/）
+  - 「A desktop kiln under $1000, like programmable models reaching 1300°C, is crucial for debinding and sintering to achieve 80-95% dense metal parts. Bury green prints in alumina powder, ramp to 482°C for debinding, then sinter at alloy-specific temperatures with 5-20% shrinkage compensation in your designs. This in-house process slashes costs by 50-80% versus services.」（https://thevirtualfoundry.com/metal-infused-filament-3d-printing/）
+  - 「Performance Limits: DIY parts often suffer from high porosity and unpredictable 15-20% shrinkage, unlike industrial SLM/BJ which reaches 99%+ density.」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「stable atmosphere control using inert or reducing gases such as argon or hydrogen」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「potentially hazardous off-gassing depending on material type」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「gas supply systems for inert or reducing atmospheres」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「safe storage and handling areas for materials and equipment」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「Green parts are weak due to binder content, and even after sintering at home they often contain porosity. In contrast, SLM-produced parts reach near-full density, giving significantly higher strength and reliability.」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+- 品質・証明：
+  - 「特に「少数ロットで必要な特殊治具」を短納期で作れる点は現場改善に直結します」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「ものづくりや物流の流動性が高まる昨今、金属3Dプリンターの需要は益々高まっていると言えるでしょう」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「前項でご紹介した後者のフィラメントをピックアップすると、具体的には「焼くことによって完全な金属素材にすることができる」「複雑な形状にも対応できる」「試作品や小ロットを短期納品できる」といったことが挙げられるので、各々詳しく解説します」（https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X）
+  - 「このメリットは金属フィラメントに限った話ではありませんが、金属フィラメントと3Dプリンターの組み合わせで試作品や小ロット品を短時間で製造できます」（https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X）
+  - 「金属フィラメントでの造形は、あくまでも「小ロット」のものを短期納品できるものです」（https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X）
+  - 「If there is a lot of wiggle room in the box, either use extra bubble wrap or throw in packing foam to reduce as much movement as possible.」（https://www.matterhackers.com/articles/how-to-prepare-metal-3d-printed-basf-ultrafuse-17-4-ph-parts-for-debinding-and-sintering?srsltid=AYCX9vJUm09f-9VhLKQwnuloh2ZQBMaTJz2QWf_6-_D_hGdEJqlIxIQs）
+  - 「• Finally, a sintering process at temperatures right below the melting temperature of the metal removes the secondary binder from the brown part and causes the metal particles to coalesce. The material reaches its final properties post-sintering regarding hardness and strength.」（https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/）
+  - 「The resulting metal part can then be further processed with traditional manufacturing techniques such as machining, polishing, or coating.」（https://shop3duniverse.com/collections/basf-ultrafuse-metal?srsltid=AYCX9vKOK1FoED-pjcCLWSGeg242CYGrp_MI3TaKKZBtkdEmgK2ESYFQ）
+- 装置縛り・オープン材料：
+  - 「各メーカーは専用ソフトや補正係数を提供しているのでその値にモデルを拡大すると設計データと近しい寸法で出力できます」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「ソフトウェア（Eiger）による自動収縮補正機能や専用の脱脂、焼結、造形テンプレート値が備えられているため、特に詳しい知識がなくても、指示に従って焼結までを行えばパーツが作成できるという専用システムならではの強みがあり、失敗も少ないです」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「専用機はこの辺も工夫されているので比較的安定した密度での作成ができる傾向があります」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「Q3. 脱脂と焼結は必ず専用の脱脂焼結炉が必要ですか？」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「A. 小型部品なら市販の管状炉や真空炉でも対応可能ですが、均一な品質や再現性を確保するには専用やメーカー推奨の脱脂炉・焼結炉を備えたシステムが望ましいです」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「尚、こちらのお問合せは、法人専用となっております」（https://www.hotty.co.jp/columns/metal-filament-3dprinter/）
+  - 「これらのプロセスは専用の設備が必要であり、家庭で行うのは難しい場合があります」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「また製造ラインの一部として3Dプリンターの技術要素を取り入れた専用装置を組み込んだ専用生産ラインも登場しはじめたところです」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「そのため3Dプリンターで生産するための最適な設計DfAM（Design for Additive Manufacturing：3Dプリンターならでは設計）への知見や、専用材料の評価基準、造形後の部品の品質評価方法などが確立されていません」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属粉末を専用のバインダー材で固めながら造形する方式」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「LEGOでコマツの建機ジオラマを制作 専用3D CADで配置や地形を検討」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「鋳造・鍛造プロセスでは、一つの製品を作るために専用の金型を用意しなければなりません」（https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X）
+  - 「Filamet works seamlessly on open-architecture FDM printers like Prusa MK3S or Creality Ender series. Direct-drive extruders minimize jams, and a simple nozzle upgrade suffices. No proprietary systems required, lowering barriers for hobbyists and manufacturers alike.」（https://thevirtualfoundry.com/metal-infused-filament-3d-printing/）
+  - 「In this guide, you have unlocked the essentials of metal infused filament 3D printing. Key takeaways include selecting the ideal filament like stainless steel or bronze infused PLA, optimizing printer settings for dense and flawless prints, mastering simple post-processing techniques for a genuine metal sheen, and navigating common pitfalls with safety-first troubleshooting.」（https://thevirtualfoundry.com/metal-infused-filament-3d-printing/）
+- 売り方・商流：
+  - 「メタル（金属）フィラメント | BASF社製3Dプリンターフィラメント日本総代理店」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「【本音レビュー】3DMakerpro Raven MAX RTKを実際に評価｜メリット・デメリットを正直に正規販売代理店が解説」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「価格は約89,000円と手頃で、代理店が脱脂・焼結の後処理をサポートしてくれるのも魅力です」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「APPLE TREEは2020年7月31日、同社が日本総代理店を務めるFLASHFORGE（フラッシュフォージ）のデスクトップ型FDM（熱溶解積層）方式3Dプリンタ「」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「FLASHFORGEと同社の日本総代理店であるApple Treeは「TCT Japan 2020」に出展し、金属フィラメントに対応したデスクトップタイプのFDM（熱溶解積層）方式3Dプリンタ「Adventurer3X」の展示デモを披露した」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社」（https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X）
+- 技術支援：
+  - 「3Dプリンターユーザーがまず疑問に思うのは「サポートはどうするのか？」という点です」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「サポートはなるべく不要になるように設計すること」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「しかし、どうしてもサポートが必要な場合には、以下のような対応方法があります」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「焼結後は同一材同士が完全に一体化してしまうため、サポートと本体を分離することが困難です」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「そのため実際には、陶器のように壊れやすいセラミックス材をサポートとして金属部品の間に挟み込みます」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「焼結完了後にハンマーなどで叩くことで、金属部品とセラミックスサポートを分離できます」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「一般的には造形時にサポートを付け、脱脂後で脆くなった段階で取り外し、その後に焼結を行う方法だったり、」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「樹脂等のサポート材をつけて脱脂や焼結時に除去などもあります」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「ただし、焼結時に対象物のクラックや破損、発生するガスの量など炉に与えるリスクがあるため、やはりサポートを前提とした設計は避けるのが無難です」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「機械加工ができる場合は焼結まで同一サポートで行いサポートの除去を行います」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「また、この形状では3Dプリンターでもサポート不要で造形や脱脂焼結時にも成功しやすい形状となっています」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「Seed3Dのサポート体制」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「3Dスキャナーの販売・運用サポート」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「スキャンから金属3Dプリント用のデータ作成、造形、脱脂・焼結条件の最適化までをサポート」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「また、本体は最新のタッチスクリーンインターフェースを備え、デスクトップメタル3Dプリンタ材料用のパラメータがあらかじめプログラムされている」（https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN）
+- コモディティ化：
+  - 「【2025】低価格3Dスキャナー比較」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「通常の造形自体は簡単にでき、低価格帯のプリンターでも問題なく造形はできます」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「A. 個人で3Dプリントまでであれば低価格帯の3Dプリンターでも難なく可能ですが、脱脂焼結まではさすがに厳しいと思います」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「思い返せば、10年ほど前に低価格帯の樹脂3Dプリンターが登場した当初も、「精度が出ないから実用にはならない」と多くの人が指摘していました」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「低価格3Dスキャナー」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「PLA、ABS、PETG、ナイロンなどの汎用プラスチック樹脂をベースに、微細な金属粉末（銅、真鍮、ステンレス鋼、鉄、アルミニウムなど）を配合して作られています」（https://www.hotty.co.jp/columns/metal-filament-3dprinter/）
+  - 「High Hidden Costs: While metal 3d printers for home are cheap, the specialized furnaces required for sintering cost $10,000–$30,000 and carry significant safety risks.」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「Q2:What is the cheapest way to get metal 3D printed parts?」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「Raise3D MetalFuse-produced parts with Ultrafuse® Metal Filaments are in general 1.4 to 2 times cheaper than most metal powders; also, the solution requires less investment in hardware.」（https://www.raise3d.com/news/raise3d-launches-metalfuse-a-3d-printing-full-in-house-solution-using-ultrafuse-metal-filaments-from-basf-forward-am-which-allows-small-batch-production-of-metal-parts-with-full-design-freed/）
+- 繰り返し性：
+  - 「適切な温度設定、高品質のフィラメント使用、定期的なメンテナンスが重要です」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+  - 「ノズルを定期的にクリーニングし、詰まりを防ぎましょう」（https://note.com/skhonpo/n/ncdb035a5a4c9）
+- 日本：
+  - 「メタル（金属）フィラメント | BASF社製3Dプリンターフィラメント日本総代理店」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「3Dプリンター導入事例 | Markforged最新素材ーー銅の特性と用途 | 日本3Dプリンター株式会社」（https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F）
+  - 「国内最大の情報量を誇る3Dプリント＆テクノロジー専門メディア 3DP id.arts」（https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vLj3JCsJ2Cdq1Wefh0lC7bMb7gf_-RbxUHf9WmMZ2QCtHX5h1iN）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「「寸法精度」と「再現性」を高い水準で実現する日本の品質基準は3Dプリンターの利用を検討する際の大きな検討課題です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「また「なぜ？なに？」をどんどん掘り下げる日本の製造現場のカイゼン圧力に対して、理論的な部分から適切に回答できる知見が育っていないという点も課題として挙がってくるでしょう」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「焼結炉運用のノウハウを持っている日本企業にとっては大きな可能性がある分野です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「WAAM方式などと呼ばれており、国内では三菱電機が取り組んでいます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「国内最大の情報量を誇る3Dプリント＆テクノロジー専門メディア 3DP id.arts」（https://idarts.co.jp/3dp/desktop-metal-puresinter/?srsltid=AYCX9vKLxqEbUGGrc3jii9tl2tvVZ7_LN-htbE5ItBTKNeezz4MqZ0GO）
+  - 「APPLE TREEは2020年7月31日、同社が日本総代理店を務めるFLASHFORGE（フラッシュフォージ）のデスクトップ型FDM（熱溶解積層）方式3Dプリンタ「」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「Adventurer3Xは、従来機種「Adventurer3」の“日本限定モデル”として販売開始された3Dプリンタで、金属フィラメントに対応する他、カーボンファイバー製プラットフォーム、0.3mm小径ノズル、排気フィルターなどを標準搭載する」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「金属フィラメントに対応した3Dプリンタの“日本限定モデル”が10万円以下で」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「FLASHFORGEと同社の日本総代理店であるApple Treeは「TCT Japan 2020」に出展し、金属フィラメントに対応したデスクトップタイプのFDM（熱溶解積層）方式3Dプリンタ「Adventurer3X」の展示デモを披露した」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「パナソニックのドラム式洗濯機64万台超リコール、国内で6件の発煙／発火事故」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「Forward AM社製3Dプリンターフィラメント【日本総代理店】日本3Dプリンター株式会社」（https://ultrafusefff.jp/blogs/column/7?srsltid=AYCX9vJQxlof3_Rl4CezP-Uu6vxhsFEjQoqTNwH_86hOGftSQW7gNl_X）
+- 検索結果の抜粋：
+  - 「金属フィラメント の販売と 脱脂 ・ 焼結 サービスの提供を開始 — 金属フィラメント の販売と 脱脂 ・ 焼結 サービスの提供を開始 MONOist https://monoist.itmedia.co.jp > ... > 3Dプリンタニュース」（https://monoist.itmedia.co.jp/mn/articles/2008/18/news013.html）
+  - 「BASF officially launches Ultrafuse 316L bound metal filament — BASF officially launches Ultrafuse 316L bound metal filament VoxelMatters https://www.voxelmatters.com > ultra...」（https://www.voxelmatters.com/ultrafuse-316l-bound-metal-filament/）
+  - 「Ultrafuse® 316L User Guidelines - Forward AM — Ultrafuse® 316L User Guidelines - Forward AM Forward AM PDF https://forward-am.com > uploads > 2021/04 > User...」（https://forward-am.com/wp-content/uploads/2021/04/UserGuidelines_2021_03_29.pdf）
+  - 「Metal 3D Printing with BASF Ultrafuse® 316L - 3D Universe — Metal 3D Printing with BASF Ultrafuse® 316L - 3D Universe shop3duniverse.com https://shop3duniverse.com > blogs」（https://shop3duniverse.com/blogs/3d-printing-materials/metal-3d-printing-with-basf-ultrafuse-316l?srsltid=AYCX9vLkAWDI5eDszbLFdV7tKAHWMfq04h9o9gy5y354nv88hzBlkJRg）
+
+## 脱脂・焼結の受託サービス（金属フィラメント・バインダージェット向け）（debinding and sintering service metal 3D printing）
+- 文脈：フィラメント・後工程
+- 市場規模：
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：JMAR、2021年）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンターの価格は方式やクラスによって数十万円から1億円超まで大きく幅があり、さらに設置環境や後処理の費用も見落とせません」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「1億円を超える」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「数千万円〜1億円超」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「数千万〜1億円超」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「一方、必要なときに必要な数だけ作りたい、まずは金属造形の効果を試したいという段階では、数千万〜1億円超の設備投資をせずに部品単位で利用できる受託造形サービスが現実的です」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「金属3Dプリンターの価格は、エントリークラスの約10万円台から産業用ハイエンドの1億円超まで、方式・クラスによって大きく異なります」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「. The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+- 成長率：
+  - 「目次 （1）はじめに （2）DEDとPBFの成長率 （3）DEDとPBFの成熟度 （4）DEDの同義...」（https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html）
+  - 「Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「. The United States generated USD 1.61 billion in 2023, with forecasts to USD 6.56 billion by 2030 at a 22.2% CAGR, reflecting increased adoption in regulated industries and defense supply chains」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+- 価格：
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較 | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「価格帯はPBF方式で3,000万円〜、DED方式で3,000万円以上、金属フィラメント方式なら数十万円から導入可能です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「この記事では、金属3Dプリンターの価格・方式・メリット・デメリット・活用事例を徹底解説します」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「結果的に金属3Dプリンターは、樹脂3Dプリンターに比べて高価な装備が求められ、その分、装置価格が高額になる傾向があります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「＞＞製造業界への実用化が進む金属3Dプリンター、2,500億円に成長見込み」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円～」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「3,000万円以上」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属3Dプリンター自体、レーザーなどの高額な部品を利用するため、装置価格が数千万円以上するケースも多く、まだ手軽に手を出せる装置ではないため、設計する側も、造形する側も試行錯誤をしながら取り組んでいるという反面、す早い段階から受託造形に取り組んでいる一部のサービスビューロはノウハウを蓄積し、世界的に知名度を上げているケースもあります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「ADAMにより、いままでの金属3Dプリンタのように防爆設備が必要ないため、設備費用が圧倒的に低価格な上に安全で手軽に造形できます」（https://www.fasotec.co.jp/product/metal-x）
+  - 「Sinter-1は、Metal Xでプリントしたグリーンパーツを脱脂後、焼結し最終的な高密度の金属パーツに仕上げるための低価格でハイパフォーマンスな炉です」（https://www.fasotec.co.jp/product/metal-x）
+  - 「金属3Dプリンターの価格は？本体価格・導入費用の相場を解説 ｜ SOLIZEオンライン3Dプリント出力サービス」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「金属3Dプリンターの価格は？本体価格・導入費用の相場を解説」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「金属3Dプリンターの価格は方式やクラスによって数十万円から1億円超まで大きく幅があり、さらに設置環境や後処理の費用も見落とせません」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+- 主要企業：
+  - 「However, they are not plug-and-play for this use case. You need hardened steel or tungsten carbide nozzles to handle abrasion. More importantly, dimensional accuracy at this stage is misleading. A printed “316L part” is not actually 316L yet. It is a polymer-metal composite that will shrink significantly during sintering, typically in the range of 15–20%, depending on the system.」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+- 安全・規制・保管：
+  - 「レーザーやビームといった温度の高い熱源を利用するほか、造形庫内を不活性ガスで充填しているなど場合もあるため、冷却やガス交換のための付帯設備が必要になる場合もあります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「メーカーによっては装置自体で対策を行っている場合もありますが、防塵防爆設備をそなえた環境での使用が望ましいでしょう」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「ADAMにより、いままでの金属3Dプリンタのように防爆設備が必要ないため、設備費用が圧倒的に低価格な上に安全で手軽に造形できます」（https://www.fasotec.co.jp/product/metal-x）
+  - 「3.金属粉末を使用しないので、防爆等の付帯設備も不要」（https://www.fasotec.co.jp/product/metal-x）
+  - 「従来の金属3Dプリンタのように防爆設備が必要ないため、安全です」（https://www.fasotec.co.jp/product/metal-x）
+  - 「完全に密閉されたビルドチャンバ、超静音モーションシステム、環境管理された材料保管庫を備えた3Dプリンタです」（https://www.fasotec.co.jp/product/metal-x）
+  - 「また、パウダーベッド方式などでは酸化を防ぐために不活性ガス（アルゴン・窒素）を使用します」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「金属粉末は微細で発火・粉塵爆発のリスクがあるため、粉末の取り扱い・保管設備や防塵・防爆対策も必要です」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「設置環境（恒温室・空調・不活性ガス）、後処理・二次加工の設備または委託費、金属粉末・フィラメントの材料費、保守・電力・人件費などのランニングコストがかかります」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「Metal additive manufacturing has shifted from niche prototyping to targeted production, supported by sustained double‑digit growth and expanding material portfolios. In 2023, the global market was about USD 2.4 billion and is projected to reach USD 20.0 billion by 2033, a 23.6% CAGR, indicating strong long‑term confidence and capital investment in the 3D metal printing function across sectors」（https://thevirtualfoundry.com/3d-metal-printing-function-2/）
+  - 「Performance Limits: DIY parts often suffer from high porosity and unpredictable 15-20% shrinkage, unlike industrial SLM/BJ which reaches 99%+ density.」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「stable atmosphere control using inert or reducing gases such as argon or hydrogen」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「potentially hazardous off-gassing depending on material type」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「gas supply systems for inert or reducing atmospheres」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「safe storage and handling areas for materials and equipment」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+- 品質・証明：
+  - 「ものづくりや物流の流動性が高まる昨今、金属3Dプリンターの需要は益々高まっていると言えるでしょう」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「治具、実験試作品、小ロット製品を３Dプリンタで造形したい」（https://www.fasotec.co.jp/product/metal-x）
+  - 「高額な導入費用は補助金やリースで抑えられる場合もありますが、試作や小ロットの段階では、初期投資が不要な受託造形サービス（外注）でコストを検証してから導入を判断するのが現実的です」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「小ロット試作から対応可能で、都内・近郊ユーザーにとってアクセスしやすい」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「AM（金属3Dプリント）用粉末の品質管理──粒度・流動性・酸素量の見方」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「粒度分布（D10/D50/D90）・流動性・酸素量の見方、PBF用とDED用の粒度範囲の違い、衛星粒子・内包ガスの問題、再使用粉末の管理方法を解説」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「金属3Dプリンター本体は方式によって数千万円〜1億円を超えることもある高額な設備投資になるため、試作段階や小ロット生産では「導入」よりも「受託サービス（外注）」を選ぶ企業が多くなっています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「一方で、量産フェーズでは切削加工や鋳造・鍛造の方がコストを抑えやすいため、「試作・小ロットは3Dプリント受託サービス、量産は切削・鋳造・鍛造」といった使い分けも実務ではよく行われています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「小ロット生産にも対応しているかは事前に確認しておきましょう」（https://online.solize.com/blog/metal-outsourcing）
+  - 「：試作段階では小ロット・短納期に対応できる受託先が扱いやすくなります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「量産向けの大ロット対応が中心の業者だと、1〜数個の試作依頼を後回しにされたり、割高な設定になっていたりする場合があります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「試作の小ロットから量産規模まで柔軟に対応できるか」（https://online.solize.com/blog/metal-outsourcing）
+  - 「部品の形状・数量・後加工の有無によって異なりますが、試作程度の小ロットであれば数日〜1週間程度で対応できる受託先もあります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「小ロットでも受託サービスは依頼できますか？」（https://online.solize.com/blog/metal-outsourcing）
+  - 「切削加工・鋳造・鍛造など従来工法と比べて、複雑形状の一体成形や小ロット試作に強みがある一方、量産では割高になりやすい点は押さえておきましょう」（https://online.solize.com/blog/metal-outsourcing）
+- 装置縛り・オープン材料：
+  - 「専用の特殊合金で作られる金型は、少なくとも数週間の製作期間が必要です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「また製造ラインの一部として3Dプリンターの技術要素を取り入れた専用装置を組み込んだ専用生産ラインも登場しはじめたところです」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「そのため3Dプリンターで生産するための最適な設計DfAM（Design for Additive Manufacturing：3Dプリンターならでは設計）への知見や、専用材料の評価基準、造形後の部品の品質評価方法などが確立されていません」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「金属粉末を専用のバインダー材で固めながら造形する方式」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「表面を閉じ、中はクローズドセル上のラティス構造状に造形するため、見た目は製品そのままに軽量化を行うことができます」（https://www.fasotec.co.jp/product/metal-x）
+  - 「ed 3Dプリンタ専用ソフトウェアである Eiger は、操作が非常に簡単です」（https://www.fasotec.co.jp/product/metal-x）
+  - 「脱脂・焼結を行う専用炉を自社で用意する場合、炉を含めた実質的な導入費用は数百万円規模になることもあります」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「これらを自社で行うには専用設備が必要で、外部委託する場合も費用が発生します」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「ただし造形後に脱脂・焼結の後処理が必要で、専用炉や後処理委託の費用が別途かかる点に注意が必要です」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+- 売り方・商流：
+  - 「具体的な金額は各メーカー・販売代理店の最新見積りをご確認ください」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「非鉄金属材料商社として有名な白銅が金属3D受託造形を提供」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+- 技術支援：
+  - 「（サポート材除去などで影響がある場合もあります）」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「造形する側も事前のシミュレーションやパラメーター開発などを都度見直しながら取り組んでいる場合もあるでしょう」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「サポートレス、高密度の部品造形が可能」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「熱源を照射した際のスパッタの影響や形状によって最適な造形条件を維持するためにリアルタイムでの造形監視とフィードバックによる最適化が品質向上のために必要となります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「バインダージェット方式はサポート材が不要で比較的多くの数量を効率よく生産しやすい一方、焼結による収縮管理が必要です」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「サポート材不要、数量生産に対応しやすい」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「CADによるデータ準備、造形方向やサポート設計の最適化、後処理の管理など、運用には熟練した人材が欠かせません」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「35年以上の運用実績に基づく豊富なノウハウとサポート体制」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「AM向け設計最適化（DfAM）・サポート設計のコンサルティング提供有無」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「特にフェライト系ステンレス（SUS430）やアルミ合金の高精度・微細形状造形は、材料特性や造形条件の最適化が難しく、高度なノウハウが求められるため、対応可能な受託先は限られます」（https://online.solize.com/blog/metal-outsourcing）
+  - 「サポート材が不要なため複雑形状にも対応しやすく、生産性に優れています」（https://online.solize.com/blog/metal-outsourcing）
+  - 「：熱処理、サポート材除去、表面仕上げ、機械加工などの後加工を追加するほど費用は上がります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「：熱処理・サポート除去・表面仕上げなど、後加工まで一括で依頼できると納期短縮・工数削減につながります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「金属3Dプリントでは、造形方向やサポート設計によって品質やコストが大きく変わります」（https://online.solize.com/blog/metal-outsourcing）
+  - 「受託先を選ぶ際は、対応材料・工法の幅、精度・実績、後加工までの一貫対応、小ロット対応、技術サポート・事前レビュー体制、他工法への対応・提案力の6点を確認することが失敗しないポイントです」（https://online.solize.com/blog/metal-outsourcing）
+- コモディティ化：
+  - 「ADAMにより、いままでの金属3Dプリンタのように防爆設備が必要ないため、設備費用が圧倒的に低価格な上に安全で手軽に造形できます」（https://www.fasotec.co.jp/product/metal-x）
+  - 「Sinter-1は、Metal Xでプリントしたグリーンパーツを脱脂後、焼結し最終的な高密度の金属パーツに仕上げるための低価格でハイパフォーマンスな炉です」（https://www.fasotec.co.jp/product/metal-x）
+  - 「That last point matters. Many parts that start as printing candidates are cheaper and faster to machine, and a service that offers both can tell you which one fits.」（https://precisionexpedited.com/metal-3d-printer-vs-printing-service/）
+  - 「Is it cheaper to buy a metal 3D printer or use a service?」（https://precisionexpedited.com/metal-3d-printer-vs-printing-service/）
+  - 「For occasional or varied demand, a service is usually cheaper. Buying makes sense when you have steady, high-volume demand in a few alloys and the staff and facilities to support the machine.」（https://precisionexpedited.com/metal-3d-printer-vs-printing-service/）
+  - 「High Hidden Costs: While metal 3d printers for home are cheap, the specialized furnaces required for sintering cost $10,000–$30,000 and carry significant safety risks.」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+  - 「Q2:What is the cheapest way to get metal 3D printed parts?」（https://jlc3dp.com/blog/3d-printing-metal-at-home）
+- 繰り返し性：
+  - 「保守・メンテナンス費（定期点検、消耗品・フィルター交換）」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「Total your expected metal parts per year and their current outsourced cost.」（https://precisionexpedited.com/metal-3d-printer-vs-printing-service/）
+- 日本：
+  - 「世界の金属3Dプリンター市場規模・予測グラフ（出典：株式会社日本能率協会総合研究所 JMAR） によると、2025年には世界の金属3Dプリンター市場規模は2,500億円と金属3Dプリンターの活用は少しずつ広がっていることが分かります」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「「寸法精度」と「再現性」を高い水準で実現する日本の品質基準は3Dプリンターの利用を検討する際の大きな検討課題です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「また「なぜ？なに？」をどんどん掘り下げる日本の製造現場のカイゼン圧力に対して、理論的な部分から適切に回答できる知見が育っていないという点も課題として挙がってくるでしょう」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「焼結炉運用のノウハウを持っている日本企業にとっては大きな可能性がある分野です」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「WAAM方式などと呼ばれており、国内では三菱電機が取り組んでいます」（https://news.sharelab.jp/study/metal-3dprinter/）
+  - 「日本国内で市販されている洗浄液が利用できます」（https://www.fasotec.co.jp/product/metal-x）
+  - 「SOLIZE PARTNERSは、1990年に日本で初めて3Dプリンターを導入し、試作品製作サービスを開始したパイオニア企業です」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「国内最大級のキャパシティを誇る自社保有の樹脂3Dプリンターで製作対応」（https://online.solize.com/blog/3dp-metal3dp-installationcost）
+  - 「国内の金属3Dプリンター受託造形企業まとめ：PBF・DED・その他の方式別に解説 - 金属データブック 《たすいち》」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「国内の金属3Dプリンター受託造形企業まとめ：PBF・DED・その他の方式別に解説」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「「金属3Dプリンターで部品せを作りたいけれど、どの会社に頼めばいい？」——この記事では、国内で金属3Dプリンターの受託造形サービスを提供している企業を、」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「国内で受託造形を行う企業の多くがL-PBFを主体としており、コンフォーマルクーリング金型入れ子・航空宇宙部品・医療機器など、精度要求の高い用途に強みを持っています」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「埼玉県行田市に「Nikon AM Technology Center Japan」を2025年開設」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「国内では清水建設グループや重工業メーカーが研究・実用化を進めています」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+  - 「国内ではまだ受託造形会社の数は少なく、欧米のサービスビューロを利用するケースも多い状況です」（https://tasuichi.jp/2026/04/10/%E5%9B%BD%E5%86%85%E3%81%AE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E5%8F%97%E8%A8%97%E9%80%A0%E5%BD%A2%E4%BC%81%E6%A5%AD%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%9Apbf%E3%83%BBded/）
+
+## WAAM・ワイヤーDED用ワイヤー（溶接ワイヤー規格との関係）（wire arc additive manufacturing wire feedstock welding wire market）
+- 文脈：ワイヤー
+- 市場規模：
+  - 「Wire Arc Additive Manufacturing Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Wire Arc Additive Manufacturing Market Size, Share and Forecast Report 2025 to 2034」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$160 million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$608.47 million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$448.47 million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「. Contract part printing is the largest service line: AML3D signed a $2.6 million (AUD) contract in FY2026 to supply high demand, non-safety critical replacement components for US Navy submarines, and Lincoln Electric Additive Solutions sells printed parts alongside its SculptPrint cells. RAMLAB applies the same model to repair and remanufacturing, and buyers of」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「a year, driven by nickel aluminium bronze for submarine valves, fittings and propulsion parts; in March 2026 AML3D won an AUD 2.61 million US Navy contract for such components. Nickel alloys grow at」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「FY2026 revenue AUD 12.5 million, up 70%; AUD 9.9 million order for four ARCEMY X systems, March 2026」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「AML3D reported record FY2026 revenue including lease income of AUD 12.5 million, up 70%, and its first profitable half year.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「AML3D won an AUD 2.61 million US Navy contract for submarine replacement parts in nickel aluminium bronze.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「AML3D received an order worth about AUD 9.9 million for four ARCEMY X systems from HII Newport News Shipbuilding.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Market Size in 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$160 Million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Market Size in 2034」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 成長率：
+  - 「by 2034, a compound annual growth rate of」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「CAGR (2025-2034)」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「CAGR to 2034」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 価格：
+  - 「で造形が可能な為、設備費用が数千万円といわゆる金属3Dプリンタの中では比較的安価かつ持ち運」（https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf）
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Prices vary with size and automation. DAIHEN priced its ArcBuilder 3D turnkey system at USD 450,000 to 500,000 at its 2026 launch, while large custom gantry cells cost far more: Newport News Shipbuilding paid about AUD 9.9 million for four AML3D ARCEMY X 6700 systems in March 2026, or roughly AUD 2.5 million per cell including integration.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The 2025 base was validated through Dataintelo primary research with WAAM system builders and service bureaus and cross-checked against the company revenue and volume and price sizing legs.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Standard welding wire costs €5–15 per kg, against €50–200 per kg for the atomized powder used in powder bed fusion. Subtractive methods often waste 70–90% of the material; WAAM leaves only 5–10% to remove in CNC finishing.」（https://mx3d.com/why-waam-matters/）
+  - 「€5-15/kg (Welding wire)」（https://mx3d.com/why-waam-matters/）
+  - 「€50-200/kg (Atomized powder)」（https://mx3d.com/why-waam-matters/）
+  - 「WAAM excels in scale, speed, and cost for large metal parts. It achieves deposition rates of 2-15 kg/h and uses inexpensive welding wire (€5-15/kg), whereas methods like Powder Bed Fusion are slower (0.1-0.5 kg/h) and use expensive powder (€50-200/kg).」（https://mx3d.com/why-waam-matters/）
+  - 「WAAM Machine Price & Cost Guide | M1 & MX Systems Pricing | MX3D」（https://mx3d.com/waam-machine-pricing/）
+  - 「WAAM machine pricing depends on system capability, not a single list price. The MX3D M1 prints parts up to 2,200 × 1,400 × 1,700 mm and 750 kg; the MX system handles parts from 1,000 to 20,000 kg.」（https://mx3d.com/waam-machine-pricing/）
+  - 「These elements influence the actual value of the quotes, modify the final price depending on the country, market, quantity of systems, and also the transport distance, so the logistics behind the shipment and deployment of the MX3D M1 and MX Systems. For procurement, this means you must compare capability packages (what’s included) rather than single line-item prices.」（https://mx3d.com/waam-machine-pricing/）
+  - 「MX3D offers complete packages, tailored for each customer, where all these features and add-ons are included in the final price and quote for the M1 and MX WAAM Metal AM Systems.」（https://mx3d.com/waam-machine-pricing/）
+- 主要企業：
+  - 「Global Wire Arc Additive Manufacturing market share by region. Source: Dataintelo research.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Global Wire Arc Additive Manufacturing market share by segment. Source: Dataintelo research.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Market Share (2025)」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The competitive chapter profiles 14 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Key Companies Profiled」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「17.2 Global Wire Arc Additive Manufacturing Market: Market Share Analysis, 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Who are the leading WAAM system manufacturers?」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The leading position of North America was validated through Dataintelo primary research with market participants and cross-checked against the location of disclosed system orders and installations.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Map the competitive landscape and the strategies of leading players」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Fronius welding system integration (a leading brand in controlled metal deposition)」（https://mx3d.com/waam-machine-pricing/）
+  - 「now leading the way (」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+- 安全・規制・保管：
+  - 「VIGA（真空誘導不活性ガスアトマイズ）装置」（https://met3dp.com/ja/waam-202403224/）
+  - 「反応性が高く、印刷には不活性ガス環境が必要」（https://met3dp.com/ja/waam-202403224/）
+  - 「参照先: https://patentimages.storage.googleapis.com/83/25/a2/c6e506fcb62cf6/US1533300.pdf」（https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf）
+  - 「in 2025 and reaches」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Gantry and hybrid machines carry the highest value per unit. Large naval and energy parts often exceed robot reach, which is why the ARCEMY X 6700 family and the GEFERTEC arc80X series, launched in March 2024 for large energy sector components, are built for scale. Integrators of」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Continue until the target geometry is reached.」（https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/）
+  - 「Robot and positioner spec: payload, reach, and axis count.」（https://mx3d.com/waam-machine-pricing/）
+  - 「The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+  - 「The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+  - 「The technical storage or access that is used exclusively for statistical purposes.」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+- 品質・証明：
+  - 「信頼できるサプライヤーは、AWS A5.xxおよびEN ISO 14341に適合する各ロールについて認証を取得し、化学組成および機械的試験の結果を含むトレーサビリティのあるロット記録を保持します」（https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have）
+  - 「ASTM／EN規格およびトレーサビリティ要件」（https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have）
+  - 「航空宇宙およびエネルギー分野のプロジェクトでは、認定済み工場試験報告書（Mill Test Report）を通じた材料のトレーサビリティが、原材料から完成巻き取りスプールに至るまでの監査可能な履歴を提供し、これは絶対に不可欠な要件です」（https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have）
+  - 「サプライヤーは、認定工場試験報告書（certified mill test reports）という形で追跡可能な文書を提供することが義務付けられています」（https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have）
+  - 「主な用途としては、試作品などの小ロット生産や金型の製作などが挙げられます」（https://news.sharelab.jp/study/am-ded/）
+  - 「of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Aerospace Qualification Opens Serial Production」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「often contract qualification work before committing to a machine. Software for path planning and process monitoring, such as WAAM3D WAAMPlanner, is mostly sold with systems, and the two WAAM3D installations at CCAM in January 2026 passed acceptance testing on software integration as well as performance.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Post-processing and qualification remain the practical brake on growth. The American Welding Society Welding Digest noted in 2025 that machining and inspection after the build constrain throughput, and every new aerospace or nuclear part number needs its own approval. Suppliers that pair cells with in-process monitoring and the inspection services sold in the」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Global revenue from wire arc additive manufacturing (GMAW and CMT, GTAW and plasma arc wire deposition): WAAM systems and deposition heads, WAAM path planning and monitoring software, and WAAM contract part printing, repair and qualification services.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Suppliers are small and many are loss-making: Norsk Titanium reported USD 4.1 million of 2025 revenue and other income, burned an average of USD 2.6 million a month and retracted its revenue guidance in February 2026. Post-build machining and inspection constrain throughput, and each new aerospace or nuclear part needs its own qualification before production.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Defense and naval is the largest application with 32.0% of 2025 value and the fastest at 19.3% a year, led by submarine components and surface warship parts. Aerospace grows at 17.3% a year on Airbus qualification work with Norsk Titanium, and energy and power generation also grows at 17.3% a year on utility repair programs such as the Tennessee Valley Authority installation.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Hardfacing and coating contexts」（https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/）
+- 装置縛り・オープン材料：
+  - 「: 大型部品のオープン環境造形に最適で、最も高い堆積速度を誇り、実装が容易で装置コストも低廉です」（https://hdc3d.com/ja/about-waam/）
+  - 「WAAMは、様々な一般的な溶接ワイヤと幅広い材料互換性を提供します：」（https://met3dp.com/ja/waam-202403224/）
+  - 「その基本原理、材料の互換性、さまざまなプロジェクト要件への適合性を理解することで、どちらの技術がお客様のニーズに最も合致するかを、十分な情報を得た上で決定することができます」（https://met3dp.com/ja/waam-202403224/）
+  - 「10m越えの専用チャンバーと、2台のロボットアームを使用して製」（https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The leading position of North America was validated through Dataintelo primary research with market participants and cross-checked against the location of disclosed system orders and installations.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「proprietary workflow solution, MetalXL」（https://mx3d.com/waam-machine-pricing/）
+  - 「The MX3D MetalXL proprietary software is the real game-changer and what makes MX3D Systems stand out from the competitors’ WAAM machines, together with the offered add-ons. Paired with our industrial expertise, robotic Wire Arc Additive Manufacturing (WAAM) becomes a seamless workflow in which design, robotics, and software operate as one integrated system.」（https://mx3d.com/waam-machine-pricing/）
+  - 「No PWHT, locked-in stress exceeds yield」（https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF）
+  - 「KUKA KRC2からKRC4へのアップグレード：移行パスと互換性」（https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF）
+- 売り方・商流：
+  - 「Aerospace OEMs and tier suppliers grow at」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Defense Contractors and Shipyards, Aerospace OEMs and Tier Suppliers, Energy and Industrial Manufacturers, Service Bureaus and Contract Manufacturers, Research Institutes and Universities」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「4.3.2 List of Key Distributors」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「9.2.2 Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「12.22.2 Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「13.22.2 Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「14.22.2 Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「15.22.2 Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「16.22.2 Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Manufacturers, distributors, resellers, and system integrators」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Polymaker adds Rapid Fusion to its PolyCore hardware partner network」（https://www.voxelmatters.com/lets-talk-waam-wire-arc-additive-manufacturing/）
+  - 「Start-point parameter windows for common WAAM builds. Values are aligned with published OEM procedure sheets for the corresponding wire diameters:」（https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF）
+- 技術支援：
+  - 「CAD設計が壁厚やオーバーハングなどの造形適性チェックを終えた後、パラメータとプリント戦略に基づいてツールパス計画を生成し、WAAMシステムへ送信してプリントを開始します」（https://hdc3d.com/ja/about-waam/）
+  - 「WAAMシステムはセミオートマチックな柔軟構成で動作し、制御システムが主要なプロセスパラメータを監視してオペレーターに警告します」（https://hdc3d.com/ja/about-waam/）
+  - 「これらのパラメータのいずれかが適切に制御されない場合、WAAM製造プロセスによって得られる製品は信頼性・有効性に欠け、多孔質な部品を含む可能性があります」（https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have）
+  - 「業界トップクラスのメーカーでは、高付加価値用途において99.8％の堆積信頼性を確保するために極めて重要なパラメーターに対し、統計的工程管理（SPC）を導入しており、相対的安定性指数（CpK）は1.33以上を達成しています」（https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have）
+  - 「積層造形で鋭角(45°以下)の造形を行う場合は、サポートと呼ばれる格子状の支えを必要とするの」（https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf）
+  - 「が常識だったが、サポート無しで水平方向及びアーチ状に造形した例を図 5 に示す」（https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf）
+  - 「図 5 サポートなしの鋭角造形」（https://www-it.jwes.or.jp/we-com/bn/vol_39/sec_2/2-3.pdf）
+  - 「Robotは、ワイヤーDED方式の金属3Dプリンターで、大型サイズの部品や製品、複雑な形状をサポートレスでプリントできます」（https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html）
+  - 「造形時間を大幅に短縮できることと、6軸のロボットアームを活用することでサポート材が不要と、生産コストの削減を実現可能です」（https://news.sharelab.jp/study/am-ded/）
+  - 「Speed is a critical metric for industrial adoption. While processes like PBF offer excellent resolution, they are inherently slow, typically achieving deposition rates of just 0.1 to 0.5 kg/h. In contrast, WAAM offers a massive speed advantage. Depending on the material and specific process parameters, often controlled by dedicated software like」（https://mx3d.com/why-waam-matters/）
+  - 「Key WAAM Process Parameters」（https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/）
+  - 「Parameters the article must define (no recipes)」（https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/）
+  - 「What these documents do not provide is a universal parameter recipe. They standardize terminology, define control topics, and help structure evidence, but they do not eliminate the need for testing and qualification work. NIST IR 8538 is especially useful here because it makes clear that monitoring, NDE, and qualification practice still have specificity gaps in real use.」（https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/）
+  - 「What are the key WAAM process parameters?」（https://www.3dmag.com/3d-wikipedia/wire-arc-additive-manufacturing-explained/）
+  - 「Developed entirely for industrial Wire Arc Additive Manufacturing, MetalXL combines real‑time process control, automated quality monitoring, intelligent parameter management, flexible start‑stop arrangement, simultaneous logging of multiple certified material strategies, and customizable boundaries for each parameter.」（https://mx3d.com/waam-machine-pricing/）
+- コモディティ化：
+  - 「WAAMシステムは、既存のアーク溶接技術を活用しているため、DED装置、特にレーザーや電子ビームを使用する装置よりも低価格である」（https://met3dp.com/ja/waam-202403224/）
+  - 「Is WAAM cheaper than laser powder bed fusion?」（https://mx3d.com/waam-machine-pricing/）
+  - 「For high-volume production, dedicated foundries, investment casting, or stamping remain cheaper per part once tooling is amortized. WAAM stays competitive in the 1–500 parts/year low-volume segment, where tooling cost and lead time dominate the total-cost equation.」（https://industrialmonitordirect.com/ja/blogs/knowledgebase/wire-arc-additive-manufacturing-process-parameters-economics?srsltid=AYCX9vJ9UxrTMjHs9QoSGcueMZJRlwINV94kV_K7tXhZu94pBTZxQ9XF）
+- 繰り返し性：
+  - 「When buying a WAAM System, the involved WAAM technology operating costs matter as much as the headline WAAM machine price when evaluating the entire WAAM machine cost. In fact, elements such as wire feedstock, shielding gas, energy consumption, operator time, post-processing such as CNC finishing and heat treatment, and certification or NDT, all add to the campaign cost.」（https://mx3d.com/waam-machine-pricing/）
+  - 「Request vendor estimates for wire cost per kilogram by alloy family, gas and energy consumption per kilogram deposited, and an operator model so you can calculate a realistic cost per kilogram deposited for your parts. Post machining, heat treatment, and certification costs should be modeled separately because they vary with tolerance and application requirements.」（https://mx3d.com/waam-machine-pricing/）
+- 日本：
+  - 「HDCは韓国および日本におけるMX3Dのリセラーです」（https://hdc3d.com/ja/about-waam/）
+  - 「高強度アルミ合金ワイヤーの国内開発を目指し、以下を検討中」（https://www.ard.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf）
+  - 「高強度アルミ合金ワイヤーの国内開発を目指し、以下を検討中」（https://www.kenkai.jaxa.jp/project/kakushinyusou/results/pdf/01_06.pdf）
+  - 「LENSは指向性エネルギー堆積法の中でもレーザーを用いた造形法で、日本語ではレーザー直接堆積法とよばれることもあります」（https://news.sharelab.jp/study/am-ded/）
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Osaka, Japan」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「United States, Canada, United Kingdom, Germany, Netherlands, Norway, Spain, Australia, China, Japan, Singapore, Malaysia, Brazil, Mexico, Saudi Arabia, United Arab Emirates」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「14.2.2 Japan」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「North America leads with 40.0% of 2025 value and grows at 16.2% a year, driven by US Navy and shipyard demand including six ARCEMY X systems ordered by Newport News Shipbuilding. Asia Pacific is the fastest growing region at 18.2% a year, supported by the DAIHEN launch in Japan, the WAAM3D agreement in Malaysia and Vallourec printing in Singapore.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 検索結果の抜粋：
+  - 「WAAM について： ワイヤー アーク積層造形 — WAAM について： ワイヤー アーク積層造形 hdc3d.com https://hdc3d.com > about-waam」（https://hdc3d.com/ja/about-waam/）
+  - 「WAAM用ワイヤー 品質ガイド：5つの重要な特性 — WAAM用ワイヤー 品質ガイド：5つの重要な特性 Nanjing Enigma https://global.enigma-ded.com > blog > what-characteristi...」（https://global.enigma-ded.com/ja/blog/what-characteristics-should-high-quality-waam-wire-have）
+
+## レーザー・電子ビームのワイヤー積層用ワイヤー（wire laser additive manufacturing electron beam wire feedstock）
+- 文脈：ワイヤー
+- 市場規模：
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「the global Directed Energy Deposition (DED) 3D printing market is projected to reach USD 5.76 billion by 2036.」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「Market Size by 2036」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「USD 5.76 Billion」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「Market Size in 2026」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「USD 1.14 Million」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「Market Size in 2025」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「USD 988.7 Million」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「USD 988.7 million」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「USD 1.14 billion」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「USD 5.76 billion」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「What is the projected market size and growth rate (CAGR) for the DED 3D Printing Market from 2026 to 2036?」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+- 成長率：
+  - 「金属積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「世界の金属積層造形市場規模は、2025年には53億4000万米ドルと評価され、2026年の62億7000万米ドルから2034年には226億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は17.39%となる見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場の規模は、2026年には62億7000万米ドルと評価され、2034年までに226億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は17.39%です」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）17.39%で成長すると予測されている」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「持続可能な製造業市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「熱圧縮成形市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「at a CAGR of 17.5% from 2026 to 2036.」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「CAGR of 17.5」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「~5.1× expansion 2026–2036 at 17.5% CAGR」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+- 価格：
+  - 「3,000円(税抜)」（https://www.adcom-media.co.jp/news/2024/06/17/117012/）
+  - 「5,500円(税抜)」（https://www.adcom-media.co.jp/news/2024/06/17/117012/）
+  - 「1,905円(税抜)」（https://www.adcom-media.co.jp/news/2024/06/17/117012/）
+  - 「3,909円円(税抜)」（https://www.adcom-media.co.jp/news/2024/06/17/117012/）
+  - 「6,000円(税抜)」（https://www.adcom-media.co.jp/news/2024/06/17/117012/）
+  - 「4,000円(税抜)」（https://www.adcom-media.co.jp/news/2024/06/17/117012/）
+  - 「② 金属3Dプリンターの価格はどのくらいですか？」（https://trend-3d.com/basic/999/）
+  - 「レーザーメタルデポジション方式（DED）の技術を使用して、 高性能・手頃な価格・使いやすい金属3Dプリンターを開発・製造することで、金属における積層造形を次のレベルに引き上げます」（https://kikaicatalog.com/column/meltio-m600-blue-laser/）
+  - 「など、円筒形状の部品では、従来のアルミ合金構造と比較して最大で約20%の軽量化効果が得られる可能性があると試算しました」（https://www.jaxa.jp/press/2024/06/20240613-1_j.html）
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Prices vary with size and automation. DAIHEN priced its ArcBuilder 3D turnkey system at USD 450,000 to 500,000 at its 2026 launch, while large custom gantry cells cost far more: Newport News Shipbuilding paid about AUD 9.9 million for four AML3D ARCEMY X 6700 systems in March 2026, or roughly AUD 2.5 million per cell including integration.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The 2025 base was validated through Dataintelo primary research with WAAM system builders and service bureaus and cross-checked against the company revenue and volume and price sizing legs.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 主要企業：
+  - 「金属積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場の規模、シェア、トレンド分析レポート：タイプ別（粉末床溶融、バインダージェット、直接エネルギー堆積、結合粉末押出、その他）、コンポーネント別（システム、材料、サービス、部品）、エンドユーザー産業別（航空宇宙、自動車、ヘルスケア、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米は、2025年に市場シェア37.2%を占め、金属積層造形市場を牽引しました」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「航空宇宙、ヘルスケア、歯科、自動車、学術などの様々な産業における新製品の使用増加と金属積層造形技術の普及により、世界の市場シェアは年平均成長率（CAGR）19.21%で成長すると予測されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米は予測期間中、世界市場において相当なシェアを占める見込みです」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米市場は予測期間中、最大の市場シェアを獲得すると予想されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「北米は2025年時点で37.2%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「金属積層造形市場における主要メーカーはどこですか？」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「持続可能な製造業市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「積層造形市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「熱圧縮成形市場の規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「プラスチック射出成形市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「3Dプリンティング市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「マイクロマシニング市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「業務用AM/3Dプリンタ―のポータルサイトShareLab（シェアラボ）の運営」（https://jsam.or.jp/member/support/）
+- 安全・規制・保管：
+  - 「多くの場合、ワイヤー原料は金属粉末原料よりも50％程度安く、安全で保管が簡単だという利点がある」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/）
+  - 「また金属粉は粉塵爆発の危険性や可燃性対策、作業者の吸入による健康被害対策が必要になる」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/）
+  - 「金型や鋳型、冶具が不要で、金型などの保管の必要もない」（https://www.jeol.co.jp/column/detail001.html）
+  - 「JAM-5200EBMは造形中の不活性ガス導入が不要で、長寿命カソードを搭載し、高精度な自動ビーム補正技術により再現性の高い生産が可能となっています」（https://www.jeol.co.jp/column/detail001.html）
+  - 「レーザー照射部分に不活性ガスを送り酸素を除去することで、材料となる金属の酸化や燃焼を防止すること」（https://www.jaxa.jp/press/2024/06/20240613-1_j.html）
+  - 「さらに、粉末の再利用や保管には注意が必要で環境管理や安全対策も求められます」（https://www.jeol.co.jp/column/detail003.html）
+  - 「造形時の酸化を抑えるための対策として、レーザー方式ではアルゴンや窒素などの不活性ガス環境下での造形、表面処理が施された粉末材料の使用などがあります」（https://www.jeol.co.jp/column/detail003.html）
+  - 「JAM-5200EBMは造形中の不活性ガス導入が不要で、長寿命カソードを搭載し、高精度な自動ビーム補正技術により再現性の高い生産が可能となっています」（https://www.jeol.co.jp/column/detail003.html）
+  - 「the global Directed Energy Deposition (DED) 3D printing market is projected to reach USD 5.76 billion by 2036.」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「The global DED 3D Printing Market is projected to reach a valuation of USD 5.76 billion by 2036, expanding from USD 1.14 billion in 2026. This significant growth trajectory is underpinned by a robust Compound Annual Growth Rate (CAGR) of 17.5% over the forecast period, reflecting the technology’s transition from niche application to mainstream industrial production.」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「in 2025 and reaches」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Gantry and hybrid machines carry the highest value per unit. Large naval and energy parts often exceed robot reach, which is why the ARCEMY X 6700 family and the GEFERTEC arc80X series, launched in March 2024 for large energy sector components, are built for scale. Integrators of」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 品質・証明：
+  - 「もともとはプロトタイピングのために開発されたが、今日では主に、1～1,000個の小ロットサイズで、幾何学的に複雑な部品の製造に使用されている」（https://www.laserline.com/ja-int/laser-additive-manufacturing/）
+  - 「小ロットの大型（１m以上）製品を、好きな材料で、効率的に生産できる」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「新製品開発に関するトータルサービス、商品企画、デザイン、工業用製品の設計、解析エンジニアリング、試作、 金型の設計・製造及び小ロット成形品の生産・販売」（https://jsam.or.jp/member/support/）
+  - 「型代ゼロの「型レス製造」で試作・小ロットのコストと納期を劇的に削減」（https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process）
+  - 「coating, and multi-material deposition across a wide range of industries.」（https://www.meticulousresearch.com/product/directed-energy-deposition-3d-printing-market-6380）
+  - 「of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Aerospace Qualification Opens Serial Production」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「often contract qualification work before committing to a machine. Software for path planning and process monitoring, such as WAAM3D WAAMPlanner, is mostly sold with systems, and the two WAAM3D installations at CCAM in January 2026 passed acceptance testing on software integration as well as performance.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Post-processing and qualification remain the practical brake on growth. The American Welding Society Welding Digest noted in 2025 that machining and inspection after the build constrain throughput, and every new aerospace or nuclear part number needs its own approval. Suppliers that pair cells with in-process monitoring and the inspection services sold in the」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Global revenue from wire arc additive manufacturing (GMAW and CMT, GTAW and plasma arc wire deposition): WAAM systems and deposition heads, WAAM path planning and monitoring software, and WAAM contract part printing, repair and qualification services.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Suppliers are small and many are loss-making: Norsk Titanium reported USD 4.1 million of 2025 revenue and other income, burned an average of USD 2.6 million a month and retracted its revenue guidance in February 2026. Post-build machining and inspection constrain throughput, and each new aerospace or nuclear part needs its own qualification before production.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Defense and naval is the largest application with 32.0% of 2025 value and the fastest at 19.3% a year, led by submarine components and surface warship parts. Aerospace grows at 17.3% a year on Airbus qualification work with Norsk Titanium, and energy and power generation also grows at 17.3% a year on utility repair programs such as the Tennessee Valley Authority installation.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「share, anchored by flight-critical part qualification programs at Boeing, GE Aviation, and Lockheed Martin.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+- 装置縛り・オープン材料：
+  - 「3Dプリンタ、専用材料、ソフト ウェアを自社開発し、試作から量産まで対応可能なプラットフォームを提供」（https://jsam.or.jp/member/support/）
+  - 「さらに、Meltio社はオープンプラットフォームを採用しており、様々なメーカーの金属ワイヤーを使用できるため、材料選択の幅が広く、用途に合わせた最適な材料で造形することができます」（https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process）
+  - 「5. Meltio社の多種多様な材料と互換性のある材料」（https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process）
+  - 「また、Meltioはオープンプラットフォームであるため、」（https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process）
+  - 「【事例】鋳造製造から3Dプリントへ転換：クローズドインペラを金属3Dプリンターで製造、型レスでリードタイムとコストを大幅削減」（https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process）
+  - 「クローズドインペラの製造を従来の鋳造からMeltio社製金属3Dプリンターへ置き換えた事例を解説」（https://www.3dpc.co.jp/articles/meltiomaterial-properties-to-manufacturing-process）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The leading position of North America was validated through Dataintelo primary research with market participants and cross-checked against the location of disclosed system orders and installations.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「holds the strongest defensible position in the global metal additive manufacturing competitive landscape — the company’s open-parameter LPBF platforms and proprietary powder qualification ecosystem create switching costs that persist across machine generations, anchoring the established industrial OEM archetype alongside」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Meltio utilizes a proprietary」（https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/）
+  - 「Wire formats are standardized (AWS, ISO). You are not locked into a proprietary vendor; you can source mild steel or Inconel 718 from any local welding supplier.」（https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/）
+  - 「Is the Meltio system compatible with third-party software?」（https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/）
+- 売り方・商流：
+  - 「株式会社MadeHereはMeltio社3Dプリンターの日本総代理店です」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「メンテナンス・ランニングコスト／代理店のサポート体制」（https://jampt.jp/column/column_453/）
+  - 「金属3Dプリンターは海外のメーカーが多いため、日本市場では国内代理店が装置の販売・メンテナンスを請け負っています」（https://jampt.jp/column/column_453/）
+  - 「代理店によっては、粉末や主要な交換部品・消耗部品の在庫状況や、技術スタッフ（特に海外メーカーの装置の場合は日本人エンジニア）の数が違うため、この点も装置選定にあたっては比較・検討しておくべき項目になります」（https://jampt.jp/column/column_453/）
+  - 「導入・活用にあたっては、装置価格や性能、価格、対応鋼種、対応サイズ等のいわゆるカタログ値だけではなく、金属粉末の管理特性（品質保持・交換難易度）、造形パラメーターの設定自由度、作業性（取り出し易さ・運用保守）、代理店のサポート体制など、運用する上で発生する作業についても十分リサーチすることをお勧めします」（https://jampt.jp/column/column_453/）
+  - 「BambuLab、Polymaker、Creality、REVOPOINT、resione などの国内販売代理店」（https://jsam.or.jp/member/support/）
+  - 「ストラタシス/Desktop Metal国内代理店」（https://jsam.or.jp/member/support/）
+  - 「FLASHFORGE・SCANTECH・Markforgedの国内代理店」（https://jsam.or.jp/member/support/）
+  - 「Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー」（https://jsam.or.jp/member/support/）
+  - 「ドイツの大型FFF/3Dプリンターメーカー[bigrep]の国内総代理店、 各種3Dエンジニアリング業務支援(リソース/プログラム開発/光学測定etc)」（https://jsam.or.jp/member/support/）
+  - 「・3DPCが国内総代理店を務めるMeltio社がスペインの「SME of the Year（中小企業大賞）」を受賞」（https://kikaicatalog.com/column/meltio-m600-blue-laser/）
+  - 「Aerospace OEMs and tier suppliers grow at」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Aerospace OEMs and Tier Suppliers」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Defense Contractors and Shipyards, Aerospace OEMs and Tier Suppliers, Energy and Industrial Manufacturers, Service Bureaus and Contract Manufacturers, Research Institutes and Universities」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「4.3.2 List of Key Distributors」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 技術支援：
+  - 「Robotは、ワイヤーDED方式の金属3Dプリンターで、大型サイズの部品や製品、複雑な形状をサポートレスでプリントできます」（https://www.tachibana.co.jp/3dprinter/02-metal_3d_printer-4.html）
+  - 「金属3Dプリンターの方式やメーカーの機種により異なるが、サポート材(中空部分の土台)の除去、熱処理、ブラスト処理、表面仕上げ加工などが必要になってくる」（https://www.jeol.co.jp/column/detail001.html）
+  - 「またレーザー方式に比べてサポート材が少なくて済むこともメリットです」（https://www.jeol.co.jp/column/detail001.html）
+  - 「造形時に高温の熱源を必要とせずサポート材が不要です」（https://www.jeol.co.jp/column/detail001.html）
+  - 「様々なサポート体制でお客様をバックアップしております」（https://www.jeol.co.jp/column/detail001.html）
+  - 「金属AMでは、方式によりサポート除去、熱処理、脱脂、焼結、切削加工などが必要です」（https://trend-3d.com/basic/999/）
+  - 「金属粉末の管理や安全設備が必要で、造形後にサポート除去、熱処理、表面仕上げを行う場合があります」（https://trend-3d.com/basic/999/）
+  - 「装置ごとの対応材料と造形条件を確認する必要があります」（https://trend-3d.com/basic/999/）
+  - 「Laserline社のダイオードレーザのトップハットビームプロファイルは、非常に均一な溶融プールを形成し、均質でクラックのない材料層をもたらす冷静なプロセス制御を可能にする」（https://www.laserline.com/ja-int/laser-additive-manufacturing/）
+  - 「造形向きとパラメータを決定し、Gコードを生成します」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「造形パラメータを選択し、Gコードを読み込んだ後、ビルドプレートをセットして造形開始」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「MeltioのDED方式は、造形後に除去が必要となる内部のサポート構造を作らずに、大型部品や、非常に滑らかな壁面を3Dプリントできるという点が特徴です」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「パン工場のコンベアベルトを固定するサポート材です」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「メンテナンス・ランニングコスト／代理店のサポート体制」（https://jampt.jp/column/column_453/）
+  - 「代表的なパラメータとしては、レーザー出力、レーザースキャン速度、 積層厚（積層ピッチ）などがありますが、その他も含めると最大で20ほどの項目を変化させて設定する必要があるケースもあり、造形するワークによっては経験とノウハウが必要になります」（https://jampt.jp/column/column_453/）
+- コモディティ化：
+  - 「Low-cost entry-level metal part prototyping and tooling」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Prototyping, tooling, low-cost」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「5. World Bank Group. (2025, April). Commodity Markets Outlook: Persistence of High Interest Rates Weighs on Commodity Markets. World Bank. https://openknowledge.worldbank.org/handle/10986/41531」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Meltio’s technology utilizes commercial welding wire, a global industrial commodity.」（https://meltio3d.com/the-benefits-of-a-wire-based-3d-printing-process/）
+- 繰り返し性：
+  - 「ブルーレーザー搭載により、エネルギーの消費量を削減」（https://www.3dpc.co.jp/products/meltio-robot-cell）
+  - 「定期メンテナンスという縛りはありませんが、当社では1年に1回の装置メンテナンスを依頼しており、その際に消耗部品を定期交換しています」（https://jampt.jp/column/column_453/）
+  - 「ワイヤーDED方式を念頭に置いて直接レーザー光源を開発することで、オペレーターの手間とエネルギーの使用量を削減し、リーズナブルな価格を維持するシステムの提供が可能になっています」（https://kikaicatalog.com/column/meltio-m600-blue-laser/）
+  - 「加えて、部品1個あたりのエネルギー消費量とコストの大幅削減を実現します」（https://kikaicatalog.com/column/meltio-m600-blue-laser/）
+  - 「Technology choice defines cost per part, qualification pathway, and production volume ceiling — making the By Technology segment the highest-value dimension for operators and investors. Application segmentation reveals where certified demand is concentrated today, while material and component segments show where recurring revenue and supply chain leverage sit across the metal AM value chain.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Recurring powder revenue growing as installed base expands; metal AM materials market is the fastest-growing revenue stream as production volumes scale beyond prototyping」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「In our view, the shift from prototyping to serial production is the single most consequential structural change in metal AM demand. Aerospace and defense buyers are no longer evaluating metal AM against design intent — they are qualifying it against forged and machined supply chains on cost, lead time, and part performance, locking in recurring production contracts.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「The metal AM materials market is the fastest-growing recurring revenue stream in the value chain — as the global installed base of metal AM systems expands, powder consumption scales proportionally without requiring new capital equipment sales.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「, accessing certified metal AM production without machine ownership. This shift confirms the broader additive manufacturing industry transition from hardware sales to recurring services revenue.」（https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/）
+  - 「Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Subscription Datasets and Paid Sources」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Production and Consumption Statistics」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+- 日本：
+  - 「この市場は、日本、中国、インド、韓国における自動車産業の工業化と需要の増加により成長すると予測されています」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「さらに、三菱重工業などの日本の航空宇宙企業は、航空機部品への金属積層造形技術の応用を研究している」（https://straitsresearch.com/jp/report/metal-additive-manufacturing-market）
+  - 「いま日本で購入可能な最大級の造形体積と造形速度を誇るワイヤーDED方式の金属3Dプリンター―米サイアキ | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/）
+  - 「いま日本で購入可能な最大級の造形体積と造形速度を誇るワイヤーDED方式の金属3Dプリンター―米サイアキ」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/）
+  - 「主なメーカーとしてはWAAM3D、Lincoln Additive Solutions、GKN Aerospace、Sciaky、AddiTec、Gefertec、MX3DAML3Dなどが取り組んでいる他、国内でも三菱電機が開発に取り組んでいる」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/）
+  - 「金属粉末は表面積が大きいため、環境に影響を受けやすく、空気中に存在する水分、酸素、その他の元素を吸収し材料特性が変化しやすいため、特に日本では湿度の影響に対する対策が必須と言われている」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/）
+  - 「大型造形や設置場所や運用環境に左右されにくいという長所をもったワイヤーDED方式の金属3Dプリンターだが、国内でも三菱電機が独自にレーザー式のワイヤーDED方式の金属3Dプリンターを開発中だ」（https://news.sharelab.jp/3dp-news/metal-3dprinter/ded3d-sciaky-201206/）
+  - 「金属3Dプリンターの基礎知識：各方式の違いと特徴を徹底解説 | コラム | JEOL 日本電子株式会社」（https://www.jeol.co.jp/column/detail001.html）
+  - 「日本においても、2014年に」（https://www.jeol.co.jp/column/detail001.html）
+  - 「・電子ビーム：Colibrium Additive（旧Arcam）, 三菱電機, 日本電子」（https://www.jeol.co.jp/column/detail001.html）
+  - 「日本電子JAM-5200EBMの特徴と仕様」（https://www.jeol.co.jp/column/detail001.html）
+  - 「最後に、日本電子が開発した電子ビームパウダーベッド方式の金属3Dプリンター、JAM-5200EBMについてご紹介します」（https://www.jeol.co.jp/column/detail001.html）
+  - 「日本電子工業株式会社様～高周波焼入れ技術の進化を支える金属3Dプリンター」（https://www.jeol.co.jp/column/detail001.html）
+  - 「日本電子工業株式会社は、高周波焼入れ技術の分野で長年の実績を持ち、金属積層造形技術を採用することでさらなる進化を目指しています」（https://www.jeol.co.jp/column/detail001.html）
+  - 「今回のインタビューでは、日本電子工業が金属3Dプリンターを導入した経緯や今後の展望、日本電子に寄せる期待について詳しくお話を伺いました」（https://www.jeol.co.jp/column/detail001.html）
+
+## 大型FGF・LFAM用ペレット（強化ペレット含む）（pellet extrusion large format additive manufacturing pellets market）
+- 文脈：ペレット
+- 市場規模：
+  - 「大型3Dプリンターの導入費用は、機種や性能によって大きく異なりますが、50万円から1億円以上の範囲です」（https://www.3dpc.co.jp/articles/lfam-3d-printing）
+  - 「PEKK 30% CF & GF（30％カーボンファイバーおよびガラスフィラー入りポリエーテルケトンケトン）」（https://partners.solize.com/3dp-sales/3dsystems/ext-titan）
+  - 「PEEK 30% CF & GF（30％カーボンファイバーおよびガラスフィラー入りポリエーテルエーテルケトン）」（https://partners.solize.com/3dp-sales/3dsystems/ext-titan）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「produced wind turbine blade components under a $4 million DOE grant」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Traditional blade mold fabrication costs exceed $10 million with」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「The LFAM-specific market has grown from $117.7 million in 2021 to」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「projected $619.3 million by 2030—more than 5× expansion according to」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「even stronger growth, with projections ranging from $88 billion to」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「$144 billion by 2030-2033 at CAGRs of 21-24%. Continuous fiber」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「million by 2031 at 14.1% CAGR.」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「from $300 million in 2023 to $800 million in 2024—166%」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「and citizens [1, 2]. In 2019, 931 million tons of food waste」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「globally, reached a total production of 170.8 million of 60 kg」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+- 成長率：
+  - 「$144 billion by 2030-2033 at CAGRs of 21-24%. Continuous fiber」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「million by 2031 at 14.1% CAGR.」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「20.4% CAGR」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+- 価格：
+  - 「大型3Dプリンターの導入費用は、機種や性能によって大きく異なりますが、50万円から1億円以上の範囲です」（https://www.3dpc.co.jp/articles/lfam-3d-printing）
+  - 「RMIT大学のエンジニアが既存の合金と比較して価格が3分の1の3Dプリント用チタン材料を開発」（https://www.cadjapan.com/news/2025/）
+  - 「ペレット押出 3D プリントでは、手頃な価格の原料を使用できます」（https://ja.3dsystems.com/materials/pellet-materials）
+  - 「多くの3Dプリンターはフィラメント方式を採用しているうえ、FGF対応のプリンターは専門性が高く、価格も高めになる傾向があります」（https://www.3dpc.co.jp/articles/fgf-3d-printing）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「【2026年版】金属3Dプリンター完全ガイド｜価格・造形方式・メーカー比較」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「カタログスペックと価格だけでは選ばない！製造業向け3Dプリンターの比較・選び方とは？」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「warpage, and material costs under $25/kg. CF-PC (carbon fiber」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+- 主要企業：
+  - 「Dassault Systemes社が欧州の主要企業と協力して技術産業連合を設立」（https://www.cadjapan.com/news/2025/）
+  - 「シェアラボ編集部では、泣く泣く次世代3Dプリンタ展への来場を取りやめた方のために、会場での見どころを紹介していく」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「3Dプリンター 国内メーカー一覧」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「3Dプリンター 海外メーカー一覧」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「Material Market Share & Recyclability Comparison」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Thermoset (60% market share, cannot be recycled)」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Thermoplastic (40% market share, fully recyclable)」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「North America maintains 34-44% market share as the largest regional」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「unique journey from designing space-grade hardware to leading a」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+- 安全・規制・保管：
+  - 「surfaces. Mounting robots on linear rails extends reach」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「challenge: Z-direction strength typically reaches only 30-60% of」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「vessels for hydrogen storage or aerospace pneumatics—designed,」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「reachability across complex geometries」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「reachability for all segments」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「composite 3D printing specifically is projected to reach $405」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「geometries, reaching a maximum curvature angle of 32° and fabricating overhangs up to 25° without supports. According to」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「globally, reached a total production of 170.8 million of 60 kg」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「molding, and injection molding, reaching a broad range of」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「& Associates, Seattle, WA, US) [59]. The samples reached」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「of MFI can be successfully processed [71, 72], reach-」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「for 𝜎m. rLDPE/SCGs reached values of ~ 13%, whereas」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「extrusion multiplier, and extrusion width to reach a」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「SCGs (Fig. 6b) reached a consistent flow, resulting in」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「ferent curvature angles were reached when using nonpla -」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+- 品質・証明：
+  - 「CIMdata社がPLMプロフェッショナル向けの2026年版PLM認定プログラムを発表」（https://www.cadjapan.com/news/2025/）
+  - 「The MathWorks社が生成AI搭載のMATLAB Copilotを発表」（https://www.cadjapan.com/news/2025/）
+  - 「BEACON社がLeo AI社と提携、革新的なエンジニアリング設計コパイロットをインドで発表」（https://www.cadjapan.com/news/2025/）
+  - 「Siemens Digital Industries Software社が新しい認定資格を開発」（https://www.cadjapan.com/news/2025/）
+  - 「Siemens社がAIを活用した新しいメンテナンスサービスで産業用コパイロットを拡張」（https://www.cadjapan.com/news/2025/）
+  - 「Bricsys社のBricsCADがIFC4認定を取得」（https://www.cadjapan.com/news/2025/）
+  - 「and bead widths up to 21mm—coarser resolution than desktop systems」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「materials without separate qualification—a significant advantage」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「during deposition. Orbital Composites' coaxial extrusion process」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「platform's AI co-pilot leverages over 10 years of accumulated 3D」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Various autoclave qualification standards」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「were plotted on a log–log graph and were used to calculate」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「Fig. 3 Log–log plot of viscosity」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「on a log–log graph plotting the viscosity as a func-」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「16. Cao D (2023) Investigation into surface-coated continuous flax」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+- 装置縛り・オープン材料：
+  - 「OpenBOMがMCP対応のAI BOMエージェントのクローズドベータ版をリリース」（https://www.cadjapan.com/news/2025/）
+  - 「Elegoo社がオープンソースの3Dモデルプラットフォーム「Nexprint」をリリース」（https://www.cadjapan.com/news/2025/）
+  - 「SLS4AllがオープンソースのSLS方式3Dプリンター「Inova MK1」を発表」（https://www.cadjapan.com/news/2025/）
+  - 「Axtra3D社が純正シリコーン材料「TrueSilX50」で3Dプリントによるシリコーン加工の生産体制を構築」（https://www.cadjapan.com/news/2025/）
+  - 「Keysight Technologies社がチップレット設計ソフトウェア「Chiplet PHY Designer 2025」を発表」（https://www.cadjapan.com/news/2025/）
+  - 「材料押出法（MEX/FDM）では専用のフィラメントを使用して造形するのが一般的ですが、Titan Pelletでは、射出成形で通常使用されているペレットがそのまま使用可能です」（https://partners.solize.com/3dp-sales/3dsystems/ext-titan）
+  - 「proprietary systems. This plug-and-play approach—proven across 50+」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Unlike proprietary gantry systems or specialized robotic cells, ADDX」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「specialized motion controllers, proprietary robot languages, or」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「versus long-fiber compatible surfaces (gentle curvature,」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+- 売り方・商流：
+  - 「Carlson Software社が測量ソフトウェア「Carlson Survey OEM 2026」をリリース」（https://www.cadjapan.com/news/2025/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+- 技術支援：
+  - 「複雑な業界プログラムをどのようにサポートするか」（https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/）
+  - 「大きな支えのない張り出し部分やスパンは印刷が難しく、サポート材が必要になったり、向きを変えたり、設計変更が必要になる場合があります」（https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/）
+  - 「大規模な印刷や金型製作に着手する前に、設計検証をサポートする」（https://www.rapiddirect.com/ja/blog/fgf-3d-printing-guide/）
+  - 「さらに、独自のLCDスクリーン技術により、広範囲を均一かつ高解像度で露光し、高速造形をサポートします」（https://www.3dpc.co.jp/articles/lfam-3d-printing）
+  - 「Phase3D社の3Dプリント検査ソフトウェア「Fringe Inspection」がRenishaw社の3Dプリンター「RenAM 500」をサポート」（https://www.cadjapan.com/news/2025/）
+  - 「VerisurfがRenishaw Equator-Xをサポート」（https://www.cadjapan.com/news/2025/）
+  - 「UltiMaker社の3Dプリントソフトウェア「UltiMaker Cura」が3Dconnexionデバイスをサポート」（https://www.cadjapan.com/news/2025/）
+  - 「SimForm社が金型設計用シミュレーションソフトウェアの機能を拡大、圧縮金型設計をサポート」（https://www.cadjapan.com/news/2025/）
+  - 「また、実績のない材料でも、造形条件の検証を装置メーカーと協力して行うプログラムが用意されています」（https://partners.solize.com/3dp-sales/3dsystems/ext-titan）
+  - 「フィラメントとペレットを使いわけ、サポート部分を水溶性材料にすることにより、手間がかかるサポート除去の後処理を高速化」（https://partners.solize.com/3dp-sales/3dsystems/ext-titan）
+  - 「材料の粘度特性と押出パラメータを解析し、最適な設定を導き出すノウハウ」（https://www.3dpc.co.jp/articles/fgf-3d-printing）
+  - 「導入時のパラメータ設定から運用支援までトータルサポート」（https://www.3dpc.co.jp/articles/fgf-3d-printing）
+  - 「​・失敗造形やサポートなどの端材を砕いて再利用可能」（https://fgf3d.sin.jp/）
+  - 「プリントが失敗した際のモデルやサポート等の廃棄物を使って、」（https://fgf3d.sin.jp/）
+  - 「同社のペレット溶解積層方式3Dプリンター は、射出成型用ペレットを造形材料として用いることができ、また、デュアルヘッドで、造形材料とサポート材を分けて管理できるようになっている」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+- コモディティ化：
+  - 「直径1m、高さ1mの大型部品や製品を造形可能で、汎用プラスチックに加え、リサイクル材や海洋プラスチックごみなど、多様な材料に対応します」（https://www.3dpc.co.jp/articles/lfam-3d-printing）
+  - 「ABS、PETG、PPS、PEIなどの汎用樹脂から、ガラス繊維・炭素繊維入りの高機能複合材まで対応可能」（https://www.3dpc.co.jp/articles/fgf-3d-printing）
+  - 「Formlabs、低価格レジン3Dプリンター「Form Studio 1」を発表、約12万円から購入可能に」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「Materials range from commodity thermoplastics to aerospace-grade composites」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Raw pellets, low-cost bulk material」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Materials range from commodity thermoplastics to aerospace-grade」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「LFAM material selection spans from commodity polymers like ABS and」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「traditional metal tooling. The Boeing/AFRL Low-Cost Attritable」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「As an abundant commodity, coffee production generates significant scraps and by-products, increasing the potential pollution」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+- 繰り返し性：
+  - 「また、材料の補充が容易で連続的な生産が可能なので、製造ラインでの活用にも適しています」（https://www.3dpc.co.jp/articles/fgf-3d-printing）
+  - 「automated refill signals to main hopper gates, maintaining」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「reduces electricity consumption compared to conventional FDM thanks」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「energy consumption for heating/cooling cycles, and costly tooling」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「grade feedstock, cutting costs and consumption from filament processing, and fostering material waste reduction practices.」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「bags in 2021 [4 , 5]. Due to its widespread consumption,」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「lion tons of agro-waste per year [6 ]. Spent Coffee Grounds」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「coffee production and consumption, representing 90% of the」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「from implementing sustainable production and consumption」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「of production and consumption [13]. In detail, bioeconomy」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「higher material consumption [18, 41]. For this reason, relying」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+  - 「need for further reprocessing steps and energy consumption to」（https://re.public.polimi.it/retrieve/e506c666-73df-4f31-b657-96273e87df72/Large%E2%80%91format%20material%20extrusion%20additive%20manufacturing%20of%20PLA%2C%20LDPE%2C%20and%20HDPE%20compound%20feedstock%20with%20spent%20cofee%20grounds.pdf）
+- 日本：
+  - 「2025年 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2025/）
+  - 「2020年2月26日から28日までの3日間にわたって開催される「日本ものづくりワールド」」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「射出成型用のペレットを造形に利用できる3Dプリンターは国内では同社だけ」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「まさに日本の製造現場向け、という気もする」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「業務用プリンタ―の価格・造形方式など基礎知識の解説から、樹脂・金属3Dプリンタ―の検索・比較、業界のニュースやイベント情報など業務用プリンタ―の導入検討に役立つ情報を満載に揃え、3Dプリンタ―の活用推進を通して、日本の製造業の発展に寄与します」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「Japan Additive Manufacturing Meet-up (JAMM) #12 参加申込フォーム」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「Japan Additive Manufacturing Meet-up (JAMM) #13 参加申込フォーム」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「Japan Additive Manufacturing Meet-up (JAMM) #14 参加申込フォーム」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「3Dプリンター 国内メーカー一覧」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+  - 「3Dプリンター 国内代理店一覧」（https://news.sharelab.jp/3dp-news/plastics-3dprinter/slab-next3dp/）
+- 検索結果の抜粋：
+  - 「ペレット 3Dプリンター メーカー 9社 - Metoree — ペレット 3Dプリンター メーカー 9社 - Metoree Metoree https://metoree.com > プリンター」（https://metoree.com/categories/8654/）
+  - 「ペレット 3Dプリンター: ホーム — ペレット 3Dプリンター: ホーム fgf3d.sin.jp https://fgf3d.sin.jp」（https://fgf3d.sin.jp/）
+
+## 金属・セラミック含有ペレット（MIMフィードストック流用）（metal MIM feedstock pellets 3D printing pellet extrusion）
+- 文脈：ペレット・金属
+- 価格：
+  - 「詳しいお問い合わせ図面や情報をいただければ、製品価格や金型価格など詳細なお見積もりをお送りするのに通常2～3日しかかかりません」（https://jhmim.com/ja/metal-injection-molding/）
+  - 「printer that comes of a price of 49000$. Other desktop models can be found for lower budgets such as the BigFoot 200 from Tumaker」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+- 安全・規制・保管：
+  - 「当社の生産管理は、材料グレードとサプライヤーバッチの検証から始まり、保管、トライアル成形、脱脂適合性、焼結収縮、そして最終的な寸法の一貫性までを追跡します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「材料グレード、バッチ識別、包装、保管条件、および証明書データを使用前に検証します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「グレード、サプライヤーロット、梱包、保管、成形応答、脱脂、収縮、トレーサビリティ」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「サプライヤーのロット、包装状態、保管、成形応答、脱脂挙動、収縮、および最終検査結果は追跡可能である必要があります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「材料およびサプライヤーロットの検証、保護された保管、トライアル成形応答、脱脂適合性、焼結収縮、および最終的な寸法の一貫性」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「その実用的な管理ポイントは、金属粉末、バインダー、粉末とバインダーの分散状態、ペレットの状態、および保管安定性です」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「実際のプロジェクトでは、同じ材料ファミリーでも、粉末特性、バインダールート、保管条件、成形ウィンドウ、肉厚、焼結要件が変われば、挙動が異なる場合があります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「XTMIMでは、ペレットがトライアル成形または量産に入る前に、材料グレード、サプライヤーロット、梱包状態、保管期間、保管要件、および利用可能な材料ドキュメントを確認します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「材料グレード、サプライヤーロット、梱包、保管期間情報、保管要件、および利用可能な証明書を確認します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「保管ログ、密閉管理、材料分離、および指定された場合のコンディショニング」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「サプライヤーデータは、金型、成形、脱脂、焼結、保管、トレーサビリティの開始参照情報を提供します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「XTMIMは、受け入れ材料の検証、保管、トライアル成形、脱脂・焼結時の応答、最終検査、ロットトレーサビリティを管理しています」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「, which are intended for Large Format Additive Manufacturing. Indeed, the use of granules facilitates the storage and supply of the feedstock while allowing for higher flow rate」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+  - 「At the end of this cycle, the part obtained is purely metallic (or ceramic if a different powder is used). The density and the porosity state depend mainly on the sintering step (temperature reached, duration of the steps, heating ramps, control of the atmosphere) but also on the quality of the feedstock and the deposition strategy during the printing.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+  - 「To continue, the machine is equipped with a glass heating plate capable of reaching a temperature of 200 °C and that moves along the vertical axis. Following the same principle, a “core XY” driveline allows to relocate the motors outside the frame and to reduce the inertia of the moving parts. This comes in handy when dealing with larger and heavier tool units.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+- 品質・証明：
+  - 「粉末冶金にこだわらず、拡散接合処理や熱処理など小ロットでの試験・試作も是非ご相談下さい」（https://www.taisei-kogyo.com/service/equipment/）
+  - 「金属粒子を体積の半分以上含むMIMフィードストックの粘度を、MFR測定、混練性評価装置（東洋精機製作所：ラボプラストミル）、流動性評価装置（HAAKE：minilab）で管理しています」（https://www.taisei-kogyo.com/service/equipment/）
+  - 「穴、スロット、アンダーカット」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「グレード、サプライヤーロット、梱包、保管、成形応答、脱脂、収縮、トレーサビリティ」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「XTMIMは通常、社内で金属粉末を製造したり、粉末とバインダーを混合したり、フィードストックをペレット化したりするのではなく、認定された市販のフィードストックを購入します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「サプライヤーのロット、包装状態、保管、成形応答、脱脂挙動、収縮、および最終検査結果は追跡可能である必要があります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「XTMIMでは、生産は通常、認定された市販のフィードストックペレットから始まります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「材料およびサプライヤーロットの検証、保護された保管、トライアル成形応答、脱脂適合性、焼結収縮、および最終的な寸法の一貫性」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「フィードストックから焼結部品に至るまでのバッチ一貫性と工程トレーサビリティ」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「ペレットの状態、清浄度、防湿、バッチトレーサビリティも重要であり、これらは材料が成形工程に一貫して供給されるかどうかに影響します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「この段階での一貫性は、流動性、グリーン強度、脱脂、および収縮挙動に影響します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「XTMIMでは、ペレットがトライアル成形または量産に入る前に、材料グレード、サプライヤーロット、梱包状態、保管期間、保管要件、および利用可能な材料ドキュメントを確認します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「フィードストックの流動性が悪いと、金型に完全に充填されない可能性があります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「流動性の不良、混合の不均一、またはグリーン強度の弱さは、脱脂前にショートショット、バリ、フローマーク、トリミング損傷、または小さなクラックを引き起こす可能性があります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「試作ロットと量産ロット間の異なる焼結収縮挙動」（https://xtmim.com/ja/mim-process/feedstock/）
+- 装置縛り・オープン材料：
+  - 「XTMIMでは通常、市販のペレットを使用するため、工場管理は、適切な材料投入、保護された取り扱い、プロジェクト固有の成形応答、下流工程との互換性、および最終検査までのトレーサビリティに焦点を当てます」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「Originally intended for injection molding, these compounds are compatible with Pollen AM 3D printers. Pollen AM recommends Polymim GmbH's MIM raw materials.」（https://pollen.am/use_cases_metal_alloys_copper/）
+  - 「allows the process of future metal alloy parts at low temperatures. Initially aimed at injection molding, these compounds are compatible with the Pollen AM」（https://pollen.am/use_cases_metal_alloys_copper/）
+  - 「Heating cartridge and heat temperature sensors.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+- 売り方・商流：
+  - 「この記事は、金属射出成形プロジェクトを評価しているOEMおよびODMのお客様のために、XTMIMのエンジニアリングコンテンツチームが作成しました」（https://xtmim.com/ja/mim-process/feedstock/）
+- 技術支援：
+  - 「バインダーは一時的なもので、成形とグリーン部品の取り扱いをサポートし、焼結中に金属粉末が焼結される前に除去されます」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「診断は、単一の機械パラメータを繰り返し調整するのではなく、完全なプロセスチェーンをトレースする必要があります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「実際のプロセス上の課題は、フィードストック、部品設計、金型設計、ゲート位置、成形パラメータが安定したウィンドウ内で協調できるかどうかです」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「選択された市販フィードストックに組み込まれたバインダー経路は、脱脂方法、除去速度、サポート要件、および欠陥リスクに直接影響します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「バインダー除去適合性、サポート方法、収縮トレンド、密度、硬度、寸法、およびファーネスバッチ応答を確認します」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「部品形状、金型およびゲート設計、成形パラメータ、脱脂、炉サポート、検査データの通常のチェックの後で問題が繰り返される場合にレビューしてください」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「流動長、ゲート位置、射出プロファイル、およびキャビティバランス」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「壁厚、脱脂プロファイル、ローディング、およびサポート」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「炉プロファイル、セッター、ローディング方向、形状、およびサイジング計画」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「適切なレビューは、フィードストックバッチの応答と、成形ウィンドウ、トリミングサポート、脱脂ローディング、焼結サポートを関連付けます」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「成形前に始まるばらつきは焼結後にのみ測定可能になる場合があるため、1つの機械パラメータのみを原因として扱うべきではありません」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「部品設計、金型設計、ゲート位置、射出パラメータ、脱脂工程、焼結支持、および検査データも併せてレビューする必要があります」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「内容は、MIM製造の観点から、市販フィードストックの選定、受け入れバッチ管理、成形安定性、グリーン部品の取り扱い、脱脂サポート、焼結収縮、寸法管理、および生産トレーサビリティに注意を払って書かれています」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「3D printing parameters」（https://pollen.am/use_cases_metal_alloys_copper/）
+  - 「investigated the impact of the printing parameters and orientation on the mechanical properties, the micro-structure and the porosity level of the sintered part. Other materials are printed using Material Extrusion with the examples of ceramics like alumina」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+- コモディティ化：
+  - 「Considering 3D printing manufacturing, the use of compound in pellets form is the cheapest solution on the market to produce metal parts. (Pam vs. FDM, Binder Jetting, SML)」（https://pollen.am/use_cases_metal_alloys_copper/）
+  - 「Metals Ceramics Commodity Elastomers Performance High Performance.」（https://pollen.am/use_cases_metal_alloys_copper/）
+  - 「. The main reason for this choice is to investigate the possibility of sintering with cheaper furnace solution. In effect, furnaces equipped to be used with an H」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+  - 「received his Ph.D in 2009 from the Laboratoire de mécanique et technologie in Cachan, France. Since 2010, he is a reasearch engineer at CNRS in the Laboratoire de Mécanique Multiphysique Multiéchelle in Lille. His reseach interest focus on Low-Cost Metal Additive Manufacturing, smart mechanical testing and full field measurement.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+  - 「“Cheaper 3D Printing with Pellets” All3DP Pro, Dec. 06, 2021.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+  - 「https://all3dp.com/1/cheaper-3d-printing-with-pellets/」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+  - 「Zhang C., Wijnen B., Pearce J.M. Open-source 3-D platform for low-cost scientific instrument ecosystem. J Lab Autom. 2016;21(4):517–525. doi: 10.1177/2211068215624406.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+  - 「Navarro M., Matar A., Diltemiz S.F., Eshraghi M. Development of a low-cost wire arc additive manufacturing system. JMMP. 2021;6(1):3. doi: 10.3390/jmmp6010003.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9058854/）
+- 繰り返し性：
+  - 「フィードストックのバッチ記録は、成形、脱脂、焼結、密度、寸法検査、およびその他のプロジェクト固有の結果と連携されるため、リピート注文は承認された製造ルートと比較できます」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「トライアル間、生産バッチ間、またはリピートオーダー間の説明不能なばらつき」（https://xtmim.com/ja/mim-process/feedstock/）
+  - 「You're in. Check your inbox to confirm your subscription.」（https://pollen.am/use_cases_metal_alloys_copper/）
+- 日本：
+  - 「太盛工業では日々の新しいニーズに柔軟に対応するため、生産設備や測定機器はもちろん、試作・開発の為の設備まで、数多くの国内最先端の設備を保有しています」（https://www.taisei-kogyo.com/service/equipment/）
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 主要企業：記載なし（読んだ45頁・検索21回）
+
+## 光造形（SLA・DLP）用液体レジンの市場と価格（3D printing photopolymer resin market SLA DLP price）
+- 文脈：液体レジン
+- 市場規模：
+  - 「SLA・DLP・LCD光硬化型3Dプリンターの世界市場（2026年～2032年）、市場規模（SLA 3Dプリンター、DLP 3Dプリンター、LCD 3Dプリンター）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/4458243）
+  - 「SLA・DLP・LCD光硬化型3Dプリンターの世界市場（2026年～2032年）、市場規模（SLA 3Dプリンター、DLP 3Dプリンター、LCD 3Dプリンター）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「本資料には、SLA・DLP・LCD光硬化型3Dプリンターの世界市場規模、市場動向、セグメント別予測（SLA 3Dプリンター、DLP 3Dプリンター、LCD 3Dプリンター）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/4458243）
+  - 「世界のSLA-DLP-LCD光硬化型3Dプリンター市場規模は、2025年の27億6,000万米ドルから2032年には47億8,700万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.3%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4458243）
+  - 「本インサイトレポートは、SLA-DLP-LCD光硬化型3Dプリンターの世界的な見通しを形作る主要な市場動向、推進要因、および影響要因を評価し、タイプ別、用途別、地域別、市場規模別に予測を細分化することで、新興のビジネスチャンスを浮き彫りにします」（https://www.atpress.ne.jp/news/4458243）
+  - 「2021年から2026年までの地域別および国・地域別の年間販売台数と年間収益に基づいて、世界の市場規模の推移が示されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「2027年から2032年までの地域別（アメリカ、APAC、ヨーロッパ、中東・アフリカの国別予測を含む）、タイプ別、および用途別のグローバル市場規模の予測（販売台数と年間収益）が示されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「静的ふるい選別機・分離機の世界市場（2026年～2032年）、市場規模（乾式、湿式）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「SiCコーティンググラファイトサセプターの世界市場（2026年～2032年）、市場規模（パンケーキ型サセプター、バレル型サセプター、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「遺伝性心筋症の世界市場（2026年～2032年）、市場規模（抗凝固薬、降圧薬、抗不整脈薬、強心薬、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「ブラシレス剪定ばさみの世界市場（2026年～2032年）、市場規模（シングルバッテリー、デュアルバッテリー）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「超高分子量一方向（UD）ファブリックの世界市場（2026年～2032年）、市場規模（硬質一方向（UD）繊維、軟質一方向（UD）繊維）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「ITキャビネットの世界市場（2026年～2032年）、市場規模（データセンターラック、ネットワークラック、サーバーラック、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「携帯型石炭含有量分析装置の世界市場（2026年～2032年）、市場規模（0-300W、300W-400W、400-500W、500W以上）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+  - 「プロパンタンク用トップヒーターの世界市場（2026年～2032年）、市場規模（シングルヒーター、デュアルヒーター、トリプルヒーター）・分析レポートを発表」（https://www.atpress.ne.jp/news/4458243）
+- 成長率：
+  - 「世界のSLA-DLP-LCD光硬化型3Dプリンター市場規模は、2025年の27億6,000万米ドルから2032年には47億8,700万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.3%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4458243）
+  - 「さらに、アメリカ、APAC、ヨーロッパ、中東・アフリカにおけるSLA・DLP・LCD光硬化型3Dプリンターの販売成長率も分析されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「CAGR, 2026–2033」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「CAGR (2026-2033): 11.3%」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「CAGR of 11.3% from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「Revenue in USD million/billion, volume in kilotons, and CAGR from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「Germany was the leading Photopolymers market and is expected to grow at a compound annual growth rate of 12.0%.」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「The stereolithography (SLA) segment based on technology is expected to grow at a CAGR of 11.8% for the forecast period.」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「The photopolymers market is expected to grow at a compound annual growth rate of 11.3% from 2026 to 2033 to reach around USD 8.1 billion by 2033.」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「$18.76 billion in 2030 at a compound annual growth rate (CAGR) of 27.6%」（https://www.thebusinessresearchcompany.com/report/vat-photopolymerization-3d-printing-technology-global-market-report）
+  - 「$5.53 billion in 2025 to $7.08 billion in 2026 at a compound annual growth rate (CAGR) of 28.0%.」（https://www.thebusinessresearchcompany.com/report/vat-photopolymerization-3d-printing-technology-global-market-report）
+  - 「$18.76 billion in 2030 at a compound annual growth rate (CAGR) of 27.6%.」（https://www.thebusinessresearchcompany.com/report/vat-photopolymerization-3d-printing-technology-global-market-report）
+  - 「CAGR of 27.6% from 2026 to 2030」（https://www.thebusinessresearchcompany.com/report/vat-photopolymerization-3d-printing-technology-global-market-report）
+  - 「Revenue in USD Billion and CAGR from 2026 to 2030」（https://www.thebusinessresearchcompany.com/report/vat-photopolymerization-3d-printing-technology-global-market-report）
+  - 「by 2034 at a CAGR of」（https://dataintelo.com/report/global-3d-printing-photopolymer-market）
+- 価格：
+  - 「2024年、SLA-DLP-LCD光硬化型3Dプリンターの世界生産台数は144万7,000台に達し、平均販売価格は1台あたり1,821米ドルでした」（https://www.atpress.ne.jp/news/4458243）
+  - 「また、SLA、DLP、LCDといったタイプ別の市場セグメントの詳細、2021年から2026年までのタイプ別販売市場シェア、収益と市場シェア、販売価格の分析が示されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「さらに、化学産業、医療、自動車、航空宇宙などの用途別市場セグメントの詳細、2021年から2026年までの用途別販売市場シェア、収益と市場シェア、販売価格の分析が提供されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「具体的には、2021年から2026年までの企業別のSLA・DLP・LCD光硬化型3Dプリンターの年間販売台数と販売市場シェア、年間収益と収益市場シェア、および販売価格が記載されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「3D Systems、DWS Systems、EOS、GE Additiveなど、29社の主要メーカーそれぞれについて、企業情報、SLA・DLP・LCD光硬化型3Dプリンターの製品ポートフォリオと仕様、2021年から2026年までの販売台数、収益、価格、粗利益、主要事業の概要、および最新の動向が詳細にプロファイルされています」（https://www.atpress.ne.jp/news/4458243）
+  - 「宿泊助成券2万円分などが当たる」（https://www.atpress.ne.jp/news/4458243）
+  - 「100万円以下で造形できる試作用3Dプリンターとしてこの2機種はお勧めできます」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「の3Dプリンターを価格を明確にして売り出すなどの取り組みを開始しています」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「光造形3Dプリンターの価格帯と選び方｜4段階で何が変わるか | 3Dプリンター・3Dプリントならi-MAKER」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「光造形3Dプリンターの価格帯と選び方｜10万円以下から業務用まで、価格で何が変わるか」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「最も古い造形方式の一つですが、現在では価格帯も数万円から1,000万円クラスと、非常に幅広いラインナップが登場しています」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「大まかな価格帯でいうと、10万円以下の入門機、20万円から100万円のデスクトップ業務機、100万円から500万円の大型機・高精度機、1,000万円以上の生産用機の4つに分かれています」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「また、価格が上がって変わるのは、造形の安定性、造形精度、造形サイズ、使える材料の種類、購入後のサポートの5点です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「光造形3Dプリンターの価格帯は、10万円以下・20万〜100万円・100万〜500万円・1,000万円以上の4段階に分かれる」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「10万円以下の入門機（家庭用）でできること・できないこと」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+- 主要企業：
+  - 「北米、欧州、日本は、ハイエンドの DLP/SLA および医療用適合材料において高い市場シェアを有しています」（https://www.atpress.ne.jp/news/4458243）
+  - 「さらに、中国はデスクトップおよび歯科用製品において大きな市場シェアを占めています」（https://www.atpress.ne.jp/news/4458243）
+  - 「本インサイトレポートは、世界のSLA-DLP-LCD光硬化型3Dプリンター市場の全体像を包括的に分析し、製品セグメンテーション、企業動向、売上高、市場シェア、最新動向、およびM&A活動に関連する主要なトレンドを明らかにします」（https://www.atpress.ne.jp/news/4458243）
+  - 「本レポートでは、製品タイプ、用途、主要メーカー、主要地域および国別に、SLA-DLP-LCD光硬化式3Dプリンター市場の包括的な概要、市場シェア、成長機会を提示します」（https://www.atpress.ne.jp/news/4458243）
+  - 「また、SLA、DLP、LCDといったタイプ別の市場セグメントの詳細、2021年から2026年までのタイプ別販売市場シェア、収益と市場シェア、販売価格の分析が示されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「さらに、化学産業、医療、自動車、航空宇宙などの用途別市場セグメントの詳細、2021年から2026年までの用途別販売市場シェア、収益と市場シェア、販売価格の分析が提供されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「具体的には、2021年から2026年までの企業別のSLA・DLP・LCD光硬化型3Dプリンターの年間販売台数と販売市場シェア、年間収益と収益市場シェア、および販売価格が記載されています」（https://www.atpress.ne.jp/news/4458243）
+  - 「また、主要メーカーの生産拠点分布、販売地域、提供される製品タイプ、市場集中度分析、競争環境分析、CR3、CR5、CR10集中度比率（2024年〜2026年）、新製品と潜在的参入企業、市場のM&A活動と戦略に関する情報も含まれています」（https://www.atpress.ne.jp/news/4458243）
+  - 「第13章には、主要企業の詳細な分析が収められています」（https://www.atpress.ne.jp/news/4458243）
+  - 「3D Systems、DWS Systems、EOS、GE Additiveなど、29社の主要メーカーそれぞれについて、企業情報、SLA・DLP・LCD光硬化型3Dプリンターの製品ポートフォリオと仕様、2021年から2026年までの販売台数、収益、価格、粗利益、主要事業の概要、および最新の動向が詳細にプロファイルされています」（https://www.atpress.ne.jp/news/4458243）
+  - 「シェアラボ編集部がおすすめする基本的な購入戦略は「段階的に高いものを購入」という方針です」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「のラボマネージャーであるAnthony Barnicott氏は、14台のFDMプリンタ、3台のFormシリーズ 大容量SLA光造形プリンタ、5台のFuseシリーズ SLSプリンタを活用し、McLaren、Volvo、Nissan、Lotusなどの大手ブランドから依頼されたコンセプトカーの機能試作や設計レビュー用のパーツを製作しています」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「2026年現在、Bambu LabやCreality Kシリーズなど主要メーカーの上位機種はほぼすべてCoreXYを採用しています」（https://skhonpo.com/blogs/3dprinter-practice/02）
+  - 「By country: The Germany held the largest market share in 2025.」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+- 安全・規制・保管：
+  - 「は管理が容易ですが、光造形方式に利用する光硬化性の液体樹脂は、光を当てると硬化するため、光が当たらないように保管する必要があります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「3DMedSupo 製品 SDS」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「3.1. 保管と管理」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「に弱いため、使用後は適切に保管する必要があります」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「未使用のレジンは、光を遮断する容器に密閉して保管し、直射日光の当たらない涼しい場所で管理することが推奨されます」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「レジンの使用期限は一般的に製造から1〜2年程度ですが、適切な保管条件下であれば、この期間は延びる場合があります」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「直射日光を避け、密閉された容器で冷暗所に保管することが重要です」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「フィラメントは保存が可能で有効期限がないため、供給者は欠品や需要の変化を考慮せずに価格を設定できるのです」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「一方、SLA光造形用レジンは配合や製造、保管方法が複雑で、こういった要素が全て関連して価格帯が上がっています」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「3DMedSupo 製品 SDS」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJajPnW7rLFdKBXXVPZNC3uq5ILzjhCi0jhMOHN0h2PtEhHaF4a）
+  - 「3DMedSupo 製品 SDS」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vLGGOwG8jo2p6jTyKmLwZCTSrun8O6AR_PD1bsEWTEomHR6Uci0）
+  - 「Q：光造形3Dプリンターを使う場合、消防法にどう関係しますか？」（https://skhonpo.com/blogs/faq/resin-printer-fire-law）
+  - 「光造形で使うUVレジンやIPA（イソプロピルアルコール）は、消防法上の「危険物第4類 引火性液体」に該当するケースがあります」（https://skhonpo.com/blogs/faq/resin-printer-fire-law）
+  - 「「ホビー用途ならたぶん関係ない」と思って大量に保管していると、気づかず少量危険物貯蔵取扱所の届出義務に引っかかる可能性もあります」（https://skhonpo.com/blogs/faq/resin-printer-fire-law）
+  - 「レジンはSDSの消防法分類で判定し、指定数量の1/5以上は所轄消防署へ確認」（https://skhonpo.com/blogs/faq/resin-printer-fire-law）
+- 品質・証明：
+  - 「DLP技術は、各層の完全な画像を樹脂表面に投影して表面硬化を行うため、速度と精度のバランスが取れており、中小規模の精密部品の小ロット生産に適しています」（https://www.atpress.ne.jp/news/4458243）
+  - 「歯科のデジタル化、小ロットのダイレクトプリント、自動化された後処理、低臭気・生体適合性樹脂、プリントファームに牽引される今後の展開は、ブラシレス操作・閉ループ温度・酸素制御、統合された自動洗浄および二次硬化、オープン／セミオープンの材料エコシステム、トレーサビリティのコンプライアンスへと向かっています」（https://www.atpress.ne.jp/news/4458243）
+  - 「業界参入障壁は、配合および材料認証、光機械・温度・環境制御の相乗効果、長期安定性およびロット間均一性、ならびに販売チャネルおよびサービスネットワークに反映されている」（https://www.atpress.ne.jp/news/4458243）
+  - 「1,000万円以上の光造形3Dプリンターは、最終品として使える品質と造形の速さを備え、小ロットの量産にも使われます」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「局所排気装置の設置、有機溶剤作業主任者の選任、年2回の特殊健康診断、年2回の作業環境測定などが必要になり、使用量が少ない場合も自動で免除されるわけではなく、適用除外を受けるには労働基準監督署長の認定が必要です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「【正規代理】CREALITY Halot-Mage Pro CL-103L 8K光造形3Dプリンター 超大型10.3インチLCD UV樹脂光硬化 MSLAプリンタ レジン自動供給 ...」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「Creality HALOT-MAGE-PRO 3D プリンター」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「Creality 光造形3Dプリンター SLA/LCD方式 造形サイズ192×120×200mm HALOT-SKY」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「【即日発送】CREALITY Halot-Mage Pro CL-103L 8K光造形3Dプリンター 超大型10.3インチLCD UV樹脂光硬化 MSLAプリンタ レジン自動供給 ...」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「のラボマネージャーであるAnthony Barnicott氏は、14台のFDMプリンタ、3台のFormシリーズ 大容量SLA光造形プリンタ、5台のFuseシリーズ SLSプリンタを活用し、McLaren、Volvo、Nissan、Lotusなどの大手ブランドから依頼されたコンセプトカーの機能試作や設計レビュー用のパーツを製作しています」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「Creality HALOT-X1 combo」（https://skhonpo.com/blogs/3dprinter-practice/02）
+  - 「1,000万円以上の光造形3Dプリンターは、最終品として使える品質と造形の速さを備え、小ロットの量産にも使われます」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJajPnW7rLFdKBXXVPZNC3uq5ILzjhCi0jhMOHN0h2PtEhHaF4a）
+  - 「局所排気装置の設置、有機溶剤作業主任者の選任、年2回の特殊健康診断、年2回の作業環境測定などが必要になり、使用量が少ない場合も自動で免除されるわけではなく、適用除外を受けるには労働基準監督署長の認定が必要です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJajPnW7rLFdKBXXVPZNC3uq5ILzjhCi0jhMOHN0h2PtEhHaF4a）
+  - 「「Form 4L」は、大容量ビルドボリューム（353 x 196 x 350 mm）を持ちながらほとんどの造形が6時間以内で完了し、小ロット生産から試作まで最速でこなす大型SLA3Dプリンタです」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「1,000万円以上の光造形3Dプリンターは、最終品として使える品質と造形の速さを備え、小ロットの量産にも使われます」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vLGGOwG8jo2p6jTyKmLwZCTSrun8O6AR_PD1bsEWTEomHR6Uci0）
+- 装置縛り・オープン材料：
+  - 「歯科のデジタル化、小ロットのダイレクトプリント、自動化された後処理、低臭気・生体適合性樹脂、プリントファームに牽引される今後の展開は、ブラシレス操作・閉ループ温度・酸素制御、統合された自動洗浄および二次硬化、オープン／セミオープンの材料エコシステム、トレーサビリティのコンプライアンスへと向かっています」（https://www.atpress.ne.jp/news/4458243）
+  - 「液体材料は光で硬化してしまうため、引き揚げた後に専用の溶剤で洗浄する必要があります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「非接触RFIDの極小部品を光造形方式の3Dプリンターで量産」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「造形データを機械が読める形に変換するソフトも純正のものが用意されておらず、多くは無料で公開されているサードパーティ製のソフトを使うことになります」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「専用ソフトにも材料ごとの設定があらかじめ用意されているため、使う人は材料をセットして造形データを送るだけで、担当者が替わっても同じ品質の造形物を出すことができます」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「造形直後の造形物の表面には未硬化のレジンが残っており、一般的なレジンではこれは水では落とせないため、専用の洗浄液で洗ってから二次硬化させる必要があります」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「は、ふた付きの容器に洗浄液を入れて浸ける方法でも洗うことができるため必須ではありませんが、洗う数が多い場合や仕上がりをそろえたい場合は、専用の洗浄機や超音波洗浄機があると、浸ける時間と液の動きが一定になります」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「ABS-Like レジン 3Dプリンターレジン Conjure 高靭性 耐衝撃性 切削性 光造形 3Dプリンターに幅広い互換性 ABSレジン 3Dプリンター向け (黒 1kg)」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「UniTak3D Photon S FEPフィルム光造形専用膜 140x200mm高温耐性高透過性ANYCUBIC Photon/Photon S/for Mars 2 PRO/f...」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「プリント中は未焼結パウダーが造形品を支えるため、専用のサポート材が不要で、内部構造やアンダーカット、薄肉構造、空洞構造などの複雑な形状の製作に最適なだけでなく、量産用途にも対応できます」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「デスクトップ型プリンタには空調完備、できれば専用換気装置のある環境が望ましい」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「SLS方式は専用のサポート材が不要で、プリントで使用しなかった未焼結パウダーは次のプリントで再利用可能なため、材料コストを抑えることができる」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「サードパーティ製の材料で使用するオープン設定の場合、反りなどの造形不良だけでなく造形品の品質・性能低下の可能性が高まります」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「を使用することで、ヘルスケアプロバイダーは患者様専用にカスタマイズした医療機器や軟組織モデルなど、形状が複雑で柔らかく伸縮性のある生体適合性器具を3Dプリントすることができる」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「従来、「トップダウン式」と呼ばれるレーザー駆動型のSLA光造形3Dプリンタは非常に大型で、設置面積は何メートルにもおよび、補助的な換気設備や専用の電気回路の整備も必要でした」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+- 売り方・商流：
+  - 「地域別では、アジア太平洋地域の中国が、LCD組立およびOEM製造、ならびに民生向け製品の出荷において主導的な地位を占めている」（https://www.atpress.ne.jp/news/4458243）
+  - 「Amazonや、海外メーカーがインターネットで直接販売している機種では、故障したときに部品の入手と修理の窓口が課題になることがあります」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「株式会社アイ・メーカー（i-MAKER）／3DMedSupoの正規販売代理店」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「3Dプリンター・レジン専門通販のSK本舗が、各種レジンの特性と使い分けのポイントを詳しく解説します」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「Formlabs 正規代理店 SK本舗から、選び方の追加ガイド」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「Bambu Lab・Elegoo・Anycubic等の正規代理店として、初心者から上級者まで最適な一台をご提案します」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「「3Dプリンタ 光造形」の人気商品一覧 | 安い商品を通販サイトから探す - 価格.com」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「Peoploy Moai SLA printer 光造形式レーザーSLA 3Dプリンタ- 【正規販売代理店】」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「Peoploy Moai 130 SLA printer-Kit version光造形式レーザーSLA 3Dプリンタ-組立キット【正規販売代理店】」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「3Dプリンタ 光造形の通販情報・価格比較」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「Bambu Lab・Elegoo・Anycubic等の正規代理店として、安心のサポートをお届けします」（https://skhonpo.com/blogs/3dprinter-practice/02）
+  - 「Amazonや、海外メーカーがインターネットで直接販売している機種では、故障したときに部品の入手と修理の窓口が課題になることがあります」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJajPnW7rLFdKBXXVPZNC3uq5ILzjhCi0jhMOHN0h2PtEhHaF4a）
+  - 「株式会社アイ・メーカー（i-MAKER）／3DMedSupoの正規販売代理店」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJajPnW7rLFdKBXXVPZNC3uq5ILzjhCi0jhMOHN0h2PtEhHaF4a）
+  - 「日本正式代理店：フュージョンテクノロジーが日本市場に紹介します」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「直接メーカーや販売店に問い合わせて、詳細な機能や、自身の用途に合っているのかなどを確認するのがおすすめです」（https://flashforge.jp/benefit_list/stereolithography/）
+- 技術支援：
+  - 「3D Systems、DWS Systems、EOS、GE Additiveなど、29社の主要メーカーそれぞれについて、企業情報、SLA・DLP・LCD光硬化型3Dプリンターの製品ポートフォリオと仕様、2021年から2026年までの販売台数、収益、価格、粗利益、主要事業の概要、および最新の動向が詳細にプロファイルされています」（https://www.atpress.ne.jp/news/4458243）
+  - 「レーザー光を液体樹脂の底面から照射する場合、造形物を固定するビルドプレートを上からつるし、液体材料のプールから引き揚げながら造形するボトムアップ式（吊り下げ式）と、レーザーを上部から照射し、ビルドプレートを下に配置するボトムダウン式の装置がありますが、どちらの場合でも、サポート材が必要になります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「光造形の場合、液体材料が充填されたプール（バット）の中で造形されますので、造形中に浮力が働き、ほかの工法よりもサポート材を抑えて配置しても造形できますが、造形材とサポート材が同じ材質になってしまうので、サポート除去は、作業者が手でおこなわなければならないでしょう」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「また小型装置では材料の劣化は気にならないかもしれませんが、大型装置の場合、液体材料を数百リットル格納するため、液体樹脂の温度や投入後の経過時間などをもとに材料劣化を判断しながらパラメータを調整するなどの工夫も必要になってくると言います」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「SLA方式同様に、造形物を支えるサポート材が必要になります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「また造形材とサポート材を同じ材質で行う必要があります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「フルカラーでの造形や、サポート材に水溶性サポート材を利用することも可能です」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「一方で、液体材料の中で造形しないため、サポート材は多めに配置する必要が出てきます」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「3. 部品とサポート材が同じ材質になる」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「光造形方式では、液体材料を充填した液槽（バット/プール）に対してUV光を当てるため、部品の材質とサポート材の材質を使い分けることができません」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「FDM方式では利用できる機種が増えてきた水溶性サポート材が利用できないため、サポート除去が手間に感じる場合もあるでしょう」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「ノウハウのあるサービスビューロでは、材料の劣化状況を見ながら造形条件を調整しているといいます」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「剥離対策としては、造形する形状や造形物の重さを考慮して、サポート材を適切に配置する、造形速度を調整するなどの工夫が必要となります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「液体材料の浮力を考慮に入れサポート材がピンポイントでしか入っていない場合もあるとおもいますので、形状が安定しない場合、サポート材を配置する密度を変える、該当箇所のみ強化するなどの工夫をおこなってみましょう」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「また、価格が上がって変わるのは、造形の安定性、造形精度、造形サイズ、使える材料の種類、購入後のサポートの5点です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+- コモディティ化：
+  - 「課題としては、樹脂の安全性と臭気制御、装置の安定性とアフターサービス、光学部品・パネルおよびDMDの供給、価格競争、コンプライアンスコストなどが挙げられる」（https://www.atpress.ne.jp/news/4458243）
+  - 「-は、UV硬化樹脂を使用する、低価格なレーザーSLA」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「-組立キットは、UV硬化樹脂を使用する、低価格なレーザーSLA」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「3Dプリンター レジン液 標準・CP・Clear Plus微透明 405nm 500g/1kg 光造形 汎用素材 造形材 プリンタ 家庭用 業務用【QTS】【台湾発送】」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「低価格のFDMプリンタや3Dプリンタキットの場合、$200程度から購入可能」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「手始めにどのプリンタを選べばよいか迷った場合には、低価格の初心者向けFDMプリンタなら無理なく手が届く選択肢になります」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「しかし、低価格のFDMプリンタは信頼性が低く、長期的な使用には専門知識が必要になることが多々あります」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「低価格光造形3Dプリンタの中には、選んだ材料を希望の積層ピッチで正常にプリントできるよう、さらに細かなキャリブレーションが必要になるものもあります」（https://www.form2.shop/post/blog-20240522-printin-guide?srsltid=AYCX9vI_v79locqnUJI5Siv8gvAOfCMShwezsZvfmgevt402hQNkWDSq）
+  - 「低価格帯では、$200～1000の格安LCD 3Dプリンタがあります」（https://www.form2.shop/post/blog-20240522-printin-guide?srsltid=AYCX9vI_v79locqnUJI5Siv8gvAOfCMShwezsZvfmgevt402hQNkWDSq）
+  - 「汎用（スタンダード）レジンで作った造形物は、落としたり、はめ込みの爪を曲げたりすると欠けることがあります」（https://i-maker.jp/blog/demerit-16241.html?srsltid=AYCX9vI0xbLn8i8MDgs3bR_sj7ENcQTn43GVGEXLliDJ0QosZVyWPxDQ）
+  - 「強化されていない汎用レジンは伸びが小さく、硬さと表面の滑らかさは出ますが衝撃や曲げに弱いためです」（https://i-maker.jp/blog/demerit-16241.html?srsltid=AYCX9vI0xbLn8i8MDgs3bR_sj7ENcQTn43GVGEXLliDJ0QosZVyWPxDQ）
+  - 「低価格ながら、靭性と強度に優れており機能試作などにもお使いいただけます」（https://make.dmm.com/blog/modelingmethod/stereolithographyapparatus/）
+  - 「低価格でプロトタイプを製作する用途に最適で、量産にも対応しています」（https://make.dmm.com/blog/modelingmethod/stereolithographyapparatus/）
+  - 「Signal - Commodity Pricing」（https://www.grandviewresearch.com/industry-analysis/photopolymers-market-report）
+  - 「Finally, ABS is considered to be a relatively cheap material for FDM 3D printing. A 1-kg spool of good ABS can be found for between $20 and $35, including low-odor versions like」（https://facfox.com/docs/kb/3d-printer-material-cost-in-2021-an-overview）
+- 繰り返し性：
+  - 「一方で、LCDパネルは熱と紫外線に弱いため、定期的な交換が必要になります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「局所排気装置の設置、有機溶剤作業主任者の選任、年2回の特殊健康診断、年2回の作業環境測定などが必要になり、使用量が少ない場合も自動で免除されるわけではなく、適用除外を受けるには労働基準監督署長の認定が必要です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「SK本舗 SKレジンウォッシング 1000ml 光造形3Dプリンター用 洗浄液 石鹸の香り | アルコール洗浄が前提のレジンもこれ1本で洗浄,IPAと比べ約3分の1の使用量で満足の...」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「作業工程として定期的に3Dプリントを使用する企業の大半は、複数の方式を併用で活用しています」（https://formlabs.com/jp/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/）
+  - 「ただし光造形は造形物が小さいので1回あたりの材料使用量は少なく済みます」（https://skhonpo.com/blogs/3dprinter-practice/02）
+  - 「局所排気装置の設置、有機溶剤作業主任者の選任、年2回の特殊健康診断、年2回の作業環境測定などが必要になり、使用量が少ない場合も自動で免除されるわけではなく、適用除外を受けるには労働基準監督署長の認定が必要です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJajPnW7rLFdKBXXVPZNC3uq5ILzjhCi0jhMOHN0h2PtEhHaF4a）
+  - 「高度なカートリッジシステムがレジンタンクに液体レジンを自動的に補充するため、ユーザーの介入が必要になる回数が少なく、夜間の造形も簡単に行えます」（https://www.form2.shop/post/blog-20240522-printin-guide?srsltid=AYCX9vI_v79locqnUJI5Siv8gvAOfCMShwezsZvfmgevt402hQNkWDSq）
+  - 「一方でパネルを定期的に交換する分、ランニングコストがかかります」（https://flashforge.jp/benefit_list/stereolithography/）
+  - 「局所排気装置の設置、有機溶剤作業主任者の選任、年2回の特殊健康診断、年2回の作業環境測定などが必要になり、使用量が少ない場合も自動で免除されるわけではなく、適用除外を受けるには労働基準監督署長の認定が必要です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vLGGOwG8jo2p6jTyKmLwZCTSrun8O6AR_PD1bsEWTEomHR6Uci0）
+  - 「危険物取扱者の配置や定期点検など、本格的な規制対象です」（https://skhonpo.com/blogs/faq/resin-printer-fire-law）
+  - 「危険物取扱者（乙4等）の配置、定期点検、保安監督者の選任など、本格的な規制対象となります」（https://skhonpo.com/blogs/faq/resin-printer-fire-law）
+  - 「また、樹脂を入れるタンクの洗浄や定期的な交換を行うことで、前に使用していた素材が残らないようにすることも重要です」（https://make.dmm.com/blog/modelingmethod/stereolithographyapparatus/）
+  - 「一方で、LCDパネルは熱と紫外線に弱いため、定期的な交換が必要になります」（https://make.dmm.com/blog/modelingmethod/stereolithographyapparatus/）
+  - 「価格は造形できるサイズや、レジンの自動補充機能・専用ソフトウェアの有無などによって変わってきます」（https://make.dmm.com/blog/modelingmethod/stereolithographyapparatus/）
+  - 「局所排気装置の設置、有機溶剤作業主任者の選任、年2回の特殊健康診断、年2回の作業環境測定などが必要になり、使用量が少ない場合も自動で免除されるわけではなく、適用除外を受けるには労働基準監督署長の認定が必要です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vK2neQoekkMq5Zt4tlAAQ8wkKxKSjAGM7VjYwJgUOJWpJS2I_T_）
+- 日本：
+  - 「北米、欧州、日本は、ハイエンドの DLP/SLA および医療用適合材料において高い市場シェアを有しています」（https://www.atpress.ne.jp/news/4458243）
+  - 「この業界は産業用途の成長を牽引しており、米国・ドイツ・フランスは医療および産業分野に強みを持ち、日本は精度と材料の一貫性を重視しています」（https://www.atpress.ne.jp/news/4458243）
+  - 「2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売台数と収益、タイプ別の販売台数、および用途別の販売台数が含まれています」（https://www.atpress.ne.jp/news/4458243）
+  - 「・日本語タイトル：SLA・DLP・LCD光硬化型3Dプリンターの世界市場2026年～2032年」（https://www.atpress.ne.jp/news/4458243）
+  - 「日本発、AIハーネス“AICO層”に」（https://www.atpress.ne.jp/news/4458243）
+  - 「日本発のヒューマノイド「cinnamon 2」もご披露いただきます！」（https://www.atpress.ne.jp/news/4458243）
+  - 「D-MECはJSRの子会社として国内に数百社に導入実績がある樹脂3Dプリンターを納入してきた実績があります」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「各社材料分野で製品改善を続け、最終部品製造に取り組む構えを見せていますが、この分野で国内外でさまざまな事例をもっているCarbonは検討するべき価値を持っているといえるでしょう」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「なめらかな表面性を実現できるため、試作品の造形用に、日本でも広く利用されています」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「サポート体制については、保証の期間、消耗部品の供給、日本語で問い合わせできる窓口の有無が確認の対象です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJXWO6ICVoqVAYtLKtLctWp4m36B_LYvwn7jVzIMIrMnh57PGGh）
+  - 「SK本舗は国内最大級の3Dプリンター専門店です」（https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake）
+  - 「商品情報 メーカー マルト長谷川工作所(KEIBA)品番 UN-E05仕様・スペック 【呼び寸】120mm【切断対象】レジン1mm以下推奨【重量】48g【生産国】日本（新潟県三条市）■」（https://search.kakaku.com/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%20%E5%85%89%E9%80%A0%E5%BD%A2/）
+  - 「光造形の原理は1981年に日本人の小玉秀男氏が発表し、1984年に米国のチャック・ハル氏が「Stereolithography（SLA）」として特許化・実用化した、最も歴史ある3Dプリント技術です」（https://skhonpo.com/blogs/3dprinter-practice/02）
+  - 「サポート体制については、保証の期間、消耗部品の供給、日本語で問い合わせできる窓口の有無が確認の対象です」（https://i-maker.jp/blog/3d-sla-price-13662.html?srsltid=AYCX9vJajPnW7rLFdKBXXVPZNC3uq5ILzjhCi0jhMOHN0h2PtEhHaF4a）
+  - 「日本正式代理店：フュージョンテクノロジーが日本市場に紹介します」（https://mono.ipros.com/cg2/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E5%85%89%E9%80%A0%E5%BD%A2/）
+- 検索結果の抜粋：
+  - 「SLA ・ DLP ・LCD光硬化型3Dプリンターの世界 市場 （2026年 ... — SLA ・ DLP ・LCD光硬化型3Dプリンターの世界 市場 （2026年 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4458243）
+  - 「【2026年版】 光造形 3Dプリンター完全ガイド｜ SLA ・ DLP ... — 【2026年版】 光造形 3Dプリンター完全ガイド｜ SLA ・ DLP ... ShareLab NEWS https://news.sharelab.jp > study > stereolithography-method」（https://news.sharelab.jp/study/stereolithography-method/）
+  - 「【3Dプリンター】 光造形 方式とは？ SLA ・ DLP ・LCDの ... — 【3Dプリンター】 光造形 方式とは？ SLA ・ DLP ・LCDの ... KUWABARA 3D PRINT https://www.kuwabara-3d.com > column」（https://www.kuwabara-3d.com/column/c025/）
+
+## マテリアルジェット用材料（material jetting materials market inkjet 3D printing）
+- 文脈：液体レジン
+- 市場規模：
+  - 「3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53% | IMARC Group Pvt.Ltd.のプレスリリース」（https://www.dreamnews.jp/press/0000349615）
+  - 「3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53%」（https://www.dreamnews.jp/press/0000349615）
+  - 「従業員エンゲージメント・ソフトウェア市場規模、2034年までに32億5,590万米ドルに到達へ ― 年平均成長率（CAGR）11.43%で拡大」（https://www.dreamnews.jp/press/0000349615）
+  - 「アルミニウムリサイクル市場規模、2026年に132450百万米ドル拡大確実」（https://www.dreamnews.jp/press/0000349615）
+  - 「3,000万円～1億円以上」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「1000万円～1億円」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「3D Printing vs Injection Molding: If you need a million identical parts, injection molding will crush 3D printing on cost per unit. But the mold itself costs thousands to make upfront. If you only need 50 or 500 parts? That’s where 3D printing comes out ahead.」（https://jlc3dp.com/blog/3d-printing-cost）
+- 成長率：
+  - 「3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53% | IMARC Group Pvt.Ltd.のプレスリリース」（https://www.dreamnews.jp/press/0000349615）
+  - 「3Dプリンティング市場規模、2034年までに1386億米ドルに到達――2026年～2034年の年平均成長率は16.53%」（https://www.dreamnews.jp/press/0000349615）
+  - 「本レポートによると、世界の3Dプリンティング市場は2025年に336億米ドルと評価され、2034年には1386億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は16.53%となる見込みです」（https://www.dreamnews.jp/press/0000349615）
+  - 「ヘルスケア分野は、2030年まで年平均成長率25.33%で成長を続ける最も急成長している分野であり、これはカスタマイズされた医療製品の高い価値と、認証済みのAM（積層造形）医療機器の普及に向けた規制当局の意欲の高まりを反映しています」（https://www.dreamnews.jp/press/0000349615）
+  - 「日本生分解性フードサービス使い捨て製品市場の成長予測 2034 | 795.72百万米ドルの評価額、5.18%のCAGR」（https://www.dreamnews.jp/press/0000349615）
+  - 「オルタネーター市場、2034年までにCAGR 4.28%で298億米ドルへ急拡大する見通し」（https://www.dreamnews.jp/press/0000349615）
+  - 「従業員エンゲージメント・ソフトウェア市場規模、2034年までに32億5,590万米ドルに到達へ ― 年平均成長率（CAGR）11.43%で拡大」（https://www.dreamnews.jp/press/0000349615）
+- 価格：
+  - 「100万円未満」（https://www.ricoh.co.jp/3dp/lineup/polyjet）
+  - 「100～500万円未満」（https://www.ricoh.co.jp/3dp/lineup/polyjet）
+  - 「500～1000万円未満」（https://www.ricoh.co.jp/3dp/lineup/polyjet）
+  - 「1000～3000万円未満」（https://www.ricoh.co.jp/3dp/lineup/polyjet）
+  - 「3000万円以上」（https://www.ricoh.co.jp/3dp/lineup/polyjet）
+  - 「3Dプリンターの樹脂材料の価格とは？ | 3Dプリンター・3Dプリントならi-MAKER」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「3Dプリンターの樹脂材料の価格帯について」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「価格帯も樹脂（プラスチック）の種類、3Dプリンターの種類によって大きく異なります」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「そこで今回は、3Dプリンターの樹脂材料の価格帯に焦点を当て、かつ対応している3Dプリンターや使い勝手、できることなどにふれつつ、ご紹介していきたいと思います」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「種類別3Dプリンターの樹脂材料の価格帯」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「材料の価格帯（1㎏目安）」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「2,000円～100,000円程度」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「2,000円～37,800円程度」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「58,000円～」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「10,000円～」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+- 主要企業：
+  - 「ニューヨーク発 – IMARCグループは、包括的な市場情報レポート「3Dプリンティング市場：技術、プロセス、材料、製品、用途、エンドユーザー、地域別の規模、シェア、動向、予測 – 2026年～2034年」を発表しました」（https://www.dreamnews.jp/press/0000349615）
+  - 「2026年には、溶融堆積モデリング（FDM）が35.7%の市場シェアで技術構成をリードし、2025年に39億米ドルの収益を上げたステレオリソグラフィーがそれに続き、選択的レーザー焼結（SLS）は16.49%のシェアを占めています」（https://www.dreamnews.jp/press/0000349615）
+  - 「2025年には、金属材料が3Dプリンティング材料カテゴリーで51%の収益シェアを獲得し、航空宇宙、防衛、自動車分野における同技術の浸透度の高さを反映しています」（https://www.dreamnews.jp/press/0000349615）
+  - 「3Dプリンター 海外メーカー一覧│業務用3Dプリンターのポータルサイト ShareLab | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「3Dプリンター 海外メーカー一覧」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「3Dプリンター 国内メーカー一覧はコチラ」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「1989年に設立された3Dプリンターの世界シェアNo.1の会社」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「2015年より日本市場においてコンシューマー向け3Dプリンター事業を展開しており、グローバルではデスクトップ3Dプリンター製品ならびにサービス分野においてトップシェアを誇る」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「2013年に大手インクジェットプリンタメーカー出身者によって設立された大型造形用3Dプリンタメーカー」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+- 安全・規制・保管：
+  - 「*ASTM D543: 異なる化学薬品に浸した試料は22℃で保管」（https://make.dmm.com/print/material/）
+  - 「モーターオイルに浸した試料は50℃で保管」（https://make.dmm.com/print/material/）
+  - 「最適化された不活性ガスフローにより、造形チェンバーで発生する燻煙も効率よく除去し、最良の造形環境を維持する」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「・光造形は強い衝撃に弱く耐光性も弱い為、保管には注意が必要となります」（https://www.ricoh.co.jp/3dp/print_service/material）
+  - 「Additive manufacturing - Environment, health and safety - Test method for the hazardous substances emitted from material extrusion type 3D printers in the non-industrial places」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「creep into in-house 3D printing. Power bills, replacement tools, calibration time, scrapped parts, storage for spools you’ll never use again, they all add up.」（https://jlc3dp.com/blog/3d-printing-cost）
+- 品質・証明：
+  - 「このレジンはFormlabsにおいて1.6mmの厚さでUL 94 V-0の認定を取得しており、高温環境や製造現場で利用される治具や設備機器の交換部品、航空機・自動車・鉄道車両などの内装部品、電子機器の筐体などへの活用が期待されます」（https://make.dmm.com/print/material/）
+  - 「DDMにより、ラピッドプロトタイピングによる市場への早い投入だけでなく、小ロット生産やカスタムオーダーに対応が可能となる」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「ナイロン6の粒形が真球であるため、粉末の流動性が良好で、造形品は高密度かつ表面平滑性に優れています」（https://www.ricoh.co.jp/3dp/print_service/material）
+  - 「NSF 51食品接触認定を受けた唯一のFDM材料であり、ISO 10993/USPクラスVI認定と生体適合性があります」（https://www.ricoh.co.jp/3dp/print_service/material）
+  - 「Qualification principles」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing --- Qualification principles --- Requirements for industrial additive manufacturing processes and production sites」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing of polymers --- Qualification principles --- Classification of part properties」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing of polymers --- Feedstock materials --- Qualification of materials for laser-based powder bed fusion of parts」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「樹脂AM - 造形用材料- レーザーベースの粉末床溶融結合部品用の材料の認定」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing of metals --- Qualification principles --- Part 1: General qualification of operators」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing of metals --- Qualification principles --- Part 2: Qualification of operators for PBF-LB」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing of metals --- Qualification principles --- Part 3: Qualification of operators for PBF-EB」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing of metals --- Qualification principles --- Part 4: Qualification of operators for DED-LB」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing of metals --- Qualification principles --- Part 5: Qualification of operators for DED-Arc」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+  - 「Additive manufacturing --- Qualification principles --- Installation, operation and performance (IQ/OQ/PQ) of PBF-LB equipment」（http://www.monozukuri.org/mono/db-dmrc/3dprinter/overview/standard.html）
+- 装置縛り・オープン材料：
+  - 「また、高圧なレーザーを使用しないため安全であり、材料は専用のカートリッジで供給するため、材料を交換・補充する際の手間も大きくありません」（https://news.sharelab.jp/study/am-mjt/）
+  - 「この3機種は、UV硬化レジンが純正のものになります」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「Formlabs社製の3Dプリンター「Form 4®」(※1)シリーズ専用に開発された、幅広い用途に活用可能な、明るい白色の汎用レジンです」（https://make.dmm.com/print/material/）
+  - 「Black Resin V5は、Formlabs社製の3Dプリンター「Form 4®」シリーズ専用に開発された、幅広い用途に活用可能なスタンダードレジンです」（https://make.dmm.com/print/material/）
+  - 「Grey Resin V5は、Formlabs社製の3Dプリンター「Form 4®」シリーズ専用に開発された、幅広い用途に活用可能なスタンダードレジンです」（https://make.dmm.com/print/material/）
+  - 「純正品以外のフィラメント・素材も使えるの？」（https://3dprinter.co.jp/2835/）
+  - 「一方、デュアルヘッドの機種では、押出ノズルが2本あるため、専用のサポート材を使用することができます」（https://3dprinter.co.jp/2835/）
+  - 「基本的に、フィラメントや素材は、メーカーの純正品を使用」（https://3dprinter.co.jp/2835/）
+  - 「3Dプリンターの温度設定やヘッドの移動速度は、純正品に最適化されており、最も品質の高い製品を造形できるからです」（https://3dprinter.co.jp/2835/）
+  - 「とはいえ、絶対に純正品以外を使用してはいけないかというと、そういうわけでもありません」（https://3dprinter.co.jp/2835/）
+  - 「ただし、純正品以外のフィラメントを使用した際や、その後のトラブル・故障については、メーカーの保証外です」（https://3dprinter.co.jp/2835/）
+  - 「MARK TWO、MARK X7は、ポリアミドに炭素繊維を織り込んだ専用マテリアルの「ONYX」による造形を行う3Dプリンター」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+- 売り方・商流：
+  - 「3Dプリンター 国内代理店一覧はコチラ」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「と販売代理店契約を結んだNTTデータエンジニアリングシステムズは、20年以上に渡り装置販売から技術サポートまで行っており、日本法人設立後も」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「https://news.sharelab.jp/study-usageguide-dealers/」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+- 技術支援：
+  - 「産業分野では、バインダージェット方式がサポート構造を不要にし、粉末床溶融方式よりも最大10倍速く部品を印刷できるため、自動車部品生産において大量生産のニッチ市場を開拓しています」（https://www.dreamnews.jp/press/0000349615）
+  - 「3Dプリンターのノズルからモデル材とサポート材をステージに噴射し、材料に応じて紫外線の照射や加熱、冷却することで硬化させ、複雑な造形物を高解像度、高精度にモデリングできる造形方式です」（https://news.sharelab.jp/study/am-mjt/）
+  - 「モデル材となる光硬化性樹脂とサポート材となるワックスを複数のノズルから噴射し、紫外線を照射することでモデル材の部分だけを硬化させるプロセスを繰り返して積層する造形方式です」（https://news.sharelab.jp/study/am-mjt/）
+  - 「一方でモデル材とサポート材を別の材料にする必要があり、完成品の空洞部すべてにサポート材が必要なので、造形したい形状によっては、コストが高くなってしまう可能性があります」（https://news.sharelab.jp/study/am-mjt/）
+  - 「NPJは、モデル材となるナノサイズの金属粒子と特殊なサポート剤をインクジェットノズルから吹き付ける造形方式です」（https://news.sharelab.jp/study/am-mjt/）
+  - 「材料を硬化させる際には、最高300℃という環境でサポート材を蒸発させるとともに、ナノサイズの金属粒子同士を結合させ、造形物の層を形成します」（https://news.sharelab.jp/study/am-mjt/）
+  - 「特長は高強度で高精細な仕上がりができ、かつこれまでのFDMや光造形、PolyJet方式とは違い、サポート材がつかないことから綺麗で高強度な仕上がりが可能」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「高強度、高精細でサポート材がつかない」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「粉末自体がサポートの役割を果たすため、FDMや光造形方式にくらべて比較的自由に設計可能です」（https://make.dmm.com/print/material/）
+  - 「DMM.makeでは通常、サポート付きでお届けいたしますが、「除去有」オプションを選択することで、サポートを除去してお届けいたします」（https://make.dmm.com/print/material/）
+  - 「※DMM.makeでは通常、サポート付きでお届けいたしますが、「除去有」オプションを選択することで、サポートを除去してお届けいたします」（https://make.dmm.com/print/material/）
+  - 「耐熱性、靭性、強度に優れ、サポート不要のため複雑な形状の造形が可能です」（https://make.dmm.com/print/material/）
+  - 「高精細プラスチックは、黄土色が素地となっておりますが、サポートが付着する箇所については、サポート除去の関係上、白くなりますのでご留意ください」（https://make.dmm.com/print/material/）
+  - 「水溶性サポート材を使用しているため、微細な形状の造形も可能です」（https://make.dmm.com/print/material/）
+  - 「プロセス：3Dプリント、サポート除去、硬化後、ポリッシュ|材料：樹脂|リードタイム：4営業日」（http://ja.insta3dm.com/3d-printing-service/material-jetting-3d-printing-service/）
+- コモディティ化：
+  - 「熱可塑性樹脂①汎用樹脂、エンプラ」（https://www.ricoh.co.jp/3dp/lineup/polyjet）
+  - 「粉末樹脂:エンプラ、汎用プラスチック等」（https://www.ricoh.co.jp/3dp/lineup/polyjet）
+  - 「シンプルで小さい形状で、大まかな形だけ見たいというのであれば、低価格な樹脂材料で可能です」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「低価格用 FDM/FFF 3Dプリンター用フィラメント」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「低価格用 光造形3Dプリンター用レジン」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「ここでは家庭用低価格の樹脂材料と、業務用、工業用3Dプリンターでそれぞれご紹介します」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「家庭用・低価格（100万円代以下）のFDM/FFF 3Dプリンター用の樹脂材料」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「家庭用・低価格3Dプリンターではさまざまな材料が登場しています」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「反りやすく、低価格3Dプリンターではコントロールが難しい」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「用と、それ以外の低価格機種で材料が異なります」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「家庭用・低価格（30万円代以下）の光造形 3Dプリンター用の樹脂材料」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「光造形でも家庭用・低価格3Dプリンターではさまざまな材料が登場しています」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「上記でご紹介した低価格とは異なり、」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「3Dプリンター用樹脂材料は造形方式で4種類あり、また低価格、高価格で価格帯が全く異なります」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「低価格な材料も用途によっては、コストパフォーマンスに優れた使い方ができます」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+- 繰り返し性：
+  - 「また、高圧なレーザーを使用しないため安全であり、材料は専用のカートリッジで供給するため、材料を交換・補充する際の手間も大きくありません」（https://news.sharelab.jp/study/am-mjt/）
+  - 「メーカーにて、一定期間にわたって初期の機械特性を高い割合で保持できるかテスト*を実施しています」（https://make.dmm.com/print/material/）
+  - 「On paper, DIY sounds cheap, “just buy a printer and some filament, right?” But when you factor in maintenance, wasted prints, power consumption, and your own time, the math gets fuzzy fast. Outsourcing, meanwhile, offers predictability: you pay a set price for the part, and that’s it.」（https://jlc3dp.com/blog/3d-printing-cost）
+- 日本：
+  - 「日本の偽造防止パッケージ市場、偽造防止や製品セキュリティへの需要拡大を背景に2034年までに167億5,520万米ドルに達する見通し」（https://www.dreamnews.jp/press/0000349615）
+  - 「日本生分解性フードサービス使い捨て製品市場の成長予測 2034 | 795.72百万米ドルの評価額、5.18%のCAGR」（https://www.dreamnews.jp/press/0000349615）
+  - 「日本データセンター冷却市場：AIインフラの拡大が液冷技術とエネルギー...」（https://www.dreamnews.jp/press/0000349615）
+  - 「日本通信事業者（MNO）市場：5G展開、ネットワークの近代化、法人向け接...」（https://www.dreamnews.jp/press/0000349615）
+  - 「日本国内では、Formlabs社の」（https://i-maker.jp/blog/3d-printer-plastic-price-14123.html?srsltid=AYCX9vJockNUDJLOgQzZAshDKN0IkZAj77ZYFmYNOGGTcyaLnBQN_0yl）
+  - 「英語では「Material Jetting」と呼ばれ、日本では「材料噴射法」「マテリアルジェット」と表記されることがあります」（https://trend-3d.com/basic/1327/）
+  - 「TREND 3Dをご覧いただきありがとうございます！国内トップクラスのフルカラー3Dプリントが可能」（https://trend-3d.com/basic/1327/）
+  - 「3Dプリンターで使用できる素材にはどんなものがある？ | 日本3Dプリンター株式会社」（https://3dprinter.co.jp/2835/）
+  - 「日本3Dプリンター株式会社」（https://3dprinter.co.jp/2835/）
+  - 「日本3Dプリンター株式会社は材料コンサルまで行います！」（https://3dprinter.co.jp/2835/）
+  - 「Raise3D 日本OFPとは何か」（https://3dprinter.co.jp/2835/）
+  - 「もしも、3Dプリンターの選定や素材選びでお悩みなら、日本3Dプリンター株式会社へご相談ください」（https://3dprinter.co.jp/2835/）
+  - 「日本3Dプリンター株式会社は、自社で世界トップメーカーの3Dプリンターを複数保有しており、実際に使用した経験から機械の特徴や、各造形方式の材料特徴（樹脂～金属）などを把握し、3Dプリンターの選択や材料選びのコンサルティングを行っています」（https://3dprinter.co.jp/2835/）
+  - 「国内での認知度は低くても、海外ではよく話題のニュースとして新しいテクノロジーの開発事例が紹介され、注目の的となっている企業も少なくありません」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+  - 「3Dプリンター 国内メーカー一覧はコチラ」（https://news.sharelab.jp/study/study-usageguide-overseasmaker/）
+
+## レジンの有効期限・化学物質規制（SDS・化審法・毒劇物）（3D printing resin shelf life chemical regulation SDS REACH）
+- 文脈：液体レジン・規制
+- 市場規模：
+  - 「surface water concentration limit for ACMO: releases must not result in estimated surface water concentrations exceeding 100 parts per billion」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+- 主要企業：
+  - 「Acrylic and gel nail products (now the leading cause of acrylate allergy worldwide)」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+- 安全・規制・保管：
+  - 「Modern SLA, DLP and MSLA photopolymer resins consist of reactive acrylate monomers and oligomers that polymerize into solid polymers when exposed to <405 nm UV light, triggered by photoinitiators. Before that reaction is complete, these chemicals are hazardous to your skin, lungs and the environment.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Water-washable SLA resin contains the same hazardous acrylate monomers as standard resin. It just dissolves in water instead of IPA.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Multiple manufacturers’ own Safety Data Sheets classify their water-washable resins as “Environmentally Hazardous Substance” that is “toxic to aquatic life with long lasting effects.”」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Safety Data Sheet (SDS」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Short answer: No, these terms do not mean that the resins do not contain any hazardous components.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「These resins undergo heavy chemical modification and still contain hazardous components.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Commonly available plant-based resins contain substantial amounts of epoxidized soybean oil oligomer (a skin irritant) alongside standard resin chemicals including isooctyl acrylate (respiratory toxicity), photoinitiators (organ toxicity) and other hazardous compounds.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「The real danger of bio-based resins is not that they are more toxic. It is that the marketing actively misleads users into skipping PPE. Labels like “eco-friendly,” “biodegradable” and “plant-based” signal safety to most people. The SDS tells a different story than the front of the bottle.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Dispose of bio-based resin waste following hazardous material procedures.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「No. Removing certain hazardous ingredients can reduce specific chemical hazards, but it doesn’t make a resin completely safe. Other ingredients may still cause skin allergies, irritation or other health problems.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Always check the resin’s Safety Data Sheet (SDS).」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Use effective ventilation during printing, washing and curing. Follow the SDS and safety guidance for any additional protection needed.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「No. Having a Safety Data Sheet (SDS) doesn’t mean a resin is safe or free from hazardous ingredients. What matters is the information inside it, so don’t just check whether an SDS exists. Read it.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「If a resin manufacturer provides an SDS, the product must be safe and properly tested.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「An SDS is a standardized safety document, so it’s easy to assume that having one means the product has been tested and approved as safe.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+- 品質・証明：
+  - 「Do not use: surgical masks, N95/KN95 respirators, dust masks or cloth masks.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「First, printer lids do not seal airtight. VOCs escape through gaps around the lid, the build plate slot, cable pass-throughs and any venting holes in the housing. The leak rate is slow enough that you may not notice the smell, but VOC concentrations in the room still rise throughout a multi-hour print. You are breathing contaminated air for the entire print duration without realizing it.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「And printing is only one part of the whole workflow. There’s also washing, post-curing, and a lot of handling of uncured prints, liquid resin and washing liquids. Often, all of this happens in the same room. Many VOCs are released during these steps, and a printer’s low-emission certification does not automatically mean that these parts of the process have also been evaluated or certified.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Never use the printing area for food, clothing or children’s items.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「If you must use resin for food applications, coat with an FDA-compliant or EU Regulation 10/2011-compliant food-safe epoxy.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Consider coating with clear epoxy or polyurethane for skin-contact items.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Wash your hands and change your clothes before handling children or pets after a print session.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Disposable aprons or dedicated printing clothes」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Prevent resin transfer to personal clothing」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+- 装置縛り・オープン材料：
+  - 「with appropriate cartridges (such as 3M 6075, 3M 6005) during printing, cleaning and post-processing.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Another thing to watch for is how manufacturers disclose ingredients. Some SDSs use terms such as “proprietary,” “trade secret” or broad chemical descriptions instead of identifying specific substances.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「If ingredients are listed as proprietary or the safety information is unclear, ask the manufacturer for clarification.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Some might think that printers with automatic resin dispensing and sealed cartridges can help. While they reduce the contact during refills, they do not remove it completely. You still handle resin when you take out the tank, remove the build platform, take parts off the plate and carry fresh parts to the wash.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「No. Only organic vapor respirators with proper cartridges protect against resin VOC’s.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Use an organic vapor (OV) respirator with the right cartridges:」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「3M 6001 Organic Vapor Cartridge (effective against methacrylate and similar acrylates).」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「3M 6075 Formaldehyde/Organic Vapor Cartridge.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「3M 6005 Formaldehyde/Organic Vapor Cartridge.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Only organic vapor respirators with proper cartridges are effective against VOCs released during resin 3D printing. Use appropriate PPE.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「You may see resins marketed as biocompatible based on testing under ISO 10993, the standard series used for the biological evaluation of medical devices. That result is real, but it is narrower than it sounds.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「If printing continues, maximize all existing controls: dedicated outdoor exhaust ventilation, fresh organic vapor respirator cartridges changed on schedule, full nitrile glove changes every 5 minutes (depends on resin formulation).」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「Type of Respirator Cartridge」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「3M 6001 Organic Vapor Cartridge – protection against certain organic vapors」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+  - 「3M 6005 Formaldehyde/Organic Vapor Cartridge – protection against formaldehyde and certain organic vapors」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+- 繰り返し性：
+  - 「Some might think that printers with automatic resin dispensing and sealed cartridges can help. While they reduce the contact during refills, they do not remove it completely. You still handle resin when you take out the tank, remove the build platform, take parts off the plate and carry fresh parts to the wash.」（https://ameralabs.com/blog/resin-safety-myths-3d-printing/）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 価格：記載なし（読んだ45頁・検索21回）
+- 売り方・商流：記載なし（読んだ45頁・検索21回）
+- 技術支援：記載なし（読んだ45頁・検索21回）
+- コモディティ化：記載なし（読んだ45頁・検索21回）
+- 日本：記載なし（読んだ45頁・検索21回）
+
+## DIW・ペースト・スラリー（セラミック・金属）（direct ink writing paste slurry ceramic metal 3D printing materials）
+- 文脈：ペースト
+- 主要企業：
+  - 「Inks designed with high solid content and viscoelastic properties enable shape retention of the extruded filaments, thus leading to the fabrication of freestanding, suspended structures with different spacing lines, which is not achievable with other AM techniques such as powder bed printing [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「C) components by combining robocasting and pressureless spark plasma sintering, eventually leading to ultra-fast and highly-efficient densification. Successful geometrically complex B」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「c respectively. Spherical particles are beneficial to increase the paste flowability due to the lower interparticle interaction and friction compared to irregular and platelet-like particles. By contrast, the platelet-like particles with irregular edges particles tend to interlock with each other, thereby leading to cohesive behaviour and agglomeration even at low solid loading [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「], it is not suitable for monolith manufacture as pockets of oil tend to get trapped in-between densely packed ceramic rods, thus leading to printing defects and unwanted porosity.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+- 安全・規制・保管：
+  - 「]. Ink with 37 vol% of glass, exhibiting a viscosity of 2.6 × 104 Pa s and storage modulus as high as 1.4 × 10」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「C ceramic parts reached a density of 95% ± 3% at 2100 °C after sintering and high mechanical properties (hardness 27 GPa, compressive strength 1800 MPa).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「] this stage has been skipped due to low binder concentration. In some medical (scaffolds for bone regeneration) or energy storage applications (batteries), the porosity of the sintered material is purposely introduced and can reach till 85 vol% [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Complex porous structures for various applications in bio-medical or energy storage fields.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Amplitude-sweep curves showing the variation of storage modulus G′ and loss modulus G′′ in function of stress for: a) pastes containing Al」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「= 14.07 kPa), storage modulus (G′ = 4 × 10」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「and storage modulus G′, which could prevent paste extrusion and yield poor strut merging in the case of monolithic parts [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「is suitable but the storage modulus G′ is too low due to low solid content, the ceramic paste filaments can be extruded but the struts would have a low stiffness resulting in poor shape retention. Although this can be beneficial to a certain extent to promote strut merging and lower surface roughness when monolithic parts are built [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「b, displaying an increase in viscosity by two orders of magnitude at the gelation temperature of ∼17.5 °C, making it ideal for storage at low temperature and printing at room temperature. Printable ceramic inks, as well as the Pluronic gel they are based on, exhibit the typical elastic behaviour at low stress followed by a yielding behaviour as the stress increases (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「c), although storage and loss moduli, viscosity, and yield stress were all larger in the inks with ceramic powder.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Rocha V.G., García-Tuñón E., Botas C., Markoulidis F., Feilden E., D’Elia E., Ni N., Shaffer M., Saiz E. Multimaterial 3D printing of graphene-based electrodes for electrochemical energy storage using thermoresponsive inks. ACS Appl. Mater. Interfaces. 2017;9:37136–37145. doi: 10.1021/acsami.7b10285.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+- 品質・証明：
+  - 「In classical robocasting inks, the additives can be a mixture of dispersants, thickeners (binders), and coagulants. Dispersants are polymers adsorbed on the ceramic/glass particle surfaces to reduce interparticle friction and overcome van der Waals interparticle attractive forces between powders to produce a homogeneous structure which enables the printability of the paste by robocasting [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Similarly, coagulants are special polymers acting as glues to provide resistance to the external forces and enhance the viscoelastic response [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「The presence of many components (dispersants, thickeners and coagulants) in the colloidal suspension drastically influences the balance between the anionic and cationic forces that tend to change the pH and, hence, create a non-stable suspension [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「], are the most usual choices in which a single multifunctional additive acts as a dispersant, plasticizer, and coagulant agent.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「CMC is an important element in the paste formulation as it allows modulating the rheological properties – especially the flowability of the paste – by means of interactions with the surface of solid loading particles, being partially adsorbed onto them [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「shear rates), which mainly dictates its flowability.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「] with 1.5 wt% CMC and 42 vol% 13–93 glass loading could also be extruded through a conical nozzle with an inner diameter of 410 μm, yielding a good powder dispersion and flowability. A successful implementation of CMC/glass-containing inks deposited by robocasting in reversible solid oxide cell applications has been reported by Lamnini et al [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「The physical features of powders have a vital effect on paste rheology for robocasting. Among others, particle size distribution and shape, powder density and volume fraction are the most significant factors [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「c respectively. Spherical particles are beneficial to increase the paste flowability due to the lower interparticle interaction and friction compared to irregular and platelet-like particles. By contrast, the platelet-like particles with irregular edges particles tend to interlock with each other, thereby leading to cohesive behaviour and agglomeration even at low solid loading [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「feedstock had a coarse particles size distribution of D」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「feedstock with coarse grain size (σ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「outlines the rheological properties of the previously discussed pastes-based ceramic feedstocks taking into account the effects of particle size distribution (bimodal, monomodal, multimodal), powder morphology, and solid loading. The explicit scheme shown in」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Contour plots of (left) mean arithmetical roughness Sa (μm) vs. infill (IN) and printing speed (PS), and (right) dimensional error (%) vs. infill (IN) and layer height (LH); adapted with permission from [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「]. The roughness of the printing substrate is another important parameter to consider, and most studies agree on the importance of using smooth, flat substrates made of or coated with a non-stick material, such as PTFE, to enable easy removal of printed parts [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「PTFE-coated glass slide」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+- 技術支援：
+  - 「Robocasting of advanced ceramics: ink optimization and protocol to predict the printing parameters - A review - PMC」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Robocasting of advanced ceramics: ink optimization and protocol to predict the printing parameters - A review」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「In the second part, this review suggests a standardized guideline to effectively adapt a suitable setting of the printing parameters, such as printing speed and pressure, printing substrate, strut spacing, layer height, nozzle diameter in function of ink intrinsic rheology.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Robocasting, Glass, Ceramics, Feedstock features, Printing parameters」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Robocasting; Glass; Ceramics; Feedstock features; Printing parameters.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「4. Protocol to predict printing parameters for robocasting」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「a) Colloidal particles in aqueous suspensions can form a non-continuous, weak, or strong network depending on the particle volume fraction. b) Printability map for GO suspensions including three key rheology parameters: at rest structure or network stiffness (G」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「]. This is where the optimisation of robocasting parameters to account for the specific rheological and drying behaviour of a given ceramic ink plays an essential role in enabling not only printability per se but also optimal printing outcome.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「The choice of printing parameters is greatly influenced by the intended geometry to be printed, namely either dense monolithic specimens or porous scaffolds (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「] investigated the role of robocasting printing parameters on the surface roughness and dimensional accuracy of the lateral walls of porous prismatic zirconia parts. The extrusion orifice diameter was 0.67 mm, and the ink formulation was 40 vol% of ZrO」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「] also detailed the effects of several printing parameters on the final properties of monolithic Al」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「C green parts produced using the 584 μm (A0-2) and 406 μm (B0-2) extrusion orifices; better resolution and shape retention were achieved with the finer extrusion nozzle. Printing parameters: 47 vol% B」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「]. The roughness of the printing substrate is another important parameter to consider, and most studies agree on the importance of using smooth, flat substrates made of or coated with a non-stick material, such as PTFE, to enable easy removal of printed parts [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「provides an overview of the main printing parameters used in ceramic robocasting studies in the literature.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+  - 「Printing parameters as key factors to predict the printing resolution and sintered density for different ceramic inks.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9508426/）
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 価格：記載なし（読んだ45頁・検索21回）
+- 装置縛り・オープン材料：記載なし（読んだ45頁・検索21回）
+- 売り方・商流：記載なし（読んだ45頁・検索21回）
+- コモディティ化：記載なし（読んだ45頁・検索21回）
+- 繰り返し性：記載なし（読んだ45頁・検索21回）
+- 日本：記載なし（読んだ45頁・検索21回）
+
+## MoldJet・ペースト型の金属AM材料（Tritone MoldJet metal paste feedstock）
+- 文脈：ペースト
+- 市場規模：
+  - 「愛知産業は、モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました（2021年07月20日）」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「（Tritone Technology：以下トライトン）社（イスラエル）は2021年４月７日に日本国内総代理店契約を締結いたしました」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「トライトン社は2017年に設立された金属積層装置の開発・製造メーカで、モールドの中にバインダーを用いた金属のペースト流し込みこれを硬化/積層する最新の金属装置を開発しました」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「一般的なパウダーベッド方式の金属造形装置が最大100cc/hでの造形が可能なのに対し、トライトン社の開発した造形機では1600cc/hでの造形が可能で、金属積層造形技術による部品生産が可能となります」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+- 価格：
+  - 「（本社:東京都品川区東大井2-6-8、資本金:8600万円、社長:井上博貴）とモールドジェット方式の金属積層造形機メーカーである」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+- 主要企業：
+  - 「AXT is Australia’s leading supplier of high technology scientific equipment for sample preparation and analysis for academic and industrial applications. Through our various distribution agreements with international renowned and recognised brands, we are uniquely placed to be able to offer complete and comprehensive solution packages from within our own product portfolios.」（https://www.axt.com.au/moldjet-additive-manufacturing/）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「AXT is Australia’s leading supplier of high technology scientific equipment for sample preparation and analysis for academic and industrial applications. Through our various distribution agreements with international renowned and recognised brands, we are uniquely placed to be able to offer complete and comprehensive solution packages from within our own product portfolios.」（https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/）
+- 安全・規制・保管：
+  - 「If you’ve found a malfunction or have ideas for improvement, we’ll be happy to hear from you. You can reach out to the website’s operators by using the following email」（https://tritoneam.com/moldjet-technology/）
+  - 「“After the initial success of our DOMINANT system, we are proud to expand our market reach with the DIM system. The market is ready to shift gear from prototyping to production of high-quality metal parts, and we are proud to be at the forefront of this emerging revolution,” said Omer Sagi, VP Products and Business Development at Tritone.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「The technical storage or access that is used exclusively for statistical purposes.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「If you’ve found a malfunction or have ideas for improvement, we’ll be happy to hear from you. You can reach out to the website’s operators by using the following email」（https://tritoneam.com/）
+  - 「Energy Storage and Converter」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+  - 「Electrical, chemical and thermal energy storage」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+- 品質・証明：
+  - 「：ステンレス鋼、工具鋼、チタン、銅（認定中）、セラミックス（認定中）、および顧客が開発した材料」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「大衆向けサングラス向けに、1ロットあたり16,000個の金属ヒンジ部品（トレイあたり800個）を生産」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「銅、セラミックス、およびその他の合金については現在認定審査中です」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Certificate of Analysis」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「: Stainless steels, tool steels, titanium, copper (in qualification), ceramics (in qualification), and customer-developed materials. Gold and silver feasibility demonstrated. Switch materials in approximately 30 minutes.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Released materials include stainless steels (316L, 17-4 PH, 15-5 PH), tool steels (H13, M2), titanium (Ti 6-4), and low-alloy steels. Copper, ceramics, and additional alloys are in qualification. Gold and silver feasibility has been demonstrated. The open platform also supports customer-developed materials.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Certificate of Analysis」（https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/）
+  - 「Certificate of Analysis」（https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/）
+  - 「European Coatings Show 2025」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+  - 「Fraunhofer IFAM expands its R&D work on "Coatings for protection against corrosion and marine growth"」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+  - 「Workforce Qualification and Technology Transfer」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+- 装置縛り・オープン材料：
+  - 「粉末を使用しないプロセス、高密度な材料積層、そして量産レベルの処理能力を組み合わせることで、粉末の取り扱いの複雑さや専用金型のコスト・リードタイムを伴わずに、量産品質の金属部品を必要とする製造業者に新たな選択肢を提供します」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「また、このオープンプラットフォームは、お客様が開発した材料にも対応しています」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/moldjet-technology/）
+  - 「These adjustments are compatible with all popular screen readers, including JAWS and NVDA.」（https://tritoneam.com/moldjet-technology/）
+  - 「this mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/moldjet-technology/）
+  - 「Open material platform」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Lightweight, biocompatible materials for aerospace, medical, and high-performance applications.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「paste-based feedstock delivered through sealed cartridges」（https://www.axt.com.au/moldjet-additive-manufacturing/）
+  - 「Manufacture complex metal components and devices using a range of biocompatible and medical-grade materials」（https://www.axt.com.au/moldjet-additive-manufacturing/）
+  - 「– Uses metal and ceramic pastes insealed cartridges」（https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/）
+  - 「, with material supplied through sealed cartridges. This can simplify material handling and reduce the operational requirements associated with exposed metal powders.」（https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/）
+  - 「This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/）
+  - 「These adjustments are compatible with all popular screen readers, including JAWS and NVDA.」（https://tritoneam.com/）
+  - 「this mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/）
+- 売り方・商流：
+  - 「モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました｜新着情報｜愛知産業」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「金属3Dプリンター、MIG/MAG 溶接機、５軸 輸入販売」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「愛知産業は、モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました（2021年07月20日）」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「（Tritone Technology：以下トライトン）社（イスラエル）は2021年４月７日に日本国内総代理店契約を締結いたしました」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「view all Distributors & Agents」（https://tritoneam.com/）
+- 技術支援：
+  - 「サポート材を使用せずに、複雑な内部形状、アンダーカット、オーバーハングの造形が可能」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「サポート構造を使用せずに、複雑な内部形状を成形できます」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「The AconityMINI is Acontiy3D’s entry-level AM system. It offers a build space of Ø 140 mm and full access to all relevant process parameters.」（https://www.axt.com.au/products/tritone-dominant-moldjet-additive-manufacturing/）
+  - 「Quality assurance and further training」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+  - 「Quality Assurance and Continuing Training」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+  - 「Quality assurance and further training in adhesive bonding technology」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+  - 「Knowledge Transfer: Training Sessions „E-Mobility”」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+- コモディティ化：
+  - 「Use of low-cost metal powders」（https://www.ifam.fraunhofer.de/en/Aboutus/Locations/Dresden/additive_manufacturing/MoldJet.html）
+- 繰り返し性：
+  - 「Low energy consumption, operates in standard industrial environment」（https://tritoneam.com/moldjet-technology/）
+  - 「MoldJet is designed for competitive unit costs at production volumes of 1,000–100,000+ parts per year with no tooling investment. Contact Stratasys for application-specific pricing.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Low energy consumption, operates in standard industrial environment.」（https://www.stratasys.com/en/3d-printers/printer-catalog/moldjet-printers/dim-system/）
+  - 「The technology is being brought to market in the Tritone DOMINANT system and offers a new solution for medium-volume production (tens of thousands of parts per year) of metal components. To learn more about the promising AM method and its unique capability, we caught up with Omer Sagi, Vice President of Products and Business Development at Tritone.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「: medium-volume manufacturing. “I believe that metal injection molding (MIM) will always have the advantage when you’re talking about hundreds of thousands or millions of parts,” Sagi explains. “But there are so many businesses that are looking to fulfill low to medium level production volumes—thousands or tens of thousands of parts per year—and this is where metal AM can really shine.”」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+- 日本：
+  - 「モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました｜新着情報｜愛知産業」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「愛知産業は、モールドジェット方式の金属積層造形機メーカーであるトライトンテクノロジー社（イスラエル）と日本国内総代理店契約を締結いたしました（2021年07月20日）」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+  - 「（Tritone Technology：以下トライトン）社（イスラエル）は2021年４月７日に日本国内総代理店契約を締結いたしました」（https://www.aichi-sangyo.co.jp/inquiry/news/news_210720_TRITONE.html）
+- 検索結果の抜粋：
+  - 「MoldJet® 金属・セラミック3Dプリンティング技術 | Stratasys — MoldJet®は、密度99%以上の部品を製造する、粉末を使用しない金属・セラミック3Dプリント技術です。 散乱する粉末やサポート構造が不要で、AIによる品質検査が行われます。 年間生産量は1,000～100,000個以上です。」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「日曜MIM知る（金属粉末射出成形）: 新AM技術「MoldJet」を深堀する — これはペースト状のフィードストックを使っているところに優位性があると思われます。 一般的なMIMでは不可能な肉厚200-250μmが造形できる。 ペーストは流動性が大変良いのでBJTより微細な粉末が使える、そのため焼結密度も高くでき精度も高い。」（https://mimsen83.blogspot.com/2023/01/ammoldjet.html）
+  - 「MoldJet® 金属・セラミック3Dプリンティング技術 | Stratasys — 粉末ベースの積層造形プロセスとは異なり、MoldJetは高密度の金属またはセラミックペーストを使用し、クリーンで管理されたワークフローの中で、量産可能な部品を製造します。」（https://www.stratasys.co.jp/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「圧倒的な金属積層造形システム｜産業用MoldJet™ 3Dプリンター｜ストラ... — Dominantシステムは、MoldJet™技術を使用した産業用金属積層造形プラットフォームであり、高密度で再現性のある金属部品を、粉体を使用せず、高スループットで、連続生産用に構築されたスケールで製造する。」（https://www.stratasys.co.jp/3d-printers/printer-catalog/moldjet/dominant-system/）
+  - 「MoldJet® Metal & Ceramic 3D Printing Technology | Stratasys — MoldJet® is a paste-based metal and ceramic additive manufacturing technology designed for production—not prototyping. Unlike powder-based additive manufacturing processes, MoldJet uses high-density metal or ceramic paste to produce production-ready parts in a clean, controlled workflow.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「MoldJet - Metal and Ceramic Additive Manufacturing — Oct 1, 2026 · MoldJet uses a paste-based feedstock delivered through sealed cartridges, creating a powder-free production environment. For manufacturers, this can simplify material handling and integration of additive manufacturing into an existing industrial production environment.」（https://www.axt.com.au/moldjet-additive-manufacturing/）
+  - 「Tritone · MoldJet Paste mold printing (metal/ceramic) — 2 ... — 2 models by Tritone (MoldJet Paste mold printing (metal/ceramic)): build volume, process, lifecycle and which are on offer used. Filter, compare, find what fits your part.」（https://layerbylayer.de/en/machine-market/models/tritone/moldjet）
+  - 「MoldJet: Six steps to production-grade metal 3D printed parts — Dec 28, 2021 · The MoldJet process is fascinating and involves multiple steps, including polymer mold printing, metal paste deposition, layer-by-layer quality inspection and more. Read on for a detailed look at how the technology works.」（https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「Tritone MoldJet Metal 3D Printers | CADimensions — Tritone’s MoldJet technology delivers a fundamentally different approach to metal additive manufacturing. Powder-free, paste-based feedstock means a safer shop floor, cleaner handling, and faster material changeovers.」（https://www.cadimensions.com/products/hardware/3d-printers/tritone-moldjet-metal-3d-printers-cadimensions/）
+  - 「MoldJet - Metal and Ceramic Additive Manufacturing — Oct 1, 2026 · A high-density paste containing metal or ceramic powder and binder is then deposited into the mould cavities. The layer is dried and hardened before the process repeats. Integrated optical inspection and AI-based analysis can identify and correct layer defects during production.」（https://www.axt.com.au/moldjet-additive-manufacturing/）
+  - 「MoldJet® Metal & Ceramic 3D Printing Technology | Stratasys — Unlike powder-based additive manufacturing processes, MoldJet uses high-density metal or ceramic paste to produce production-ready parts in a clean, controlled workflow. This powder free metal 3D printing process is built for repeatable, high-volume manufacturing.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Tritone’s MoldJet: The definition-defying AM technology ... — Dec 15, 2022 · The build cavity is filled with a feedstock in the form of a paste, or a high-viscosity slurry. The feedstock could be metal, or it could be ceramic, and, at the end of the day, the green part that emerges from the built mould requires sintering.」（https://www.pim-international.com/articles/tritones-moldjet-the-definition-defying-am-technology-advancing-steadily-toward-commercialisation/）
+  - 「MoldJet sinter-based additive manufactured 316L SS: achieving ... — Apr 1, 2026 · In this study, we focus on 316L stainless steel fabricated on a Tritone Dominant system and briefly outline the three stages of the process: model design and pre-processing, layer-wise printing of mold and paste, and post-processing of the green and sintered parts.」（https://www.sciencedirect.com/science/article/pii/S0264127526003564）
+  - 「MoldJet Metal & Ceramic Additive Manufacturing - ICAM 2023 — Advantages of ‘Paste’ Feedstock Green densities above > 60%: Green strength Surface smoothness Reduced sintering shrinkage (lower potential to deform and crack) Uniformity of paste: Uniform density within and between parts」（https://am-conference.aeai.org.il/wp-content/uploads/sites/28/2023/04/Amnon-Sommer-Tritone-Technologies.pdf）
+- 成長率：記載なし（読んだ44頁・検索21回）
+
+## シート積層・箔（LOM・UAM超音波積層）（sheet lamination ultrasonic additive manufacturing foil feedstock）
+- 文脈：シート・箔
+- 市場規模：記載なし（読んだ37頁・検索21回）
+- 成長率：記載なし（読んだ37頁・検索21回）
+- 価格：記載なし（読んだ37頁・検索21回）
+- 主要企業：記載なし（読んだ37頁・検索21回）
+- 安全・規制・保管：記載なし（読んだ37頁・検索21回）
+- 品質・証明：記載なし（読んだ37頁・検索21回）
+- 装置縛り・オープン材料：記載なし（読んだ37頁・検索21回）
+- 売り方・商流：記載なし（読んだ37頁・検索21回）
+- 技術支援：記載なし（読んだ37頁・検索21回）
+- コモディティ化：記載なし（読んだ37頁・検索21回）
+- 繰り返し性：記載なし（読んだ37頁・検索21回）
+- 日本：記載なし（読んだ37頁・検索21回）
+
+## 連続繊維（テープ・トウ・AFP・連続繊維フィラメント）（continuous fiber 3D printing tow tape material market）
+- 文脈：テープ・トウ
+- 市場規模：
+  - 「連続繊維強化複合材料市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「2026年までに、炭素繊維／PEEK（ポリエーテルエーテルケトン）は、連続繊維熱可塑性樹脂（CFT）テープ市場の38％を占めると予想されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「2026年の市場規模予測は、この変化を反映しており、その普及は、各セクターにわたる広範な軽量化および高性能材料戦略と軌を一にしています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「2021年から2025年までの過去の市場規模（百万米ドル）分析」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「2026年から2036年までの現在および将来の市場規模（百万米ドル）予測」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「2021年から2025年までの素材タイプ別市場規模（百万米ドル）の過去データ分析」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「素材タイプ別、現在および将来の市場規模（百万米ドル）の分析および予測、2026年から2036年」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「最終用途産業別 過去市場規模（百万米ドル）分析、2021年から2025年」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「最終用途産業別の現在および将来の市場規模（百万米ドル）の分析および予測、2026年から2036年」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「地域別 2021年から2025年までの過去市場規模（百万米ドル）分析」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「地域別 2026年から2036年までの現在の市場規模（百万米ドル）分析および予測」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「市場規模（過去値、百万米ドル）の傾向分析（市場分類別、2021年から2025年）」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「市場規模（予測値、百万米ドル）の予測（市場分類別、2026年から2036年）」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「【最新予測】シングルエンドコード市場規模、2026年に391百万米ドルへ｜年平均成長率4.7%で推移予測」（https://www.dreamnews.jp/press/0000358100）
+  - 「車両用人工知能ロボット市場規模は2026年705百万米ドル、成長率10.6%で拡大予測」（https://www.dreamnews.jp/press/0000358100）
+- 成長率：
+  - 「Stratistics MRCによると、世界の連続繊維強化複合材料市場は2026年に62億米ドル規模となり、予測期間中にCAGR 10.5％で成長し、2034年までに138億米ドルに達すると見込まれています」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「FMIは、予測期間中の年平均成長率（CAGR）を12.2％と予測しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「米国は、航空宇宙および自動車分野における高性能複合材料への旺盛な需要に支えられ、年平均成長率（CAGR）13.5％で市場を牽引しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「ドイツは、軽量素材の技術進歩と欧州の自動車産業からの需要に後押しされ、CAGR 12.8％でこれに続いています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「日本は、エレクトロニクスおよび自動車用途における技術革新に支えられ、12.2％の成長率を示しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「フランスは、運輸および産業分野における軽量材料の採用拡大に後押しされ、11.5％の成長率を示しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「：米国における連続繊維熱可塑性樹脂（CFT）テープの需要は、2036年まで年平均成長率（CAGR）13.5％で増加すると予測されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「：ドイツにおける連続繊維熱可塑性樹脂（CFT）テープの需要は、2036年まで年平均成長率（CAGR）12.8％で増加すると予測されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「：フランスにおける連続繊維熱可塑性樹脂（CFT）テープの需要は、2036年まで年平均成長率（CAGR）11.5％で増加すると予測されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「：日本における連続繊維熱可塑性樹脂（CFT）テープの需要は、2036年まで年平均成長率（CAGR）12.2％で増加すると予測されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「最終用途産業別の前年比成長トレンド分析、2021年から2025年」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「図4：2026年から2036年までの素材種別ごとの世界市場YtoY成長率の比較」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「図7：最終用途産業別世界市場のY-to-o-to-Y成長率比較（2026年～2036年）」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「図10：地域別の世界市場前年比成長率比較（2026年～2036年）」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「図21：北米市場における材料種別YからOへの成長率比較（2026年から2036年）」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+- 価格：
+  - 「2021年から2025年までの世界市場価格分析および2026年から2036年までの予測」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「図1：世界市場の価格分析」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「これら代替材料は一般的な断熱用途で価格優位性を有し、市場浸透に影響を及ぼしている」（https://note.com/qy_research/n/nbb2cda51ef60）
+- 主要企業：
+  - 「複合材3Dプリンタ市場のリサーチのレポートには、機種別のシェアを扱っているもの［参考文献1］があります」（https://monoist.itmedia.co.jp/mn/articles/2406/20/news004.html）
+  - 「これによれば、Markforgedの3Dプリンタのシェアは60％で、4％が中国国内で市販されているCombotです」（https://monoist.itmedia.co.jp/mn/articles/2406/20/news004.html）
+  - 「炭素繊維セグメントは、予測期間中に最大の市場シェアを占めると予想されます」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「予測期間中、北米地域は、航空宇宙メーカーの強力な存在感、先進的な複合材料インフラ、および主要な連続繊維強化複合材料サプライヤーの存在により、最大の市場シェアを占めると予想されます」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「主要企業（最大3社）のSWOT分析」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「製品ポートフォリオ、事業展開地域、戦略的提携に基づく主要企業のベンチマーキング」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「：炭素繊維／PEEKは、高性能用途に不可欠な強度、熱安定性、耐薬品性を備えていることから、2026年までに市場シェアの38％を占め、トップとなる見込みです」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「：航空宇宙産業は、航空機製造における軽量かつ耐久性のある部品への需要に後押しされ、2026年までに市場シェアの35％を占めると予測されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「航空宇宙分野は、2026年までに市場シェアの35％を占めると予測されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「コスト重視のプログラムや従来のプログラムでは、従来の熱硬化性テープへの需要が依然として存在しますが、CFTテープは、迅速な加工、靭性、および使用済み時の利点を備えているため、シェアを拡大しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「連続繊維熱可塑性樹脂（CFT）テープ市場において、主要企業はどのように競争しているのでしょうか？」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「連続繊維熱可塑性樹脂（CFT）テープ市場において、ソルベイ（Solvay S.A.）、東レ（Toray Industries, Inc.）、帝人（Teijin Limited）などの主要企業は、高性能と持続可能性を兼ね備えた先進材料の開発に注力しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「連続繊維熱可塑性（CFT）テープ市場の主要企業」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「市場シェア分析（2025年）」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「市場シェア分析、2025年」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+- 安全・規制・保管：
+  - 「Production using 4 » first automated Fl storage」（https://www.noblelight.com/media/media/hng/doc_hng/jp_website_1/af/AFPAFP.pdf）
+  - 「Continuous Carbon Fiber Tow Market size was valued at USD 1.5 billion in 2025 & is estimated to reach USD 3.2 billion by 2034, exhibiting a CAGR of 9.2%from 2026-2034」（https://www.verifiedmarketreports.com/product/continuous-carbon-fiber-tow-market/）
+  - 「Using large-scale wind blade manufacturing as a key industrial context, alongside experience from aerospace and other composite sectors, this webinar will explore what really changes when a composite process leaves R&D and reaches the factory floor.」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「Composites and Carbon Fiber in Hydrogen Storage」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「The materials, manufacturing processes, market and energy trends driving use of carbon fiber composites in global hydrogen storage applications for fuel cell-powered trucks, buses, trains and passenger vehicles.」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「Composites in Hydrogen Storage」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「A report on the demand for hydrogen as an energy source and the role composites might play in the transport and storage of hydrogen.」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「Using large-scale wind blade manufacturing as a key industrial context, alongside experience from aerospace and other composite sectors, this webinar will explore what really changes when a composite process leaves R&D and reaches the factory floor.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Composites and Carbon Fiber in Hydrogen Storage」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「The materials, manufacturing processes, market and energy trends driving use of carbon fiber composites in global hydrogen storage applications for fuel cell-powered trucks, buses, trains and passenger vehicles.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Composites in Hydrogen Storage」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「A report on the demand for hydrogen as an energy source and the role composites might play in the transport and storage of hydrogen.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Report: Composites and Carbon Fiber Use in Hydrogen Storage」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「A first-of-its-kind technical report that assesses the materials, manufacturing processes, market and energy trends driving use of carbon fiber composites in global hydrogen (H₂) storage applications for fuel cell-powered trucks, buses, trains and passenger vehicles.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- 品質・証明：
+  - 「Pilot-scale depolymerization and solvent-based recycling routes, developed with Mercedes-Benz, ZF and Pöppelmann K-Tech, won BASF a Materialica Award and second place at the Fakuma Innovation Award.」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「Pilot-scale depolymerization and solvent-based recycling routes, developed with Mercedes-Benz, ZF and Pöppelmann K-Tech, won BASF a Materialica Award and second place at the Fakuma Innovation Award.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Advancing bonding, coating and sealing to 4.0 systems for composites, metals and more」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- 装置縛り・オープン材料：
+  - 「シミュレーション: 計画が完了したら、次のステップは、専用ソフトウェアを使用してレイアップ プロセスをシミュレートすることです」（https://ja.wanlitex.net/news/understanding-the-principles-advantages-disa-78040385.html）
+  - 「連続繊維複合材料の製造は複雑であるため、専用の設備と専門知識が必要となります」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「比較的複雑な形状を有する試験片を製造する際は，専用ソフトを用いて，テープの貼付」（https://www.mhi.com/jp/technology/review/pdf/624/624090.pdf）
+  - 「(Tokyo, Japan) have announced an exclusive distribution partnership that will accelerate the adoption of 3D-printed continuous fiber-reinforced composites in the Japanese market. As part of the deal, Systemcreate will exclusively distribute Anisoprint’s proprietary continuous fiber coextrusion (CFC) technology and the」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+- 売り方・商流：
+  - 「材料エンジニア、複合材料メーカー、およびOEMの調達担当者へのインタビューを実施しました」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「市場が現在の規模を維持しているのは、OEM各社が加工インフラ、部品の性能、ライフサイクルの考慮事項のバランスを取っていることに加え、規制上の効率基準において、燃費の向上や排出強度の低減につながる材料がますます評価されているためです」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「：自動車および航空宇宙分野のOEM各社は、従来の熱硬化性複合材料を上回る、強度・耐衝撃性・リサイクル性を兼ね備えた構造を実現するために、CFTテープを採用しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「Consumer and OEM demand for eco-friendly products drives innovation.」（https://www.verifiedmarketreports.com/product/continuous-carbon-fiber-tow-market/）
+  - 「Datum’s three decades of quality, trusted work designing and providing metal and composite tooling will support Corvero’s aim of end-to-end integration for global aerospace and defense OEMs and Tier 1s.」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「and now Japan, exclusive distributor agreements have become Anisoprint’s main method for establishing stable and strong business relationships that encourages dedicated and committed work.」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「Datum’s three decades of quality, trusted work designing and providing metal and composite tooling will support Corvero’s aim of end-to-end integration for global aerospace and defense OEMs and Tier 1s.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- 技術支援：
+  - 「第13章 企業プロファイル」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「Which parameters really matter?」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「Which parameters really matter?」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- コモディティ化：
+  - 「これらの企業は、連続繊維補強技術を活用して、航空宇宙、自動車、および産業用途で使用される熱可塑性樹脂テープの強度、耐久性、汎用性を向上させています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「Cost barriers hinder the development of low-cost, high-volume applications.」（https://www.verifiedmarketreports.com/product/continuous-carbon-fiber-tow-market/）
+- 繰り返し性：
+  - 「調査結果は専門家によるレビューを通じて検証され、最新の生産および貿易統計と照合され、定期的に更新されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「Energy consumption accounts for over 50% of total manufacturing costs.」（https://www.verifiedmarketreports.com/product/continuous-carbon-fiber-tow-market/）
+  - 「Recycling reduces raw material consumption and waste disposal costs.」（https://www.verifiedmarketreports.com/product/continuous-carbon-fiber-tow-market/）
+  - 「Subscription Customer」（https://www.compositesworld.com/news/anisoprint-expands-global-presence-announces-exclusive-partnership-with-systemcreate）
+  - 「Subscription Customer」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- 日本：
+  - 「これによれば、Markforgedの3Dプリンタのシェアは60％で、4％が中国国内で市販されているCombotです」（https://monoist.itmedia.co.jp/mn/articles/2406/20/news004.html）
+  - 「日本板硝子の貫通穴付きガラス基板が備えた2つの強み」（https://monoist.itmedia.co.jp/mn/articles/2406/20/news004.html）
+  - 「中国、日本、韓国は、拡大する国内市場および輸出市場に対応するため、連続繊維複合材料の生産能力を拡大しています」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「※お支払金額は「換算金額（日本円）＋消費税＋配送料（Eメール納品は無料）」です」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「日本は、エレクトロニクスおよび自動車用途における技術革新に支えられ、12.2％の成長率を示しています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「：日本における連続繊維熱可塑性樹脂（CFT）テープの需要は、2036年まで年平均成長率（CAGR）12.2％で増加すると予測されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「日本の強力な自動車・エレクトロニクス産業と、軽量かつ高性能な素材への注力が、CFTテープ市場の成長を牽引し続けています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「の分析は、米国、ドイツ、日本、フランスを対象とした国別の評価で構成されています」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「日本住所：〒104-0061 東京都中央区銀座6-13-16 銀座Wallビル UCF5階」（https://www.dreamnews.jp/press/0000358100）
+  - 「TEL：050-5893-6232（日本）／0081-5058936232（グローバル）」（https://www.dreamnews.jp/press/0000358100）
+  - 「E-mail：japan@qyresearch.com」（https://www.dreamnews.jp/press/0000358100）
+  - 「日本データセンター冷却市場：AIインフラの拡大が液冷技術とエネルギー...」（https://www.dreamnews.jp/press/0000358100）
+  - 「日本通信事業者（MNO）市場：5G展開、ネットワークの近代化、法人向け接...」（https://www.dreamnews.jp/press/0000358100）
+  - 「炭化ケイ素連続繊維 | 日本カーボン株式会社」（https://www.carbon.co.jp/products/silicon_carbide/）
+  - 「今回，自動繊維積層装置（Automated Fiber Placement）を日本国内へ導入し，積層最適化設」（https://www.mhi.com/jp/technology/review/pdf/624/624090.pdf）
+- 検索結果の抜粋：
+  - 「連続繊維・とは？初心者向けガイドで学ぶ基本と使い方共起語・同意語... — Feb 22, 2026 · 連続繊維の同意語 連続長繊維 連続して 長さが途切れず、一本の長い繊維として存在する状態。短繊維の集合体とは区別され、長さの連続性を強調します。 連続 フィラメント 繊維が切れずに連続した糸状の構造。主に合成繊維や繊維強化材料で使われる用語です。 フィラメント 繊維 ...」（https://toha4.fromation.co.jp/archives/12741）
+  - 「連続繊維3Dプリンター - 百度百科 — 動作原理 フィラメントワインディングプロセスの「ドライ・ウェット」法の概念を導入することで、連続繊維強化3Dプリンティング技術を分類できる。ドライファイバートウを強化材として使用し、プリンター内で樹脂含浸を完了するものをウェットプリントプロセスと定義する。プリプレグ ...」（https://baike.baidu.com/ja/item/連続繊維3Dプリンター/6790433）
+  - 「自由に連続繊維を湾曲させて成形できる新たな複合材3Dプリンタとは？ — Jun 20, 2024 · この構造のために、等間隔で連続繊維を並べることしかできません。 せっかくの3Dプリンタなのに、自由に連続繊維を湾曲させて並べられないのです。 繊維を湾曲させることで強度上昇が得られるという研究は既にあります[参考文献2]。」（https://monoist.itmedia.co.jp/mn/articles/2406/20/news004.html）
+  - 「複合材料の自動繊維配置（AFP）プロセスの原理、利点、欠点、将来の傾... — 03、AFPと他の製造方法の比較 AFP と他の製造プロセスの比較 自動ファイバー配置 (AFP) プロセスは、複合材料製造の状況を一新しました。 手動レイアップや自動テープ配置 (ATL) などの従来のプロセスと比較すると、AFP には明確な利点があります。」（https://ja.wanlitex.net/news/understanding-the-principles-advantages-disa-78040385.html）
+  - 「連続繊維強化複合材料市場 | 市場規模 業界分析 予測 2034年 【市場調... — Oct 30, 2026 · Stratistics MRCによると、世界の連続繊維強化複合材料市場は2026年に62億米ドル規模となり、予測期間中にCAGR 10.5％で成長し、2034年までに138億米ドルに達すると見込まれています。」（https://www.gii.co.jp/report/smrc2169896-continuous-fiber-reinforced-composites-market.html）
+  - 「連続繊維熱可塑性樹脂（CFT）テープのグローバル市場予測：炭素繊維 /... — Jul 30, 2026 · Fact MRの分析によると、連続繊維熱可塑性樹脂（CFT）テープ市場は、2025年に6億610万米ドルの規模でした。需要は2026年には6億8,000万米ドル、2036年までに21億5,000万米ドルへと拡大し、年平均成長率（CAGR）は12.2％になると予想されています。素材タイプ別では、炭素繊維／PEEK素材が38％のシェアで ...」（https://www.marketreport.jp/insight/continuous-fiber-thermoplastic-cft-tapes-market-factmr/）
+  - 「連続繊維熱可塑性樹脂（CFT）テープのグローバル市場（2026-2036）：... — セグメント別分析 素材タイプ別連続繊維熱可塑性樹脂（CFT）テープ市場分析 市場の概要： 2026年までに、炭素繊維／PEEK（ポリエーテルエーテルケトン）は、連続繊維熱可塑性樹脂（CFT）テープ市場の38％を占めると予想されています。」（https://www.globalresearch.co.jp/continuous-fiber-thermoplastic-cft-tapes-market/）
+  - 「世界の連続繊維熱可塑性樹脂（CFT）テープ市場（2026年～2036年）：素... — セグメント別分析 素材タイプ別連続繊維熱可塑性樹脂（CFT）テープ市場分析 市場の概要： 2026年までに、炭素繊維／PEEK（ポリエーテルエーテルケトン）は、連続繊維熱可塑性樹脂（CFT）テープ市場の38％を占めると予想されています。」（https://www.marketreport.jp/continuous-fiber-thermoplastic-cft-tapes-market）
+  - 「連続繊維強化熱可塑性複合材料市場分析レポート：2026年715百万米ドル... — Aug 3, 2026 · 本記事は、QY Research発行のレポート「連続繊維強化熱可塑性複合材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に ...」（https://www.dreamnews.jp/press/0000358100）
+  - 「連続繊維熱可塑材料CFRTP・GFRTPと 市場動向 — 1. は じ め に 近年,国内自動車業界では,HV(Hybrid Vehicle)・PHV(Plug-in Hybrid Vehicle)・EV(Electric Vehicle)・FCV(Fuel Cell Vehicle)等の軽量化・高強度の解決法の一つとして連続繊維熱可塑材料CFRTP(Carbon Fiber Reinforced Thermoplastics)・GFRTP(Glass Fiber Reinforced Thermoplastics)は,非常に注目されている.理由は,連続繊維熱可塑 ...」（https://www.jstage.jst.go.jp/article/jjspe/81/6/81_503/_pdf/-char/ja）
+  - 「連続繊維強化熱可塑性複合材料の業界動向：製品別・用途別・地域別の... — May 7, 2025 · 連続繊維強化熱可塑性複合材料世界総市場規模 上記の図表／データは、QYResearchの最新レポート「2025～ 2031年 のグローバル連続繊維強化熱可塑性複合材料市場調査レポート」から引用されている。」（https://qyresearch-news.hateblo.jp/entry/2025/05/07/112534）
+  - 「連続繊維熱可塑材料CFRTP・GFRTPと 市場動向 — 連続繊維に熱可塑樹脂を完全に含浸させた中間材料である.シート(平板)の状態で提供される.熱硬化性樹脂のように使用者自身が1層ごとにクリーンルームで積層する必要がなく,図1のように希望の厚みに積層されたシートで提供され,保管も常温で可能である.」（https://www.jstage.jst.go.jp/article/jjspe/81/6/81_503/_pdf/-char/ja）
+  - 「連続繊維強化熱可塑性複合材料分析レポート2025：市場規模、シェア、... — May 7, 2025 · QYResearch調査チームの最新レポートである「2025～2031年グローバル連続繊維強化熱可塑性複合材料市場レポート」によると、2025年から2031年の予測期間中のCAGRが4.4%で、2031年までにグローバル連続繊維強化熱可塑性複合材料市場規模は8.6億米ドルに達すると予測されている。」（https://www.qyresearch.co.jp/news/9196/continuous-fiber-reinforced-thermoplastic-composite-material）
+  - 「自動積層装置を用いた革新的炭素繊維複合材料積層技術,三菱重工技報 V... — 2.3 AFP を用いた積層体の欠陥 ら,周長差によりテープにしわが発生したり,剥離が生じたりすることがある(図 3)。比較的複雑な形状を有する試験片を製造する際は,専用ソフトを用いて,テープの貼付方向に対して曲率が厳しい箇所」（https://www.mhi.com/jp/technology/review/pdf/624/624090.pdf）
+
+## 砂型3Dプリンターの砂とバインダー（2成分の原料システム）（sand binder jetting foundry sand binder consumables market）
+- 文脈：砂＋バインダー
+- 市場規模：
+  - 「世界のサンド 3D プリンター市場規模、シェア、トレンド、業界予測 2026 ～ 2034 年」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「世界のサンド3Dプリンタ市場規模：技術別（バインダージェッティング、選択的レーザー焼結（SLS））、最終用途産業別（航空宇宙および防衛、自動車）、アプリケーション別（試作、工具）、材料別（シリカ砂、アルミナ砂）、コンポーネント別（プリンタ、ソフトウェア）、地理的範囲別および予測」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「市場規模 (2024)」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「USD 1.5 Billion」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「USD 5.2 Billion」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「サンド3Dプリンター市場規模別展望と予測」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「市場規模は2024年に12億米ドルと評価され、2025年の13億米ドルから2033年までに24億米ドルに、約8.2%のCAGRで成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「North America 市場推定 & 予測 2022 - 2032 (USD Million)」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「Europe 市場推定 & 予測 2022 - 2032 (USD Million)」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「Asia Pacific 市場推定 & 予測 2022 - 2032 (USD Million)」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「Latin America 市場推定 & 予測 2022 - 2032 (USD Million)」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「Middle East and Africa 市場推定 & 予測 2022 - 2032 (USD Million)」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「砂用3Dプリンターの世界市場（2026年～2032年）、市場規模（200L/h以下、200L/h～500L/h、500L/h以上）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/8024458）
+  - 「砂用3Dプリンターの世界市場（2026年～2032年）、市場規模（200L/h以下、200L/h～500L/h、500L/h以上）・分析レポートを発表」（https://newscast.jp/smart/news/8024458）
+  - 「本資料には、砂用3Dプリンターの世界市場規模、市場動向、セグメント別予測（200L/h以下、200L/h～500L/h、500L/h以上）、関連企業の情報などが盛り込まれています」（https://newscast.jp/smart/news/8024458）
+- 成長率：
+  - 「CAGR (2026-2033)」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「サンド 3D プリンター市場は加速的な成長軌道にあり、2026 年から 203 年までの年間平均成長率 (CAGR) は約 16.2% と予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「市場規模は2024年に12億米ドルと評価され、2025年の13億米ドルから2033年までに24億米ドルに、約8.2%のCAGRで成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「2024 年の価値は 9 億米ドルですが、CAGR は約 8.0% で、2025 年の 10 億米ドルから 2033 年までに 18 億米ドルに成長すると予想されます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「市場は2024年に8億米ドルと評価され、2025年の9億米ドルから2033年までに約10.1%のCAGRで20億米ドルに成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「2024年に2億米ドルと評価される市場は、2025年の2億2000万米ドルから2033年までに3億5000万米ドルに、約6.8%のCAGRで成長すると予想されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「2024 年には 6 億米ドルと評価され、2025 年の 7 億米ドルから 2033 年までに 18 億米ドルに、約 12.4% の CAGR で成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「2024年には1.5億米ドルと評価され、2025年の1.7億米ドルから2033年までに3.0億米ドルに、約8.2%のCAGRで成長すると予想されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「市場は2024年に9億米ドルと評価され、2025年の10億米ドルから2033年までに21億米ドルに、約10.0%のCAGRで成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「2024年には3億米ドルと評価され、2025年の3億3000万米ドルから2033年までに5億5000万米ドルに、約7.5%のCAGRで成長すると予想されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「2024年には2億米ドルと評価され、2025年の2億2000万米ドルから2033年までに4億米ドルに、約8.0%のCAGRで成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「市場は2024年に3億米ドルと評価され、2025年の3億5000万米ドルから2033年までに7億5000万米ドルに、約10.8%のCAGRで成長すると予想されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「市場は2024年に2億米ドルと評価され、2025年の2億5000万米ドルから2033年までに6億米ドルに、約11.2%のCAGRで成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「砂3Dプリンター市場 地域別分析（CAGR %）」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「世界の砂3Dプリンター市場規模は、2025年の1億1,800万米ドルから2032年には2億5,700万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）13.0％で成長すると見込まれています」（https://newscast.jp/smart/news/8024458）
+- 価格：
+  - 「*このセクションでは、市場の成長要因、機会、バリューチェーン分析、ポーターの5フォース分析、価格分析、およびマクロ経済分析を強調します」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「2025年、世界のサンド3Dプリンターの販売台数は約3,114台に達し、世界平均市場価格は1台あたり約38.65千米ドルでした」（https://newscast.jp/smart/news/8024458）
+  - 「また、最大造形速度別（200L/h以下、200L/h-500L/h、500L/h超）、印刷速度別（20秒/層以下、20-30秒/層、30秒/層超）、タイプ別（大型、中小型）、用途別（航空宇宙、軍事、自動車、海洋、建設機械、風力発電、医療、その他）に、それぞれ砂用3Dプリンターの販売量、収益、市場シェア、販売価格（2021年～2026年）に関する詳細な分析が示されています」（https://newscast.jp/smart/news/8024458）
+  - 「第3章には、企業別の砂用3Dプリンターの年間販売量（2021年～2026年）、販売市場シェア（2021年～2026年）、年間収益（2021年～2026年）、収益市場シェア（2021年～2026年）、販売価格に関する詳細な分析が示されています」（https://newscast.jp/smart/news/8024458）
+  - 「2025年には、世界の砂3Dプリンターの販売台数は約3,114台に達し、平均的なグローバル市場価格は約38.65K米ドル/台となりました」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「2021年から2032年までの消費価値（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）における世界の砂3Dプリンター市場の規模と予測」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「2021年から2032年までの消費価値（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）における地域および国別の世界の砂3Dプリンター市場の規模と予測」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「2021年から2032年までの消費価値（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）における最大ビルドレート別およびアプリケーション別の世界の砂3Dプリンター市場の規模と予測」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「2021年から2026年までの主要プレイヤーの市場シェア、収益（百万ドル）、販売数量（ユニット）、平均販売価格（K US$/ユニット）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「このレポートは、世界の砂3Dプリンター市場における主要プレーヤーを、企業概要、販売数量、収益、価格、粗利益、製品ポートフォリオ、地理的存在、主要な開発などのパラメーターに基づいてプロファイルしています」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「第2章では、2021年から2026年までのサンド3Dプリンターの価格、販売数量、収益、世界市場シェアをもとに、主要な製造業者をプロファイルします」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「1.7.3 世界の砂3Dプリンター平均価格（2021年-2032年）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「2.1.4 ExOneの砂3Dプリンター販売数量、平均価格、収益、粗利益率、市場シェア（2021年-2026年）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「2.2.4 Voxeljetの砂3Dプリンター販売数量、平均価格、収益、粗利益率、市場シェア（2021年-2026年）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「2.3.4 Envisiontecの砂3Dプリンターの販売数量、平均価格、収益、粗利益率および市場シェア（2021-2026）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+- 主要企業：
+  - 「世界のサンド 3D プリンター市場規模、シェア、トレンド、業界予測 2026 ～ 2034 年」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「ExOne、3D Systems、Desktop Metal などの大手企業は、バインダーの配合を改良し、印刷速度を向上させ、後処理技術を改善するために研究開発に多額の投資を行っています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「特定のプリンタモデルのコモディティ化による価格圧力は、特に新規参入者が低コストのソリューションで市場に参入するため、大手企業のマージンを脅かしています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「ExOne や 3D Systems などの既存のリーダーは革新を続けていますが、AI、自動化、低コストのハードウェアを活用する新規参入者が市場シェアを獲得しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「戦略的な M&A 活動によりエコシステムが強化されており、大手企業が新興企業を買収して先端材料、ソフトウェア、または製造能力を統合しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「新興市場は、工業化とインフラ開発によって促進され、成長の大きなシェアを占めることになります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「ExOne、Desktop Metal、3D Systems などの大手企業は、産業用途に合わせた高度なサンド プリンティング システムで製品ポートフォリオを拡大しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「ボーイングやエアバスなどの大手航空宇宙 OEM は、重量と組み立ての複雑さを軽減するために積層造形に投資しており、これは燃料節約と運用効率につながります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「エアバスなどの航空宇宙大手と積層造形企業との最近のコラボレーションは、高温砂複合材料やマルチマテリアル システムの革新につながりました」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「インダストリー 4.0 とデジタル製造統合への移行がさらに加速し、主要企業が研究開発に多額の投資を行って、より速く、より正確で、環境的に持続可能なサンド 3D プリンティング ソリューションを開発しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「サンド 3D プリンター市場は、世界的なテクノロジー大手から専門のニッチ企業まで、多様なプレーヤーによって特徴付けられる、主に断片的な構造を示しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「大手企業は、解像度の向上と構築時間の短縮を可能にする独自の砂結合および積層技術の開発に多額の投資を行っており、これにより運用コストが削減され、製品の品質が向上します」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「業界が成熟するにつれて、生産能力の拡大と技術ポートフォリオの拡大の必要性により、大手企業間のさらなる統合が予想されますが、中小企業はオーダーメイドのソリューションと迅速な納期を必要とする高価値の特殊なアプリケーションに注力する可能性があります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「, ABC Additive Manufacturingは、既存のサンドプリンターと互換性のある環境に優しい結合剤を開発するため、大手化学サプライヤーとの戦略的パートナーシップを発表しました」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「バインダー化学、マルチマテリアル印刷、廃棄物リサイクル技術におけるイノベーションを優先する企業は、より高い利益率と市場シェアを獲得する可能性があります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+- 安全・規制・保管：
+  - 「現場での生産が可能になり、輸送と保管のコストが削減されます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「•有害排気ガスのない中子の生産、中子の保管、鋳造」（https://www.ask-chemicals.com/ja/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/3d%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0）
+  - 「• 印刷された中子と主型は非常に優れた保管安定性を備えています」（https://www.ask-chemicals.com/ja/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/3d%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0）
+  - 「これは、高価なパターン設備や保管スペースが必要なくなるためです」（https://www.kangshuoim.com/ja/application/sand-3d-printer-price）
+  - 「生産プロセスのデジタル化により、在庫管理やジャストインタイム生産が向上し、保管コストの削減と資金繰りの改善につながります」（https://www.kangshuoim.com/ja/application/sand-3d-printer-price）
+  - 「従来のパターン保管の必要性がなくなることで倉庫コストが削減されます」（https://www.kangshuoim.com/ja/application/sand-3d-printer-price）
+  - 「設計データをデジタルで保存することで、物理的なパターン保管に関する維持管理コストも不要になります」（https://www.kangshuoim.com/ja/application/sand-3d-printer-price）
+  - 「→木型製造納期短縮、管理・保管コスト削減、中子組付け作業時間・工数短縮が可能」（https://mono.ipros.com/cg3/%E7%A0%82%E5%9E%8B3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/）
+  - 「砂やバインダーが変わるたびに、ジェッティング、硬化、強度、保管、ガス、鋳造を再評価します」（https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/）
+  - 「砂とバインダーの TDS/SDS を入手し、サンプルをロットします」（https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/）
+  - 「必要に応じて、強度、寸法、保管、透過性、またはガスをテストします」（https://cprint3d.com/ja/resources/sand-3d-printing-guides-ja/bainda-jetto-3d-purinto-4-shurui-no-suna-hikaku/）
+  - 「valued at USD 11.8 billion in 2025 and is projected to reach USD 18.8 billion」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「The global Foundry Consumables Market was valued at USD 11.8 billion in 2025 and is projected to reach USD 18.8 billion by 2034, growing at a CAGR of 5.3%.」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「in 2025 and is projected to reach」（https://www.marketresearchintellect.com/product/binder-jetting-market/）
+  - 「It is projected to reach」（https://www.marketresearchintellect.com/product/binder-jetting-market/）
+- 品質・証明：
+  - 「セットアップコストが低いため、小ロットやオーダーメイドの製造が容易になります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「政府は、特に航空宇宙、防衛、インフラ分野におけるイノベーションを促進するための研究イニシアチブやパイロットプロジェクトを支援しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「政府の補助金と補助金は、初期段階の導入とパイロット プロジェクトをサポートします」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「将来の軌道には、認定された高性能材料の開発、プロセス検証のためのデジタルツイン技術の統合、現場での現場修理やスペアパーツ製造のためのサンド 3D プリンティングの使用の拡大が含まれます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「建物のファサードやインフラコンポーネント用の 3D プリントされたコンクリート型枠など、最近のパイロット プロジェクトでは、その可能性が実証されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「原材料、主に特殊な砂複合材と結合剤は、流動性、熱安定性、結合強度などの材料特性の最適化に重点を置いている化学会社や鉱物会社から供給されます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「製品の形態に基づいて、大型・中ロットの鋳造向けの高耐久大型装置と、小ロット・多品種・迅速な試作向けの小～中規模システムに大別されます」（https://newscast.jp/smart/news/8024458）
+  - 「voxeljetのような企業は、砂型3Dプリンティングが、大型鋳物（数トン以上）や小ロット・多品種生産において、金型コストと納期面で大きな利点をもたらし、エネルギー、重機、ポンプ・バルブ、自動車パワートレインなどの分野での応用を可能にすると強調しています」（https://newscast.jp/smart/news/8024458）
+  - 「砂用3Dプリンターの主な用途は、工業部品の試作や小ロット生産です」（https://newscast.jp/smart/news/8024458）
+  - 「特に、自動車産業では、早期のプロトタイプ作成や市場調査用の小ロット生産が求められるため、砂用3Dプリンターの需要が増加しています」（https://newscast.jp/smart/news/8024458）
+  - 「製品の形状に基づいて、これらは大サイズの中型鋳造用の重-duty大型機器と、小型・中型のシステムに大別され、小ロット、多品種、迅速なプロトタイピングに対応しています」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「voxeljetのような企業は、砂型3Dプリンティングが大規模鋳造（トン単位以上）や小ロット・多品種生産において型のコストや納期において大きな利点を提供し、エネルギー、重機、ポンプとバルブ、自動車のパワートレインなどの分野での応用を可能にすると強調しています」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「製品の形態に基づき、大型・中ロットの鋳造向けの高耐久大型装置と、小ロット・多品種・迅速な試作向けの中小型システムに大別される」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「voxeljetのような企業は、砂型3Dプリンティングが、大型鋳物（数トン以上）や小ロット・多品種生産において、金型コストと納期面で大きな利点をもたらし、エネルギー、重機、ポンプ・バルブ、自動車パワートレインなどの分野での応用を可能にすると強調しています」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「それにより高流動性を確保し、高耐熱性・低熱膨張性・高密度・高強度な造形を実現します」（https://www.cmet.co.jp/product_cate/material-sand/）
+- 装置縛り・オープン材料：
+  - 「高解像度プリンターのコスト低下と、互換性のある材料とソフトウェアのエコシステムの拡大により、市場がニッチな用途から主流の製造業へと進化するにつれて、構造の変化は明らかです」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「互換性のある砂やバインダーの選択肢が狭いなど、材料の制限により、特に高性能コンポーネントや特殊なコンポーネントの適用範囲が制限されます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「航空宇宙規格と互換性のある認証済みの高強度砂材料の開発が進行中であるため、この機会がさらに拡大し、砂 3D プリンティングが次世代の航空宇宙製造の戦略的実現手段として位置づけられることが期待されています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「将来の成長のチャンスは、印刷速度の向上、材料互換性の拡大、SLS と他の積層造形技術を組み合わせたハイブリッド システムの開発にあります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「, ABC Additive Manufacturingは、既存のサンドプリンターと互換性のある環境に優しい結合剤を開発するため、大手化学サプライヤーとの戦略的パートナーシップを発表しました」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「シングルチップ降圧型電圧レギュレータの世界及び日本市場2026年：種類別（AC降圧型電圧レギュレータ、DC降圧型電圧レギュレータ）」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「プリントヘッドの数、スライスソフトウェア、印刷速度、材料の互換性など、その他多くのオプション機器、部品を含めると、構成が高くなるほど、価格もそれに応じて高くなります」（https://www.3dptek.com/ja/blogs/sand-3d-printer-price/）
+  - 「砂型積層専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売のCMET株式会社（シーメット株式会社）」（https://www.cmet.co.jp/product_cate/material-sand/）
+  - 「砂型積層造形装置利用で最も適している専用のG-CCS（砂）、バインダ（樹脂）をご提供しています」（https://www.cmet.co.jp/product_cate/material-sand/）
+  - 「鋳造用砂型3Dプリンター専用材料」（https://www.cmet.co.jp/product_cate/material-sand/）
+  - 「鋳造用砂型3Dプリンター専用材料は、人工砂に酸触媒をコーティングすることで乾態化します」（https://www.cmet.co.jp/product_cate/material-sand/）
+  - 「鋳造用砂型3Dプリンター専用材料の特長」（https://www.cmet.co.jp/product_cate/material-sand/）
+  - 「専用砂：Catalyst Coated Sand」（https://www.cmet.co.jp/product_cate/material-sand/）
+  - 「JMCでは砂型鋳造でも豊富な実績を有しており、長野県飯田市に設置する鋳造専用工場にて、鋳造工程やその後の追加工まで一括で対応することが可能です」（https://www.3d-printout.com/system/sprint/）
+  - 「G-CCS（Catalyst Coated Sand）/専用バインダー」（https://www.cmet.co.jp/product/infomation/1353/）
+- 売り方・商流：
+  - 「ボーイングやエアバスなどの大手航空宇宙 OEM は、重量と組み立ての複雑さを軽減するために積層造形に投資しており、これは燃料節約と運用効率につながります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「自動車 OEM が市場投入までの時間を短縮し、革新的な機能を開発しようとしているため、サンド プリンティングは、特に製品開発の初期段階で、複雑な金型、治具、機能プロトタイプの開発において戦略的な利点をもたらします」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「フォードや BMW などの自動車 OEM による社内サンド 3D プリンティング施設への最近の投資は、この傾向を例示しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「北米のサンド 3D プリンター市場は、成熟した産業基盤、多額の研究開発投資、OEM とエンドユーザーの堅牢なエコシステムが特徴です」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「地元の OEM や中国ロケット技術アカデミーなどの研究機関による最近の投資は、サンド 3D プリンティングの戦略的重要性を浮き彫りにしています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「中国製造 2025 計画などの最近の取り組みでは、国産の高性能材料の開発と輸入機器への依存の削減に重点が置かれています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「地方政府や民間企業による最近の投資は、先住民の能力を開発し、輸入への依存を減らし、イノベーション拠点を育成することを目的としています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「これらの企業は、OEM や政府機関と戦略的契約を締結することが多く、安定した収益源を提供し、市場での存在感を強化します」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「流通チャネルには通常、印刷システムの複雑さと規模に応じて、大規模な OEM への直接販売、または専門の産業機器販売代理店を通じての販売が含まれます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「このエコシステム内の主要な関係者には、材料サプライヤー、プリンター OEM、ソフトウェア開発者、エンドユーザー業界が含まれます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「5.7.2 砂3Dプリンターの代表的な販売代理店」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「表24. 砂3Dプリンターの主な販売代理店」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「第一実業がExOneと砂型3Dプリンターの販売代理店契約を締結 - VOIX biz」（https://voix.jp/biz/news-analysis/178499/）
+  - 「第一実業がExOneと砂型3Dプリンターの販売代理店契約を締結」（https://voix.jp/biz/news-analysis/178499/）
+  - 「総合機械商社の第一実業株式会社は2026年9月7日、産業用3Dプリンティングソリューションを展開する株式会社ExOne（エクスワン）と、砂型3Dプリンターの日本国内における販売代理店契約を締結した」（https://voix.jp/biz/news-analysis/178499/）
+- 技術支援：
+  - 「AI モデルは、成功した印刷パラメーターと形状の膨大なデータセットから学習するため、最適化プロセスの自動化が進み、プロトタイピング サイクルの短縮とより革新的なアプリケーションの実現につながります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「機械学習アルゴリズムは、印刷中にセンサー データを分析して異常を検出し、オンザフライでパラメーターを最適化し、欠陥を防ぐことができるため、スループットが向上し、ダウンタイムが削減されます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「この変化の証拠としては、資本投資の増加、戦略的提携、大規模製造をサポートできる高解像度でスケーラブルなプリンターの普及などが挙げられます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「これらの分野は、従来の鋳造方法では効率的にサポートできない設計の複雑さの限界を押し広げており、その結果、高度なサンド 3D プリンティング ソリューションに対する継続的なニーズが生まれています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「より大型の金型を処理できる高解像度でスケーラブルなプリンタの普及により、本格的な生産をサポートする市場の能力が拡大しています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「さらに、ジェネレーティブ デザインとシミュレーション ツールの採用の増加により、より複雑で最適化された砂型が可能になり、需要の増加が促進され、予測される CAGR がサポートされます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「AI アルゴリズムはプロセスパラメータを最適化し、一貫した品質の出力を実現します」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「政府の補助金と補助金は、初期段階の導入とパイロット プロジェクトをサポートします」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「カスタマイズはニッチな限定モデルの車両をサポートします」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「現場での製造をサポートし、物流コストを削減します」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「さらに、未使用の砂やバインダーの残留物を新しい印刷サイクルにリサイクルできる可能性により、資源効率が向上し、企業の持続可能性目標と規制遵守をサポートします」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「AI アルゴリズムは、プリンターに組み込まれたセンサーからの膨大なデータセットを分析して、パターンを特定し、故障を予測し、プロセス パラメーターを動的に最適化します」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「遠隔地や災害地域への迅速な導入をサポートします」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「ラピッドプロトタイピングと反復的な設計サイクルをサポートします」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「この機能により、メーカーは物理的な実行前に印刷パラメータをシミュレートし、潜在的な欠陥を予測し、プロセス設定を最適化できるため、試行錯誤のコストが大幅に削減されます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+- コモディティ化：
+  - 「SLS プロセスは、シリカ、ジルコン、アルミナベースの砂など、幅広い砂組成を処理できるため、その汎用性が高まります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「中国製造 2025 計画などの最近の取り組みでは、国産の高性能材料の開発と輸入機器への依存の削減に重点が置かれています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「さらに、長期サービス契約、独自ソフトウェアのライセンス、カスタマイズ製品が追加の収益源として機能し、企業は熾烈な価格競争の中でも健全な利益率を維持することができます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「二足歩行式ヒューマノイドロボットの世界及び日本市場2026年：種類別（フルサイズ汎用二足歩行ロボット、簡易型二足ヒューマノイドロボット）」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「欧米製と中国製の設備の価格を率直に比較検討したい場合は、当社の」（https://www.lyafs.com/ja/blog/sand-3d-printing-cost/）
+  - 「欧米製と中国製の3Dプリンターのコスト分析」（https://www.lyafs.com/ja/blog/sand-3d-printing-cost/）
+  - 「装置は量産段階にあり、砂や結合剤は汎用品並みの価格で入手可能であり、このプロセスを採用している鋳造所からは、重要な案件において30～80%のコストと時間の削減が報告されています」（https://www.lyafs.com/ja/blog/sand-3d-printing-cost/）
+  - 「600 × 600 × 600 mmの造形領域とSLS技術ならではの精度により、汎用性の高いミッドレンジモデルとなっています」（https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/）
+  - 「higher-margin revenue streams beyond commodity sand supply.」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「compete on cost in commodity-grade sand and binder categories. Leading」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「When 95% of a "failed print" or a broken mold returns to the hopper, the effective cost of that "open" sand becomes almost negligible. You aren't just buying cheap sand; you are buying that cheap sand once and reusing it 20 times.」（https://www.3dpcasting.com/blogs/how-3dpteks-open-sand-policy-lets-you-slash-consumable-costs/）
+- 繰り返し性：
+  - 「この技術の相乗効果により、軽量でありながら構造的に堅牢な砂型の開発が可能になり、材料の消費量と後処理要件が削減されます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「低消費量のフラン系（例：SS06）」（https://www.lyafs.com/ja/blog/sand-3d-printing-cost/）
+  - 「バインダーによって結合された砂のみが鋳型となり、造形ボックス内の未結合の砂はふるい分けられて再利用されるため、実質的な消費量はボックスの容積のほんの一部にとどまります」（https://www.lyafs.com/ja/blog/sand-3d-printing-cost/）
+  - 「3DPと鋳造を組み合わせた統合プロセスでは、エネルギー消費量が約」（https://www.lyafs.com/ja/blog/sand-3d-printing-cost/）
+  - 「しかし、造形容積が大きくなると、1層あたりのプリント時間が長くなり、1回の造形あたりの砂の消費量が増え、設置面積も大きくなります」（https://www.lyafs.com/ja/blog/best-sand-3d-printers-in-2026-ranked-by-build-volume-value-accuracy/）
+  - 「50 %軽量化されており，人工砂の使用量を 50 %減」（https://www.pref.mie.lg.jp/common/content/000869724.pdf）
+  - 「る砂型よりも人工砂の使用量を減らすことができる」（https://www.pref.mie.lg.jp/common/content/000869724.pdf）
+  - 「rates in real time, reducing scrap and raw-material consumption across」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「lifting consumption of resin-coated sand, specialty coatings, and non-ferrous」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「directly increasing bentonite, refractory, and filter consumption.」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「shift is increasing consumption of specialty resin-coated sand, degassing」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「battery housings and motor components sustaining consumables consumption even」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「across China, India, Japan, and South Korea. China leads regional consumption」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「witnessing growing consumption of resin-coated sand and specialty coatings tied」（https://www.igtps.com/report/foundry-consumables-market）
+  - 「Email Subscription Management」（https://www.igtps.com/report/foundry-consumables-market）
+- 日本：
+  - 「North America (U.S, Canada, Mexico), Europe (Germany, United Kingdom, France), Asia-Pacific (China, Japan, South Korea, India), Middle-East (Saudi Arabia, UAE, Kuwait, Qatar).」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「アジア太平洋地域は、急速な工業化、積層造形を促進する政府の取り組み、中国、日本、韓国、インドなどの国の製造能力の拡大によって、サンド 3D プリンティングの重要な成長拠点として台頭しつつあります」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「日本のサンド3Dプリンター市場」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「日本のサンド 3D プリンタ市場は、日本の先進的な製造部門によって推進され、品質と信頼性を重視した高精度アプリケーションに焦点を当てていることが特徴です」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「ニコンなどの日本企業と地元の大学との最近の提携は、高解像度のバインダー噴射システムと環境に優しいバインダーの開発を目的としています」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「将来の展望には、このニッチ分野で日本の技術的リーダーシップを維持するための、AI 主導のプロセス最適化の統合、マルチマテリアル機能の拡大、認証と品質保証の基準の開発が含まれます」（https://www.verifiedmarketreports.com/ja/product/sand-3d-printer-market/）
+  - 「中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾の詳細な市場状況も含まれています」（https://newscast.jp/smart/news/8024458）
+  - 「・日本語タイトル：砂用3Dプリンターの世界市場2026年～2032年」（https://newscast.jp/smart/news/8024458）
+  - 「アジア太平洋地域（中国、日本、韓国、インド、東南アジア、オーストラリア）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「9.3.4 日本市場の規模と予測（2021-2032）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「図70. 日本の砂3Dプリンター消費価値（2021-2032年）＆（百万米ドル）」（https://www.marketresearch.jp/global-sand-3d-printers-market-mrc2606c10476/）
+  - 「砂3Dプリンターの世界及び日本市場2026年：最大処理能力別（200L/h以下、200L/h～500L/h、500L/h以上）」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「(3) 日本の砂3Dプリンターの販売台数、売上高、企業別価格、市場シェア、業界ランキング（2021-2026年）（百万米ドル）および（台数）」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「アジア太平洋（中国、日本、韓国、インド、東南アジア、オーストラリア、その他アジア太平洋諸国）」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+  - 「第1章：サンド3Dプリンターの製品範囲、世界の販売数量、販売額、平均価格、日本の販売数量、販売額、平均価格、開発機会、課題、動向、および政策について記述」（https://www.global-data.jp/sand-3d-printers-global-top-yhr26jne1490/）
+- 検索結果の抜粋：
+  - 「砂型積層専用材料 – 3Dプリンター（光造形・砂型造形装置）製造・販売... — 鋳造用砂型3Dプリンター専用材料 について 鋳造用砂型3Dプリンター専用材料は、人工砂に酸触媒をコーティングすることで乾態化します。 それにより高流動性を確保し、高耐熱性・低熱膨張性・高密度・高強度な造形を実現します。」（https://www.cmet.co.jp/product_cate/material-sand/）
+  - 「Foundry Consumables Market Size ,Share ,Growth & Forecast 2034 — Rising adoption of additive-manufacturing-compatible (binder-jetting) sand and core materials is creating a new high-value consumable category tied to rapid tooling and prototype casting.」（https://www.igtps.com/report/foundry-consumables-market）
+
+## AM原料の形態別比較（粉末・ワイヤー・フィラメント・ペレット・レジン）（additive manufacturing feedstock forms comparison cost powder wire pellet filament resin）
+- 文脈：横断
+- 市場規模：
+  - 「2025年までに市場規模が20%成長すると予測され（」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「積層造形用原料市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+- 成長率：
+  - 「Stratistics MRCによると、世界の積層造形用原料市場は2026年に833億米ドルの規模となり、予測期間中はCAGR 4.7％で成長し、2034年までに1,203億米ドルに達すると見込まれています」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+- 価格：
+  - 「バルク価格では、金属パウダーがUSD 50-150/kg、ワイヤーがUSD 30-100/kgの市場参考価格です」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「価格変動要因は原料相場で、2025年上昇予測」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「価格変動：原料高騰で5-10%上昇予測」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「価格は通常USD 20–100/kgです」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「企業は、1キログラムあたりの価格だけを比較するのではなく、粉末の性能を評価すべきである」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「プラズマアトマイズ法7）では，円錐状に配置された３本の」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+  - 「Nuclear Power Price Trend 2026: LCOE Bands, Reactor Mix and Sourcing Levers」（https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html）
+- 主要企業：
+  - 「ケース：大手メーカーでMOQ調整によりコスト10%削減」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「MET3DP Technology Co., LTDは、中国青島に本社を置く積層造形ソリューションの大手プロバイダーです」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「金属粉末は、高性能な用途を支えるため、産業分野において最大のシェアを占めている」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「大手AM（積層造形）企業は、高度な粉末試験および製造方法を用いて、不良率を低減し、生産の信頼性を向上させている」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「予測期間中は、粉末セグメントが最大のシェアを占めると予想されます」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「粉末セグメントは、レーザー焼結や電子ビームプロセスといった先進的な印刷技術で広く応用されていることから、予測期間中は最大の市場シェアを占めると予想されます」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「予測期間中、北米地域は、その高度な技術力と最新製造技術の早期導入に支えられ、最大の市場シェアを占めると予想されます」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「主要企業（最大3社）のSWOT分析」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「製品ポートフォリオ、地理的展開、戦略的提携に基づく主要企業のベンチマーキング」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「Key players in the market」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「Market share assessments for the regional and country-level segments」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「SWOT Analysis of key players (up to 3)」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「Benchmarking of key players based on product portfolio, geographical presence, and strategic alliances」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「4.2 Market Share Analysis of Key Players」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「Additive Manufacturing Feedstock Market CAGR, size, share, trends, growth, value, key players analysis | Stratistics MRC report」（https://www.strategymrc.com/report/additive-manufacturing-feedstock-market）
+- 安全・規制・保管：
+  - 「VIGA（真空誘導不活性ガスアトマイズ）装置」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「このプロセスでは、高速の不活性ガスを用いて溶融金属を液滴に分解する」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「ゴンガスやヘリウムガスなどの不活性ガスを衝突させること」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+  - 「In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik's cleaning solutions to the entire U.S. region.」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik’s cleaning solutions to the entire U.S. region.」（https://www.strategymrc.com/report/additive-manufacturing-feedstock-market）
+  - 「ATEX certification process」（https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html）
+- 品質・証明：
+  - 「ISO認定金属パウダーの品質 vs B2B調達のためのワイヤー基準」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「ISO認定の金属パウダーは、純度99.9%以上を保証し、B2B調達で信頼性が高いです」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「ワイヤー基準として、EN 10204規格が適用され、トレーサビリティを強化します」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「比較データでは、パウダーの球形度95%に対し、ワイヤーの均一性98%と耐久優位」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「のトレーサビリティが重要で、ブロックチェーン活用事例が増加」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「比較で、パウダー工場の柔軟生産が小ロットに、ワイヤーが大量供給に適します」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「3Dプリンティング用粉末工学とは、粒子形状、粒度分布、流動性、内部品質などの粉末特性を設計・制御することで、積層造形性能を向上させるプロセスである」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「粉末の形態は、流動性、充填密度、および溶融安定性を左右する」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「粉末形態とは、粒子の形状、粒度分布、表面状態、および内部構造を指します」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「粒度分布は、粒子がどのように凝集するか、そして印刷時の粉末の挙動を左右します」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「バランスの取れた粒度分布は、密度と印刷安定性を向上させます」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「プラズマ球状化処理は、不規則な形状の粒子を、流動性が向上し欠陥の少ない、高度に球形の粒子に変換することで、粉末の品質を向上させる」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「3Dプリンティング用粉末のエンジニアリングは、粒子の形状、サイズ、化学組成、流動性、および内部品質を網羅しています」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「これらの材料は、印刷プロセスにおいて均一性、滑らかな流動性、および強力な層間接着性を維持できるよう、慎重に配合されています」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「とする高い流動性と隙間なく粉体粒子が充填した粉体層を形」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+- 装置縛り・オープン材料：
+  - 「クローズドループ式の粉体システムは、廃棄物を削減し、サプライチェーンの安定性を向上させることができる」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「2034年までの積層造形用原料市場の予測―素材の種類、原料の形態、製造技術との互換性、エンドユーザー、および地域別の世界分析」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「専用用途に向けた精度、耐久性、適応性を提供するため、原料材料は絶えず改良が進められています」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「第7章 世界の積層造形用原料市場：製造技術との互換性別」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「Polymer AM splits cleanly across three forms: 1.75 mm or 2.85 mm filament for FFF desktop and industrial lines, 1 kg resin cartridges (405 nm) for SLA, and pellets for direct extrusion pellet 3D printing. The」（https://www.sourcebyspec.com/news/additive-manufacturing-raw-material-sourcing-guide-2026-spec-bands-process.html）
+- 売り方・商流：
+  - 「経験に基づき、工場直販で納期を30%短縮」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「日本輸入時の関税考慮で、」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「で、OEM需要高まる」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「産業用3DプリンティングにおけるOEMイノベーション：パウダー vs ワイヤー」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「OEMイノベーションでは、パウダーがマイクロ構造制御で革新、ワイヤーがスケーラブル生産を提供」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「2024年事例：パウダーOEMで部品寿命延長25%」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「OEMの表で、パウダーの革新性、ワイヤーの実用性が際立つ」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik's cleaning solutions to the entire U.S. region.」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「10.4 Channel, Distributor, and Go-to-Market Assessment」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「In March 2025, Evonik has entered into an exclusive agreement with the Cleveland-based Sea-Land Chemical Company for the distribution of its cleaning solutions in the U.S. The agreement builds on a long-standing relationship with the distributor and expands the reach of Evonik’s cleaning solutions to the entire U.S. region.」（https://www.strategymrc.com/report/additive-manufacturing-feedstock-market）
+  - 「10.4 Channel, Distributor, and Go-to-Market Assessment」（https://www.strategymrc.com/report/additive-manufacturing-feedstock-market）
+  - 「Suppliers & Distributors」（https://www.strategymrc.com/report/additive-manufacturing-feedstock-market）
+- 技術支援：
+  - 「しかし、印刷パラメータを改善することで、一部の水噴霧式ステンレス鋼粉末はAM用途において高密度化を実現できることが示されている」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「2015年以来、航空宇宙、医療、自動車、産業分野の世界中のお客様をサポートしています」（https://www.forgecise.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E7%B2%89%E6%9C%AB%E5%B7%A5%E5%AD%A6%EF%BC%9A%E7%B2%89%E6%9C%AB%E3%81%AE%E5%93%81%E8%B3%AA%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8/）
+  - 「第12章 企業プロファイル」（https://www.gii.co.jp/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「Index） などの粉体流動性に関するパラメータの分析が可能で」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+  - 「Each report takes an average time of a month and a team of 4 industry analysts. The time may vary depending on the scope and data availability of the desired market report. The various parameters used in the market assessment are standardized in order to enhance the data accuracy.」（https://www.strategymrc.com/report/additive-manufacturing-feedstock-market）
+- コモディティ化：
+  - 「比較上、パウダーは高価だが品質プレミアム、ワイヤーは低価格で大量調達向き」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「卸注文の表で、パウダーの高価格高品質、ワイヤーの低価格大量が示唆」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+- 日本：
+  - 「日本市場では、精密部品需要が高まっており、」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「日本企業向けに、」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「経験上、日本市場の調達では、パウダーの不純物率が0.1%未満のものが航空部品に不可欠」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「CE準拠ワイヤーは欧州輸出に適し、日本企業のパートナーシップを強化します」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「日本企業は、」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「日本向けに、」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「日本輸入時の関税考慮で、」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「市場予測：日本で15%成長（経済産業省報告）」（https://blog.met3dp.com/ja/blog/3d-printing-metal-powder-vs-wire-complete-guide-solutions-for-2025/）
+  - 「型積層造形法があり，それぞれ国内企業ではPBF型は松浦機」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+  - 「械製作所や，ソディック，日本電子株式会社などが開発・製」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+  - 「＊ National Institute of Advanced Industrial Science and Technology （AIST） （1-2-1 Namiki, Tsukuba, Ibaraki 305-8564, Japan）」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+  - 「＊＊ Industrial Research Institute Ishikawa （2-1 kuratsuki, Kanazawa, Ishikawa 920-8203, Japan）」（https://www.jstage.jst.go.jp/article/jtss/58/3/58_142/_pdf/-char/ja）
+  - 「9.3.2 Japan」（https://www.giiresearch.com/report/smrc2111029-additive-manufacturing-feedstock-market-forecasts.html）
+  - 「9.3.2 Japan」（https://www.strategymrc.com/report/additive-manufacturing-feedstock-market）
+- 繰り返し性：記載なし（読んだ44頁・検索21回）
+
+## 日本のAM原料の商社・代理店（形態別）（Japan distributor 3D printing materials powder wire filament pellet resin）
+- 文脈：日本・商流
+- 主要企業：
+  - 「業務用AM/3Dプリンタ―のポータルサイトShareLab（シェアラボ）の運営」（https://jsam.or.jp/member/support/）
+- 品質・証明：
+  - 「新製品開発に関するトータルサービス、商品企画、デザイン、工業用製品の設計、解析エンジニアリング、試作、 金型の設計・製造及び小ロット成形品の生産・販売」（https://jsam.or.jp/member/support/）
+- 装置縛り・オープン材料：
+  - 「3Dプリンタ、専用材料、ソフト ウェアを自社開発し、試作から量産まで対応可能なプラットフォームを提供」（https://jsam.or.jp/member/support/）
+- 売り方・商流：
+  - 「3Dプリンターのリース・レンタル・新品販売・中古売買、造形サービスビューロ（金属/樹脂）、中国BLT社金属3Dプリンター国内販売代理店（保守などアフターサポート）、3DプリントシミュレーションWEBサービス」（https://jsam.or.jp/member/regular/）
+  - 「3DSystems・formlabs・BMF・GUTENBERG・SATT Systems 国内一次代理店」（https://jsam.or.jp/member/regular/）
+  - 「米３ＤSystems国内代理店、XYZプリンティング国内代理店」（https://jsam.or.jp/member/regular/）
+  - 「Velo3D/GEFERTEC/ADDiTEC/Rapidia国内代理店・産業ガスメーカー」（https://jsam.or.jp/member/regular/）
+  - 「AP&C（Colibrium Additiveグループ）・Elementum3D・Constellium・大同特殊鋼などの代理店」（https://jsam.or.jp/member/regular/）
+  - 「機械メーカーや商社と連携した『補助金活用による機械・装置の販売支援』も得意」（https://jsam.or.jp/member/regular/）
+  - 「BambuLab、Polymaker、Creality、REVOPOINT、resione などの国内販売代理店」（https://jsam.or.jp/member/support/）
+  - 「ストラタシス/Desktop Metal国内代理店」（https://jsam.or.jp/member/support/）
+  - 「FLASHFORGE・SCANTECH・Markforgedの国内代理店」（https://jsam.or.jp/member/support/）
+  - 「Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー」（https://jsam.or.jp/member/support/）
+  - 「ドイツの大型FFF/3Dプリンターメーカー[bigrep]の国内総代理店、 各種3Dエンジニアリング業務支援(リソース/プログラム開発/光学測定etc)」（https://jsam.or.jp/member/support/）
+  - 「BASF社製3Dプリンターフィラメント日本総代理店 |日本3Dプリンター株式会社 |」（https://www.3d-filament.jp/）
+- 技術支援：
+  - 「3Dプリンターのリース・レンタル・新品販売・中古売買、造形サービスビューロ（金属/樹脂）、中国BLT社金属3Dプリンター国内販売代理店（保守などアフターサポート）、3DプリントシミュレーションWEBサービス」（https://jsam.or.jp/member/regular/）
+  - 「装置販売からアフターサポート、受託造形サービスまで、ワンストップでご提供いたします」（https://jsam.or.jp/member/regular/）
+  - 「‎ソフトウェア、ハードウェアの 販売及びサポートを通して、 より広範囲な事業領域の課題を トータルエンジニアリング力で 解決する企業」（https://jsam.or.jp/member/regular/）
+  - 「製造業や医療分野などの多様な産業における製品設計から製造の各プロセスにおいて、AM技術によるモノづくりをサポート」（https://jsam.or.jp/member/regular/）
+  - 「3D CADによる造形図面作成のサポート、ご提案を行っております」（https://jsam.or.jp/member/support/）
+  - 「造形工程だけではなく周辺工程である形状提案、熱処理、仕上げ加工、非破壊検査を含む社内一貫生産体制で、顧客が望む造形部品開発・生産をサポート」（https://jsam.or.jp/member/support/）
+  - 「世界中の最先端・高品質技術を日本市場で展開し、コストパフォーマンスに優れた3Dソリューションと技術サポートを提供.」（https://jsam.or.jp/member/support/）
+  - 「DED方式（パウダー、ワイヤー等）金属積層造形及び切削加工に特化した純国産CAD/CAM「CAM-TOOL AM」の開発、販売、サポートを行っております」（https://jsam.or.jp/member/support/）
+  - 「製造、建築、土木インフラ、CG/映像業界向け設計・デザインソフトウェアの販売、サポート、デベロッパー向け技術支援」（https://jsam.or.jp/member/support/）
+  - 「３Dプリンター設備、設計ソフトの提供から実際のサポートまで一貫受託」（https://jsam.or.jp/member/support/）
+  - 「AM造形品の精度必要箇所の後加工やサポート除去を実施可能な装置をご提供」（https://jsam.or.jp/member/support/）
+  - 「CAD/CAM、ポリゴン編集、3DPスライサーソフトの製品開発、販売/サポート及び、専 用ソフトの受託開発」（https://jsam.or.jp/member/support/）
+  - 「Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー」（https://jsam.or.jp/member/support/）
+  - 「Ultrafuse サポートフィラメントには水溶性のBVOHと、リモネンで溶かすことができるHiPSがラインナップされています」（https://www.3d-filament.jp/）
+- コモディティ化：
+  - 「スタンダードフィラメントには汎用性の高いPLA・ABS・PET・ASAなどがラインナップされ、扱いやすくコストパフォーマンスに優れています」（https://www.3d-filament.jp/）
+- 日本：
+  - 「3Dプリンターのリース・レンタル・新品販売・中古売買、造形サービスビューロ（金属/樹脂）、中国BLT社金属3Dプリンター国内販売代理店（保守などアフターサポート）、3DプリントシミュレーションWEBサービス」（https://jsam.or.jp/member/regular/）
+  - 「3DSystems・formlabs・BMF・GUTENBERG・SATT Systems 国内一次代理店」（https://jsam.or.jp/member/regular/）
+  - 「米３ＤSystems国内代理店、XYZプリンティング国内代理店」（https://jsam.or.jp/member/regular/）
+  - 「Velo3D/GEFERTEC/ADDiTEC/Rapidia国内代理店・産業ガスメーカー」（https://jsam.or.jp/member/regular/）
+  - 「BambuLab、Polymaker、Creality、REVOPOINT、resione などの国内販売代理店」（https://jsam.or.jp/member/support/）
+  - 「世界中の最先端・高品質技術を日本市場で展開し、コストパフォーマンスに優れた3Dソリューションと技術サポートを提供.」（https://jsam.or.jp/member/support/）
+  - 「ストラタシス/Desktop Metal国内代理店」（https://jsam.or.jp/member/support/）
+  - 「FLASHFORGE・SCANTECH・Markforgedの国内代理店」（https://jsam.or.jp/member/support/）
+  - 「日本最大級の製造業マーケットプレイス「meviyマーケットプレイス」を運営」（https://jsam.or.jp/member/support/）
+  - 「日本3Dプリンター株式会社」（https://jsam.or.jp/member/support/）
+  - 「Raise3D・Shining3D・Markforged 日本国内代理店 高い提案力と手厚いアフターサポートで3D商材の導入からアフターサポートまでを全てフォロー」（https://jsam.or.jp/member/support/）
+  - 「ドイツの大型FFF/3Dプリンターメーカー[bigrep]の国内総代理店、 各種3Dエンジニアリング業務支援(リソース/プログラム開発/光学測定etc)」（https://jsam.or.jp/member/support/）
+  - 「日本と海外のAM業界の架け橋をするコンサル」（https://jsam.or.jp/member/support/）
+  - 「BASF社製3Dプリンターフィラメント日本総代理店 |日本3Dプリンター株式会社 |」（https://www.3d-filament.jp/）
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 価格：記載なし（読んだ45頁・検索21回）
+- 安全・規制・保管：記載なし（読んだ45頁・検索21回）
+- 繰り返し性：記載なし（読んだ45頁・検索21回）
