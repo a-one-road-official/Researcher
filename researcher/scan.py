@@ -3531,6 +3531,55 @@ def scan(topic):
                f"- 金額の推移・10年の品目で、実質・物価指数の語が無い行：{len(_nom)}件。名目のまま向きを書くときは「名目」と添え、物価で割った値は国内企業物価指数の品目を足して次の実行で出す（4-37・4-122）",
                ""]
     except Exception: pass
+    # 2026-11-09 4-123（総務省「統計法令に基づく統計調査の承認及び届出の状況」月報：各調査の【調査方法】に選定（全数／無作為抽出）と
+    # 客体数／母集団数が並ぶ＝抽出率は承認の記録から出せる。jgiajfid「調査計画」note：発言・確認済み事実・仮説・未取得を分け、
+    # 「担当者によれば」は検証できるまで証言（B）として扱う。betaitohuman「インテリジェンス」note：仮説に確率・期限・判定基準を書き、
+    # 期限が来たら Brier Score で採点する）
+    # ①引用に「客体数／母集団数」の2つの数が並ぶ行から抽出率（客体÷母集団）を出し、「全数」の行と分けて数える
+    # ②数字の品目で、引用が話し手の言明（によれば・とのこと・と話す・と語る・と認識・という声）だけの行＝証言どまり
+    # ③HYPOTHESES.md の H 行で、確率（%）・期限（年月・まで）の両方がそろわない行＝採点できない仮説
+    try:
+        import unicodedata as _ud
+        def _nn(s):
+            s = _ud.normalize("NFKC", s or "").replace(",", "")
+            m = re.search(r"(\d+(?:\.\d+)?)\s*(万|千)?", s)
+            if not m: return None
+            v = float(m.group(1)); return v * (10000 if m.group(2) == "万" else 1000 if m.group(2) == "千" else 1)
+        _samp, _full = [], []
+        for r in rows:
+            q = _ud.normalize("NFKC", r.get("引用", "") or "")
+            if re.search(r"選定\)?\s*全数", q): _full.append(r)
+            m = re.search(r"客体数\s*/\s*母集団数\)?[^0-9約]*約?\s*([\d,\.]+\s*[万千]?)[^/0-9]*/\s*約?\s*([\d,\.]+\s*[万千]?)", q)
+            if m:
+                a, b = _nn(m.group(1)), _nn(m.group(2))
+                if a and b and b > 0: _samp.append((r, a, b, a / b))
+        _TESTI = re.compile(r"によれば|によると|とのこと|と話す|と話した|と語る|と語った|と認識|という声|と証言|と明かす|と明かした|said|told")
+        _MEAS = re.compile(r"統計|調査|決算|有価証券|公告|ログ|記録|集計|実績|表\d|e-Stat", re.I)
+        _testi = [r for r in rows if r.get("値") not in (None, "") and _TESTI.search(r.get("引用", "") or "")
+                  and not _MEAS.search(r.get("引用", "") or "")]
+        _hyp_bad = []
+        try:
+            for ln in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "HYPOTHESES.md"), encoding="utf-8"):
+                mh = re.match(r"\|\s*(H\d+)\s*\|", ln)
+                if not mh: continue
+                has_p = bool(re.search(r"\d+\s*%|確率", ln)); has_d = bool(re.search(r"20\d\d年\d{1,2}月|期限|まで", ln))
+                if not (has_p and has_d): _hyp_bad.append((mh.group(1), has_p, has_d))
+        except OSError: pass
+        # ④（98回目の走査の失敗）費用・単価の区分に、人数・社数の単位の値や、1件1億円（10000万円）以上の値が入った行＝欄の取り違えの疑い
+        _COSTC = re.compile(r"採用単価|いくら払う|単価|費用|料金")
+        _mis = [r for r in rows if _COSTC.search(r.get("区分", "") or "") and (
+                (r.get("単位") in ("人", "名", "社", "件", "事業所")) or
+                (r.get("単位") == "万円" and isinstance(r.get("値"), (int, float)) and r["値"] >= 10000 and re.search(r"採用|1人", r.get("区分", "") or "")))]
+        md += ["## 抽出率・証言どまり・採点できる仮説・費用の欄の取り違え（4-123・機械）",
+               f"- 費用・単価の区分に、人数・社数の単位の値か、採用の1件・1人で1億円以上の値が入った行：{len(_mis)}件。企業数・出荷額・求人数を費用と取り違えた疑いなので、元の引用で何の数字かを確かめるまで採る値・中央値の根拠にしない（4-5・4-123）",
+               *(f"  - {r['品目'][:30]}／{r.get('区分', '')}：{r.get('値')}{r.get('単位', '')}（{r.get('出典', '')}）" for r in _mis[:5]),
+               f"- 引用に「客体数／母集団数」が並ぶ行：{len(_samp)}件（抽出率は下の値。全数と書かれた行 {len(_full)}件）。抽出の統計の細かい区分（業種×規模）は客体が少ないので、抽出率の低い調査の細分類を向きに使わない（4-93・4-121・4-123）",
+               *(f"  - {r['品目'][:30]}：客体 {a:,.0f}／母集団 {b:,.0f}＝抽出率 {p:.2%}（{r.get('出典', '')}）" for r, a, b, p in sorted(_samp, key=lambda x: x[3])[:5]),
+               f"- 数字の品目で、引用が話し手の言明だけ（によれば・とのこと・と話す・と認識など、統計・決算・記録の語が無い）の行：{len(_testi)}件。証言（B）として扱い、記録・統計で測るまで採る値にしない。言明と記録が割れたら両方を残す（4-106・4-123）",
+               *(f"  - {r['品目'][:30]}：{r.get('値')}{r.get('単位', '')}（{r.get('出典', '')}）" for r in _testi[:4]),
+               f"- HYPOTHESES.md で確率（%）と期限がそろわない仮説：{len(_hyp_bad)}件（{'・'.join(h for h, _p, _d in _hyp_bad) or 'なし'}）。確率と期限と判定基準が無い仮説は答え合わせ（Brier Score）ができないので、走査の「仮説への効き」では向き（進めた／崩した）だけを書き、確率を作らない（4-53・4-123）",
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
