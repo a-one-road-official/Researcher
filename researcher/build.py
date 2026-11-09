@@ -23,7 +23,8 @@ def pending() -> list[str]:
 
 
 def main() -> int:
-    for b in pending():
+    # 2026-11-09 本人の最優先（表彰リスト起点の芋づる）を先に回す。他の名簿づくりは止めずに後ろで続ける
+    for b in sorted(pending(), key=lambda b: b != "researcher.build_award_chain"):
         print(f"build {b}", flush=True)
         importlib.import_module(b).main()
     return 0
