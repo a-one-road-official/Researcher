@@ -1045,34 +1045,34 @@
   - 「一般社団法人の決算公告の閲覧方法とは？官報・電子公告・掲示を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「官報・電子公告・掲示という公告方法ごとの探し方と、公益法人informationとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「Finding a Private Company's Revenue: Methods Compared | Veridion」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Here’s how to find a company’s revenue and assess how much you can rely on it.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「But check the ranking’s methodology.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「How to estimate revenue」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Before accepting revenue into your dataset, compare at least two methods if you can. Even a strong source can describe the wrong entity, or a metric that only resembles annual sales.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「The methods compare as follows:」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Revenue is available through company enrichment; the reviewed documentation doesn’t specify the filing-versus-modeling methodology」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「How to Build a Strong Market Intelligence Strategy」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Learn how to build a strong market intelligence strategy that helps you track trends, understand competitors, and make smarter decisions.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
   - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告をホームページで行うには？定款変更の要否と手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告をホームページで行う方法を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「電子公告とは、決算公告などの法定公告をインターネット上で公開する方法です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「日経新聞の決算公告を検索する方法｜縮刷版・日経テレコンの限界と代替手段」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「日経新聞に掲載された決算公告を検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「日経テレコンでは法定公告の本文検索ができない実態、縮刷版の使い方、帝国データバンクなど確実な代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「A. 企業情報や業界情報はさまざまな方法で収集できます」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
 - 突き合わせ・推定：
-  - 「It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.」（https://nodior.com/private-company-revenue-estimation）
-  - 「Can you estimate revenue for a company with almost no online presence?」（https://nodior.com/private-company-revenue-estimation）
-  - 「Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.」（https://nodior.com/private-company-revenue-estimation）
-  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「How to Find Revenue Estimates for Private Companies | Inven」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「How to Find Revenue Estimates for Private Companies」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「Publicly traded companies disclose financial data, but private companies are not obligated to do so. So, how do you get the revenue estimates and the value for private companies? Here's the combination of methods, data sources, and best practices.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「Yet, revenue estimates are a crucial part of private company analysis - so how are they achieved then?」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「Revenue estimation methods have been developed for approximating the financial performance of private companies. Stakeholders can obtain a more comprehensive picture of a private company's revenue through a combination of top-down and bottom-up approaches. While not as precise as official financial statements, these estimates provide a useful proxy for understanding a company's position.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「Why Private Company Revenue Estimates Matter」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「推定決算書の作り方(財務版フェルミ推定)｜KAZUMONO｜数字のものさし」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「１．従業員数を推定する」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「２．人件費を推定する」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「３．その他の固定費（家賃など）を推定する」（https://note.com/pythonddd/n/nd056ead22003）
-  - 「５．「損益分岐点売上高」を逆算する」（https://note.com/pythonddd/n/nd056ead22003）
+  - 「At scale, keep reported figures and estimates clearly labeled, with their sources and dates.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「You can look in official filings, check what the company discloses itself, or estimate it, but these sources aren't equally reliable.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Providers like Veridion supply revenue at scale and label each figure as reported or estimated.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「And Forbes lists can contain estimates, so a ranking entry isn’t automatically an official company-reported figure.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Plus, manual searching becomes pretty expensive across thousands of companies. Where disclosures stop, you’ll need estimates, and a clear record of their assumptions.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「3. Estimate Revenue From Proxies」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「When you can’t find a disclosed figure, operational data can help you estimate a private company's revenue. The aim here is to establish a plausible range, with assumptions you can explain.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「How to estimate revenue」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Multiply locations by comparable annual sales per site, or estimated output sold by average selling price.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Multiply estimated paying customers by average annual spending.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Your estimate becomes:」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Estimates can be way off when a company works differently from others in its industry. A software company, for example, might earn a lot from subscriptions with only a small team.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Where a company publishes revenue, Veridion extracts the disclosed figure. Where it doesn’t, Veridion supplies an estimate generated by proprietary machine-learning models.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Keep the reported-or-estimated label with each figure.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「5. Cross-Check and Label Every Figure」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
 - 一次情報の探し方：
   - 「求人票を出していない会社は求人経由でも取れない」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
   - 「——上場企業は有価証券報告書で完璧に分かる、中堅は公式サイトで大半判明、中小は不明が多い、という」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
@@ -3816,6 +3816,8 @@
 ## 中小の決算公告の公告方法ごとの開示範囲と、純資産の前期比で損益の向きを読む実務（SME public notice disclosure scope by method net assets change profit trend）
 - 文脈：
 - 手順・やり方：
+  - 「会社分割と官報・決算公告の関係を徹底解説｜吸収分割・新設分割の実務手順」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「一般社団法人に決算公告は必要？義務の根拠・方法・罰則を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「一般社団法人との義務範囲・罰則(100万円/50万円)・閲覧方法の違いを比較表で解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「実施率わずか1.8%の実態、3つの公告方法の費用比較、今から始める手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3829,8 +3831,6 @@
   - 「その方法は様々であり、官報、日刊新聞紙、電子公告などがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「2 前項の規定にかかわらず、その公告方法が第939条第1項第1号（官報）又は第2号（時事に関する事項を掲載する日刊新聞紙）に掲げる方法である株式会社は、前項に規定する」（https://kanpo-ad.com/kaisya-kamoku1.html）
-  - 「決算公告の官報費用はいくら？枠数別の料金表と節約する3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「この構造を理解すると、「大会社なのに要旨だけでいい（官報の場合）」「電子公告なら全文が必要」という一見矛盾した結論が、法令の論理から正確に導けるようになる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -3864,6 +3864,8 @@
   - 「企業ページのこれらの項目は国税庁法人番号公表サイト・gBizINFO・日本年金機構の適用事業所検索、および商業・法人登記から取得しています」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「株式会社以外の法人は、決算書の様式と科目の名称が会社法の計算書類と異なります」（https://kaijiwire.jp/guide/kessan-kokoku）
 - 失敗・落とし穴：
+  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -3877,8 +3879,6 @@
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「電子公告の場合は要旨ではなく全文の掲載が必要で、かつ5年間の継続掲載義務がある点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
-  - 「ただし電子公告は5年間の継続掲載が必要で、「要旨」ではなく「全文」を掲載する必要がある点に注意してください」（https://media.denshi-kessan-koukoku.com/columns/kessansho-kessan-koukoku-chigai/）
 - 実例：
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -5924,55 +5924,72 @@
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「How to Obtain Your Amateur Radio License」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Communications & Emissions Training Framework」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「How to Conduct a Daily Threat Analysis Using OSINT」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「How To Begin Prepping」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「The rules that govern every Fortune Favors the Prepared analytical product, and a plain-language explainer of the intelligence-community frameworks they rest on. Operational discipline, anti-bias discipline, and tradecraft standards — what they are, and why they hold.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「This document does two things. First, it explains the discipline in plain language — what analytic tradecraft is, and what the intelligence-community frameworks behind it actually say. Second, it records the FFTP house rules in three groups:」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Analytic tradecraft is the disciplined set of methods, standards, and habits that separate professional intelligence analysis from opinion, punditry, or a summary of the news. It is concerned less with what an analyst concludes than with」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「are the structured methods an analyst uses to meet those standards — competing-hypotheses analysis, key-assumptions checks, indicators and warning, and others. Standards tell you what good looks like. Techniques are how you get there. The rest of this page walks through both, and then sets out the FFTP house rules that extend them.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「The Primer catalogs the named, repeatable methods analysts use to meet the standards in ICD 203.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Structured analytic techniques are step-by-step methods that externalize and discipline reasoning. They make thinking visible — to the analyst, to a reviewer, and to the reader — and they create friction against cognitive bias. They are usually grouped by what they do.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「The analyst defines, in advance, observable events that would signal a situation is moving toward one outcome rather than another. Pre-defined indicators guard against rationalizing new information into an existing view, and they turn a static judgment into a monitoring framework.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「The frameworks above were designed for classified intelligence consumers. The FFTP product is designed for the household practitioner. Both audiences deserve rigorous analytical product; the rules below adjust the discipline to the audience. The first two groups govern how analysis is」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「— a practitioner catalog of the methods summarized here.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「How to Obtain Your Amateur Radio License」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
-  - 「Communications & Emissions Training Framework」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
+  - 「Delphi Method 37」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「applying an analytical framework specifically developed for this purpose and using the Data」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Determining the best structure for an issue to be approached is one of the first steps in its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Techniques provide a step-by-step process to handle the different parts of an analytical issue.6」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「differences of opinion. Communication is improved as it is guided through a step-by-step」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「referred to as an art when it comes to knowing how to put these pieces together.45 The」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「How to know which technique to choose when it comes to a joint analysis process? How to」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「examined how this relates to the different steps in the joint analysis process as outlined in JIPS’」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「and the three key steps of a joint analysis process. Tasks are diverse and range from defining」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「anticipatory, and prescriptive types of analysis. It also provides an important conceptual framework」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Figure 2. The three key steps of the joint analysis process」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「of information from a given context, following an agreed-upon methodology. The purpose of」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「The Guide describes three key steps in a joint analysis process:」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 突き合わせ・推定：
+  - 「alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
 - 一次情報の探し方：
-  - 「Every cycle requires a fresh read of primary sources before claims that depend on them. The cited timestamp is explicit in the sweep manifest. No carryover claims without re-verification. Authoritative sources (SPC, CISA KEV, WASDE, SWPC, USDA, EIA, IEA, BLS, Federal Reserve, FDA) are read at source rather than via aggregator.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Primary Sources & Further Reading」（https://fortunefavorstheprepared.com/analytical-standards/）
+  - 「support to field partners, namely on profiling, and strategic advice on data; consolidates its」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「In the analysis phase of a collaborative data process, such as profiling or joint needs assessments,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysed and related to the joint analysis steps in the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「coordinating and facilitating collaborative data processes, notably profiling coordinators,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「be structured and planned as part of a displacement profiling process. The utility of certain」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「a profiling exercise or a joint needs assessment.31」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「analysis processes in profiling or joint needs assessments. A description of each technique is」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cognitive_biases_march_2016.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「apr09.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 失敗・落とし穴：
-  - 「The rules that govern every Fortune Favors the Prepared analytical product, and a plain-language explainer of the intelligence-community frameworks they rest on. Operational discipline, anti-bias discipline, and tradecraft standards — what they are, and why they hold.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Fortune Favors the Prepared analytical products follow a defined set of operational, anti-bias, and tradecraft rules. The standards on this page govern every published product. They are not aspirational. The pre-delivery verification stack enforces them, the operator reviews them, and the reader can evaluate compliance directly from the product.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Structured analytic techniques are step-by-step methods that externalize and discipline reasoning. They make thinking visible — to the analyst, to a reviewer, and to the reader — and they create friction against cognitive bias. They are usually grouped by what they do.」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「The central insight is a reversal. Intuitive analysis tends to start with the most plausible explanation and then look for evidence that supports it — a process wide open to confirmation bias. ACH inverts this. Instead of asking which hypothesis has the most evidence」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「FFTP House Rules — Operational and Anti-Bias Discipline」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Anti-Bias Discipline: Source-Symmetric Skepticism」（https://fortunefavorstheprepared.com/analytical-standards/）
-  - 「Tradecraft exists because the human mind is predictably biased. It anchors on first impressions, sees patterns in noise, favors evidence that confirms what it already believes, and grows overconfident as it accumulates detail. Structured methods and explicit standards are countermeasures: they force the analyst to slow down, externalize reasoning, and test judgments before publishing them.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
-  - 「Unbiased, evidence-driven, and free of distortion by advocacy, preference, or pressure. Judgments are not shaded to please a customer or fit a policy.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
-  - 「— the U.S. Army’s comprehensive treatment of the intelligence analysis process, analytic standards, cognitive bias, and structured analytic techniques.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
-  - 「— the operational, anti-bias, and tradecraft rules that govern every Fortune Favors the Prepared analytical product.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
-  - 「8. The finished analysis is objective and free of bias. ☐」（https://startme-uploaded-files.s3.amazonaws.com/Uploaded-file-7349595-2023-4-27-08464073b7d5a406.pdf）
-  - 「More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「. SATs are not the only way of dealing with cognitive bias, but they are developed specifically for analysts to deal with them in their daily work. Using SATs, you can catch issues and reflect on your analysis well before you start drafting the product. It’s also easier to get feedback from peers or supervisors.」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「making mistakes. “It is simply assumed, incorrectly, that analysts know how to analyse,” wrote CIA veteran Richards J. Heuer in his 1999 book the Psychology of Intelligence Analysis (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
+  - 「increased objectivity and reduced bias.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「distances intuitive reasoning and its accompanying pitfalls.46」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「4. Lastly, mental models or cognitive biases must be identified and addressed early on.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「pitfalls later on in the process.63 In addition, the indicated time and training required will decrease」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「assumptions and biases, as well as to generate new ideas to adapt plans with new information」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Structured Analytic Techniques to Mitigate Cognitive Bias.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「ACAPS. (2016). Cognitive Biases. Assessment Capacities Project.」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 実例：
+  - 「effective than an individual’s thinking.19 Intelligence analysis, for example, has improved when」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Small groups of eight or fewer individuals, as is typically the case for JSAT sessions, are」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Other considerations include the relationships between techniques. In many cases, techniques」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「questions to begin the process. Examples include:」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「manner, in this case to develop and track the definition process with a sharable modality such as」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「or timeline. For example: “Look for relationships and patterns in the data connecting persons,」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「groups them together into at least four plausible scenarios – best case, worst case, baseline and an」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「CDR Gay, T. N., LCDR Ripley, D. B., & 1/C Fecskovics, A. K. (2012). Use of Case Studies」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「and Structured Analytic Techniques in Intel Studies: USCGA Example [PowerPoint slides].」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
+  - 「Miller Beebe, S. (2020). Teaching Structured Analytic Techniques with Cases. Ascendant」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「An analyst deliberately builds the strongest possible case against the prevailing judgment — not to be contrarian for its own sake, but to expose weak evidence and untested assumptions in the consensus view.」（https://fortunefavorstheprepared.com/analytical-standards/）
   - 「— a sanitized, public worked example of a tiered open-source collection framework.」（https://fortunefavorstheprepared.com/analytical-tradecraft/）
   - 「In some cases, however, key assumptions and the logic behind specific techniques were not transparent.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「The human brain has evolved to deal with uncertainty quickly, a process often expedited by unconscious assumptions, perceptions and beliefs. One of the most well-known examples is confirmation bias; when your preconceptions about an issue get in the way of interpreting new information. Biases are annoying in daily life, but in an intelligence setting they can lead to flawed products and even」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
   - 「for instance, lists 66 “core” techniques, from “several hundred that might have been included.” Don’t fret. Using Heuer and Pherson’s SAT selection process as a handrail, the table below provides a examples on how you can apply a few SATs to tackle any problem-set (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「Here’s a practical example of how and when an Analysis of Competing Hypotheses (ACH) can be used;」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「8 Case Studies in Using Structured Analytic Techniques」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「). Utilise your OSINT toolkit to collect evidence to dissect and forecast a current affair. You can use Beebe & Pherson’s “Cases in Intelligence Analysis: Structured Analytic Techniques in Action” as a primer (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「8.1 Case 1: 9/11 and the formation of the CIA’s Red Cell」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「). Another memo from 2003 titled “If Saddam Should Accept Exile…”. Both are examples of “What If? Analysis” being applied in a major international operation, and proved effective in challenging historical interpretations of Saddam’s likely Course of Action (CoA) (」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「8.2 Case 2: Grey Dynamics’ Key Assumptions Check」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
-  - 「You can explore more case studies applying SATs」（https://greydynamics.com/a-guide-to-structured-analytic-techniques-sats-for-intelligence/）
 - 検索結果の抜粋：
   - 「Structured Analytic Techniques Primer | PDF | Intelligence ...Treadstone 71 - Structured Analytic TechniquesA Guide to Structured Analytic Techniques (SATs) for IntelligenceA Tradecraft Primer: Structured Analytic Techniques for ...A Tradecraft Primer: Basic Structured Analytic Techniques — This primer highlights structured analytic techniques that can help intelligence analysts improve their anal」（https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf）
   - 「Structured Analytic Techniques Primer | PDF | Intelligence ...A Guide to Structured Analytic Techniques (SATs) for IntelligenceA Tradecraft Primer: Structured Analytic Techniques for ...A Tradecraft Primer: Basic Structured Analytic Techniques — This primer highlights structured analytic techniques that can help intelligence analysts improve their analysis. It introduces techniques to challenge as」（https://www.scribd.com/document/346823863/Tradecraft-primer-structured-analytic-techniques-pdf）
@@ -8713,6 +8730,9 @@
 ## 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）（misgrounded citation detection RAG hallucination evaluation legal research）
 - 文脈：検証
 - 手順・やり方：
+  - 「OpenAIが2025年に公開した研究では、一般的な評価方法が、不確実な場合に回答を控えるより、推測して正解することへ報酬を与えやすい点が、ハルシネーションが残る理由の一つとして論じられています」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「生成後にAI自身が回答を見直し、取得情報と一致しているか確認する方法があります」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「実績に対象、期間、母数、方法があるか」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「RAGを自社に導入しようと考えても、自社で課題を改善するのが難しいときは、正確性の高いAIツールを導入するのも方法の一つです」（https://amie-ai.com/contents/rag-assignment/）
   - 「また開発方法によっては、日本語の質問に対し、英語で回答するなどの事態も生じます」（https://amie-ai.com/contents/rag-assignment/）
   - 「知識グラフ（ナレッジグラフ）とは？ 基礎知識と活用方法を解説」（https://amie-ai.com/contents/rag-assignment/）
@@ -8725,10 +8745,11 @@
   - 「As depicted in Figure 3, RAG comprises two primary steps to transform a query into a response: (1)」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「With the retrieved documents in hand, the second step of generation involves providing those」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「in Figure 3, each of the subsidiary steps (the embedding, the design of lexical and semantic search,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「retrieved documents. We expand the framework of legal hallucinations totwo primary dimensions:」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「5 Methodology」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「and time-consuming: this is a cost that must be reflected in future conversations about how to」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
 - 突き合わせ・推定：
+  - 「この研究では、取得情報がある場合でも、LLMが根拠のない主張や取得内容と矛盾する主張を生成することが確認されています」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「企業側では、AIサービスの内部的な検証機能だけに依存せず、回答結果を継続的に確認します」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「検証が必要な主張に、必要な引用が付いている割合です」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「強み03｜AIへの表示で終わらせず、指名・問い合わせ・商談まで検証」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「検証済みの取得文書に生成プロセスを固定する」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「ノイズが多い、または矛盾するコンテキストの場合に持続するハルシネーション」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「LLMがクエリ改良や仮説文書生成をする際、既に応答に有用な情報種別を「考慮」します」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
@@ -8740,11 +8761,10 @@
   - 「誤解を招く情報、無関係な情報、または矛盾する情報を取得すること」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「コンテキストとの矛盾や、コンテキスト外情報創作の有無」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「回答内主張の特定と、それらのコンテキストからの推論可能性検証による計算」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「ノイズの多い文書や矛盾する文書を処理する能力の評価」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「回答内主張の特定、各主張のコンテキストからの推論可能性のLLM検証」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「本報告では、RAGシステムの精度を向上させるための多岐にわたる戦略を検証しました」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「というモデルは、「質問とチャンクを1個ずつ突き合わせて、これは本当に関係あるか？」を丁寧に採点するのが得意」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
 - 一次情報の探し方：
+  - 「PDFとWebページの内容が一致しているか」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「サービスページ、数値付き導入事例、FAQ、独自調査などの一次情報を整備します」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「high-profile cases, lawyers have been reprimanded for submitting filings to courts citing nonexistent」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「format. However, instead of accessing all the primary sources that Lexis+ AI uses, Ask Practical」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「primary source material as well (Thomson Reuters, 2023). However, this product is not yet generally」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
@@ -8757,10 +8777,11 @@
   - 「https://arxiv.org/pdf/2501.10053」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「https://arxiv.org/pdf/2503.10720」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
   - 「https://arxiv.org/pdf/2502.06872」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「https://arxiv.org/pdf/2502.17163」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
-  - 「XR-200_manual.pdf」（https://qiita.com/akira_papa_AI/items/17a11305fc1d2fa8557f）
-  - 「ユーザーが質問を入力すると、システムはまず指定されたナレッジベース（PDFやドキュメントライブラリなど）の中から、その質問に最も関連性の高い情報の断片を」（https://my-soft.co.jp/posts/local-llm-rag-introduction/）
 - 失敗・落とし穴：
+  - 「AIは次のような誤りを起こす可能性があります」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「企業情報で起きやすいGroundingの失敗」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「ただし、自己評価を入れれば誤りが完全になくなるわけではありません」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「回答全体を「正しい・間違い」の二択にせず、文章内の事実を分けて評価します」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「dissent in Obergefell?”), Thomson Reuters’s system both fails to contradict the mistaken premise and」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「fails to correct the user’s mistaken premise—in reality, Justice Ginsburg joined the Court’s landmark decision」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「tion of new forms of bias, and lawyers’ ultimate duty of supervision over their work product (Avery」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
@@ -8772,26 +8793,22 @@
   - 「to amend the statute to clarify the statute of limitations. Lexis+ AI explained the mistaken premise,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「when asked to define the “moral wrong doctrine,” a doctrine pertaining to mistake-of-fact instructions」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
   - 「user even when the user is mistaken (Sharma et al., 2023). While sycophancy can cause hallucinations」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「K. Goddard, A. Roudsari, and J. C. Wyatt. 2012. Automation bias: a systematic review of frequency,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「Sayash Kapoor, Peter Henderson, and Arvind Narayanan. 2024. Promises and Pitfalls of Artificial」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「metadata-citation-130 The original query was mistakenly truncated, and we corrected it to」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「人間の評価者は、モデルが見逃してしまうような細かな誤り、論理的な欠陥、または文脈上の適切さを評価できます」（https://zenn.dev/suwash/articles/rag_accuracy_20250516）
 - 実例：
+  - 「例えば、AIが次のように回答したとします」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「例えば、「アムール」という言葉が、会社名、店舗名、商品名、人名など複数の意味を持つ場合があります」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「例えば、最低契約期間が掲載されていないのに、「最低3か月です」と回答するケースです」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「同じサービス名を持つ別会社の事例が引用されている可能性があります」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「2024年の調査結果を、2026年の現状として説明していないか確認します」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「ChatGPTのみの調査結果を、GeminiやPerplexityを含む結果として説明する場合があります」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「例えば、次の情報がWeb上に残っているとします」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「2026年10月6日、ChatGPTとGeminiを対象に、100問を各150回、合計30,000回答で計測した結果、アムール株式会社の推薦率は7.5％でした」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「企業側では、AIサービスの内部的な検証機能だけに依存せず、回答結果を継続的に確認します」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「サービスページ、数値付き導入事例、FAQ、独自調査などの一次情報を整備します」（https://note.com/amour_llmo/n/n7c14f5328089）
+  - 「計測結果を施策へ反映し、AIでの露出を事業成果につなげます」（https://note.com/amour_llmo/n/n7c14f5328089）
   - 「RAGの検索結果が常に正しいとは限りません」（https://amie-ai.com/contents/rag-assignment/）
   - 「RAGの検索結果とLLMの出力方法に一貫性がない」（https://amie-ai.com/contents/rag-assignment/）
   - 「検索の精度とは、例えば、有給休暇について調べたいとき、「年休」や「有給」ではなく「有給休暇」と正確にインプットしなければ回答を得られないなどです」（https://amie-ai.com/contents/rag-assignment/）
   - 「外部データに頼り過ぎる結果、不要な情報が表示されることもあります」（https://amie-ai.com/contents/rag-assignment/）
-  - 「例えば、大企業であれば膨大な業務マニュアルが蓄積されているため、最新のデータと過去のデータが混ざって表示される恐れがあります」（https://amie-ai.com/contents/rag-assignment/）
-  - 「特に検索エンジンから情報を選定する場合、信頼性の低いサイトや虚偽の内容、矛盾する結果などが参照元とされる可能性もあるためです」（https://amie-ai.com/contents/rag-assignment/）
-  - 「アンケートをとるなど、フィードバックを得る仕組みはいくつかあるものの、回答結果からすぐに評価したり、誤情報を報告できるフォーマットがあったりすると、利便性が高いです」（https://amie-ai.com/contents/rag-assignment/）
-  - 「従来の RAG（本記事で紹介した仕組み）は、質問に対して一度検索し、その結果を基に回答を生成する一方通行の流れが基本でした」（https://amie-ai.com/contents/rag-assignment/）
-  - 「営業部門向けチャットボット活用ガイド｜導入メリットと成功事例を徹底解説」（https://amie-ai.com/contents/rag-assignment/）
-  - 「from search and summarization of caselaw to document drafting. But the large」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「(RAG) as “eliminating” (Casetext, 2023) or “avoid[ing]” hallucinations (Thomson」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「(Weiser and Bromwich, 2023). In one highly-publicized case, a New York lawyer faced sanctions for」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「citing ChatGPT-invented fictional cases in a legal brief (Weiser, 2023); many similar incidents have」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「Casetext, 2023; Thomson Reuters, 2023, inter alia). They say their use of sophisticated techniques」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
-  - 「legal queries, the hallucination problem persists at significant levels. To offer one simple example,」（https://law.stanford.edu/wp-content/uploads/2024/05/Legal_RAG_Hallucinations.pdf）
 
 ## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
 - 文脈：市場規模の推計
@@ -8846,6 +8863,8 @@
 - 失敗・落とし穴：
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=55815be65594f5e62a49c83e0671c733）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=55815be65594f5e62a49c83e0671c733）
   - 「富裕層とは？富裕層へのリサーチ（調査）での注意点や定義、特徴など解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
@@ -8857,8 +8876,6 @@
   - 「一つの情報源に依存することは、その情報が持つバイアスや限界に気づかず、誤った結論を導くリスクを高めます」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
   - 「本記事では、新規事業の成功と持続的な成長に不可欠な「市場規模の推計」について、その基礎知識から具体的な実践方法、そして注意点に至るまでを網羅的に解説しました」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
   - 「という3つの注意点を常に念頭に置くことが、誤った結論を避けるために不可欠です」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
 - 実例：
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
@@ -8873,8 +8890,8 @@
   - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
+  - 「例えば、新規事業への参入を検討する際には、ターゲットとなる顧客がどの程度存在するのか、どのようなニーズを持っているのかを把握することが重要です」（https://www.rjc.co.jp/column/262）
+  - 「例えば、ターゲットとなる年代や性別、居住地域などの条件を設定し、商品・サービスの認知度、利用経験、購入意向、利用頻度、選定理由などを調査することで、市場の需要や顧客ニーズを把握することができます」（https://www.rjc.co.jp/column/262）
 
 ## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
 - 文脈：偏り
@@ -11728,23 +11745,61 @@
 ## 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例（admiralty code source grading practical OSINT analysts mistakes）
 - 文脈：手法
 - 手順・やり方：
-  - 「The Admiralty System, when adapted for cyber threat intelligence, offers a robust framework for enhancing the reliability of your intelligence.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
-  - 「Admiralty System, NATO AJP-2.1 is a structured framework」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
-  - 「used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
-  - 「Action: If this vulnerability is relevant to you, immediate steps are required, like patching the vulnerability or deploying protective measures.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
-  - 「. Dive deep into the strategies discussed here, master the Admiralty System, and learn how to apply it in real-world cybercrime investigations. Don’t wait—」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
-  - 「Freddy Murstad is the senior advisor for cyber threat intelligence (CTI) at Nordic Finance CERT (NFCERT) and has a specific focus on strategic reporting, as well as intelligence training of structured analysis techniques (SAT) and applying intelligence methodologies for CTI professionals.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
+  - 「How the Admiralty (NATO) system grades source reliability A to F and information credibility 1 to 6, why most open-source items start at F6, how corroboration moves grades, and how to grade results from aggregated data sources.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Disclaimer: This article is for education and for lawful, authorised professional research. Use these methods only where you have a legitimate purpose and a lawful basis, and follow the laws and platform terms that apply to you, including data protection law such as the UK GDPR and EU GDPR. See our」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「The oldest and most widely used scheme for this is the Admiralty system. This guide explains how it works, why so much open-source material starts at the bottom of the scale, how corroboration moves grades up, and how to grade results that reach you through an aggregated platform.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「(fourth edition, 2023), treats evaluation, an appraisal of source reliability and information credibility, as a step in processing that comes before analysis. That order matters for commercial teams too. Grade on collection, then analyse. If you grade after you have formed a view, the view will seep into the grades.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Here is the manual method we teach. It works in a spreadsheet, and it works better when the grades are stored as structured data your tools can read.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step One: Split the Item into Source and Claim」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Two: Grade the Source on History, Not Feel」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Three: Grade the Claim on Corroboration and Plausibility」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Four: Store the Grade as a Machine Tag」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Step Five: Convert to STIX Confidence When You Share」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Corroboration is the engine of the whole system, and independence is what makes it count. Two sources that both copied the same original post are one source. Before you upgrade anything, ask whether the second source had its own access to the facts: a different dataset, a different collection method, a different moment in time.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「OSINT Report Template: How to Write Findings Other Analysts Can Check」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Source Verification Framework — by Luiz H. S. Brandão」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Source Verification Framework」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「— the discipline this methodology enables」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+- 突き合わせ・推定：
+  - 「Information Credibility: Triangulation」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+- 一次情報の探し方：
+  - 「Filing history and accounts consistent」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Register shows active status and recent filing」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Does the source’s reporting infrastructure reach the target location, or is it filing from a distance based on secondary information?」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「How close was the source to the information it is reporting? Primary sources that have direct knowledge are generally more reliable than secondary sources that are passing along information.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
 - 失敗・落とし穴：
+  - 「They mean "no basis to judge yet". E and 5 are the negative grades. Treating F6 as "unreliable, false" throws away leads; treating it as "probably fine" invites mistakes. It means: do the work.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「, found that people rating trustworthiness put substantially more weight on the source than on the information. In other words, analysts naturally over-trust good sources and under-use good information from unknown ones. A written grade for each axis is the practical counter to that bias.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Pattern of inaccuracy; questionable access; biased reporting」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Known falsification or bias; hostile disinformation source」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「State-aligned media (RT, CGTN, Press TV) will systematically bias toward state narratives; this doesn’t mean everything they publish is false, but it affects what they choose to report and how they frame it」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「a source is likely to report accurately vs. biasedly.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「Chinese state media reports on Indian troop movements may be operationally accurate even if framed to support CCP messaging. Russian state media reports on Western political dynamics may be accurate on facts while biased in framing.」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「What was NOT leaked? Leaks are typically incomplete; the leaker’s selection criteria bias what’s available」（https://intelligencenotes.com/08-Guides--and--Manuals/OSINT-Methodologies/Source-Verification-Framework）
+  - 「of the information? This evaluates the source itself—its history, biases, and overall competence. Strong source reliability」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「A common rookie mistake—and a dangerous one—is to conflate the two. An analyst might see a report from a top-tier cyber security firm (a source with high reliability) and automatically assume the information within is infallible.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「Objectivity and Bias:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「to quantify their assessments? Be aware of potential biases and distinguish between inherent bias and deliberate misdirection.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「You check a source’s reliability by evaluating it against established criteria, not just gut feeling. This involves assessing its historical accuracy, reputation in the security community, author expertise, transparency of data collection, and potential biases. A great intelligence framework for performing this analysis is the Admiralty Code.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
+  - 「A source is considered unreliable if it has a history of inaccuracies, bias, or the promotion of a particular perspective instead of presenting facts. A lack of transparency is also a red flag; if you don’t know how it obtained the information, it is untrustworthy. Treat anonymous sources with skepticism, considering whether they are involved in spreading disinformation.」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「used to evaluate the quality of your sources and the information they provide. The framework does this by assessing two distinct components, Source Reliability and Information Credibility. These two parts are separated to ensure a clear and unbiased data assessment, allowing for more informed decision-making.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
 - 実例：
+  - 「support-example.example.com」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「carrowmere.example.com」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Run the work inside a Case in Forensic Mode so the search history and bookmarks sit with the grades. A reviewer can then see which search produced which graded item.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「@example_handle_support」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「secure-pay.example.org」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「An AML analyst at a payments firm reviews an incoming transfer from a wallet the customer says belongs to their trading company, Example Trading Ltd. A crypto forum post from an unknown account claims the same wallet belongs to an unrelated group.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「The customer's claim is upgraded to C1 (confirmed by the company's own long-standing publication and an independent attribution). The forum claim drops to F5. The analyst records both, with dates, and closes the review with a note in the Case. Our」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Information ages. A B1 record of a company's directors from 2023 is good history and possibly stale fact. Add a "valid as of" date to every graded item and re-check anything older than your case's decision window.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Collect only what the question needs, record the lawful basis for the research, and keep graded data no longer than the case requires. Respect platform terms when you gather material. Where an item grades low, say so plainly and do not let it drive a decision about an individual on its own. And treat every automated or AI-assisted grade as a suggestion that an analyst confirms and signs.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
+  - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
   - 「While the Admiralty System wasn't originally designed for cybersecurity, its principles are remarkably adaptable to the digital realm. For example, the Admiralty System is included as a」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
   - 「Improbable based on current understanding. For example, claims that don't match known tactics, techniques, and procedures (TTPs) of the threat actor.」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
   - 「Example 1: The Reliable Threat Report」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
   - 「Example 2: The Dubious Social Media Claim」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
-  - 「Example 3: The New Kid on the Block」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
-  - 「no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation」（https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/）
-- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
 
 ## 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）（labor productivity SME comparison denominator hours value added definition Japan RIETI）
 - 文脈：手法
@@ -14585,11 +14640,11 @@
 
 ## 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）（pre-publication number check fact check procedure independent checker Pew decoded GIJN data journalism errors）
 - 文脈：検証・点検
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）（Quartz bad data guide github ProPublica bulletproofing data guide checklist）
 - 文脈：検証

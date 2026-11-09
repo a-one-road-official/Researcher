@@ -8,43 +8,63 @@
  ],
  "context": "検証・点検",
  "kind": "market",
- "researched_at": "2026-11-08T23:46:29.866519+00:00",
+ "researched_at": "2026-11-09T11:11:29.567887+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/report_check_lab/n/n710cbd0ecc36",
+    "url": "https://www.mhlw.go.jp/content/11300000/000972012.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kensaibou-toyama.org/post_2591/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "url": "https://dairininsuwa.web.fc2.com/annzenn.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tyokobanana_bar/n/nb856505b13c1",
+    "url": "https://koumuten-hub.com/blog/ashiba-tenken-kiroku-2026",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/wataru___wataru/n/neb53f0b15f5c",
+    "url": "https://www.jaish.gr.jp/horei/hor1-44/hor1-44-34-1-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kensaiboukanagawa.com/archives/4799",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ai_sakanya/n/n488c21e1d94f",
+    "url": "https://genba-dentaku.com/kit/checklist/scaffold-inspection-check/guide",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/massets/n/n35d39c54391e",
+    "url": "https://www.k--ishida.com/2025/05/30/the-complete-guide-to-scaffolding-inspection-practical-legal-checklist-for-site-supervisors-and-foremen/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.pewresearch.org/decoded/2019/10/14/how-we-check-numbers-and-facts-at-pew-research-center/",
+    "url": "https://goukaku-drill.com/kenchiku-sekou2/intro/learn/exam-r3c-scaffold-record/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nfh.or.jp/guide/aneitopics/mind202512.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kenkou-souken.co.jp/human-error-check-omission-fatigue-stress-workplace-safety/",
     "status": "ok",
     "method": "http"
    },
@@ -54,22 +74,27 @@
     "method": "http"
    },
    {
-    "url": "https://gijn.org/resource/fact-checking-verification/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://gijn.org/resource/guide-to-fact-checking-investigative-stories/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/facts-fact-checking/",
+    "url": "https://thetijproject.ca/guide/the-editorial-process/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
+    "url": "https://library.csi.cuny.edu/misinformation/fact-checking-websites",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
     "status": "ok",
     "method": "http"
    }
@@ -79,88 +104,143 @@
   {
    "query": "出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り） site:note.com",
    "results": [
-    "https://note.com/report_check_lab/n/n710cbd0ecc36",
-    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "https://note.com/tyokobanana_bar/n/nb856505b13c1",
-    "https://note.com/wataru___wataru/n/neb53f0b15f5c",
-    "https://note.com/ai_sakanya/n/n488c21e1d94f",
-    "https://note.com/massets/n/n35d39c54391e",
-    "https://note.com/ai_henshubu_note/n/n6aa0bb5c7bb8"
+    "https://www.mhlw.go.jp/content/11300000/000972012.pdf",
+    "https://kensaibou-toyama.org/post_2591/",
+    "https://dairininsuwa.web.fc2.com/annzenn.html",
+    "https://koumuten-hub.com/blog/ashiba-tenken-kiroku-2026",
+    "https://www.jaish.gr.jp/horei/hor1-44/hor1-44-34-1-3.pdf",
+    "https://kensaiboukanagawa.com/archives/4799",
+    "https://genba-dentaku.com/kit/checklist/scaffold-inspection-check/guide",
+    "https://www.k--ishida.com/2025/05/30/the-complete-guide-to-scaffolding-inspection-practical-legal-checklist-for-site-supervisors-and-foremen/",
+    "https://goukaku-drill.com/kenchiku-sekou2/intro/learn/exam-r3c-scaffold-record/",
+    "https://note.com/report_check_lab/n/n710cbd0ecc36"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/000972012.pdf",
+    "https://kensaibou-toyama.org/post_2591/",
+    "https://dairininsuwa.web.fc2.com/annzenn.html",
+    "https://koumuten-hub.com/blog/ashiba-tenken-kiroku-2026",
+    "https://www.jaish.gr.jp/horei/hor1-44/hor1-44-34-1-3.pdf",
+    "https://kensaiboukanagawa.com/archives/4799",
+    "https://genba-dentaku.com/kit/checklist/scaffold-inspection-check/guide",
+    "https://www.k--ishida.com/2025/05/30/the-complete-guide-to-scaffolding-inspection-practical-legal-checklist-for-site-supervisors-and-foremen/",
+    "https://goukaku-drill.com/kenchiku-sekou2/intro/learn/exam-r3c-scaffold-record/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り） やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/000972012.pdf",
+    "https://kensaibou-toyama.org/post_2591/",
+    "https://dairininsuwa.web.fc2.com/annzenn.html",
+    "https://koumuten-hub.com/blog/ashiba-tenken-kiroku-2026",
+    "https://www.jaish.gr.jp/horei/hor1-44/hor1-44-34-1-3.pdf",
+    "https://kensaiboukanagawa.com/archives/4799",
+    "https://genba-dentaku.com/kit/checklist/scaffold-inspection-check/guide",
+    "https://www.k--ishida.com/2025/05/30/the-complete-guide-to-scaffolding-inspection-practical-legal-checklist-for-site-supervisors-and-foremen/",
+    "https://www.nfh.or.jp/guide/aneitopics/mind202512.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り） 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/000972012.pdf",
+    "https://kensaibou-toyama.org/post_2591/",
+    "https://dairininsuwa.web.fc2.com/annzenn.html",
+    "https://koumuten-hub.com/blog/ashiba-tenken-kiroku-2026",
+    "https://www.jaish.gr.jp/horei/hor1-44/hor1-44-34-1-3.pdf",
+    "https://genba-dentaku.com/kit/checklist/scaffold-inspection-check/guide",
+    "https://www.k--ishida.com/2025/05/30/the-complete-guide-to-scaffolding-inspection-practical-legal-checklist-for-site-supervisors-and-foremen/",
+    "https://www.nfh.or.jp/guide/aneitopics/mind202512.html",
+    "https://kenkou-souken.co.jp/human-error-check-omission-fatigue-stress-workplace-safety/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "pre-publication number check fact check procedure independent checker Pew decoded GIJN data journalism errors",
    "results": [
-    "https://www.pewresearch.org/decoded/2019/10/14/how-we-check-numbers-and-facts-at-pew-research-center/",
     "https://gijn.org/resource/introduction-investigative-journalism-fact-checking/",
-    "https://gijn.org/resource/fact-checking-verification/",
-    "https://gijn.org/resource/guide-to-fact-checking-investigative-stories/",
-    "https://www.pewresearch.org/topic/news-habits-media/media-society/misinformation/facts-fact-checking/",
-    "https://researchguides.journalism.cuny.edu/factchecking-verification/fact-check-your-work",
-    "https://www.rcfp.org/resources/pre-publication-review-guide/"
+    "https://thetijproject.ca/guide/the-editorial-process",
+    "https://library.csi.cuny.edu/misinformation/fact-checking-websites",
+    "https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/",
+    "https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/",
+    "https://reporterslab.org/category/fact-checking/",
+    "https://en.wikipedia.org/wiki/Fact-checking",
+    "https://www.publicmediaalliance.org/tools/fact-checking-investigative-journalism/",
+    "https://www.pewresearch.org/decoded/2019/10/14/how-we-check-numbers-and-facts-at-pew-research-center/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）",
    "results": [
-    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
-    "https://note.com/report_check_lab/n/n710cbd0ecc36",
-    "https://note.com/massets/n/n35d39c54391e",
-    "https://note.com/ureruru/n/n87ebc83d4821",
-    "https://note.com/ai_sakanya/n/n488c21e1d94f",
-    "https://note.com/tyokobanana_bar/n/nb856505b13c1",
-    "https://note.com/wataru___wataru/n/neb53f0b15f5c"
+    "https://note.com/pure_shrew4975/n/n725f3f453fd6",
+    "https://note.com/alive_crane5316/n/n53d7a64bae1c",
+    "https://note.com/hirokimiyano/n/n3c202248f4eb",
+    "https://note.com/coach_hayashi_sw/n/n6bc092020876",
+    "https://note.com/masa_wunder/n/nde6c0727f0e9",
+    "https://note.com/hirokimiyano/n/n0c917d29d5d6",
+    "https://note.com/tomyukz/n/nb65a8f24e631",
+    "https://note.com/zephel01/n/n5a4bf3f3d75c",
+    "https://note.com/ssumisin/n/n8c930eec0c1d",
+    "https://note.com/kotobuki157/n/n9504b725ae88"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）",
    "results": [
-    "https://x.com/toranosu_ai/status/2110568343669522598",
-    "https://x.com/chikako_career/status/2107946570431807966",
-    "https://x.com/ai_nurseman/status/2107491732464238674",
-    "https://x.com/AIjitan_sokuhou/status/2117953794822508873",
-    "https://x.com/sinaifukugyolab/status/2114552616500056103",
-    "https://x.com/F8Q75WZwaibw/status/2100004235769164158",
-    "https://x.com/KOIYAL_AI/status/2112456341226963311"
+    "https://x.com/curryNOprince/status/2112193355925029205",
+    "https://x.com/teicalo_nishi/status/2113832669628776615",
+    "https://x.com/itarutomy/status/2115692610962461005",
+    "https://x.com/MakeAI_CEO/status/2113737547881066561",
+    "https://x.com/y__fixer/article/2097525977865973954?lang=ar",
+    "https://x.com/m_kumagai/status/2108474989280424375?ref_src=twsrc%5Etfw",
+    "https://x.com/hanimaru_draix/article/2112658866639097976",
+    "https://x.com/isyokenmei/article/2086388026918453725",
+    "https://x.com/ai_ai_ailover/status/2098191282996986319",
+    "https://x.com/lucky_note_lab/status/2115198528545071501"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）",
    "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%EF%BC%8F%E7%A5%9E%E5%A5%88%E5%B7%9D%E3%80%91%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E2%80%90%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%BA%8B%E6%A5%AD%E9%83%A8-at-mettler-toledo-international-inc-4478177187",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E7%94%B0%E7%94%BA%E3%80%91%E5%BB%BA%E8%A8%AD-%E6%96%BD%E8%A8%AD%E7%AE%A1%E7%90%86-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E7%A4%BE%E5%86%85%E5%AF%A9%E6%9F%BB%E3%83%BB%E4%BA%8B%E5%8B%99%E5%B1%80%E6%A5%AD%E5%8B%99%E2%97%86nec%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E5%AE%89%E5%AE%9A%E5%9F%BA%E7%9B%A4%E2%97%86%E7%A4%BE%E5%93%A1%E5%AE%9A%E7%9D%80%E7%8E%87%E2%97%8E-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4483387879",
+    "https://jp.linkedin.com/jobs/view/ehs-specialist-at-qnity-4311166124",
     "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
     "https://jp.linkedin.com/posts/和也-上原-b0aab6263_引継ぎの後に確認が増えると教えた側も聞く側も気を使います何度も同じ説明をするのは-activity-7505098203067887616-Qijm",
     "https://www.linkedin.com/feed/update/urn:li:share:7516836241464668160",
@@ -169,63 +249,96 @@
     "https://jp.linkedin.com/posts/koya-shirasawa-447929304_国交省が8月26日に公表した道路メンテナンス年報報じられているのは橋の話ですが-activity-7500477707097358336-Gtkc"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 6
+   "n_hits": 9
   },
   {
    "query": "site:facebook.com 出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り）",
    "results": [
+    "https://www.facebook.com/npojhts/",
+    "https://www.facebook.com/syukansyogyo/posts/%E8%B3%87%E7%94%9F%E5%A0%82%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%A8%E5%B8%82%E5%A0%B4%E3%82%92%E5%BE%80%E5%BE%A9%E3%81%99%E3%82%8B%E5%95%86%E5%93%81%E9%96%8B%E7%99%BA%E7%B2%A7%E6%A5%AD%E6%97%A5%E5%A0%B1-2026%E5%B9%B49%E6%9C%889%E6%97%A5%E5%8F%B7-5%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E3%81%AB%E8%A8%80%E3%81%86%E3%81%A8fibona%E3%81%A7%E7%A0%94%E7%A9%B6%E7%9F%A5%E8%A6%8B%E3%82%92%E5%95%86%E5%93%81%E5%8C%96%E7%94%9F%E6%B4%BB%E8%80%85%E3%81%AE%E5%8F%8D%E5%BF%9C%E3%82%92%E6%AC%A1%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%B8%E3%83%AF%E3%83%B3%E3%83%9E%E3%82%A4%E3%83%ABuv/1714579290187355/",
+    "https://www.facebook.com/groups/281769248591787/",
+    "https://www.facebook.com/abolishnukesjp/posts/%E5%8E%9F%E5%AD%90%E5%8A%9B%E8%89%A6%E8%88%B9%E3%81%AE%E4%BA%8B%E6%95%85%E3%81%AF%E6%97%A5%E5%B8%B8%E7%9A%84%E3%81%AB%E8%B5%B7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%E7%8F%BE%E5%9C%A8%E5%8E%9F%E5%AD%90%E5%8A%9B%E6%BD%9C%E6%B0%B4%E8%89%A6%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E8%AD%B0%E8%AB%96%E3%81%8C%E9%80%B2%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%97%E3%81%8B%E3%81%97%E5%8E%9F%E6%BD%9C%E3%81%AE%E4%BF%9D%E6%9C%89%E9%81%8B%E7%94%A8%E3%81%AB%E3%81%AF%E6%94%BE%E5%B0%84%E8%83%BD%E4%BA%8B%E6%95%85%E3%81%AA%E3%81%A9%E6%A7%98%E3%80%85%E3%81%AA%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%85%AC%E9%96%8B%E6%83%85%E5%A0%B1%E3%81%A0%E3%81%91%E3%81%A7%E3%82%82/1053571484402171/",
     "https://www.facebook.com/shimanepolice/posts/通常点検を実施しています-通常点検とは制服警察官が携行している警察手帳や手錠などの装備に異常がないか定期的に点検する普段から行っている業務の一環です-通常点検で/734975241998898/",
     "https://www.facebook.com/tekutekutechn0indstry/videos/出庫前点検です上からチェックする人中をのぞき込む人横から見守る人ちゃんと仕事してます笑安全第一今日も事故なしで行くでー中古建機-油圧ショベル-出庫前点検-建機整/956791540725063/",
     "https://www.facebook.com/aquastk/videos/続点検業務定期的に運転して電流値等の数字を拾いファンの状態をチェックしますvベルト貼り状態や芯ブレ異常音などなど点検項目も多くあります/1375725699239288/",
     "https://www.facebook.com/outdo.jp/videos/電圧が低いもう交換したほうがいいその前にいつ測った数字かを思い出してみてください停止しているときとセルを回している最中では同じバッテリーでも数字は変わります点検/1072450525666222/",
     "https://www.facebook.com/ashidafarm/videos/社内の頼れる頭脳派コンビ数字やデータから最善策を割り出し仕組みで現場を良くしようと奮闘中です困った時には必ず知恵を出してくれる会社にとって欠かせない存在これから/1482384406557239/",
-    "https://www.facebook.com/shukan.bunshun.official/posts/告発者と疑われた職員に対する取り調べ手順を詳細に記した庁内調査手順と題する文書を週刊文春は入手そこにはこう書かれている調査手順午前1030に各班一斉に訪問し調査/1186907226775618/",
-    "https://www.facebook.com/photo.php/?fbid=836111969754501"
+    "https://www.facebook.com/shukan.bunshun.official/posts/告発者と疑われた職員に対する取り調べ手順を詳細に記した庁内調査手順と題する文書を週刊文春は入手そこにはこう書かれている調査手順午前1030に各班一斉に訪問し調査/1186907226775618/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 11
   },
   {
    "query": "出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/000972012.pdf",
+    "https://kensaibou-toyama.org/post_2591/",
+    "https://dairininsuwa.web.fc2.com/annzenn.html",
+    "https://koumuten-hub.com/blog/ashiba-tenken-kiroku-2026",
+    "https://www.jaish.gr.jp/horei/hor1-44/hor1-44-34-1-3.pdf",
+    "https://kensaiboukanagawa.com/archives/4799",
+    "https://genba-dentaku.com/kit/checklist/scaffold-inspection-check/guide",
+    "https://www.k--ishida.com/2025/05/30/the-complete-guide-to-scaffolding-inspection-practical-legal-checklist-for-site-supervisors-and-foremen/",
+    "https://goukaku-drill.com/kenchiku-sekou2/intro/learn/exam-r3c-scaffold-record/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "出す前の数字の点検の手順（書いた人と別の点検者・元の表との照合・直した後の再点検・Pew Research Center の decoded・GIJN のデータ報道の誤り） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.mhlw.go.jp/content/11300000/000972012.pdf",
+    "https://kensaibou-toyama.org/post_2591/",
+    "https://dairininsuwa.web.fc2.com/annzenn.html",
+    "https://koumuten-hub.com/blog/ashiba-tenken-kiroku-2026",
+    "https://www.jaish.gr.jp/horei/hor1-44/hor1-44-34-1-3.pdf",
+    "https://kensaiboukanagawa.com/archives/4799",
+    "https://genba-dentaku.com/kit/checklist/scaffold-inspection-check/guide",
+    "https://www.k--ishida.com/2025/05/30/the-complete-guide-to-scaffolding-inspection-practical-legal-checklist-for-site-supervisors-and-foremen/",
+    "https://goukaku-drill.com/kenchiku-sekou2/intro/learn/exam-r3c-scaffold-record/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "pre-publication number check fact check procedure independent checker Pew decoded GIJN data journalism errors site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/in/magotorres",
+    "https://www.linkedin.com/in/jonathan-forney-405784252",
+    "https://www.linkedin.com/pulse/role-investigative-journalism-enhanced-ai-tools-age-andre-nrxve",
+    "https://www.linkedin.com/in/azidan",
+    "https://nl.linkedin.com/in/malunochez",
+    "https://ke.linkedin.com/in/shreya-chakrabarti-975609ab",
+    "https://ec.linkedin.com/in/lia-salvador-34a68361",
     "https://www.linkedin.com/pulse/complete-fact-checking-process-modern-newsroom-guide-editors-singh-bxlwc",
     "https://www.linkedin.com/pulse/media-literacy-fact-verification-digital-journalism-羽琳-吕-ffz7c",
-    "https://in.linkedin.com/in/rizviuzair",
-    "https://www.linkedin.com/advice/1/heres-how-you-can-fact-check-your-information-before-64drc",
-    "https://www.linkedin.com/advice/1/how-can-you-fact-check-greater-accuracy-journalism-hy9ue",
-    "https://www.linkedin.com/top-content/communication/combating-disinformation/tips-for-fact-checking-information/",
-    "https://www.linkedin.com/pulse/fact-checking-proofreading-twin-pillars-credible-journalism-singh-i6kec/"
+    "https://in.linkedin.com/in/rizviuzair"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ12頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）",
-  "実例": "記載なし（読んだ12頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ17頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ17頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ17頁・検索12回）",
+  "実例": "記載なし（読んだ17頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T16:00:54.321098+00:00"
 }

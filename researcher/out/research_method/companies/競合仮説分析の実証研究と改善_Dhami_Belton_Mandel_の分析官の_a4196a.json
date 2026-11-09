@@ -8,98 +8,8 @@
  ],
  "context": "手法・情報分析",
  "kind": "market",
- "researched_at": "2026-11-09T00:45:16.315832+00:00",
+ "researched_at": "2026-11-09T11:19:55.714973+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "One common example of analytic bias is confirmation bias. According to psychological research (e.g., Klayman,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "a case they make in identifying the most likely hypothesis. Also say",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "of, for example, the completeness and coverage of their belief search,",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "information explaining the bias along with examples, and provided",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Jervis, R. (2006). Reports, politics and intelligence failures: The case of Iraq.",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "diagnostic, and how compelling a case they make in identifying the most likely hypothesis. Also say why alternative hypotheses were",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "https://www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "http://www.pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Rassin E. Reducing tunnel vision with a pen-and-paper tool for the weighting of criminal evidence. Journal of Investigative Psychology and Offender Profiling. 2018;15:227–233. doi: 10.1002/jip.1504.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "PDF (1.3 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "native‐Analysis_FINAL.pdf",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "tions/books‐and‐monographs/Tradecraft%20Primer‐apr09.pdf",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "failures such as the Iraq weapons of mass destruction mis ‐estimate",
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "Effects of task structure and confirmation bias in alternative hypotheses evaluation - PMC",
@@ -282,6 +192,88 @@
     "first_seen": "2026-11-08"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "https://www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "http://www.pherson.org/wp-content/uploads/2013/06/06.-How-Does-ACH-Improve-Analysis_FINAL.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Rassin E. Reducing tunnel vision with a pen-and-paper tool for the weighting of criminal evidence. Journal of Investigative Psychology and Offender Profiling. 2018;15:227–233. doi: 10.1002/jip.1504.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "PDF (1.3 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "native‐Analysis_FINAL.pdf",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "tions/books‐and‐monographs/Tradecraft%20Primer‐apr09.pdf",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "One common example of analytic bias is confirmation bias. According to psychological research (e.g., Klayman,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11169332/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "a case they make in identifying the most likely hypothesis. Also say",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of, for example, the completeness and coverage of their belief search,",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "information explaining the bias along with examples, and provided",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Jervis, R. (2006). Reports, politics and intelligence failures: The case of Iraq.",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "diagnostic, and how compelling a case they make in identifying the most likely hypothesis. Also say why alternative hypotheses were",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "= 3.53, min = 17, max = 42), 90.1% were female, and 85.1% said the highest level of education they had reached to-date was ‘A level’ (i.e., educated up to 18 years). Twenty-three percent said they had been trained to use the scientific method of experimental design, and this knowledge was not associated with condition,",
@@ -409,6 +401,14 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "failures such as the Iraq weapons of mass destruction mis ‐estimate",
+    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
   ]
  },
  "figures": {},
@@ -430,12 +430,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/anozaki/n/nd511373e2117",
+    "url": "https://note.com/kronos1229/n/n3c926b00859c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kronos1229/n/n3c926b00859c",
+    "url": "https://note.com/anozaki/n/nd511373e2117",
     "status": "ok",
     "method": "http"
    },
@@ -443,36 +443,6 @@
     "url": "https://note.com/econeconecon/n/n97b2ede71b9d",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3550",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://psycnet.apa.org/record/2019-30607-001",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://pureportal.strath.ac.uk/en/publications/the-analysis-of-competing-hypotheses-in-intelligence-analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.academia.edu/47828252/The_Analysis_of_Competing_Hypotheses_in_Intelligence_Analysis",
-    "status": "robots_disallowed",
-    "method": ""
    }
   ]
  },
@@ -483,13 +453,13 @@
     "https://note.com/haurix/n/ncc5a33f069f9",
     "https://note.com/ia_wake/n/ne7dcc8132cdf",
     "https://note.com/yama_note_365/n/n9d98dff2211d",
-    "https://note.com/anozaki/n/nd511373e2117",
     "https://note.com/kronos1229/n/n3c926b00859c",
+    "https://note.com/anozaki/n/nd511373e2117",
     "https://note.com/econeconecon/n/n97b2ede71b9d",
-    "https://note.com/limber_kudu7161/n/n21b4e0d690e2"
+    "https://note.com/takahitosasaki83/n/n46a21dced431"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -513,19 +483,9 @@
   },
   {
    "query": "analysis of competing hypotheses empirical study base rates Dhami Mandel intelligence analysts",
-   "results": [
-    "https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550",
-    "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.3550",
-    "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
-    "https://psycnet.apa.org/record/2019-30607-001",
-    "https://pureportal.strath.ac.uk/en/publications/the-analysis-of-competing-hypotheses-in-intelligence-analysis/",
-    "https://www.academia.edu/47828252/The_Analysis_of_Competing_Hypotheses_in_Intelligence_Analysis",
-    "https://testprints.strath.ac.uk/69049/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:note.com 競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ）",
@@ -536,7 +496,7 @@
     "https://note.com/kronos1229/n/n3c926b00859c",
     "https://note.com/anozaki/n/nd511373e2117",
     "https://note.com/econeconecon/n/n97b2ede71b9d",
-    "https://note.com/yama_note_365/n/n8f6407d2781b"
+    "https://note.com/finalvent/n/n265e0b3c3c31"
    ],
    "engines": [
     "ddgs:bing"
@@ -547,15 +507,15 @@
    "query": "site:x.com 競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ）",
    "results": [
     "https://jf.x.com/images/media-preview/2106380537472356561",
-    "https://jf.x.com/images/media-preview/2114612827625566503",
+    "https://jf.x.com/images/media-preview/2096000461686124968",
     "https://x.com/hacker_noi52134/status/2024643354806669764",
     "https://x.com/aiueotevp/status/2114385420880634083",
     "https://x.com/prof_LLM/status/2013959302328037633",
-    "https://x.com/nekobuta33/status/2099863940549488751",
-    "https://x.com/dangomushino/status/2075816263713239368"
+    "https://x.com/naohitoabe/status/2109821505723117655",
+    "https://x.com/nekobuta33/status/2099863940549488751"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -563,12 +523,12 @@
    "query": "site:linkedin.com 競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ）",
    "results": [
     "https://www.linkedin.com/posts/peter-de-werd-5a6875aa_effects-of-task-structure-and-confirmation-activity-7207445006528196608-bh52",
-    "https://www.linkedin.com/posts/mandeep-k-dhami-881793211_effects-of-task-structure-and-confirmation-activity-7207396570151972864-8EiB",
     "https://api.linkedin.com/login/",
-    "https://sg.linkedin.com/in/prashant-dhami-60b2322",
+    "https://www.linkedin.com/posts/mandeep-k-dhami-881793211_effects-of-task-structure-and-confirmation-activity-7207396570151972864-8EiB",
     "https://ar.linkedin.com/posts/dilek-önkal-22b99026_the-value-of-experiments-in-futures-and-foresight-activity-7004086731301900288-rAQq",
     "https://jp.linkedin.com/pulse/understanding-competitor-analysis-product-management-oginni-jeremiah-r0vye?tl=ja",
-    "https://jp.linkedin.com/pulse/competitor-analysis-beyond-benchmarking-towards-strategic-au-ncagc?tl=ja"
+    "https://jp.linkedin.com/pulse/outsmarting-competition-decoding-customer-pain-points-banerji-mpzuc?tl=ja",
+    "https://es.linkedin.com/posts/megan-crawford_the-value-of-experiments-in-futures-and-foresight-activity-7047209635157565440-_FbH"
    ],
    "engines": [
     "ddgs:bing"
@@ -579,15 +539,15 @@
    "query": "site:facebook.com 競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ）",
    "results": [
     "https://www.facebook.com/p/活動分析研究会-100057013009387/",
-    "https://www.facebook.com/kasetu.fes/",
+    "https://www.facebook.com/groups/247816822664827/",
+    "https://www.facebook.com/groups/247816822664827/posts/1708868813226280/",
     "https://www.facebook.com/groups/poctalk/",
-    "https://www.facebook.com/groups/247816822664827/posts/1558427394937090/",
     "https://www.facebook.com/ishihara.kg/posts/研究者ネタ実証研究からの脱皮-パソコンitaiなどの発展で過去40年ほどの間に定性定量ともに様々な研究手法research-method-がいとも簡単にできるよ/26217684991242092/",
-    "https://www.facebook.com/groups/247816822664827/posts/1494457258000771/",
-    "https://www.facebook.com/RISE.consulting/photos/プロジェクト紹介vol54-大手btobサービス企業の競合ベンチマーク調査及び動向分析支援-昨今テクノロジーの発展に伴い各企業の事業戦略にも大きな変化が起きると/807675332669583/"
+    "https://www.facebook.com/RISE.consulting/photos/プロジェクト紹介vol54-大手btobサービス企業の競合ベンチマーク調査及び動向分析支援-昨今テクノロジーの発展に伴い各企業の事業戦略にも大きな変化が起きると/807675332669583/",
+    "https://www.facebook.com/kasetu.fes/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -599,17 +559,27 @@
   },
   {
    "query": "競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3550",
+    "https://www.researchgate.net/publication/331942237_The_analysis_of_competing_hypotheses_in_intelligence_analysis",
+    "https://strathprints.strath.ac.uk/69049/1/Dhami_etal_ACP_2019_The_analysis_of_competing_hypotheses_in_intelligence.pdf",
+    "https://www.ovid.com/journals/acps/fulltext/10.1002/acp.3550~the-analysis-of-competing-hypotheses-in-intelligence",
+    "https://pureportal.strath.ac.uk/en/publications/the-analysis-of-competing-hypotheses-in-intelligence-analysis/",
+    "https://psycnet.apa.org/record/2019-30607-001",
+    "https://www.tandfonline.com/doi/full/10.1080/02684527.2024.2304934"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "analysis of competing hypotheses empirical study base rates Dhami Mandel intelligence analysts site:linkedin.com",
    "results": [
     "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
-    "https://www.linkedin.com/posts/davidrmandel_critical-review-of-the-analysis-of-competing-activity-7146287866447282176-phMz",
-    "https://at.linkedin.com/posts/ole-donner_psychology-of-intelligence-analysis-richards-activity-7023923723569135616-5dds",
     "https://www.linkedin.com/posts/mandeep-k-dhami-881793211_effects-of-task-structure-and-confirmation-activity-7207396570151972864-8EiB",
+    "https://at.linkedin.com/posts/ole-donner_psychology-of-intelligence-analysis-richards-activity-7023923723569135616-5dds",
+    "https://www.linkedin.com/posts/davidrmandel_critical-review-of-the-analysis-of-competing-activity-7146287866447282176-phMz",
     "https://www.linkedin.com/posts/davidrmandel_critical-review-of-the-analysis-of-competing-activity-7160683466123042819-wtwi",
     "https://www.linkedin.com/learning/advanced-cyber-threat-intelligence/analysis-of-competing-hypothesis",
     "https://www.linkedin.com/pulse/how-using-analysis-competing-hypotheses-shows-whats-ppiwe"
@@ -622,6 +592,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T09:46:27.689025+00:00"
 }

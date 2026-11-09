@@ -737,7 +737,7 @@
   - note.com と ja.wikipedia.org：品目の重なり 2/7（29%）
   - www.bizreach.jp と ja.wikipedia.org：品目の重なり 1/5（20%）
   - www.bizreach.jp と initial.inc：品目の重なり 1/5（20%）
-  - ja.wikipedia.org と initial.inc：品目の重なり 1/5（20%）
+  - initial.inc と ja.wikipedia.org：品目の重なり 1/5（20%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - Crane&I｜売上の柱（何で稼ぐか）［売上・決算］

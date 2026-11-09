@@ -8,408 +8,8 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-09T00:04:22.345113+00:00",
+ "researched_at": "2026-11-09T11:18:59.773453+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、停車地の方向指示詞を別フィールド化し、検証を繰り返して精度を高めます",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "停車地の方向指示詞を別フィールド化し検証を繰り返す",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ロジスティック回帰は線形モデルで高速かつ解釈しやすく、データ量が少ない場合の初期検証に適しています",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "クロスバリデーションで精度を検証し、F1スコアやPrecision、Recallを指標に評価します",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "F1スコア、Precision、Recallで精度検証",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "具体的には、日次や週次でのデータ抽出後にクレンジングとマッチングを実施し、結果を検証して改善を繰り返します",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "今回は以前から温めていた課題「テキスト分類（名寄せ）作業、生成AIでなんとか楽にできないか？」を解決するため、Databricksを使っていろいろ検証した過程を記事にしました",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "fers are for the same real-world product) of the clusters estimated",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pairs in total. Overall, the noise level in the sample is estimated",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5つのアルゴリズムと照合キー戦略の組み合わせが、企業データ運用の上限を決めます",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "SFAやCRMの顧客データを企業データと突き合わせ、重複と表記ゆれを解消します",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せロジックは、大きく分けて「前処理（正規化）」「照合（マッチング）」「判定（統合/非統合の決定）」の3層構造で成り立っています",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "第2層：照合",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "完全一致方式とは、照合対象の文字列が一字一句同じ場合のみ「一致」と判定するマッチング方式です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "類似度スコアリング方式とは、複数の照合項目（企業名・住所・電話番号など）をそれぞれスコア化し、加重合計で総合スコアを算出するマッチング方式です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "SalesNowの名寄せ機能では、独自のJCコードを基準に、企業名・法人番号・住所・電話番号などを組み合わせて照合しており、SFA連携時の名寄せ率は平均92%超です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せAIとは？機械学習による照合精度向上と活用法を解説",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せロジックの設計とは、自社のデータ特性に合わせて最適な照合ルールを構築するプロセスです",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "具体的には、レコード総数、重複の推定件数、表記ゆれの頻出パターン、欠損項目の割合を調査します",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ステップ2：照合キーの選定",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "レコード同士を比較するときに「どの項目を見るか」を決めるのが照合キーです",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "代表的な照合キーには、法人番号・企業名・住所・電話番号・メールアドレスのドメインなどがあります",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "照合キーの選定では、「一意性」「データ充足率」「表記安定性」の3つの基準で評価します",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "so that they can estimate the performance of different matching",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the performance estimated in this way is only meaningful if both",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "dataset is unknown, these numbers have to be estimated. Heise",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "metrics and evaluation strategies that try to estimate matching",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Chaudhuri et al. [7] can estimate the quality of the whole match-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "viations from the majority votes can be used to estimate the",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the ability to aggregate metrics. For example, to estimate costs, the",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "代表レコードは、項目ごとに採用基準を決めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "特許スクリーニングをAIで効率化｜最大80％の工数削減事例と導入メリット | Hakky Handbook",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します",
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "provides profiling information for all variants of the benchmark.",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4 BENCHMARK PROFILING",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "[36] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark",
-    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "完全一致方式を採用する場合は、事前の正規化処理が不可欠です",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "金融機関や大手企業など、判定の透明性が求められる組織で多く採用されています",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "SalesNowは独自のJCコードを基準に名寄せを行い、法人番号を公的キーとして紐づけて管理しているため、ユーザーのCRM/SFAデータに法人番号を自動付与することもできます",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同社はSalesNowを導入し、独自のJCコードを基準とした照合ロジックを採用することで名寄せ率を以前の3倍まで引き上げました",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "☐ 採用するマッチングアルゴリズム（完全一致/あいまい一致/類似度スコアリング/ルールベース/AI）の組み合わせが決まっている",
-    "url": "https://salesnow.jp/media/125/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "with traditional profiling metrics and three new metrics for mea-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "solely on profiling benchmark datasets and grouped 21 benchmarks",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "according to five profiling metrics, namely schema complexity, tex-",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "profiling metrics allow for better comparability of quality metrics",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "sidered. Moreover, profiling metrics that measure the difficulty or",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Frost supports a wide range of profiling metrics for measuring",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "dataset’s difficulty together with additional profiling dimensions.",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "real-world matching task. A suitability score based on profiling",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "[49] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://ceur-ws.org/Vol-1486/paper_43.pdf",
-    "url": "https://d-nb.info/1351217534/34",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "業務担当者が正解ラベルを付け、結果と照合します",
@@ -766,69 +366,401 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
     "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "quote": "代表レコードは、項目ごとに採用基準を決めます",
     "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "respective other class(es). In order to prevent selection bias to-",
+    "quote": "特許スクリーニングをAIで効率化｜最大80％の工数削減事例と導入メリット | Hakky Handbook",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "provides profiling information for all variants of the benchmark.",
     "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "reduce selection bias. As the basis for the later generation of the",
+    "quote": "4 BENCHMARK PROFILING",
     "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "of similarity metrics, we avoid biasing the benchmark towards a",
+    "quote": "[36] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark",
     "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "ただし、十分な学習データ（一般的に数千件以上の正解ペア）が必要であり、導入初期のコストが高い点に注意が必要です",
+    "quote": "完全一致方式を採用する場合は、事前の正規化処理が不可欠です",
     "url": "https://salesnow.jp/media/125/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "partition. While this technique is unbiased, it may also only",
+    "quote": "金融機関や大手企業など、判定の透明性が求められる組織で多く採用されています",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SalesNowは独自のJCコードを基準に名寄せを行い、法人番号を公的キーとして紐づけて管理しているため、ユーザーのCRM/SFAデータに法人番号を自動付与することもできます",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同社はSalesNowを導入し、独自のJCコードを基準とした照合ロジックを採用することで名寄せ率を以前の3倍まで引き上げました",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "☐ 採用するマッチングアルゴリズム（完全一致/あいまい一致/類似度スコアリング/ルールベース/AI）の組み合わせが決まっている",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "with traditional profiling metrics and three new metrics for mea-",
     "url": "https://d-nb.info/1351217534/34",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "1. This technique has the advantage of unbiasedly representing",
+    "quote": "solely on profiling benchmark datasets and grouped 21 benchmarks",
     "url": "https://d-nb.info/1351217534/34",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-",
+    "quote": "according to five profiling metrics, namely schema complexity, tex-",
     "url": "https://d-nb.info/1351217534/34",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-",
+    "quote": "profiling metrics allow for better comparability of quality metrics",
     "url": "https://d-nb.info/1351217534/34",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.",
+    "quote": "sidered. Moreover, profiling metrics that measure the difficulty or",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Frost supports a wide range of profiling metrics for measuring",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "dataset’s difficulty together with additional profiling dimensions.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "real-world matching task. A suitability score based on profiling",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[49] Anna Primpeli and Christian Bizer. 2020. Profiling Entity Matching Benchmark",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://ceur-ws.org/Vol-1486/paper_43.pdf",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、停車地の方向指示詞を別フィールド化し、検証を繰り返して精度を高めます",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "停車地の方向指示詞を別フィールド化し検証を繰り返す",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ロジスティック回帰は線形モデルで高速かつ解釈しやすく、データ量が少ない場合の初期検証に適しています",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "クロスバリデーションで精度を検証し、F1スコアやPrecision、Recallを指標に評価します",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "F1スコア、Precision、Recallで精度検証",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的には、日次や週次でのデータ抽出後にクレンジングとマッチングを実施し、結果を検証して改善を繰り返します",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "今回は以前から温めていた課題「テキスト分類（名寄せ）作業、生成AIでなんとか楽にできないか？」を解決するため、Databricksを使っていろいろ検証した過程を記事にしました",
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "fers are for the same real-world product) of the clusters estimated",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pairs in total. Overall, the noise level in the sample is estimated",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5つのアルゴリズムと照合キー戦略の組み合わせが、企業データ運用の上限を決めます",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SFAやCRMの顧客データを企業データと突き合わせ、重複と表記ゆれを解消します",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せロジックは、大きく分けて「前処理（正規化）」「照合（マッチング）」「判定（統合/非統合の決定）」の3層構造で成り立っています",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "第2層：照合",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "完全一致方式とは、照合対象の文字列が一字一句同じ場合のみ「一致」と判定するマッチング方式です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "類似度スコアリング方式とは、複数の照合項目（企業名・住所・電話番号など）をそれぞれスコア化し、加重合計で総合スコアを算出するマッチング方式です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SalesNowの名寄せ機能では、独自のJCコードを基準に、企業名・法人番号・住所・電話番号などを組み合わせて照合しており、SFA連携時の名寄せ率は平均92%超です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せAIとは？機械学習による照合精度向上と活用法を解説",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せロジックの設計とは、自社のデータ特性に合わせて最適な照合ルールを構築するプロセスです",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "具体的には、レコード総数、重複の推定件数、表記ゆれの頻出パターン、欠損項目の割合を調査します",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ステップ2：照合キーの選定",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "レコード同士を比較するときに「どの項目を見るか」を決めるのが照合キーです",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "代表的な照合キーには、法人番号・企業名・住所・電話番号・メールアドレスのドメインなどがあります",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "照合キーの選定では、「一意性」「データ充足率」「表記安定性」の3つの基準で評価します",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "so that they can estimate the performance of different matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the performance estimated in this way is only meaningful if both",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "dataset is unknown, these numbers have to be estimated. Heise",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "metrics and evaluation strategies that try to estimate matching",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chaudhuri et al. [7] can estimate the quality of the whole match-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "viations from the majority votes can be used to estimate the",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the ability to aggregate metrics. For example, to estimate costs, the",
     "url": "https://d-nb.info/1351217534/34",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -1227,6 +1159,74 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
+    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "respective other class(es). In order to prevent selection bias to-",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "reduce selection bias. As the basis for the later generation of the",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of similarity metrics, we avoid biasing the benchmark towards a",
+    "url": "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、十分な学習データ（一般的に数千件以上の正解ペア）が必要であり、導入初期のコストが高い点に注意が必要です",
+    "url": "https://salesnow.jp/media/125/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "partition. While this technique is unbiased, it may also only",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "1. This technique has the advantage of unbiasedly representing",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "occurrences within an attribute do not bias the𝑛𝑢𝑙𝑙𝑅𝑎𝑡𝑖𝑜 . Calculat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.",
+    "url": "https://d-nb.info/1351217534/34",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -1238,12 +1238,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
+    "url": "https://note.com/atstream/n/na4971a88118f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/atstream/n/na4971a88118f",
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
     "status": "ok",
     "method": "http"
    },
@@ -1253,12 +1253,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/gati_suraimu/n/n1e02b198642e",
+    "url": "https://note.com/atstream/n/n15ddcade7e85",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/atstream/n/n15ddcade7e85",
+    "url": "https://note.com/gati_suraimu/n/n1e02b198642e",
     "status": "ok",
     "method": "http"
    },
@@ -1283,17 +1283,22 @@
     "method": "http"
    },
    {
-    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
+    "url": "https://www.sento.group/concepts/nayose",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/name-collection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
     "status": "ok",
     "method": "http"
    },
@@ -1303,32 +1308,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://dl.acm.org/doi/10.1145/3340531.3412781",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://deepwiki.com/ing-bank/EntityMatchingModel/8-threshold-decision-making",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://arxiv.org/html/2106.08455v1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://link.springer.com/article/10.1007/s13740-012-0015-8",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://arxiv.org/abs/2106.08455",
+    "url": "https://data.bfts.co.jp/blog/data-cleansing-nayose-basics",
     "status": "ok",
     "method": "http"
    }
@@ -1339,15 +1319,15 @@
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） site:note.com",
    "results": [
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://note.com/anomaly_inc/n/n15611efccadc",
     "https://note.com/atstream/n/na4971a88118f",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
-    "https://note.com/gati_suraimu/n/n1e02b198642e",
     "https://note.com/atstream/n/n15ddcade7e85",
+    "https://note.com/gati_suraimu/n/n1e02b198642e",
     "https://note.com/tt_biz/n/n2cc5e4bb5ec7"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1356,11 +1336,11 @@
    "results": [
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://eatransform.net/nayose",
     "https://note.com/atstream/n/n15ddcade7e85",
+    "https://eatransform.net/nayose",
     "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results"
+    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/"
    ],
    "engines": [
     "ddgs:google"
@@ -1372,11 +1352,11 @@
    "results": [
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
-    "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "https://salesnow.jp/media/125/",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://www.sento.group/concepts/nayose",
     "https://eatransform.net/nayose",
-    "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b"
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
+    "https://data-viz-lab.com/name-collection"
    ],
    "engines": [
     "ddgs:google"
@@ -1387,33 +1367,25 @@
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） 事例",
    "results": [
     "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
-    "https://eatransform.net/nayose",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://eatransform.net/nayose",
     "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
     "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
     "https://salesnow.jp/media/125/",
-    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/"
+    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
+    "https://data.bfts.co.jp/blog/data-cleansing-nayose-basics"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "entity matching benchmark corner cases threshold gold standard",
-   "results": [
-    "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_Research/Web-based_Systems/pub/CIKM2020_Primpeli_Bizer.pdf",
-    "https://dl.acm.org/doi/10.1145/3340531.3412781",
-    "https://deepwiki.com/ing-bank/EntityMatchingModel/8-threshold-decision-making",
-    "https://arxiv.org/html/2106.08455v1",
-    "https://link.springer.com/article/10.1007/s13740-012-0015-8",
-    "https://arxiv.org/abs/2106.08455",
-    "https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:note.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
@@ -1427,7 +1399,7 @@
     "https://note.com/corenica_lab/n/n2d05604bc208"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1440,12 +1412,14 @@
     "https://x.com/IRASUTO_WAKARU/status/2040172493231808543",
     "https://x.com/takanishi12/status/2087433963375923620",
     "https://x.com/ai_neko6/status/2108760609450021073",
-    "https://x.com/tomo_ai_agent/status/2117581388392116630"
+    "https://x.com/tomo_ai_agent/status/2117581388392116630",
+    "https://x.com/Kenichi_KNZW/status/2119550539075567784"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）",
@@ -1459,7 +1433,7 @@
     "https://jp.linkedin.com/learning/microsoft-azure-ai-fundamentals-ai-900-machine-learning-fundamentals/4217106"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1488,23 +1462,25 @@
     "https://note.com/atstream/n/na4971a88118f",
     "https://note.com/atstream/n/n4b6dd8a1e381",
     "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
-    "https://salesnow.jp/media/125/"
+    "https://salesnow.jp/media/125/",
+    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方） X 投稿",
    "results": [
-    "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
     "https://eatransform.net/nayose",
-    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
+    "https://qiita.com/hotate_2235/items/2cbdc79fc5f0cd53f87b",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
+    "https://geniee.co.jp/media/cdp/data-deduplication-matching-logic/",
     "https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results",
-    "https://salesnow.jp/media/125/",
-    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/"
+    "https://www.saaske.com/blog/ma-sfa-crm/data-deduplication-saaske/",
+    "https://salesnow.jp/media/125/"
    ],
    "engines": [
     "ddgs:google"
@@ -1519,8 +1495,8 @@
     "https://www.linkedin.com/pulse/advanced-entity-matching-financial-ai-using-hybrid-jitender-malik-k6xwc/",
     "https://www.linkedin.com/pulse/entity-resolution-scale-probabilistic-matching-techniques-reddy-g934c",
     "https://www.linkedin.com/posts/dr-gonzalez-hernandez_a-fair-gold-standard-benchmark-for-geographic-activity-7498820728473964544-Y95D",
-    "https://ca.linkedin.com/in/asma-ahmed67",
-    "https://www.linkedin.com/pulse/how-qa-strengthens-your-data-foundation-through-better-akgzc"
+    "https://www.linkedin.com/pulse/how-qa-strengthens-your-data-foundation-through-better-akgzc",
+    "https://ca.linkedin.com/in/asma-ahmed67"
    ],
    "engines": [
     "ddgs:bing"
@@ -1529,222 +1505,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "完全一致、ルール一致、あいまい一致の判定を検証します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実際の料金は、必ず提案書の前提条件と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "さらに、開発・検証・本番の分離や保持期限を確認します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "：統合後に、どのレコードの値を採用するかの取り決め",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "代表レコードは、項目ごとに採用基準を決めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "業務担当者が正解ラベルを付け、結果と照合します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "12〜24か月以上のケースがあります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "特に、データ調査と、名寄せ結果を各システムに戻す連携では、工数が増えやすくなります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、既存データを自動で上書きしない方法もあります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：ロールバックの方法と、担当者研修の準備",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "あわせて、安全な提供方法と検証用サンプルを準備します",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
-    "url": "https://www.ripla.co.jp/blog/system/entity-resolution-process/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 14,
+ "new_this_run": {},
+ "runs": 15,
  "first_researched_at": "2026-11-05T22:56:47.894576+00:00"
 }
