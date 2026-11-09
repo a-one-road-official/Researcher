@@ -14,7 +14,7 @@
      健康経営優良法人のように業種の列がある一覧は、同じ行に「製造」がある社だけ取る。
   B. 芋づる：1社ずつ公式サイトを探して会社概要を読み、資本金・所在地・設立・事業内容・主要取引先・子会社/グループ会社を取る。
      取引先・子会社に出てきた名前を次の段（深さ+1）に積む。次の段に積むのは、資本金1億円以上が確かめられた会社の名前だけ（深さ2まで）。
-  C. 判定：対象＝一都三県に本社・資本金1億円以上・自動車の除外に当たらない。1億円ちょうどは「1億円ちょうど」と書いて残す。
+  C. 判定：対象＝一都三県に本社・資本金1億円以上・製造業（3つの手がかりのうち2つ・2026-11-09）・自動車の除外に当たらない。1億円ちょうどは「1億円ちょうど」と書いて残す。
   出力：out/award_chain/seeds.csv（種）、chain.csv（調べた全社と引用）、list.csv（対象だけ）、stats.md（集計）、
         inputs/award_chain.csv（対象。次の段の深掘り＝創業年度・株主構成は topics/award_chain.yaml）。
 時間切れでも途中から再開する（キャッシュCSV）。
@@ -101,7 +101,18 @@ AUTO_WORDS = re.compile(r"自動車部品|車載|自動車用|自動車向け|�
 SEED_FIELDS = ["name", "key", "source", "pref", "line", "url"]
 CHAIN_FIELDS = ["name", "key", "depth", "found_via", "status", "official_url", "pages_read", "capital_man", "capital_quote",
                 "pref", "address_quote", "established_quote", "employees_quote", "business_quote", "partners", "subsidiaries",
-                "partners_quote", "subsidiaries_quote", "auto_signals", "auto_judge", "judge"]
+                "partners_quote", "subsidiaries_quote", "auto_signals", "auto_judge",
+                "mfg_industry", "mfg_signals", "mfg_judge", "judge"]
+
+# 2026-11-09 本人指示：製造業かどうかを見ずに資本金と所在地だけで「対象」にしていた（58社の半分以上が不動産・IT・卸）。
+# ベストベンチャー100と同じく中身で判定する。3つの手がかりのうち2つがそろって初めて「製造業」と確定する：
+#  M1 産業の判定（classify_industry：取引先・客の呼び方・職種・許認可の2つ一致 →「製造業」。候補も1票）
+#  M2 事業内容の欄に、自社で作る言い方（「○○の製造」「製造・販売」「加工」「成形」等）がある
+#  M3 会社概要に工場・生産拠点・製造所の所在地が載っている
+# 1つだけなら「製造業 要確認」（対象に入れず残す）、0なら「除外：製造業でない」。単語1つでは付けない。
+OWN_PROD = re.compile(r"(?:の|を)(?:設計・)?(?:開発・)?(?:製造|生産|加工|成形|鋳造|鍛造|切削|研削|プレス|溶接|組立|めっき|塗装|熱処理)"
+                      r"|(?:製造|生産|加工)(?:・|及び|および|、)(?:販売|加工|組立|修理)|(?:製造|加工|成形)業|受託(?:製造|加工|生産)")
+FACTORY = re.compile(r"(?:^|\s)(?:[^\s]{0,10}工場|生産拠点|製造拠点|製造所|生産工場|事業所・工場)\s*[:：]?\s*(?:〒|[^\s]{0,6}[都道府県]|東京|神奈川|埼玉|千葉)")
 
 
 def _nfkc(s: str) -> str:
@@ -355,6 +366,25 @@ def check_one(name: str, depth: int, via: str) -> dict:
         sig.append("取引先：" + "・".join(hit[:4]))
     r["auto_signals"] = " / ".join(sig)
     r["auto_judge"] = "自動車（除外）" if len(sig) >= 2 else ("自動車（要確認）" if sig else "")
+    # 製造業かどうか（3つの手がかりのうち2つ）
+    from researcher import classify_industry as ci
+    text = "\n".join(texts)
+    try:
+        code, how = ci.judge(ci.score(text, ci._listed_map()))
+    except Exception:
+        code, how = "", "要読込"
+    r["mfg_industry"] = f"{ci.JSIC.get(code, '不明')}（{how}）"
+    sig = []
+    if code == "E" and how in ("確定", "候補"):
+        sig.append(f"M1 産業判定：製造業（{how}）")
+    m = OWN_PROD.search(got["事業内容"])
+    if m:
+        sig.append("M2 事業内容：" + got["事業内容"][max(0, m.start() - 20): m.end() + 10].replace("\n", " "))
+    m = FACTORY.search("\n".join(lines))
+    if m:
+        sig.append("M3 拠点：" + m.group(0).strip()[:40])
+    r["mfg_signals"] = " / ".join(sig)
+    r["mfg_judge"] = "製造業" if len(sig) >= 2 else ("製造業 要確認" if sig else "製造業でない")
     r["status"] = "読了"
     r["judge"] = judge(r)
     return r
@@ -373,12 +403,32 @@ def judge(r: dict) -> str:
         return "除外：資本金1億円未満"
     if r.get("pref") not in PREFS:
         return "対象外：一都三県の外" if r.get("pref") else "所在地 未確認（資本金1億円以上）"
+    mj = r.get("mfg_judge", "")
+    if mj == "製造業でない":
+        return "除外：製造業でない（" + (r.get("mfg_industry") or "産業不明") + "）"
+    if mj != "製造業":
+        return "製造業 要確認" if mj else "製造業 未判定"
     tag = "（1億円ちょうど）" if c == 10000 else ""
     return "対象" + tag + ("・自動車要確認" if r.get("auto_judge") else "")
 
 
 def run_chain(deadline: float) -> bool:
     rows = {r["key"]: r for r in _read_csv(CHAIN)}
+    # 2026-11-09 製造業の判定を足す前に読んだ会社のうち、資本金1億円以上・一都三県の会社は読み直す（他の会社は資本金で外れているので読まない）
+    redo = [r for r in rows.values() if r.get("status") == "読了" and not r.get("mfg_judge")
+            and r.get("capital_man") and float(r["capital_man"]) >= 10000 and r.get("pref") in PREFS]
+    for r in redo:
+        if time.monotonic() > deadline:
+            _write_csv(CHAIN, list(rows.values()), CHAIN_FIELDS)
+            return False
+        try:
+            nr = check_one(r["name"], int(r.get("depth") or 0), r.get("found_via", ""))
+            rows[r["key"]] = nr
+            print(f"redo {r['name']}: {nr.get('judge')} {nr.get('mfg_signals','')[:80]}", flush=True)
+        except Exception as e:
+            r["judge"] = f"未判定（読み直しエラー:{type(e).__name__}）"
+    if redo:
+        _write_csv(CHAIN, list(rows.values()), CHAIN_FIELDS)
     queue = [(s["name"], 0, s["source"]) for s in _read_csv(SEEDS)]
     for r in list(rows.values()):  # 資本金1億円以上が確かめられた会社の取引先・子会社だけ次の段へ
         d = int(r.get("depth") or 0)
@@ -433,7 +483,9 @@ def write_outputs(finished: bool) -> None:
     sc = Counter(s for r in seeds for s in r.get("source", "").split(";") if s)
     pc = Counter(r.get("pref", "") for r in ok)
     dc = Counter(r.get("depth", "") for r in ok)
-    md = [f"# 表彰・認定リスト起点の芋づる（一都三県・資本金1億円以上・自動車除く）{'（完了）' if finished else '（途中）'}", "",
+    mq = [r for r in rows if r.get("judge") == "製造業 要確認"]
+    _write_csv(OUT / "mfg_review.csv", mq, CHAIN_FIELDS)  # 手がかりが1つだけの会社。人（または別のAI）が読んで決める
+    md = [f"# 表彰・認定リスト起点の芋づる（一都三県・資本金1億円以上・製造業・自動車除く）{'（完了）' if finished else '（途中）'}", "",
           f"- 種：{len(seeds)}社　調べた会社：{len(rows)}社　対象：{len(ok)}社", "", "## 判定の内訳"]
     md += [f"- {k or '空'}：{v}" for k, v in jc.most_common()]
     md += ["", "## 対象の都県"] + [f"- {k or '空'}：{v}" for k, v in pc.most_common()]
