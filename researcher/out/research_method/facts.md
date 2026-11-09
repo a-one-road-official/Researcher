@@ -1590,6 +1590,14 @@
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
 - 手順・やり方：
+  - 「SSHの仕組みと「なぜ安全なのか」の技術的な根拠・WindowsおよびMacからのSSH接続方法（複数手段を比較）・公開鍵認証の設定手順（最も安全な認証方式）・SSHのポートフォワーディング・多段SSH・SCPなど実践的な活用技術」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「メモリの中を読む無料ツールの使い方と6つの虫めがね」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://publish-01.obsidian.md/access/09cfa50ec31c0f01873549787f02a7e0/assets/intel/ICD+203+Analytic+Standards.pdf）
+  - 「a business improvement framework for determining transferability of」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
+  - 「the concept by evolving and applying its multiple frameworks and methodologies. 22 In 2011,」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
+  - 「process-improvement methodologies aim to minimize.23」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
+  - 「do this comparison, the editors created a job aid and method for using it to apply a tag to an edit.」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
+  - 「One method to answer that questions is to solicit, col -」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
   - 「この記事では、プログラミング初心者・セキュリティ初心者でも理解できるように、GitHubの仕組みから使い方、プログラムのアップロード、さらにはサーバを借りて自分のサービスを公開するところまで、ステップごとに丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「AWS CloudTrail・Azure Monitor・GCP Audit Logsを使ったインシデント調査の手順と課題を初心者にも分かるよう完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「【初心者OK】ペネトレーションテストとは？自分のサーバを安全に攻撃する全手順」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -1597,14 +1605,6 @@
   - 「自分のサーバを攻撃して脆弱性を発見する方法をステップ別に紹介」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「Maltegoの応用利用方法：知られざる7つの最前線活用術」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「【解析】urlscan.io 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「仕組みと具体的な使い方、セキュリティ診断・情報漏えい調査への活用例から、悪用時の法的リスクまで解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「エージェント・サーバー・インデクサー・ダッシュボードの4つの部品を「防犯カメラ・警備室・録画保管庫・監視モニター」にたとえて1枚の図で整理し、できること8つ、SSH総当たり攻撃を見つける流れ、必要なスペックと導入手順、向いている人の診断、よくある勘違い、Wazuh自身の脆弱性CVE-2025-24016の教訓までまとめました」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「マルウェア解析と仮想環境とInetsimの活用方法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「INetSimの仕組みから実際の使い方を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「INetSimの仕組みから実際の使い方まで、セキュリティの初心者でも理解できるように 丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「お題を読み、自分の手でCensysの検索クエリ（CenQL）を組み立てる想起学習型ドリルです」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
   - 「なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1622,6 +1622,10 @@
   - 「実際、ジャーナリストや投資家はこの種の作業を行うことが知られており、工場の煙突を観察したり、ドローンで撮影したりして、工場の産出量や貯蔵施設の在庫を推定してきた」（https://note.com/everprogress/n/nde8351a93d60）
   - 「たとえば小売業者は、市場全体の消費支出の動向を把握し、競合の売上を推定するために、合法的に提供され匿名化された集計済みのクレジットカード取引データを使える」（https://note.com/everprogress/n/nde8351a93d60）
 - 一次情報の探し方：
+  - 「documents/ICD/ICD-203_TA_Analytic_Standards_21_Dec_2022.pdf.」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
+  - 「intelshare.intelink.ic.gov/sites/odni-mi/mpac/AIS/Annual%20Reports/2022%20 Annual%20Briefing.pdf.」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
+  - 「sites/odni-mi/mpac/AIS/Documents/ODNI%20 rating%20scale%2020151106.pdf.」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
+  - 「contentassets/f8361c5cd99e4f40bbbf83c17d6a91b9/bain_brief-management_tools_and_trends.pdf.」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
   - 「競争インテリジェンスの担当部門は、報道記事、業界報告書、特許、学術研究、そして近年ではソーシャルメディアやウェブ解析といった、情報機関と多くを共有する情報源に頼っている」（https://note.com/everprogress/n/nde8351a93d60）
   - 「たとえば企業は、競合の求人情報やプレスリリースを見ることで、その事業拡大の計画や研究開発の重点を推し量ることができる」（https://note.com/everprogress/n/nde8351a93d60）
   - 「実証研究によれば、こうした衛星画像を使える投資家は、決算発表の前に売上の動向を予測して取引を行い、その情報を持たない投資家より優位に立っていた(Berkeley Haas, 2019)」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1633,11 +1637,11 @@
   - 「資金を調達しているか(ベンチャー投資のデータベースや、社債を発行していれば証券取引委員会への提出書類を見る)、大きな資産を買ったか(不動産登記や地元の報道が新施設に触れることがある)、積極的に採用しているか(求人情報や給与税の登録に表れる)といった問いである」（https://note.com/everprogress/n/nde8351a93d60）
   - 「求人情報のような兆候は第3節でも述べたとおりで、金融情報と公開情報の分析が実務では連続していることを示している」（https://note.com/everprogress/n/nde8351a93d60）
   - 「報道、ソーシャルメディア、特許、ウェブサイトなど、自社の業界に関する公開データを継続的に監視するための道具と手順を整える」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「https://www.cia.gov/spy-kids/static/59d238b4b5f69e0497325e49f0769acf/Briefing-intelligence-cycle.pdf」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「https://www.cia.gov/podcast/static/7cd1e1a80447e96fc5d55d8a17fc0db6/The-Langley-Files-File-015-DDI-Transcript.pdf」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf」（https://note.com/everprogress/n/nde8351a93d60）
 - 失敗・落とし穴：
+  - 「撮る道具と読む道具の違い、最初に使う6つのプラグイン、2つの名簿（pslistとpsscan）の見比べ方、Python 3.14での落とし穴、旧版Volatility 2との違い、メモリダンプを扱うときの注意まで図解します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「objectivity, bias, politicization, or other issues in Standards application in analytic products.」（https://publish-01.obsidian.md/access/09cfa50ec31c0f01873549787f02a7e0/assets/intel/ICD+203+Analytic+Standards.pdf）
+  - 「practical mechanisms that reveal and mitigate bias. Analysts should be alert to influence by」（https://publish-01.obsidian.md/access/09cfa50ec31c0f01873549787f02a7e0/assets/intel/ICD+203+Analytic+Standards.pdf）
+  - 「well as source access, validation, motivation, possible bias, or expertise. Source summary」（https://publish-01.obsidian.md/access/09cfa50ec31c0f01873549787f02a7e0/assets/intel/ICD+203+Analytic+Standards.pdf）
   - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「【初心者向け】Google Dorkとは？仕組みと使い方｜セキュリティ診断への活用と注意点」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -1649,11 +1653,9 @@
   - 「企業は第三者のデータ提供者にも注意を払うべきである」（https://note.com/everprogress/n/nde8351a93d60）
   - 「ただし、こうした間接的な代理指標は誤差や見せかけの相関を含みうるため、複数の情報源で裏づけて初めて信頼できる推論になる点に注意が必要である」（https://note.com/everprogress/n/nde8351a93d60）
   - 「注意すべきなのは、重要な非公開の財務情報は内部情報にあたりうる点である」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「注意すべきなのは、AIには質の高いデータを与え、適切な問いで導く必要があるという点である」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「インテリジェンスの世界では、AIを慎重に管理しなければ偏りや誤りを持ち込みうるという認識がある」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「CIAの公刊誌に載った論考は、生成AIが存在しない事実や引用を作り出すこと、質の高いAIを使う人ほど注意を怠りがちになること、利用者がAIの偏りを吸収し、使うのをやめた後もそれを保ち続けることを研究に基づいて指摘し、AIは「本物の知性を補う義肢」として従属的に使うべきだと結論づけている(Brown, 2024)」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「法的には、たとえ不注意で漏れたものでも、明らかに機密である情報を故意に使うことには危険が伴う」（https://note.com/everprogress/n/nde8351a93d60）
 - 実例：
+  - 「Burp Suite の HTTP History を読む際に注目すべき 6 つのアタックサーフェスカテゴリ と、レスポンスのステータスコードから読み取れる情報 を、実例を交えながら徹底解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「potential best practices, to introduce one agency’s potential example best」（https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo255315/pdf/GOVPUB-PREX28-PURL-gpo255315.pdf）
   - 「本記事では、ITの知識がゼロでも理解できるよう、しくみから実際の操作手順・応用事例・そして「自分を守る対策」まで、一気通貫で解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「各機関がこれらの手法をどのように使ってきたかを比較したうえで、インテリジェンスの考え方を経営戦略に取り入れた企業の事例を含めて、企業への応用の可能性を探る」（https://note.com/everprogress/n/nde8351a93d60）
   - 「事例研究は、インテリジェンスの考え方を取り入れることが戦略上の優位につながることを示している」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1667,8 +1669,6 @@
   - 「この事例は、公開情報を巧みに分析すれば、実行に移せる市場情報を生み出せることを示している」（https://note.com/everprogress/n/nde8351a93d60）
   - 「今日のデジタル社会でも、対面での諜報と情報源の育成は続いており、企業や外交の場で潜入工作員が摘発された近年の事例がそれを裏づけている」（https://note.com/everprogress/n/nde8351a93d60）
   - 「衛星画像で小売の業績を予測した事例研究は、型破りなデータでも、適切に計測して分析すれば収益につながる知見に変わることを示している」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「実例として、戦略のために金融情報を活用する代表的な例は、自社の業界における投資の流れとベンチャー資金を追跡することである」（https://note.com/everprogress/n/nde8351a93d60）
-  - 「従業員が競合から勧誘される事例の急増など、自社の専有情報に対する異常な関心を監視する」（https://note.com/everprogress/n/nde8351a93d60）
 - 検索結果の抜粋：
   - 「Analytic Standards - DNI .gov — Analytic Standards - DNI .gov DNI.gov PDF https://archive.dni.gov > documents > ICD > ICD-203」（https://archive.dni.gov/files/documents/ICD/ICD-203.pdf）
   - 「5つの「Analytic Standards」｜データ分析とインテリジェンス — Jul 13, 2026 · 資料をあさっていたら、こんなものを見つけた。 米国のODNI（Office of the Director of National Intelligence、国家情報長官室）が出しているICD 203（Intelligence Community Directive 203）、副題は「Analytic Standards」、分析基準だ。」（https://note.com/shinu/n/n92a701e0f992）
@@ -5121,7 +5121,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -8736,54 +8736,56 @@
 ## 市場規模の食い違いを対象・地域・時点・取引段階・単位・推計方法で横に並べる比較表の作り方（公的統計から2経路で推計して差を検証する工程）（market sizing reconcile top-down bottom-up comparison table transaction stage definition）
 - 文脈：市場規模の推計
 - 手順・やり方：
-  - 「TAM・SAM・SOMの計算方法｜市場規模の出し方 - 株式会社RJC」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「TAM・SAM・SOMの計算方法｜市場規模の出し方」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「（記載例）出典：株式会社RJC「TAM・SAM・SOMの計算方法｜市場規模の出し方」」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「課題の検証の進め方は、関連記事の「PSFとPMFの違い｜検証の順番と判断基準」で扱っています」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
 - 突き合わせ・推定：
-  - 「を逆算すると、計画の無理が見えます」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「課題の検証の進め方は、関連記事の「PSFとPMFの違い｜検証の順番と判断基準」で扱っています」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「、と逆算すると計画の無理が見える」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
 - 一次情報の探し方：
-  - 「統計の数字は「何を数えたか」で大きく変わります」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「ほかにも、チケットレストラン、書籍読み放題、2年ごとの慰労報奨（休暇 or 金一封）、11期連続の黒字決算」（https://www.r-jc.jp/news-blog/5315/tamsamsom%E3%81%AE%E8%A8%88%E7%AE%97%E6%96%B9%E6%B3%95%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E5%87%BA%E3%81%97%E6%96%B9/）
-  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「富裕層とは？富裕層へのリサーチ（調査）での注意点や定義、特徴など解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
@@ -8797,24 +8799,22 @@
   - 「という3つの注意点を常に念頭に置くことが、誤った結論を避けるために不可欠です」（https://crexgroup.com/ja/data/column/data-ops/market-size-estimation-methods/）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cf63addafd312451fe9692cf113e9495）
 - 実例：
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
+  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8b3794ac98b4fbf4fc805c844df3892a）
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=b8d7df357daf04abf3aa0f7f50ef7a63）
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=5b4e80891d1beb1e4dca2c930fa2ec4e）
 
 ## 聞き方・検索語に置いた数字が答えを引き寄せるアンカリングを調査で防ぐ実務（共通の偏りは差で読む）（anchoring bias research question design avoid numeric anchors common-mode bias trust the delta）
 - 文脈：偏り
@@ -11600,6 +11600,8 @@
   - 「特に公的機関や大学との共同調査である場合は、その事実を前面に出すことで、回答者の安心感は格段に高まります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
   - 「「回答内容はすべて統計的に処理され、個人が特定されることはない」といった点をはっきりと言葉にしましょう」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
 - 失敗・落とし穴：
+  - 「Web調査（インターネット調査）とは？実施方法や注意点、費用について紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
+  - 「アンケートを作るにあたり、よくある失敗例と失敗しないための……」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
   - 「「回答した人」と「回答しなかった人」のあいだに、属性や意識の違いが存在するという非回答バイアスが生じるリスクが高まります」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
   - 「スクリーニング調査とは？注意点や設問例、メリット・デメリットを解説」（https://www.asmarq.co.jp/column/column-cat/how_to/social_survey_response_rate/）
 - 実例：
@@ -14544,11 +14546,11 @@
 
 ## 外資系の日本法人・日本の会社の海外現地法人の探し方（外資系企業総覧・海外進出企業総覧・図書館の調べ方案内・A1の②の会社探し・4-108）（how to find foreign-affiliated companies in Japan and Japanese overseas subsidiaries directory research guide library）
 - 文脈：会社
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）（using regulatory inspection and filing records in investigative reporting IRE public records data）
 - 文脈：探し先
