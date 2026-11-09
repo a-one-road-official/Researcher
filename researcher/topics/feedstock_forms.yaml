@@ -1,0 +1,47 @@
+# 本人の指示（2026-11-09）：鉄粉だけに偏っていたので、AM原料＝消耗材を形態別に全部洗う（最優先・爆速）。
+# 形態：粉末（PBF・BJ・粉末DED、安全・保管・ロット証明）／フィラメント（汎用・高性能・脱脂焼結型の金属）／ワイヤー（WAAM・ワイヤーDED）／ペレット／液体レジン／ペースト・スラリー／シート・箔・テープ・トウ／砂＋バインダー。
+# 物差し（全形態共通）：日本の担い手（商社・代理店）の有無、在庫・危険物・保管の扱い、装置メーカー純正の縛り、技術支援の要否、コモディティ化（価格の比較軸が客にあるか）、市場規模・CAGR・価格・主要企業。
+# 前提（絞り込み条件）：一人・手持ち約20万円（別に11月中に使い切る70万円）・業界の実績なし・1か月・借入なし・在庫を持たない。
+# 引用のまま取る。要約・解釈・順位づけはしない。日本と世界の両方。
+kind: market
+title: AM原料の形態別（粉末・フィラメント・ワイヤー・ペレット・レジン・ペースト・シート/テープ・砂）— 規制・保管・縛り・商流・価格・市場
+input: researcher/inputs/feedstock_forms.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  市場規模: [市場規模, 億円, 兆円, 億ドル, market size, valued at, billion, million, tonnes, トン]
+  成長率: [CAGR, 年平均成長率, 成長率, 前年比, compound annual, growing at, YoY]
+  価格: [円/kg, 万円, 1kg, kg当たり, per kg, /kg, USD/kg, per spool, per liter, per litre, price, 価格, 円]
+  主要企業: [主要企業, 主要メーカー, メーカー一覧, 大手, シェア, key players, major players, leading, manufacturers include, suppliers include, companies profiled, market share]
+  安全・規制・保管: [防爆, 粉じん爆発, 危険物, 消防法, 毒劇物, 化審法, 労働安全衛生, 吸入, 保管, 不活性ガス, 有効期限, 保存期間, SDS, MSDS, explosion, ATEX, combustible dust, inhalation, storage, inert, shelf life, REACH, hazardous, flammable, UN number]
+  品質・証明: [ロット, 成績書, ミルシート, 粒度分布, 球形度, 酸素量, 流動性, 認定, トレーサビリティ, certificate of analysis, CoA, lot, traceability, particle size distribution, PSD, sphericity, oxygen content, flowability, qualification, AS9100, ISO 13485]
+  装置縛り・オープン材料: [純正, 指定材料, 認定材料, オープン, クローズド, 互換, 専用, RFID, チップ, closed system, open material, third-party material, locked, proprietary, approved materials, compatible, cartridge]
+  売り方・商流: [直販, 代理店, 商社, 販売店, 輸入, OEM, ネット販売, 通販, distributor, reseller, direct sales, online store, webshop, dealer, partner network, Amazon]
+  技術支援: [技術支援, パラメータ, 造形条件, プロファイル, サポート, 研修, application engineering, parameter, print profile, technical support, training, process window]
+  コモディティ化: [価格競争, 低価格, 汎用, 値下げ, 中国製, commodity, price war, low-cost, cheap, race to the bottom, Chinese manufacturers]
+  繰り返し性: [消費量, 使用量, 補充, リピート, 定期, consumption, per year, per machine, recurring, refill, subscription]
+  日本: [日本, 国内, 日本企業, Japan, Japanese]
+
+numeric: [市場規模, 成長率, 価格]
+
+figure_patterns:
+  CAGR: '成長率|(?:CAGR|年平均成長率|compound annual growth rate)[^0-9]{0,40}?(\d{1,3}(?:\.\d{1,2})?)\s*[%％]'
+  上位シェア%: '主要企業|(\d{1,3}(?:\.\d{1,2})?)\s*[%％]'
+
+external_queries:
+  - "{name} 市場規模 CAGR"
+  - "{name} 価格"
+  - "{name} 主要メーカー 一覧"
+  - "{name} 代理店 日本"
+  - "{name} 規制 保管 危険物"
+  - "{name} 純正 指定材料 互換"
+  - "{en} market size CAGR"
+  - "{en} price per kg"
+  - "{en} key players"
+  - "{en} distributor Japan"
+  - "{en} safety storage regulation"
+  - "{en} closed system open material third-party"
+  - "{en} commodity price competition"
+  - "{en} technical support parameters"
+
+limits: {pages: 45, external_per_query: 6, per_cat: 15}

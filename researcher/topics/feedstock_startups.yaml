@@ -1,0 +1,44 @@
+# 本人の指示（2026-11-09）：原料（消耗材）の形態別調査と同様に、スタートアップ（若い会社）領域も洗う（最優先・爆速）。
+# 狙い：日本に担い手（日本法人・日本拠点・日本の取扱い会社）がいない若いAM原料メーカー。大手・日本に誰かいる会社は除外対象として「日本の担い手」欄で判定材料を取る。
+# 取るもの：社名、創業年、国、資金調達額と投資家（株主構成）、年商・従業員、形態（粉末・フィラメント・ワイヤー・ペレット・レジン・ペースト・テープ・砂）、日本の扱い先の有無、代理店募集・直送・ネット販売の有無、技術支援の持ち方、Formnext Start-up Area出展。
+# 英語以外（ドイツ語・オランダ語・仏・伊・中・韓）の業界紙・PR配信・出展者リストまで当たる。
+# 前提（絞り込み条件）：一人・手持ち約20万円（別に11月中に使い切る70万円）・業界の実績なし・1か月・借入なし・在庫を持たない。
+# 引用のまま取る。要約・解釈・順位づけはしない。
+kind: market
+title: AM原料（消耗材）のスタートアップ — 形態別の若い会社・創業年・調達・日本の担い手・代理店条件
+input: researcher/inputs/feedstock_startups.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  会社名・一覧: [startup, start-up, Start-up, スタートアップ, 新興, 初创, 스타트업, founded by, spin-off, spinout, companies such as, including, list of, top startups, exhibitors, winners, finalists, Gewinner, lauréat]
+  創業年: [founded in, established in, since 20, 設立, 創業, gegründet, fondée en, fondata nel, 成立于, 설립]
+  資金調達・株主: [raised, funding, seed, Series A, Series B, investors, led by, backed by, venture, Finanzierungsrunde, levée de fonds, 融资, 투자, 資金調達, 出資, 株主]
+  年商・規模: [revenue, turnover, employees, staff, Umsatz, Mitarbeiter, chiffre d'affaires, 营收, 売上, 従業員]
+  日本の担い手: [Japan, Japanese, 日本, 国内, 代理店, distributor in Japan, Japanese partner, Japan office, K.K., 株式会社]
+  代理店募集・売り方: [distributor, reseller, become a partner, partner program, dealer, direct sales, online shop, webshop, ships worldwide, international shipping, Vertriebspartner, distributeur, 代理商, 代理店募集]
+  技術支援: [application engineering, technical support, parameters, print profiles, training, qualification, 技術支援, 造形条件]
+  展示会: [Formnext, Start-up Area, Start-up Challenge, Young Innovators, Pitchnext, TCT, RAPID, AMUG, booth, stand, hall]
+  価格: [per kg, /kg, price, pricing, €, $, USD, EUR, 価格]
+
+numeric: [資金調達・株主, 年商・規模]
+
+figure_patterns:
+  創業年: '創業年|(?:founded|established|gegründet|fondée|設立|創業)[^0-9]{0,20}?((?:19|20)\d{2})'
+  調達額: '資金調達・株主|(?:raised|funding|round of)[^0-9$€]{0,30}?(?:USD|US\$|\$|€|EUR)\s*(\d{1,4}(?:[.,]\d{1,3})?)\s*(?:million|mn|m\b|M\b|billion)'
+
+external_queries:
+  - "{en}"
+  - "{en} founded 2021 OR 2022 OR 2023 OR 2024"
+  - "{en} raises seed Series A"
+  - "{en} distributor reseller program"
+  - "{en} Formnext Start-up Area"
+  - "{name} スタートアップ"
+  - "site:metal-am.com {en}"
+  - "site:3dprintingindustry.com {en}"
+  - "site:voxelmatters.com {en}"
+  - "site:3dnatives.com {en}"
+  - "site:3printr.com {en}"
+  - "site:3druck.com {en}"
+  - "site:3dadept.com {en}"
+
+limits: {pages: 60, external_per_query: 6, per_cat: 20}

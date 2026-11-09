@@ -64,6 +64,9 @@ topics:
   supplier_chain: {run: true, shards: 3, per_run: 1}  # 2026-11-07 第1段：Freemelt・6K Additive・MX3Dの顧客・導入先・代理店（日本含む）。取材依頼先の元リスト
   supplier_chain_tier: {run: false, shards: 6, per_run: 2}  # 2026-11-07 第2段：第1段の顧客ごとの1次〜3次請け。第1段の結果を inputs/supplier_chain_tier.csv に入れてからオン
 
+  feedstock_forms: {run: true, shards: 8, per_run: 3}  # 2026-11-09 最優先：AM原料（消耗材）を形態別に全部（粉末の安全・ロット証明、フィラメント汎用/高性能/金属、ワイヤー、ペレット、レジン、ペースト、シート/テープ/トウ、砂＋バインダー）23品目：規制・保管・純正縛り・商流・技術支援・コモディティ化・価格・市場
+  feedstock_startups: {run: true, shards: 8, per_run: 2}  # 2026-11-09 最優先：原料の形態別スタートアップ14品目（独・蘭・仏・伊・中・韓まで）：社名・創業年・調達と株主・日本の担い手の有無・代理店募集・直送・Formnext Start-up Area
+
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
 # 2026-11-06 本人「深さが重要」「APIで抜き出す」。1回の読み取り上限・深い声として出す最低点（5点満点）
 x_pain: {run: true, max_posts_per_run: 300, min_score: 2}
