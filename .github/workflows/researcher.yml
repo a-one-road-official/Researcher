@@ -120,7 +120,7 @@ jobs:
           python -m researcher.brief
           # 2026-11-09 決めきれない会社だけ別のAI（GitHub Models の無料枠・課金なし）で判定を埋める
           python -m pip install -q requests
-          GITHUB_TOKEN="${{ github.token }}" python -m researcher.judge_ai || echo "judge failed"
+          GH_TOKEN="${{ github.token }}" gh workflow run judge.yml --ref main -R "${{ github.repository }}" || echo "judge dispatch failed"  # AI判定は別の仕事で（作業機の中の無料モデル）
           # 走査の計算（AIが書いた計算プログラム）。トークンを使わずに毎回回す
           mkdir -p researcher/calc
           for f in researcher/calc/*.py; do python -I "$f" || echo "calc failed: $f"; done

@@ -19,9 +19,12 @@ import yaml
 
 from researcher.targets import ROOT, load_topic
 
-ENDPOINT = "https://models.github.ai/inference/chat/completions"
-MODEL = os.environ.get("JUDGE_MODEL", "openai/gpt-4.1-mini")
-MAX_CALLS = int(os.environ.get("JUDGE_MAX_CALLS", "120"))
+# 2026-11-09 GitHub Models は 2026-07-30 で廃止済み（応答が本文 "OK" だけで判定が1件も入らなかった）。
+# → GitHub Actions の作業機の中で、無料の公開モデルを Ollama で動かす。キーも課金も外部サービスも要らない
+ENDPOINT = os.environ.get("JUDGE_ENDPOINT", "http://localhost:11434/api/chat")
+MODEL = os.environ.get("JUDGE_MODEL", "qwen2.5:7b")
+MAX_CALLS = int(os.environ.get("JUDGE_MAX_CALLS", "400"))
+DEADLINE = time.time() + float(os.environ.get("JUDGE_MINUTES", "150")) * 60
 
 RULE = (
     "あなたは海外のAM原料メーカーを、日本で一人の会社（エーワンロード、在庫なし・手持ち約20万円）が担いで売れるかで仕分ける調査員です。"
@@ -35,8 +38,8 @@ RULE = (
 
 
 def _call(token: str, prompt: str) -> dict | None:
-    r = requests.post(ENDPOINT, timeout=60, headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-                      json={"model": MODEL, "temperature": 0, "response_format": {"type": "json_object"},
+    r = requests.post(ENDPOINT, timeout=900,
+                      json={"model": MODEL, "stream": False, "format": "json", "options": {"temperature": 0, "num_ctx": 8192},
                             "messages": [{"role": "system", "content": RULE}, {"role": "user", "content": prompt}]})
     if r.status_code == 429:
         print(f"judge 429: {r.text[:300]} retry-after={r.headers.get('retry-after')}", flush=True)
@@ -45,7 +48,7 @@ def _call(token: str, prompt: str) -> dict | None:
         print(f"judge http {r.status_code}: {r.text[:200]}", flush=True)
         return None
     try:
-        txt = r.json()["choices"][0]["message"]["content"]
+        txt = r.json()["message"]["content"]
         txt = txt.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
         return json.loads(txt)
     except Exception as e:
@@ -76,7 +79,7 @@ def judge_topic(name: str, token: str, budget: list[int]) -> None:
         # 引用が1つも無い「余地あり」以外は、全部AIに読ませて決め直す
         if row["状態"] == "未調査" or (row["判定"].startswith("余地あり") and "AI判定" not in row["判定"]):
             continue
-        if nm not in cache and budget[0] > 0:
+        if nm not in cache and budget[0] > 0 and time.time() < DEADLINE:
             ev = (recs.get(nm) or {}).get("evidence", {})
             items = (ev.get(cfg["japan"], [])[:6] + ev.get(cfg["scale"], [])[:3] + ev.get("検索結果の抜粋", [])[:4])
             quotes = "\n".join(f"- 「{i.get('quote', '')[:300]}」（{i.get('url', '')}）" for i in items)
@@ -90,7 +93,6 @@ def judge_topic(name: str, token: str, budget: list[int]) -> None:
                 budget[0] = 0
             elif res and res.get("verdict"):
                 cache[nm] = res
-            time.sleep(1)
         if nm in cache:
             c = cache[nm]
             row["判定"] = f"{c['verdict']}（AI判定）"
@@ -105,9 +107,11 @@ def judge_topic(name: str, token: str, budget: list[int]) -> None:
 
 
 def main() -> int:
-    token = os.environ.get("GITHUB_TOKEN", "")
-    if not token:
-        print("no GITHUB_TOKEN; skip judge")
+    token = ""
+    try:
+        requests.get(ENDPOINT.rsplit("/api/", 1)[0], timeout=5)
+    except Exception:
+        print("no local model server; skip judge")
         return 0
     ctl = yaml.safe_load((ROOT / "control.yaml").read_text(encoding="utf-8")) or {}
     budget = [MAX_CALLS]
