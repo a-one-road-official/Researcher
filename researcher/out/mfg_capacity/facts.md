@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・258品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・260品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -13120,6 +13120,130 @@
   - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
   - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
   - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+
+## 金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117）（Japan imports HS 8480 moulds CIF vs partner exports to Japan FOB UN Comtrade mirror annual）
+- 文脈：統計
+- 受注金額・加工賃収入：
+  - 「2023年の輸入額は前年比6.6％増の21.0億円」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+- 10年推移：
+  - 「グラフで見る! 成形用の型(鋳型ベース)の輸入動向 HS848020 輸入額の推移 年ベース 【出所】財務省 貿易統計」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+  - 「1. 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+  - 「2023年の輸入額は前年比6.6％増の21.0億円」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+  - 「3年連続の増加」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+  - 「2023年 輸入相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+  - 「1 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+  - 「2024-04-05」（https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1）
+- 痛み・損（深さの印）：記載なし（読んだ15頁・検索18回）
+- 事業所数・社数：記載なし（読んだ15頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ15頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ15頁・検索18回）
+- 生産能力・設備：記載なし（読んだ15頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ15頁・検索18回）
+
+## 工業統計表 2018年確報 産業別統計表 全国 産業細分類の付加価値額・原材料使用額等・従業者数（鋳鋼・鋳造装置・e-Stat 政府統計コード00550010 の表・大阪市の表でなく全国・4-83・4-117）（Census of Manufacture 2018 final national detailed industry value added raw materials employees e-Stat 00550010）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「本調査を実施する前に準備調査を行い、廃業・休業、新設等の確認をし、対象の最新情報の把握に努めている」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+- 事業所数・社数：
+  - 「工業統計調査 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「工業統計調査 確報 平成30年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「工業統計調査 確報 平成30年確報 地域別 3-01 １. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額 年次 2018年 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「工業統計調査 確報 平成30年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「事業所数、従業者数、製造品出荷額等の3項目」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「1) 事業所数及び従業者数」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「全国の従業者4～9人事業所の産業細分類別（4桁分類）1事業所あたりの対前年比（※）を都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）1事業所あたりの数値（前年値）に乗じたものに、当年の都道府県別の従業者1～3人事業所の産業細分類別（4桁分類）の事業所数を乗じて算出し、産業小分類（3桁分類）、産業中分類別（2桁分類）に積み上げた値を各都道府県の推計値とし、これを積み上げて全国の数値としている」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「事業所数及び従業者数は調査年の６月１日現在」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(62KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 社員数・平均社員数：
+  - 「工業統計調査 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「従業者数合計（6－5－7＋8）［合計］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「従業者数合計（6－5－7＋8）［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「従業者数合計（6－5－7＋8）［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「1 個人業主及び無給家族従業者［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「1 個人業主及び無給家族従業者［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「2 有給役員（無給役員を除く）［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「2 有給役員（無給役員を除く）［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「3 常用雇用者［正社員・正職員］【男】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「3 常用雇用者［正社員・正職員］【女】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「4 常用雇用者［パート・アルバイトなど］【男】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「4 常用雇用者［パート・アルバイトなど］【女】（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「5 臨時雇用者［男］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「5 臨時雇用者［女］（人）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+- 受注金額・加工賃収入：
+  - 「工業統計調査 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「工業統計調査 確報 平成30年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「工業統計調査 確報 平成30年確報 地域別 3-01 １. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額 年次 2018年 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「工業統計調査 確報 平成30年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「1年間（1～12月）における製造品出荷額、加工賃収入額、その他収入額及び製造工程からでたくず及び廃物の出荷額の合計である」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「事業所数、従業者数、製造品出荷額等の3項目」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「2) 製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「※事業所あたりの対前年比 ＝ 当年4～9人の1事業所あたり製造品出荷額等 / 前年4～9人の1事業所あたり製造品出荷額等」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「製造品出荷額等の経理項目は，調査年の前年の１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 1人あたり・1社あたり金額：
+  - 「工業統計調査 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「工業統計調査 確報 平成30年確報 産業編 2-01 【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額） 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【１．産業別統計表 (産業細分類別)】（１）従業者４人以上の事業所に関する統計表（事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額及び付加価値額）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「工業統計調査 確報 平成30年確報 地域別 3-01 １. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額 年次 2018年 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「１. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「工業統計調査 確報 平成30年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(111KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 生産能力・設備：
+  - 「工業統計調査 産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「工業統計調査 確報 平成30年確報産業編 2-02 【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額 | 統計表・グラフ表示 | 政府統計の総合窓口」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「【１．産業別統計表 (産業細分類別)】(２)従業者３０人以上の事業所に関する統計表 事業所数、従業者数、現金給与総額、原材料使用額等、製品別出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「(1) 有形固定資産の取得額等には、次の区分がある」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(3) 有形固定資産の除却・売却による減少額とは、有形固定資産の売却、撤去、滅失及び同一企業に属する他の事業所への引き渡しなどの額をいう」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「(4) 有形固定資産の投資総額」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(48KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(44KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(43KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(42KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(46KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(45KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 10年推移：
+  - 「2020-01-20 11:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「有形固定資産額［建設仮勘定］【増加額】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「有形固定資産額［建設仮勘定］【減少額】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「有形固定資産額［除却・売却による減少額］【土地】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「有形固定資産額［除却・売却による減少額］【土地以外のもの】（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【0000】製造業計(2015年)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【0000】製造業計(2016年)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【0000】製造業計(2017年)」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「2020-01-20 11:00」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003389982）
+  - 「工業統計調査 確報 平成30年確報 地域別 3-01 １. 都道府県別、東京特別区・政令指定都市別統計表 （１）従業者４人以上の事業所に関する統計表 1 産業中分類別の事業所数、従業者数、現金給与総額、原材料使用額等、製造品出荷額等及び付加価値額 年次 2018年 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+  - 「2020-01-20 11:00」（https://www.e-stat.go.jp/index.php/stat-search/database?cycle=7&layout=datalist&month=0&statdisp_id=0003389992&tclass1=000001022790&tclass2=000001133147&tclass3val=0&toukei=00550010&tstat=000001022686&year=20180）
+- 人手と仕事の差：
+  - 「原材料使用額等［製造等に関連する外注費］（百万円）」（https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&result_page=1&statdisp_id=0003389983）
+  - 「原材料使用額等［製造等に関連する外注費］（百万円）」（https://www.e-stat.go.jp/dbview?sid=0003389983）
+  - 「1年間（1～12月）における原材料使用額、燃料使用額、電力使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額である」（https://www.meti.go.jp/statistics/tyo/kougyo/result-4.html）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

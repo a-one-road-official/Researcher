@@ -1,0 +1,420 @@
+{
+ "name": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
+ "en": "bad data guide false precision hand-edited data red flags journalism checklist",
+ "aliases": [
+  "データジャーナリズム データの落とし穴 点検",
+  "見せかけの精度 数字 推計 記事",
+  "Quartz bad data guide 日本語"
+ ],
+ "context": "裏取り",
+ "kind": "market",
+ "researched_at": "2026-11-09T00:55:38.307607+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/kind_clam9731/n/n0b2a64e541cb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_digico/n/n1a2f49b699cf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sysa_jp_official/n/n6ca78c37bbae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skaneko414/n/n34a0f2e08eb5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/large_shark2393/n/nf465b4482167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bridgellc/n/n4e67c30469ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mono_works/n/n219209dde034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_s1/n/ne6920a49e148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubun.co.jp/technicalsquare/42559/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minaruki.com/dx/service_solution/programming/excel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/work-efficiency/basic/10070/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saycom.jp/product/see-note",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aidaim.co.jp/customer-data-quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dx.nsw.co.jp/column/11918/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sonomamadx.com/2026/01/26/%E3%81%9D%E3%81%AE%E6%89%8B%E6%9B%B8%E3%81%8D%E7%82%B9%E6%A4%9C%E8%A1%A8%E3%80%81%E7%9B%A3%E6%9F%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%8C%E8%BB%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.souzoh-official.com/bakusoku-ai-tenken/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbec.or.jp/c/wp-content/uploads/2025/01/%E9%81%93%E8%B7%AF%E6%A9%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB77%E6%9D%A1%E8%AA%BF%E6%9F%BB_%E7%82%B9%E6%A4%9C%E7%B5%90%E6%9E%9C%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%83%BB%E7%B7%A8%E9%9B%86.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cryptiana.web.fc2.com/code/mutilation.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metal-rfid.vertexgrp.co.jp/jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xc-times.com/use_case/5259/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/electronic-maintenance-log",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moniplat.valqua.co.jp/safety-management/inspection/inspection-automation-efficiency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appsheet-apps.jp/case/appsheet-equipment-inspection-digitalization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cjr.org/analysis/first-draft-field-guide-fake-news.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） site:note.com",
+   "results": [
+    "https://note.com/kind_clam9731/n/n0b2a64e541cb",
+    "https://note.com/_digico/n/n1a2f49b699cf",
+    "https://note.com/sysa_jp_official/n/n6ca78c37bbae",
+    "https://note.com/skaneko414/n/n34a0f2e08eb5",
+    "https://note.com/large_shark2393/n/nf465b4482167",
+    "https://note.com/bridgellc/n/n4e67c30469ff",
+    "https://note.com/dw_dev_com/n/na1c7d1cf2ef1",
+    "https://note.com/noted_jacana411/n/n2b7472ede716",
+    "https://note.com/tag/%E7%95%B0%E5%B8%B8%E5%80%A4%E6%A4%9C%E5%87%BA",
+    "https://note.com/shiodome_098/n/n47588a127abd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） note",
+   "results": [
+    "https://note.com/kind_clam9731/n/n0b2a64e541cb",
+    "https://note.com/mono_works/n/n219209dde034",
+    "https://note.com/_s1/n/ne6920a49e148",
+    "https://note.com/large_shark2393/n/nf465b4482167",
+    "https://www.marubun.co.jp/technicalsquare/42559/",
+    "https://minaruki.com/dx/service_solution/programming/excel/",
+    "https://note.com/_digico/n/n1a2f49b699cf",
+    "https://biz.moneyforward.com/work-efficiency/basic/10070/",
+    "https://www.saycom.jp/product/see-note",
+    "https://note.com/note_hanbai_lab/n/nc535701695ac"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） やり方",
+   "results": [
+    "https://aidaim.co.jp/customer-data-quality/",
+    "https://dx.nsw.co.jp/column/11918/",
+    "https://www.marubun.co.jp/technicalsquare/42559/",
+    "https://sonomamadx.com/2026/01/26/%E3%81%9D%E3%81%AE%E6%89%8B%E6%9B%B8%E3%81%8D%E7%82%B9%E6%A4%9C%E8%A1%A8%E3%80%81%E7%9B%A3%E6%9F%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%8C%E8%BB%A2/",
+    "https://www.youtube.com/watch?v=EM7yiIsr0y4",
+    "https://media.souzoh-official.com/bakusoku-ai-tenken/",
+    "https://www.jbec.or.jp/c/wp-content/uploads/2025/01/%E9%81%93%E8%B7%AF%E6%A9%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB77%E6%9D%A1%E8%AA%BF%E6%9F%BB_%E7%82%B9%E6%A4%9C%E7%B5%90%E6%9E%9C%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%83%BB%E7%B7%A8%E9%9B%86.pdf",
+    "https://cryptiana.web.fc2.com/code/mutilation.htm",
+    "https://shirasusolo.net/statistics/quality-control-practice/post-9610/",
+    "https://bijicon.co.jp/blog/inspection-checklist-excel/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） 事例",
+   "results": [
+    "https://sonomamadx.com/2026/01/26/%E3%81%9D%E3%81%AE%E6%89%8B%E6%9B%B8%E3%81%8D%E7%82%B9%E6%A4%9C%E8%A1%A8%E3%80%81%E7%9B%A3%E6%9F%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%8C%E8%BB%A2/",
+    "https://metal-rfid.vertexgrp.co.jp/jirei/",
+    "https://dx.nsw.co.jp/column/11918/",
+    "https://aidaim.co.jp/customer-data-quality/",
+    "https://www.xc-times.com/use_case/5259/",
+    "https://kaminashi.jp/media/electronic-maintenance-log",
+    "https://moniplat.valqua.co.jp/safety-management/inspection/inspection-automation-efficiency/",
+    "https://appsheet-apps.jp/case/appsheet-equipment-inspection-digitalization/",
+    "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
+    "https://www.stock-app.info/media/inspection-table-templates/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "bad data guide false precision hand-edited data red flags journalism checklist",
+   "results": [
+    "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "https://github.com/Quartz/bad-data-guide",
+    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
+    "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "https://www.cjr.org/analysis/first-draft-field-guide-fake-news.php",
+    "https://unesdoc.unesco.org/ark:/48223/pf0000265552",
+    "https://library.csi.cuny.edu/misinformation/spotfakenews",
+    "https://measuringu.com/how-to-handle-bad-data/",
+    "https://americanpressinstitute.org/challenges-data-journalism/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
+   "results": [
+    "https://note.com/large_shark2393/n/nf465b4482167",
+    "https://note.com/noted_jacana411/n/n2b7472ede716",
+    "https://note.com/predictive_2602/n/n85c399f6544e",
+    "https://note.com/comix_ceo162230/n/n1671370bf325",
+    "https://note.com/constdx/n/n3e1b6ca28fe3",
+    "https://note.com/manual_meister/n/n66f85457b5ec",
+    "https://note.com/ai_love_009/n/n2f8c22cb0191",
+    "https://note.com/good_deer4202/n/n1386febfaaa0",
+    "https://note.com/gram14/n/n240207015c6a",
+    "https://note.com/ilujapan/n/n9b777c07ccbe"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
+   "results": [
+    "https://x.com/arnaudmercier/status/2114065506260947303",
+    "https://x.com/_mayumayu13/article/2064843061478539573",
+    "https://x.com/claudecode_lab/status/2105641122995609985?lang=ca",
+    "https://x.com/endoh_taichi/status/2112842609479799104",
+    "https://x.com/engineer_num1/status/2116078534691323945",
+    "https://x.com/ujigis",
+    "https://x.com/uchita_success/status/2065745668539650494",
+    "https://x.com/MakeAI_CEO/article/2102199115002372528",
+    "https://x.com/shota7180/article/2072899412892995931",
+    "https://x.com/fujikawa/status/2115937793298079996"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
+   "results": [
+    "https://jp.linkedin.com/pulse/error-proofing-digital-way-gemba-concepts-jxxbf?tl=ja",
+    "https://jp.linkedin.com/pulse/from-field-office-better-alignment-3d-scan-data-cintoo-e2ltc?tl=ja",
+    "https://jp.linkedin.com/pulse/456-billion-filing-proves-christensen-wrong-iliana-portugues-akmbe?tl=ja",
+    "https://jp.linkedin.com/pulse/value-driven-maintenance-asset-data-control-biplab-das-choudhury-ctuwc?tl=ja",
+    "https://jp.linkedin.com/pulse/most-dangerous-ai-failure-silence-fluent-wrongness-siddharth-pareek-txjvc?tl=ja",
+    "https://jp.linkedin.com/pulse/why-ai-isnt-helping-your-research-much-should-francis-tsiboe-j5xqc?tl=ja",
+    "https://www.linkedin.com/posts/genax-corp_%E7%94%9F%E6%88%90aiai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E3%81%86%E6%AE%B5%E9%9A%8E%E3%81%8B%E3%82%89ai%E3%81%AB%E6%A5%AD%E5%8B%99%E3%82%92%E4%BB%BB%E3%81%9B%E3%82%8B%E6%AE%B5%E9%9A%8E%E3%81%B8gen-ax-activity-7510528657501626368-TQRh",
+    "https://jp.linkedin.com/pulse/growth-opportunities-data-center-testing-commissioning-serverwala-8pj8c?tl=ja",
+    "https://jp.linkedin.com/in/matsu-datalyst",
+    "https://jp.linkedin.com/pulse/using-ai-update-audit-triggers-after-schema-changes-martijn-tonies-yiqne?tl=ja"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
+   "results": [
+    "https://www.facebook.com/hidenori.utsugi/posts/php%E3%81%AE%E6%AC%A0%E9%99%A5%E3%81%AF%E3%81%AA%E3%81%9C%E6%B7%B1%E5%88%BB%E3%81%AA%E3%81%AE%E3%81%8B%E3%82%B5%E3%82%A4%E3%83%88%E5%81%9C%E6%AD%A2%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%83%85%E5%A0%B1%E6%BC%8F%E6%B4%A9%E3%81%AE%E5%8D%B1%E9%99%BA%E5%85%88%E6%97%A5%E6%88%90%E7%94%B0%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9%E3%81%AE%E5%85%AC%E5%BC%8F%E8%8B%B1%E8%AA%9E%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E9%96%8B%E3%81%93%E3%81%86%E3%81%A8%E3%81%97%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8B/10244995616053411/",
+    "https://www.facebook.com/rakrakwebdatabase.sis/",
+    "https://www.facebook.com/harukilawoffice/posts/3%E9%80%B1%E9%96%93%E3%81%AE%E3%83%81%E3%83%A9%E3%82%B7%E3%81%A7%E8%AA%B2%E5%BE%B4%E9%87%911%E5%84%846703%E4%B8%87%E5%86%8610%E6%9C%8828%E6%97%A5%E6%B6%88%E8%B2%BB%E8%80%85%E5%BA%81%E3%81%8C%E6%B3%A8%E6%96%87%E4%BD%8F%E5%AE%85%E3%81%AE%E5%BB%BA%E7%AF%89%E8%AB%8B%E8%B2%A0%E3%82%92%E8%A1%8C%E3%81%864%E7%A4%BE%E3%81%AB%E8%AA%B2%E5%BE%B4%E9%87%91%E7%B4%8D%E4%BB%98%E5%91%BD%E4%BB%A4%E3%82%92%E5%87%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%90%88%E8%A8%884%E5%84%844116%E4%B8%87%E5%86%86%E5%95%8F%E9%A1%8C%E3%81%AF%E5%9C%9F%E5%9C%B0%E6%83%85%E5%A0%B1%E3%81%8C%E8%B1%8A%E5%AF%8C%E9%AB%98%E5%93%81/122123959803423042/",
+    "https://www.facebook.com/harukilawoffice/?locale=fr_CA",
+    "https://www.facebook.com/horei.kenkyukai/posts/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%AC%E3%82%A4%E3%83%89%EF%BC%91%EF%BC%91%E6%9C%88%E5%8F%B7%E6%9C%AC%E6%97%A5%E7%99%BA%E5%A3%B2-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%AC%E3%82%A4%E3%83%8911%E6%9C%88%E5%8F%B7%E3%81%8C%E6%9C%AC%E6%97%A5%E7%99%BA%E5%A3%B2%E3%81%A7%E3%81%99%E7%89%B9%E9%9B%86%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E7%89%B9%E9%9B%86%EF%BC%91-%E3%81%93%E3%81%A9%E3%82%82%E6%80%A7%E6%9A%B4%E5%8A%9B%E9%98%B2%E6%AD%A2%E6%B3%95%E6%97%A5%E6%9C%AC%E7%89%88dbs/1864277408012034/",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/groups/1485384248461022/",
+    "https://www.facebook.com/100026237294540/photos/1729562941261599/",
+    "https://www.facebook.com/pages/It%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0/987854894580882/",
+    "https://www.facebook.com/groups/261698820670566/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） note 社長",
+   "results": [
+    "https://note.com/syacyo_otasuke/n/nbf5266344f92",
+    "https://aidaim.co.jp/customer-data-quality/",
+    "https://note.com/mono_works/n/n219209dde034",
+    "https://kobesoft.co.jp/products/formia/genba/what-to-record/",
+    "https://note.com/large_shark2393/n/nf465b4482167",
+    "https://note.com/tsubasatada/n/n0fc1c28c958b",
+    "https://debono.co.jp/media/ai-usecase/lab-notebook-rule-check/",
+    "https://dx.nsw.co.jp/column/11918/",
+    "https://note.com/large_shark2393/all",
+    "https://note.com/ai_genba_log/n/ne98dcb434809"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） X 投稿",
+   "results": [
+    "https://sonomamadx.com/2026/01/26/%E3%81%9D%E3%81%AE%E6%89%8B%E6%9B%B8%E3%81%8D%E7%82%B9%E6%A4%9C%E8%A1%A8%E3%80%81%E7%9B%A3%E6%9F%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%80%8C%E8%BB%A2/",
+    "https://aidaim.co.jp/customer-data-quality/",
+    "https://dx.nsw.co.jp/column/11918/",
+    "https://www.xc-times.com/use_case/5259/",
+    "https://minaruki.com/dx/service_solution/programming/excel/",
+    "https://www.jbec.or.jp/c/wp-content/uploads/2025/01/%E9%81%93%E8%B7%AF%E6%A9%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-%E6%93%8D%E4%BD%9C%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB77%E6%9D%A1%E8%AA%BF%E6%9F%BB_%E7%82%B9%E6%A4%9C%E7%B5%90%E6%9E%9C%E3%81%AE%E8%BF%BD%E5%8A%A0%E3%83%BB%E7%B7%A8%E9%9B%86.pdf",
+    "https://s--line.co.jp/x-account-gotoukou-boushi-check/",
+    "https://tebiki.jp/genba/useful/checklist-digitalization/",
+    "https://bijicon.co.jp/blog/inspection-checklist-excel/",
+    "https://www.stock-app.info/media/inspection-table-templates/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "bad data guide false precision hand-edited data red flags journalism checklist site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/farizat-tabora_excel-data-validation-tips-to-ensure-clean-activity-7387495815373750272-S2MP",
+    "https://www.linkedin.com/posts/jspisak_swe-bench-pro-v2-activity-7508215223410024448-vpKS",
+    "https://www.linkedin.com/posts/alina-bezchotnikova_nobody-consented-to-this-where-your-interview-activity-7515685643587538944-64QU",
+    "https://www.linkedin.com/posts/sarahcuda_like-the-world-i-saw-the-elizabeth-holmes-activity-7518337809456439296-w-9k",
+    "https://www.linkedin.com/in/evanlevy",
+    "https://www.linkedin.com/in/twigton",
+    "https://www.linkedin.com/top-content/technology/digital-identity-verification-solutions/latest-verification-practices-for-social-media-professionals/",
+    "https://www.linkedin.com/in/jessica-broussard-mba-1367b2104",
+    "https://uk.linkedin.com/in/tony-xu-aa1034113",
+    "https://www.linkedin.com/in/sarahehooks"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-09T00:55:38.307607+00:00"
+}

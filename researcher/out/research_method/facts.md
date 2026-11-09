@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・266品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・268品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1345,7 +1345,7 @@
   - 「９ 調査結果の」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ また、工業統計調査においては、市区町村別結果等の詳細集計や個人経営事業所」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「ウ これに基づき、乙調査の位置づけについて検討を行った結果、①甲調査という産業」（https://www.soumu.go.jp/main_content/000744047.pdf）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
@@ -2074,21 +2074,21 @@
 ## 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）（OSINT document metadata job postings tech blog business process）
 - 文脈：企業
 - 手順・やり方：
+  - 「OSINT: Open Source Intelligence — Definition, Methods, Sources & Tools | OSINT.dev」（https://osint.dev/osint）
+  - 「This requirement-driven view is consistent with the current U.S. Intelligence Community definition, which describes OSINT as intelligence derived exclusively from publicly or commercially available information that addresses specific intelligence priorities, requirements or gaps. It also aligns with professional investigation frameworks that distinguish collection from verification and analysis.」（https://osint.dev/osint）
+  - 「OSINT can draw from many source families. The source is only one part of the assessment: access method, provenance, reliability, context and intended use matter too.」（https://osint.dev/osint）
+  - 「A tool is useful when it serves a defined step in the workflow. OSINT.dev classifies tools through the same live taxonomy used across the platform.」（https://osint.dev/osint）
+  - 「The same open-source methodology appears across security, journalism, research, due diligence and investigations; the requirement and evidentiary standard change by context.」（https://osint.dev/osint）
+  - 「Systematically collect and analyze public evidence while documenting methods, limitations and source provenance.」（https://osint.dev/osint）
+  - 「The fact that information can be reached on the open web does not remove privacy obligations, contractual restrictions, data-protection rules, evidentiary duties or risks to people involved. The applicable standard depends on the collection method, purpose, jurisdiction and context.」（https://osint.dev/osint）
+  - 「A source being technically reachable does not automatically authorize every collection method or downstream use.」（https://osint.dev/osint）
+  - 「Learn OSINT through methods, not tool lists.」（https://osint.dev/osint）
+  - 「Tool lists are useful, but training people around interfaces creates dependency. Durable OSINT education should teach questions, signal meaning, source criticism, limitations, evidence states and judgment — with tools inside the method.」（https://osint.dev/osint）
+  - 「A practical argument for staying narrow and passive as long as possible in public web research, before broader or more interaction-heavy methods start adding noise.」（https://osint.dev/osint）
+  - 「Definitions and methodology on this page are grounded first in institutional and professional sources. Vendor explainers are not used as the primary authority for the core definition.」（https://osint.dev/osint）
+  - 「Primary · professional methodology」（https://osint.dev/osint）
+  - 「A practical framework for the professional, legal and ethical collection, preservation, verification and analysis of digital open-source information.」（https://osint.dev/osint）
   - 「Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 人間の承認を制度上残しても、操縦士が見る情報の提示方法が未設計なら判断は機械の提示に従属しやすく、その入力や表示を欺瞞する攻撃は、人間の認知を標的とする認知戦の領域に重なる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 無力感を広げて投票を控えさせる言説は投票抑圧の典型だが、本件では区割り変更という目に見える抑圧が逆に動員の材料となった」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「武器は、Rapporteurが警察報道官の話としてAR-15に似た半自動小銃とし、The Guardianは要約で自動火器、別の箇所で当局の説明として軍用型の長銃と記す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 安価で否認しやすいハイブリッド攻撃の典型に当たる手口で、同じ日の件数さえ媒体ごとに割れ、帰属も調査も各国任せのまま不安だけが先に広がる構図そのものが、社会の信頼を削る効果の一部になっている」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「1月に下院多数派となる民主党の歳出担当議員は事業の停止や制限の方法を協議していると、内務環境小委員会の民主党筆頭チェリー・ピングリー議員は語った」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「記事は、在欧米軍の縮小とロシアの影響力拡大につながる大型取引に米国が傾くとのウクライナと欧州の懸念を、この発言が強めるとみる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Public Noticeの寄稿者トム・シャラーは、11月3日の中間選挙で共和党が上院、下院、州知事、州議会、郡の選挙まで広く敗れたとし、「当然の報い」を受けた敗者を8類型に分けて挙げた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Trump replaces chief of staff Susie Wiles with Stephen Miller」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「国連事務総長選のUAE候補を標的にした、自動メール送信型の反対キャンペーン」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「記事の結論はその典型で、党派色の強い媒体が象徴の意味付けを通じて評判の形成に関わる過程を示している」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「2024年型の有権者像を前提にした共和党の区割り変更の誤算」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: イランは議長がXで米有権者の意思を「反戦」として自国の主張に取り込み、最高指導者が米国の不変を説くという二つの層で発信しており、他国の選挙結果を対外的な物語と国内向けの強硬姿勢の双方に利用する典型例である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
 - 突き合わせ・推定：
   - 「Claudeのコメント: 当局提供や買収による移転を許すポリシーの下で認知状態の推定精度が上がれば、脳波の蓄積は個人の心理特性に合わせた影響工作の素材となりうる情報安全保障上の資産になる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「Claudeのコメント: 利害当事者である米国企業経営者の予測が検証されないまま欧州の政策の前提に入った経緯は、外国政府の工作でなくとも情報源の利害を問わない政策形成が外部の語りに左右されうることを示し、情報安全保障における情報源評価の重要性と重なる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
@@ -2106,21 +2106,21 @@
   - 「別の法案は、警察データを民間企業のAI訓練に渡すことや、インターネット上の生体照合をEU域外の民間業者に委託することを認める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「ニューヨーク・タイムズの推計では、うち約2億2400万ドルをテキサス州に費やしたが、同州上院選では民主党のジェームズ・タラリコ氏が13ポイント差で勝ち、同州で1988年以来の民主党の上院議席を得た」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
 - 一次情報の探し方：
+  - 「The defining characteristic is not simply that the source is open. A public webpage, company filing, image, DNS record or social post is still information until it is evaluated in relation to a question. OSINT begins to emerge when the investigator establishes provenance, checks reliability, connects evidence, tests explanations and communicates what the evidence means.」（https://osint.dev/osint）
+  - 「Company registries, court records, filings, procurement data, public notices and other official records.」（https://osint.dev/osint）
+  - 「Research corporate ownership, public filings, counterparties, sanctions exposure and material public records.」（https://osint.dev/osint）
+  - 「Primary sources and reference standards」（https://osint.dev/osint）
+  - 「Open source intelligence (OSINT) is the systematic collection and analysis of information from publicly accessible sources. These include websites, social media platforms, domain registries, corporate filings, court records, patent databases, breach databases, code repositories, and even satellite imagery.」（https://bitvea.com/en/blog/osint-for-business）
+  - 「Consider the scale. Billions of people and connected devices generate an enormous volume of new data every second: logs, metadata, records, posts, filings. Most organizations have no idea how much of their own data sits in plain sight, or how easily the pieces connect.」（https://bitvea.com/en/blog/osint-for-business）
+  - 「Technology stack profiling.」（https://bitvea.com/en/blog/osint-for-business）
+  - 「Patent and trademark filings.」（https://bitvea.com/en/blog/osint-for-business）
+  - 「Public patent applications reveal R&D directions months or years before product launches. Trademark filings hint at upcoming brand names and product lines.」（https://bitvea.com/en/blog/osint-for-business）
+  - 「using LinkedIn, press releases, and corporate filings.」（https://bitvea.com/en/blog/osint-for-business）
+  - 「Social media profiling and analysis」（https://bitvea.com/en/blog/osint-for-business）
   - 「北朝鮮によるバイナンスの暗号資産窃取と、偽の採用面接と社内AIツールを経た侵入経路」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「バイナンスのCSO、ジミー・スー氏の説明では、6月に技術者が改ざんされたHomebrewパッケージを導入し、9月には別の技術者が偽の採用面接でコーディング課題を業務端末で実行させられ、EDRを回避するゼロデイのマルウェアが入った」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「Claudeのコメント: 侵入の起点が暗号の突破ではなく偽の採用担当者という作られた人物像だった点は、影響工作で用いられる偽ペルソナの手法がサイバー侵入の初期段階に転用されている例であり、報告がイランやロシアにも同様の偽採用の手口を挙げていることから、人を介した欺瞞への対策を技術防御と一体で扱う必要を示している」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「Claudeのコメント: 地域の公的発信が途絶えた空白は国内の扇動者だけでなく外国の影響工作にも足場を与えるため、自治体の平時の情報発信はFIMI（外国からの情報操作、干渉）への抵抗力を支える基盤として位置づけるべきである」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Anthropic、Google、OpenAI、Microsoftは、robots.txt（クローラーへの指示ファイル）でAI学習の可否を伝える新たな標準の採用に合意した」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「https://www.thebureau.news/p/chinas-overseas-police-stations-only」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「主な手法は文脈の付け替え（26件）、検証できない情報源、強い感情的な枠付け、公的機関への攻撃（各25件）で、4手法で半数近くを占めた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「：競合の製品・価格・採用状況・プレスリリースなどから戦略の変化を読む」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「：取引先の公式情報・登記・IR・報道をもとに、信頼性やリスクを確認する」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「：業界ニュース・口コミ・公開統計から市場のトレンドを把握する」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「：業界の求人動向や自社の評判を、公開情報から継続的にチェックする」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「：会社概要、プレスリリース、有価証券報告書、募集要項など、企業が自ら公開している一次情報」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「：政府統計、公示情報、地図・気象などの公開データ」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「競合100社の価格、業界の求人一覧、製品レビューの束——こうした「同じ形の公開情報をまとめて集める」作業は、人手でコピー＆ペーストするには量が多すぎます」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「まずは目的（何を知りたいか）を決め、公式サイト・IR・報道などの一次情報から着手するのがおすすめです」（https://www.octoparse.jp/blog/what-is-osint）
 - 失敗・落とし穴：
   - 「武力紛争法が専門のクレイグ・マーティン氏（ウォッシュバーン大学）は、数秒で判断を迫られる場面での自動化バイアス（機械への過信）を懸念し、完全自律兵器の禁止を求める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「Claudeのコメント: 欧州の安全保障の失敗を「30年以上」の問題とする整理は、冷戦後のNATO拡大を欧州不安定の原因とするロシア側の年来の主張と重なりうる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
@@ -2138,6 +2138,8 @@
   - 「本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します」（https://cybersecurity-info.com/column/30403/）
   - 「OSINTにはいくつかの課題や注意点があります」（https://cybersecurity-info.com/column/30403/）
 - 実例：
+  - 「OSINT due diligence case study」（https://bitvea.com/en/blog/osint-for-business）
+  - 「A hedge fund example illustrates the stakes: during the 2021 GameStop short squeeze, firms tracking Reddit sentiment in real time saw the r/WallStreetBets movement building days before it hit mainstream news. The ones who incorporated social media OSINT into their analysis adjusted positions early. Those who relied on traditional market data got caught flat-footed.」（https://bitvea.com/en/blog/osint-for-business）
   - 「関税では、オーストラリア全国農業者連盟のハミッシュ・マッキンタイア会長が、政策の方向は選挙結果だけでは根本的に変わりにくいと述べた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「Claudeのコメント: 州の予算停止の示唆で変えられた市の方針が選挙結果を受けて再び転換した事例であり、移民取り締まりは州と市、党派の間の分断線として外国の影響工作にも利用されやすく、政策の揺れに乗じた言説の拡散を注視する必要がある」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「Claudeのコメント: 大規模SNSの所有者が資金と自社プラットフォーム上の発信を同時に選挙へ投じ、敗北後に投稿を消した事例であり、選挙期間中の発信記録を第三者が保全しておく必要性を示す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
@@ -2151,24 +2153,22 @@
   - 「ATAFIMIプロジェクト（ロシア発のFIMI〈外国からの情報操作と干渉〉を監視する共同事業）は、2026年7月1日から9月30日までのスペイン、ウクライナ、ジョージアなど10か国の監視結果をまとめた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています」（https://www.octoparse.jp/blog/what-is-osint）
   - 「分析結果を対象者に分かりやすく伝えるために、レポートやダッシュボードを作成します」（https://cybersecurity-info.com/column/30403/）
-  - 「Emotet感染、情報漏洩被害企業・事例一覧【2025年最新】」（https://cybersecurity-info.com/column/30403/）
-  - 「Human Risk Scoring: 12 Practical Use Cases for Prioritizing Security Action and Measuring Behavior Change」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
 - 検索結果の抜粋：
+  - 「情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT (Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク ...」（https://note.com/itta_usa/n/nd300923856e1）
+  - 「【第14章】OSINT実践編：公開情報からここまでわかるなんて…！ #初心... — Aug 11, 2025 · 🔎 第14章：OSINT実践編 こんにちは、守山しずくです🌸 今回は、誰でもアクセスできる“公開情報”を活用して、情報を収集・分析する技術「OSINT（Open Source Intelligence）」を実際に体験してみましょう！ 🌐 OSINTとは？ OSINT（...」（https://qiita.com/securitytimes/items/5c380709711cfedae0bc）
+  - 「OSINTとは？公開情報から不正アクセスや情報漏洩の兆候を探る調査手法... — Aug 6, 2025 · OSINT（オープンソースインテリジェンス）は、公開情報をもとに不正アクセスや情報漏洩の兆候を調査する技術です。本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します。」（https://cybersecurity-info.com/column/40141/）
+  - 「OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサ... — Apr 30, 2020 · Google Geminiの評判がよいので、昨今話題の”OSINT（オシント）”について聞いてみました OSINT（オシント）とは、「Open Source Intelligence（オープンソース・インテリジェンス）」の略称で、一般に公開されている情報源から情報を収集し、分析することで、特定の目的を達成するための ...」（https://aitokuconsult.com/security/20250114osint/）
+  - 「あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジ... — Dec 17, 2021 · はじめに こんにちは。事業推進部で教育研修を担当する成田です。この記事は NFLabs. アドベントカレンダー8日目です。セキュリティ研修でOSINT（Open Source Intelligence : 公開されている情報ソースから入手可能なデータを収集・分析する技術）を教えることが多いのですが、今日はOSINTのテクニック ...」（https://blog.nflabs.jp/entry/2021/12/17/094635）
+  - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · OSINT（オープンソース・インテリジェンス）は、インターネット上の公開情報を利用して情報収集・分析を行う手法です。 サイバーセキュリティから企業調査まで幅広い分野で活用されています。」（https://cybersecurity-info.com/column/30403/）
+  - 「Complete Guide to Assessing Your Company OSINT Footprint — Jul 5, 2026 · A company's OSINT footprint spans technical infrastructure, employee data, credential leaks, and executive personal information, all of which cyberattackers correlate into precise targeting profiles; Forgotten subdomains, misconfigured cloud storage, and job postings reveal infrastructure details that map directly to known vu」（https://www.adaptivesecurity.com/blog/company-osint-footprint-complete-guide）
+  - 「OSINT collection techniques using legitimate tools — Aug 6, 2026 · Open source intelligence, usually shortened to OSINT, is the practice of collecting and analysing information that is already publicly available. In a defensive context, that can include company websites, social media posts, public registers, DNS records, certificate logs, archived web pages, document metadata, and other sources th」（https://securityboulevard.com/2026/08/osint-collection-techniques-using-legitimate-tools/）
+  - 「OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · A comprehensive OSINT handbook covering investigative workflows, pivots, and operational security for digital investigations.」（https://theosintvault.io/osint-handbook）
+  - 「OSINT for Business: A Practical 2026 Guide | Bitvea — May 25, 2026 · OSINT for Business: How Open Source Intelligence Protects Your Company Learn how OSINT for business reveals hidden risks, exposes digital vulnerabilities, and strengthens due diligence. From credential leaks to competitive intelligence, here is what open source intelligence uncovers in practice.」（https://bitvea.com/en/blog/osint-for-business）
   - 「Top 15 OSINT Tools for Business Intelligence - SalesFuel — Top 15 OSINT Tools for Business Intelligence - SalesFuel SalesFuel https://salesfuel.com > open-source-in...」（https://salesfuel.com/open-source-intelligence-tools/）
   - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【20... — Sep 7, 2026 · OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説。競合調査や市場調査に役立つ公開情報の集め方と、収集を効率化するノーコード手段（Octoparse）、合法的に使うための線引きも紹介します。」（https://www.octoparse.jp/blog/what-is-osint）
   - 「OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサ... — Jul 19, 2020 · まとめ OSINTは、現代社会において非常に重要な情報収集・分析手法の一つです。 適切に活用することで、様々な分野で有益な情報を得ることができますが、情報の信憑性やプライバシーへの配慮など、注意すべき点も存在します。」（https://aitokuconsult.com/security/20250114osint/）
   - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · 本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します。 もしOSINTを行いたい場合は、すぐに専門のフォレンジック調査会社に相談しましょう。」（https://cybersecurity-info.com/column/30403/）
   - 「How to Make a Metadata Extractor Tool (For OSINT & Digital ... — Mar 13, 2026 · In this guide, you’ll learn how to make a Metadata Extractor Tool using Python. You’ll build a CLI-based tool that: All while understanding how attackers and defenders use metadata differently. What Is Metadata? Metadata literally means: “Data about data.” Examples: Even when a file looks clean, metadata can expose sen」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
-  - 「OSINT: Open Source Intelligence — Definition, Methods ... — Sep 19, 2026 · Learn what OSINT is, how Open Source Intelligence works, how information becomes intelligence, and explore OSINT methods, sources, tools and investigation workflows.」（https://osint.dev/osint）
-  - 「Top 15 Free OSINT Tools To Collect Data From Open Sources — Top 15 Free OSINT Tools To Collect Data From Open Sources Recorded Future https://www.recordedfuture.com > osi...」（https://www.recordedfuture.com/threat-intelligence-101/tools-and-technologies/osint-tools）
-  - 「ゼロ から はじめる OSINT Open Source Intelligence — ゼロ から はじめる OSINT Open Source Intelligence Contentstack PDF https://assets.contentstack.io > assets > SANS_20230...」（https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltbe45ede7e0e1f6ba/63e5348101ddee6a0d86d72f/SANS_20230119_OSINT_Ja.pdf）
-  - 「情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT(Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク分析 ...」（https://note.com/itta_usa/n/nd300923856e1）
-  - 「オープン・ソース・インテリジェンス - Wikipedia — OSINT （オシント）と略す。 アメリカ合衆国の 国家情報長官室 （英語版） （ODNI）は、2024年の戦略で、OSINTを「特定の情報上の優先事項、要求または空白に対応する、公開または商業的に利用可能な情報だけから導かれたインテリジェンス」と定義した [1]。」（https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス）
-  - 「OSINTとは？公開情報から不正アクセスや情報漏洩の兆候を探る調査手法... — Aug 6, 2025 · OSINT（オープンソースインテリジェンス）は、公開情報をもとに不正アクセスや情報漏洩の兆候を調査する技術です。 本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します。」（https://cybersecurity-info.com/column/40141/）
-  - 「【社長のためのインテリジェンス特別講義】元FBI捜査官に学ぶ、OSINT... — 著者のバゼル氏は、元FBIサイバー犯罪タスクフォースの捜査官として20年以上にわたりサイバー犯罪捜査に従事し、大ヒット海外ドラマ『Mr. Robot』の技術アドバイザーも務めた、サイバー・インテリジェンスの実戦的プロフェッショナルです。」（https://note.com/terueda/n/n5707498651c3）
-  - 「あなたの会社は大丈夫？ ～メタデータの落とし穴～ - NFLabs. エンジ... — Dec 17, 2021 · セキュリティ研修でOSINT（Open Source Intelligence : 公開されている情報ソースから入手可能なデータを収集・分析する技術）を教えることが多いのですが、今日はOSINTのテクニックの一つであるメタデータの収集について書いていきたいと思います。」（https://blog.nflabs.jp/entry/2021/12/17/094635）
-  - 「第32回：メタデータから情報を読み解く - Shikata Ga Nai — Jun 25, 2025 · 写真、文書、PDF、動画などのファイルには、作成者・日時・場所・機器情報などのメタデータが自動的に記録されています。 これらは通常、ファイルを開いても目には見えませんが、OSINT調査では重要な手がかりになります。」（https://cysec148.hatenablog.com/entry/2025/06/25/062841）
-  - 「OSINT #5: Metadata Analysis: Uncovering the Hidden Data Layer ... — Mar 5, 2025 · Uncover hidden intelligence in digital files: Master metadata analysis for OSINT investigations. Tools, case studies, and ethical practices every cyber pro needs.」（https://www.cyberquizzer.com/blog/osint-metadata-analysis）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
@@ -14959,6 +14959,93 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117）（verification handbook data quality completeness duplicates integrity check investigative）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 貿易統計のミラー分析と食い違いの元（輸入CIF・輸出FOB・計上時点・相手国の帰属・再輸出・UN IMTS の編集の手引き・World Customs Journal・日本の財務省の説明・4-117）（mirror statistics bilateral trade asymmetry CIF FOB reconciliation method Comtrade）
+- 文脈：推定
+- 手順・やり方：
+  - 「UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes」（https://lanes.info/un-comtrade-guide/）
+  - 「UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴」（https://lanes.info/un-comtrade-guide/）
+  - 「基本の検索手順——指定するのは4点だけ」（https://lanes.info/un-comtrade-guide/）
+  - 「毎回この手順を踏むのが大変なら——地図で見る選択肢」（https://lanes.info/un-comtrade-guide/）
+  - 「なお、日本の輸入に絞って相手国シェアやHHI（輸入集中度）を財務省貿易統計で調べる通し手順は、別記事「」（https://lanes.info/un-comtrade-guide/）
+  - 「単発の調査なら、本記事のComtradeの手順で十分です」（https://lanes.info/un-comtrade-guide/）
+  - 「輸入依存度の調べ方｜貿易統計とHSコードで相手国シェア・HHIを計算する3ステップ」（https://lanes.info/un-comtrade-guide/）
+  - 「IMTS Bilateral asymmetries – how to measure, analyze, reduce and way forward」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「• variations in data compilation and estimation methods, and confidentiality among other reasons.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step I. Check existence of bilateral asymmetries」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step II. Examine sources of differences」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Methods for estimating freight and insurance on imports」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「application of partner attribution may impact adjustment methodology.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「methods for estimating the difference due to a time lag should be derived.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+- 突き合わせ・推定：
+  - 「【示唆】「どこで作られたか」を知りたいときは、再輸出を除いた国産品輸出（Domestic Export）を選べるか確認するか、経由地を挟まない相手国側の輸入報告と突き合わせて読むのが安全です」（https://lanes.info/un-comtrade-guide/）
+  - 「補足すると、BACIはComtradeの生データからCIF費用を推計して取り除き、報告国の信頼性で重み付けすることで、輸出側と輸入側の食い違いを1つの値に調整した研究用データセットです（現行版は202601、HS17版は2017〜2024年を収録）」（https://lanes.info/un-comtrade-guide/）
+  - 「鏡像の突き合わせを自分でやりたくない分析には、BACIのような調整済みデータが向きます」（https://lanes.info/un-comtrade-guide/）
+  - 「HSコードを調べ、ReporterとPartnerを切り替え、鏡像を突き合わせる——一度なら数十分でも、月次のルーチンにするには重い作業です」（https://lanes.info/un-comtrade-guide/）
+  - 「データは鏡像調整済みのCEPII BACI（HS17）なので、輸出側・輸入側の報告を自分で突き合わせる必要もありません」（https://lanes.info/un-comtrade-guide/）
+  - 「differences, including undetected under and over -declaration of values, different value estimates for」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Source: UN Comtrade estimates」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate of the import value impacted by time lag $」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate as percent (%) of R total imports %」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「The m ethod to estimate time lags would depend on dominant mode of transport. In case of sea」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate of the import value in million impacted by time lag $234」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate as percent (%) of CAN total imports 0.5%」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「CIF/FOB valuation estimate –」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 1.2」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 0」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+- 一次情報の探し方：
+  - 「為替レートに関連して貿易収支が取り上げられる場合、そのデータ元は「国際収支統計」（財務省・日本銀行）」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「ただ、国際収支統計は実績値が明らかになるまで時間がかかります」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「速報性が高いのは貿易統計（財務省）における貿易収支」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「と表記されていますが、計算の考え方は国際収支統計と同じです」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「2023年３月の貿易統計の速報値は４月20日に公表されてます」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「国際収支統計の貿易収支の赤字は、貿易統計のそれより少ない」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「国際収支統計の貿易収支の赤字は、貿易統計の「貿易収支」より少ない傾向」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「下の図は、それぞれの統計の輸出額から輸入額を差し引いた貿易収支を比較したものです」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「そして、貿易統計の貿易収支から国際収支統計の貿易収支を差し引いた金額を緑色の棒グラフで示しています」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「国際収支統計の貿易収支は貿易統計の貿易収支よりも少ない傾向にあることがわかります」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「（出典）「貿易統計」（財務省）、「国際収支統計」（財務省・日本銀行）をもとに作成」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「輸入額の違いが両統計の貿易収支の違いの主因」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「なぜ国際収支統計における貿易収支の赤字幅が、貿易統計のそれより小さくなる」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「下の図は、貿易統計の輸入額と国際収支統計の輸入額を折れ線グラフで、貿易統計の輸入額から国際収支統計の輸入額を差し引いたものと、緑色の棒グラフで示しています」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「棒グラフは上向き、すなわち、貿易統計の輸入額が一貫して国際収支統計の輸入額より大きいことがわかります」（https://note.com/todobuono/n/n5d38cbc70d73）
+- 失敗・落とし穴：
+  - 「UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes」（https://lanes.info/un-comtrade-guide/）
+  - 「UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴」（https://lanes.info/un-comtrade-guide/）
+  - 「本記事では、登録からデータの落とし穴、類似データベースとの使い分けまでを一気に解説します」（https://lanes.info/un-comtrade-guide/）
+  - 「データの落とし穴3点」（https://lanes.info/un-comtrade-guide/）
+  - 「「報告国によるデータの欠落・遅延」「鏡像統計の不一致」「再輸出・経由地の扱い」の3点を押さえると、数字の読み間違いを防げます」（https://lanes.info/un-comtrade-guide/）
+  - 「注意したいのは、2023年に旧サイトから新プラットフォーム「UN Comtrade Plus」（comtradeplus.un.org）へ移行している点です」（https://lanes.info/un-comtrade-guide/）
+  - 「ベトナム側の報告とは一致しません（理由は後述の落とし穴②で説明します）」（https://lanes.info/un-comtrade-guide/）
+  - 「Recognising the challenge of adjusting trade in goods data from an overseas trade statistics (OTS) to a balance of payments (BoP) basis, we are reviewing our balance of payments adjustments and we will continue to investigate the potential of alternative reconciliation analysis such as the measurement of bias in global asymmetries.」（https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13）
+  - 「pitfalls of commonly used trade asymmetry measures and is therefore more suited for」（https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf）
+  - 「trade balance using unmirrored (one-sided) data will naturally be biased due to the structural」（https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf）
+  - 「(Farhad et al., 2023). Alternatively, compositional bias can be addressed using complex」（https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf）
+- 実例：
+  - 「例えば、みずほ銀行チーフ・マーケット・エコノミストの唐鎌大輔氏は、下記のnote(comemo）で」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「例えば、最新の2023年３月の実績値が公表されたのは2023年5月11日で１ヵ月強かかっています」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「例えば、あるモノ（財）を海外に送ると、貿易統計上は輸出とカウントされます」（https://note.com/todobuono/n/n5d38cbc70d73）
+  - 「例えば、日本がアメリカ製の人工衛星を購入し、アメリカで打ち上げるケースについては、人工衛星の所有権がアメリカから日本に移転した時点で国際収支統計の貿易収支には計上されますが、人工衛星は関税境界を越えませんので、貿易統計には計上されません」（https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html）
+  - 「結果の見方で重要なのは、表示される金額が「Reporterに選んだ国の報告値」だという点です」（https://lanes.info/un-comtrade-guide/）
+  - 「publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「inclusion of commodities (scope) . In these cases, compensating adjustments are needed if the」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「i. in the case of imports, the country of origin should be recorded,6」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「ii. in the case of exports, the country of last known destination should be recorded.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「reliable valuation of goods in all cases, especially for problem atic categories and irrespective of」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「4 For IFFs, see for example: https://www.oecd.org/corruption/Illicit_Financial_Flows_from_Developing_Countries.pdf」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「different economic meaning. For example, if the US would record imports on the country of consignment basis then all」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「From examples above, many commodities can be impacted by asymmetries whether they are primary」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「9 The case study is adapted from Statistics Canada (2018), Comparing Canada’s and China’s bilateral trade data. URL:」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Example: Trade between Canada (CAN) and China (CHN)」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

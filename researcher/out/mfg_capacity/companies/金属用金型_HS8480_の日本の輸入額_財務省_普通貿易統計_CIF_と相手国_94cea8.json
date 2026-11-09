@@ -1,0 +1,464 @@
+{
+ "name": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117）",
+ "en": "Japan imports HS 8480 moulds CIF vs partner exports to Japan FOB UN Comtrade mirror annual",
+ "aliases": [
+  "UN Comtrade 8480 Japan partner export",
+  "財務省 貿易統計 8480 輸入 国別 年",
+  "金型 輸入 中国 韓国 統計 年次"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T00:55:39.950134+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "2023年の輸入額は前年比6.6％増の21.0億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "グラフで見る! 成形用の型(鋳型ベース)の輸入動向 HS848020 輸入額の推移 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "1. 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の輸入額は前年比6.6％増の21.0億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続の増加",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 輸入相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "1 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "2024-04-05",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.customs.go.jp/toukei/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/tradestats/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtrade.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hunade.com/kanagata-yunyu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://comtradeplus.un.org/en/trade-statistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wits.worldbank.org/wits/wits/witshelp/content/data_retrieval/T/Intro/B2.Imports_Exports_and_Mirror.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://downloads.unido.org/ot/10/07/10079519/WP19.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://globaledge.msu.edu/countries/japan/tradestats",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uncomtrade.org/docs/trade-valuation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 人手不足 受注 断る",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://note.com/dotm2025/n/nc4f055ff7fc2",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 受注残 人手不足",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 人手不足 損失 億円",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117）",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://hunade.com/kanagata-yunyu",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 推移",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 統計 PDF",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 従業者規模別",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://hunade.com/kanagata-yunyu",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 1人当たり 万円",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://hunade.com/kanagata-yunyu",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） 2015 2025",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan imports HS 8480 moulds CIF vs partner exports to Japan FOB UN Comtrade mirror annual Japan statistics",
+   "results": [
+    "https://comtradeplus.un.org/TradeFlow",
+    "https://wits.worldbank.org/wits/wits/witshelp/content/data_retrieval/T/Intro/B2.Imports_Exports_and_Mirror.htm",
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://downloads.unido.org/ot/10/07/10079519/WP19.pdf",
+    "https://globaledge.msu.edu/countries/japan/tradestats",
+    "https://uncomtrade.org/docs/trade-valuation/",
+    "https://repository.unescap.org/server/api/core/bitstreams/9509dee3-0ff8-4080-a1ff-1c49081a0dfb/content",
+    "https://www.bloominglobal.com/trade-database-detail/japan-statistics",
+    "https://www.trade.gov/country-commercial-guides/japan-market-overview",
+    "https://comtradeplus.un.org/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117）",
+   "results": [
+    "https://note.com/prime_ixia2156/n/n99d9a2373f4f",
+    "https://note.com/yukunews/n/nefa70e944c18",
+    "https://note.com/hiroshi_chan/n/n6782fa28f298",
+    "https://note.com/ogawa_tech/n/n0f19a4b0acc0",
+    "https://note.com/nihonkabu_/n/nc789d6d48733",
+    "https://note.com/dotm2025/n/n4214be79d98a",
+    "https://note.com/engawa_koushi/n/nc835437a1504"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2116472358009725097",
+    "https://jf.x.com/images/media-preview/2104775828399964489",
+    "https://x.com/MOF_Japan",
+    "https://x.com/amc_corporation/status/2100046858630652143",
+    "https://x.com/MOF_Japan/status/2100082202742767890",
+    "https://x.com/MOF_Japan/status/2046799023903027556",
+    "https://x.com/MOF_Japan/status/2067066304167870927"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117）",
+   "results": [
+    "https://jp.linkedin.com/in/satorushibata",
+    "https://jp.linkedin.com/posts/takuroumi_日本のエネルギー輸入額の推移を財務省貿易統計のデータを元に可視化するtakuroumi-activity-7411420171216510976-AaEC",
+    "https://www.linkedin.com/posts/hiroyuki-takanashi-95185712a_cif-osakaで中国等から来る生機キバタや染色済みテキスタイルを通関含めて-activity-6422681315178577920-bmxc",
+    "https://about.linkedin.com/ja-jp",
+    "https://hk.linkedin.com/jobs",
+    "https://www.linkedin.com/company/golatch-ai",
+    "https://in.linkedin.com/in/nooha-sajeev-5761232b4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117）",
+   "results": [
+    "https://www.facebook.com/MOF.Japan/",
+    "https://www.facebook.com/lnews.jp/posts/財務省3月上旬分の貿易統計輸出137増輸入140増財務省が3月27日に公表した3月上旬分の貿易統計速報によると輸出額は3兆2975億9800万円前年同月比137/1360988969390736/",
+    "https://www.facebook.com/hokurikuzai/",
+    "https://www.facebook.com/nikkei/posts/個人輸入品の税優遇廃止へ-財務省中国からの低価格品流入で対策httpswwwnikkeicomarticledgxzqoua22cc70s5a021c20000/1357826409022091/",
+    "https://www.facebook.com/USAGJapan/",
+    "https://www.facebook.com/hisashi.toba/videos/日本の税収伸びてる国は減税するしない令和7年度決算額概数税収-一般会計-財務省-減税-増税財務省が発表した令和7年度一般会計税収の予算額と決算額概数を見ると日本/1551307626548807/",
+    "https://www.facebook.com/Japan.Customs/photos/貿易統計横浜税関は２０２６年２月分横浜港の貿易速報等を発表しました２０２６年２月分について横浜港の輸出額は7666億円対前年同月比37増となり１３か月連続の増加/1342456167917896/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） note 社長",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額（財務省 普通貿易統計・CIF）と相手国が報告した日本向け輸出額（UN Comtrade・FOB）の年次の突き合わせ（ミラー・中国・韓国・タイ・4-117） X 投稿",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://jtrade.info/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan imports HS 8480 moulds CIF vs partner exports to Japan FOB UN Comtrade mirror annual site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/fob-vs-cif-which-better-import-shipment-muhammad-shadab-7tync",
+    "https://pe.linkedin.com/advice/1/how-do-you-avoid-confusion-between-fob",
+    "https://www.linkedin.com/pulse/fob-vs-cif-how-international-buyers-should-choose-right-安-振-ayfyc",
+    "https://www.linkedin.com/posts/srijus-nair_understanding-fob-and-cif-pricing-in-import-activity-7334282608563875840-rYi-",
+    "https://www.linkedin.com/pulse/fob-vs-cif-what-should-international-buyers-choose-practical-majji-zk9gf",
+    "https://www.linkedin.com/pulse/incoterms-cif-vs-fob-sea-consulting",
+    "https://www.linkedin.com/pulse/fob-vs-cif-exw-which-incoterm-better-importers-aatish-sawant-m3quc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ15頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ15頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ15頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ15頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ15頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ15頁・検索18回）"
+ }
+}
