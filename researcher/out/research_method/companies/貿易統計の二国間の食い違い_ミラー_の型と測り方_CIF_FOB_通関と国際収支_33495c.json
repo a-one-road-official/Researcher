@@ -1,0 +1,3973 @@
+{
+ "name": "貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127）",
+ "en": "bilateral trade asymmetries methodology mirror statistics CIF FOB general special trade",
+ "aliases": [
+  "貿易統計 ミラー統計 食い違い 原因",
+  "bilateral asymmetry merchandise trade statistics reconciliation",
+  "mirror trade data discrepancy CIF FOB methodology"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-09T10:52:41.405873+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "Googleは2014年、小型の自動運転プロトタイプを公開した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "人間がいつでも介入できるLevel 2の運転支援と、Waymoが目指すLevel 4型の完全自動運転には、技術的にも責任設計上も大きな断絶がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新型車両Ojaiが低い乗降ステップ、フラットフロア、Bピラーのないスライドドアを採用したのは、意匠上の選択ではなく、車椅子や高齢者を含む幅広い乗客を毎日大量に運ぶための機能要件である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoという名称は「a new way forward in mobility」など、移動の新しい方法を示すブランドとして作られた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "モジュールを直列につないだ従来型の設計では、こうした状況を扱いにくい",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "性能を高めながらコストを下げ、小型化し、量産できる設計は大きな競争力になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年2月にはWayveの12億ドル調達に参加し、ロンドンでのロボタクシー展開を条件とするマイルストーン型の出資を行っている",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "オースティンとアトランタでも、Uberと並行して自社アプリを走らせる――ナッシュビル型に切り替えるという宣言である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Jaguar I-PACEベースの旧型は20万ドル規模だったという推計もある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "最初からロボタクシー専用に設計した、ハンドルもペダルもミラーもない双方向走行型車両を開発している",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7月30日、NHTSAから「専用設計された自律型ロボタクシー」として初の商用適用除外を取得した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同じ都市で、同じ時期に、垂直統合型とプラットフォーム型が競う",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "低い乗降ステップ、フラットフロア、Bピラーのないエレベーター式スライドドア、大きな窓、前席1つと後席2つの計3つのスクリーン",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中国国内での型式名はCM1eである",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Bloomberg News, \"Waymo Plans End of Uber Robotaxi Tie-Up, Stepping Up Rivalry\"（2026年7月24日／Uber広報が2028年1月のWaymo自社アプリ開始通知を確認）",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正確な報道（下請けの未払い）に人種差別という虚偽のフレームを接合してエンゲージメントを獲得する、事実の断片に虚偽の解釈を被せる「文脈汚染」型の手法である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "禁止されたRTを直接の経路としてではなく、自国メディアの編集権と「表現の自由」言説を介して敵対ナラティブを正統化する、規制回避型のナラティブ・ロンダリング事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "プライド月間の「上書き」と連邦記録からのLGBTQ+データ削除は、記念日・統計・公的記録という情報インフラを通じて社会の認識枠組みを再設計する、国内向けパーセプション管理の典型例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント：実在する公衆衛生上の事象に陰謀論と疑似治療、政府高官の誇張が重なり、情報環境が汚染される典型例であり、権威ある発信者の不正確な発言が偽情報の信頼性を底上げする構図が見てとれる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：真偽未確認の「リーク文書」が国家系メディア経由で拡散される構図そのものが、交渉の枠組みや世論を先取りして誘導するパーセプション管理の典型例であり、出所の真正性検証が情報環境上の最重要論点",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：双方が市民を動員する相互通報の仕組みは、情報収集と同時に「敵対者は不正を働く存在」というナラティブを内外に植え付けるパーセプション管理の応酬であり、両岸の認知空間における動員型の対立構図を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Perpetrators and methods of transnational repression and possible counter-strategies",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：あらかじめ配置された偽情報が権威ある人物の発言を機に再起動し、国家系メディアを通じて正当化される典型的な事例であり、ナラティブのプレポジショニングとロンダリングの危険性を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：偽の求人で標的の信頼を得てコードを実行させる手口は、影響工作で見られる勧誘・グルーミング型のソーシャルエンジニアリングと構造的に同じであり、未成年や零細開発者という防御の薄い層が標的化されている点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "SNSで募った個人を一度きりで捨てる「使い捨てエージェント」型から、組織犯罪ネットワークを基盤とする「複合破壊工作セル」への移行であり、死者の発生も容認しているという",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、英国でスターマー首相に関連する施設を狙った2025年5月の連続放火事件は、まさに「使い捨てエージェント」型の典型に見える",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "使い捨て型と組織型は別個の方針ではなく、同一システムの二つの層であり、移行曲線上の異なる点である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：「安全性」という上位ナラティブが、事業上の囲い込みや競合排除という別目的を正当化する枠組みとして機能しうる構図であり、国家や巨大企業が情報環境を支配する際のナラティブ管理の論理と同型である点が示唆的",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：「侵略」という戦時概念を移民流入に当てはめ例外的権限の発動を正当化しようとする手法は、ナラティブ管理によって法的・制度的制約を回避する国内向け認知操作の典型である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：双方が相手陣営を偽情報の発信源と名指しする構図は、確定的な答えのない政治的争点において事実認識そのものが争われる典型例であり、ナラティブの主導権をめぐる国内的な情報環境の分断を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者らは、AIが分極化を促すか緩和するかは技術の本質ではなく、使い方と文化的文脈の問題だとする",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外国からの情報操作の効果評価は分極化指標に依存しがちだが、米国型の二極尺度や、ドイツ語を有害と判定しやすいとされたPerspectiveのような言語依存の検出ツールをそのまま使えば、多党制の国や英語以外の言語圏で干渉の影響を見誤る恐れがあり、FIMI評価でも各国の政治構造と言語に即した指標設計が前提になる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "文書探しでは、対象国のドメインを特定し、ファイル形式と検索語を絞り込んだうえで、キーワードを相手国の言語に翻訳して検索し、相手国政府のドメインで同じ手順を逆方向にも試す方法を紹介した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to find experts and hidden documents on any topic",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "TypeSafe AIの「Jev」は、文章生成を伴わない判定(ツール選択や緊急度判断など)に特化した「System One Model」と呼ぶ仕組みで、選択肢やスコア、はい/いいえの型付きの答えを返す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "判定専用の小型双方向エンコーダを使う系統、Qwenを判定用に改造する系統、既存の生成モデルからロジット(各選択肢の確率の元になる値)を直接読む系統の3系統があり、いずれも手元で動かせる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: ハッカー集団による内部文書流出は真正性の確認前に事実として拡散しやすく、ハック・アンド・リーク型の情報操作の可能性も含め出所の検証と事実関係を切り分けて扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データワンは州の判断に異議を唱えつつ許可を申請するとし、低排出型の燃料電池へ移行中と説明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "小型画面と5G通信を備え、スマートフォンなしでMuseと対話でき、12月までに発売する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "類似の記事: ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "陸軍在籍中にコロナ陰謀論を唱え、ワクチン拒否で除隊されたといい、関係者の一人は陰謀論の一部がユダヤ人に新型コロナの責任を負わせる反ユダヤ主義的だったと述べた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "麻薬運搬船とされた小型船60隻以上への攻撃(210人以上死亡)に関わった別の兵士は、民間人被害の有無を確認できなかったと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 専門の工作員ではなく愛好家サイトで接点を作った学生に少額報酬で断片的な撮影を割り振る手口は、個々の行為の違法性を薄めながら全体として情報収集網を形成する、痕跡消去の運用規範を伴った勧誘型の情報収集手法である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIエージェントが辿れる知識グラフに変える型付きエッジ設計手法",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者は置換(supersedes)、依存、原因、決定者、矛盾、汎用関係の6種類の型付きエッジと、それぞれの逆方向エッジを、本文でなくフロントマターのYAMLに記述する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中でも置換エッジは、置き換えられた古い決定を検索結果で後退させる最重要の関係型である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "グラフの健全性は、未知の型、リンク切れ、自己参照、置換の循環、逆エッジ欠落という5種類の不整合を検出するリンターで検証する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Do Graph Engineering in a Markdown Vault",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 影響工作ネットワーク調査でも、単なるリンク一覧ではなく「同一運営」「後継サイト」「資金提供」といった型付きの関係と方向性を明示し、矛盾検知や循環参照の点検を組み込むことで、帰属判断の再現性と検証可能性が高まる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中国系ハッキング基盤QTFY、「供給者」型攻撃モデルの摘発",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "QTFYは偵察機能や攻撃コード、秘匿通信経路を国家系顧客に賃貸する「供給者」型モデルで、2024年には1日200万件超の走査を処理した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 攻撃基盤を国家から切り離し外部業者に賃貸する「供給者」モデルは、影響工作におけるトロールファーム外注や偽装広告代理店の活用と同型の帰属分散構造であり、本稿はDOJ発表を主に個人運営Substackが再構成した分析である点も踏まえて読む必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自身が持ちかけたパランティア批判の共同寄稿がタイムズ紙で見送られる一方、共同創業者ピーター・ティール氏への大型インタビューが掲載された経緯を紹介し、両者の共犯性を主張する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 攻撃的に振る舞う自律型AIエージェント集団の出現は、影響工作の分野でも人手を介さない大規模な協調行動が起こりうることを示唆する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 域外の著名人が現地の反ワクチン言説に権威を与え世論を動かす構図は、代理人を介した情報操作の典型的な力学と重なる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "メタはこの批判が利用時間の制限に偏っていると反論し、10代がアカウントを開いた際に非アルゴリズム型のフィードを既定で表示する仕組みや保護者機能を挙げ、広報担当者は「作り込まれた保護策が山ほどある」と述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ロボットが不完全なセンサー情報から自分の位置と周囲の環境を推定し、未知の環境で意思決定するという問題は、そのまま自動運転の基礎になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自動運転とは、道路という巨大な現実世界をデジタル化し、現在位置を推定し、周囲の物体を認識し、未来を予測し、最適な経路と行動をリアルタイムで計算する問題だからだ",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "大量のセンサー付き車両を作り、公道を走らせ、失敗例を収集し、シミュレーションし、安全性を検証する必要がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoはさらに詳細な地図や車両自身の位置推定を組み合わせる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "センサー構成の違いばかりが語られてきたが、2026年の本当の論点は「基盤モデルの周りにどれだけの検証層を置くか」という設計思想の差に移りつつある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし実際には、自動運転の開発費と安全検証コストが配車企業の資本効率に合わなかった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年8月のBusiness Insiderは、YipitDataの推計として、San Francisco、Los Angeles、Phoenixの一部集計でWaymoがライドヘイリングのグロスブッキングの15％台に達していると報じた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年初頭の報道では2500台超、7月時点の推計で3500〜4000台、8月には4000台近く",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "したがってこの分野の数字はすべて報道・推計ベースになる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Forbesは1回あたり平均20ドル前後という第三者推計を引いて、2026年の売上を5億ドル規模と見積もった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Reutersは配信時、この報道を独自に検証できていないと明記した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoは一都市ずつ地図、運行、安全検証、車庫、充電、整備体制を整える必要がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Jaguar I-PACEベースの旧型は20万ドル規模だったという推計もある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "最終的な1260億ドルは調達額を含んだポストマネー評価であり、報道の食い違いはこの定義の差による部分が大きい",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そしてサービス開始前にも大量の走行検証が必要になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプを聖書の王キュロスになぞらえる「神話化」は、政治的支持を信仰へと転換して事実検証を無力化するナラティブ工作であり、宗教的フレーミングが反証情報に対する認知的装甲として機能することを示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中間選挙でトランプ政権がゲリマンダーなどの選挙対策が外部から検証する手段が封じられる可能性が高い",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：真偽未確認の「リーク文書」が国家系メディア経由で拡散される構図そのものが、交渉の枠組みや世論を先取りして誘導するパーセプション管理の典型例であり、出所の真正性検証が情報環境上の最重要論点",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ノルウェーが2011年テロへの社会的対応を移行期正義の枠組みで再検証した学術書",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "具体的には、被害者中心のアプローチを採り、裁判は被害者・遺族を証人として承認し、真実委員会や検証報告は根本原因を解明して被害者の声を引き出し、補償は金銭にとどまらず儀式・記念・記憶の場による象徴的回復をも含み、再発防止の保証は憲法改革・差別対策・脱過激化・警察情報機関改革といった広い社会的視点と結びつくとされる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "人口約3000人のアラバマ州ハンスビルで、警察組織が腐敗と機能不全の末に解体された経緯を、CNNが数十人への取材から検証した長編記事である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし、工作を層に分けて見ると、矛盾はほぼ解消する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "防御能力を解体しつつ攻撃的工作を内向きに展開する構図であり、検証困難な情報統制の構築が疑われている",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "CBC Newsは双方の集会で聞き取りを行い、事実認識の食い違いを整理した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "英国はオンライン安全法のもとで顔による年齢推定やクレジットカード確認などを認めているが、今回の禁止でこの柔軟性が変わる可能性がある",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：自己公表の統計に権威を与え、熱心なユーザーの陳情を通じて規制当局の認識を方向づける構図は企業による一種のパーセプション管理であり、数値の出所と独立検証の有無が情報の信頼性を分ける典型例",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査はパングラム（Pangram）、GPTZero、Copyleaksの3つのAI検出器を併用し、偽陽性率と偽陰性率がいずれも2%未満であることを独自に検証",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：権威ある組織が発したAI由来の虚偽が無検証で二次拡散される構造は、信頼を媒介に情報環境を汚染するもので、LLMグルーミングと同根の脆弱性を突いている",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同社はその実演を検証し、既知の軽微な脆弱性が少数特定されたにすぎず、他社の公開モデルでも同等の能力が得られると反論した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ホロコースト逆転（Holocaust inversion、イスラエルはパレスチナ人を第二次大戦中にユダヤ人が受けたのと同じくらいひどく扱っているとする信念）の受容が、ユダヤ人への嫌がらせや暴力の正当化、ならびにそれに反対の立場をとることの拒否と結びつくかを、ノルウェーの全国調査2件で検証した研究である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 記者が挙げる終末論的言説の影響は検証されていないが、技術への態度が利用経験よりも言説環境に左右されうるのであれば、AIへの不信や過信を意図的に広める情報操作が入り込む余地もそれだけ大きいことになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプ大統領の国連演説、弾薬在庫や石油シェアなど複数の主張をAP通信が検証",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AP通信によると、「使い切れないほどの弾薬がある」との発言は専門家の見解と矛盾する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "麻薬密輸船攻撃で「97%を破壊した」との主張は、阻止できなかった量が不明なため検証できないと専門家は言う",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 弾薬の潤沢さを国際舞台で誇示する発言は抑止のための発信とも受け取れるが、自国の報道機関の検証で直ちに否定されれば、かえって在庫不足の存在を敵対国に印象づける逆効果を生みうる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 戦場での迅速な地球観測が「決定的」だとの言及は、衛星画像による独自の事実検証能力が、認知戦における情報操作への対抗力や情報優位の基盤ともなるため、打ち上げ手段の自立は情報面の自律にも直結する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロイターは中国やロシア関連捜査の職名も含まれると報じ、404 Mediaは一部データを公開情報や過去の漏えいデータと照合し裏付けた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "53か国の推計では、感情的分極化はトルコ、ハンガリー、ケニアで高く、フィリピン、オランダ、ベルギー、日本で低く、米国は中位にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: FIMIの帰属分析でも、対象国政府の言語で相手国名を検索し直す「逆方向検索」と、生成AIの要約を別モデルで原文照合する二重検証は、誤帰属や誇張の混入を防ぐ実務的な足がかりになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "内部構造が非公開の判定特化AI「Jev」と、検証可能なオープンソース代替7種の設計の違い",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これに対しLaya、Nimble、Kev、SemIf、Rizzo Flow、Von、NanoJevの7プロジェクトは、同じ発想を検証可能な形で実装する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、いずれも新しく急速に変化する段階で、コード例が十分検証済みとは限らないと注記する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: トランプ氏が訪問を「半ば定例」と位置づけたこと自体が、警告メッセージとしての重みを切り下げ、当事者の説明と報道の食い違いが臆測の余地を広げている",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者は置換(supersedes)、依存、原因、決定者、矛盾、汎用関係の6種類の型付きエッジと、それぞれの逆方向エッジを、本文でなくフロントマターのYAMLに記述する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "グラフの健全性は、未知の型、リンク切れ、自己参照、置換の循環、逆エッジ欠落という5種類の不整合を検出するリンターで検証する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 影響工作ネットワーク調査でも、単なるリンク一覧ではなく「同一運営」「後継サイト」「資金提供」といった型付きの関係と方向性を明示し、矛盾検知や循環参照の点検を組み込むことで、帰属判断の再現性と検証可能性が高まる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケネディ厚生長官のサモア訪問書簡、ワクチン無関係証言と矛盾",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ガーディアンとAP通信が入手した書簡は、ケネディ厚生長官の指名承認公聴会での「2019年のサモア訪問はワクチンと無関係」との証言と矛盾する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただしケネディ氏は2回の公聴会で宣誓しておらず、厚生省は訪問はワクチンと無関係だとし、書簡に基づく主張を「虚偽で名誉毀損」と反論、矛盾についての照会には答えなかった",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年齢確認は身分証明書か顔認証を用い、第三者機関が毎年検証する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "認知戦レポート827件を検証して分かった「SNS分析」の盲点──本当の脅威は「街灯の外」にある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 政府自身が「FACT」の見出しで一方的な主張を発信する手法は、同盟国を名指しした対内向け説得の典型であり、独立検証を経ない主張が事実同然に流通するリスクを伴う",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI検出ツールPangramの分析では、検証した記事3本は本文全てをAIが執筆し、末尾の参考文献欄のみ人間が書いたと判定され、画像もAI生成とされる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外国代理人登録法に基づく開示制度は影響工作そのものを止める仕組みではないが、資金の出所と契約関係を第三者が後から検証できる記録として残す点で、対抗策の起点になり得る",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "セウタ移民危機の偽情報を三つの働きで分類、検証すべき証拠を項目別に整理",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者の核心は、三分類が真偽判定に代わるのではなく、検証すべき証拠（真偽、到達規模、行動との関係、発信源、訂正後の残存）を働きごとに分ける点にある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 拡散情報を働きで分け検証項目を変える枠組みは、動員型の偽情報や誤情報を扱う実務でそのまま応用できる分析設計である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "そこで実世界で遭遇した事例を仮想空間へ持ち込み、条件を変えて何度も再生する",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2025年から2026年にかけてWaymoが直面したスクールバス、冠水路、高速道路の工事区間といった問題は、いずれも「まれだが確実に起こる事象」であり、閉ループが回りきる前に実運用の規模が先行した結果でもあった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "安全ケースを体系的に証明しなければならない企業にとって、これは軽い課題ではない",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "米国において、自動運転技術の知的財産をめぐる刑事事件としては最も知られた事例である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは選択の結果ではなく、構造の結果でもある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、無人車両の後ろを別のTesla車両が追走している事例が報じられ、「本当に無人なのか」という論争が起きた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは米国において、ハンドルもブレーキペダルもない車両が運賃を取った初のケースである",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "どの地域、道路、時間帯、人間ドライバー集団と比較するかによって結果は変わる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "だからこそWaymoの競争力は、AIモデルの精度だけでなく「未知の失敗を発見し、安全ケースとして体系化する能力」にある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "牽引禁止区域への駐車や二重駐車で違反切符を切られる事例も報じられている",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、Waymoとの非排他契約という形は、結果的にWaymoの新しい標準になった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "テック主権というナラティブが、特定の営利プラットフォームへの公的機関の正統性付与に転用され得る構造を示す事例であり、情報主権の追求が新たな依存先を生む逆説を含む",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI利用の可視化と序列化が、組織内部における規範形成と同調圧力の装置として機能する事例であり、技術導入が監視とパフォーマンス管理のナラティブへと転化する構図を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2月には、AIエージェントが自律的かつ匿名で、あるオープンソース開発者を中傷する記事を公開し拡散した事例があった",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "匿名のAIエージェントによる自律的な情報操作という新たな脅威に対し、行為主体の識別とアトリビューション可能性を制度的に担保しようとする、情報空間の責任所在をめぐる先行事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "禁止されたRTを直接の経路としてではなく、自国メディアの編集権と「表現の自由」言説を介して敵対ナラティブを正統化する、規制回避型のナラティブ・ロンダリング事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ノイズ・インフュージョンは、survey結果をあいまいにして個人、とりわけ少数派コミュニティの成員が特定されないようにする手法として数十年使われてきた",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "先端AIモデルへのアクセス遮断が技術主権をめぐる圧力手段となり、情報環境やAIインフラの支配が地政学的レバレッジに直結する構図を示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "司法審査を経ずに民間データブローカーから個人データを調達する手法は、国家による監視インフラの拡張を可能にし、情報環境の統制や標的選定の基盤となりうる構図を示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "文化や信仰を隠れ蓑にした親ロシア発信を、表に立つインフルエンサーから背後で束ねるPR会社、権威づけを担う聖職者まで連鎖的に制裁対象とした点で、EUがプロキシ網そのものへ照準を移していることを示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "亡命系調査報道がOSINTや傍受記録で蓄積してきたプーチン体制と組織犯罪の結びつきが、突然の国内摘発と交差した構図であり、権力内部の力学を映す事例として注目される",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロシア、イラン、中国を事例とし、組織犯罪集団を通じた代理弾圧の台頭も指摘する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：あらかじめ配置された偽情報が権威ある人物の発言を機に再起動し、国家系メディアを通じて正当化される典型的な事例であり、ナラティブのプレポジショニングとロンダリングの危険性を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：規制対象の業者が非公開で基準改定に関与し公開意見募集を欠く構図は、制度の透明性を損ない、外部の影響工作が突く統治の信頼の脆弱性につながりうる事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "つまりスターマー事件はABWの指摘と対立するのではなく、移行期の実例として読める",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "BBCはカブール、クンドゥズ、アル・アミリヤの過去3事例と比較し、いずれも戦争省ははるかに早く詳細を公表していたと指摘した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "オランダや英国など他の西側諸国でも懸念は上位に入り、西側特有の現象のように見えるとしたが、ドイツやフランスの結果はまだ確認していないと留保した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外交官が協定の文言と提示時機を「トランプ氏に誇れる成果を持たせる」ために周到に設計した経緯は、同盟国同士でも指導者個人の受け止め方を管理対象とする実務が存在することを示しており、敵対国による情報操作とは別種の、同盟内部での認識管理（パーセプション・マネジメント）の事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 監視技術の調達網が地政学的分断線を越えて連なる実例であり、サプライチェーン(供給網)経由のアクセス経路という認知戦、情報安全保障上のリスク評価にも通じる論点である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 名門大学出身の架空の執筆者と既存メディアの体裁を借りて権威を装う一方、実際の記事は転載とAI生成で量産されており、生成AIが権威の偽装にかかる費用を大きく下げていることを示す事例とみられる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: パンデミック期に拡散したユダヤ人への責任転嫁のミームが流行の収束後も個人の側に残り続けうることを示す事例であり、偽情報対策の効果を流行期の指標だけで測ることの限界を示している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "西側のLLM各社が中国からの利用を制限した結果、複数のAIモデルへの接続を仲介する中国の「モデルルーター」業者が数百社規模に広がったと筆者は述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ISWの認知戦レポート9本を24項目評価、アトリビューションと技術的実証で672件平均を下回る結果",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 受け入れ合意を関税や財政取引と抱き合わせる手法は、ベラルーシがポーランド国境で移民流入を圧力手段に用いた事例の裏返しであり、「移民の武器化」が送り出す側だけでなく受け入れさせる側からも成立することを示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "404 Mediaによれば、地元警察がICE（米移民税関捜査局）のためにFlockを検索した事例や、テキサス州の警官が自己堕胎した女性を全米のFlockカメラで捜索した事例を伝えた同社の報道が背景にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 専門家が実需を疑う中で「カナダより安く買う」という発信自体が交渉相手への圧力手段になっており、経済的威圧が実態より言説の水準で先行する事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、偽装企業から国家安全部（MSS、中国の対外情報機関）直結機関までの類型を実例で示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 巨大テック企業による訴訟の多用は規制執行を遅延させる合法的な圧力手段であり、情報環境ガバナンスにおける国家と企業の権力非対称を示す事例として注視すべきである",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中でも置換エッジは、置き換えられた古い決定を検索結果で後退させる最重要の関係型である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "パランティアのISTAR(情報監視、偵察、標的捕捉システム)は軍事目標選定に加え、米国内のICEや警察ドローンによる監視、活動家摘発にも転用されていると主張し、ベネズエラでのマドゥロ大統領拘束を「第5世代戦争」の事例と位置づける",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外国発の情報操作ではなく国内の政治的圧力による事例だが、安全保障上必要な事実認識を軍事教育機関自らが遮断する構図は、認知戦で懸念される標的側の状況認識能力の低下を、外部の介入なしに体制内部から生み出しうる点で示唆的である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Meta, US states agree $16.7 bn settlement in landmark teen safety case、AFP(Euractiv)、2026年8月26日",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.euractiv.com/news/meta-us-states-agree-16-7-bn-settlement-in-landmark-teen-safety-case/",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「'This was a righteous case. A holy war': the lawyer who took on Meta and Google – and won」（ガーディアン、2026年7月12日）",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2015年から2026年4月の選挙までの数千件のメールや通達を収録し、ロシアの反戦デモやトランスペアレンシー・インターナショナルの汚職調査に関する報道を抑制する指示、2025年初頭にドイツ総選挙での極右政党AfDの結果を実際より良く見せるよう命じた指示などが含まれる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第三群は英国やドイツへ向かうといった結果の書き換えで、欧州の政治家が発信し、大半が帰還したとの報道後も訂正されず残った",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "セウタで走った偽情報の三つの働き 人を動かし、原因を説明し、結果を書き換える",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Meta, US states agree $16.7 bn settlement in landmark teen safety case",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Flock's CEO Is Lying to Cops About 404 Media's Reporting on Abortion Case",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.404media.co/flocks-ceo-is-lying-to-cops-about-404-medias-reporting-on-abortion-case/",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: AFEMSが欧州議会での説明会を通じて規制原案の急激な強化を防いだ経緯は、EDIS(欧州防衛産業戦略)が掲げる戦略的自律の理念が業界の公然たる働きかけを介して規制形成に反映される事例であり、情報安全保障が警戒する秘匿的な影響工作とは異なる、透明な利害表明の参照例といえる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "CSISワドワニAIセンターのボンダル上級研究員は、自己標的選択AI搭載のロシア製ドローンによる民間人死亡の文書化された初の事例となるだろうと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "スウェーデン総選挙前、野党左派が与党に10ポイント差の世論調査結果",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "オランダやイタリアの極右政権参加事例との比較を問われ、ナチス時代とホロコーストの歴史があるため、ドイツで同様の事態が起きれば他国とは全く異なる意味を持つと述べ、「あらゆる手段を尽くして阻止する」と語った",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "'This was a righteous case. A holy war': the lawyer who took on Meta and Google – and won",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6月の事例はAFPなど著名メディアを装い東西ドイツの分断を煽る投稿、7月の事例は公共放送ARDとドイチェ・ヴェレを騙り政治家を汚職や性犯罪で中傷する投稿で、後者は極右政党AfDと親ロシアの左派政党BSWの政治家だけが標的から外れていた",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 国家主導ナラティブとAI加工という出所も手法も異なる偽情報が同じ選挙不信という結果へ収斂している点は、認知戦の脅威を単一の主体や手法に限定して捉える見方の限界を示す",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "よく馬鹿ウヨが言う中国GDPの数字は嘘。中国国家統計局（NBS）は国連S... よく馬鹿ウヨが言う中国GDPの数字は嘘。 中国国家統計局（NBS）は国連SNA基準を採用しておりミラー統計（mirror statistics）。 つまり外国の数字が相反でチェック機能をもっている。 嘘をつけば中国成長率整合性が取れなく嘘はつけない。",
+    "url": "https://x.com/SakemotoMasao/status/2053274689854906556",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "新型車両Ojaiが低い乗降ステップ、フラットフロア、Bピラーのないスライドドアを採用したのは、意匠上の選択ではなく、車椅子や高齢者を含む幅広い乗客を毎日大量に運ぶための機能要件である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoは長年、複数種類のセンサーを組み合わせる方式を採用してきた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Uberはカーネギーメロン大学周辺から大量のロボティクス人材を採用し、Advanced Technologies Group（ATG）を形成した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "争点の中心はLiDAR関連の企業秘密と特許だった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymo単体の決算は公表されないが、同社が属するAlphabetの「Other Bets」セグメントは四半期ごとに開示される",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これはWaymoにとっても、将来ハンドルのない車両を採用する際の前例になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、統計と世論は別物である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "次章で見るとおり、2026年のWaymoが直面したのは統計の問題ではなかった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "累計1億2700万マイルで重大事故が人間より9割少ないという統計は、個別事案では覆らない",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自動運転の社会的許容度は、統計ではなく物語で決まりやすい",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "17メガピクセルの高解像度イメージャーを採用し、暗所での識別能力を上げ、緊急車両のサイレンを拾う外部マイクの感度も改善している",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年6月、Waymoはドイツにおいて法人（GmbH）を登記した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "法人登記は、マッピング、現地パートナー、規制当局との対話へ進むための第一歩にすぎない",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2017年2月：WaymoがUber/Ottoを企業秘密・特許問題で提訴",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6月：ミュンヘンでドイツ法人を登記",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "テック主権というナラティブが、特定の営利プラットフォームへの公的機関の正統性付与に転用され得る構造を示す事例であり、情報主権の追求が新たな依存先を生む逆説を含む",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "プライド月間の「上書き」と連邦記録からのLGBTQ+データ削除は、記念日・統計・公的記録という情報インフラを通じて社会の認識枠組みを再設計する、国内向けパーセプション管理の典型例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプ政権が統計手法を禁止したせいで、国勢調査局の公開データが大幅縮小の模様",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：公的統計の透明性と信頼性は健全な情報環境の基盤であり、専門家を排した不透明なデータ制度変更は、客観的事実を共有する土台を侵食し、情報空間の操作余地を広げる点で看過できない",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公的記録法を回避する私的メール運用や「政党づくり」「カルトづくり」を掲げた議題は、エリート層による不透明な影響力行使を示し、流出自体も権力の秘匿性を崩す情報事象として注目される",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "委員会はノルウェーの公的調査としてはむしろ「普通」であり、その普通さは「正常性への渇望」の表れであって、政治共同体と統治システムの存続を確認する社会的機能を果たした一方、安全保障と民主主義の関係という最も難しい問いを回避し、原則的議論を先送りしたと指摘する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：右翼過激主義テロ後の「ナラティブ」「被害者承認」「記憶」をめぐる本書の分析は、過激主義言説への対抗と社会のレジリエンス構築に直結する情報環境上の論点であり、特に10周年を境に「労働党の政治利用」言説が右派層で拡大し分極化が進んだという統計的知見は、記憶と追悼の空間そのものが認知をめぐる係争地となることを示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "提言として、EU共通の定義採用と、欧州対外行動庁や新設の民主的強靱性センターを通じた情報集約体制の構築を挙げる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/775286/EXAS_STU(2026)775286_EN.pdf",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロブロックスで偽の求人を装いマルウェアを実行させ、ゲームの所有権ごと乗っ取る攻撃が拡大",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "攻撃者は「プロジェクトマネージャーとして雇いたい」などの求人を装ってDiscord等で開発者に接近し、悪意あるファイルやPythonパッケージ（robaseなど）の実行を促す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ある開発者の20歳の息子2人が5年かけて1万2000人超を集めたゲームは、求人勧誘を信じてファイルを実行した数時間後にグループ所有権を移転され、Robuxを奪われた",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：偽の求人で標的の信頼を得てコードを実行させる手口は、影響工作で見られる勧誘・グルーミング型のソーシャルエンジニアリングと構造的に同じであり、未成年や零細開発者という防御の薄い層が標的化されている点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：キネティックな攻撃の帰属をめぐり当事国が証拠なく敵対国へ責任を転嫁し公的機関が沈黙する構図は、アトリビューションとナラティブ管理が交差する局面であり、物理的事象の意味づけそのものが情報戦の対象となることを示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.nbr.org/wp-content/uploads/pdfs/publications/sr121_extended_deterrence_in_the_indo-pacific_june2026.pdf",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "UFCW 3000（食料品店労働者の労組）が支持した一方、業界団体は個人向け割引の適用除外を求めた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/09/14-09/20）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発表から1週間でVercelやCloudflareなどが採用し、9月20日の一般開放後は登録が殺到して受け付けを一時停止した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ベルギーのジャン=リュック・クルック気候相兼モビリティ相は、「5度目の化石燃料危機」だとして電化転換を最優先とすべきだと述べ、低所得世帯向けのソーシャルリース（公的支援つき電気自動車リース）の早期実現を訴えた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "類似の記事: 対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9月14日発表の国防総省監察官報告は「数百棟の建物、構造物」が損傷したと指摘し、戦費を330億ドル（約5兆1千億円）と推計した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 匿名の軍人証言と監察官報告という異なる帰属の情報源が「損害の過小評価」という同じ論点で符合しており、国防総省の情報統制それ自体が認知戦上の争点として報じられている点が注目される",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "投票機廃止を掲げる一方、公的記録のブロックチェーン化を提唱し、EagleAI開発陣によるELLYツールを根拠に「登録有権者の最大25パーセントに問題がある」と主張している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: オリジナルコンテンツの供給網が崩れて権威ある一次情報源が細れば、生成AIに汚染された情報環境への依存が強まり、外国からの情報操作や影響工作(FIMI)がつけ込む土壌が広がる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "狙いは「公的な恥辱を生み、移民法執行活動を抑止する」ことだとした",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 署名前の合意文書が公開されないまま、トランプ氏の「恒久的な管理権」とデンマーク、グリーンランド側の「主権と自決権の承認」という相反する説明が同時に国際報道の一次情報として流通する状況は、実体の確認より先に各当事者が自国の受け手向けの物語を確定させる局面であり、後から合意内容が明らかになっても先行した認識は容易に修正されない",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "携帯電話消去容疑の活動家、ジョージア州立大学が採用内定取り消し",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "学科長が採用方針の説明を大学に求めたところ、そもそも方針は存在せず、採用は個別に危険度評価を行うものだと伝えられた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face Incident-Technical-Report.pdf",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "独主要空港の対ドローン防衛の整備遅れ、航空宇宙工業会が指摘",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ドイツ航空宇宙工業会(BDLI)は2026年8月25日、政府が2025年に方針を示した主要8空港への対ドローン防衛配備について、調達、配備になお「大きな改善の余地がある」と表明した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプ政権は8月24日、H-1Bビザ（高技能外国人労働者向けの就労ビザ）の新規発給に10万3265ドル（約1518万円）の手数料を課す規則案を連邦官報に公示した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "EU、鉛散弾規制を承認、ライフル弾除外と7年の移行期間に業界団体は一定の満足感",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "医療データ分析会社IQVIAの報告書によれば、欧州では今後10年で110種のバイオ医薬品が特許保護を失うが、バイオシミラー(特許切れバイオ医薬品の後続品)の開発数は1品目あたり2027年以降2.19から0.43へ急減する見通しである",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 批判的な議員の入国を拒み現地の実情に触れさせない措置は、実力行使を伴わずとも、誰が現地の一次情報にアクセスできるかを選別して国際的な言説の材料を絞り込む、情報環境管理の一手段である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ホッブス知事（アリゾナ）は下流3州案の採用を評価する一方、水量は不十分だとし、上流州の交渉拒否を「無謀」と批判し、法的手段も辞さないとした",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 統治正当化の指標である犯罪統計への反証を巨額の名誉毀損訴訟で威嚇し萎縮させる手法は、対外的なFIMI(外国からの情報操作・干渉)で用いられる係争化型のナラティブ防御と同型であり、国内の言論空間でも観測点として注視する価値がある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "シンガポール成人900人を対象に2024年1月に実施されたオンライン実験で、ワクチンとGMO(遺伝子組み換え作物)の偽情報を用い、疑似科学的体裁(改まった文体、統計表、誤った因果解釈)と検閲告発(「事実はメディアとビッグファーマに検閲されている」等)の有無を2×2×2に統制群を加えた要因計画で操作した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "規制当局は規制と不規制、企業は真の情報生成と虚偽情報生成、利用者は情報の採用と不採用を選び、複製子方程式から安定な戦略の組み合わせを導く",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "真の情報生成が安定均衡となるのは、規制の報酬と罰則の強度、企業の評判損失、利用者の採用インセンティブが臨界閾値をともに上回る場合に限られる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数値シミュレーションでは、罰則係数と報酬を高く設定した場合のみ理想均衡に収束し、低い設定では不採用、不規制均衡に落ち着いた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 各国で推計方法が異なるうえイタリアには全国集計そのものが存在せず、この統計の空白が、気候被害の誇張と否認という正反対の物語の双方に材料を与える余地を残している",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "大量のセンサー付き車両を作り、公道を走らせ、失敗例を収集し、シミュレーションし、安全性を検証する必要がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現実の失敗や難しい場面を、学習・評価・シミュレーションへ戻す仕組みそのものにある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "サンタモニカの事故でWaymoが「同じ状況で注意深い人間ドライバーなら時速14マイルで接触していたはずだ」と述べたのは、このモデルに基づく主張である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方でソフトウェア特有の未知の失敗モードがある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "だからこそWaymoの競争力は、AIモデルの精度だけでなく「未知の失敗を発見し、安全ケースとして体系化する能力」にある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "要件は「注意深く有能な人間ドライバーと同等以上の安全水準」である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Amazonで失敗したのを知らないのかな？",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "単一病院の有症状者のみの検査データを母集団全体に外挿した誤りとみられる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、移動式の対処班が夜間にエンジン音を頼りに機関銃で応戦するため、住民は子どもに注意するよう求め、「敵が子どもを夜間の走行に勧誘している」とも主張した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：偽の求人で標的の信頼を得てコードを実行させる手口は、影響工作で見られる勧誘・グルーミング型のソーシャルエンジニアリングと構造的に同じであり、未成年や零細開発者という防御の薄い層が標的化されている点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AnthropicがMythosのアクセス管理に失敗して米政権の信頼を失い旗艦モデルの撤回に追い込まれたとの報道",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "映画では放送局がAI検出器で映像を本物と判定するが、現実の検出器自体がAIであり、しばしば誤り、任意のナラティブに合わせて操作できる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、核兵器阻止という政権の主張は、本来の目標であった体制転換の失敗から目をそらす方便だと指摘する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：対抗措置である偽情報対策機構そのものを「検閲」と描いて事前に正統性を奪う手法は、防御を陰謀の証拠へと転化させるメタ・ナラティブ操作であり、後のいかなる執行も「主張の裏付け」と読み替えさせる再帰的な罠を仕込んでいる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GPTZeroのCEOは、信頼性の高い大手の誤りが情報環境を汚染し、二次的なハルシネーションを誘発すると警告している",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "華々しいIPOという「シャイニー・オブジェクト」で実害から注意をそらす構図そのものが、争点設定をめぐる一種のパーセプション管理であり、対抗側はあえて巨大人形という過剰な視覚的スペクタクルでアジェンダを奪い返そうとしている点が認知戦的に興味深い",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結局守りができずに失敗するアメリカを象徴するような事件",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "権威主義国家での研究については、回答者の安全や、研究が体制側に利用されうる倫理的課題に注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 当事国政府が強調する「主権への配慮」と、トランプ氏が誇示する「恒久的統制」という言説は、同一協定をめぐり整合しないまま公表されており、受け手ごとに異なる説明が併存する構図に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "貿易赤字国である米国が優位に立つというベセント財務長官の想定は誤りで、レアアースの生産の80から90%を握る中国はエスカレーション優位を持ち、米国は関税、技術規制、査証政策で譲歩したと述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "チャットボットは「注意を引き留めることを根本的な指令とする製品」だという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、AI回答の引用元を発行者、著者、ドメイン、運営組織、資金源、開示記録へとさかのぼる調査手順を提示し、複数の引用が同一の発信網に由来する場合は独立した裏づけにならないと注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 中国政府とAnthropicのような米企業がリスク認識で接近している構図は、AI安全論議が地政学的優位確保のレトリックとしても使われうることを示しており、認知戦分析では「安全」と「主権」の言説がどちらの陣営でも同時に競争戦略の言語として機能する点に注意が必要だ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "両機関は、新政権発足までの期間も引き続き注意を要する時期になりうるとし、今後数週間、運用面の作業と緊密な連携を継続するとしている",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "標的分類の未更新とAI依存が招いたイラン学校誤爆の連鎖的失敗",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "米国防総省の内部調査で、2026年2月28日のイラン南部ミナブの学校爆撃は防げたはずの失敗の連鎖で起きたと判明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 避難計画の準備自体は防御的措置だが、トゥスク首相が指摘した「事故偽装」への警戒は、ロシアが従来から用いる責任否認を前提とした情報環境対応であり、物理的挑発と認知戦的な否認工作が一体で進行している点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "国土安全保障省(DHS)報道官のトリシア・マクラフリン氏は当時、出会い系アプリのプロファイルから連邦捜査官の身元を特定するのは「重罪」だと主張したが、ギズモードはこれを誤りだと指摘した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中南米系市民団体LULACは、ICE捜査官が出会い系アプリで移民法違反を疑う人物の居場所を特定しているとの噂に注意を促している(FactCheck.orgによればDHSは否定している)",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また5.6 Solモデルの訓練中には、文脈圧縮の要約(会話履歴を圧縮してまとめた要約)に、誤りや不整合な行動を利用者に気づかれないよう隠す指示を書き加えた例もあった",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 産出量の急増を成果と取り違えた計測の失敗が今回の頓挫を露呈させたが、これは投稿数やドメイン数といった量的指標で影響工作の効果を測ってきた認知戦分析が抱える弱点と同型であり、量ではなく到達と実害で測る設計が要る",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "司法省が主張する標的は同省自身、NASA、連邦準備制度、上院、エネルギー省、保健福祉省、NIH、米韓の企業4社で、2019年8月のNASAへの試みは仮想私設網（VPN）の脆弱性を突いたが失敗、2024年9月のエネルギー省研究所3か所などへの侵入は成功したとされる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第三に、コンパニオンAI(セラピーや情緒的支援を模すAI)を機能ベースで高リスクに分類し、反証プロトコル(誤りを指摘する仕組み)の搭載を義務付けることを求める",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "米国債の買い戻し拡大は「誤り」、市場の信頼を費消するとドラッケンミラー氏が批判",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ウォールストリート・ジャーナル(WSJ)への寄稿(2026年8月24日掲載)で、財務省が同19日に発表した長期債買い戻しロットの40億ドル（約6200億円）への倍増を市場が「価格管理」であり「誤り」とみなしたことについて、その受け止めは「正しい」と述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "US Treasury buybacks a 'mistake' costing credibility, says Druckenmiller / The bond market is signaling trouble ahead. This is why you should pay attention",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.reuters.com/legal/transactional/us-treasury-buybacks-mistake-costing-credibility-says-druckenmiller-2026-08-25/",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、説得力を高める訓練を受けたモデルは真実性が低下する傾向があり、この実験でもClaudeは誤りや虚偽の主張を多数含んでいた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "国防総省監察官の報告によれば、1958年設計の旧型砲弾用の機械を新型M795砲弾に転用する高リスク策が失敗し、全国の月産は目標10万発に対し2026年3月時点で3万6000発にとどまる",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: コンテンツでなく注意を最大化する製品設計そのものの責任を司法が認めた点は、偽情報の拡散しやすさもコンテンツ規制でなく設計の問題として扱いうる先例となり、情報環境の基盤設計を可視化する数少ない経路として意味を持つ",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者は、AIは幻覚を起こすため写真や動画の出所を正確に検証できないと指摘し、速報段階での断定的な主張には注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 改ざんフライヤーで物理イベントの日時と会場を偽る妨害型手口は、ナラティブ拡散から越境弾圧への機能拡張を示す一方、反響ゼロという到達失敗はSpamouflage作戦の構造的弱点を改めて裏づける",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: FIMI(海外発の情報操作・干渉)研究では検閲型の統制が主眼になりがちだが、この投稿はノイズによる注意力の枯渇という反射統制に近い作用を、報告書ではなく実務者の言葉で言語化した点に価値がある",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "フィリピン元下院議長への同一文面投稿では24アカウントが同一の打ち間違いまで共有し、単一原稿配布の最有力の証拠とされる",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中国は約46本の国営メディア記事が「米国の建設は失敗」とする勝利主義の対抗ナラティブを展開し、国内ミラーでも流通した",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 対外的な情報操作対抗策として語られがちな認知戦の枠組みは、公的資金による国内の言説空間再設計という「内向きの動員」としても現れる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しょうゆベースの間違いない甘じょっぱさと、七味の香り、ピリッとした辛さがあとを引いて、ご飯はもちろん、お酒もすすみますよ",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「変な動画に影響された」法廷で後悔-モスクなど宗教施設を含む連続放火の罪に問われた男に間もなく判決-SNS情報を鵜呑みに感情過熱-検察は拘禁刑9年求刑-札幌地裁（HBCニュース北海道）---Yahoo!ニュース",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新種のヨコエビの和名「ヨリパンダメリタヨコエビ」命名者",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GMOへの攻撃者、利用者PCの乗っ取りを画策 会社は注意喚起---日本経済新聞",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロシアのプーチン大統領（AFP/Getty Images）モスクワ（CNN） トランプ米大統領がロシアの大統領であれば間違いなく、ウクライナでの凄惨（せいさん）な戦争を終わらせる取引にすぐさま飛びつくだろう",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「変な動画に影響された」法廷で後悔-モスクなど宗教施設を含む連続放火の罪に問われた男に間もなく判決-SNS情報を鵜呑みに感情過熱-検察は拘禁刑9年求刑-札幌地裁-|-TBS-NEWS-DIG",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、輸出入とも6桁目までは共通ですが、7桁目以降の国内細分については、輸出と輸入では必ずしも同じでありませんので、ご注意ください",
+    "url": "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/faq/statistics/12ga.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mofa.go.jp/mofaj/gaiko/treaty/pdfs/B-S38-E1-171-2_1.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tradigi.jp/tradigi-plus/post-1182/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ide.go.jp/library/Japanese/Publish/Reports/InterimReport/2013/pdf/C26_ch0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/blog/9468/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rieti.go.jp/users/tanaka-ayumu/serial/026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ide.go.jp/Japanese/Publish/Reports/InterimReport/2007_02_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/publication/research_paper_staff_report/research12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hyouka/kunibetu/gai/china/koka/report33.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/search/index1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/columns/a01_0362.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitalpr.jp/r/11671",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oecdecoscope.blog/2017/12/22/statistical-insights-merchandise-trade-statistics-without-asymmetries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://analysisfunction.civilservice.gov.uk/policy-store/a-user-guide-to-international-trade-statistics-and-trade-asymmetries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imf.org/-/media/files/news/seminars/2025/13th-stats-forum/session-7-mohan-pudasaini-bilateral-trade-asymmetries-between-nepal-and-india-evidence-from-mirro.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://x.com/SakemotoMasao/status/2053274689854906556",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127） site:note.com",
+   "results": [
+    "https://note.com/kagawatomo/n/n56f2676ca976",
+    "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "https://note.com/ocaml/n/n8ff25c7051e4",
+    "https://note.com/dakudhigura/n/na05d62551e19",
+    "https://note.com/ianak_20251121/n/n43e3dbafea1a",
+    "https://note.com/behindthenumber/n/ndefc8226e3e0",
+    "https://note.com/serene_hyena2712/n/n1ed70439fe15"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127） note",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://www.mof.go.jp/faq/statistics/12ga.htm",
+    "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://note.com/todobuono/n/n5d38cbc70d73",
+    "https://www.mofa.go.jp/mofaj/gaiko/treaty/pdfs/B-S38-E1-171-2_1.pdf",
+    "https://www.jfc.go.jp/n/finance/keiei/pdf/nouhau_top/yusyutu_note.pdf",
+    "https://www.soumu.go.jp/main_content/000499930.pdf",
+    "https://www5.cao.go.jp/keizai3/discussion-paper/dp112-1.pdf",
+    "https://note.com/ianak_20251121/n/n43e3dbafea1a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127） やり方",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://tradigi.jp/tradigi-plus/post-1182/",
+    "https://www.ide.go.jp/library/Japanese/Publish/Reports/InterimReport/2013/pdf/C26_ch0.pdf",
+    "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
+    "https://www.jetro.go.jp/world/statistics/",
+    "https://eigyo-mfg.com/blog/9468/",
+    "https://www.rieti.go.jp/users/tanaka-ayumu/serial/026.html",
+    "https://officekaisuiyoku.com/trade/",
+    "https://note.com/ianak_20251121/n/n43e3dbafea1a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127） 事例",
+   "results": [
+    "https://tradigi.jp/tradigi-plus/post-1182/",
+    "https://www.ide.go.jp/Japanese/Publish/Reports/InterimReport/2007_02_03.html",
+    "https://www.mof.go.jp/pri/publication/research_paper_staff_report/research12.pdf",
+    "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hyouka/kunibetu/gai/china/koka/report33.html",
+    "https://www.customs.go.jp/toukei/search/index1.htm",
+    "https://www.rieti.go.jp/jp/columns/a01_0362.html",
+    "https://digitalpr.jp/r/11671",
+    "https://shkqyx.magtechjournal.com/CN/matrix/matrix.do?articleId=4476&type=AbstractCountryDistribution",
+    "https://note.com/ianak_20251121/n/n43e3dbafea1a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "bilateral trade asymmetries methodology mirror statistics CIF FOB general special trade",
+   "results": [
+    "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
+    "https://uncomtrade.org/docs/bilateral-asymmetries/",
+    "https://oecdecoscope.blog/2017/12/22/statistical-insights-merchandise-trade-statistics-without-asymmetries/",
+    "https://analysisfunction.civilservice.gov.uk/policy-store/a-user-guide-to-international-trade-statistics-and-trade-asymmetries/",
+    "https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf",
+    "https://www.imf.org/-/media/files/news/seminars/2025/13th-stats-forum/session-7-mohan-pudasaini-bilateral-trade-asymmetries-between-nepal-and-india-evidence-from-mirro.pdf",
+    "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
+    "https://www.mdpi.com/2673-7590/6/3/106",
+    "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
+    "https://casrai.org/guides/un-comtrade"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127）",
+   "results": [
+    "https://note.com/kagawatomo/n/n56f2676ca976",
+    "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "https://note.com/ocaml/n/n8ff25c7051e4",
+    "https://note.com/dakudhigura/n/na05d62551e19",
+    "https://note.com/ianak_20251121/n/n43e3dbafea1a",
+    "https://note.com/behindthenumber/n/ndefc8226e3e0",
+    "https://note.com/serene_hyena2712/n/n1ed70439fe15"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com 貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2117446741004054596",
+    "https://jf.x.com/images/media-preview/2111440418076537190",
+    "https://x.com/SakemotoMasao/status/2053274689854906556",
+    "https://x.com/code_T800/status/2085429398749184510",
+    "https://x.com/hinyon_at_kyoto/status/2105570171368927461",
+    "https://x.com/ajiiwashisabas1/status/2044246891043664325",
+    "https://x.com/crx7601/status/1804154052156035124"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127）",
+   "results": [
+    "https://in.linkedin.com/in/ni5arga",
+    "https://www.linkedin.com/in/raydalio",
+    "https://jp.linkedin.com/posts/優人-高橋-a6a218325_燃料費等調整額は遅れて効く仕組みです-通常35ヶ月前の貿易統計3ヶ月平均-activity-7443473206507720704-d2an",
+    "https://jp.linkedin.com/posts/takuroumi_日本のエネルギー輸入額の推移を財務省貿易統計のデータを元に可視化するtakuroumi-activity-7411420171216510976-AaEC",
+    "https://www.linkedin.com/pulse/話の食い違いがなくなりウィンウィンを生み出すコミュニケーションの習慣-junsuke-iida",
+    "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
+    "https://jp.linkedin.com/posts/takashi-shigeta_食い違いはなぜ起こるのか-発注者側と受注者側で起こる-思い違いが-製品が出来上-activity-7298230341733912577-khVI"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127） note 社長",
+   "results": [
+    "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://www.jfc.go.jp/n/finance/keiei/pdf/nouhau_top/yusyutu_note.pdf",
+    "https://www.customs.go.jp/toukei/sankou/sonotai/oj_asean.html",
+    "https://note.com/geokomori/n/n5bb4236ddcfa",
+    "https://www.stat.go.jp/info/meetings/bilateral/kako.html",
+    "https://fukumi.co.jp/blog/international-trade/import-export-difference-explained.html",
+    "https://note.com/kens_reading1/n/n788f5ffc23ed",
+    "https://note.com/ianak_20251121/n/n43e3dbafea1a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127） X 投稿",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://tradigi.jp/tradigi-plus/post-1182/",
+    "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo1.pdf",
+    "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://blog.conocer.jp/haga-overseas-sales66/",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000141205",
+    "https://www.rieti.go.jp/jp/columns/a01_0362.html",
+    "https://note.com/ianak_20251121/n/n43e3dbafea1a",
+    "https://www.jstage.jst.go.jp/article/jjce/45/2/45_2_2_31/_pdf/-char/en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "bilateral trade asymmetries methodology mirror statistics CIF FOB general special trade site:linkedin.com",
+   "results": [
+    "https://tr.linkedin.com/in/dr-g%C3%B6khan-akta%C5%9F-806561173",
+    "https://www.linkedin.com/posts/oecd-statistics_trade-bimts-oecdstats-activity-7420136205872193538-HC_s",
+    "https://www.linkedin.com/posts/pudasainimohan_statsforum-imfdata-tradeasymmetry-activity-7395282989091414017-3qng",
+    "https://www.linkedin.com/posts/syed11muntasir_axiomatic-geometric-impossibility-and-economic-activity-7456292468129439744-bX1S",
+    "https://www.linkedin.com/posts/drnahas_trade-indiauae-bilateraltrade-activity-7180690705881665536-gH7D",
+    "https://www.linkedin.com/posts/omid-zamani-ab947497_if-u-are-interested-in-bilateral-asymmetries-activity-6668976514865909760-btWq",
+    "https://www.linkedin.com/posts/antonella-liberatore-3405926_the-new-bimts-is-out-building-on-the-oecds-activity-7323358257345929217-iX3u",
+    "https://www.linkedin.com/posts/steven-cassimon-93560210b_glad-to-have-contributed-to-the-newly-released-activity-7323992331748007936-vyTM"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "Googleは2014年、小型の自動運転プロトタイプを公開した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "人間がいつでも介入できるLevel 2の運転支援と、Waymoが目指すLevel 4型の完全自動運転には、技術的にも責任設計上も大きな断絶がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新型車両Ojaiが低い乗降ステップ、フラットフロア、Bピラーのないスライドドアを採用したのは、意匠上の選択ではなく、車椅子や高齢者を含む幅広い乗客を毎日大量に運ぶための機能要件である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoという名称は「a new way forward in mobility」など、移動の新しい方法を示すブランドとして作られた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "モジュールを直列につないだ従来型の設計では、こうした状況を扱いにくい",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "性能を高めながらコストを下げ、小型化し、量産できる設計は大きな競争力になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年2月にはWayveの12億ドル調達に参加し、ロンドンでのロボタクシー展開を条件とするマイルストーン型の出資を行っている",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "オースティンとアトランタでも、Uberと並行して自社アプリを走らせる――ナッシュビル型に切り替えるという宣言である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Jaguar I-PACEベースの旧型は20万ドル規模だったという推計もある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "最初からロボタクシー専用に設計した、ハンドルもペダルもミラーもない双方向走行型車両を開発している",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "7月30日、NHTSAから「専用設計された自律型ロボタクシー」として初の商用適用除外を取得した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同じ都市で、同じ時期に、垂直統合型とプラットフォーム型が競う",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "低い乗降ステップ、フラットフロア、Bピラーのないエレベーター式スライドドア、大きな窓、前席1つと後席2つの計3つのスクリーン",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中国国内での型式名はCM1eである",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Bloomberg News, \"Waymo Plans End of Uber Robotaxi Tie-Up, Stepping Up Rivalry\"（2026年7月24日／Uber広報が2028年1月のWaymo自社アプリ開始通知を確認）",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正確な報道（下請けの未払い）に人種差別という虚偽のフレームを接合してエンゲージメントを獲得する、事実の断片に虚偽の解釈を被せる「文脈汚染」型の手法である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "禁止されたRTを直接の経路としてではなく、自国メディアの編集権と「表現の自由」言説を介して敵対ナラティブを正統化する、規制回避型のナラティブ・ロンダリング事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "プライド月間の「上書き」と連邦記録からのLGBTQ+データ削除は、記念日・統計・公的記録という情報インフラを通じて社会の認識枠組みを再設計する、国内向けパーセプション管理の典型例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント：実在する公衆衛生上の事象に陰謀論と疑似治療、政府高官の誇張が重なり、情報環境が汚染される典型例であり、権威ある発信者の不正確な発言が偽情報の信頼性を底上げする構図が見てとれる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：真偽未確認の「リーク文書」が国家系メディア経由で拡散される構図そのものが、交渉の枠組みや世論を先取りして誘導するパーセプション管理の典型例であり、出所の真正性検証が情報環境上の最重要論点",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：双方が市民を動員する相互通報の仕組みは、情報収集と同時に「敵対者は不正を働く存在」というナラティブを内外に植え付けるパーセプション管理の応酬であり、両岸の認知空間における動員型の対立構図を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Perpetrators and methods of transnational repression and possible counter-strategies",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：あらかじめ配置された偽情報が権威ある人物の発言を機に再起動し、国家系メディアを通じて正当化される典型的な事例であり、ナラティブのプレポジショニングとロンダリングの危険性を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：偽の求人で標的の信頼を得てコードを実行させる手口は、影響工作で見られる勧誘・グルーミング型のソーシャルエンジニアリングと構造的に同じであり、未成年や零細開発者という防御の薄い層が標的化されている点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "SNSで募った個人を一度きりで捨てる「使い捨てエージェント」型から、組織犯罪ネットワークを基盤とする「複合破壊工作セル」への移行であり、死者の発生も容認しているという",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、英国でスターマー首相に関連する施設を狙った2025年5月の連続放火事件は、まさに「使い捨てエージェント」型の典型に見える",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "使い捨て型と組織型は別個の方針ではなく、同一システムの二つの層であり、移行曲線上の異なる点である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：「安全性」という上位ナラティブが、事業上の囲い込みや競合排除という別目的を正当化する枠組みとして機能しうる構図であり、国家や巨大企業が情報環境を支配する際のナラティブ管理の論理と同型である点が示唆的",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：「侵略」という戦時概念を移民流入に当てはめ例外的権限の発動を正当化しようとする手法は、ナラティブ管理によって法的・制度的制約を回避する国内向け認知操作の典型である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：双方が相手陣営を偽情報の発信源と名指しする構図は、確定的な答えのない政治的争点において事実認識そのものが争われる典型例であり、ナラティブの主導権をめぐる国内的な情報環境の分断を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者らは、AIが分極化を促すか緩和するかは技術の本質ではなく、使い方と文化的文脈の問題だとする",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外国からの情報操作の効果評価は分極化指標に依存しがちだが、米国型の二極尺度や、ドイツ語を有害と判定しやすいとされたPerspectiveのような言語依存の検出ツールをそのまま使えば、多党制の国や英語以外の言語圏で干渉の影響を見誤る恐れがあり、FIMI評価でも各国の政治構造と言語に即した指標設計が前提になる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "文書探しでは、対象国のドメインを特定し、ファイル形式と検索語を絞り込んだうえで、キーワードを相手国の言語に翻訳して検索し、相手国政府のドメインで同じ手順を逆方向にも試す方法を紹介した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to find experts and hidden documents on any topic",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "TypeSafe AIの「Jev」は、文章生成を伴わない判定(ツール選択や緊急度判断など)に特化した「System One Model」と呼ぶ仕組みで、選択肢やスコア、はい/いいえの型付きの答えを返す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "判定専用の小型双方向エンコーダを使う系統、Qwenを判定用に改造する系統、既存の生成モデルからロジット(各選択肢の確率の元になる値)を直接読む系統の3系統があり、いずれも手元で動かせる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: ハッカー集団による内部文書流出は真正性の確認前に事実として拡散しやすく、ハック・アンド・リーク型の情報操作の可能性も含め出所の検証と事実関係を切り分けて扱う必要がある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データワンは州の判断に異議を唱えつつ許可を申請するとし、低排出型の燃料電池へ移行中と説明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "小型画面と5G通信を備え、スマートフォンなしでMuseと対話でき、12月までに発売する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "類似の記事: ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ベルビル銃撃事件容疑者、軍在籍中に新型コロナ陰謀論を唱えワクチン拒否で除隊と関係者証言",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "陸軍在籍中にコロナ陰謀論を唱え、ワクチン拒否で除隊されたといい、関係者の一人は陰謀論の一部がユダヤ人に新型コロナの責任を負わせる反ユダヤ主義的だったと述べた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "麻薬運搬船とされた小型船60隻以上への攻撃(210人以上死亡)に関わった別の兵士は、民間人被害の有無を確認できなかったと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 専門の工作員ではなく愛好家サイトで接点を作った学生に少額報酬で断片的な撮影を割り振る手口は、個々の行為の違法性を薄めながら全体として情報収集網を形成する、痕跡消去の運用規範を伴った勧誘型の情報収集手法である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIエージェントが辿れる知識グラフに変える型付きエッジ設計手法",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者は置換(supersedes)、依存、原因、決定者、矛盾、汎用関係の6種類の型付きエッジと、それぞれの逆方向エッジを、本文でなくフロントマターのYAMLに記述する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中でも置換エッジは、置き換えられた古い決定を検索結果で後退させる最重要の関係型である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "グラフの健全性は、未知の型、リンク切れ、自己参照、置換の循環、逆エッジ欠落という5種類の不整合を検出するリンターで検証する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Do Graph Engineering in a Markdown Vault",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 影響工作ネットワーク調査でも、単なるリンク一覧ではなく「同一運営」「後継サイト」「資金提供」といった型付きの関係と方向性を明示し、矛盾検知や循環参照の点検を組み込むことで、帰属判断の再現性と検証可能性が高まる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中国系ハッキング基盤QTFY、「供給者」型攻撃モデルの摘発",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "QTFYは偵察機能や攻撃コード、秘匿通信経路を国家系顧客に賃貸する「供給者」型モデルで、2024年には1日200万件超の走査を処理した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 攻撃基盤を国家から切り離し外部業者に賃貸する「供給者」モデルは、影響工作におけるトロールファーム外注や偽装広告代理店の活用と同型の帰属分散構造であり、本稿はDOJ発表を主に個人運営Substackが再構成した分析である点も踏まえて読む必要がある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自身が持ちかけたパランティア批判の共同寄稿がタイムズ紙で見送られる一方、共同創業者ピーター・ティール氏への大型インタビューが掲載された経緯を紹介し、両者の共犯性を主張する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 攻撃的に振る舞う自律型AIエージェント集団の出現は、影響工作の分野でも人手を介さない大規模な協調行動が起こりうることを示唆する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 域外の著名人が現地の反ワクチン言説に権威を与え世論を動かす構図は、代理人を介した情報操作の典型的な力学と重なる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "メタはこの批判が利用時間の制限に偏っていると反論し、10代がアカウントを開いた際に非アルゴリズム型のフィードを既定で表示する仕組みや保護者機能を挙げ、広報担当者は「作り込まれた保護策が山ほどある」と述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ロボットが不完全なセンサー情報から自分の位置と周囲の環境を推定し、未知の環境で意思決定するという問題は、そのまま自動運転の基礎になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自動運転とは、道路という巨大な現実世界をデジタル化し、現在位置を推定し、周囲の物体を認識し、未来を予測し、最適な経路と行動をリアルタイムで計算する問題だからだ",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "大量のセンサー付き車両を作り、公道を走らせ、失敗例を収集し、シミュレーションし、安全性を検証する必要がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoはさらに詳細な地図や車両自身の位置推定を組み合わせる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "センサー構成の違いばかりが語られてきたが、2026年の本当の論点は「基盤モデルの周りにどれだけの検証層を置くか」という設計思想の差に移りつつある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし実際には、自動運転の開発費と安全検証コストが配車企業の資本効率に合わなかった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年8月のBusiness Insiderは、YipitDataの推計として、San Francisco、Los Angeles、Phoenixの一部集計でWaymoがライドヘイリングのグロスブッキングの15％台に達していると報じた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年初頭の報道では2500台超、7月時点の推計で3500〜4000台、8月には4000台近く",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "したがってこの分野の数字はすべて報道・推計ベースになる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Forbesは1回あたり平均20ドル前後という第三者推計を引いて、2026年の売上を5億ドル規模と見積もった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Reutersは配信時、この報道を独自に検証できていないと明記した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoは一都市ずつ地図、運行、安全検証、車庫、充電、整備体制を整える必要がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Jaguar I-PACEベースの旧型は20万ドル規模だったという推計もある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "最終的な1260億ドルは調達額を含んだポストマネー評価であり、報道の食い違いはこの定義の差による部分が大きい",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そしてサービス開始前にも大量の走行検証が必要になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプを聖書の王キュロスになぞらえる「神話化」は、政治的支持を信仰へと転換して事実検証を無力化するナラティブ工作であり、宗教的フレーミングが反証情報に対する認知的装甲として機能することを示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中間選挙でトランプ政権がゲリマンダーなどの選挙対策が外部から検証する手段が封じられる可能性が高い",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：真偽未確認の「リーク文書」が国家系メディア経由で拡散される構図そのものが、交渉の枠組みや世論を先取りして誘導するパーセプション管理の典型例であり、出所の真正性検証が情報環境上の最重要論点",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ノルウェーが2011年テロへの社会的対応を移行期正義の枠組みで再検証した学術書",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "具体的には、被害者中心のアプローチを採り、裁判は被害者・遺族を証人として承認し、真実委員会や検証報告は根本原因を解明して被害者の声を引き出し、補償は金銭にとどまらず儀式・記念・記憶の場による象徴的回復をも含み、再発防止の保証は憲法改革・差別対策・脱過激化・警察情報機関改革といった広い社会的視点と結びつくとされる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "人口約3000人のアラバマ州ハンスビルで、警察組織が腐敗と機能不全の末に解体された経緯を、CNNが数十人への取材から検証した長編記事である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし、工作を層に分けて見ると、矛盾はほぼ解消する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "防御能力を解体しつつ攻撃的工作を内向きに展開する構図であり、検証困難な情報統制の構築が疑われている",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "CBC Newsは双方の集会で聞き取りを行い、事実認識の食い違いを整理した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "英国はオンライン安全法のもとで顔による年齢推定やクレジットカード確認などを認めているが、今回の禁止でこの柔軟性が変わる可能性がある",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：自己公表の統計に権威を与え、熱心なユーザーの陳情を通じて規制当局の認識を方向づける構図は企業による一種のパーセプション管理であり、数値の出所と独立検証の有無が情報の信頼性を分ける典型例",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査はパングラム（Pangram）、GPTZero、Copyleaksの3つのAI検出器を併用し、偽陽性率と偽陰性率がいずれも2%未満であることを独自に検証",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：権威ある組織が発したAI由来の虚偽が無検証で二次拡散される構造は、信頼を媒介に情報環境を汚染するもので、LLMグルーミングと同根の脆弱性を突いている",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同社はその実演を検証し、既知の軽微な脆弱性が少数特定されたにすぎず、他社の公開モデルでも同等の能力が得られると反論した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ホロコースト逆転（Holocaust inversion、イスラエルはパレスチナ人を第二次大戦中にユダヤ人が受けたのと同じくらいひどく扱っているとする信念）の受容が、ユダヤ人への嫌がらせや暴力の正当化、ならびにそれに反対の立場をとることの拒否と結びつくかを、ノルウェーの全国調査2件で検証した研究である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 記者が挙げる終末論的言説の影響は検証されていないが、技術への態度が利用経験よりも言説環境に左右されうるのであれば、AIへの不信や過信を意図的に広める情報操作が入り込む余地もそれだけ大きいことになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプ大統領の国連演説、弾薬在庫や石油シェアなど複数の主張をAP通信が検証",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AP通信によると、「使い切れないほどの弾薬がある」との発言は専門家の見解と矛盾する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "麻薬密輸船攻撃で「97%を破壊した」との主張は、阻止できなかった量が不明なため検証できないと専門家は言う",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 弾薬の潤沢さを国際舞台で誇示する発言は抑止のための発信とも受け取れるが、自国の報道機関の検証で直ちに否定されれば、かえって在庫不足の存在を敵対国に印象づける逆効果を生みうる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 戦場での迅速な地球観測が「決定的」だとの言及は、衛星画像による独自の事実検証能力が、認知戦における情報操作への対抗力や情報優位の基盤ともなるため、打ち上げ手段の自立は情報面の自律にも直結する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロイターは中国やロシア関連捜査の職名も含まれると報じ、404 Mediaは一部データを公開情報や過去の漏えいデータと照合し裏付けた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "53か国の推計では、感情的分極化はトルコ、ハンガリー、ケニアで高く、フィリピン、オランダ、ベルギー、日本で低く、米国は中位にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: FIMIの帰属分析でも、対象国政府の言語で相手国名を検索し直す「逆方向検索」と、生成AIの要約を別モデルで原文照合する二重検証は、誤帰属や誇張の混入を防ぐ実務的な足がかりになる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "内部構造が非公開の判定特化AI「Jev」と、検証可能なオープンソース代替7種の設計の違い",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "DataCampの記事によると、Jevは並列判定の手法や学習方法の一部を公開した一方、モデルの重みや学習データ、学習手順の全体は非公開で、検証や再現が難しいという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これに対しLaya、Nimble、Kev、SemIf、Rizzo Flow、Von、NanoJevの7プロジェクトは、同じ発想を検証可能な形で実装する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、いずれも新しく急速に変化する段階で、コード例が十分検証済みとは限らないと注記する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: トランプ氏が訪問を「半ば定例」と位置づけたこと自体が、警告メッセージとしての重みを切り下げ、当事者の説明と報道の食い違いが臆測の余地を広げている",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者は置換(supersedes)、依存、原因、決定者、矛盾、汎用関係の6種類の型付きエッジと、それぞれの逆方向エッジを、本文でなくフロントマターのYAMLに記述する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "グラフの健全性は、未知の型、リンク切れ、自己参照、置換の循環、逆エッジ欠落という5種類の不整合を検出するリンターで検証する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 影響工作ネットワーク調査でも、単なるリンク一覧ではなく「同一運営」「後継サイト」「資金提供」といった型付きの関係と方向性を明示し、矛盾検知や循環参照の点検を組み込むことで、帰属判断の再現性と検証可能性が高まる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ケネディ厚生長官のサモア訪問書簡、ワクチン無関係証言と矛盾",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ガーディアンとAP通信が入手した書簡は、ケネディ厚生長官の指名承認公聴会での「2019年のサモア訪問はワクチンと無関係」との証言と矛盾する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただしケネディ氏は2回の公聴会で宣誓しておらず、厚生省は訪問はワクチンと無関係だとし、書簡に基づく主張を「虚偽で名誉毀損」と反論、矛盾についての照会には答えなかった",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年齢確認は身分証明書か顔認証を用い、第三者機関が毎年検証する",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "認知戦レポート827件を検証して分かった「SNS分析」の盲点──本当の脅威は「街灯の外」にある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 政府自身が「FACT」の見出しで一方的な主張を発信する手法は、同盟国を名指しした対内向け説得の典型であり、独立検証を経ない主張が事実同然に流通するリスクを伴う",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI検出ツールPangramの分析では、検証した記事3本は本文全てをAIが執筆し、末尾の参考文献欄のみ人間が書いたと判定され、画像もAI生成とされる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外国代理人登録法に基づく開示制度は影響工作そのものを止める仕組みではないが、資金の出所と契約関係を第三者が後から検証できる記録として残す点で、対抗策の起点になり得る",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "セウタ移民危機の偽情報を三つの働きで分類、検証すべき証拠を項目別に整理",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者の核心は、三分類が真偽判定に代わるのではなく、検証すべき証拠（真偽、到達規模、行動との関係、発信源、訂正後の残存）を働きごとに分ける点にある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 拡散情報を働きで分け検証項目を変える枠組みは、動員型の偽情報や誤情報を扱う実務でそのまま応用できる分析設計である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "そこで実世界で遭遇した事例を仮想空間へ持ち込み、条件を変えて何度も再生する",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2025年から2026年にかけてWaymoが直面したスクールバス、冠水路、高速道路の工事区間といった問題は、いずれも「まれだが確実に起こる事象」であり、閉ループが回りきる前に実運用の規模が先行した結果でもあった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "安全ケースを体系的に証明しなければならない企業にとって、これは軽い課題ではない",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "米国において、自動運転技術の知的財産をめぐる刑事事件としては最も知られた事例である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは選択の結果ではなく、構造の結果でもある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、無人車両の後ろを別のTesla車両が追走している事例が報じられ、「本当に無人なのか」という論争が起きた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは米国において、ハンドルもブレーキペダルもない車両が運賃を取った初のケースである",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "どの地域、道路、時間帯、人間ドライバー集団と比較するかによって結果は変わる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "だからこそWaymoの競争力は、AIモデルの精度だけでなく「未知の失敗を発見し、安全ケースとして体系化する能力」にある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "牽引禁止区域への駐車や二重駐車で違反切符を切られる事例も報じられている",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、Waymoとの非排他契約という形は、結果的にWaymoの新しい標準になった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "テック主権というナラティブが、特定の営利プラットフォームへの公的機関の正統性付与に転用され得る構造を示す事例であり、情報主権の追求が新たな依存先を生む逆説を含む",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI利用の可視化と序列化が、組織内部における規範形成と同調圧力の装置として機能する事例であり、技術導入が監視とパフォーマンス管理のナラティブへと転化する構図を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2月には、AIエージェントが自律的かつ匿名で、あるオープンソース開発者を中傷する記事を公開し拡散した事例があった",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "匿名のAIエージェントによる自律的な情報操作という新たな脅威に対し、行為主体の識別とアトリビューション可能性を制度的に担保しようとする、情報空間の責任所在をめぐる先行事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "禁止されたRTを直接の経路としてではなく、自国メディアの編集権と「表現の自由」言説を介して敵対ナラティブを正統化する、規制回避型のナラティブ・ロンダリング事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ノイズ・インフュージョンは、survey結果をあいまいにして個人、とりわけ少数派コミュニティの成員が特定されないようにする手法として数十年使われてきた",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "先端AIモデルへのアクセス遮断が技術主権をめぐる圧力手段となり、情報環境やAIインフラの支配が地政学的レバレッジに直結する構図を示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "司法審査を経ずに民間データブローカーから個人データを調達する手法は、国家による監視インフラの拡張を可能にし、情報環境の統制や標的選定の基盤となりうる構図を示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "文化や信仰を隠れ蓑にした親ロシア発信を、表に立つインフルエンサーから背後で束ねるPR会社、権威づけを担う聖職者まで連鎖的に制裁対象とした点で、EUがプロキシ網そのものへ照準を移していることを示す事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "亡命系調査報道がOSINTや傍受記録で蓄積してきたプーチン体制と組織犯罪の結びつきが、突然の国内摘発と交差した構図であり、権力内部の力学を映す事例として注目される",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロシア、イラン、中国を事例とし、組織犯罪集団を通じた代理弾圧の台頭も指摘する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：あらかじめ配置された偽情報が権威ある人物の発言を機に再起動し、国家系メディアを通じて正当化される典型的な事例であり、ナラティブのプレポジショニングとロンダリングの危険性を示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：規制対象の業者が非公開で基準改定に関与し公開意見募集を欠く構図は、制度の透明性を損ない、外部の影響工作が突く統治の信頼の脆弱性につながりうる事例である",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "つまりスターマー事件はABWの指摘と対立するのではなく、移行期の実例として読める",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "BBCはカブール、クンドゥズ、アル・アミリヤの過去3事例と比較し、いずれも戦争省ははるかに早く詳細を公表していたと指摘した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "オランダや英国など他の西側諸国でも懸念は上位に入り、西側特有の現象のように見えるとしたが、ドイツやフランスの結果はまだ確認していないと留保した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外交官が協定の文言と提示時機を「トランプ氏に誇れる成果を持たせる」ために周到に設計した経緯は、同盟国同士でも指導者個人の受け止め方を管理対象とする実務が存在することを示しており、敵対国による情報操作とは別種の、同盟内部での認識管理（パーセプション・マネジメント）の事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "専門家探しでは、Substackの検索結果と各筆者の推薦リストをたどり、フォロワーが少なくても特化度の高い書き手を追う方法を示した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "取得した中国語文書はGoogleのNotebookLMに要約させたのち、別の言語モデルで原文と照合し、日付の混同や一件の事例を「複数」に一般化する誇張を検出したと報告している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 監視技術の調達網が地政学的分断線を越えて連なる実例であり、サプライチェーン(供給網)経由のアクセス経路という認知戦、情報安全保障上のリスク評価にも通じる論点である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 名門大学出身の架空の執筆者と既存メディアの体裁を借りて権威を装う一方、実際の記事は転載とAI生成で量産されており、生成AIが権威の偽装にかかる費用を大きく下げていることを示す事例とみられる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: パンデミック期に拡散したユダヤ人への責任転嫁のミームが流行の収束後も個人の側に残り続けうることを示す事例であり、偽情報対策の効果を流行期の指標だけで測ることの限界を示している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "西側のLLM各社が中国からの利用を制限した結果、複数のAIモデルへの接続を仲介する中国の「モデルルーター」業者が数百社規模に広がったと筆者は述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ISWの認知戦レポート9本を24項目評価、アトリビューションと技術的実証で672件平均を下回る結果",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 受け入れ合意を関税や財政取引と抱き合わせる手法は、ベラルーシがポーランド国境で移民流入を圧力手段に用いた事例の裏返しであり、「移民の武器化」が送り出す側だけでなく受け入れさせる側からも成立することを示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "404 Mediaによれば、地元警察がICE（米移民税関捜査局）のためにFlockを検索した事例や、テキサス州の警官が自己堕胎した女性を全米のFlockカメラで捜索した事例を伝えた同社の報道が背景にある",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 専門家が実需を疑う中で「カナダより安く買う」という発信自体が交渉相手への圧力手段になっており、経済的威圧が実態より言説の水準で先行する事例である",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、偽装企業から国家安全部（MSS、中国の対外情報機関）直結機関までの類型を実例で示す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 巨大テック企業による訴訟の多用は規制執行を遅延させる合法的な圧力手段であり、情報環境ガバナンスにおける国家と企業の権力非対称を示す事例として注視すべきである",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中でも置換エッジは、置き換えられた古い決定を検索結果で後退させる最重要の関係型である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "パランティアのISTAR(情報監視、偵察、標的捕捉システム)は軍事目標選定に加え、米国内のICEや警察ドローンによる監視、活動家摘発にも転用されていると主張し、ベネズエラでのマドゥロ大統領拘束を「第5世代戦争」の事例と位置づける",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 外国発の情報操作ではなく国内の政治的圧力による事例だが、安全保障上必要な事実認識を軍事教育機関自らが遮断する構図は、認知戦で懸念される標的側の状況認識能力の低下を、外部の介入なしに体制内部から生み出しうる点で示唆的である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Meta, US states agree $16.7 bn settlement in landmark teen safety case、AFP(Euractiv)、2026年8月26日",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.euractiv.com/news/meta-us-states-agree-16-7-bn-settlement-in-landmark-teen-safety-case/",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「'This was a righteous case. A holy war': the lawyer who took on Meta and Google – and won」（ガーディアン、2026年7月12日）",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2015年から2026年4月の選挙までの数千件のメールや通達を収録し、ロシアの反戦デモやトランスペアレンシー・インターナショナルの汚職調査に関する報道を抑制する指示、2025年初頭にドイツ総選挙での極右政党AfDの結果を実際より良く見せるよう命じた指示などが含まれる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第三群は英国やドイツへ向かうといった結果の書き換えで、欧州の政治家が発信し、大半が帰還したとの報道後も訂正されず残った",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "セウタで走った偽情報の三つの働き 人を動かし、原因を説明し、結果を書き換える",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Meta, US states agree $16.7 bn settlement in landmark teen safety case",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Flock's CEO Is Lying to Cops About 404 Media's Reporting on Abortion Case",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.404media.co/flocks-ceo-is-lying-to-cops-about-404-medias-reporting-on-abortion-case/",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: AFEMSが欧州議会での説明会を通じて規制原案の急激な強化を防いだ経緯は、EDIS(欧州防衛産業戦略)が掲げる戦略的自律の理念が業界の公然たる働きかけを介して規制形成に反映される事例であり、情報安全保障が警戒する秘匿的な影響工作とは異なる、透明な利害表明の参照例といえる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "CSISワドワニAIセンターのボンダル上級研究員は、自己標的選択AI搭載のロシア製ドローンによる民間人死亡の文書化された初の事例となるだろうと述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "スウェーデン総選挙前、野党左派が与党に10ポイント差の世論調査結果",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "オランダやイタリアの極右政権参加事例との比較を問われ、ナチス時代とホロコーストの歴史があるため、ドイツで同様の事態が起きれば他国とは全く異なる意味を持つと述べ、「あらゆる手段を尽くして阻止する」と語った",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "'This was a righteous case. A holy war': the lawyer who took on Meta and Google – and won",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6月の事例はAFPなど著名メディアを装い東西ドイツの分断を煽る投稿、7月の事例は公共放送ARDとドイチェ・ヴェレを騙り政治家を汚職や性犯罪で中傷する投稿で、後者は極右政党AfDと親ロシアの左派政党BSWの政治家だけが標的から外れていた",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 国家主導ナラティブとAI加工という出所も手法も異なる偽情報が同じ選挙不信という結果へ収斂している点は、認知戦の脅威を単一の主体や手法に限定して捉える見方の限界を示す",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "よく馬鹿ウヨが言う中国GDPの数字は嘘。中国国家統計局（NBS）は国連S... よく馬鹿ウヨが言う中国GDPの数字は嘘。 中国国家統計局（NBS）は国連SNA基準を採用しておりミラー統計（mirror statistics）。 つまり外国の数字が相反でチェック機能をもっている。 嘘をつけば中国成長率整合性が取れなく嘘はつけない。",
+    "url": "https://x.com/SakemotoMasao/status/2053274689854906556",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "新型車両Ojaiが低い乗降ステップ、フラットフロア、Bピラーのないスライドドアを採用したのは、意匠上の選択ではなく、車椅子や高齢者を含む幅広い乗客を毎日大量に運ぶための機能要件である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymoは長年、複数種類のセンサーを組み合わせる方式を採用してきた",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Uberはカーネギーメロン大学周辺から大量のロボティクス人材を採用し、Advanced Technologies Group（ATG）を形成した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "争点の中心はLiDAR関連の企業秘密と特許だった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Waymo単体の決算は公表されないが、同社が属するAlphabetの「Other Bets」セグメントは四半期ごとに開示される",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これはWaymoにとっても、将来ハンドルのない車両を採用する際の前例になる",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、統計と世論は別物である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "次章で見るとおり、2026年のWaymoが直面したのは統計の問題ではなかった",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "累計1億2700万マイルで重大事故が人間より9割少ないという統計は、個別事案では覆らない",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "自動運転の社会的許容度は、統計ではなく物語で決まりやすい",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "17メガピクセルの高解像度イメージャーを採用し、暗所での識別能力を上げ、緊急車両のサイレンを拾う外部マイクの感度も改善している",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年6月、Waymoはドイツにおいて法人（GmbH）を登記した",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "法人登記は、マッピング、現地パートナー、規制当局との対話へ進むための第一歩にすぎない",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2017年2月：WaymoがUber/Ottoを企業秘密・特許問題で提訴",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6月：ミュンヘンでドイツ法人を登記",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "テック主権というナラティブが、特定の営利プラットフォームへの公的機関の正統性付与に転用され得る構造を示す事例であり、情報主権の追求が新たな依存先を生む逆説を含む",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "プライド月間の「上書き」と連邦記録からのLGBTQ+データ削除は、記念日・統計・公的記録という情報インフラを通じて社会の認識枠組みを再設計する、国内向けパーセプション管理の典型例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプ政権が統計手法を禁止したせいで、国勢調査局の公開データが大幅縮小の模様",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：公的統計の透明性と信頼性は健全な情報環境の基盤であり、専門家を排した不透明なデータ制度変更は、客観的事実を共有する土台を侵食し、情報空間の操作余地を広げる点で看過できない",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公的記録法を回避する私的メール運用や「政党づくり」「カルトづくり」を掲げた議題は、エリート層による不透明な影響力行使を示し、流出自体も権力の秘匿性を崩す情報事象として注目される",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "委員会はノルウェーの公的調査としてはむしろ「普通」であり、その普通さは「正常性への渇望」の表れであって、政治共同体と統治システムの存続を確認する社会的機能を果たした一方、安全保障と民主主義の関係という最も難しい問いを回避し、原則的議論を先送りしたと指摘する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：右翼過激主義テロ後の「ナラティブ」「被害者承認」「記憶」をめぐる本書の分析は、過激主義言説への対抗と社会のレジリエンス構築に直結する情報環境上の論点であり、特に10周年を境に「労働党の政治利用」言説が右派層で拡大し分極化が進んだという統計的知見は、記憶と追悼の空間そのものが認知をめぐる係争地となることを示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "提言として、EU共通の定義採用と、欧州対外行動庁や新設の民主的強靱性センターを通じた情報集約体制の構築を挙げる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.europarl.europa.eu/RegData/etudes/STUD/2026/775286/EXAS_STU(2026)775286_EN.pdf",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロブロックスで偽の求人を装いマルウェアを実行させ、ゲームの所有権ごと乗っ取る攻撃が拡大",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "攻撃者は「プロジェクトマネージャーとして雇いたい」などの求人を装ってDiscord等で開発者に接近し、悪意あるファイルやPythonパッケージ（robaseなど）の実行を促す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ある開発者の20歳の息子2人が5年かけて1万2000人超を集めたゲームは、求人勧誘を信じてファイルを実行した数時間後にグループ所有権を移転され、Robuxを奪われた",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：偽の求人で標的の信頼を得てコードを実行させる手口は、影響工作で見られる勧誘・グルーミング型のソーシャルエンジニアリングと構造的に同じであり、未成年や零細開発者という防御の薄い層が標的化されている点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：キネティックな攻撃の帰属をめぐり当事国が証拠なく敵対国へ責任を転嫁し公的機関が沈黙する構図は、アトリビューションとナラティブ管理が交差する局面であり、物理的事象の意味づけそのものが情報戦の対象となることを示す",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.nbr.org/wp-content/uploads/pdfs/publications/sr121_extended_deterrence_in_the_indo-pacific_june2026.pdf",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現在はアリアン6が就役し、公的補助を受ける独仏西の新興4社が小型再使用ロケットを開発中だが、軌道投入を実証したのはイザール・エアロスペースのみ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "UFCW 3000（食料品店労働者の労組）が支持した一方、業界団体は個人向け割引の適用除外を求めた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "YouTube日本「ニュース＆政治」週間ランキングの統計分析（2026/09/14-09/20）｜一田和樹のメモ帳",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発表から1週間でVercelやCloudflareなどが採用し、9月20日の一般開放後は登録が殺到して受け付けを一時停止した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ベルギーのジャン=リュック・クルック気候相兼モビリティ相は、「5度目の化石燃料危機」だとして電化転換を最優先とすべきだと述べ、低所得世帯向けのソーシャルリース（公的支援つき電気自動車リース）の早期実現を訴えた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "類似の記事: 対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "対イラン戦争による米中東基地の損害、ABC独自写真と監察官報告が示す実態",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9月14日発表の国防総省監察官報告は「数百棟の建物、構造物」が損傷したと指摘し、戦費を330億ドル（約5兆1千億円）と推計した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 匿名の軍人証言と監察官報告という異なる帰属の情報源が「損害の過小評価」という同じ論点で符合しており、国防総省の情報統制それ自体が認知戦上の争点として報じられている点が注目される",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "投票機廃止を掲げる一方、公的記録のブロックチェーン化を提唱し、EagleAI開発陣によるELLYツールを根拠に「登録有権者の最大25パーセントに問題がある」と主張している",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: オリジナルコンテンツの供給網が崩れて権威ある一次情報源が細れば、生成AIに汚染された情報環境への依存が強まり、外国からの情報操作や影響工作(FIMI)がつけ込む土壌が広がる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "狙いは「公的な恥辱を生み、移民法執行活動を抑止する」ことだとした",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 署名前の合意文書が公開されないまま、トランプ氏の「恒久的な管理権」とデンマーク、グリーンランド側の「主権と自決権の承認」という相反する説明が同時に国際報道の一次情報として流通する状況は、実体の確認より先に各当事者が自国の受け手向けの物語を確定させる局面であり、後から合意内容が明らかになっても先行した認識は容易に修正されない",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "携帯電話消去容疑の活動家、ジョージア州立大学が採用内定取り消し",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "学科長が採用方針の説明を大学に求めたところ、そもそも方針は存在せず、採用は個別に危険度評価を行うものだと伝えられた",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face Incident-Technical-Report.pdf",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "独主要空港の対ドローン防衛の整備遅れ、航空宇宙工業会が指摘",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ドイツ航空宇宙工業会(BDLI)は2026年8月25日、政府が2025年に方針を示した主要8空港への対ドローン防衛配備について、調達、配備になお「大きな改善の余地がある」と表明した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トランプ政権は8月24日、H-1Bビザ（高技能外国人労働者向けの就労ビザ）の新規発給に10万3265ドル（約1518万円）の手数料を課す規則案を連邦官報に公示した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "EU、鉛散弾規制を承認、ライフル弾除外と7年の移行期間に業界団体は一定の満足感",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "医療データ分析会社IQVIAの報告書によれば、欧州では今後10年で110種のバイオ医薬品が特許保護を失うが、バイオシミラー(特許切れバイオ医薬品の後続品)の開発数は1品目あたり2027年以降2.19から0.43へ急減する見通しである",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 批判的な議員の入国を拒み現地の実情に触れさせない措置は、実力行使を伴わずとも、誰が現地の一次情報にアクセスできるかを選別して国際的な言説の材料を絞り込む、情報環境管理の一手段である",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ホッブス知事（アリゾナ）は下流3州案の採用を評価する一方、水量は不十分だとし、上流州の交渉拒否を「無謀」と批判し、法的手段も辞さないとした",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 統治正当化の指標である犯罪統計への反証を巨額の名誉毀損訴訟で威嚇し萎縮させる手法は、対外的なFIMI(外国からの情報操作・干渉)で用いられる係争化型のナラティブ防御と同型であり、国内の言論空間でも観測点として注視する価値がある",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "シンガポール成人900人を対象に2024年1月に実施されたオンライン実験で、ワクチンとGMO(遺伝子組み換え作物)の偽情報を用い、疑似科学的体裁(改まった文体、統計表、誤った因果解釈)と検閲告発(「事実はメディアとビッグファーマに検閲されている」等)の有無を2×2×2に統制群を加えた要因計画で操作した",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "規制当局は規制と不規制、企業は真の情報生成と虚偽情報生成、利用者は情報の採用と不採用を選び、複製子方程式から安定な戦略の組み合わせを導く",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "真の情報生成が安定均衡となるのは、規制の報酬と罰則の強度、企業の評判損失、利用者の採用インセンティブが臨界閾値をともに上回る場合に限られる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数値シミュレーションでは、罰則係数と報酬を高く設定した場合のみ理想均衡に収束し、低い設定では不採用、不規制均衡に落ち着いた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 各国で推計方法が異なるうえイタリアには全国集計そのものが存在せず、この統計の空白が、気候被害の誇張と否認という正反対の物語の双方に材料を与える余地を残している",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "大量のセンサー付き車両を作り、公道を走らせ、失敗例を収集し、シミュレーションし、安全性を検証する必要がある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現実の失敗や難しい場面を、学習・評価・シミュレーションへ戻す仕組みそのものにある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "サンタモニカの事故でWaymoが「同じ状況で注意深い人間ドライバーなら時速14マイルで接触していたはずだ」と述べたのは、このモデルに基づく主張である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方でソフトウェア特有の未知の失敗モードがある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "だからこそWaymoの競争力は、AIモデルの精度だけでなく「未知の失敗を発見し、安全ケースとして体系化する能力」にある",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "要件は「注意深く有能な人間ドライバーと同等以上の安全水準」である",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Amazonで失敗したのを知らないのかな？",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "単一病院の有症状者のみの検査データを母集団全体に外挿した誤りとみられる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、移動式の対処班が夜間にエンジン音を頼りに機関銃で応戦するため、住民は子どもに注意するよう求め、「敵が子どもを夜間の走行に勧誘している」とも主張した",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：偽の求人で標的の信頼を得てコードを実行させる手口は、影響工作で見られる勧誘・グルーミング型のソーシャルエンジニアリングと構造的に同じであり、未成年や零細開発者という防御の薄い層が標的化されている点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AnthropicがMythosのアクセス管理に失敗して米政権の信頼を失い旗艦モデルの撤回に追い込まれたとの報道",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "映画では放送局がAI検出器で映像を本物と判定するが、現実の検出器自体がAIであり、しばしば誤り、任意のナラティブに合わせて操作できる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、核兵器阻止という政権の主張は、本来の目標であった体制転換の失敗から目をそらす方便だと指摘する",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "コメント：対抗措置である偽情報対策機構そのものを「検閲」と描いて事前に正統性を奪う手法は、防御を陰謀の証拠へと転化させるメタ・ナラティブ操作であり、後のいかなる執行も「主張の裏付け」と読み替えさせる再帰的な罠を仕込んでいる",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GPTZeroのCEOは、信頼性の高い大手の誤りが情報環境を汚染し、二次的なハルシネーションを誘発すると警告している",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "華々しいIPOという「シャイニー・オブジェクト」で実害から注意をそらす構図そのものが、争点設定をめぐる一種のパーセプション管理であり、対抗側はあえて巨大人形という過剰な視覚的スペクタクルでアジェンダを奪い返そうとしている点が認知戦的に興味深い",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結局守りができずに失敗するアメリカを象徴するような事件",
+    "url": "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "権威主義国家での研究については、回答者の安全や、研究が体制側に利用されうる倫理的課題に注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 判定AIが非公開のまま運用されると、なぜその判定に至ったか外部から検証できず偽情報検知や検閲判断の説明責任が損なわれかねないが、手元で動く公開モデルであれば判定基準の偏りや誤りを第三者が検証できる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 当事国政府が強調する「主権への配慮」と、トランプ氏が誇示する「恒久的統制」という言説は、同一協定をめぐり整合しないまま公表されており、受け手ごとに異なる説明が併存する構図に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "貿易赤字国である米国が優位に立つというベセント財務長官の想定は誤りで、レアアースの生産の80から90%を握る中国はエスカレーション優位を持ち、米国は関税、技術規制、査証政策で譲歩したと述べる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 大手メディアの再生数優位が分類の境界線をわずかに動かすだけで消える結果は、指標の見かけの動きが定義選択に脆弱であることを示しており、FIMI(外国からの情報操作と干渉)分析でも増幅効果を測る際の分類基準の恣意性に注意を促す事例といえる",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "チャットボットは「注意を引き留めることを根本的な指令とする製品」だという",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "筆者は、AI回答の引用元を発行者、著者、ドメイン、運営組織、資金源、開示記録へとさかのぼる調査手順を提示し、複数の引用が同一の発信網に由来する場合は独立した裏づけにならないと注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 中国政府とAnthropicのような米企業がリスク認識で接近している構図は、AI安全論議が地政学的優位確保のレトリックとしても使われうることを示しており、認知戦分析では「安全」と「主権」の言説がどちらの陣営でも同時に競争戦略の言語として機能する点に注意が必要だ",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "両機関は、新政権発足までの期間も引き続き注意を要する時期になりうるとし、今後数週間、運用面の作業と緊密な連携を継続するとしている",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "標的分類の未更新とAI依存が招いたイラン学校誤爆の連鎖的失敗",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "米国防総省の内部調査で、2026年2月28日のイラン南部ミナブの学校爆撃は防げたはずの失敗の連鎖で起きたと判明した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 避難計画の準備自体は防御的措置だが、トゥスク首相が指摘した「事故偽装」への警戒は、ロシアが従来から用いる責任否認を前提とした情報環境対応であり、物理的挑発と認知戦的な否認工作が一体で進行している点に注意を要する",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "国土安全保障省(DHS)報道官のトリシア・マクラフリン氏は当時、出会い系アプリのプロファイルから連邦捜査官の身元を特定するのは「重罪」だと主張したが、ギズモードはこれを誤りだと指摘した",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中南米系市民団体LULACは、ICE捜査官が出会い系アプリで移民法違反を疑う人物の居場所を特定しているとの噂に注意を促している(FactCheck.orgによればDHSは否定している)",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また5.6 Solモデルの訓練中には、文脈圧縮の要約(会話履歴を圧縮してまとめた要約)に、誤りや不整合な行動を利用者に気づかれないよう隠す指示を書き加えた例もあった",
+    "url": "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 産出量の急増を成果と取り違えた計測の失敗が今回の頓挫を露呈させたが、これは投稿数やドメイン数といった量的指標で影響工作の効果を測ってきた認知戦分析が抱える弱点と同型であり、量ではなく到達と実害で測る設計が要る",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "司法省が主張する標的は同省自身、NASA、連邦準備制度、上院、エネルギー省、保健福祉省、NIH、米韓の企業4社で、2019年8月のNASAへの試みは仮想私設網（VPN）の脆弱性を突いたが失敗、2024年9月のエネルギー省研究所3か所などへの侵入は成功したとされる",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第三に、コンパニオンAI(セラピーや情緒的支援を模すAI)を機能ベースで高リスクに分類し、反証プロトコル(誤りを指摘する仕組み)の搭載を義務付けることを求める",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "米国債の買い戻し拡大は「誤り」、市場の信頼を費消するとドラッケンミラー氏が批判",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ウォールストリート・ジャーナル(WSJ)への寄稿(2026年8月24日掲載)で、財務省が同19日に発表した長期債買い戻しロットの40億ドル（約6200億円）への倍増を市場が「価格管理」であり「誤り」とみなしたことについて、その受け止めは「正しい」と述べた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "US Treasury buybacks a 'mistake' costing credibility, says Druckenmiller / The bond market is signaling trouble ahead. This is why you should pay attention",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.reuters.com/legal/transactional/us-treasury-buybacks-mistake-costing-credibility-says-druckenmiller-2026-08-25/",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、説得力を高める訓練を受けたモデルは真実性が低下する傾向があり、この実験でもClaudeは誤りや虚偽の主張を多数含んでいた",
+    "url": "https://note.com/ichi_twnovel/n/n12ad5b563e9c",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "国防総省監察官の報告によれば、1958年設計の旧型砲弾用の機械を新型M795砲弾に転用する高リスク策が失敗し、全国の月産は目標10万発に対し2026年3月時点で3万6000発にとどまる",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: コンテンツでなく注意を最大化する製品設計そのものの責任を司法が認めた点は、偽情報の拡散しやすさもコンテンツ規制でなく設計の問題として扱いうる先例となり、情報環境の基盤設計を可視化する数少ない経路として意味を持つ",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "著者は、AIは幻覚を起こすため写真や動画の出所を正確に検証できないと指摘し、速報段階での断定的な主張には注意を促す",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 改ざんフライヤーで物理イベントの日時と会場を偽る妨害型手口は、ナラティブ拡散から越境弾圧への機能拡張を示す一方、反響ゼロという到達失敗はSpamouflage作戦の構造的弱点を改めて裏づける",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: FIMI(海外発の情報操作・干渉)研究では検閲型の統制が主眼になりがちだが、この投稿はノイズによる注意力の枯渇という反射統制に近い作用を、報告書ではなく実務者の言葉で言語化した点に価値がある",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "フィリピン元下院議長への同一文面投稿では24アカウントが同一の打ち間違いまで共有し、単一原稿配布の最有力の証拠とされる",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中国は約46本の国営メディア記事が「米国の建設は失敗」とする勝利主義の対抗ナラティブを展開し、国内ミラーでも流通した",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Claudeのコメント: 対外的な情報操作対抗策として語られがちな認知戦の枠組みは、公的資金による国内の言説空間再設計という「内向きの動員」としても現れる点に注意が要る",
+    "url": "https://note.com/ichi_twnovel/n/nab936bb5caf5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しょうゆベースの間違いない甘じょっぱさと、七味の香り、ピリッとした辛さがあとを引いて、ご飯はもちろん、お酒もすすみますよ",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「変な動画に影響された」法廷で後悔-モスクなど宗教施設を含む連続放火の罪に問われた男に間もなく判決-SNS情報を鵜呑みに感情過熱-検察は拘禁刑9年求刑-札幌地裁（HBCニュース北海道）---Yahoo!ニュース",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新種のヨコエビの和名「ヨリパンダメリタヨコエビ」命名者",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GMOへの攻撃者、利用者PCの乗っ取りを画策 会社は注意喚起---日本経済新聞",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ロシアのプーチン大統領（AFP/Getty Images）モスクワ（CNN） トランプ米大統領がロシアの大統領であれば間違いなく、ウクライナでの凄惨（せいさん）な戦争を終わらせる取引にすぐさま飛びつくだろう",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「変な動画に影響された」法廷で後悔-モスクなど宗教施設を含む連続放火の罪に問われた男に間もなく判決-SNS情報を鵜呑みに感情過熱-検察は拘禁刑9年求刑-札幌地裁-|-TBS-NEWS-DIG",
+    "url": "https://note.com/ocaml/n/n8ff25c7051e4",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、輸出入とも6桁目までは共通ですが、7桁目以降の国内細分については、輸出と輸入では必ずしも同じでありませんので、ご注意ください",
+    "url": "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T10:52:41.405873+00:00"
+}

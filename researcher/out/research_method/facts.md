@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・292品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・295品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1350,54 +1350,60 @@
 ## エキスパートや調査会社のリサーチャーが書いた調べ方のブログ（professional researcher blog research techniques）
 - 文脈：凄腕・実務
 - 手順・やり方：
-  - 「今回は、利用者の認知経路や利用理由を調べる「利用者アンケート」（BtoC編・BtoB編）、満足度や知人への推奨意向度を調べる「満足度アンケート」（BtoC編・BtoB編）、利用シーンや利用に際して重視していることを調べる「ユーザープロファイルアンケート」(基本項目編・発展項目編)の6つに分けて、それぞれの用途に合った質問と選択肢を用意することができるような「基本の型」となるフォーム作成方法を解説しました」（https://manamina.valuesccg.com/articles/1877）
-  - 「アンケートフォームを作成したことはあるがその施策への活用方法がわからない方、用途に合わせたアンケートフォームの作成方法が知りたい方などはぜひ参考にしてみてください」（https://manamina.valuesccg.com/articles/1877）
-  - 「行動パターンを類型化することで、プロモーション効率をあげることに繋がります」（https://manamina.valuesccg.com/articles/1877）
-  - 「そこで本企画では菅原さんに、ユーザー理解の考え方と方法をインタビューしました」（https://manamina.valuesccg.com/articles/1877）
-  - 「最近マーケターの間であらためて注目されている「ユーザー理解」の方法について、「質問の尋ね方」が重要と考えるリサーチャー・菅原大介さんに取材します」（https://manamina.valuesccg.com/articles/1877）
-  - 「Key Takeaways IMRAD stands for Introduction, Methods, Results, and Discussion; it is the most widely used structure for original research articles in the sciences and」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is a Review Article? How to Write it?」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「How to Use ChatGPT for Research?」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「How to Make a Graphical Abstract for Your Research Paper (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「How to Write an Academic Biography」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「Thesis Defense: How to Ace this Crucial Step」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「For every student or researcher embarking on a Master’s or PhD degree, the thesis defense is a pivotal moment. It’s a significant step in their」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「Research is a systematic, methodical process of inquiry aimed at exploring, analyzing, and interpreting information to answer specific questions or solve problems. According to the」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「まずはこの後の6ステップで調査の軸を整えたうえで、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチの具体的な手順（6ステップ）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「以下の6ステップで進めます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ステップ1：調査目的・リサーチクエスチョンの設定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ステップ2：調査項目を具体化する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ステップ3：信頼できる情報ソースの選定」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「検索で情報ソースを探すときのキーワードの組み立て方や検索コマンドの使い方は、下記の記事を参照してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ステップ4：情報の収集・整理」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
 - 突き合わせ・推定：
-  - 「One use of statistical analysis is to make inferences from data samples to larger populations. Point estimation uses a sample statistic to estimate an unknown」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「重要な数値や主張は、異なる調査主体の情報と照合します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
 - 一次情報の探し方：
-  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
-  - 「：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
 - 失敗・落とし穴：
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
   - 「Errors in Research: 7 Common Mistakes to Avoid In Research Projects」（https://researcher.life/blog/tag/tips-for-researchers/）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
@@ -1407,28 +1413,22 @@
   - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
   - 「What is Anchoring Bias? Definition and Examples」（https://researcher.life/blog/category/research-reading/）
   - 「Key Takeaways: Anchoring bias is the tendency to weight the first number or framing you encounter too heavily, so that it pulls every judgment that」（https://researcher.life/blog/category/research-reading/）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
 - 実例：
-  - 「What is IMRaD Format in Research? Examples and Guidelines」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「How to Make a Graphical Abstract for Your Research Paper (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is a Case Study in Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「A case study investigates a bounded phenomenon in depth, within its real-world context, using multiple sources of evidence There are six main types: exploratory, descriptive,」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is Research? Definition, Types, Methods, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is Confidence Interval and How to Calculate it (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is Stratified Sampling? Definition, Types, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「How to Write a Research Paper Outline (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「Ethnographic Research: Definition, Methods, Types, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is a Conceptual Framework and How to Make It (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is Descriptive Research? Definition, Methods, Types and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is Parenthetical Citation? APA, MLA & Chicago Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is a Problem Statement in Research? How to Write It with Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「What is a Cross-Sectional Study? Definition, Advantages, Disadvantages, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「Sampling Methods in Research: Types, Techniques, Pros & Cons, and Examples」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「あるいは、検索結果を一つずつ確認しているうちに、情報収集だけで何日もかかってしまうことはありませんか」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「まずは導入事例の資料ででデスクリサーチをどう効率化し、調査結果をどのように整理したか確認してみてください」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチ）行動の結果記録を扱うため、「なぜそうしたか」という潜在動機や本音の把握は困難です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「デスクリサーチなしに一次調査を始めると、設問設計の前提が甘くなり、結果の解釈精度が下がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：既存データは行動の結果記録であり、「なぜそうしたか」という潜在動機までは追えません」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「例えば、国内の〇〇市場への参入可能性を調べる場合は、次のように分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「まず無料で公開されている概要や調査結果を確認し、詳細な市場区分や予測値が必要な場合に有料レポートを検討すると効率的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：事業内容、サービス、導入事例、プレスリリース、決算説明資料などを確認できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「：企業が発表した新商品、業務提携、調査結果などのプレスリリースを検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「同じテーマでも、質問文や調査対象者が異なると結果は変わります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「調査結果を引用するときは、数値だけでなく調査条件も確認しましょう」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「テキストと異なり、グラフは「図版」として著作物性が認められやすいため、スクリーンショットの貼り付けや図版の模写は、出典明示だけでは不十分なケースがあります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「例えば、インティメート・マージャーが提供するサー」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
+  - 「は、独自のIDソリューションによって国内人口の約90%のWeb閲覧行動を把握したデータをもとに、チャット形式でリサーチ結果を提供するサービスです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=bd41cb3bc3adb3ef59b3c0b41edcc115）
 - 検索結果の抜粋：
   - 「The 15 Best Academic Blogs for 2025 | Ex OrdoThe Researcher's Source Blog | For Researchers | Springer NatureResearcher.Life: Blog Category | Researcher.LifeBlog — Sage Research Methods Community18 Best Academic Blogs to Follow in 2026 - bloggers.feedspot.com — “Just like the horse whisperer – but with more pages.” The Thesis Whispereris the blog of Inger Mewburn, Associate Professor at the Univer」（https://www.exordo.com/blog/the-best-academic-blogs）
   - 「The 15 Best Academic Blogs for 2025 | Ex Ordo15 Best Academic Blogs Every Researcher Should Follow - ListeningThe Researcher's Source Blog | For Researchers | Springer NatureAcademic Writing: Blog Category | Researcher.LifeHow to conduct effective academic research: 9 key methods40 Must-read academic blogs for researchers and PhD students — “Just like the horse whisperer – but with more pages.” Th」（https://www.exordo.com/blog/the-best-academic-blogs）
@@ -7416,6 +7416,9 @@
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
 - 手順・やり方：
+  - 「How to approach, research, and develop analytic assessments on emerging technologies and threat trends (Part 2)」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
+  - 「Throughout the intelligence curation process, the AIMS methodology provides a useful framework to conceptualize the story we plan to tell and how we will message the analytic findings. For those unfamiliar with AIMS, it is an acronym that stands for」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
+  - 「toryline. There are alternative storytelling frameworks beyond AIMS you might consider like」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
   - 「Stephen Artner, Richard S. Girven, and James B. Bruce」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「* One promising method of assessing these techniques」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「One primarily qualitative method of evaluating these」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
@@ -7428,9 +7431,6 @@
   - 「tional analytic methodologies. We also held an analyst focus」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「IC to reinforce analytic methods that challenge long-standing」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「complex problems." One critique of the ACH method argues」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「managers, analysts, and methodologists in 2014 indicate that」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「STEPS TOWARD SYSTEMATIC」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「tion to a single method. The RAND pilot project documented」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
 - 突き合わせ・推定：
   - 「Availability. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
   - 「Anchoring. Probability estimates are」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
@@ -7476,6 +7476,9 @@
   - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「Cognitive and perceptual biases in」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 - 実例：
+  - 「Figure 2: Examples of SATs in Each Category」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
+  - 「Let’s use a historic, well-known cyber attack as an example to illustrate the various orders of effect it had before providing a technology and a trend focused example.」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
+  - 「Figure 4: Illustrative Example of Roles」（https://www.sans.org/blog/helping-cti-analysts-approach-and-report-on-emerging-technology-threats-and-trends-part-2）
   - 「For example, various SATs address mindset bias; “satisficing”」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「can be misapplied in individual cases. Proponents of SATs」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「reexamination of assumptions and, in some cases, height-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
@@ -7488,9 +7491,6 @@
   - 「might fluctuate. All of these examples」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
   - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
   - 「a good example of how this technique could have been applied. After the initial flurry of」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「accurately. In the case of HUMINT , this will」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「builds a more concrete case for the analytic」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
-  - 「when it is important to make a case that a」（https://www.stat.berkeley.edu/~aldous/157/Papers/Tradecraft%20Primer-apr09.pdf）
 - 検索結果の抜粋：
   - 「Improving your Intelligence Analysis with Structured Analytic ... — Jun 22, 2023 · KEY POINTS: 🔗︎ Structured Analytic Techniques (SATs), such as the Key Assumptions Check (KAC) and Red Team Analysis (RTA), assist analysts in critically examining information and mitigating biases amid the growing challenges posed by threat actors. The effectiveness of the KAC lies in its ability to yield immediate 」（https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/）
   - 「structured-analytic-techniques — May 20, 2026 · Key assumptions check Quality of information check Indicators or signposts of change Analysis of competing hypotheses (ach) Contrarian Techniques (Explicitly challenge current thinking) Devil’s advocacy team b High Impact low Probability analysis What if? analysis Imaginative Thinking Techniques (Develop new insights, perspectives, and ...」（https://mattdot.github.io/sats4llms/concepts/structured-analytic-techniques）
@@ -9987,11 +9987,11 @@
 
 ## 非上場の売上を費用の側から逆算する（人件費・固定費・損益分岐点・売掛金の回収日数）と決算公告の貸借対照表での照合（estimate private company revenue from cost structure break-even accounts receivable days）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 調査の判断記録（決める問い・持ち主・見直しの日・撤回の条件）を分析の報告に付ける実務（情報機関・コンサル・投資）（decision log review date reversal trigger analysis assumptions）
 - 文脈：手順
@@ -16298,6 +16298,217 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 貿易統計の二国間の食い違い（ミラー）の型と測り方（CIF/FOB・通関と国際収支の基準・一般貿易と特別貿易・再輸出・相手国の付け方・秘匿・HMRC・UN Comtrade・IMF・4-117・4-127）（bilateral trade asymmetries methodology mirror statistics CIF FOB general special trade）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「Googleは2014年、小型の自動運転プロトタイプを公開した」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「人間がいつでも介入できるLevel 2の運転支援と、Waymoが目指すLevel 4型の完全自動運転には、技術的にも責任設計上も大きな断絶がある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「新型車両Ojaiが低い乗降ステップ、フラットフロア、Bピラーのないスライドドアを採用したのは、意匠上の選択ではなく、車椅子や高齢者を含む幅広い乗客を毎日大量に運ぶための機能要件である」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Waymoという名称は「a new way forward in mobility」など、移動の新しい方法を示すブランドとして作られた」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「モジュールを直列につないだ従来型の設計では、こうした状況を扱いにくい」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「性能を高めながらコストを下げ、小型化し、量産できる設計は大きな競争力になる」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「2026年2月にはWayveの12億ドル調達に参加し、ロンドンでのロボタクシー展開を条件とするマイルストーン型の出資を行っている」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「オースティンとアトランタでも、Uberと並行して自社アプリを走らせる――ナッシュビル型に切り替えるという宣言である」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Jaguar I-PACEベースの旧型は20万ドル規模だったという推計もある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「最初からロボタクシー専用に設計した、ハンドルもペダルもミラーもない双方向走行型車両を開発している」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「7月30日、NHTSAから「専用設計された自律型ロボタクシー」として初の商用適用除外を取得した」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「同じ都市で、同じ時期に、垂直統合型とプラットフォーム型が競う」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「低い乗降ステップ、フラットフロア、Bピラーのないエレベーター式スライドドア、大きな窓、前席1つと後席2つの計3つのスクリーン」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「中国国内での型式名はCM1eである」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Bloomberg News, "Waymo Plans End of Uber Robotaxi Tie-Up, Stepping Up Rivalry"（2026年7月24日／Uber広報が2028年1月のWaymo自社アプリ開始通知を確認）」（https://note.com/kagawatomo/n/n56f2676ca976）
+- 突き合わせ・推定：
+  - 「ロボットが不完全なセンサー情報から自分の位置と周囲の環境を推定し、未知の環境で意思決定するという問題は、そのまま自動運転の基礎になる」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「自動運転とは、道路という巨大な現実世界をデジタル化し、現在位置を推定し、周囲の物体を認識し、未来を予測し、最適な経路と行動をリアルタイムで計算する問題だからだ」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「大量のセンサー付き車両を作り、公道を走らせ、失敗例を収集し、シミュレーションし、安全性を検証する必要がある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Waymoはさらに詳細な地図や車両自身の位置推定を組み合わせる」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「センサー構成の違いばかりが語られてきたが、2026年の本当の論点は「基盤モデルの周りにどれだけの検証層を置くか」という設計思想の差に移りつつある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「しかし実際には、自動運転の開発費と安全検証コストが配車企業の資本効率に合わなかった」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「2026年8月のBusiness Insiderは、YipitDataの推計として、San Francisco、Los Angeles、Phoenixの一部集計でWaymoがライドヘイリングのグロスブッキングの15％台に達していると報じた」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「2026年初頭の報道では2500台超、7月時点の推計で3500〜4000台、8月には4000台近く」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「したがってこの分野の数字はすべて報道・推計ベースになる」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Forbesは1回あたり平均20ドル前後という第三者推計を引いて、2026年の売上を5億ドル規模と見積もった」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Reutersは配信時、この報道を独自に検証できていないと明記した」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Waymoは一都市ずつ地図、運行、安全検証、車庫、充電、整備体制を整える必要がある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Jaguar I-PACEベースの旧型は20万ドル規模だったという推計もある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「最終的な1260億ドルは調達額を含んだポストマネー評価であり、報道の食い違いはこの定義の差による部分が大きい」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「そしてサービス開始前にも大量の走行検証が必要になる」（https://note.com/kagawatomo/n/n56f2676ca976）
+- 一次情報の探し方：
+  - 「新型車両Ojaiが低い乗降ステップ、フラットフロア、Bピラーのないスライドドアを採用したのは、意匠上の選択ではなく、車椅子や高齢者を含む幅広い乗客を毎日大量に運ぶための機能要件である」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Waymoは長年、複数種類のセンサーを組み合わせる方式を採用してきた」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Uberはカーネギーメロン大学周辺から大量のロボティクス人材を採用し、Advanced Technologies Group（ATG）を形成した」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「争点の中心はLiDAR関連の企業秘密と特許だった」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Waymo単体の決算は公表されないが、同社が属するAlphabetの「Other Bets」セグメントは四半期ごとに開示される」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「これはWaymoにとっても、将来ハンドルのない車両を採用する際の前例になる」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「ただし、統計と世論は別物である」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「次章で見るとおり、2026年のWaymoが直面したのは統計の問題ではなかった」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「累計1億2700万マイルで重大事故が人間より9割少ないという統計は、個別事案では覆らない」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「自動運転の社会的許容度は、統計ではなく物語で決まりやすい」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「17メガピクセルの高解像度イメージャーを採用し、暗所での識別能力を上げ、緊急車両のサイレンを拾う外部マイクの感度も改善している」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「2026年6月、Waymoはドイツにおいて法人（GmbH）を登記した」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「法人登記は、マッピング、現地パートナー、規制当局との対話へ進むための第一歩にすぎない」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「2017年2月：WaymoがUber/Ottoを企業秘密・特許問題で提訴」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「6月：ミュンヘンでドイツ法人を登記」（https://note.com/kagawatomo/n/n56f2676ca976）
+- 失敗・落とし穴：
+  - 「大量のセンサー付き車両を作り、公道を走らせ、失敗例を収集し、シミュレーションし、安全性を検証する必要がある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「現実の失敗や難しい場面を、学習・評価・シミュレーションへ戻す仕組みそのものにある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「サンタモニカの事故でWaymoが「同じ状況で注意深い人間ドライバーなら時速14マイルで接触していたはずだ」と述べたのは、このモデルに基づく主張である」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「一方でソフトウェア特有の未知の失敗モードがある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「だからこそWaymoの競争力は、AIモデルの精度だけでなく「未知の失敗を発見し、安全ケースとして体系化する能力」にある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「要件は「注意深く有能な人間ドライバーと同等以上の安全水準」である」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「Amazonで失敗したのを知らないのかな？」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「単一病院の有症状者のみの検査データを母集団全体に外挿した誤りとみられる」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「さらに、移動式の対処班が夜間にエンジン音を頼りに機関銃で応戦するため、住民は子どもに注意するよう求め、「敵が子どもを夜間の走行に勧誘している」とも主張した」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「コメント：偽の求人で標的の信頼を得てコードを実行させる手口は、影響工作で見られる勧誘・グルーミング型のソーシャルエンジニアリングと構造的に同じであり、未成年や零細開発者という防御の薄い層が標的化されている点に注意を要する」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「AnthropicがMythosのアクセス管理に失敗して米政権の信頼を失い旗艦モデルの撤回に追い込まれたとの報道」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「映画では放送局がAI検出器で映像を本物と判定するが、現実の検出器自体がAIであり、しばしば誤り、任意のナラティブに合わせて操作できる」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「筆者は、核兵器阻止という政権の主張は、本来の目標であった体制転換の失敗から目をそらす方便だと指摘する」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「コメント：対抗措置である偽情報対策機構そのものを「検閲」と描いて事前に正統性を奪う手法は、防御を陰謀の証拠へと転化させるメタ・ナラティブ操作であり、後のいかなる執行も「主張の裏付け」と読み替えさせる再帰的な罠を仕込んでいる」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「GPTZeroのCEOは、信頼性の高い大手の誤りが情報環境を汚染し、二次的なハルシネーションを誘発すると警告している」（https://note.com/ichi_twnovel/n/nb85aec486947）
+- 実例：
+  - 「そこで実世界で遭遇した事例を仮想空間へ持ち込み、条件を変えて何度も再生する」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「2025年から2026年にかけてWaymoが直面したスクールバス、冠水路、高速道路の工事区間といった問題は、いずれも「まれだが確実に起こる事象」であり、閉ループが回りきる前に実運用の規模が先行した結果でもあった」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「安全ケースを体系的に証明しなければならない企業にとって、これは軽い課題ではない」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「米国において、自動運転技術の知的財産をめぐる刑事事件としては最も知られた事例である」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「これは選択の結果ではなく、構造の結果でもある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「ただし、無人車両の後ろを別のTesla車両が追走している事例が報じられ、「本当に無人なのか」という論争が起きた」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「これは米国において、ハンドルもブレーキペダルもない車両が運賃を取った初のケースである」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「どの地域、道路、時間帯、人間ドライバー集団と比較するかによって結果は変わる」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「だからこそWaymoの競争力は、AIモデルの精度だけでなく「未知の失敗を発見し、安全ケースとして体系化する能力」にある」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「牽引禁止区域への駐車や二重駐車で違反切符を切られる事例も報じられている」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「ただし、Waymoとの非排他契約という形は、結果的にWaymoの新しい標準になった」（https://note.com/kagawatomo/n/n56f2676ca976）
+  - 「テック主権というナラティブが、特定の営利プラットフォームへの公的機関の正統性付与に転用され得る構造を示す事例であり、情報主権の追求が新たな依存先を生む逆説を含む」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「AI利用の可視化と序列化が、組織内部における規範形成と同調圧力の装置として機能する事例であり、技術導入が監視とパフォーマンス管理のナラティブへと転化する構図を示す」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「2月には、AIエージェントが自律的かつ匿名で、あるオープンソース開発者を中傷する記事を公開し拡散した事例があった」（https://note.com/ichi_twnovel/n/nb85aec486947）
+  - 「匿名のAIエージェントによる自律的な情報操作という新たな脅威に対し、行為主体の識別とアトリビューション可能性を制度的に担保しようとする、情報空間の責任所在をめぐる先行事例である」（https://note.com/ichi_twnovel/n/nb85aec486947）
+
+## 市場規模の数字の検証（調査主体・調査時期・母数・集計手順の4点・調査会社レポートの推計手順の開示・有料本編の扱い・4-115・4-127）（verifying market size estimates research firm methodology disclosure）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「数えた方法は、報告書に書いてある」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「2024年の大型案件の上位4件のうち、歴代の上位10件に入るのは1件だけで、残る9件は2019〜2022年に集まったという」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「方法の詳細は、三つの公開ページには示されていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「数えた手順が公開されない数字は、数えた主体が名乗っていても、手の届かないところにある」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「JETROが引く統計資料と、共同通信が伝える協会の数字は、どちらも集計の手順を書いていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「ただし、数えた手順は、公開ページには出ておらず、有料の本編の中にあるとみられる」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「有料の本編を読めていないため、三つのページの数字が、どの手順で作られたのかは分からない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「論文のように、手順をすべて開示する場ではない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「その資料の、集計方法の節を読む」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「最後の段で、方法が有料の本編にあると分かれば、そこが公開情報の行き止まりである」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「Methodology Market Research & Consulting Services: Global Market Insights Inc.」（https://www.gminsights.com/research-methodology）
+  - 「A structured, step-by-step approach to uncovering market insights, designed for accuracy, depth, and actionable intelligence.」（https://www.gminsights.com/research-methodology）
+  - 「Global Market Insights follows a rigorous and comprehensive research methodology to calculate every statistical data point across all published reports. An exclusive research design is developed for each study, tailored to the specific market and industry under examination, rather than applied from a generic template.」（https://www.gminsights.com/research-methodology）
+  - 「Bottom-up methodology」（https://www.gminsights.com/research-methodology）
+  - 「Our samples include actual market figures and complete methodology documentation, rather than marketing abstracts. You can cross-check our numbers against your own data before committing to a purchase.」（https://www.gminsights.com/research-methodology）
+- 突き合わせ・推定：
+  - 「その数字は、誰が計ったのか ― 発酵食品市場規模のデータ検証 ―｜Sun&R.Lab合同会社」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「その数字は、誰が計ったのか ― 発酵食品市場規模のデータ検証 ―」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「報告書自身が、これを保守的な推計と呼ぶ」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「第二に、同じページの中に、食い違いがある」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「URLと閲覧日の付いた引用は、読者に検証の入口を手渡す」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「SNS Insiderの2026年6月4日付のページは、2025年を3,022.8億ドルと推計する」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「GMIのページは、2022〜2035年の推計を、金額（億ドル）と数量（キロトン）の両方で行うと書く」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「読者が検証できる形では、示されていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「そのうえで、保守的な推計だと、報告書自身が断る」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「だが、人目を引くことと、検証できることは、別の性質である」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「この検証には、ほかにも限界がある」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「決めていたのは、検証の入口が付いているかどうかだった」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「脚注の番号とURLと閲覧日は、読者に検証の権利を手渡す行為である」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「GFIは、自分の数字を保守的な推計と書き、集計元の替わりも注記した」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「Final Validated Estimate · 7–10 Year Horizon」（https://www.gminsights.com/research-methodology）
+- 一次情報の探し方：
+  - 「日本貿易振興機構（JETRO）の輸出品目別レポート（しょうゆ、2025年7月更新）は、しょうゆ情報センターの統計資料を引く」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「出荷量を数えたのは、しょうゆ情報センターの統計資料である」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「業界団体の日本醤油協会が明らかにした数字だという」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「JETROが引く統計資料と、共同通信が伝える協会の数字は、どちらも集計の手順を書いていない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「調査主体、調査時期、母数を添えるという、統計を引くときの定石を、検査の書式にしたものだ」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「自社で計った数字について、本稿で示せる一次情報はない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「https://gfi.org/wp-content/uploads/2022/04/2021-Fermentation-State-of-the-Industry-Report.pdf」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「https://gfi.org/wp-content/uploads/2025/04/2024-Executive-summary-Fermentation-for-meat-seafood-eggs-dairy-and-ingredients.pdf」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「https://www.jetro.go.jp/ext_images/industry/foods/item/19.pdf」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「Corporate filings and investor disclosures」（https://www.gminsights.com/research-methodology）
+  - 「Every purchase includes a PDF report, Excel workbook, and structured dataset at no extra charge so research flows seamlessly from board presentation to financial model to」（https://www.gminsights.com/research-methodology）
+- 失敗・落とし穴：
+  - 「これは、数字を誤りと断ずるものではない」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「では、総説の予測は誤りだったのか」（https://note.com/sun_r_lab/n/n495b9a988be5）
+  - 「注記がないことと、誤りであることは、別の話である」（https://note.com/sun_r_lab/n/n495b9a988be5）
+- 実例：記載なし（読んだ31頁・検索12回）
+
+## 専門家インタビュー（エキスパートコール）の設計と裏取り（問いの型の固定・崩す側の問い・複数人で比べる・記録の原文で確かめる・未公開情報の扱い・4-106・4-127）（expert call interview guide design triangulation investment research）
+- 文脈：手順
+- 手順・やり方：
+  - 「セミエキスパートインタビューの調査方法・調査の流れ」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「Top Tierの戦略コンサル出身者が自ら実践する中で繰り返しアップデートしている手順や資料フォーマットを用い、高いクオリティーのアウトプットを納品いたします」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「STEP1 事前打ち合わせ」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「STEP2 対象者リクルーティング」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「STEP3 インタビュー実施」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「STEP4 納品」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「エキスパートインタビューのやり方｜コンサル流の設計・実施・示唆抽出を解説 | ConStep」（https://constep.jp/column/2835）
+  - 「エキスパートインタビューのやり方｜コンサル流の設計・実施・示唆抽出を解説」（https://constep.jp/column/2835）
+  - 「本記事では、エキスパートインタビューを「単なる情報収集」から「仮説検証の精密手段」に引き上げるための設計・実施・示唆抽出の方法論を、現役コンサルタント監修の視点で体系的に整理します」（https://constep.jp/column/2835）
+  - 「質問設計は仮説提示型が基本で、オープン質問の連発は避ける」（https://constep.jp/column/2835）
+  - 「どの反応であっても、仮説提示型のほうがオープン質問より圧倒的に有益な情報が得られます」（https://constep.jp/column/2835）
+  - 「エキスパートネットワークサービス（GLG、Coleman、Third Bridge等）を使う方法、業界知人からの紹介、LinkedInによる直接接触などです」（https://constep.jp/column/2835）
+  - 「ConStepを運営する株式会社Ballistaは、戦略系・大手コンサルファーム出身者が結集したプロフェッショナルファームとして、自社で中堅コンサルタント層のエキスパートインタビュー力を育成してきた経験を持ちます」（https://constep.jp/column/2835）
+  - 「ConStepの教材『リサーチ』では、エキスパートインタビューの設計・実施・示唆抽出までを、実務シナリオに沿って体系的に学べる構成にしています」（https://constep.jp/column/2835）
+  - 「仮説提示型の質問が、オープン質問より圧倒的に深い情報を引き出す」（https://constep.jp/column/2835）
+- 突き合わせ・推定：
+  - 「特に、セミエキスパートインタビューとは特定企業の部門や役職を条件として対象をリクルーティングするのではなく、業界全体・職種全体を検索対象とすることでよりクイックに対象者を確保し仮説検証を行うことが可能です」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「ある業界や職種のエキスパートに対して、クイックに仮説検証ができる」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「一方で、実務では「相手の話を聞いて終わり」「断片情報の集積になってしまう」「仮説検証にならない」という課題が頻発します」（https://constep.jp/column/2835）
+  - 「本記事では、エキスパートインタビューを「単なる情報収集」から「仮説検証の精密手段」に引き上げるための設計・実施・示唆抽出の方法論を、現役コンサルタント監修の視点で体系的に整理します」（https://constep.jp/column/2835）
+  - 「エキスパートインタビューは「情報収集」ではなく「仮説検証」の手段として位置づける」（https://constep.jp/column/2835）
+  - 「質問設計は仮説提示型が基本で、オープン質問の連発は避ける」（https://constep.jp/column/2835）
+  - 「エキスパートインタビューの位置づけ──情報収集ではなく仮説検証」（https://constep.jp/column/2835）
+  - 「エキスパートインタビューの本質は、情報収集ではなく仮説検証です」（https://constep.jp/column/2835）
+  - 「引き出すためには、こちらが仮説を持って臨み、「私たちはAという仮説を立てているが、これは妥当か」と問いかける必要があります」（https://constep.jp/column/2835）
+  - 「仮説を提示すると、相手は「同意する／部分的に異なる／そもそも論点設定が違う」のいずれかの反応を返します」（https://constep.jp/column/2835）
+  - 「同意なら仮説が補強され、異なるなら理由が引き出せ、論点違いならインタビュー全体の方向が修正できます」（https://constep.jp/column/2835）
+  - 「どの反応であっても、仮説提示型のほうがオープン質問より圧倒的に有益な情報が得られます」（https://constep.jp/column/2835）
+  - 「完全に未知の領域では、仮説を持ち得ない場合もあります」（https://constep.jp/column/2835）
+  - 「その場合は、まず公開情報を徹底的に読み込んで粗い仮説を作り、それから初回インタビューに臨むのが正攻法です」（https://constep.jp/column/2835）
+  - 「公開情報の読み込みから、現時点での仮説を言語化します」（https://constep.jp/column/2835）
+- 一次情報の探し方：
+  - 「業界レポート、有価証券報告書、IR資料、業界紙の記事、書籍、論文などを30〜50点単位で読み込み、業界の構造・主要プレイヤー・直近のトピックを把握します」（https://constep.jp/column/2835）
+  - 「エキスパートインタビューとは、特定の業界や分野において豊富な知見を持つ専門家（エキスパート）から、直接ヒアリングを行うことで、質の高い一次情報を収集するリサーチ手法です」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「専門家から質の高い一次情報を得るための手法」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「その最大の目的は、公開情報や一般的な市場調査レポートからは得られない、質の高い「一次情報」を収集することにあります」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「ここで言う一次情報とは、専門家自身の経験、見解、分析、予測といった、独自の視点が含まれた情報のことを指します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「「そのスタートアップが持つ特許技術は、今後5年、10年というスパンで業界の主流になりうるか？代替技術が登場するリスクはどの程度か？」」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「どのような経験年数や専門スキルを持っているか？（例：「〇〇業界で10年以上のプロダクト開発経験を持つ」「〇〇という特定技術に関する特許を取得している」「海外市場の立ち上げを経験したことがある」）」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「専門家の経験に裏打ちされた一次情報に触れることで、事業の仮説を検証し、意思決定の精度を高め、組織に新たな視点をもたらすことができます」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+- 失敗・落とし穴：
+  - 「書籍を1冊書いただけの著者は、書籍に書いていない情報を持っているとは限らないため、選定時には注意が必要です」（https://constep.jp/column/2835）
+  - 「この記事では、エキスパートインタビューの基本的な知識から、具体的な実施ステップ、成功に導くための依頼や質問設計のコツ、さらには実践で役立つ質問例集や注意点まで、網羅的に解説します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「エキスパートインタビューでよくある失敗と注意点」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「業界の課題と将来性、競合の動向、技術の進化、成功/失敗の要因、ビジネス上の意思決定プロセスなど」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「しかし、それは失敗ではなく、むしろ開発に着手する前に致命的な過ちを回避できた「成功」と捉えるべきです」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「また、社内の人間は、良くも悪くも自社のバイアス（思い込みや固定観念）から逃れることは困難です」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「組織の思い込み（アンコンシャス・バイアス）を打ち破り、新たな発想を生むきっかけ」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「ただし、面識のない相手に突然連絡を取ることになるため、依頼の文面には細心の注意を払い、丁寧なコミュニケーションを心がける必要があります」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「まずは相手の経歴や、その業界に関わるようになったきっかけ、過去の成功体験や失敗談などを聞きます」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「ただし、詰問調にならないよう、口調や表情には注意が必要です」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「成功体験だけでなく、失敗体験を聞くことで、業界特有の落とし穴やリスクに関するリアルな情報を得られます」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「エキスパートインタビューは非常に強力な手法ですが、いくつかの落とし穴も存在します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「事前に典型的な失敗例とその対策を理解しておくことで、貴重な機会を無駄にすることを防げます」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「ここでは、よくある失敗とその注意点を4つ紹介します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「最も多く、そして最も致命的な失敗が、」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+- 実例：
+  - 「専門家は多忙なケースが多いため、短時間で必要な情報を引き出す必要があります」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「エキスパートであっても消費者向けのアンケートパネルに登録されているケースは多く、出現率が高そうな対象者を設定している場合には消費者パネルを通じてリクルーティングが可能です」（https://quest-research.co.jp/research/semi-expert-interview）
+  - 「エキスパートが何かを発言したら、「なぜそう考えるのですか」「具体的な事例はありますか」「逆に当てはまらないケースはありますか」と、深掘り質問を3段重ねます」（https://constep.jp/column/2835）
+  - 「質問者が沈黙に耐えられず追加で説明を始めると、相手の思考が中断され、結果として浅い回答に終わります」（https://constep.jp/column/2835）
+  - 「複数人のインタビュー結果を、論点ごとに「全員が同意した点」「多くが同意したが一部異論あり」「人によって意見が割れた点」の3段階で整理します」（https://constep.jp/column/2835）
+  - 「整理結果から、意思決定に直結する示唆を1〜3個に絞ります」（https://constep.jp/column/2835）
+  - 「元経営層・希少領域の専門家になると、1時間20万円を超えるケースもあります」（https://constep.jp/column/2835）
+  - 「Q. インタビュー結果を社内でどう活用すべきですか？」（https://constep.jp/column/2835）
+  - 「例えば、以下のような情報が該当します」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「例えば、新しいSaaSプロダクトを開発する場合、まずエキスパートインタビューで「そもそもその市場に将来性はあるのか」「どのようなビジネスモデルが成功しやすいのか」といった大局的な情報を掴み、その後、ユーザーインタビューで「具体的なターゲットユーザーはどのような業務課題を抱えているのか」「プロトタイプは使いやすいか」といった詳細なニーズを探るといった、両者を組み合わせたアプローチが非常に効果的です」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「例えば、あるIT企業が「建設業界向けのプロジェクト管理SaaS」という新規事業を検討しているとします」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「例えば、ある製造業の企業が、新たな技術を持つスタートアップ企業の買収（M&A）を検討しているとします」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「例えば、金融業界のセキュリティ対策の専門家に話を聞くことで、自社のECサイトの不正利用対策に応用できる新たな知見が得られるかもしれません」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「この最初のステップが曖昧なまま進むと、インタビュー全体が散漫になり、時間とコストをかけたにもかかわらず、何の成果も得られないという最悪の結果を招きかねません」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
+  - 「例えば、「BtoB SaaSの価格戦略について知りたい」という目的であれば、自社のプロダクトマネージャーではなく、複数のSaaS企業で価格設定の意思決定に関わった経験のある事業責任者や、SaaS業界専門のコンサルタントが最適な対象者となります」（https://crexgroup.com/ja/data/column/research-methods/expert-interview-guide/）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

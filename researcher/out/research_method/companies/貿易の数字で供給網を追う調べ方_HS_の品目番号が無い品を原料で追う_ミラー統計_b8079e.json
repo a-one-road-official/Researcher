@@ -1,0 +1,413 @@
+{
+ "name": "貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126）",
+ "en": "trace supply chain with trade statistics mirror data HS code precursor seasonal anomaly investigative",
+ "aliases": [
+  "貿易統計 ミラー 統計 調べ方 HSコード",
+  "船荷証券 データ 調査報道 供給網",
+  "UN Comtrade mirror data anomaly investigation guide"
+ ],
+ "context": "探し先",
+ "kind": "market",
+ "researched_at": "2026-11-09T10:52:33.252235+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/bon0404/n/nf0836e8a13ac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jkmf/n/n30a843195d50",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/glad_auklet4142/n/na200b2acceda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/biz_note_lab/n/nd7f843c553f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hafnium/n/n722157e96d45",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nd020393f829b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA0620Z0W6A500C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/howto/krei.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/finance/keiei/pdf/nouhau_top/yusyutu_note.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ti.com/bin/ti/transcripts/5415203482001_ja-jp.json",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gov_stock_lab/n/n73a09c3b7611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/howto/hs.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD0892O0Y5A700C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lanes.info/import-dependency-howto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hunade.com/category/tools-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ebis.obda.or.jp/faq/1565",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nx-soken.co.jp/topics/global_19_rees_supply_chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokio-dr.jp/publication/column/176.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/economic_security/best_practice2.0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/archive.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.shippio.io/useful-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCB2430S0U6A820C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2949791425000582",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hstoday.us/featured/degrading-the-precursor-chemical-supply-chain-to-reduce-the-distribution-of-fentanyl-in-the-homeland/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.census.gov/data/experimental-data-products/trade-by-industry-and-product-statistics/tips-methodology-2021-2022-revised-nov2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tradedatamonitor.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/international-trade-data-statistical-confidentiality",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldcustomsjournal.org/article/116216-mirror-analysis-as-a-support-for-risk-management-and-valuation-a-practical-study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126） site:note.com",
+   "results": [
+    "https://note.com/bon0404/n/nf0836e8a13ac",
+    "https://note.com/jkmf/n/n30a843195d50",
+    "https://note.com/glad_auklet4142/n/na200b2acceda",
+    "https://note.com/biz_note_lab/n/nd7f843c553f5",
+    "https://note.com/hafnium/n/n722157e96d45",
+    "https://note.com/hirokimiyano/n/nd020393f829b",
+    "https://note.com/winekabuki/n/n062331f0fc08",
+    "https://note.com/tag/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3",
+    "https://note.com/norito_hiraoka/n/n2b3f6fd1128b",
+    "https://note.com/gov_stock_lab/n/n73a09c3b7611"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126） note",
+   "results": [
+    "https://note.com/glad_auklet4142/n/na200b2acceda",
+    "https://www.nikkei.com/article/DGXZQOUA0620Z0W6A500C2000000/",
+    "https://note.com/tag/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3",
+    "https://note.com/bon0404/n/nf0836e8a13ac",
+    "https://www.customs.go.jp/toukei/sankou/howto/krei.htm",
+    "https://www.jfc.go.jp/n/finance/keiei/pdf/nouhau_top/yusyutu_note.pdf",
+    "https://www.ti.com/bin/ti/transcripts/5415203482001_ja-jp.json",
+    "https://note.com/jkmf/n/n30a843195d50",
+    "https://note.com/gov_stock_lab/n/n73a09c3b7611",
+    "https://lanes.info/un-comtrade-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126） やり方",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/howto/hs.htm",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://www.nikkei.com/article/DGXZQOCD0892O0Y5A700C2000000/",
+    "https://lanes.info/import-dependency-howto/",
+    "https://hunade.com/category/tools-data",
+    "https://ebis.obda.or.jp/faq/1565",
+    "https://www.jetro.go.jp/",
+    "https://service.shippio.io/useful-info/",
+    "https://lanes.info/un-comtrade-guide/",
+    "https://lanes.info/free-sc-risk-analysis/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126） 事例",
+   "results": [
+    "https://www.nx-soken.co.jp/topics/global_19_rees_supply_chain",
+    "https://www.tokio-dr.jp/publication/column/176.html",
+    "https://www.meti.go.jp/policy/economy/economic_security/best_practice2.0.pdf",
+    "https://www.customs.go.jp/toukei/sankou/howto/krei.htm",
+    "https://www.jetro.go.jp/biz/areareports/archive.html",
+    "https://service.shippio.io/useful-info/",
+    "https://www.nikkei.com/article/DGXZQOCB2430S0U6A820C2000000/",
+    "https://www.cistec.or.jp/",
+    "https://www.rieti.go.jp/jp/papers/contribution/tomiura/04.html",
+    "https://lanes.info/un-comtrade-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "trace supply chain with trade statistics mirror data HS code precursor seasonal anomaly investigative",
+   "results": [
+    "https://www.sciencedirect.com/science/article/pii/S2949791425000582",
+    "https://www.hstoday.us/featured/degrading-the-precursor-chemical-supply-chain-to-reduce-the-distribution-of-fentanyl-in-the-homeland/",
+    "https://www2.census.gov/data/experimental-data-products/trade-by-industry-and-product-statistics/tips-methodology-2021-2022-revised-nov2025.pdf",
+    "https://tradedatamonitor.com/products/",
+    "https://www.spglobal.com/market-intelligence/en/news-insights/research/international-trade-data-statistical-confidentiality",
+    "https://www.worldcustomsjournal.org/article/116216-mirror-analysis-as-a-support-for-risk-management-and-valuation-a-practical-study.pdf",
+    "https://www.preprints.org/manuscript/202512.0844",
+    "http://www.tracit.org/uploads/1/0/2/2/102238034/tracit_exposing_supply_chain_vulnerabilities_to_illicit_trade_nov2023_full_report.pdf",
+    "https://arxiv.org/pdf/2512.07864"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126）",
+   "results": [
+    "https://note.com/bon0404/n/nf0836e8a13ac",
+    "https://note.com/hafnium/n/n722157e96d45",
+    "https://note.com/jkmf/n/n30a843195d50",
+    "https://note.com/glad_auklet4142/n/na200b2acceda",
+    "https://note.com/biz_note_lab/n/nd7f843c553f5",
+    "https://note.com/hirokimiyano/n/nd020393f829b",
+    "https://note.com/winekabuki/n/n062331f0fc08",
+    "https://note.com/norito_hiraoka/n/n2b3f6fd1128b",
+    "https://note.com/tag/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3",
+    "https://note.com/s_shindan/n/nf63a42748ce5"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com 貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2106235657211523103",
+    "https://x.com/luigi_jpn/status/2113527379352252645",
+    "https://x.com/k_koga555/status/2117645643972035035",
+    "https://x.com/luigi_jpn/article/2066479056896598462",
+    "https://x.com/luigi_jpn/article/2070673813524926472?lang=da",
+    "https://x.com/luigi_jpn/status/2117205424495559062",
+    "https://x.com/jimin_koho/status/2048949311892066449",
+    "https://x.com/luigi_jpn/article/2091082601054523816",
+    "https://x.com/luigi_jpn/article/2060619527810060389",
+    "https://x.com/FukuroStocks/article/2110220068173038046"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126）",
+   "results": [
+    "https://jp.linkedin.com/pulse/letter-credit-back-canadian-exporters-should-paying-citp-mba-sunie?tl=ja",
+    "https://www.linkedin.com/pulse/japans-new-political-equation-return-strategic-craig-peacock-ojyrc",
+    "https://jp.linkedin.com/pulse/economy-broken-under-pressure-has-been-building-arjen-van-berkum-0j4re?tl=ja",
+    "https://jp.linkedin.com/pulse/just-in-time-trap-why-nobodys-going-back-steve-beda-jx0zc?tl=ja",
+    "https://in.linkedin.com/in/takashi-kawabata/ja",
+    "https://jp.linkedin.com/pulse/world-energy-2026-fabricio-sierra-7uase?tl=ja",
+    "https://jp.linkedin.com/in/maki-tagaya-a2486095",
+    "https://jp.linkedin.com/in/hiroki-saito-098961150",
+    "https://jp.linkedin.com/in/eiichiro-nagasawa-b7673a70",
+    "https://jp.linkedin.com/in/tadashi%EF%BC%88%E5%BF%A0%E5%8F%B8%EF%BC%89-tanaka%EF%BC%88%E7%94%B0%E4%B8%AD%EF%BC%89-8b31b046"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126）",
+   "results": [
+    "https://www.facebook.com/100003298924257/posts/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A15%E4%B8%87%E5%86%86%E7%AA%81%E7%A0%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E7%9A%84%E6%84%8F%E7%BE%A9-aila%E6%8A%95%E8%B3%87%E9%83%A8%E9%96%802025%E5%B9%B410%E6%9C%8827%E6%97%A5%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB5%E4%B8%87%E5%86%86%E3%81%AE%E5%A4%A7%E5%8F%B0%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%AD%B4%E5%8F%B2%E7%9A%84%E8%BB%A2%E6%8F%9B%E7%82%B9%E3%81%A7%E3%81%82/24891903433836277/",
+    "https://www.facebook.com/100004362031123/photos/2026%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E3%81%AE%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E8%BC%B8%E5%87%BA%E6%AF%94%E8%BC%83%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AA%B2%E9%A1%8C-ai%E6%8A%95%E8%B3%87%E3%81%8C%E5%A4%89%E3%81%88%E3%82%8B%E8%BC%B8%E5%87%BA%E6%A7%8B%E9%80%A0-2026%E5%B9%B411%E6%9C%882026%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F16%E6%9C%88%E6%97%A5%E6%9C%AC%E3%81%AE%E5%95%86%E5%93%81%E8%BC%B8%E5%87%BA%E9%A1%8D%E3%81%AF%E7%B4%8460%E5%85%866581%E5%84%84%E5%86%86%E3%81%A8%E3%81%AA%E3%82%8A%E5%89%8D%E5%B9%B4/3752041658284532/",
+    "https://www.facebook.com/100004362031123/posts/6%E5%B9%B4%E5%BE%8C/3745346922287339/",
+    "https://www.facebook.com/p/%E5%B0%B9%E6%88%90%E5%8B%B2-100004362031123/",
+    "https://www.facebook.com/takeshi.noguchi.37454/",
+    "https://www.facebook.com/100004362031123/posts/%E5%81%95%E6%A5%BD%E5%9C%92%E3%81%AB%E3%81%82%E3%82%8B%E6%BC%A2%E6%96%87%E7%9F%B3%E7%A2%91-%E6%AD%B4%E5%8F%B2%E3%82%92%E5%AD%A6%E3%81%B6_%E3%81%93%E3%81%AE%E7%A2%91%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E6%BC%A2%E5%AD%97%E3%81%AA%E3%81%AE%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE%E5%8F%A4%E5%85%B8%E6%96%87%E7%AB%A0%E8%AA%9E%E3%81%A7%E3%81%82%E3%82%8B%E6%BC%A2%E6%96%87%E3%81%8C%E6%98%8E%E6%B2%BB%E6%99%82%E4%BB%A3%E3%81%AB%E3%82%82%E6%97%A5%E6%9C%AC%E3%81%A7%E4%BA%BA%E7%89%A9%E3%81%AE%E5%8A%9F%E7%B8%BE%E3%82%92%E5%BE%8C%E4%B8%96%E3%81%AB%E4%BC%9D%E3%81%88%E3%82%8B%E6%A0%BC%E5%BC%8F%E3%81%82%E3%82%8B%E6%96%87%E4%BD%93%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E3%81%9F/3754561328032565/",
+    "https://www.facebook.com/NXlric/posts/news%E6%B8%AF%E6%B9%BE%E6%B7%B7%E9%9B%91%E3%81%8C%E5%B8%B8%E6%85%8B%E5%8C%96%E9%81%8B%E8%B3%83%E4%B8%8A%E6%98%87%E3%81%B8-%E5%8F%B0%E9%A2%A8%E3%81%A7%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A6%81%E6%B8%AF%E3%81%AE%E8%88%B9%E8%88%B6%E5%BE%85%E3%81%A1%E3%81%8C%E6%9C%80%E9%95%B712%E6%97%A5%E3%81%BB%E3%81%A9%E3%81%AB%E5%8F%8A%E3%81%B3%E8%88%B9%E8%85%B9%E9%87%8F%E3%81%AE12%E3%82%92%E5%9C%A7%E8%BF%AB%E9%9C%80%E8%A6%81%E3%81%AF%E5%A0%85%E8%AA%BF%E3%81%A7%E4%B8%BB%E8%A6%81%E8%88%B9%E7%A4%BE%E3%81%AE%E8%88%B9%E8%88%B6%E7%A8%BC%E5%83%8D%E7%8E%87%E3%82%8290%E8%B6%85%E3%81%AB%E6%B8%AF%E6%B9%BE%E3%82%84%E9%99%B8%E4%B8%8A%E8%BC%B8%E9%80%81%E3%81%AE/1084265201021528/",
+    "https://www.facebook.com/CCPOUTJP/videos/%E4%B8%AD%E5%9B%BD%E8%A3%BD%E9%80%A0%E6%A5%ADpmi%E6%82%AA%E5%8C%96-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%B8%E3%81%AE%E6%B3%A2%E5%8F%8A%E3%81%A8%E4%B8%AD%E5%9B%BD%E4%BE%9D%E5%AD%98%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E4%B8%AD%E5%9B%BD%E3%81%AE10%E6%9C%88%E3%81%AE%E8%A3%BD%E9%80%A0%E6%A5%ADpmi%E3%81%AF493%E3%81%A8%E3%81%AA%E3%82%8A%E6%99%AF%E6%B0%97%E3%81%AE%E5%88%86%E5%B2%90%E7%82%B9%E3%81%A7%E3%81%82%E3%82%8B50%E3%82%92%E5%86%8D%E3%81%B3%E4%B8%8B%E5%9B%9E%E3%81%A3%E3%81%9F%E3%81%93%E3%82%8C%E3%81%AF%E4%B8%80%E6%99%82%E7%9A%84%E3%81%AA%E6%B8%9B%E9%80%9F%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E4%B8%AD/1029386400174102/",
+    "https://www.facebook.com/irpproducts/?locale=ja_JP",
+    "https://www.facebook.com/100015175352703/posts/2728078547707964/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126） note 社長",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOCB2430S0U6A820C2000000/",
+    "https://www.ti.com/bin/ti/transcripts/5415203482001_ja-jp.json",
+    "https://note.com/kens_reading1/n/n788f5ffc23ed",
+    "https://www.jfc.go.jp/n/finance/keiei/pdf/nouhau_top/yusyutu_note.pdf",
+    "https://www.jiji.com/jc/article?k=2026031301258&g=eco",
+    "https://note.com/glad_auklet4142/n/n3696cc049baf",
+    "https://www.nli-research.co.jp/report_tag/tag_id=261?site=nli",
+    "https://www.rieti.go.jp/jp/papers/contribution/tomiura/04.html",
+    "https://note.com/hirokimiyano/n/n4adfcf292423",
+    "https://note.com/hkunimitsu/n/n10afd8c29800"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126） X 投稿",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUA0620Z0W6A500C2000000/",
+    "https://newspicks.com/topics/uptheriver/posts/41",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://www.jetro.go.jp/",
+    "https://www.nx-soken.co.jp/topics/logistics-2012-01",
+    "https://www.youtube.com/watch?v=ZG8BJmPhzNo",
+    "https://www.jri.co.jp/page.jsp?id=114632",
+    "https://www.customs.go.jp/toukei/latest/index.htm",
+    "https://global-scm.com/blog/?cat=657",
+    "https://lanes.info/un-comtrade-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "trace supply chain with trade statistics mirror data HS code precursor seasonal anomaly investigative site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/behzadhezarkhani_reflections-of-global-supply-chains-in-mirror-activity-7366117087011938304-7I_6",
+    "https://www.linkedin.com/posts/u-s-department-of-labor_weve-updated-our-supplychaintrace-tool-with-activity-7465455564395958272-0uWe",
+    "https://de.linkedin.com/pulse/why-so-hard-trace-supply-chains-data-dau8f?tl=de",
+    "https://au.linkedin.com/company/trace-sci",
+    "https://www.linkedin.com/products/commodities-intelligence-centre-trade-data-pro/",
+    "https://www.linkedin.com/company/supplytrace",
+    "https://www.linkedin.com/posts/trademo-inc_trade-seasonality-anomaly-activity-7482420775187316736-87WQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-09T10:52:33.252235+00:00"
+}

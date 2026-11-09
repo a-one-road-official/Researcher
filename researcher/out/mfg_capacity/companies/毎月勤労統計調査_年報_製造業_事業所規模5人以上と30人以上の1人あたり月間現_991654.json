@@ -1,0 +1,1250 @@
+{
+ "name": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126）",
+ "en": "Monthly Labour Survey annual report manufacturing cash earnings per employee by establishment size",
+ "aliases": [
+  "毎月勤労統計 年報 製造業 現金給与総額 規模5人以上 e-Stat",
+  "毎月勤労統計 製造業 30人以上 きまって支給する給与 年平均",
+  "毎勤 製造業 1人平均月間現金給与額 表"
+ ],
+ "context": "統計の総額",
+ "kind": "market",
+ "researched_at": "2026-11-09T10:52:33.329685+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "）、 教育，学習支援業、医療，福祉、複合サービス事業、サービス業（他に分類されないもの）（ただし、外国公務を除く） において常時5人以上の常用労働者を雇用する全事業所とし、 その中から産業・規模ごとに無作為抽出された和歌山県内約530事業所について調査を行っています",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は、調査事業所からの報告をもとに県内の5人以上のすべての事業所に対応するように 復元して算定したものです",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "月報「統計表（指数・実数）事業所規模5人以上、30人以上」、年平均、 夏季賞与、年末賞与、特別調査",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象事業所のうち30人以上規模事業所の抽出方法は、平成30年から、従来の2～3年に一度行う総入替え方式から、毎年1月分調査時に行う部分入替え方式に変更しました",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、5～29人規模事業所については、半年ごとに全体の調査事業所の3分の1を交替し、各組は18か月間継続するローテーション方式により調査を行っています",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "​ 令和７年年報の公表資料について、掲載するグラフを事業所規模30 人以上から５人以上に",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 産業、性別常用労働者の１人平均月間現金給与額",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業、性別常用労働者の１人平均出勤日数及び実労働時間",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業、性別常用労働者数及びパートタイム労働者数",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 産業、就業形態別常用労働者の１人平均月間現金給与額",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業、就業形態別常用労働者の１人平均月間出勤日数及び実労働時間数",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 産業、就業形態別常用労働者数",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "1 事業所規模 5人以上",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "2 事業所規模 30人以上",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業、性別常用労働者の1人平均月間現金給与額",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 産業、性別常用労働者の1人平均出勤日数及び実労働時間",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 産業、性別常用労働者数及びパートタイム労働者",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5表 産業、就業形態別常用労働者の1人平均月間現金給与額",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6表 産業、就業形態別常用労働者の1人平均月間出勤日数及び実労働時間数",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7表 産業、就業形態別常用労働者数",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1表 産業、性別常用労働者の１人平均月間現金給与額",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2表 産業、性別常用労働者の１人平均出勤日数及び実労働時間",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3表 産業、性別常用労働者数及びパートタイム労働者数",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "この調査は、５人以上の常用労働者を雇用している事業所を対象として毎月",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "実施するほか、「特別調査」として１～４人の常用労働者を雇用している事業",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（３）産業別常用労働者数 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象とするのは、そのうち５人以上の常用労働者を雇用する事業所（産業・規模ごとに無作",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)常用労働者 一般労働者 パートタイム労働者",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期間を定めず、又は１か 常用労働者のうちパートタイム １日の所定労働時間又は１週の",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本県の５人以上の全ての事業所に対応するように復元して算定している",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年１月分調査において規模３０人以上の標本事業所の抽出替えを行った",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 本書中で「規模５人以上」とは事業所規模５人以上のことを指し、「規模３０人以上」とは事業",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所規模３０人以上のことを指す",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、「規模５人以上」の集計結果は、「規模３０人以上」を含め",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成２1年の１人平均月間現金給与総額は、規模５人以上の調査産業計で３１２,４０９円（規",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "模３０人以上では、３５３,７８６円）となり、名目賃金指数（平成１７年平均＝１００ 以下、",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は９４．５、前年比４．１％減（規模３０人以上では、名目賃金指数は９８．６、",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現金給与総額のうち、定期給与額は、調査産業計で２６０,５２９円（規模３０人以上では、２",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８７,８９８円）となり、定期給与指数は９６．８、前年比２．４％減（規模３０人以上では、定",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円（規模３０人以上では、６５,８８８円） 、前年差６,２６９円減（規模３０人以上では前年差９,",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月分の調査産業計、事業所規模5人以上でみると",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者の1人平均月間現金給与額（5人以上、30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者の1人平均月間実労働時間及び出勤日数（5人以上、30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者数、パートタイム労働者数及び労働異動率（5人以上、30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数、労働時間指数及び常用雇用指数（調査産業計、5人以上、30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "賃金指数、労働時間指数及び常用雇用指数（製造業、5人以上、30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・男女別常用労働者の1人平均月間現金給与額（5人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・男女別常用労働者の1人平均月間現金給与額（30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・男女別常用労働者の1人平均月間出勤日数及び実労働時間数（5人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・男女別常用労働者の1人平均月間出勤日数及び実労働時間数（30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・男女別常用労働者数、就業形態別労働者数及び労働異動率（5人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・男女別常用労働者数、就業形態別労働者数及び労働異動率（30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・就業形態別の1人平均月間現金給与額（5人以上、30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業・就業形態別の1人平均月間出勤日数及び実労働時間数（5人以上、30人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模・男女別常用労働者の1人平均月間現金給与額（調査産業計）、事業所規模・男女別常用労働者の1人平均月間出勤日数及び実労働時間（調査産業計）、事業所規模・就業形態別の1人平均月間現金給与額（調査産業計）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模・男女別常用労働者の1人平均月間現金給与額（製造業）、事業所規模・男女別常用労働者の1人平均月間出勤日数及び実労働時間（製造業）、事業所規模・就業形態別の1人平均月間現金給与額（製造業）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "共通事業所による前年同月比（5人以上）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人番号1000020230006",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模5人以上",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模30人以上",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "増加（減少）労働者数の前調査期間末労働者数に対する割合",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "年平均確報の公表資料に、産業別・性別実数表、時系列表を追加した年報を翌年秋ごろに公表しています",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和７年(2025年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和６年(2024年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和５年(2023年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和４年(2022年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和３年(2021年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和２年(2020年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和元年(2019年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年(2018年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成29年(2017年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年(2016年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年(2015年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成22年(2010年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成10年(1998年)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "実数の改定は行わないため時系列比較の際は、こちら（",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和7年（2025年）",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、実数表（年平均）、時系列表の変更はありません",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "時系列表 (Excelファイル)(166KB)",
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業所間の雇用の流動状 月間増加労働者数 月間減少労働者数×１００ ×１００況を示す指標 前月末労働者数 前月末労働者数",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③ 前年比は、抽出替えに伴うギャップ修正をした指数をもとに算出しているため、実数で計算し",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 指数、前年比などの増減率は、標本事業所の抽出替え等に伴い将来改訂されることがある",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）は９４．５、前年比４．１％減（規模３０人以上では、名目賃金指数は９８．６、",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年比４.４％減）であった",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８７,８９８円）となり、定期給与指数は９６．８、前年比２．４％減（規模３０人以上では、定",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "期給与指数は１００．２、前年比１．７％減）であり、特別給与額は、調査産業計で５１,８８０",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１-１ １人平均月間現金給与総額の推移 （調査産業計）",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注) 前年比は抽出替えに伴うギャップ修正をした指数をもとに算出しているため、実数で計算した場合と必ずしも一致しない",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、現金給与総額の前年比は、名目賃金指数をもとに算出したものである",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１－２ 賃金指数の推移 （調査産業計）",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１－１ １人平均月間現金給与総額の推移 （規模５人以上 調査産業計）",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１－３ 賃金指数の推移 （規模５人以上 調査産業計）",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図１－４ 主な産業別現金給与指数の推移 （規模５人以上）",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人以上では、２０．０日）で、前年比０.７日減（規模３０人以上では、０.４日減）であった",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "９時間） 、前年比３．３％減（規模３０人以上では、前年比３．３％減)であった",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２時間） 、前年比２．４％減、 （規模３０人以上では、１．８％減）で、所定外労働時間数は、１",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "０．０時間（規模３０人以上では、１１．７時間） 、前年比１４．５％減（規模３０人以上では、",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "296,189円となり、前年同月に比べ2.0％の増加（23か月連続）​​",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "101.4（2020年平均＝100）となり、前年同月に比べ0.8％の増加（36か月連続）",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "あいちの勤労（長期時系列表）トップページへ",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人番号1000020230006",
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "pass": 3
+   },
+   {
+    "quote": "掲載日：2018年1月8日",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成20年の1人平均月間現金給与総額は、調査産業計で297,423円となり、前年比は1.8％増となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "現金給与総額のうち、きまって支給する給与は246,925円となり、前年比0.7％増となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成20年平均の全産業に占める常用労働者数の割合の最も高い製造業についてみると、現金給与総額は348,439円となり、前年比1.3％減、きまって支給する給与は287,220円で前年比2.0％減となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "実質賃金（現金給与総額）は、調査産業計で前年比0.5％増、製造業で2.6％減となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業別に現金給与総額の前年比をみると、増加率が最も大きかったのは、複合サービス事業の24.2％増であり、次いで不動産業の15.9％増であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、減少率が最も大きかったのは、金融・保険業の11.0％減であり、次いで飲食店,宿泊業の5.0％減であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "きまって支給する給与で増加率が最も大きかったのは、複合サービス事業の13.7％増であり、次いで教育,学習支援業の12.4％増であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、減少率が最も大きかったのは、金融・保険業の7.7％減であり、次いでサービス業の6.2％減であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "特別に支払われた給与の実額を前年と比べると、増加額が最も多かったのは複合サービス事業の49,124円増であり、次いで教育,学習支援業の16,945円増であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、減少額が最も多かったのは金融・保険業の18,822円減であり、次いで情報通信業の17,390円減であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを産業別にみると、増加日数が最も大きかったのは、教育,学習支援業で1.2日増の16.8日となり、次いで不動産業が0.3日増の20.5日となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、減少日数が最も大きかったのは、電気・ガス業で0.5日減の18.6日、次いで建設業が0.4日減の20.9日であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成20年の1人平均月間総実労働時間は、調査産業計で140.9時間となり、前年比は0.2％減となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業別に総実労働時間の前年比をみると、増加率が最も大きかったのは、教育,学習支援業の14.7％増であり、次いで医療,福祉の7.6％増であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、減少率が最も大きかったのは、サービス業の6.7％減であり、次いで製造業の3.2％減であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に総実労働時間の内訳をみると、所定内労働時間は調査産業計で130.9時間(前年比0.9％増)となり、所定外労働時間は10.0時間(前年比13.4％減)となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業別に前年比をみると、所定内労働時間では、増加率が最も大きかったのは、教育,学習支援業の14.2％増であり、次いで医療,福祉の13.8％増であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "BLS reported a 16,000 monthly gain and a 58,000 increase from the recent December 2025 low, although the average monthly change over August 2025-August 2026 remained slightly negative.",
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "(5)労働異動率 入職率 離職率",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注) 労働異動率には、新規の入離職者の外、人事異動に伴う同一企業内の転勤者を含む",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、特別給与額、出勤日数、入職率、離職率、パートタイム比率の前年差は平成２１年１月",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、離職率は29.0％(月平均2.4％)で前年より1.7ポイントの増加となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業をみると、入職率は16.1％、離職率は17.5％となった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "30～99人 300,406 252,904 47,502 19.1 151.7 140.7 11.0",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人 171,048 131,630 77.0 39,418 23.0",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "30～99人",
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所規模別に調査産業計の現金給与総額をみると、規模500人以上では435,415円、100～499人では338,460円、30～99人では295,423円、5～29人では260,397円であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "これを製造業でみると、規模500人以上では498,350円、100～499人では382,478円、30～99人では337,247円、5～29人では270,256円であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、調査産業計の現金給与総額について、500人以上の事業所の賃金を100としてみると、100～499人では77.7(前年より0.7ポイント拡大)、30～99人では67.8(前年より0.1ポイント拡大)、5～29人では59.8(前年より1.4ポイント縮小)であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "次にきまって支給する給与をみると、調査産業計で規模500人以上では331,563円、100～499人では273,283円、30～99人では244,166円、5～29人では224,708円であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、調査産業計のきまって支給する給与について、500人以上の事業所の賃金を100としてみると、100～499人では82.4(前年より1.0ポイント拡大)、30～99人では73.6(前年より0.5ポイント縮小)、5～29人では67.8(前年より1.4ポイント縮小)であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "夏季賞与(平成20年6月～8月)の1人平均支給額は、調査産業計で386,754円(実数による前年比1.5％増)となり、支給事業所数割合は85.8％、支給労働者数割合は88.2％、平均支給月数(所定内給与に対する割合)は1.09か月(前年より0.04か月分減)であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "年末賞与(平成20年11月～平成21年1月)の1人平均支給額は、調査産業計で380,736円(実数による前年比3.3％減)となり、支給事業所数割合は88.8％、支給労働者数割合は90.3％、平均支給月数は1.11か月(前年より0.07か月分減)であった",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "1人当たりの男女別現金給与総額は、調査産業計で男子396,697円、女子182,505円となり、男子を100とした場合の女子の割合は46.0で、格差は前年(44.4)より1.6ポイント縮小した",
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/y_mkinsetumei2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/13fr/mk13r.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.ehime.jp/opendata-catalog/dataset/dataland-60/resource/2909/content.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/30-1c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reuters.com/jp/article/world/5-0125-idUSKCN0PA04O/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/soshiki/toukei/koyoutochingin-top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/bnyaBtKekka.html/B13/B1302/I215",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/2021nenpousyousai-gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/19/1908r/mk1908r.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.gifu.lg.jp/page/1964.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000008.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2023/mk23q1nenp.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=03&bunya_s=0302&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001015954&tclass2val=0&statdisp_id=0003030977",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.akita.lg.jp/pages/archive/163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/maikin-2024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/3_data/kikan/roudou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/15/15-2fr/mk15r.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2025/mk25q30000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/english/estatis/esaikin/2026/e202601.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://fred.stlouisfed.org/series/LFEAMNTTJPA647S",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 人手不足 受注 断る",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/y_mkinsetumei2.html",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://jinjibu.jp/news/detl/26695/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf",
+    "https://www.reuters.com/jp/article/world/5-0125-idUSKCN0PA04O/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 受注残 人手不足",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/13fr/mk13r.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.ehime.jp/opendata-catalog/dataset/dataland-60/resource/2909/content.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1c.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://www.jpc-net.jp/research/assets/pdf/R21attached2.pdf",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.reuters.com/jp/article/world/5-0125-idUSKCN0PA04O/",
+    "https://www.pref.miyagi.jp/soshiki/toukei/koyoutochingin-top.html",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126）",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/bnyaBtKekka.html/B13/B1302/I215",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2021nenpousyousai-gaiyou.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/19/1908r/mk1908r.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.okayama.jp/uploaded/attachment/256896.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 推移",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.gifu.lg.jp/page/1964.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin.html",
+    "https://web.pref.hyogo.lg.jp/kk11/ac08_4_000000008.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 統計 PDF",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/19/1908r/mk1908r.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2023/mk23q1nenp.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=03&bunya_s=0302&layout=datalist&cycle=0&toukei=00450071&tstat=000001011791&tclass1=000001015954&tclass2val=0&statdisp_id=0003030977",
+    "https://www.pref.akita.lg.jp/pages/archive/163",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin-2024.html",
+    "https://www.stat.go.jp/naruhodo/3_data/kikan/roudou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 従業者規模別",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.akita.lg.jp/uploads/public/archive_0000010653_00/%E5%B9%B4%E5%A0%B1/%E5%B9%B3%E6%88%9026%E5%B9%B4%E6%AF%8E%E6%9C%88%E5%8B%A4%E5%8A%B4%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB%E5%9C%B0%E6%96%B9%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/13fr/mk13r.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 1人当たり 万円",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/maikin.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） 2015 2025",
+   "results": [
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15950.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/15/15-2fr/mk15r.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/index.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/maikin/2025/mk25q30000.htm",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey annual report manufacturing cash earnings per employee by establishment size Japan statistics",
+   "results": [
+    "https://www.jil.go.jp/english/estatis/esaikin/2026/e202601.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "https://www.stat.go.jp/english/data/nenkan/1431-19e.html",
+    "https://zoetalentsolutions.com/manufacturing-employment-statistics/",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_02_06.pdf",
+    "https://fred.stlouisfed.org/series/LFEAMNTTJPA647S",
+    "https://ilostat.ilo.org/data/country-profiles/jpn/",
+    "https://www.sciencedirect.com/science/article/am/pii/S0922142523000324",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/toukei/f5b3c112ace253719216769ebb6d3c48.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00450071"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126）",
+   "results": [
+    "https://note.com/yajirushi_works/n/nfadc215c8c8c",
+    "https://note.com/kicchann/n/na5635f9a1b55",
+    "https://note.com/jdex/n/n4f5644855c17",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/kazucallnote/n/n30ac23c20392",
+    "https://note.com/kazucallnote/n/nb7984eef7ac2",
+    "https://note.com/kazucallnote/n/n4484a5be76a3",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4",
+    "https://note.com/crisp_panda5486/n/nce1fc643137d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126）",
+   "results": [
+    "https://x.com/umibeni154/status/2020709077316510155",
+    "https://x.com/109Yoroshiku/status/1060016003080286208",
+    "https://x.com/Y_Kaneko/status/2098226734680482141",
+    "https://x.com/OgawaSeisakusho/status/1728206901996142594",
+    "https://x.com/sputnik_jp/status/2057698283058041218",
+    "https://x.com/kakao1326/status/2086438260616691975",
+    "https://x.com/hibeto/status/2059594676639035493"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126）",
+   "results": [
+    "https://www.linkedin.com/posts/daijob-com_厚生労働省毎月勤労統計調査2025令和7年10月分結果確報を公開-activity-7412085171136589824-A8Nv",
+    "https://www.linkedin.com/jobs/毎月勤労統計調査-記入例-8(1)-8(2)-8(3)-8(4)-jobs",
+    "https://www.linkedin.com/company/jacobs/",
+    "https://www.linkedin.com/company/mapei_group",
+    "https://jp.linkedin.com/pulse/生産性向上のはずがmr削減の衝撃の事実-売上も生産性も上がらなかった-michio-okazaki-4r0xc",
+    "https://jp.linkedin.com/posts/takeru-shimojima_2027年4月登録支援機関の認定要件が変わる-変更点の中に今から対応しても間-activity-7466989808377180161-85H8",
+    "https://jp.linkedin.com/posts/海地-杉田-053ab0348_有給ですかたぶんみんな取れてると思うんですけど-このたぶんが毎年12-activity-7498582695665598465-AAhg"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126）",
+   "results": [
+    "https://www.facebook.com/jbhrco/photos/全球大咖從零售業到製造業都憂缺工煩加薪傑報薪資福利調查成果發表會特別邀請實戰經驗豐富的徐永康人資長分享如何運用薪酬管理與激勵留才協助人資朋友們聰明加薪智慧留住好/1519469416087129/",
+    "https://www.facebook.com/100063964413453/posts/即將開講-製造業的技術斷層正在發生教過了為什麼還是一直出錯不同資深員工教法都不一樣明明有在教育卻不知道員工是否真的學會隨著台灣製造業面臨人力短缺高齡化與多國籍人/1524291659712967/",
+    "https://www.facebook.com/100069011896208/posts/毎月勤労統計調査地方調査月報令和７年９月分を公表しましたhttpswebprefhyogolgjpkk11documentsgeppou09pdf毎月勤労統計調/1180549484255437/",
+    "https://www.facebook.com/permalink.php/?story_fbid=890677699909285&id=100069011896208",
+    "https://www.facebook.com/taipeilabornews/posts/事業單位的同一工作場所依事業之分類及勞工人數的不同需辦理不同頻率的醫護人員臨場健康服務q若事業單位同一作場所人數50-299人危害性質又兼具不同分類那該怎麼辦a/1077723692393867/",
+    "https://www.facebook.com/ryutaro.hojyo/photos/-なぜ食品メーカーの真ん中は年商4億円利益率1なのか1️⃣-tsrデータが示す厳しい中央値食品関連企業約15万社を集計売上高43億円営業利益率101人あたり売上/26571553412496546/",
+    "https://www.facebook.com/mol.labor/photos/-擴大補助特定製程產業改善安全衛生及工作環境-擴大補助-歷經10年輔導3k產業提升安全衛生計畫從鑄造業表面處理業印染整理業橡膠製造業到塑膠製品製造業擴大到外國人/797719385724473/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0612/maikin0600.html",
+    "https://www.pref.saitama.lg.jp/a0206/news/page/news2024022903.html",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://mbp-japan.com/kanagawa/shonan-mssr/column/5226282/",
+    "https://note.com/todobuono/n/ncf3262990aaf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/30-1a.html",
+    "https://www.pref.toyama.jp/sections/1015/lib/maikin/_news/maikin0512/maikin0500.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450071&tstat=000001011791&cycle=0&tclass1=000001035519&tclass2=000001144287&tclass3val=0",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html",
+    "https://www.pref.kanagawa.jp/docs/x6z/tc30/maikin/maitsukikinrou.html",
+    "https://toukei.pref.shizuoka.jp/chosa/12-040/index.html",
+    "https://www.jil.go.jp/institute/zassi/backnumber/2022/04/pdf/022-025.pdf",
+    "https://www.youtube.com/watch?v=1OtPS2dzTq4",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/maikin/maikinback25_d/fil/001.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Monthly Labour Survey annual report manufacturing cash earnings per employee by establishment size site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/u-s-department-of-labor",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/posts/mouhcine-guettabi-93797720_big-firms-small-firms-what-firm-size-tells-activity-7519034181922766849-tEwS",
+    "https://www.linkedin.com/top-content/business-strategy/understanding-cost-analysis/analyzing-employee-compensation-and-labor-costs/",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-uk-september-2018",
+    "https://www.linkedin.com/company/bureau-of-labor-statistics",
+    "https://www.linkedin.com/top-content/workplace-trends/job-market-trends-insights/how-to-interpret-jobs-report-revisions/",
+    "https://www.linkedin.com/company/intel-corporation",
+    "https://news.linkedin.com/2026/2026-Davos-Press-Release",
+    "https://www.linkedin.com/company/richproducts"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "受注金額・加工賃収入": "記載なし（読んだ42頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ42頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ42頁・検索18回）"
+ }
+}

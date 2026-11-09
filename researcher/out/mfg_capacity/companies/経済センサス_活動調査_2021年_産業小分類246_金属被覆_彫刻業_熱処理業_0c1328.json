@@ -1,0 +1,1466 @@
+{
+ "name": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126）",
+ "en": "Economic Census for Business Activity 2021 industry 246 metal coating heat treating establishments employees sales",
+ "aliases": [
+  "経済センサス 活動調査 2021 産業小分類 246 売上金額 従業者数 e-Stat",
+  "令和3年経済センサス 金属被覆 熱処理業 事業所数 売上",
+  "経済センサス 製造業 産業細分類 2464 2465 表"
+ ],
+ "context": "統計の総額",
+ "kind": "market",
+ "researched_at": "2026-11-09T10:52:39.630445+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "産業(中分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 企業等に関する集計 9 企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数（事業内容等不詳を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1km2当たり事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "796冠婚葬祭業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79A葬儀業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79B結婚式場業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "79C冠婚葬祭互助会 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "801映画館 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "802興行場（別掲を除く），興行団 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "804スポーツ施設提供業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "823学習塾 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "824教養・技能教授業 事業所数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "824教養・技能教授業 受講生数（会員数）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．民営事業所数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○民営事業所数をみると、「卸売業，小売業」が120万１千事業所（全産業の23.6％）と最も",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図４ 産業大分類別民営事業所数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「民営事業所数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1 産業分類細分類別、年次別の事業所数（法人・個人別）、従業者数、年間商品販売額及び売場面積 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数 6-2 産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "産業(中分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 企業等に関する集計 9 企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 企業等に関する集計 産業横断的集計 企業等数、従業者数",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1 企業産業(小分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(小分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "pass": 3
+   },
+   {
+    "quote": "業者数は5745万８千人",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "農林漁業（個人経営を除く） 35,332 1.0 5,961,606 0.4 1,164,861 0.3",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表２ 産業大分類別民営事業所数及び従業者数",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "農林漁業（個人経営を除く） 41,891 0.8 452,033 0.8",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．従業者数の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○従業者数をみると、「卸売業，小売業」が1147万７千人（全産業の20.0％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで「製造業」が886万７千人（同15.4％）、「医療，福祉」が814万５千人（同14.2％）な",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 産業大分類別従業者数の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「従業者数の構成比」は必要な事項の数値が得られた事業所を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1 産業分類細分類別、年次別の事業所数（法人・個人別）、従業者数、年間商品販売額及び売場面積 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "pass": 3
+   },
+   {
+    "quote": "各種商品卸売業(従業者が常時100人以上のもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "pass": 3
+   },
+   {
+    "quote": "その他の各種商品小売業(従業者が常時50人未満のもの)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 事業所数、従業者数 6-2 産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、従業上の地位(6区分)、男女別従業者数（民営事業所）－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 9-1B 産業(小分類)別従業者数－全国、都道府県、市区町村 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 事業所に関する集計 産業横断的集計 事業所数、従業者数",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688",
+    "pass": 3
+   },
+   {
+    "quote": "各種商品卸売業（従業者が常時100人以上のもの）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688",
+    "pass": 3
+   },
+   {
+    "quote": "その他の各種商品小売業（従業者が常時50人未満のもの）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等 2021年6月 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(中分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "300～500万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "500～1000万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "1000～3000万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "3000～5000万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "5000万～1億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "1～3億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "3～10億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "10～50億円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "50億円以上",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）1000万円以下",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）5000万円以下",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）1億円以下",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）3億円以下",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 1 企業産業(小分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "pass": 3
+   },
+   {
+    "quote": "企業産業(小分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年の我が国の売上（収入）金額は1702兆201億円、純付加価値額は337兆1437億円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．売上高の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○売上高をみると、「卸売業，小売業」が481兆4654億円（全産業の28.3％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで「製造業」が390兆9934億円（同23.0％）、「医療，福祉」が173兆1927億円（同10.2％）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図２ 産業大分類別売上高の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「売上高の構成比」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○純付加価値額をみると、「医療，福祉」が71兆2916億円（全産業の21.1％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "いで「製造業」が65兆1543億円（同19.3％）、「卸売業，小売業」が48兆5584億円（同14.4％）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・（参考）全産業の事業所の売上（収入）金額に関する試算値 利用上の注意(PDF:138KB)",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "産業(中分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "産業(大分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "300万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "300～500万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "500～1000万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "1000～3000万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "3000～5000万円未満",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）1000万円以下",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "（再掲）5000万円以下",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり従業者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当たり純付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "事業従事者１人当たり純付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たり粗付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たり純付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1企業当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "販売効率_1事業所当たり年間商品販売額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "販売効率_就業者1人当たり年間商品販売額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "販売効率_従業者1人当たり年間商品販売額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり事業従事者数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "事業従事者1人当たり付加価値額",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額（従業者29人以下は粗付加価値額）",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年の我が国の売上（収入）金額は1702兆201億円、純付加価値額は337兆1437億円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "表１ 産業大分類別企業等数、売上高及び純付加価値額",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注２：「売上高」及び「純付加価値額」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注３：本調査における純付加価値額は、以下の計算式を用いている",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．純付加価値額の状況（産業大分類別）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○純付加価値額をみると、「医療，福祉」が71兆2916億円（全産業の21.1％）と最も多く、次",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図３ 産業大分類別純付加価値額の構成比",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：「純付加価値額の構成比」は必要な事項の数値が得られた企業等を対象として集計した",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等 2021年6月 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "2021年6月",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "2023-06-27",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "2023-06-27 14:00",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "pass": 3
+   },
+   {
+    "quote": "「2025年 経済構造実態調査」からの分類区分の変更点について",
+    "url": "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025-12-25",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2020-03-06",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2019-01-30",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2016-06-30",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2025-12",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2024-06",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2023-12",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2023-07",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2023-06",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2023-05",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2023-03",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2022-12",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2022-09",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2022-05",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2020-03",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2019-01",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "2018-11",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 結果表の利用に関する参考資料 利用上の注意 利用上の注意（製造業・品目編・産業編・地域編） 2021年6月 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "pass": 3
+   },
+   {
+    "quote": "2022-12-26 14:00",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "pass": 3
+   },
+   {
+    "quote": "（2025.12.25）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2024.8.9）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2024.6.25）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2024.6.14）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.12.15）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.9.25）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.7.3）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.6.27）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2023.3.28）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2022.12.26）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2022.9.30）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "（2022.5.31）",
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "pass": 3
+   },
+   {
+    "quote": "2023-12-15 14:00",
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "pass": 3
+   },
+   {
+    "quote": "○2020年の我が国の売上（収入）金額は1702兆201億円、純付加価値額は337兆1437億円",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月１日現在の企業等の数は367万４千企業、民営事業所数は507万９千事業所、",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）等の経理事項は2020年１年間、経理事項以外の項目は",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年（令和２年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年（令和３年）",
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "pass": 3
+   },
+   {
+    "quote": "2023-03-28 14:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "2023-06-27 14:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査 令和３年経済センサス‐活動調査 結果表の利用に関する参考資料 統計表の集計事項一覧、分類事項一覧、地域一覧 産業分類一覧 2021年6月 | ファイル | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "pass": 3
+   },
+   {
+    "quote": "2021年 6月",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "pass": 3
+   },
+   {
+    "quote": "2023-06-27 14:00",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.stat.go.jp/data/e-census/2021/index.htm",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "事業所数（事業内容等不詳を含む） 廃業事業所",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "(事業所数(事業内容等不詳を含む))廃業事業所",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "第3次産業活動能力・稼働率指数",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額(従業者30人以上)",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産投資総額(従業者30人以上) 前年比",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上) 年初現在高",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額(従業者30人以上) 年末現在高",
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "経済センサス」の人気タグ記事一覧｜note ――つくる、つながる、とどけ... シリーズ／統計で見る理美容業の現状⑤ 他産業と比較した理美容の売上（収入）金額～総務省統計「令和元年経済センサス ...",
+    "url": "https://note.com/hashtag/経済センサス",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenshoren.or.jp/2021census-gyosya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2021/pdf/bunruie.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145674&result_page=1&tclass4val=0&statdisp_id=0004006337",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2021/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004005657",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E7%B5%8C%E6%B8%88%E3%82%BB%E3%83%B3%E3%82%B5%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 人手不足 受注 断る",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/shikata_01.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145649&tclass2=000001145667&tclass3=000001145670&tclass4val=0&layout=datalist&statdisp_id=0004005672"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126）",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/2023/231213chukigyocnt.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200553&tstat=000001145590&statdisp_id=0004005688"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 従業者規模別",
+   "results": [
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 1人当たり 万円",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032268794",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/census/r3result/r03_index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity 2021 industry 246 metal coating heat treating establishments employees sales Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/e-census/2021/pdf/bunruie.pdf",
+    "https://www.e-stat.go.jp/index.php/en/stat-search/database?page=1&layout=datalist&cycle=0&toukei=00200553&tstat=000001145590&tclass1=000001145666&tclass2=000001145669&tclass3=000001145674&result_page=1&tclass4val=0&statdisp_id=0004006337",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.stat.go.jp/english/data/e-census/2021/index.html",
+    "https://www.meti.go.jp/english/statistics/tyo/census/index.html",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004005657",
+    "https://www.stat.go.jp/english/info/news/20220630.html",
+    "https://www.meti.go.jp/english/data_report/index.html",
+    "https://www.stat.go.jp/english/data/e-census/2021/outline.html",
+    "https://www.e-stat.go.jp/en/stat-search/files?tstat=000001145590"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126）",
+   "results": [
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/hashtag/経済センサス",
+    "https://note.com/at_consulting18/n/nb1bfe4b1b017",
+    "https://note.com/at_consulting18/n/nf47674263cb5",
+    "https://note.com/stats47/n/n816c665cb671",
+    "https://note.com/ogawa_tech/n/n6299bd0a6539",
+    "https://note.com/oyasummitte/n/n35dbee6234b1"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126）",
+   "results": [
+    "https://x.com/Kyoto_Stat/status/1582520991095586821",
+    "https://x.com/MIC_soudan/status/2054003627329831245",
+    "https://jf.x.com/images/media-preview/2100139849265139866",
+    "https://jf.x.com/images/media-preview/2099744527376663024",
+    "https://x.com/city_ota/status/2068853977526186000",
+    "https://x.com/meti_NIPPON/status/2039316080091697577",
+    "https://x.com/gamanoabura_nsb/status/2054157157550166335"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126）",
+   "results": [
+    "https://www.linkedin.com/jobs/企業等数-総数-全国-2021年-経済センサス-企業等数-何件-jobs",
+    "https://jp.linkedin.com/pulse/27卒の動向4月1日時点の就職活動調査-崇-堀内-v3fic",
+    "https://jp.linkedin.com/pulse/リンクトイン独自調査データが語る今働きたい会社トップ25-linkedin-news-japan",
+    "https://jp.linkedin.com/posts/takaratomy_サステナビリティcsr活動-new特集ページ-社員がイキイキワクワク-activity-7145623054155407360-5gca",
+    "https://jp.linkedin.com/posts/sakuraitakuya_横浜denaベイスターズが26年ぶりに日本一となったことで全国の経済波及効果は約-activity-7277481537720238080-XILi",
+    "https://www.linkedin.com/pulse/zhang-xue-motors-from-garage-mechanic-world-nf3cc/",
+    "https://jp.linkedin.com/pulse/25年卒学生の就職活動動向調査から見る就活の早期化-崇-堀内-a815c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126）",
+   "results": [
+    "https://www.facebook.com/nakashibetsu/posts/経済センサス活動調査を実施しています今年の６月１日を基準日として経済センサス活動調査を実施しています経済センサス活動調査とは事業を行っている個人法人が対象となる/3936733186424509/",
+    "https://www.facebook.com/nagasakitokei/photos/令和3年経済センサス-活動調査を実施中です全ての事業所企業のみなさまにおかれてはお知らせした期限までにご回答いただきますよう何卒ご協力をお願いいたします経済セン/2956434681289970/",
+    "https://www.facebook.com/pref.wakayama/posts/経済センサス-活動調査総務省経済産業省和歌山県及び市町村は令和8年6月1日現在で経済センサス-活動調査を実施します本調査は全国すべての事業所企業を対象とする5年/1512921037510877/",
+    "https://www.facebook.com/ginowancity.official/posts/重要経済センサス活動調査への回答はお済ですか現在全国のすべての企業事業所を対象に経済センサス活動調査を実施しています-̗̀まだ回答がお済みでない場合は下記回答期/1415415797299466/",
+    "https://www.facebook.com/HiroshimaCityOfficial/posts/全国すべての事業所企業を対象とした経済センサス-活動調査を実施します調査員が調査票を配布します調査の回答は安全で便利なインターネット回答がおすすめです日本経済の/1021731590424983/",
+    "https://www.facebook.com/HiroshimaCityOfficial/posts/経済センサス-活動調査への回答はお済みですか経済センサス-活動調査は全国すべての事業所企業を対象とした調査です調査の回答は安全で便利なインターネット回答がおすす/1032146766050132/",
+    "https://www.facebook.com/kazunori.suyama.9/posts/経済センサス活動調査が来たのですが本当に死ぬほど面倒くさかったです分からない事が多々ありオペレーターに電話しながらやりましたけど1時間以上かかりましたしかもこれ/26030404509975670/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） note 社長",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/bunrui.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004003240",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/data/e-census/2021/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/files?page=1&layout=datalist&cycle=0&year=20210&month=12040606&toukei=00200553&tstat=000001145590&tclass1=000001165791&tclass2val=0&stat_infid=000032205283",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042",
+    "https://www.stat.go.jp/data/e-census/2021/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287",
+    "https://www.mapmarketing.co.jp/data/koumoku/2021keizai.html",
+    "https://www.meti.go.jp/statistics/tyo/census/index.html",
+    "https://www.zenshoren.or.jp/2021census-gyosya",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200553"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Economic Census for Business Activity 2021 industry 246 metal coating heat treating establishments employees sales site:linkedin.com",
+   "results": [
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-january-2021",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-may-2021",
+    "https://www.linkedin.com/posts/specialty-steel-treating_segment-analysis-and-primary-growth-areas-activity-7460318508086829056--zay",
+    "https://www.linkedin.com/feed/update/urn:li:share:7452395971772186625/",
+    "https://ca.linkedin.com/company/metal-treating-institute-inc",
+    "https://sg.linkedin.com/company/southwest-metal-treating-corp",
+    "https://economicgraph.linkedin.com/resources/linkedin-workforce-report-november-2021"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "人手と仕事の差": "記載なし（読んだ25頁・検索18回）"
+ }
+}

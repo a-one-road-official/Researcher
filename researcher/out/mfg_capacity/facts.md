@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・277品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・279品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -14215,6 +14215,156 @@
   - 「【参考表３】市町別の事業所数の推移［従業者４人以上の事業所］（平成12年～） (Excelファイル)(34KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
 - 痛み・損（深さの印）：記載なし（読んだ48頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ48頁・検索18回）
+
+## 毎月勤労統計調査 年報 製造業 事業所規模5人以上と30人以上の1人あたり月間現金給与総額（円・表頭の単位つき・総額と1人あたりを別の欄に・桁のずれ296欄の上位・4-31・4-126）（Monthly Labour Survey annual report manufacturing cash earnings per employee by establishment size）
+- 文脈：統計の総額
+- 痛み・損（深さの印）：
+  - 「(5)労働異動率 入職率 離職率」（https://www.pref.okayama.jp/uploaded/attachment/256896.pdf）
+  - 「注) 労働異動率には、新規の入離職者の外、人事異動に伴う同一企業内の転勤者を含む」（https://www.pref.okayama.jp/uploaded/attachment/256896.pdf）
+  - 「なお、特別給与額、出勤日数、入職率、離職率、パートタイム比率の前年差は平成２１年１月」（https://www.pref.okayama.jp/uploaded/attachment/256896.pdf）
+  - 「また、離職率は29.0％(月平均2.4％)で前年より1.7ポイントの増加となった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+  - 「製造業をみると、入職率は16.1％、離職率は17.5％となった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+- 事業所数・社数：
+  - 「30～99人 300,406 252,904 47,502 19.1 151.7 140.7 11.0」（https://www.pref.okayama.jp/uploaded/attachment/256896.pdf）
+  - 「30～99人 171,048 131,630 77.0 39,418 23.0」（https://www.pref.okayama.jp/uploaded/attachment/256896.pdf）
+  - 「30～99人」（https://www.pref.okayama.jp/uploaded/attachment/256896.pdf）
+  - 「事業所規模別に調査産業計の現金給与総額をみると、規模500人以上では435,415円、100～499人では338,460円、30～99人では295,423円、5～29人では260,397円であった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+  - 「これを製造業でみると、規模500人以上では498,350円、100～499人では382,478円、30～99人では337,247円、5～29人では270,256円であった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+  - 「また、調査産業計の現金給与総額について、500人以上の事業所の賃金を100としてみると、100～499人では77.7(前年より0.7ポイント拡大)、30～99人では67.8(前年より0.1ポイント拡大)、5～29人では59.8(前年より1.4ポイント縮小)であった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+  - 「次にきまって支給する給与をみると、調査産業計で規模500人以上では331,563円、100～499人では273,283円、30～99人では244,166円、5～29人では224,708円であった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+  - 「また、調査産業計のきまって支給する給与について、500人以上の事業所の賃金を100としてみると、100～499人では82.4(前年より1.0ポイント拡大)、30～99人では73.6(前年より0.5ポイント縮小)、5～29人では67.8(前年より1.4ポイント縮小)であった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+  - 「夏季賞与(平成20年6月～8月)の1人平均支給額は、調査産業計で386,754円(実数による前年比1.5％増)となり、支給事業所数割合は85.8％、支給労働者数割合は88.2％、平均支給月数(所定内給与に対する割合)は1.09か月(前年より0.04か月分減)であった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+  - 「年末賞与(平成20年11月～平成21年1月)の1人平均支給額は、調査産業計で380,736円(実数による前年比3.3％減)となり、支給事業所数割合は88.8％、支給労働者数割合は90.3％、平均支給月数は1.11か月(前年より0.07か月分減)であった」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+- 社員数・平均社員数：
+  - 「）、 教育，学習支援業、医療，福祉、複合サービス事業、サービス業（他に分類されないもの）（ただし、外国公務を除く） において常時5人以上の常用労働者を雇用する全事業所とし、 その中から産業・規模ごとに無作為抽出された和歌山県内約530事業所について調査を行っています」（https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html）
+  - 「この調査結果は、調査事業所からの報告をもとに県内の5人以上のすべての事業所に対応するように 復元して算定したものです」（https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html）
+  - 「月報「統計表（指数・実数）事業所規模5人以上、30人以上」、年平均、 夏季賞与、年末賞与、特別調査」（https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html）
+  - 「調査対象事業所のうち30人以上規模事業所の抽出方法は、平成30年から、従来の2～3年に一度行う総入替え方式から、毎年1月分調査時に行う部分入替え方式に変更しました」（https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html）
+  - 「また、5～29人規模事業所については、半年ごとに全体の調査事業所の3分の1を交替し、各組は18か月間継続するローテーション方式により調査を行っています」（https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html）
+  - 「​ 令和７年年報の公表資料について、掲載するグラフを事業所規模30 人以上から５人以上に」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「第１表 産業、性別常用労働者の１人平均月間現金給与額」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「第２表 産業、性別常用労働者の１人平均出勤日数及び実労働時間」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「第３表 産業、性別常用労働者数及びパートタイム労働者数」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「第５表 産業、就業形態別常用労働者の１人平均月間現金給与額」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「第６表 産業、就業形態別常用労働者の１人平均月間出勤日数及び実労働時間数」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「第７表 産業、就業形態別常用労働者数」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「1 事業所規模 5人以上」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「2 事業所規模 30人以上」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「第1表 産業、性別常用労働者の1人平均月間現金給与額」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+- 1人あたり・1社あたり金額：
+  - 「1人当たりの男女別現金給与総額は、調査産業計で男子396,697円、女子182,505円となり、男子を100とした場合の女子の割合は46.0で、格差は前年(44.4)より1.6ポイント縮小した」（https://www.pref.saitama.lg.jp/a0206/a031/a0312008nenpou-gaiyou.html）
+- 10年推移：
+  - 「増加（減少）労働者数の前調査期間末労働者数に対する割合」（https://www.pref.wakayama.lg.jp/prefg/020300/maikin/index.html）
+  - 「年平均確報の公表資料に、産業別・性別実数表、時系列表を追加した年報を翌年秋ごろに公表しています」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「令和７年(2025年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「令和６年(2024年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「令和５年(2023年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「令和４年(2022年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「令和３年(2021年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「令和２年(2020年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「令和元年(2019年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「平成30年(2018年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「平成29年(2017年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「平成28年(2016年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「平成27年(2015年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「平成22年(2010年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+  - 「平成10年(1998年)」（https://www.pref.hiroshima.lg.jp/soshiki/21/maikinnennpou.html）
+- 受注金額・加工賃収入：記載なし（読んだ42頁・検索18回）
+- 生産能力・設備：記載なし（読んだ42頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ42頁・検索18回）
+
+## 経済センサス‐活動調査 2021年 産業小分類246 金属被覆・彫刻業，熱処理業 の事業所数・従業者数・売上（収入）金額を同じ表で（単位 百万円・総額と1事業所あたりを分ける・桁のずれの欄・4-31・4-126）（Economic Census for Business Activity 2021 industry 246 metal coating heat treating establishments employees sales）
+- 文脈：統計の総額
+- 痛み・損（深さの印）：
+  - 「事業所数（事業内容等不詳を含む） 廃業事業所」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「(事業所数(事業内容等不詳を含む))廃業事業所」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+- 事業所数・社数：
+  - 「産業(中分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(中分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県、市区町村」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(小分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 企業等に関する集計 9 企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「1km2当たり事業所数（事業内容等不詳を含む）」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「1km2当たり事業所数」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「796冠婚葬祭業 事業所数」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「79A葬儀業 事業所数」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「79B結婚式場業 事業所数」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+- 社員数・平均社員数：
+  - 「産業(中分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(中分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県、市区町村」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(小分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 企業等に関する集計 9 企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「経済センサス‐活動調査 / 令和３年経済センサス‐活動調査 / 企業等に関する集計 産業横断的集計 企業等数、従業者数」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「企業産業(中分類)、単一・複数(3区分)、資本金階級(10区分)別会社企業数、事業所数及び従業上の地位(3区分)、男女別従業者数－全国、都道府県、大都市」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「経済センサス‐活動調査 1 企業産業(小分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091）
+  - 「企業産業(小分類)、単一・複数(2区分)別法人数、売上（収入）金額及び建設・サービス収入の内訳－全国」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00200553&toukei_kind=6&stat_infid=000040028091）
+  - 「業者数は5745万８千人」（https://www.stat.go.jp/data/e-census/2021/kekka/pdf/s_summary.pdf）
+- 受注金額・加工賃収入：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等 2021年6月 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(中分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、経営組織(3区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額－全国、都道府県、市区町村」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(小分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、従業者規模(7区分)別民営事業所数、従業者数、売上（収入）金額、１事業所当たり従業者数、１事業所当たり売上（収入）金額及び従業者１人当たり売上（収入）金額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「300万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「300～500万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「500～1000万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「1000～3000万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「3000～5000万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「5000万～1億円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「1～3億円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「3～10億円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「10～50億円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「50億円以上」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+- 1人あたり・1社あたり金額：
+  - 「産業(中分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、経営組織(3区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、市区町村」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(小分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「産業(大分類)、従業者規模(7区分)別民営事業所数、事業従事者数、純付加価値額、１事業所当たり事業従事者数、１事業所当たり純付加価値額及び事業従事者１人当たり純付加価値額（外国の会社及び法人でない団体を除く）－全国、都道府県、大都市」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「300万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「300～500万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「500～1000万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「1000～3000万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「3000～5000万円未満」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「（再掲）1000万円以下」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「（再掲）5000万円以下」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「1事業所当たり従業者数」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「１事業所当たり純付加価値額」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「事業従事者１人当たり純付加価値額」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「１企業当たり粗付加価値額」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+- 生産能力・設備：
+  - 「第3次産業活動能力・稼働率指数」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「有形固定資産投資総額(従業者30人以上)」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「有形固定資産投資総額(従業者30人以上) 前年比」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「有形固定資産額(従業者30人以上) 年初現在高」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「有形固定資産額(従業者30人以上) 年末現在高」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+- 10年推移：
+  - 「経済センサス‐活動調査 令和３年経済センサス‐活動調査 事業所に関する集計 産業横断的集計 売上（収入）金額等 2021年6月 | ファイル | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「2021年6月」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「2023-06-27」（https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&lid=000001413042）
+  - 「http://www.stat.go.jp/data/e-census/2021/index.htm」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「2021年 6月」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「2023-06-27 14:00」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200553&tstat=000001145590&tclass1=000001145666&statdisp_id=0004006287）
+  - 「「2025年 経済構造実態調査」からの分類区分の変更点について」（https://www.stat.go.jp/data/e-census/2021/index.html）
+  - 「2025-12-25」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「2020-03-06」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「2019-01-30」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「2016-06-30」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「分離適格振替国債の分離状況並びに現在高推移」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「2025-12」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「2024-06」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+  - 「2023-12」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
+- 人手と仕事の差：記載なし（読んだ25頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
