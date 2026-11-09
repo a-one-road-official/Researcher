@@ -1,0 +1,624 @@
+{
+ "name": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116）",
+ "en": "Census of Manufacture Japan 2018 cost of raw materials shipments by detailed industry steel castings",
+ "aliases": [
+  "工業統計 産業別統計表 原材料使用額等 鋳鋼製造業 2018",
+  "工業統計 2017 鋳鋼 製造品出荷額等 原材料使用額",
+  "経済産業省 工業統計 産業細分類 原材料 鋳造装置"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-08T23:55:26.630321+00:00",
+ "evidence": {
+  "社員数・平均社員数": [
+   {
+    "quote": "工業統計調査 確報 平成26年確報 産業編 2-03 【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額 年次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【2183】人工骨材製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【3251】娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【3252】人形製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "工業統計調査 確報 平成26年確報 産業編 2-03 【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額 年次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "工業統計調査 確報 平成26年確報 産業編 2-03 【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額 年次 | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2016-04-28 00:00",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【0000】製造業計(2010年)",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【2020】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "原材料使用額等［製造等に関連する外注費］（百万円）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.aperza.jp/%E7%B5%8C%E7%94%A3%E7%9C%8118%E5%B9%B4%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E3%80%81%E5%87%BA%E8%8D%B7%E9%A1%8D317%E5%85%86%E5%86%86%E8%B6%85-%E5%9B%9E%E5%BE%A9%E5%9F%BA%E8%AA%BF%E3%81%AF%E3%81%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/1723/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/shihyo/_shihyo13/_admin/033.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokei.pref.nagano.lg.jp/statist_list/598.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q20000.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kumamoto.jp/kiji0033002/5_3002_199839_up_WX7JYQUC.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/soshiki/toukei/kougyo202106.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stats47.jp/blog/manufacturing-productivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jisf.or.jp/en/activity/lca/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelonthenet.com/resources/countries/japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.transitionzero.org/hubfs/Analysis/TZ%20-%20Global%20Steel%20Production%20Costs%20-%20Jan2022_final.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.city.kitakyushu.lg.jp/files/000108263.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://news.aperza.jp/%E7%B5%8C%E7%94%A3%E7%9C%8118%E5%B9%B4%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E3%80%81%E5%87%BA%E8%8D%B7%E9%A1%8D317%E5%85%86%E5%86%86%E8%B6%85-%E5%9B%9E%E5%BE%A9%E5%9F%BA%E8%AA%BF%E3%81%AF%E3%81%A3/",
+    "https://ab.jcci.or.jp/article/1723/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/index.html",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/204/",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001118655&tclass3val=0&statdisp_id=0003325927",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://news.aperza.jp/%E7%B5%8C%E7%94%A3%E7%9C%8118%E5%B9%B4%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E3%80%81%E5%87%BA%E8%8D%B7%E9%A1%8D317%E5%85%86%E5%86%86%E8%B6%85-%E5%9B%9E%E5%BE%A9%E5%9F%BA%E8%AA%BF%E3%81%AF%E3%81%A3/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://ab.jcci.or.jp/article/1723/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://news.aperza.jp/%E7%B5%8C%E7%94%A3%E7%9C%8118%E5%B9%B4%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E3%80%81%E5%87%BA%E8%8D%B7%E9%A1%8D317%E5%85%86%E5%86%86%E8%B6%85-%E5%9B%9E%E5%BE%A9%E5%9F%BA%E8%AA%BF%E3%81%AF%E3%81%A3/",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://ab.jcci.or.jp/article/1723/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.toyama.jp/sections/1015/lib/shihyo/_shihyo13/_admin/033.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://tokei.pref.nagano.lg.jp/statist_list/598.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://ab.jcci.or.jp/article/1723/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q20000.htm",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://tokei.pref.nagano.lg.jp/statist_list/598.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "https://www.city.kumamoto.jp/kiji0033002/5_3002_199839_up_WX7JYQUC.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo202106.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://tokei.pref.nagano.lg.jp/statist_list/598.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/keywordKekka.html/%E3%81%9B/%E8%A3%BD%E9%80%A0%E6%A5%AD"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/2020kogyo/2020kogyotoukeihyou.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201806.html",
+    "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/seizo_yougo_shosai.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://ab.jcci.or.jp/article/1723/",
+    "https://stats47.jp/blog/manufacturing-productivity"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.pref.saitama.lg.jp/a0206/a096/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://tokei.pref.nagano.lg.jp/statist_list/598.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Census of Manufacture Japan 2018 cost of raw materials shipments by detailed industry steel castings Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://pubs.usgs.gov/myb/vol3/2017-18/myb3-2017-18-japan.pdf",
+    "https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/",
+    "https://www.jisf.or.jp/en/activity/lca/data/",
+    "https://www.steelonthenet.com/resources/countries/japan.html",
+    "https://blog.transitionzero.org/hubfs/Analysis/TZ%20-%20Global%20Steel%20Production%20Costs%20-%20Jan2022_final.pdf",
+    "https://www.e-stat.go.jp/en/stat-search?layout=dataset&page=1&query=steel",
+    "https://www.sciencedirect.com/science/article/am/pii/S0959652622005583",
+    "https://science.osti.gov/-/media/sbir/pdf/Market-Research/AMO---Metal-Casting-August-2022-Public.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116）",
+   "results": [
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/loyal_ivy9071/n/na07c4d1646dd",
+    "https://note.com/ocaml/n/nb4d8473484bb",
+    "https://note.com/studiopetit_note/n/n8d9a8537272c",
+    "https://note.com/dakudhigura/n/n366befca911a",
+    "https://note.com/dakudhigura/n/n3ff4d9959d60",
+    "https://note.com/kiyotakasato/n/n3fe9dbd2d046",
+    "https://note.com/engawa_koushi/n/na0d18fdb9a80",
+    "https://note.com/kiyotakasato/n/n93a13a008df9",
+    "https://note.com/innovationcity/n/n003840f893dd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2112006568481108301",
+    "https://jf.x.com/images/media-preview/2111021610123825426",
+    "https://x.com/Saotome_0202/status/2028304301274329252",
+    "https://x.com/Saotome_0202/status/2102343145799516662",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/edimda63/status/2107925749894348885",
+    "https://x.com/PapalotX/status/2109087411934499116"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116）",
+   "results": [
+    "https://jp.linkedin.com/in/yojirohikihara",
+    "https://jp.linkedin.com/pulse/diving-manufacturing-dynamics-explore-contrast-between-suraj-bangera-az1vf?tl=ja",
+    "https://jp.linkedin.com/posts/hideyuki-iwabuchi-67b0b9288_米の相対取引価格全国平均と出荷数量全国計の比較-相対取引価格は全農等-activity-7403359515984760832-vrjp",
+    "https://jp.linkedin.com/pulse/what-isa-95-manufacturing-data-importance-single-ontology-rhizemdh-tf5ec?tl=ja",
+    "https://jp.linkedin.com/posts/e-ras-kozai-shinsuke_ロット管理の基本と種類製造ロット購買ロット出荷ロットの違いと使い分けで管理精度-activity-7467057248595251200--w2O",
+    "https://jp.linkedin.com/posts/優人-高橋-a6a218325_燃料費等調整額は遅れて効く仕組みです-通常35ヶ月前の貿易統計3ヶ月平均-activity-7443473206507720704-d2an"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:facebook.com 工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116）",
+   "results": [
+    "https://www.facebook.com/ohmurahideaki/posts/30日2023年度の愛知県の県民経済計算推計結果を公表しました県の経済規模を示す県内総生産名目は46兆911億円となり前年度の43兆653億円から70増加しまし/1365307002277638/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/photo.php/?fbid=1237778328363840",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/ohmurahideaki/posts/1058626312945710/",
+    "https://www.facebook.com/maffjapan/posts/令和4年市町村別農業産出額推計をお知らせします令和4年市町村別農業産出額推計を公表しましたので概要を紹介します令和4年の市町村別農業産出額は1位が宮崎県都城市2/833491498817064/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001095895&lid=000001176919&result_page=1&statdisp_id=0003389386",
+    "https://www.rieti.go.jp/jp/publications/dp/downloadfiles/m41104-1.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://ab.jcci.or.jp/article/1723/",
+    "https://www.pref.kyoto.jp/tokei/yearly/kogyo/documents/kogyo2018chuui.pdf",
+    "https://catalog.dxpn-dev.net/ja/dataset/?res_format=XLS&tags=%E9%89%B1%E5%B7%A5%E6%A5%AD_%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3&organization=ymns_toukei"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2018/kg18q40000.htm",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.pref.ehime.jp/page/2986.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.aichi.jp/soshiki/toukei/kougyo201906.html",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/29kougyou.html",
+    "https://catalog.dxpn-dev.net/ja/dataset/?res_format=XLS&tags=%E9%89%B1%E5%B7%A5%E6%A5%AD_%E5%B7%A5%E6%A5%AD%E7%94%9F%E7%94%A3&organization=ymns_toukei"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Census of Manufacture Japan 2018 cost of raw materials shipments by detailed industry steel castings site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/overview-indian-foundry-industry-sridhar-kesava",
+    "https://www.linkedin.com/in/bryn-snow-b0103022",
+    "https://www.linkedin.com/pulse/chokepoint-paradox-us-geo-economic-containment-bay-dr--ajsrc",
+    "https://ca.linkedin.com/in/cmaankurgupta",
+    "https://www.linkedin.com/in/german-gonzalez-vera",
+    "https://www.linkedin.com/posts/timjcarden_20-ai-companies-worth-23t-sit-inside-1-activity-7510322582525669376-qZ5l",
+    "https://www.linkedin.com/in/johnsimmins",
+    "https://www.linkedin.com/in/dhruv-chatwal",
+    "https://www.linkedin.com/in/casbywang",
+    "https://uk.linkedin.com/in/luke-rowson-5469a3a9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ35頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ35頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ35頁・検索18回）"
+ }
+}

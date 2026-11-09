@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・255品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・258品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -12863,14 +12863,14 @@
 
 ## PRTR 届出事業所数 全国の業種別・年次の集計（電気めっき業・金属製品製造業・環境省の集計結果の表・都道府県の表でなく全国・4-83・4-115）（PRTR notified facilities by industry nationwide Japan electroplating metal products annual）
 - 文脈：統計
-- 痛み・損（深さの印）：記載なし（読んだ54頁・検索18回）
-- 事業所数・社数：記載なし（読んだ54頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ54頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
-- 生産能力・設備：記載なし（読んだ54頁・検索18回）
-- 10年推移：記載なし（読んだ54頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ54頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
 
 ## 財務省 貿易統計 金型（HS8480）・めっき関連の輸出入額の年次（見かけの国内需要＝生産＋輸入−輸出の需要側・4-115）（Japan trade statistics molds HS 8480 import export annual value）
 - 文脈：統計
@@ -12991,6 +12991,135 @@
 - 事業所数・社数：記載なし（読んだ55頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
 - 生産能力・設備：記載なし（読んだ55頁・検索18回）
+
+## 工業統計表 産業細分類別 原材料使用額等と製造品出荷額等 2017・2018年（鋳鋼製造業・鋳造装置製造業・全国の表の行・付加価値の上がりを材料か量かに分ける・foundry.jp 1か所の値の差し替え・4-116）（Census of Manufacture Japan 2018 cost of raw materials shipments by detailed industry steel castings）
+- 文脈：統計
+- 社員数・平均社員数：
+  - 「工業統計調査 確報 平成26年確報 産業編 2-03 【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【1122】絹・人絹織物業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【1142】絹・人絹織物機械染色業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【1161】織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【1162】織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【2183】人工骨材製造業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【3251】娯楽用具・がん具製造業（人形を除く）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【3252】人形製造業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+- 受注金額・加工賃収入：
+  - 「工業統計調査 確報 平成26年確報 産業編 2-03 【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+- 1人あたり・1社あたり金額：
+  - 「工業統計調査 確報 平成26年確報 産業編 2-03 【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額 年次 | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【１．産業別統計表 (産業細分類別)】 (2)従業者30人以上の事業所に関する統計表 [2]原材料使用額等、製造品出荷額等、生産額、付加価値額及び粗付加価値額」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+- 10年推移：
+  - 「2016-04-28 00:00」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【0000】製造業計(2010年)」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【2020】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+  - 「【2021】工業用革製品製造業（手袋を除く）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+- 人手と仕事の差：
+  - 「原材料使用額等［製造等に関連する外注費］（百万円）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=05&layout=dataset&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001081715&tclass3val=0&statdisp_id=0003144059）
+- 痛み・損（深さの印）：記載なし（読んだ35頁・検索18回）
+- 事業所数・社数：記載なし（読んだ35頁・検索18回）
+- 生産能力・設備：記載なし（読んだ35頁・検索18回）
+
+## PRTR 届出外も含む全国の業種別の集計（経済産業省・環境省「PRTRデータの概要」の業種別届出事業所数の表・年次・PRTRけんさくん・別名で取り直し・4-116）（PRTR data overview number of notifying facilities by industry Japan METI MOE annual table）
+- 文脈：統計
+- 事業所数・社数：
+  - 「別紙1.業種別の届出事業所数・排出量・移動量」（https://www.env.go.jp/chemi/prtr/result/gaiyo.html）
+  - 「別紙2.都道府県別の届出事業所数・排出量・ 移動量」（https://www.env.go.jp/chemi/prtr/result/gaiyo.html）
+  - 「別紙1.業種別の届出事業所数・排出量・移動量」（https://www.env.go.jp/chemi/prtr/result/past_gaiyoH20.html）
+  - 「別紙2.都道府県別の届出事業所数・排出量・移動量」（https://www.env.go.jp/chemi/prtr/result/past_gaiyoH20.html）
+  - 「別紙1.業種別の届出事業所数・排出量・移動量」（https://www.env.go.jp/chemi//prtr/result/gaiyo.html）
+  - 「別紙2.都道府県別の届出事業所数・排出量・ 移動量」（https://www.env.go.jp/chemi//prtr/result/gaiyo.html）
+- 10年推移：
+  - 「・全国32,208の事業所から届出が行われ、届出排出量は約137千トン（対前年度比0.8%の減少）、移動量は約271千トン（対前年度比2.0%の増加）でした」（https://www.env.go.jp/press/press_02892.html）
+  - 「・また、届出対象物質の見直し前後で継続して指定されている物質（319物質）については、届出排出量は約119千トン（対前年度比1.7%の減少）、移動量は約221千トン（対前年度比0.3%の減少）でした」（https://www.env.go.jp/press/press_02892.html）
+  - 「）については、届出排出量は約119千トン、移動量は約221千トンであり、ともに前年度から減少しました」（https://www.env.go.jp/press/press_02892.html）
+  - 「・届出排出量：届出排出量が減少した主な業種は金属製品製造業（対前年度比△約0.8千トン）、一般機械器具製造業（同△約0.5千トン）でした」（https://www.env.go.jp/press/press_02892.html）
+  - 「一方、届出排出量が増加した主な業種は輸送用機械器具製造業（同+約1.5千トン）でした」（https://www.env.go.jp/press/press_02892.html）
+  - 「・届出移動量：届出移動量が増加した主な業種は鉄鋼業（同+約4.6千トン）、電気機械器具製造業（同+約3.6千トン）でした」（https://www.env.go.jp/press/press_02892.html）
+  - 「一方、届出移動量が減少した主な業種は化学工業（同△約2.0千トン）でした」（https://www.env.go.jp/press/press_02892.html）
+  - 「・届出外排出量：届出外排出量は前年度に比べて減少しています」（https://www.env.go.jp/press/press_02892.html）
+  - 「別添1_2024年度PRTRデータの概要（化学物質の排出量・移動量の集計結果）の概要[PDF 733KB]」（https://www.env.go.jp/press/press_02892.html）
+  - 「（2010年2月26日公表）」（https://www.env.go.jp/chemi/prtr/result/past_gaiyoH20.html）
+- 痛み・損（深さの印）：記載なし（読んだ53頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ53頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ53頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ53頁・検索18回）
+- 生産能力・設備：記載なし（読んだ53頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ53頁・検索18回）
+
+## 普通貿易統計 品別国別表 第84類 8480（金属用の鋳型・型）の年次の輸出入額（e-Stat の表・別名で取り直し・需要側・4-115・4-116）（Japan customs trade statistics HS 8480 moulds for metal annual export import yen e-Stat）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「国内では、高い技能を持ちながら後継者がいない工場の廃業が続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+- 事業所数・社数：
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会の資料によれば、事業所数のピークは1991年で約13,000でした」（https://forwit.jp/column/die-and-mold/）
+  - 「事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています」（https://forwit.jp/column/die-and-mold/）
+  - 「国内でも、事業所数は1991年の約13,000から2024年の約4,000へ減りました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人でした」（https://forwit.jp/column/die-and-mold/）
+- 社員数・平均社員数：
+  - 「一般社団法人日本金型工業会では、以下の3つの公的統計調査を金型製造業関連の統計調査として、金型製造業向けとして編集して使用しています」（https://www.jdmia.or.jp/toukei/）
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「3次元CADで型の形を決め、マシニングセンタで削り、焼き入れで硬くし、放電加工で細部をつくり、最後は人の手で鏡のように磨きます」（https://forwit.jp/column/die-and-mold/）
+  - 「こうした形は、職人が1個ずつ削り出しているわけではありません」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「米国の専門誌MoldMaking Technologyが2018年12月に伝えた記事では、マリーニャグランデとオリベイラ・デ・アゼメイシュの2地域に500社を超える金型企業が集まり、約10,500人を雇用し、2017年の輸出額は6億7,500万ユーロでした」（https://forwit.jp/column/die-and-mold/）
+  - 「一般財団法人機械振興協会経済研究所が2026年1月に公表した小論文では、土地や建物の費用、固定資産税などの公租公課、運送費、錆取りや磨きのメンテナンス費、パレットや棚の設備費、備品費、保管や移動の労務費という7項目が示されています」（https://forwit.jp/column/die-and-mold/）
+- 受注金額・加工賃収入：
+  - 「一方、品目別は総ての調査対象事業所の製造品及び加工品を品目別に集計したものであり、主力が金型以外の製造品であっても金型の生産がおこなわれていれば金型の生産額は金型の1事業所の生産額として集計されます」（https://www.jdmia.or.jp/toukei/）
+  - 「一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「産業の構造｜9人以下が6割、100人以上が生産額の4割」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます」（https://forwit.jp/column/die-and-mold/）
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+- 1人あたり・1社あたり金額：
+  - 「従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした」（https://forwit.jp/column/die-and-mold/）
+- 生産能力・設備：
+  - 「日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました」（https://forwit.jp/column/die-and-mold/）
+- 10年推移：
+  - 「※「工業統計調査」は2020年調査（2019年実績）で廃止」（https://www.jdmia.or.jp/toukei/）
+  - 「2022年の調査（2021年実績）からは「製造業事業所調査」として実施されている」（https://www.jdmia.or.jp/toukei/）
+  - 「（2011年、2015年、2020年は旧工業統計調査が実施されなかった為、経済センサスを使用」（https://www.jdmia.or.jp/toukei/）
+  - 「日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです」（https://forwit.jp/column/die-and-mold/）
+  - 「日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます」（https://forwit.jp/column/die-and-mold/）
+  - 「経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした」（https://forwit.jp/column/die-and-mold/）
+  - 「2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした」（https://forwit.jp/column/die-and-mold/）
+  - 「財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました」（https://forwit.jp/column/die-and-mold/）
+  - 「日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります」（https://forwit.jp/column/die-and-mold/）
+  - 「日本政策金融公庫総合研究所が2019年11月に公表したレポートでは、金型製造業の販売先として自動車用が76.6%、電機用が3.1%となり、2012年時点の64%と10%から自動車への集中が進んだことが示されています」（https://forwit.jp/column/die-and-mold/）
+  - 「同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています」（https://forwit.jp/column/die-and-mold/）
+- 人手と仕事の差：
+  - 「納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります」（https://forwit.jp/column/die-and-mold/）
+  - 「内製と外注の線引きも産業の形を決めています」（https://forwit.jp/column/die-and-mold/）
+  - 「日本｜精度と納期で勝ち、量と価格で押される」（https://forwit.jp/column/die-and-mold/）
+  - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
+  - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
+  - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

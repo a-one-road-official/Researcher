@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・264品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・266品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -1131,6 +1131,8 @@
   - 「決算のチェックや、セクターごとの大型株のチェック、値動きしている銘柄のチェック、チャートの形状から探すなど地道な作業から銘柄を見つけています」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「ーー三井さんは講演なども行われていますが、投資家の方におすすめしている銘柄選びの方法などはありますか？」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「プロのやり方を真似るには、知ることが重要」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
+  - 「How to structure an equity research report?」（https://dataroom-providers.org/blog/equity-research-guide/）
+  - 「. Assumptions, methodologies, and sources should be clearly stated.」（https://dataroom-providers.org/blog/equity-research-guide/）
   - 「もしかしたら他の方法もあるかもしれないが、いずれにしても無料で読む機会は一般的にごく限られるのだろう」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「みなさんのお目汚しになることも構わず、そもそも企業分析に関するnoteを書き始めたのも、アナリストレポートとは違う、自分なりの表現方法で企業の姿をなるべく面白く、しかも経営者への敬意を持って伝えたいと思ったからである」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「In this beginner’s guide, we’ll walk through the key phases of performing equity research step-by-step. You’ll learn how analysts research companies, model financials, calculate valuations, and make investment recommendations.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
@@ -1140,8 +1142,6 @@
   - 「Step 9: Investment Recommendation」（https://thalasoft.com/p/equity-research-a-step-by-step-approach/）
   - 「Step 10: Report Writing & Portfolio Monitoring」（https://thalasoft.com/p/equity-research-a-step-by-step-approach/）
   - 「This article will discuss the fundamental teaching capabilities of equity research and how equity research helps develop all the different types of skills, perspectives, and mental infrastructures and frameworks through which equity researchers think about companies and business. It will also discuss why equity research lessons are applicable across multiple industries and career fields.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
-  - 「As a result of all of the above Factors Analysts develop Practical Tools to Analyze Industries, so that we will have an Accurate View of how they develop over Time. Analysts will develop a Foresight of how to make Industry Decisions based on their history.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
-  - 「For equity research analysts, financial statements are not just accounts; they tell a story about how a business has performed. Analysts learn how to read the income statement, balance sheet, and cash flow statement as a series of linked stories.」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
 - 突き合わせ・推定：
   - 「Estimate future free cash flows」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「DCF analysis is a method used to estimate the value of an investment based on its expected future cash flows. The DCF model is a key tool in valuation, helping analysts determine the present value of expected future earnings.」（https://needl.ai/blogs/mastering-investment-analysis-a-guide-for-analysts）
@@ -1178,6 +1178,7 @@
   - 「「高市相場はアベノミクスの再来」は大間違い？ 投資スクール社長が指摘する“決定的な違い”」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「ちゃんぽん1000円超でもリンガーハット「41%増益」の衝撃…売上10%増のココイチが減益に沈んだ「コストの罠」」（https://mag.minkabu.jp/money/30593/?membership=1）
   - 「【ご注意】『みんかぶ』における「買い」「売り」の情報はあくまでも投稿者の個人的見解によるものであり、情報の真偽、株式の評価に関する正確性・信頼性等については一切保証されておりません」（https://mag.minkabu.jp/money/30593/?membership=1）
+  - 「. The analysis should be unbiased, providing a balanced view of both positive and negative aspects of the investment.」（https://dataroom-providers.org/blog/equity-research-guide/）
   - 「会社側の公表を鵜呑みにした内容ばかりで深みがない」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「「情報量と注意力はトレードオフの関係にある」とは誰かの言葉だ」（https://note.com/yozoruhitorigoto/n/n081b07b79a1e）
   - 「さらに、特定の領域の専門家と定期的にディスカッションを行うなど、正確性やバイアスを勘案しながらも、なるべく多方面の情報をインプットすることを心がけています」（https://note.com/nakanoam/n/nc638baf1b1d1）
@@ -1189,10 +1190,10 @@
   - 「Behavioral finance is an emerging field that studies the psychological factors influencing investor decision-making. It recognizes that human behavior, emotions, and cognitive biases often lead to irrational investment choices. Understanding behavioral finance can help equity analysts better interpret market trends and identify potential deviations from rational investor behavior.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
   - 「a. Cognitive Biases: Cognitive biases are mental shortcuts or patterns of thinking that can lead to irrational decisions. Common biases include confirmation bias, overconfidence, loss aversion, and herd mentality.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
   - 「c. Anchoring Bias: Anchoring bias occurs when individuals rely too heavily on initial information or reference points when making decisions.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
-  - 「Understanding behavioral biases can help equity analysts account for the impact of human psychology on market behavior and make more informed investment decisions.」（https://www.vskills.in/certification/blog/understanding-equity-analysis-key-concepts-and-techniques/）
 - 実例：
   - 「（結果論的ですが、医薬を調べてるときにルネスタというエーザイの薬にお世話になったことがあるのを思い出しました」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
   - 「上記の分析を行った結果、エーザイへの投資ポイントは2つです」（https://note.com/tsubame_toushi/n/n826a7b9c7c72）
+  - 「If you need an equity research report template, you can find examples」（https://dataroom-providers.org/blog/equity-research-guide/）
   - 「Aim to spot important themes and variables that will impact future performance. For example, is the industry ripe for disruption from new technology? Do customers have high switching costs or brand loyalty?」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「on best/worst case scenarios.」（https://medium.com/@hadisilver14/demystifying-the-equity-research-process-a-beginners-guide-6fb44f68c22b）
   - 「Analysts look at the following for example:」（https://www.zerofilter.in/blog/how-equity-research-teaches-business-thinking）
@@ -1205,7 +1206,6 @@
   - 「当然、スピーカーによって立場や経験は異なり、例えば、経営戦略、財務、ESG、研究開発や現場情報など、掘り下げると次から次へと話がでてくる分野があります」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「具体的には、「説明・補足」は「つまり」「例えば」「もう少し詳しく言うと」など話を縦に掘り下げるイメージで、「逆接」は「しかし」「でも」「一方で」など話に別の視点を加えることで横に広げるイメージです」（https://note.com/nakanoam/n/nc638baf1b1d1）
   - 「さらには、「具体（数字や事例など）」と「抽象（概念や原理など）」という」（https://note.com/nakanoam/n/nc638baf1b1d1）
-  - 「例えば、予算が未達だった場合、現場から上がってきた「それらしい」理由をうのみにせず、多方面から情報の整合性を判断して、再び現場と真に迫るコミュニケーションをとるなど、手間暇を惜しまずに職務を全うしているのではないかと投資家側からは推察しています」（https://note.com/nakanoam/n/nc638baf1b1d1）
 - 検索結果の抜粋：
   - 「アナリストが実際に考えている企業分析 ～株価に一喜一憂しないために... — Jul 21, 2023 · さわかみ投信の公式noteです。ここでは、さわかみ投信の考えや日々の活動、社員のお金にまつわる体験談、「投資をはじめたいけどどうしたらいいかわからない、不安！」という方に向けた、お金にまつわる話題を発信しています。」（https://note.com/sawakami_letter/n/ne8e25bd22655）
   - 「5分でサクッと企業分析さん@元証券アナリストの記事一覧｜note（ノー... — 大手証券会社にてアナリストとして7年間勤務。主に国内中小型株・テーマ株の調査レポートを担当し、累計300社以上の企業分析を執筆。 現在は独立し、個人投資家・就活生・営業パーソン向けに「プロが使う企業分析の視点」をわかりやすく発信中。」（https://note.com/investers_notes/all）
@@ -1367,38 +1367,44 @@
   - 「Research is a systematic, methodical process of inquiry aimed at exploring, analyzing, and interpreting information to answer specific questions or solve problems. According to the」（https://researcher.life/blog/tag/tips-for-researchers/）
 - 突き合わせ・推定：
   - 「One use of statistical analysis is to make inferences from data samples to larger populations. Point estimation uses a sample statistic to estimate an unknown」（https://researcher.life/blog/tag/tips-for-researchers/）
-  - 「One use of statistical analysis is to make inferences from data samples to larger populations. Point estimation uses a sample statistic to estimate an unknown」（https://researcher.life/blog/category/research-reading/）
-  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
+  - 「デスクリサーチはただ単に資料を探すだけでなく、調査目的に合う情報源を選び、発行元や調査時期を確認し、複数の資料を照合する必要があります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「集めた情報を、意思決定に使える仮説やレポートにまとめることも重要です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「本記事では、デスクリサーチの基本から具体的な6ステップ、信頼できる情報ソース、情報の整理・検証方法まで解説します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「さらに、情報収集や仮説づくりを効率化する方法も紹介します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「そのため、デスクリサーチは初期仮説づくりに使い、公開情報で不足する論点は一次調査へ渡します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「実務では「まずデスクリサーチで市場全体の仮説を構築し、仮説を検証するためにフィールドリサーチを実施する」という順序が標準的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「を活用して手作業の情報収集を短くし、仮説づくりを前倒しする方法も確認しておくと実務に落とし込みやすくなります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「リサーチクエスチョンが決まったら、「どの情報があれば答えられるか」の調査項目を逆算して情報ソースを選定します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「リサーチクエスチョンが固まったら、調査前に「おそらく〇〇ではないか」という仮説を1〜2つ立てておくことをお勧めします」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「仮説があると情報収集の優先順位がつけやすくなり、「仮説を支持するデータ」「仮説に反するデータ」の両面を意識して集められるため、解釈の精度が上がります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「仮説を検証するために、何を調べるかを具体的な調査項目へ分解します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「ステップ5：クロスチェック」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「市場規模を推定するときは、公的統計や調査会社のレポートと組み合わせて利用します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
 - 一次情報の探し方：
-  - 「JSTOR is a digital library, founded in 1995, that gives researchers online access to millions of academic journals, books, and primary sources across many subjects.」（https://researcher.life/blog/category/research-reading/）
-  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
+  - 「：総務省統計局の人口統計、経済産業省の業種別統計など」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「インタビュー・アンケート・観察など、自分たちで一次情報を収集する調査手法です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「デスクリサーチ）政府統計・業界レポートなどすでに世の中に存在する二次情報を体系的に収集・整理します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「フィールドリサーチ）インタビューやアンケートを通じて自社が独自に一次情報を新たに取得します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「デスクリサーチ）公的統計や企業IRなど無料で利用できるデータも多く、低〜中程度のコストで実施できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「：公的統計・企業IRなど無料で活用できるデータが多く、調査費用を大きく抑えられます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「制度変更、技術動向、需要の変化、業界団体の見解、注目テーマ」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「コスト効率を考えると、まず無料の公的統計・学術論文・企業IRで情報の骨格を作り、どうしても必要な場合のみ有料レポートを購入する手順が現実的です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「収集した情報は一次情報・二次情報に分類する」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「：政府機関・調査機関・上場企業が直接発表したデータ（公的統計・IR資料・学術論文など）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「：一次情報を引用・加工した情報（ニュース記事・業界ブログ・まとめサイトなど）」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「スプレッドシートの「信頼性評価」列（◎一次情報 / ○二次情報）でこの分類を記録しておくと、レポート作成時に出典の優先順位が一目でわかります」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「クロスチェックとは、ある情報・数値を単一のソースだけで採用するのではなく、複数の独立したソースで照合し、信頼性を確認する作業です」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「市場規模や業界全体の動向を調べるときは、まず公的統計や行政機関の資料を確認します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「：人口、労働、企業、家計、商業、サービス業など、政府統計をキーワード・分野・作成機関から検索できます」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
 - 失敗・落とし穴：
   - 「Errors in Research: 7 Common Mistakes to Avoid In Research Projects」（https://researcher.life/blog/tag/tips-for-researchers/）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
+  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=a80b67b8ee1d877221a6700782e1eba2）
   - 「What is Anchoring Bias? Definition and Examples」（https://researcher.life/blog/category/research-reading/）
   - 「Key Takeaways: Anchoring bias is the tendency to weight the first number or framing you encounter too heavily, so that it pulls every judgment that」（https://researcher.life/blog/category/research-reading/）
   - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
@@ -1407,12 +1413,6 @@
   - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
   - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
   - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=18d9d97a01d4ec0a91c6728b8ffab938）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「デスクリサーチ（デスクトップリサーチ）の方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「ただし、調査主体と調査目的を確認し、結果を一般の消費者全体にそのまま広げないように注意します」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「特に注意が必要なのは、」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「デスクリサーチで最もよくある失敗は、「データが古い」まま使い続けてしまうことです」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
-  - 「アンケートと異なり実際のWeb行動ログを集計するため、「建前で答える」回答バイアスが入らないインサイトを得られる点が特徴とされています」（https://note.intimatemerger.com/n/n9012095e7eac?gs=203d2f4209c49fd6876654720f3f9f73）
 - 実例：
   - 「What is IMRaD Format in Research? Examples and Guidelines」（https://researcher.life/blog/tag/tips-for-researchers/）
   - 「How to Make a Graphical Abstract for Your Research Paper (with Examples)」（https://researcher.life/blog/tag/tips-for-researchers/）
@@ -5711,38 +5711,40 @@
 ## 名寄せの正解データの作り方（境目の例・難しい例の割合・閾値の決め方）（entity matching benchmark corner cases threshold gold standard）
 - 文脈：同一性
 - 手順・やり方：
+  - 「名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順 - ブログ｜株式会社ripla」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「名寄せシステム開発の進め方/やり方/流れや方法/手法/工程/手順」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「そのため、受入条件には、精度、処理時間、エラー通知、復旧手順、担当者の操作性を含めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「初回リリースでは、共通ID付与と候補確認だけに絞る方法も選べます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「また、既存データを自動で上書きしない方法もあります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：ロールバックの方法と、担当者研修の準備」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「外部委託する場合は、ファイルの受け渡し方法や再委託の扱い、アクセス権を契約に含めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「あわせて、安全な提供方法と検証用サンプルを準備します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「個人情報を扱うRFPでは、具体的な安全管理策と、委託先の確認方法を定めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：多少の未統合を許容できる場合があり、候補を広く提示して担当者が確認する方法もあります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「費用とリスクを抑えるには、顧客または法人など1ドメインに絞り、2〜3システムでPoCを行う方法が現実的です」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「また、当社独自の開発テンプレート「Boxシリーズ」による標準機能の高速開発と、AI駆動開発の独自フレームワーク「GoDD」による独自機能のAI実装を組み合わせることで、低コスト・短期間で開発を実現いたします」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
   - 「本記事では、機械学習を用いた名寄せの実装方法や精度向上のテクニックを具体的に解説します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「データの正確性を向上させ、効率的なマーケティング戦略を構築するための具体的な方法や成功事例も紹介しているので、ぜひ参考にしてください」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「開発とテストの観点｜AI活用で効率化を実現する方法 | Hakky Handbook」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「本記事では、DataRobot CodeSpace上でLLM（Azure OpenAI）を利用した名寄せ処理の具体的なコードと解説を通じて、LLMを活用した名寄せ処理の実現方法を紹介します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「of matching methods along a single dimension, for instance the」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「Instead of learning how to match entity pairs, entity matching can」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「rules, supervised machine learning methods have become the」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「by the training data indicate that the methods lack robustness」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「multi-class classification, e.g. learn how to recognize the relevant」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「Numbering at each step refers to the corresponding section in the paper.」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「bustness [12, 29] of matching methods to the amount of unseen」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「evaluating the training data efficiency of matching methods.」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「sisting of the following six steps: (i) extraction of product offers」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「six steps which are visualized in Figure 2. Detailed explanations」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
 - 突き合わせ・推定：
+  - 「データ棚卸しから始め、判定を正解例で検証し、段階的に移行して定着させます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「正解例での検証と段階移行を経ると、誤統合を抑えた共通ID基盤につながります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「開発に入る前に、現状データを調べ、判定基準を検証しておくと安全です」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「完全一致、ルール一致、あいまい一致の判定を検証します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「業務担当者が正解ラベルを付け、結果と照合します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「データ棚卸し、正解例での判定検証、段階移行、運用定着の順に進めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「移行作業と継続システムでは費用の前提が異なるため、規模や追加作業を含めた推定レンジを確認します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：数万〜数十万件、CSV数本、標準的な氏名・住所・電話番号の正規化と候補リスト作成なら、50万〜300万円程度が推定レンジです」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「たとえば、小規模なら月5万〜30万円、中規模なら月30万〜100万円以上が予算上の推定レンジです」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「実際の料金は、必ず提案書の前提条件と照合します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「あわせて、安全な提供方法と検証用サンプルを準備します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「さらに、開発・検証・本番の分離や保持期限を確認します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「そのため、相場は目安として扱い、プロファイリングとサンプル検証のあとに個別見積もりへ進みます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
   - 「例えば、停車地の方向指示詞を別フィールド化し、検証を繰り返して精度を高めます」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「停車地の方向指示詞を別フィールド化し検証を繰り返す」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「ロジスティック回帰は線形モデルで高速かつ解釈しやすく、データ量が少ない場合の初期検証に適しています」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「クロスバリデーションで精度を検証し、F1スコアやPrecision、Recallを指標に評価します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「F1スコア、Precision、Recallで精度検証」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「具体的には、日次や週次でのデータ抽出後にクレンジングとマッチングを実施し、結果を検証して改善を繰り返します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「今回は以前から温めていた課題「テキスト分類（名寄せ）作業、生成AIでなんとか楽にできないか？」を解決するため、Databricksを使っていろいろ検証した過程を記事にしました」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「fers are for the same real-world product) of the clusters estimated」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「pairs in total. Overall, the noise level in the sample is estimated」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
-  - 「5つのアルゴリズムと照合キー戦略の組み合わせが、企業データ運用の上限を決めます」（https://salesnow.jp/media/125/）
-  - 「基本の仕組み・5つのマッチングアルゴリズム・設計5ステップ・前処理（正規化・クレンジング）・照合キー戦略・精度を高める運用ポイント・ツール活用・アルゴリズム別の精度コスト比較・ROBOT PAYMENT事例・SalesNow MCPによる自然言語実装・着手前チェックリストまでを順に扱います」（https://salesnow.jp/media/125/）
-  - 「SFAやCRMの顧客データを企業データと突き合わせ、重複と表記ゆれを解消します」（https://salesnow.jp/media/125/）
-  - 「名寄せロジックは、大きく分けて「前処理（正規化）」「照合（マッチング）」「判定（統合/非統合の決定）」の3層構造で成り立っています」（https://salesnow.jp/media/125/）
-  - 「第2層：照合」（https://salesnow.jp/media/125/）
-  - 「完全一致方式とは、照合対象の文字列が一字一句同じ場合のみ「一致」と判定するマッチング方式です」（https://salesnow.jp/media/125/）
 - 一次情報の探し方：
+  - 「：統合後に、どのレコードの値を採用するかの取り決め」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「代表レコードは、項目ごとに採用基準を決めます」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
   - 「特許スクリーニングをAIで効率化｜最大80％の工数削減事例と導入メリット | Hakky Handbook」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「本記事では特許調査における膨大な文献のスクリーニング作業をAIで効率化する方法を解説します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「provides profiling information for all variants of the benchmark.」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
@@ -5756,9 +5758,9 @@
   - 「with traditional profiling metrics and three new metrics for mea-」（https://d-nb.info/1351217534/34）
   - 「solely on profiling benchmark datasets and grouped 21 benchmarks」（https://d-nb.info/1351217534/34）
   - 「according to five profiling metrics, namely schema complexity, tex-」（https://d-nb.info/1351217534/34）
-  - 「profiling metrics allow for better comparability of quality metrics」（https://d-nb.info/1351217534/34）
-  - 「sidered. Moreover, profiling metrics that measure the difficulty or」（https://d-nb.info/1351217534/34）
 - 失敗・落とし穴：
+  - 「機能に加えて、ファイルの欠損・重複、APIのタイムアウト、再取り込み、途中失敗からの再開も試します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「：良かった例だけでなく、失敗例や未判定例を示せる会社は、実運用の課題を説明しやすい傾向があります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
   - 「respective other class(es). In order to prevent selection bias to-」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「reduce selection bias. As the basis for the later generation of the」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
   - 「of similarity metrics, we avoid biasing the benchmark towards a」（https://www.openproceedings.org/2024/conf/edbt/paper-14.pdf）
@@ -5769,6 +5771,9 @@
   - 「[2] Tobias Bachteler and Jörg Reiher. 2012.TDGen: A Test Data Generator for Evaluat-」（https://d-nb.info/1351217534/34）
   - 「[58] Tobias Vogel, Arvid Heise, Uwe Draisbach, Dustin Lange, and Felix Naumann.」（https://d-nb.info/1351217534/34）
 - 実例：
+  - 「業務担当者が正解ラベルを付け、結果と照合します」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「12〜24か月以上のケースがあります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
+  - 「特に、データ調査と、名寄せ結果を各システムに戻す連携では、工数が増えやすくなります」（https://www.ripla.co.jp/blog/system/entity-resolution-process/）
   - 「Hakkyの案件事例や提供するソリューションを確認する」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「例えば、住所の表記ゆれや名前の略称などを識別し、重複を排除します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「単純な文字列比較では、例えば「丁目」や「番地」の違い、略称やスペースの有無などに対応できません」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
@@ -5781,9 +5786,6 @@
   - 「実例として、1,000件の分析を40時間から8時間に短縮し80％の工数削減を実現した事例を紹介します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「例えば、Jaccard係数とNGramを組み合わせることでF1スコアが約10%向上し、GridSearchでSVMのC値やgammaを最適化するとさらに7%改善します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
   - 「アンサンブル学習でkNNとSVMを組み合わせるとF1スコアが0.94に達する事例もあります」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「具体的には、日次や週次でのデータ抽出後にクレンジングとマッチングを実施し、結果を検証して改善を繰り返します」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「Human-in-the-loopの活用により、機械処理で判別が難しいケースを人手で確認し、誤判定を減らすことが可能です」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
-  - 「生成AIプラットフォームも注目されており、将来的な活用が期待されますが、具体的な数値事例はまだ少ない状況です」（https://book.st-hakky.com/business/automating-data-matching-and-feature-extraction-with-machine-learning-latest-methods-and-anomaly-detection-results）
 
 ## 官報の決算公告の探し方と会社の取り違えの防ぎ方（検索の鍵・期間・費用・同名の会社）（how to search official gazette financial statement notices Japan）
 - 文脈：同一性
@@ -5845,6 +5847,10 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 - 実例：
+  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
+  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「主要企業の官報公告事例と実務への影響を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -5856,10 +5862,6 @@
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「したがって、多くの中小企業の官報公告には貸借対照表の要旨のみが掲載されており、純資産の部・資産合計・負債合計などの主要な数値は把握できますが、売上高や利益などの損益情報は含まれていないケースがほとんどです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「3月決算の企業であれば6〜8月、12月決算であれば翌年3〜4月頃に掲載されているケースが多いです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「法務省の研究では、株式会社全体の7割以上が決算公告を未実施とも言われています（義務違反に対する過料の実例は少なく、抑止力が弱いことが背景にあります）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
 
 ## 分析の作法（analytic tradecraft）とアナリストの数字の突き合わせ（2つの評価方法・前提の点検・失敗例）（analytic tradecraft structured analytic techniques equity research cross check valuation methods）
 - 文脈：突き合わせ
@@ -8640,11 +8642,13 @@
 
 ## リアルタイムデータ（その時点の版）で過去の数字を比べる実務（速報と確報を系列の中で混ぜない）（real-time data vintage analysis first release versus latest vintage practice）
 - 文脈：改訂
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：
+  - 「Primary source for Point-in-time data and vintages」（https://stochastly.com/learn/point-in-time-data-and-vintages）
+- 失敗・落とし穴：
+  - 「Survivorship bias in backtesting」（https://stochastly.com/learn/point-in-time-data-and-vintages）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 引用が実在しても主張を支えていない（根拠のずれ）を見つける点検（AI検索・RAGの誤りの評価）（misgrounded citation detection RAG hallucination evaluation legal research）
 - 文脈：検証
@@ -14937,6 +14941,22 @@
   - 「結果を左右する重要なパラメータを見極めること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+
+## データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）（bad data guide false precision hand-edited data red flags journalism checklist）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 結論が1つの証拠に寄るときの点検（要の証拠・lynchpin・前提の書き出し Key Assumptions Check・見直しの合図 indicators of change の実務ブログ・4-116）（key assumptions check linchpin evidence indicators of change analyst blog）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
