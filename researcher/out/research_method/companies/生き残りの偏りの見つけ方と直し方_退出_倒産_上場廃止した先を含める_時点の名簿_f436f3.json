@@ -1,0 +1,400 @@
+{
+ "name": "生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方）",
+ "en": "survivorship bias detection correction point-in-time universe delisted firms",
+ "aliases": [
+  "生存者バイアス 分析 対策 実務",
+  "生き残りバイアス データ 退出 企業",
+  "survivorship bias quantitative analysis correction"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-09T08:39:19.999426+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n1f22cca6103c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/umaki11/n/na6f864945da7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kabutabi2000/n/n3e72bd5992c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shunsuke_taka/n/n3e00a01bb5df",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zz08/n/ne7f0598dcc83",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sazanami_tabi/n/n692f26bb8aaa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenchiku-bosai.or.jp/publication/book_qa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/ned55e662ca4d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/kyoshimi/presentations/41068100",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/narukin/n/n7d295c0d1f8a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.haba.co.jp/article/staff-notes/news/detail/486",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://data.bodik.jp/dataset/400009_shougyoutoukeichousa_h14/resource/55f13ff4-44bf-4ce2-af68-99a6b957b0a3?inner_span=True",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.exroad.jp/research/archived-data?id=748",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/tis_news/120717.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/column_reports/93095/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://standard.or.jp/column/listed-company-bankruptcy-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ags.co.jp/nw/column/column20.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/359846",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://issue.intra-mart.jp/issues/34112",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sane_viola893/n/nf1258cffdd1b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vJ7Z1koXFeayGOrhvtmJsW4_r-SmFFyD3zx3oEid4GmGSXy0qbJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://algoseek.com/blog/data-guides/survivorship-bias-in-backtesting-what-to-ask-a-data-vendor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eodhd.com/financial-academy/financial-faq/survivorship-bias-free-financial-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/carlozarattini_we-recently-published-a-detailed-guide-on-activity-7415331592673406976-_j35",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://medium.com/data-science-collective/survivorship-bias-for-humans-how-to-spot-the-data-that-isnt-there-973dff1a8a00",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://quant.stackexchange.com/questions/81631/simple-approach-to-estimate-survivorship-bias-in-backtest",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方） site:note.com",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n1f22cca6103c",
+    "https://note.com/umaki11/n/na6f864945da7",
+    "https://note.com/kabutabi2000/n/n3e72bd5992c5",
+    "https://note.com/shunsuke_taka/n/n3e00a01bb5df",
+    "https://note.com/zz08/n/ne7f0598dcc83",
+    "https://note.com/sazanami_tabi/n/n692f26bb8aaa",
+    "https://note.com/umaki11/n/n396ba6667e28"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方） note",
+   "results": [
+    "https://www.kenchiku-bosai.or.jp/publication/book_qa/",
+    "https://note.com/tatsuya_sabato/n/ned55e662ca4d",
+    "https://researchmap.jp/kyoshimi/presentations/41068100",
+    "https://note.com/narukin/n/n7d295c0d1f8a",
+    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
+    "https://note.haba.co.jp/article/staff-notes/news/detail/486",
+    "https://contents.xj-storage.jp/xcontents/AS09061/9594da92/b79b/4404/92de/ef2d48b2d20a/20250213101905871s.pdf",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/51653605-0eab-4030-88ed-26d478b0af30/",
+    "https://s.keibabook.co.jp/news/detail/75301",
+    "https://note.com/money_channel/n/nb66057933752"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方） やり方",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.kenchiku-bosai.or.jp/publication/book_qa/",
+    "https://warp.ndl.go.jp/web/20210703201054/www.data.jma.go.jp/suishin/oshirase/pdf/20190318.pdf",
+    "https://data.bodik.jp/dataset/400009_shougyoutoukeichousa_h14/resource/55f13ff4-44bf-4ce2-af68-99a6b957b0a3?inner_span=True",
+    "https://app.exroad.jp/research/archived-data?id=748",
+    "https://www.tisi.jp/documents/jp/news/tis_news/120717.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93095",
+    "https://contents.xj-storage.jp/xcontents/AS02600/4fee8374/e2a7/4380/9201/66aaaacdae10/140120190628464892.pdf",
+    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方） 事例",
+   "results": [
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://standard.or.jp/column/listed-company-bankruptcy-case-study/",
+    "https://www.ags.co.jp/nw/column/column20.html",
+    "https://diamond.jp/articles/-/359846",
+    "http://issue.intra-mart.jp/issues/34112",
+    "https://note.com/sane_viola893/n/nf1258cffdd1b",
+    "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vJ7Z1koXFeayGOrhvtmJsW4_r-SmFFyD3zx3oEid4GmGSXy0qbJ",
+    "https://www.tdb.co.jp/newsroom/seminar/9k41q1gtcm7/",
+    "https://www.m-keiei.jp/musashinocolumn/ikinokorukaisya",
+    "https://cir.nii.ac.jp/crid/1050008832583821568"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "survivorship bias detection correction point-in-time universe delisted firms",
+   "results": [
+    "https://algoseek.com/blog/data-guides/survivorship-bias-in-backtesting-what-to-ask-a-data-vendor/",
+    "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "https://eodhd.com/financial-academy/financial-faq/survivorship-bias-free-financial-analysis",
+    "https://www.linkedin.com/posts/carlozarattini_we-recently-published-a-detailed-guide-on-activity-7415331592673406976-_j35",
+    "https://medium.com/data-science-collective/survivorship-bias-for-humans-how-to-spot-the-data-that-isnt-there-973dff1a8a00",
+    "https://quant.stackexchange.com/questions/81631/simple-approach-to-estimate-survivorship-bias-in-backtest",
+    "https://www.reddit.com/r/algotrading/comments/12t49av/survivorship_bias_and_historical_fundamental_data/",
+    "https://www.quantrocket.com/blog/survivorship-bias/",
+    "https://github.com/ReaperOAK/survivorship-free-backtester",
+    "https://python.financial/concepts/survivorship-bias/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方）",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n1f22cca6103c",
+    "https://note.com/umaki11/n/na6f864945da7",
+    "https://note.com/shunsuke_taka/n/n3e00a01bb5df",
+    "https://note.com/kabutabi2000/n/n3e72bd5992c5",
+    "https://note.com/tatsuya_sabato/n/n42f60e63871f",
+    "https://note.com/jigyou/n/na3ad6875d596",
+    "https://note.com/misawatakanori/n/nbbb9119c55bb"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方）",
+   "results": [
+    "https://x.com/yell_holdings/status/2031834184336208368",
+    "https://x.com/nomurasyo/status/2099620671970259228",
+    "https://x.com/asakura_yusuke/article/2077527980344267185",
+    "https://x.com/RyomaIR/status/2069421074350272554",
+    "https://x.com/itaku_labo_ceo/status/2036209962763076064",
+    "https://x.com/wsyfqfT4lD53719/status/2085982183211327650",
+    "https://x.com/BIJapan/status/2033666507197067277"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方）",
+   "results": [
+    "https://jp.linkedin.com/pulse/dark-side-hr-how-bias-favoritism-can-destroy-trust-vanya-goel-ggclc?tl=ja",
+    "https://jp.linkedin.com/in/明仁-竹内-コンサル",
+    "https://www.linkedin.com/posts/日出夫-中川-724339289_私は昨年2022年8月に60余年続いた会社を法的整理をしました併せて個人破産-activity-7098464159406673920-HY72",
+    "https://www.linkedin.com/posts/masatominei_ファミマ足立cmoに聞く上場ベンチャーが成長の踊り場から脱し再成長するための-activity-7094126543555231744-IeVh",
+    "https://jp.linkedin.com/pulse/unveiling-bias-signs-youre-making-biased-decisions-outme?tl=ja",
+    "https://jp.linkedin.com/pulse/exit-evolve-endure-making-hard-call-when-stay-walk-how-paddy-kennedy-j1a1f?tl=ja",
+    "https://jp.linkedin.com/posts/york-date_ベテランも陥る客観性の錯覚納得感のある採用評価を実現する-セミナーベテラン-activity-7467920800164114432-cVVN"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方）",
+   "results": [
+    "https://www.facebook.com/stocktrader.kawai/posts/一般的に株式の上場廃止は倒産や債務超過などで会社経営の持続が困難になってしまった場合が多く見られますが実際は様々な理由があります保有している株が上場廃止になった/311317537111239/",
+    "https://www.facebook.com/yasuhito.morimoto/posts/大倒産時代の航路の探し方前編がついに公開されましたよ先日ここで書いていた村上-茂久さんの最新本最高の教訓-倒産について私が疑問に思ったことをあれこれ聞かせてもら/28652846634349717/",
+    "https://www.facebook.com/keigo.sasa/videos/赤字でも会社はすぐに倒産するわけではありません経営危機から立て直すために経営者が取るべき行動や生還した会社に共通する考え方を解説しました/1012462814993207/",
+    "https://www.facebook.com/matsuo.akihito/posts/少子化なのに教育費は増えているそれでも塾の倒産が止まらないma上場廃止aiで始まった教育業界の大再編昨日youtube動画のpivotで塾業界の大再編について取/28014152888204879/",
+    "https://www.facebook.com/chiyoshi.nakahora/videos/黒字なのに倒産する経営者にとってこれほど怖いことはありません実際倒産する企業の約半数は黒字の状態だと言われています利益が出ているのになぜ資金が尽きてしまうのかそ/1676426023396489/",
+    "https://www.facebook.com/matsuo.akihito/posts/河合塾大学からも稼ぐ18歳人口が205万人から110万人に半減した予備校の生き残り策8月31日今日の日経新聞夕刊の記事です河合塾と聞けば大学受験の予備校を思い浮/28241454475474718/",
+    "https://www.facebook.com/groups/yaoki/posts/1907176619886952/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方） note 社長",
+   "results": [
+    "https://biz.moneyforward.com/ipo/basic/1434/",
+    "https://finanscope.jp/column/1882/",
+    "https://standard.or.jp/column/listed-company-bankruptcy-case-study/",
+    "https://note.com/tatsuya_sabato/n/n35e0b33e7bb3",
+    "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vKXndSTSetv_2ALBqbXIZGXW1kTUhL0tgHWck3yCh9t7P9ysxOd",
+    "https://note.com/trex_ai/n/na37bd8abcbab",
+    "https://researchmap.jp/kyoshimi/presentations/41068100",
+    "https://note.com/tatsuya_sabato/n/n680f5f0bf7d3",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93218",
+    "https://diamond.jp/articles/-/370834"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方） X 投稿",
+   "results": [
+    "https://app.exroad.jp/research/archived-data?id=748",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
+    "https://researchmap.jp/blogs/blog_entries/view/76981/5f49fc7e5ed8b96ccbd521d5099f2093",
+    "https://contents.xj-storage.jp/xcontents/AS02600/4fee8374/e2a7/4380/9201/66aaaacdae10/140120190628464892.pdf",
+    "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2108.pdf",
+    "https://www.soumu.go.jp/main_content/000422928.pdf",
+    "https://www.rieb.kobe-u.ac.jp/research/publication/kanematsu_japan-australia/file/historical.bekkan.pdf",
+    "https://www.taisei.co.jp/corp/ayumi/pdf/150th.pdf",
+    "https://www.fukunet.or.jp/wp-content/uploads/2024/07/2024_jigyo_plan_report2.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "survivorship bias detection correction point-in-time universe delisted firms site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/advice/3/how-can-you-avoid-survivorship-bias-when-backtesting-f7hxc",
+    "https://www.linkedin.com/pulse/backtesting-101-how-know-strategy-actually-works-sharpely-in-jukcf",
+    "https://www.linkedin.com/company/vaquerohq",
+    "https://in.linkedin.com/company/mintingm",
+    "https://www.linkedin.com/posts/dr-christabel-odeta-82b98193_p12-feature-engineering-pipeline-activity-7509746335202455552-Yc7K",
+    "https://www.linkedin.com/in/dominikzhang",
+    "https://in.linkedin.com/in/lycan-verma",
+    "https://uk.linkedin.com/in/siyuan-zou-51a371221",
+    "https://in.linkedin.com/in/nikhilkumar-iitkgp",
+    "https://hk.linkedin.com/in/william-wu-quant1217"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-09T08:39:19.999426+00:00"
+}

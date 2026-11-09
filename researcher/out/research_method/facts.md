@@ -507,6 +507,9 @@
 ## 有価証券報告書・決算資料から稼ぎ方を読み解く方法（read annual reports business model analysis）
 - 文脈：企業
 - 手順・やり方：
+  - 「松井証券のメリット・デメリットは？特徴や向いている使い方を解説証券会社を比較していると、松井証券が候補に挙がることがあります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「ただし、比較記事だけでは「自分の使い方に合うかどうか」まで細かく判断しづらいこともあります」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「セグメント情報とは？見方・分析方法をわかりやすく解説「セグメント情報って何？」「決算書の売上や利益だけ見れば十分では？」「投資家がセグメントを気にするのはなぜ？」という疑問を持つ方は多いです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「本記事では決算書分析の1つの勉強方法として、決算書分析に関する本を読むことをおすすめします」（https://kaikei-shop.net/contents108/）
   - 「数多くの決算書を分析してきた先人たちの英知を1冊で得ることができるので、非常におすすめの方法です」（https://kaikei-shop.net/contents108/）
   - 「楽天の経営企画室で決算分析について実践しながら学び、その後シリコンバレーにて起業する傍ら、note(webマガジン)にて決算が読めるようになるための方法を公開している著者の1冊」（https://kaikei-shop.net/contents108/）
@@ -519,9 +522,6 @@
   - 「PBRとは？意味・見方・使い方をわかりやすく解説「PBRって何？」「1倍割れってどういう意味？」「低いと割安なの？」株を調べていると、PERと並んでよく目にするのがPBRという指標です」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「moomoo証券の使い方｜基本操作から米国株の探し方までわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「moomoo証券の使い方｜基本操作から米国株の探し方までわかりやすく解説「moomoo証券を始めたけど、画面の情報が多すぎて何を見ればいいかわからない…」という方は少なくないはずです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「SBI証券でIPOに申し込む方法｜抽選参加の流れをわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「SBI証券でIPOに申し込む方法｜抽選参加の流れをわかりやすく解説SBI証券でもIPOに参加できます」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
-  - 「有価証券報告書の分析方法とは？見るべき7つのポイントをわかりやすく解説」（https://crexgroup.com/ja/data/column/data-ops/financial-report-analysis-points/）
 - 突き合わせ・推定：
   - 「生成AIの出力には誤りが含まれる可能性があるため、必ず一次資料での検証を前提としてお読みください」（https://note.com/irshukatsu/n/nec2070d76e3c）
   - 「手順4：出力を一次資料で検証する」（https://note.com/irshukatsu/n/nec2070d76e3c）
@@ -555,6 +555,8 @@
   - 「第6章:携帯キャリアの決算」（https://kaikei-shop.net/contents108/）
   - 「第7章:企業買収(M&A)と決算」（https://kaikei-shop.net/contents108/）
 - 失敗・落とし穴：
+  - 「オルカンだけでいい？メリット・注意点をわかりやすく解説」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
+  - 「オルカンだけでいい？メリット・注意点をわかりやすく解説「オルカンだけで十分なの？」「S&P500も買った方がいい？」「分散のために他の商品も必要？」という疑問を持っている方は多いはずです」（https://growth-insight.net/%E6%9C%89%E4%BE%A1%E8%A8%BC%E5%88%B8%E5%A0%B1%E5%91%8A%E6%9B%B8%EF%BC%88%E6%9C%89%E5%A0%B1%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E8%A6%8B%E6%96%B9%E3%83%BB%E8%AA%AD%E3%81%BF%E6%96%B9%E3%82%92%E3%82%8F/）
   - 「また、投資家目線で見た場合に、キャッシュリッチ企業がなぜダメなのか？などについても書かれております」（https://kaikei-shop.net/contents108/）
   - 「注意点として、企業側が作成しているものなので、自社にとって不利なことは基本的には記載されておりません」（https://kaikei-shop.net/contents108/）
   - 「注意点としては、発刊されたのが2010年度であり、掲載されている情報は当時のものとなっている点です」（https://kaikei-shop.net/contents108/）
@@ -568,8 +570,6 @@
   - 「Voicy人気パーソナリティ・ひねけん氏による、初心者向けファンダメンタル分析の決定版」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「⑩「ファンダメンタル投資の教科書」 → ⑫「3分速読からの10倍株の探し方」 → ⑭「バフェットの財務諸表を読む力」」（https://note.com/tasuto11/n/nde45889dccb0）
   - 「10%以上なら優良、5%未満は注意」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「決算書学習でやりがちな3つの失敗」（https://note.com/tasuto11/n/nde45889dccb0）
-  - 「最後に、決算書を学び始めた人が陥りがちな失敗を3つだけ紹介します」（https://note.com/tasuto11/n/nde45889dccb0）
 - 実例：
   - 「第3章 生き残る会社と消え去る会社―実例に学ぶ分析枠組み編」（https://kaikei-shop.net/contents108/）
   - 「第4章 生き残る会社の数字のつくり方―ケーススタディーで分析訓練編」（https://kaikei-shop.net/contents108/）
@@ -2933,8 +2933,8 @@
   - 「TAM, SAM, and SOM: Definitions, Formulas, and Examples」（https://bizminer.com/revenue-per-employee-benchmarks/）
 - 検索結果の抜粋：
   - 「Revenue Per Employee Benchmarks : 2026 Ranges by Industry — Revenue Per Employee Benchmarks : 2026 Ranges by Industry Bizminer https://bizminer.com > revenue-per-e...」（https://bizminer.com/revenue-per-employee-benchmarks/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
 
 ## 出どころと取り方を分ける証拠の記録（Altss OSINT 検証基準・ICD 203）（OSINT evidence provenance origin vs collection method ICD 203 likelihood language）
 - 文脈：突き合わせ
@@ -3802,8 +3802,8 @@
   - 「‘, for example, or, in the wake of the collapse of Carillion」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, highlight (in a」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
   - 「, for example, includes a whole ‘」（https://onlinejournalismblog.com/2020/03/04/how-to-find-stories-in-company-accounts-and-only-three-of-them-involve-numbers/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
 
 ## 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説（survey year vs reference year statistics pitfalls Japan census）
 - 文脈：一次情報の探し方
@@ -14401,11 +14401,41 @@
 
 ## 買い手側の一次調査の実務（専門家への聞き取りの選び方・肩書きでなく担当範囲・意見より事実・辞めた経緯の偏り・In Practise の書き起こし）（buy-side primary research expert calls vetting by responsibility facts over opinions In Practise fieldwork）
 - 文脈：聞き取り・評価
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：
+  - 「This article covers the legal framework behind expert network compliance, the specific risks you face, the controls you should expect from any vendor, and the questions you should ask before signing anything.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「The core legal framework sits in」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「of 1934 and Rule 10b-5. Trading on material non public information obtained in breach of a duty is illegal. Regulatory frameworks include securities laws and market abuse regulations. Insider trading can trigger fines in the millions for individuals and firms involved. Fines for non-compliance can reach tens of millions.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「for the minute-by-minute interview framework with built-in compliance reminders.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「How to Vet an Expert Network Vendor for Compliance」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Documentation is what allows firms to show regulators and LPs they took network compliance seriously. It's also what proves your competitive edge in governance over firms that skip this step.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Conclusion and Next Step」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Expert network compliance is about preventing MNPI misuse, protecting your reputation, and keeping audit trails for every interaction. Review the documented project controls, participant restrictions and escalation process with your compliance team. Vendor vetting is a non-negotiable step.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Expert calls have moved from a supplementary research tool to a core pillar of due diligence for hedge funds, private equity firms, and corporate strategy teams. In 2026, the question isn't whether to use them-it's how to extract the most value from every call while staying compliant and efficient.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「A thesis-driven workflow plus systematic follow ups and transcript reuse is how top funds maximize the value of every call, turning scattered conversations into actionable intelligence.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「Expert calls must adhere to strict compliance standards. For regulated investors and corporates, MNPI controls are non-negotiable-compliance frameworks protect both clients and experts during calls, and robust protocols ensure ethical knowledge exchange.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「Scoping, prospecting on LinkedIn, cold outreach, screening resumes, scheduling across time zones, creating guides, conducting calls, transcribing, and synthesizing. Each step consumes hours beyond the call itself.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「Expert: Meaning, Modern Role, and How to Find the Right One」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+- 突き合わせ・推定：
+  - 「Expect more bundled offerings-expert calls combined with surveys and channel checks on one platform-with greater focus on triangulation rather than single-source anecdotes. This is how teams generate strategic decisions backed by convergent evidence.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+- 一次情報の探し方：
+  - 「Expert network calls give faster, sharper views on market trends and market shifts than filings, earnings calls, or AI-generated summaries alone.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「By 2026, public filings, transcripts, and AI-generated summaries are commoditized. Over」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「with procurement heads, CIOs, and budget owners reveal renewal drivers, RFP dynamics, switching costs, and business models that shape competitive dynamics in ways filings never capture.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+- 失敗・落とし穴：
+  - 「Information Quality and Conflict-Driven Bias」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「AI speeds search and synthesis across many transcripts but does not replace research design, bias detection, or MNPI control. Analysts should always verify key datapoints directly in transcripts before incorporating them into investment memos.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+- 実例：
+  - 「Regulators started paying close attention to expert networks after a wave of enforcement actions between 2009 and 2012. Cases like」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Trading after such a call can trigger SEC investigations. Both expert networks and clients are expected to show they had controls to prevent and respond to MNPI incidents. In the Choi/Nvidia case, a current accounting manager shared upstream earnings guidance through expert network pathways. Profits for connected funds ran into millions.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Concrete examples of potential conflicts: a current supplier hoping to secure contracts, a former executive with an unresolved legal dispute against the target company, or a consultant trying to sell their own consulting services. Networks that take conflicts seriously tend to deliver more reliable integrity research. Compliance and quality are linked.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Clients receive a clear pre-call briefing about what they must not ask, including examples of forbidden questions about strategic plans or unreleased financials.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「What records can you provide if the SEC or exchange commission asks about a particular case or call?」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Run periodic refresher training, at least annually, with scenario-based examples tailored to your work. Pre-IC research calls and commercial due diligence are good contexts.」（https://fieldsignalhq.com/resources/blog/expert-network-compliance-standards-risks-and-vendor-vetting）
+  - 「Strategic Use Cases: How Different Teams Leverage Expert Calls」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「Depth Use Cases: Industry Deep Dives and Company Diagnostics」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「-engineers, clinicians, data scientists-explain feasibility, regulatory hurdles, integration complexity, and realistic adoption timelines. For example, interviewing former hospital pharmacy directors about 2024–2026 biosimilar adoption dynamics provides fresh perspectives on a market where public data lags reality by quarters.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「Three sections-background, core thesis questions, edge-case or bear-case probing-with consistent questions across calls for comparability. This is how you validate market assumptions systematically.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
+  - 「Give all investment professionals a short MNPI training specific to expert networks, covering allowed versus prohibited topics with concrete example questions. Work only with providers that enforce pre-call compliance checks, offer written guidelines to experts, and provide transcripts that can be audited by internal legal and compliance teams.」（https://insights.woozleresearch.com/blog/expert-calls-how-modern-deal-teams-turn-conversations-into-conviction/）
 
 ## 実質の持ち主（UBO）と名義役員・秘匿法域のたどり方（EBU Spotlight・OCCRP の手引き・登記の原本で確かめる・暫定の印）（beneficial ownership tracing nominee directors secrecy jurisdictions OSINT tutorial EBU Spotlight OCCRP）
 - 文脈：同一性・所有
