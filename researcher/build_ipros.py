@@ -29,7 +29,7 @@ SEEDS = OUT / "seeds.csv"
 CHECKED = OUT / "checked.csv"
 INPUT = ROOT / "inputs" / "ipros_hr.csv"
 BASE = "https://mono.ipros.com"
-SEED_FIELDS = ["ipros_id", "name", "business_class", "class_name"]
+SEED_FIELDS = ["ipros_id", "name", "business_class", "class_name", "official_url"]
 PAID_HOSTS = re.compile(r"doda\.jp|mynavi\.jp|rikunabi\.com|en-japan\.com|type\.jp|bizreach\.jp|green-japan\.com|"
                         r"r-agent\.com|careerindex\.jp|hatalike\.jp|baitoru\.com|townwork\.net|jobchange\.jp|kikan\.jp|wantedly\.com")
 MFG_FIRST = re.compile(r"製造|メーカー|機械|部品|金属|加工|電子|電機|化学|樹脂|素材|材料|装置|設備|工業|鋳|鍛|めっき|プレス|金型|半導体")
@@ -53,7 +53,50 @@ def _write(p, rows, fields) -> None:
         w.writerows(rows)
 
 
+DRIVE_ID = "1cZSz82ZvNBV238tyrtN093Xy91oX1sHd"  # 2026-11-10 本人：イプロス掲載企業は既存の ipros_all.csv（ドライブ・約60MB）を使う。一から集めない
+
+
+def seeds_from_drive() -> bool:
+    """既存の ipros_all.csv をリンク共有から取り、社名・イプロスID・公式URL・業種だけを seeds.csv に写す（元ファイルはリポジトリに入れない）。"""
+    import io
+    import requests
+    if SEEDS.exists() and (OUT / "SEEDS_FROM_DRIVE").exists():
+        return True
+    s = requests.Session()
+    url = f"https://drive.usercontent.google.com/download?id={DRIVE_ID}&export=download&confirm=t"
+    r = s.get(url, timeout=600)
+    if r.status_code != 200 or b"<html" in r.content[:200].lower():
+        print(f"ipros: drive download failed {r.status_code}", flush=True)
+        return False
+    raw = r.content.decode("utf-8-sig", errors="replace")
+    rows = list(csv.DictReader(io.StringIO(raw)))
+    if not rows:
+        return False
+    cols = list(rows[0].keys())
+    pick = lambda rx: next((c for c in cols if re.search(rx, c or "", re.I)), None)
+    c_name = pick(r"社名|会社名|企業名|company_?name|^name$")
+    c_ipros = pick(r"ipros|detail|イプロスURL|掲載URL|^url$")
+    c_site = pick(r"公式|website|homepage|ホームページ|HP|site")
+    c_cls = pick(r"業種|business|industry|カテゴリ|category")
+    print(f"ipros: columns name={c_name} ipros={c_ipros} site={c_site} class={c_cls} rows={len(rows)}", flush=True)
+    have = {}
+    for i, x in enumerate(rows):
+        nm = (x.get(c_name) or "").strip() if c_name else ""
+        if not nm:
+            continue
+        idm = re.search(r"/company/detail/(\d+)", " ".join(str(v) for v in x.values()))
+        key = idm.group(1) if idm else f"row{i}"
+        site = (x.get(c_site) or "").strip() if c_site else ""
+        have.setdefault(key, {"ipros_id": key, "name": nm, "business_class": "", "class_name": (x.get(c_cls) or "").strip() if c_cls else "",
+                              "official_url": site if site.startswith("http") and "ipros" not in site else ""})
+    _write(SEEDS, list(have.values()), SEED_FIELDS)
+    (OUT / "SEEDS_FROM_DRIVE").write_text(f"{len(have)}\n", encoding="utf-8")
+    return True
+
+
 def collect_seeds(deadline: float) -> bool:
+    if seeds_from_drive():
+        return True
     from researcher.fetch import fetch
     have = {r["ipros_id"]: r for r in _read(SEEDS)}
     done_cls = {r["business_class"] for r in _read(OUT / "classes_done.csv")}
@@ -142,7 +185,7 @@ def _worker(k: int, end_epoch: float) -> None:
         if time.time() > end_epoch:
             break
         try:
-            home = official_from_ipros(s["ipros_id"])
+            home = s.get("official_url") or (official_from_ipros(s["ipros_id"]) if s["ipros_id"].isdigit() else "")
             r = check_one(s["name"], 0, "イプロス", home=home) if home else {"status": "公式サイト見つからず"}
             if r.get("status") == "読了":
                 r["paid_job"], r["paid_job_quote"] = paid_job(s["name"])
