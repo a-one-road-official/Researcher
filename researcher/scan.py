@@ -3791,6 +3791,62 @@ def scan(topic):
                *(f"  - {k[0][:24]}｜{k[1][:16]}｜{k[2]}：2022年以後 {n}年分" for k, n in _sh3[:5]),
                ""]
     except Exception: pass
+    # 2026-11-09 4-130（Veridion「How to find a private company's revenue」：届出の値と人数からの推定が割れたら、①グループ全体の人数か
+    # ②観測の日付が新しいか ③別業種の基準値か、を先に確かめる・ランキングの値は推定のことがある。itsmattgeorge「Entity resolution」：
+    # 1つの値に絞る規則（最新・最頻・最初の空でない値）を欄ごとに決めて書く。ONS「International comparison of GDP revisions」2016：
+    # 直しが小さいのは、後の情報を入れない方針の結果のことがあり精度の証拠でない・方法の変更の分を除いてから直しの偏りを測る）
+    try:
+        _SALE = re.compile(r"売上|売上高|年商|revenue|sales|turnover", re.I)
+        _GRP = re.compile(r"グループ|連結|全社|グローバル|group|consolidated|worldwide", re.I)
+        _RANK = re.compile(r"ランキング|番付|上位\d|位）|Forbes|フォーブス|ranking|top \d+", re.I)
+        _sg = {}
+        for r in rows:
+            if isinstance(r.get("値"), (int, float)) and r["値"] > 0 and _SALE.search((r.get("区分", "") or "") + (r.get("引用", "") or "")):
+                _sg.setdefault((r.get("品目", ""), r.get("単位", "")), []).append(r)
+        _split = []
+        for _k, _g in _sg.items():
+            _vs = [r["値"] for r in _g]
+            if len({r.get("出典") for r in _g}) >= 2 and min(_vs) > 0 and max(_vs) / min(_vs) >= 1.5:
+                _yrs = {r.get("年") for r in _g if r.get("年")}
+                _split.append((_k, round(max(_vs) / min(_vs), 2), any(_GRP.search(r.get("引用", "") or "") for r in _g), len(_yrs) >= 2))
+        _split.sort(key=lambda x: -x[1])
+        _rank = [r for g in _sg.values() for r in g if _RANK.search(r.get("引用", "") or "")]
+        # 欄ごとに「最新の取得日の値」と「最も多く出た値」が割れる欄（1つに絞る規則が要る欄）
+        _cell = {}
+        for r in rows:
+            if r.get("値") in (None, "") or r.get("予測"): continue
+            _cell.setdefault((r.get("品目", ""), r.get("区分", ""), r.get("単位", ""), r.get("年")), []).append(r)
+        _surv = []
+        for _k, _g in _cell.items():
+            _vals = [str(r["値"]) for r in _g]
+            if len(set(_vals)) < 2: continue
+            _late = sorted(_g, key=lambda r: str(r.get("取得日") or ""))[-1]
+            _cnt = {}
+            for v in _vals: _cnt[v] = _cnt.get(v, 0) + 1
+            _mode = max(_cnt.items(), key=lambda x: x[1])
+            _prim = [str(r["値"]) for r in _g if r.get("一次") == "一次"]
+            if _mode[1] >= 2 and _mode[0] != str(_late["値"]):
+                _surv.append((_k, str(_late["値"]), _mode[0], _prim[0] if _prim else "なし"))
+        # 速報と確報の組で直しがゼロの組と、方法の変更の語が版・引用にある組
+        _zero = _meth = 0
+        _METH = re.compile(r"基準改定|基準年|方法の変更|推計方法|分類の改定|methodolog|rebas", re.I)
+        _pz = {}
+        for r in rows:
+            if isinstance(r.get("値"), (int, float)) and r.get("年") and r.get("版") in ("速報", "確報", "改定"):
+                _pz.setdefault((r.get("品目", ""), r.get("区分", ""), r.get("単位", ""), r["年"]), []).append(r)
+        for _g in _pz.values():
+            if {"速報"} <= {r["版"] for r in _g} and ({"確報", "改定"} & {r["版"] for r in _g}):
+                if len({r["値"] for r in _g}) == 1: _zero += 1
+                if any(_METH.search((r.get("引用", "") or "") + (r.get("定義", "") or "")) for r in _g): _meth += 1
+        md += ["## 売上の割れの点検・1つに絞る規則・直しの小ささ（4-130・機械）",
+               f"- 同じ品目で2か所以上の売上の値が1.5倍以上に割れる品目：{len(_split)}品目。どちらを採るか決める前に、①グループ・連結の人数や売上か ②観測の年が違うか ③別業種の基準値を当てた推定か、を確かめる（4-80・4-84・4-130）",
+               *(f"  - {k[0][:30]}（{k[1]}）：最大÷最小 {x}倍" + ("・引用にグループ/連結の語" if g else "") + ("・年が2つ以上" if y else "") for k, x, g, y in _split[:5]),
+               f"- 売上の値のうちランキング・番付から来た行：{len(_rank)}件。ランキングの値は会社の届出でなく推定のことがあるので、方法の注記を確かめるまで【記事】の扱い（4-51・4-130）",
+               f"- 同じ欄・同じ年で「最新の取得日の値」と「最も多く出た値」が割れる欄：{len(_surv)}欄。1つに絞る規則（一次を先・同じ一次なら最新の版・最頻は写しの数なので採る理由にしない・4-57）を scan.md に欄ごとに書く（4-130）",
+               *(f"  - {k[0][:24]}｜{k[1][:12]}｜{k[3]}：最新 {a}{k[2]}／最頻 {b}{k[2]}／一次 {p}" for k, a, b, p in _surv[:5]),
+               f"- 速報と確報・改定がそろう組のうち、直しがゼロの組：{_zero}組、基準改定・方法の変更の語がある組：{_meth}組。直しが小さいのは後の情報を入れない方針の結果のことがあり精度の証拠にしない。方法の変更による直しは、直しの偏りを測る組から外して別に数える（4-46・4-128・4-130）",
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
