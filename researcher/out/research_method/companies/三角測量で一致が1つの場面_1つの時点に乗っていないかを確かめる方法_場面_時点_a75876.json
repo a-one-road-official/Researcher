@@ -8,14 +8,290 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-08T17:28:40.368219+00:00",
+ "researched_at": "2026-11-09T01:37:57.236567+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "手順・やり方": [
    {
-    "quote": "公開情報や一次情報をもとに内容を検証し、正確性・信頼性の高いコンテンツ制作を支援しています",
+    "quote": "Situationship: How to Cope When Commitment is Unclear",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Triangulation is often described through three roles from Stephen Karpman’s “drama triangle”: the victim, the rescuer and the persecutor (Karpman, 1968).",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bowen argued that two-person relationships are unstable under stress. A pair alone has no built-in way to dilute the tension between them. The process unfolds in three steps:",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Family members learn to notice when they have been drawn into someone else’s conflict. Then they step back. They encourage direct communication between the two people who hold the disagreement, so the third position can be vacated.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Take a step back, evaluate, and assess all of the facts.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The most robust way of dealing with these situations is to take a step back, assess what is occurring, and act accordingly.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "They can help you learn more about your relationships involving triangulation and how to navigate them safely.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日本では明治時代から、全国の三角点の位置を決める方法として使われ、地形図整備の骨格になりました",
     "url": "https://construction-dx.com/ict/triangulation",
     "pass": 3,
     "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "各ステップを順に実施することで、直接測れない地点の座標を高精度に求めます",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手順を隣接する三角形に繰り返し適用した測量網を「三角網（さんかくもう）」と呼びます",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この手順を繰り返すことで、基線から連鎖的に多数の点の座標を導き出すことができます",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スネルは1617年に隣接する三角形を連続してネットワーク状に配置する手法を考案し、現代の三角測量の原型を生み出しました",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "GNSS測量はネットワーク型RTK方式の普及により、単独の受信機だけで短時間に世界測地系の座標値を取得できるようになりました",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "国土地理院が整備した三角点網はこの手法で構築されており、地形図の作成や土地の境界確定、大型構造物の施工測量など幅広い用途の基準として活用されています",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "丁張り測量とは｜種類・かけ方・計算方法をわかりやすく解説",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "丁張りの種類や基準点と水準測量によるかけ方、高さと勾配の計算方法、GNSS測設による省力化を紹介します",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "BIMのメリット・デメリットとは？CADとの違いや手順を解説",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Triangulation in Research: Types, Purpose, and How to Apply It",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "more than one method or technique used to investigate the same question.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The standard typology comes from sociologist Norman Denzin, who identified four basic forms in his early methodological writing on the topic:",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "4. Methodological Triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Methodological triangulation uses more than one method to investigate the same question, and is the type most often meant when people use “triangulation” as shorthand. Denzin further divided it into two sub-types:",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Within-method triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": using multiple techniques from the same broad methodological tradition (e.g., two different qualitative techniques, such as interviews and focus groups, or two different quantitative instruments measuring the same construct).",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Between-method (or across-method) triangulation",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Between-method triangulation is where the overlap with mixed-methods research is closest, and where the two terms are most often confused — see the next section.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation vs. Mixed-Methods Research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mixed-methods research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Mixed-methods research",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is a broader validity/credibility strategy that can involve data, investigators, theories, or methods, and does not require mixing qualitative and quantitative data at all. A purely qualitative study can triangulate by using multiple coders (investigator triangulation) or multiple qualitative techniques (within-method triangulation) without ever collecting quantitative data.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What is Method Triangulation?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "approaches the same data through more than one theoretical framework.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "combines different methods to study one topic.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Method Triangulation:",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Method triangulation, also called methodological triangulation, combines different methods to explore the same topic. Researchers can pair",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "qualitative and quantitative methods",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "It starts with the research design, where researchers purposefully select a diverse range of data sources, methods, and theories relevant to the research question.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "When reporting, researchers should describe their triangulation strategies clearly. They should name the types of data sources, methods, and theories involved. They should also explain how the data from different sources were compared and contrasted.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Connect the rationale to the research question and the chosen methodology.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Specify the specific types of triangulation used in the study, such as data triangulation, investigator triangulation, theory triangulation, or method triangulation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For each type, provide a detailed description of the sources, methods, theories, or investigators involved.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "mixed methods approaches",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ],
   "突き合わせ・推定": [
@@ -380,386 +656,12 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "Situationship: How to Cope When Commitment is Unclear",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation is often described through three roles from Stephen Karpman’s “drama triangle”: the victim, the rescuer and the persecutor (Karpman, 1968).",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bowen argued that two-person relationships are unstable under stress. A pair alone has no built-in way to dilute the tension between them. The process unfolds in three steps:",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Family members learn to notice when they have been drawn into someone else’s conflict. Then they step back. They encourage direct communication between the two people who hold the disagreement, so the third position can be vacated.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Take a step back, evaluate, and assess all of the facts.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The most robust way of dealing with these situations is to take a step back, assess what is occurring, and act accordingly.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "They can help you learn more about your relationships involving triangulation and how to navigate them safely.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日本では明治時代から、全国の三角点の位置を決める方法として使われ、地形図整備の骨格になりました",
+    "quote": "公開情報や一次情報をもとに内容を検証し、正確性・信頼性の高いコンテンツ制作を支援しています",
     "url": "https://construction-dx.com/ict/triangulation",
     "pass": 3,
     "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "各ステップを順に実施することで、直接測れない地点の座標を高精度に求めます",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この手順を隣接する三角形に繰り返し適用した測量網を「三角網（さんかくもう）」と呼びます",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この手順を繰り返すことで、基線から連鎖的に多数の点の座標を導き出すことができます",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スネルは1617年に隣接する三角形を連続してネットワーク状に配置する手法を考案し、現代の三角測量の原型を生み出しました",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "GNSS測量はネットワーク型RTK方式の普及により、単独の受信機だけで短時間に世界測地系の座標値を取得できるようになりました",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "国土地理院が整備した三角点網はこの手法で構築されており、地形図の作成や土地の境界確定、大型構造物の施工測量など幅広い用途の基準として活用されています",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "丁張り測量とは｜種類・かけ方・計算方法をわかりやすく解説",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "丁張りの種類や基準点と水準測量によるかけ方、高さと勾配の計算方法、GNSS測設による省力化を紹介します",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "BIMのメリット・デメリットとは？CADとの違いや手順を解説",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Triangulation in Research: Types, Purpose, and How to Apply It",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation means deliberately comparing multiple data sources, investigators, theories, or methods on the same question. Covers Denzin’s four types, how it differs from mixed-methods research, and how to apply and report it.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "more than one method or technique used to investigate the same question.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Simply collecting a lot of data, or using several methods without ever comparing what they show, is not triangulation. The defining move is the deliberate cross-comparison: looking at where independent sources agree, where they diverge, and treating both outcomes as informative rather than only counting agreement as a success.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The standard typology comes from sociologist Norman Denzin, who identified four basic forms in his early methodological writing on the topic:",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "4. Methodological Triangulation",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Methodological triangulation uses more than one method to investigate the same question, and is the type most often meant when people use “triangulation” as shorthand. Denzin further divided it into two sub-types:",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Within-method triangulation",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": using multiple techniques from the same broad methodological tradition (e.g., two different qualitative techniques, such as interviews and focus groups, or two different quantitative instruments measuring the same construct).",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Between-method (or across-method) triangulation",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Between-method triangulation is where the overlap with mixed-methods research is closest, and where the two terms are most often confused — see the next section.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation vs. Mixed-Methods Research",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "mixed-methods research",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Mixed-methods research",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is a broader validity/credibility strategy that can involve data, investigators, theories, or methods, and does not require mixing qualitative and quantitative data at all. A purely qualitative study can triangulate by using multiple coders (investigator triangulation) or multiple qualitative techniques (within-method triangulation) without ever collecting quantitative data.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation uses several data sources, researchers, theories or methods to check a finding from more than one angle (Denzin, 1978).",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Data, investigator, theory and method triangulation each corroborate a finding from a different direction.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What is Method Triangulation?",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "approaches the same data through more than one theoretical framework.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "combines different methods to study one topic.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Method Triangulation:",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Method triangulation, also called methodological triangulation, combines different methods to explore the same topic. Researchers can pair",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "qualitative and quantitative methods",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "It starts with the research design, where researchers purposefully select a diverse range of data sources, methods, and theories relevant to the research question.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "When reporting, researchers should describe their triangulation strategies clearly. They should name the types of data sources, methods, and theories involved. They should also explain how the data from different sources were compared and contrasted.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Connect the rationale to the research question and the chosen methodology.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Specify the specific types of triangulation used in the study, such as data triangulation, investigator triangulation, theory triangulation, or method triangulation.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For each type, provide a detailed description of the sources, methods, theories, or investigators involved.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "mixed methods approaches",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": ", blamed for faults and mistakes whether or not they are responsible.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A点から求めた座標とB点から求めた座標が一致すれば、計算に誤りがないと確認できます",
-    "url": "https://construction-dx.com/ict/triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "different assumptions and are vulnerable to different biases",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Common Pitfalls and Limitations",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Combining sources does not guarantee a correct answer — if all sources share the same underlying bias (e.g., every method relies on self-report from the same population), agreement across them doesn’t rule that bias out.",
-    "url": "https://casrai.org/guides/triangulation-in-research",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This helps to reduce the risk of relying on a single source that may be biased or incomplete.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What are Bias in Qualitative Research?",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Addressing how researcher bias was managed through triangulation.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "a shared bias can make agreement look like independent confirmation.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.",
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
    }
   ],
   "実例": [
@@ -913,40 +815,158 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": ", blamed for faults and mistakes whether or not they are responsible.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A点から求めた座標とB点から求めた座標が一致すれば、計算に誤りがないと確認できます",
+    "url": "https://construction-dx.com/ict/triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "different assumptions and are vulnerable to different biases",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Common Pitfalls and Limitations",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Combining sources does not guarantee a correct answer — if all sources share the same underlying bias (e.g., every method relies on self-report from the same population), agreement across them doesn’t rule that bias out.",
+    "url": "https://casrai.org/guides/triangulation-in-research",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This helps to reduce the risk of relying on a single source that may be biased or incomplete.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What are Bias in Qualitative Research?",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Addressing how researcher bias was managed through triangulation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a shared bias can make agreement look like independent confirmation.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "By addressing these criticisms and applying triangulation critically and reflexively, researchers can harness its strengths while mitigating its potential pitfalls. The result is a more robust and nuanced body of qualitative research.",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/masa0730_study/n/n32969b2ec967",
+    "url": "https://note.com/masakadokawata/n/n13ee5e649f7c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/newtonfirstlaw/n/n0c16328d332f",
+    "url": "https://note.com/jack4manastalk/n/ne67cc3bcd537",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
+    "url": "https://note.com/zattaman0011/n/nc0f71857e799",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/logic_magic/n/nf5651ba8baea",
+    "url": "https://note.com/anon_press/n/n0fede8d38451",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/takumi_k_academy/n/n17fe9c97837e",
+    "url": "https://note.com/hys2go/n/na3996a3e127a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/brisk_newt9430/n/na02a7824c5af",
+    "url": "https://note.com/_nanazen/n/n76b11e3398d8",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.gsi.go.jp/common/000233835.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/hito_lab_pt/n/n4ecd82858019",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hidetoshi_h_/n/nc18eaa9c476e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/explainlikeimfive/comments/1n09rjm/eli5_how_do_you_do_radio_triangulation_assuming/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
@@ -954,7 +974,57 @@
     "method": "http"
    },
    {
+    "url": "https://digital-construction.jp/column/1325",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mogist.kkc.co.jp/word/27f7e681-5077-4138-a1d5-ad0ef85ab640.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ndl.go.jp/math/s1/c7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dessinlaboratory.com/knack/triangulation.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kreon3d.com/ja/article/how-does-laser-triangulation-3d-scanning-technology-improve-manufacturing-processes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://naughty1029.hatenablog.com/entry/2025/02/02/143047",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/witty_mango107/n/na39978bdd66e",
     "status": "ok",
     "method": "http"
    },
@@ -969,92 +1039,32 @@
     "method": "browser"
    },
    {
-    "url": "https://unhomeschool.com/ja/un/geometry_of_verification",
+    "url": "https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/triangulation#_",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://casrai.org/guides/triangulation-in-research",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://construction-dx.com/ict/triangulation",
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gijyutsu-keisan.com/mech/analysis/measure/3dmeasure/3dmeasure_1.php",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "http://library.jsce.or.jp/Image_DB/s_book/jsce100/pdf/24069/24069_16.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://gojikara.com/calculators/triangulation-calculator.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.islandhospitality.com/",
+    "url": "https://www.researchgate.net/publication/331645590_'Triangulation'_Research_Method_as_the_Tool_of_Social_Science_Research",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.islandhospitality.com/careers",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/company/island-hospitality-management",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://recruiting.paylocity.com/recruiting/jobs/All/57e19090-b4a5-4284-b3e0-a14a05570f45/Island-Hospitality-Management",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.hospitalityonline.com/island-hospitality-management",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.islandhospitality.com/portfolio",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Triangulation_(psychology)",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.verywellmind.com/what-is-triangulation-in-psychology-5120617",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.psychologytoday.com/us/blog/of-prisons-and-pathos/202110/understanding-triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.choosingtherapy.com/triangulation/",
+    "url": "https://www.scribbr.com/frequently-asked-questions/pros-and-cons-of-triangulation/",
     "status": "ok",
     "method": "http"
    }
@@ -1064,118 +1074,133 @@
   {
    "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） site:note.com",
    "results": [
-    "https://note.com/masa0730_study/n/n32969b2ec967",
-    "https://note.com/newtonfirstlaw/n/n0c16328d332f",
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://note.com/takumi_k_academy/n/n17fe9c97837e",
-    "https://note.com/brisk_newt9430/n/na02a7824c5af",
-    "https://note.com/kumafujidream/n/ndf1811813c7a"
+    "https://note.com/masakadokawata/n/n13ee5e649f7c",
+    "https://note.com/jack4manastalk/n/ne67cc3bcd537",
+    "https://note.com/zattaman0011/n/nc0f71857e799",
+    "https://note.com/anon_press/n/n0fede8d38451",
+    "https://note.com/hys2go/n/na3996a3e127a",
+    "https://note.com/_nanazen/n/n76b11e3398d8",
+    "https://note.com/charm_minnow1292/n/n39339b4d272c",
+    "https://note.com/ego_station/n/nf3a2411b4a6e",
+    "https://note.com/huge_kamaitachi/n/nf0b4b15585c5",
+    "https://note.com/jerkwater/n/nbc342adeb7c7"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） note",
    "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://note.com/hito_lab_pt/n/n4ecd82858019",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://note.com/hidetoshi_h_/n/nc18eaa9c476e",
+    "https://www.reddit.com/r/explainlikeimfive/comments/1n09rjm/eli5_how_do_you_do_radio_triangulation_assuming/?tl=ja",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://digital-construction.jp/column/1325",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
     "https://ja.wikipedia.org/wiki/三角測量",
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://naughty1029.hatenablog.com/entry/2025/02/02/143047",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "https://www.gsi.go.jp/sokuchikijun/sankaku-survey.html",
-    "https://unhomeschool.com/ja/un/geometry_of_verification"
+    "https://note.com/witty_mango107/n/na39978bdd66e"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） やり方",
    "results": [
-    "https://ja.m.wikipedia.org/wiki/三角測量",
-    "https://naughty1029.hatenablog.com/entry/2025/02/02/143047",
-    "https://www.gsi.go.jp/sokuchikijun/sankaku-survey.html",
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf",
-    "https://unhomeschool.com/ja/un/geometry_of_verification",
-    "https://construction-dx.com/ict/triangulation",
-    "https://gijyutsu-keisan.com/mech/analysis/measure/3dmeasure/3dmeasure_1.php",
-    "http://library.jsce.or.jp/Image_DB/s_book/jsce100/pdf/24069/24069_16.pdf",
-    "https://gojikara.com/calculators/triangulation-calculator.html"
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://mogist.kkc.co.jp/word/27f7e681-5077-4138-a1d5-ad0ef85ab640.html",
+    "https://digital-construction.jp/column/1325",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://ja.wikipedia.org/wiki/三角測量",
+    "https://jenni.ai/ja/blog/data-triangulation-vs-methodological-triangulation"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） 事例",
    "results": [
-    "https://www.islandhospitality.com/",
-    "https://www.islandhospitality.com/careers",
-    "https://www.linkedin.com/company/island-hospitality-management",
-    "https://recruiting.paylocity.com/recruiting/jobs/All/57e19090-b4a5-4284-b3e0-a14a05570f45/Island-Hospitality-Management",
-    "https://www.hospitalityonline.com/island-hospitality-management",
-    "https://www.islandhospitality.com/portfolio",
-    "https://www.islandhospitality.com/our-company",
-    "https://www.islandhospitality.com/contact",
-    "https://www.islandhospitality.com/services",
-    "https://www.islandhospitality.com/our-company/the-team"
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://digital-construction.jp/column/1325",
+    "https://www.ndl.go.jp/math/s1/c7.html",
+    "https://www.kreon3d.com/ja/article/how-does-laser-triangulation-3d-scanning-technology-improve-manufacturing-processes",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://www.kurabo.co.jp/el/room/3d/page1.html",
+    "https://mogist.kkc.co.jp/word/27f7e681-5077-4138-a1d5-ad0ef85ab640.html",
+    "https://www.jsme.or.jp/jsme-medwiki/doku.php?id=14:1004732",
+    "https://ja.wikipedia.org/wiki/三角測量"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 16
   },
   {
    "query": "triangulation across settings and time points shared bias false corroboration reporting triangulation strategy",
    "results": [
-    "https://en.wikipedia.org/wiki/Triangulation",
-    "https://en.wikipedia.org/wiki/Triangulation_(psychology)",
-    "https://www.verywellmind.com/what-is-triangulation-in-psychology-5120617",
-    "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "https://www.psychologytoday.com/us/blog/of-prisons-and-pathos/202110/understanding-triangulation",
-    "https://www.choosingtherapy.com/triangulation/",
-    "https://anniewright.com/triangulation-narcissist/",
-    "https://thesensehub.com/what-is-triangulation-and-why-its-so-emotionally-harmful/",
-    "https://psychcentral.com/blog/psychology-self/2019/10/triangulation-and-narcissism",
-    "https://www.simplypsychology.com/articles/narcissistic-triangulation"
+    "https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/triangulation",
+    "https://pubmed.ncbi.nlm.nih.gov/25158659/",
+    "https://casrai.org/guides/triangulation-in-research",
+    "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "https://www.researchgate.net/publication/331645590_'Triangulation'_Research_Method_as_the_Tool_of_Social_Science_Research",
+    "https://www.scribbr.com/frequently-asked-questions/pros-and-cons-of-triangulation/",
+    "https://www.betterevaluation.org/methods-approaches/methods/triangulation",
+    "https://msessd.ioe.edu.np/wp-content/uploads/2017/04/the-point-of-triangulation.pdf",
+    "https://openpub.libraries.rutgers.edu/qualgo2/chapter/28/",
+    "https://www.researchgate.net/publication/382547374_The_Role_of_Triangulation_in_Qualitative_Research_Converging_Perspectives"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 13
   },
   {
    "query": "site:note.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
    "results": [
-    "https://note.com/masa0730_study/n/n32969b2ec967",
-    "https://note.com/newtonfirstlaw/n/n0c16328d332f",
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://note.com/takumi_k_academy/n/n17fe9c97837e",
-    "https://note.com/brisk_newt9430/n/na02a7824c5af",
-    "https://note.com/kumafujidream/n/ndf1811813c7a"
+    "https://note.com/masakadokawata/n/n13ee5e649f7c",
+    "https://note.com/jack4manastalk/n/ne67cc3bcd537",
+    "https://note.com/anon_press/n/n0fede8d38451",
+    "https://note.com/hys2go/n/na3996a3e127a",
+    "https://note.com/_nanazen/n/n76b11e3398d8",
+    "https://note.com/charm_minnow1292/n/n39339b4d272c",
+    "https://note.com/huge_kamaitachi/n/nf0b4b15585c5",
+    "https://note.com/jerkwater/n/nbc342adeb7c7",
+    "https://note.com/koji_shibuya/n/na016feaa4d61",
+    "https://note.com/light_viola4560/n/n6133656c4dc4"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
    "results": [
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://note.com/newtonfirstlaw/n/n0c16328d332f",
-    "https://note.com/takumi_k_academy/n/n17fe9c97837e",
-    "https://note.com/brisk_newt9430/n/na02a7824c5af",
-    "https://note.com/kumafujidream/n/ndf1811813c7a",
-    "https://note.com/masa0730_study/n/n32969b2ec967"
+    "https://x.com/302Sora302/status/2091617301464502576",
+    "https://x.com/hito_lab_pt/status/2118986852636254316",
+    "https://x.com/ro_nimomakezu/status/2064686556586373548",
+    "https://x.com/nayuta_office/status/2112046182352482436",
+    "https://x.com/nayuta_office/status/2114945278201450809",
+    "https://x.com/nayuta_office/status/2105523190264926577",
+    "https://x.com/nayuta_office/status/2115670108685181438"
    ],
    "engines": [
     "ddgs:google"
@@ -1185,84 +1210,107 @@
   {
    "query": "site:linkedin.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
    "results": [
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://note.com/newtonfirstlaw/n/n0c16328d332f",
-    "https://note.com/takumi_k_academy/n/n17fe9c97837e",
-    "https://note.com/brisk_newt9430/n/na02a7824c5af",
-    "https://note.com/kumafujidream/n/ndf1811813c7a",
-    "https://note.com/masa0730_study/n/n32969b2ec967"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
-   "results": [
-    "https://note.com/witty_mango107/n/na39978bdd66e",
-    "https://note.com/logic_magic/n/nf5651ba8baea",
-    "https://note.com/newtonfirstlaw/n/n0c16328d332f",
-    "https://note.com/takumi_k_academy/n/n17fe9c97837e",
-    "https://note.com/brisk_newt9430/n/na02a7824c5af",
-    "https://note.com/kumafujidream/n/ndf1811813c7a",
-    "https://note.com/masa0730_study/n/n32969b2ec967"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） X 投稿",
-   "results": [
-    "https://www.linkedin.com/in/audrey-starliderfilmmusic",
-    "https://www.linkedin.com/posts/audrey-starliderfilmmusic_entertainment-tonight-brad-pitts-girlfriend-activity-7523937110026932224-UMeV",
-    "https://www.facebook.com/audrey.star.9/posts/peoplecom-instyle-brad-pitts-girlfriend-actor-audrey-star-a-talented-actress-pro/10241315822937485/",
-    "https://www.facebook.com/audrey.star.9/posts/hollywood-star-audrey-starvrt-reports-out-star-in-the-spotlight-whatever-audrey-/10243654586205105/",
-    "https://www.etonline.com/latest/people/brad-pitt",
-    "https://www.hellomagazine.com/tags/brad-pitt/",
-    "https://www.etonline.com/",
-    "https://www.tmz.com/people/brad-pitt/",
-    "https://www.facebook.com/audrey.star.9/",
-    "https://www.linkedin.com/posts/audrey-starliderfilmmusic_who-is-brad-pitts-girlfriend-everything-activity-7436969409455439872-qNZG"
+    "https://jp.linkedin.com/in/%E6%8B%93%E5%93%89-%E6%B2%96%E6%B4%A5-25939897",
+    "https://www.linkedin.com/in/judith-ibarra-bianchetta-pe-cfm-env-sp-2396718",
+    "https://jp.linkedin.com/pulse/triangulating-data-dr-selena-fisk-htgpc?tl=ja",
+    "https://www.linkedin.com/company/afterquery/",
+    "https://jp.linkedin.com/pulse/data-triangulation-arun-kumar-zzruc?tl=ja",
+    "https://jp.linkedin.com/pulse/leadership-triangulation-bill-keever-oly?tl=ja",
+    "https://jp.linkedin.com/pulse/psychological-triangulation-circular-continuum-raymond-rivera-mba-jio0c?tl=ja",
+    "https://jp.linkedin.com/pulse/alignment-audit-why-teams-agree-drift-3-different-rahul-kulkarni-rgjlf?tl=ja",
+    "https://in.linkedin.com/company/cars24",
+    "https://jp.linkedin.com/pulse/架空の技術ブログ-37-一つのラインから国内外の全拠点へ-第1回-不一致0件は何を確かめたか-ayako-mohey-iuchi-6nmkc"
    ],
    "engines": [
     "ddgs:bing",
     "ddgs:google",
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
-   "n_hits": 25
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）",
+   "results": [
+    "https://www.facebook.com/bioforestation/",
+    "https://www.facebook.com/urbanforestryjp/",
+    "https://www.facebook.com/media/set/?vanity=sendai.thr.mlit&set=a.308037544684151",
+    "https://www.facebook.com/groups/415514953882458/posts/1288145213286090/",
+    "https://www.facebook.com/mamoru.hamatsu/",
+    "https://www.facebook.com/iyashiiyasare/posts/図の中に三角形はいくつ/1039438088854279/",
+    "https://www.facebook.com/media/set/?set=a.971729412937126",
+    "https://www.facebook.com/Riku963/videos/完全に一致した2つの魂です/1694745874971844/",
+    "https://www.facebook.com/604615389621406/posts/俺が時を止めた9秒の時点でなそして脱出できたやれやれだぜジョジョの奇妙な冒険空条承太郎/610946468988298/",
+    "https://www.facebook.com/watch/?v=291700334718343"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） note 社長",
+   "results": [
+    "https://note.com/hito_lab_pt/n/n4ecd82858019",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://note.com/witty_mango107/n/na39978bdd66e",
+    "https://www.youtube.com/watch?v=ez4bZMYdi1A",
+    "https://statg.com/kiso/saso.html",
+    "https://www.reddit.com/r/explainlikeimfive/comments/1n09rjm/eli5_how_do_you_do_radio_triangulation_assuming/?tl=ja",
+    "https://ja.wikipedia.org/wiki/三角測量"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方） X 投稿",
+   "results": [
+    "https://www.gsi.go.jp/common/000233835.pdf",
+    "https://www.youtube.com/watch?v=aqc9EWFyRQQ",
+    "https://digital-construction.jp/column/1325",
+    "https://dessinlaboratory.com/knack/triangulation.html",
+    "https://www.courage-sapuri.jp/backnumber/10411/",
+    "https://www.reddit.com/r/explainlikeimfive/comments/2b28bc/eli5_how_does_triangulation_work_in_finding_out/?tl=ja",
+    "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E6%B8%AC%E9%87%8F",
+    "https://zenn.dev/s_hashida/articles/bb940b717cae87",
+    "https://ja.wikipedia.org/wiki/三角測量",
+    "https://naughty1029.hatenablog.com/entry/2025/02/02/143047"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "triangulation across settings and time points shared bias false corroboration reporting triangulation strategy site:linkedin.com",
    "results": [
-    "https://en.wikipedia.org/wiki/Triangulation",
-    "https://en.wikipedia.org/wiki/Triangulation_(psychology)",
-    "https://www.verywellmind.com/what-is-triangulation-in-psychology-5120617",
-    "https://www.simplypsychology.org/what-is-triangulation-in-psychology.html",
-    "https://www.psychologytoday.com/us/blog/of-prisons-and-pathos/202110/understanding-triangulation",
-    "https://www.choosingtherapy.com/triangulation/",
-    "https://anniewright.com/triangulation-narcissist/",
-    "https://thesensehub.com/what-is-triangulation-and-why-its-so-emotionally-harmful/",
-    "https://psychcentral.com/blog/psychology-self/2019/10/triangulation-and-narcissism",
-    "https://www.simplypsychology.com/articles/narcissistic-triangulation"
+    "https://www.linkedin.com/pulse/dissecting-case-study-research-yin-eisenhardt-icmc-bimtech",
+    "https://nl.linkedin.com/in/hermon-kweon/ko",
+    "https://www.linkedin.com/top-content/healthcare/healthcare-fraud-detection/investigative-fraud-reporting-methods/",
+    "https://ug.linkedin.com/in/sydney-nsubuga-93041526",
+    "https://www.linkedin.com/top-content/user-experience/ux-research-essentials/tips-for-enhancing-user-research-practices/",
+    "https://in.linkedin.com/in/rpunekar",
+    "https://gh.linkedin.com/in/augustusemenogu",
+    "https://uk.linkedin.com/in/oliver-bruff",
+    "https://www.linkedin.com/pulse/generation-crossroads-gen-z-governance-conflict-future-nigussie-0zvpc",
+    "https://nl.linkedin.com/in/ali-kodratallah-ostowar-487142251"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 8,
+ "runs": 9,
  "first_researched_at": "2026-11-06T23:05:40.043605+00:00"
 }

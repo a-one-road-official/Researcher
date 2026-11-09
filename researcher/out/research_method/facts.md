@@ -7369,11 +7369,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -10374,6 +10374,11 @@
 ## 突き合わせ（三角測量）の4つの軸と報告の書き方（データ・調べる人・理論・方法・何をどう比べたか）CASRAI・質的研究の手引き（triangulation four types Denzin reporting how sources compared）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「限られたデータから考察を深める「三角測量」の使い方｜一人研究ラボ｜臨床家の研究と論文化」（https://note.com/hito_lab_pt/n/n4ecd82858019）
+  - 「限られたデータから考察を深める「三角測量」の使い方」（https://note.com/hito_lab_pt/n/n4ecd82858019）
+  - 「複数の情報源や方法を用いて、一つの現象への理解を深める考え方」（https://note.com/hito_lab_pt/n/n4ecd82858019）
+  - 「今回のnoteでは、三角測量を症例報告に応用するための具体的な方法を、臨床場面を想定しながら解説します」（https://note.com/hito_lab_pt/n/n4ecd82858019）
+  - 「三角測量（Triangulation）は、主に質的研究の方法論で発展してきた考え方です」（https://note.com/hito_lab_pt/n/n4ecd82858019）
   - 「それぞれの評価方法が導き出すのは、以下のような問いに対する答えです」（https://note.com/whence278663/n/nd0398e441b32）
   - 「研究における三角測量法 - 複数の方法、データ源、理論、研究者を組み合わせる三角測量の原理と実践」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
   - 「方法論的三角測量、データ三角測量、研究者三角測量、理論的三角測量の種類と適用、信頼性と妥当性の向上戦略について学ぶ」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
@@ -10384,11 +10389,6 @@
   - 「問題設定、データ収集、分析、結果の統合のステップを踏みます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
   - 「三角測量法の研究におけるバイアスを減少させる方法は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
   - 「三角測量法は、異なる方法やデータ源を組み合わせて、より信頼性の高い研究結果を得るためのアプローチです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「三角測量法におけるデータの収集方法の選択基準は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「研究の目的や対象に応じた適切な方法を選ぶことです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「MTMMは異なる方法で測定された概念の相関行列を用い、測定誤差と妥当性を考察する有効な方法です」（https://statg.com/kiso/saso.html）
-  - 「すべての測定方法は、それぞれ固有の欠点があるので、多くの場合、研究者は特定の事項に対して異なるいくつかの方法を用いて測定する」（https://statg.com/kiso/saso.html）
-  - 「Visual SLAMでの三角測量の役割は、キーフレーム間で追跡した特徴点の3D位置を確定することです」（https://note.com/witty_mango107/n/na39978bdd66e）
 - 突き合わせ・推定：
   - 「企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三角測量」の実践的活用法｜Whence@Gallery」（https://note.com/whence278663/n/nd0398e441b32）
   - 「企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三角測量」の実践的活用法」（https://note.com/whence278663/n/nd0398e441b32）
@@ -10438,6 +10438,7 @@
   - 「異なる視点を明示し、結果の解釈に注意を払うことです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
   - 「データの質や研究者のバイアスが結果に影響を与える可能性があります」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
 - 実例：
+  - 「評価結果を一通りまとめたものの、そこから何を考察すればよいのか迷うことが多い人」（https://note.com/hito_lab_pt/n/n4ecd82858019）
   - 「類似する上場企業や過去の取引事例を基準とする評価です」（https://note.com/whence278663/n/nd0398e441b32）
   - 「例えば、コストアプローチの評価額よりもインカムアプローチの評価額が圧倒的に高い場合、その企業は「目に見える資産以上の強力なブランド力や無形資産（将来の稼ぐ力）を持っている」と読み取れます」（https://note.com/whence278663/n/nd0398e441b32）
   - 「評価結果の差額は、その企業が持つ独自の強み（超過収益力など）や、潜在的なリスク（事業計画の非現実性など）を如実に表しています」（https://note.com/whence278663/n/nd0398e441b32）
@@ -10452,8 +10453,10 @@
   - 「理論は、研究の枠組みを提供し、結果の解釈を助けます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
   - 「三角測量法の結果をどのように解釈しますか？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
   - 「問題設定、データ収集、分析、結果の統合のステップを踏みます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「三角測量法の研究結果の一般化について考慮すべき点は？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
 - 検索結果の抜粋：
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...必須 No.1 法規・公共測量 ｜測量士 午後 記述式 解き方の型と過去5年...10-51. 原点/基準/アンカー/単位：18.伊能忠敬の測量手順 Copilotによ... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、そ」（https://note.com/kasano/n/n5300393c2f30）
+  - 「【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10 ...」（https://note.com/logic_magic/n/nf5651ba8baea）
+  - 「戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。」（https://note.com/hidetoshi_h_/m/m40eef6dece29）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を」（https://note.com/kasano/n/n5300393c2f30）
   - 「トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 客観性を高めるうえで多角化は重要と感じていましたが、先人の同様な考え方に出会うことが出来ました。 ※ノーマン・K・デンジンさんが1978年に著書のなかで提唱したものだそうです。」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「Triangulation (social science) — [1] Denzin identified four primary types of triangulation, each serving to deepen understanding and address limitations inherent in single-method studies. Data triangulation employs varied data sources—such as observations from different individuals, times, or settings—to identify patterns and convergences within the same phenomenon.」（https://grokipedia.com/page/Triangulation_(social_science)）
@@ -10466,9 +10469,6 @@
   - 「トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 社会科学の分野において、トライアンギュレーション (triangulation)という言葉があります。 日本語訳は、「三角測量」です。 測量方法を表す言葉ですが、データソースや検証方法を複数化（複眼化）し、研究の妥当性を高める方法として考案されました。」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「4． 三角測量（基線測量・角測量） - 広島大学 — 1. 目的 基準点の位置を正確に知るための三角測量を体験する.工学部東側において,図 1 のような三角網を設置する.各班で 1 つの辺の基線長(Pn~Qn)と,2 つの頂点(Pn,Qn)に関わる全ての内角を計測する.」（https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf）
   - 「三角測量とは｜基本原理・三角法・歴史・GNSSとの違いを解説 — Jul 11, 2026 · 三角測量とは、基線と角度から位置を求める測量技術です。 基本原理と正弦定理を使った計算、三角網、日本での歴史、地形図や建設工事への応用、GNSS測量との違いを解説します。」（https://construction-dx.com/ict/triangulation）
-  - 「三角測量とは — 基線1本と角度だけで全国の座標を決めた方法と、GNSS... — Aug 16, 2026 · 三角測量とは、距離は基線1本だけを精密に測り、あとは角度で三角形をつないで座標を広げていく方法です。 長い距離を正確に測るのが難しかった時代の発明で、日本の一等三角測量は1883年（明治16年）に始まりました。 ただし網でつ…」（https://gmp.y42u.net/2026/08/16/triangulation-to-gnss-history-learning/）
-  - 「測量のしくみ（三角測量・三角点・水準点） - 地理ラボ 詳しすぎる高... — 測量とは、2点間の位置関係を決めることです。 地図上の建物や海岸線などの位置関係を正確に決めるために測量は必須であり、地図は測量の結果を描いているものです。 このページでは、はじめに基本的な測量方法である」（https://alivevulnerable.com/basic/land-surveying/）
-  - 「三角測量 - ナムウィキ - ja.namu.wiki — Aug 24, 2026 · 「直角 三角形 は角度一つだけ同じなら似た三角形」という性質と 三角関数を 利用するのに両方とも 平面でしか適用できない性質 であるため、 球面 である 地球 表面上で遠すぎる距離を測定すると誤差が発生することになる。」（https://ja.namu.wiki/w/삼각+측량）
 
 ## 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）（market sizing top-down bottom-up reconcile assumptions table）
 - 文脈：推定
@@ -12465,32 +12465,41 @@
 ## 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）（survivorship bias correction business data closed firms best worst case assumption）
 - 文脈：失敗・落とし穴
 - 手順・やり方：
+  - 「The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Static pool (cohort) method:」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「How to Correct for It」（https://metricgate.com/blogs/survivorship-bias/）
   - 「How to Detect It Before It Burns You」（https://metricgate.com/blogs/survivorship-bias/）
   - 「framework delivers, and a」（https://metricgate.com/blogs/survivorship-bias/）
 - 突き合わせ・推定：
+  - 「What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「survivor mean is no longer an unbiased estimate of」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Re-estimate under pessimistic assumptions about the dropouts to bracket how far the bias could move your conclusion.」（https://metricgate.com/blogs/survivorship-bias/）
   - 「imitate behaviors that failed firms shared in equal measure — the data simply forgot the failures. Engineers who estimate」（https://metricgate.com/blogs/survivorship-bias/）
   - 「estimate is itself misleading — a tight interval around the wrong center is still wrong.」（https://metricgate.com/blogs/survivorship-bias/）
 - 失敗・落とし穴：
-  - 「Survivorship Bias in Data Analysis | MetricGate」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「Survivorship Bias in Data Analysis」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「guide explains how the bias creeps in, shows a simulation you can run, and lays out the corrections that actually work. It pairs well」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「selection bias vs survivorship bias」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「Survivorship bias is not about bad measurement. Every number in your dataset can be perfectly accurate. The problem is the」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「How the Bias Distorts Your Numbers」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「survivor mean is no longer an unbiased estimate of」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「# every fund-year, no bias」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「"=== Survivorship bias in fund returns ===\n"」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「"Survivorship bias inflates the average"」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「Where Survivorship Bias Shows Up」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「Inflated — biased upward」（https://metricgate.com/blogs/survivorship-bias/）
-  - 「The gold standard is a full universe that back-fills the dead funds, lapsed customers, or scrapped parts. Many vendors now sell explicitly “survivorship-bias-free” histories for exactly this reason.」（https://metricgate.com/blogs/survivorship-bias/）
+  - 「Survivorship Bias in Quantitative Analysis」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Survivorship bias in quantitative analysis explained: why dropping dead funds, delisted stocks and defaulters invents alpha, with a closed-form result, a ten-year zero-alpha fund simulation, index backtests and the fixes.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「1. Survivorship Bias in Plain English」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「The crucial point is that the bias does not need anyone to cheat. Nobody deletes the losers on purpose. Closed funds stop reporting, delisted tickers vanish from the vendor file the analyst happens to download, and defaulted borrowers are archived to a different system. Survivorship bias is a property of」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Sampling Bias in Financial Research」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Selection Bias in Financial Datasets」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Two lessons fall straight out of the formula. First, the bias is proportional to σ. Double the dispersion of the population and you double the fake alpha, which is why survivorship matters far more for hedge funds, small caps and emerging market equities than for investment-grade bond funds. Second, the bias grows with the attrition rate」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Notice what the formula does not contain: the true mean. The bias is added on top of whatever the true average is. A population with genuinely negative average alpha after fees can therefore look flat or positive once the failures leave the room, which is a far more damaging outcome than an exaggerated but still positive number.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「, indistinguishable from the true zero. The returns themselves were never biased. The bias came entirely from deleting histories after the fact.」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「3.2 Where in time the bias sits」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「The result many people find surprising is that the bias is largest in the」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Common Biases in Hedge Fund Performance Data」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Look-Ahead Bias and Statistical Research」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Common Backtesting Mistakes」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
 - 実例：
+  - 「the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
+  - 「3. Worked Example: Zero-Alpha Funds Over Ten Years」（https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis）
   - 「The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Double selection — worst case」（https://metricgate.com/blogs/survivorship-bias/）
   - 「case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question」（https://metricgate.com/blogs/survivorship-bias/）
@@ -14051,10 +14060,10 @@
 - 文脈：手法・報道
 - 失敗・落とし穴：
   - 「Teaching and learning about common data pitfalls」（https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data）
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）（credit risk assessment adjusting book net assets private company financial statements）
 - 文脈：手法・企業調査

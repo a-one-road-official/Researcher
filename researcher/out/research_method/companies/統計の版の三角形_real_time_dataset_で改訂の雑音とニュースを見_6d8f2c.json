@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-08T18:23:08.460657+00:00",
+ "researched_at": "2026-11-09T01:48:33.765371+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -694,6 +694,116 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Simply Beautiful PDF Letters from Markdown",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Document Conversion to 'PDF', Thumbnails and Visual Testing",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Convert an 'XLSForm' to a 'Word' or PDF Document",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Genome-Wide Nucleic Acid Melting Temperature Profiling and",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Graphical User Interface for Manipulating PDF and Image Files",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "White Noise Normalization for Mass Spectrometry Profiling Data",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Digitally Sign and Verify PDF Documents",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "'Word', 'PNG', 'PDF', and 'Typst' Formats",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Fast Multi-Page PDF Report Layout on the Graphics Device",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Text Extraction, Rendering and Converting of PDF Documents",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Edit 'XMP' Metadata and 'PDF' Bookmarks and Documentation Info",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Tools for Easy Use of the 'e-Stat' API",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Transcription Elongation Profiling",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Automated Exploratory Data Analysis and Dataset Profiling",
+    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "Estimate Potential Impact and Population Attributable Fractions",
@@ -1031,346 +1141,179 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "The 'pic' Graphics Language Rendered to SVG, PNG and PDF",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Simply Beautiful PDF Letters from Markdown",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Document Conversion to 'PDF', Thumbnails and Visual Testing",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Convert an 'XLSForm' to a 'Word' or PDF Document",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Genome-Wide Nucleic Acid Melting Temperature Profiling and",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Graphical User Interface for Manipulating PDF and Image Files",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "White Noise Normalization for Mass Spectrometry Profiling Data",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Digitally Sign and Verify PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "'Word', 'PNG', 'PDF', and 'Typst' Formats",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Fast Multi-Page PDF Report Layout on the Graphics Device",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Text Extraction, Rendering and Converting of PDF Documents",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Edit 'XMP' Metadata and 'PDF' Bookmarks and Documentation Info",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Tools for Easy Use of the 'e-Stat' API",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Transcription Elongation Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Automated Exploratory Data Analysis and Dataset Profiling",
-    "url": "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/cros/system/files/Quality Aspects-02-T-Revisions of Economic Official Statistics v1.0.pdf",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/4031688/8971242/KS-02-18-142-EN-N.pdf/e7f85f07-91db-4312-8118-f729c75878c7?t=1528447068000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://ec.europa.eu/eurostat/documents/3859598/5935517/KS-RA-13-016-EN.PDF.pdf/42d365e5-8a65-42f4-bc0b-aacb02c93cf7?t=1558683870000",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://rde.ac/journal/view.php?doi=10.5395/rde.2021.46.2.e29",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/nekoai_lab/n/n5a81ebd5c600",
+    "url": "https://note.com/doiwa/n/n0397da719f07",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "url": "https://note.com/yamaaki_07/n/n974447a24c5e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
+    "url": "https://note.com/e_dao/n/n1d4439bbbc9a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/data_pn/n/n3a33a9120a47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/marthay/n/n6a5a3633cd40",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/futaro_/n/ne92955415538",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec.europa.eu/eurostat/data/database",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec.europa.eu/eurostat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jmir.org/2022/11/e41566/PDF",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000945550.pdf",
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191013-00000026-it_nlab-ent&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-025-66748-y&domain=pdf",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
+    "url": "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200914-00547310-fsight-int&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010690120005/",
+    "url": "https://xn--3svx00cdzihe.com/column/2026-02-04-189/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://lab.ndl.go.jp/dl/book/842757?page=1",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ec.europa.eu/eurostat/data/data-revision-policy",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "url": "http://www.dmi.med.osaka-u.ac.jp/dcc/pdf/r5dm/lecture2.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.ine.es/art/ree/178_2.pdf",
+    "url": "https://www.jstage.jst.go.jp/article/jasj/64/1/64_KJ00004806476/_article/-char/ja",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ajs.or.at/index.php/ajs/article/download/1468/794",
-    "status": "ok",
-    "method": "pdf"
+    "method": "http"
    }
   ]
  },
  "search_log": [
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/doiwa/n/n0397da719f07",
+    "https://note.com/yamaaki_07/n/n974447a24c5e",
+    "https://note.com/e_dao/n/n1d4439bbbc9a",
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/marthay/n/n6a5a3633cd40",
+    "https://note.com/futaro_/n/ne92955415538",
+    "https://note.com/tnishimaki/n/nff97c41334d6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） note",
    "results": [
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://note.com/nekoai_lab/n/n5a81ebd5c600",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://www.jmir.org/2022/11/e41566/PDF",
-    "https://lab.ndl.go.jp/dl/book/842757?page=1",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200914-00547310-fsight-int&lang=ja",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "https://ec.europa.eu/eurostat/data/database"
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://note.com/doiwa/n/n0397da719f07",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://note.com/data_pn/n/n3a33a9120a47"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） やり方",
    "results": [
-    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "https://app.testgorilla.com/preview/825639?language=ja-jp",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://buildersbox.corp-sansan.com/entry/2021/03/31/111000",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191013-00000026-it_nlab-ent&lang=ja",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-026-76646-6&domain=pdf",
-    "https://ec.europa.eu/eurostat/data/database"
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://xn--3svx00cdzihe.com/column/2026-02-04-189/",
+    "http://www.dmi.med.osaka-u.ac.jp/dcc/pdf/r5dm/lecture2.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） 事例",
    "results": [
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-025-66748-y&domain=pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200914-00547310-fsight-int&lang=ja",
-    "https://www.nhk.or.jp/bunken/d/research/yoron/BUNA0000010690120005/",
-    "https://lab.ndl.go.jp/dl/book/842757?page=1",
-    "https://ec.europa.eu/eurostat/data/database"
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "http://www.dmi.med.osaka-u.ac.jp/dcc/pdf/r5dm/lecture2.pdf",
+    "https://www.jstage.jst.go.jp/article/jasj/64/1/64_KJ00004806476/_article/-char/ja"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "revision triangle real-time dataset noise versus news test mean revision t-test Eurostat",
-   "results": [
-    "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://ec.europa.eu/eurostat/data/data-revision-policy",
-    "https://www.bruegel.org/blog-post/blogs-review-gdp-revisions-news-and-noise",
-    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "https://www.ine.es/art/ree/178_2.pdf",
-    "https://www.youtube.com/watch?v=JvtJloNsm6M",
-    "https://www.ajs.or.at/index.php/ajs/article/view/1468/794",
-    "https://cran.r-project.org/web/packages/available_packages_by_date.html",
-    "https://www.restud.com/wp-content/uploads/2023/01/MS30764manuscript.pdf",
-    "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 14
-  },
-  {
-   "query": "site:note.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [],
    "engines": [],
    "n_hits": 0
+  },
+  {
+   "query": "site:note.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
+   "results": [
+    "https://note.com/doiwa/n/n0397da719f07",
+    "https://note.com/statistics_ai/n/n5c3557fcb50a",
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/novel_yeflo/n/n650b3a7c5f2b",
+    "https://note.com/yamaaki_07/n/n974447a24c5e",
+    "https://note.com/tnishimaki/n/nff97c41334d6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
   },
   {
    "query": "site:x.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
     "https://jf.x.com/images/media-preview/2113759896936370264",
-    "https://jf.x.com/images/media-preview/2089344058112217298",
-    "https://jf.x.com/images/media-preview/2098969925586997426",
-    "https://jf.x.com/images/media-preview/2102283625354195430",
     "https://jf.x.com/images/media-preview/2090413876621836624",
-    "https://x.com/jaeho38line/status/2089126729071911030",
-    "https://x.com/smo_yutohisano/status/2075165578747342927"
+    "https://jf.x.com/images/media-preview/2089344058112217298",
+    "https://jf.x.com/images/media-preview/2093957579353530493",
+    "https://jf.x.com/images/media-preview/2090136715297956253",
+    "https://x.com/smo_yutohisano/status/2075165578747342927",
+    "https://x.com/kokodo_shoten/status/2074687137111490621"
    ],
    "engines": [
     "ddgs:google"
@@ -1379,30 +1322,20 @@
   },
   {
    "query": "site:linkedin.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
-   "results": [
-    "https://www.linkedin.com/pulse/publicly-available-datasets-manufacturing-use-cases-drescher-dr--hwwec",
-    "https://ca.linkedin.com/company/axiom-real-time-metrics",
-    "https://www.linkedin.com/posts/cnbc-tv18_sumitomo-chemical-q2-results-net-profit-activity-7520488396486610944--__4",
-    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4361455",
-    "https://jp.linkedin.com/pulse/demystifying-project-management-iron-triangle-scope-dvhpf?tl=ja",
-    "https://jp.linkedin.com/pulse/issue-209-steve-jobs-signal-to-noise-ratio-forgotten-half-scott-mautz-rwwlc?tl=ja",
-    "https://jp.linkedin.com/pulse/やっぱり重要はんだペースト印刷-naoya-okumura-jkofc"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定）",
    "results": [
-    "https://www.facebook.com/buzzbuzzne/posts/頭の体操三角形は何個ある解答はコメント欄に答え合わせはコチラ/3232076147114905/",
     "https://www.facebook.com/weathertimejnet/",
+    "https://www.facebook.com/AStarFABrication/",
+    "https://www.facebook.com/vsop.english/posts/936904763043993/",
     "https://www.facebook.com/Isuzugtime/videos/astronネクスターnexter品番hab003j価格297000-税込新開発のデュアルタイムクロノグラフがレギュラーモデルとして登場三角形で構築された幾何学/1016528547728478/",
-    "https://www.facebook.com/reel/801382729299547/",
-    "https://www.facebook.com/4DINLtd/videos/参加登録受付中4din-webinar/1010616821729682/",
-    "https://www.facebook.com/marketplace/item/39079823494950476/",
-    "https://www.facebook.com/3anet.jp/posts/資料みんなの日本語初級Ⅱ-第3版の初級Ⅱ-第2版からの変更点語彙表現を公開-初級-第3版-本冊各課問題の対話トピック読み物関連タスクの一覧表に初級Ⅱのデータを加/1438349801665435/"
+    "https://www.facebook.com/kinpodo.pub/posts/改訂版情報超入門-すべての医療従事者のためのrstudioではじめる医療統計第2版著笹渕裕介東京大学リアルワールドエビデンス講座特任准教授大野幸子東京大学大学院/1026972052761609/",
+    "https://www.facebook.com/3anet.jp/posts/資料みんなの日本語初級Ⅱ-第3版の初級Ⅱ-第2版からの変更点語彙表現を公開-初級-第3版-本冊各課問題の対話トピック読み物関連タスクの一覧表に初級Ⅱのデータを加/1438349801665435/",
+    "https://www.facebook.com/marketplace/item/1589636456112546/"
    ],
    "engines": [
     "ddgs:google"
@@ -1412,66 +1345,54 @@
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） note 社長",
    "results": [
-    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "https://rde.ac/DOIx.php?id=10.5395/rde.2021.46.2.e29",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
-    "https://note.com/mediologic/n/n0430d581ac94",
-    "https://lab.ndl.go.jp/dl/book/842757?page=1",
-    "https://ec.europa.eu/eurostat/data/database"
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://note.com/doiwa/n/n0397da719f07",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://note.com/data_pn/n/n3a33a9120a47"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "統計の版の三角形（real-time dataset）で改訂の雑音とニュースを見分ける方法（Eurostat の改訂分析・平均改訂のt検定） X 投稿",
    "results": [
-    "https://www.hituzi.co.jp/hituzigusa/2018/06/01/toukei-4/",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/ihou/66/kobayashi.pdf",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/143851/cf29de114fa73c109536ac188d7e0345?lang=en",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-025-66748-y&domain=pdf",
-    "https://www.shugiin.go.jp/internet/itdb_kenpou.nsf/html/kenpou/2170410_2kokkaitosyokan-siryou.pdf/$File/2170410_2kokkaitosyokan-siryou.pdf",
-    "https://collabodesign.org/docmas/wp-content/uploads/2020/11/docmas_202011_02.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191013-00000026-it_nlab-ent&lang=ja",
-    "https://ec.europa.eu/eurostat/data/database"
+    "https://ec.europa.eu/eurostat/data/database",
+    "https://ec.europa.eu/eurostat/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.educa.nagoya-u.ac.jp/~ishii-h/materials/統計分析の基礎知識.pdf",
+    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/2-rn-010.pdf",
+    "https://www.jstage.jst.go.jp/article/jasj/64/1/64_KJ00004806476/_article/-char/ja",
+    "https://xn--3svx00cdzihe.com/column/2026-02-04-189/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "revision triangle real-time dataset noise versus news test mean revision t-test Eurostat site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-september-edition-eurostat-5h6vc",
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-april-edition-eurostat-vegie",
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-june-edition-eurostat-y5zyc",
-    "https://www.linkedin.com/pulse/statistical-literacy-newsletter-july-edition-eurostat-hfibc",
-    "https://be.linkedin.com/company/european-commission",
-    "https://uk.linkedin.com/in/teraallas",
-    "https://www.linkedin.com/in/stefaan-verhulst",
-    "https://www.linkedin.com/posts/antonymartini_luxembourg-ranks-fifth-lowest-at-43-fossil-activity-7503707100271820802-UGI1",
-    "https://www.linkedin.com/posts/giacomo-romanini-1ba60a63_productionnetworks-monetarypolicy-champ-activity-7518330205011243008-HR5z",
-    "https://uk.linkedin.com/in/yu-jinghui-sage"
+    "https://www.linkedin.com/advice/0/how-can-you-handle-noisy-data-your-analysis-skills-data-science-qe9bf",
+    "https://www.linkedin.com/company/eurostat/",
+    "https://lk.linkedin.com/company/test-triangle",
+    "https://in.linkedin.com/company/test-triangle",
+    "https://www.linkedin.com/advice/1/how-can-you-identify-noisy-data-mining-skills-data-mining",
+    "https://www.linkedin.com/advice/3/how-can-you-reduce-noise-machine-learning-1r6kf",
+    "https://www.linkedin.com/pulse/t-test-simplified-step-by-step-guide-real-world-applications-deb-vsj9f"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 12,
+ "runs": 13,
  "first_researched_at": "2026-11-06T07:05:14.243850+00:00"
 }
