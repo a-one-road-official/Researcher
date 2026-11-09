@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・290品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・292品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -777,6 +777,10 @@
 ## コンサル・アナリストのリサーチの型（consultant research methodology）
 - 文脈：型
 - 手順・やり方：
+  - 「知っているだけでコンサル未経験者であっても誰もが真似できる「コツ」」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「キックオフのゴールは、現状仮説として考えている結論の初期共有とプロジェクトの進め方の合意」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「これは好き勝手な発言を繰り返す非論理的自由奔放型の人が会議で暴れだすのを防ぐのにも役立ちます」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「コンサルティング業界では、このピラミッド型の論点構造は「イシューツリー」や「イシューアナリシス」などと呼ばれますが、専門用語を覚えずとも「常にピラミッドを意識したコミュニケーションを取る」ことは、誰もが明日から取り入れられる簡単なコツです」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
   - 「その際、MECE（漏れなく、ダブりなく）のフレームワークを活用して情報を網羅的に分解することで、論理的な抜け漏れを防ぎ、調査対象を明確に特定できます」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「「戦略コンサルタント」の仕事や採用動向、転職方法をご紹介していきます」（https://www.movin.co.jp/consul/career_works/analyst.html）
   - 「未経験からコンサル転職を目指している方へ、その転職方法と積極採用＆未経験歓迎のコンサル求人情報をご紹介致します」（https://www.movin.co.jp/consul/career_works/analyst.html）
@@ -788,11 +792,11 @@
   - 「はAnthropic社が提供するコマンドライン型のAIエージェントツールです」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「」と呼ばれる拡張機能に対応しており、業務プロセスごとのルールや手順をスキルとして定義すれば、AIにドメイン固有のタスクを任せられるようになります」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「提案書から報告書まで13ステップを順に進め、各ステップ完了後に人間のレビューを挟みます」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「付録 Consulting Toolkit スキル一覧と使い方」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「提案から報告書まで13ステップを順に進め、各ステップ完了後にレビューを挟みます」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「AIが与件を分析してワークフローを提案し、ステップごとに適切なスキルを呼び出します」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「どのプロセスから始めても、途中のステップだけ使っても問題ありません」（https://note.com/masakikono/n/n0f7faa03a113）
 - 突き合わせ・推定：
+  - 「キックオフのゴールは、現状仮説として考えている結論の初期共有とプロジェクトの進め方の合意」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「マネジャー「まだ仮説ベースですが、」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「市場は今後2週間で調査・深堀をしていきますが、概ね現状の仮説とズレない想定です」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「監査と保証業務の基礎知識 監査の定義と目的 監査は、企業等が作成する財務諸表の適正性や信頼性を検証するために、公認会計士や監査法人が実施する業務です」（https://www.kotora.jp/c/50381/）
   - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
@@ -804,10 +808,6 @@
   - 「生成AIの台頭により、データ分析や仮説構築の一部がAIに代替されつつあり、純粋な戦略ファームにとっての差別化がより問われる時代になっている」（https://note.com/domonjo01/n/nb4e1275569ed）
   - 「生成AIによって「データ分析・仮説構築」の部分がAIに代替されつつある中で、純粋な戦略ファームの差別化が問われている」（https://note.com/domonjo01/n/nb4e1275569ed）
   - 「「5年後にどんなスキルを持っていたいか」から逆算して領域を選ぶと、ミスマッチが減る」（https://note.com/domonjo01/n/nb4e1275569ed）
-  - 「「最終的にどこにいたいか」が決まっていれば、逆算して最も近い領域を選べる」（https://note.com/domonjo01/n/nb4e1275569ed）
-  - 「まずは効率的に全体像を把握し、仮説を立てた上でより深い分析へと進むのがプロフェッショナルの標準的なアプローチです」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
-  - 「リサーチの精度を高める鍵は、早い段階で仮説を立てることにあります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
-  - 「このアプローチにより、初期の仮説の妥当性を検証し、不足している情報をピンポイントで特定できるようになります」（https://note.kotora.jp/n/nc550a05c2c32?gs=b4c6deab703e4e858260c1de0a2992be）
 - 一次情報の探し方：
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
@@ -841,6 +841,14 @@
   - 「入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
   - 「次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
 - 実例：
+  - 「具体的にイメージを持っていただけるよう、ケーススタディのような形でご説明します」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「先ほど台湾かタイがいいとおっしゃっていたけど、例えば、台湾なんてうちは全く手を出したことがないんだよなあ」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「ケーススタディのため、トピックは限りなくシンプルな例にしていますし、マネジャーとアナリストの発言も意図的に落差の大きい内容にしています」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「今回のケーススタディのポイントは、以下の3点です」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「先のケーススタディで、マネジャーは初めに、結論とその根拠として論点が3つあることを述べた上で、各論点の詳細説明に入りました」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「結果として「分かりにくい人」という残念な烙印を押されてしまうのです」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「経営戦略室長の発言で「台湾かタイがいいとおっしゃっていたけど、例えば、台湾なんてうちは全く手を出したことがないんだよなあ」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
+  - 「以上、ケーススタディから体感していただいた通り、外資系コンサルタントのように分かりやすいプレゼンをし、クライアントミーティングを的確にファシリテートして結論に導き、チームメンバーをリードしてプロジェクトを成功させるには、頭の片隅にピラミッドを置いておくことが欠かせません」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
   - 「例えば、新市場の可能性を探る際には「需要側」と「供給側」に分けて整理するなど、全体を構造的に捉えることが重要です」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「結果として、アウトプットの説得力は格段に高まります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「【診断士2次試験・事例Ⅲ】営業面と生産面QCD改善で生産管理攻略」（https://biz-con.plus/skillup-researchprocess/）
@@ -848,14 +856,6 @@
   - 「事例Ⅲは他事例と比較するとイメージがつきにくい方が多いため取り組みにくいイメージがありますが、試験で特定の生産・技術知識を問われることはありません」（https://biz-con.plus/skillup-researchprocess/）
   - 「下記の表には該当しない例外的な給与や役職の事例も存在し、一概にこの給与というわけではありません」（https://www.movin.co.jp/consul/career_works/analyst.html）
   - 「国内戦略コンサルティングファームのドリームインキュベータ（DI） でケース面接対策＋キャリアセミナーが開催されます」（https://www.movin.co.jp/consul/career_works/analyst.html）
-  - 「本勉強会では、選考フローや入社後の研修体制についての説明に加え、ケース面接に向けた実践的な対策ポイントを学ぶことができます」（https://www.movin.co.jp/consul/career_works/analyst.html）
-  - 「300万～500万アップの転職支援事例多数」（https://www.movin.co.jp/consul/career_works/analyst.html）
-  - 「`report-outline-creator` — 調査結果から報告書の骨子を設計」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「ここまでの提案書の論点とデスクリサーチの結果を合わせて、論点ごとの質問設計、想定回答、深掘りの分岐をAIに組ませます」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「最後に、デスクリサーチの結果と全インタビュー議事録を束ねて、論点ごとにファインディングを統合させ、報告書のドラフトまで作らせます」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「`report-outline-creator` 調査結果から報告書の骨子を設計」（https://note.com/masakikono/n/n0f7faa03a113）
-  - 「実装まで踏み込まないケースも多く、「答えを出す仕事」と「答えを使って動かす仕事」のうち、前者を純粋に担う」（https://note.com/domonjo01/n/nb4e1275569ed）
-  - 「：ロジカルシンキングが好き、ケース面接を楽しめる、CEOレベルの問題意識を持ちたい、最高の知的環境で鍛えられたい人」（https://note.com/domonjo01/n/nb4e1275569ed）
 - 検索結果の抜粋：
   - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · 目次 [ ] リサーチの重要性 リサーチ方法（デスクリサーチ）の紹介 ①リサーチ目的の確認 ②リサーチプランの設計 ③リサーチの実施 ④アウトプットの作成 実例の紹介 ①リサーチの目的（実例） ②リサーチプランの設計（実例） ③リサーチの実施（実例）」（https://www.arts-crafts.co.jp/post-16243/）
   - 「【コンサル流】リサーチにおける考え方 - アーツアンドクラフツ株式会... — Sep 30, 2022 · 外資就活（2022）「調査・リサーチの成果を最大化する方法｜現役コンサルタントが語るプロフェッショナルの極意 (2)」 みずほ銀行（2022）「コンテンツ産業の展望 2022 ～日本企業の勝ち筋～」」（https://www.arts-crafts.co.jp/post-16243/）
@@ -4716,8 +4716,8 @@
   - 「This metric becomes less useful at a narrow departmental level unless revenue can be credibly attributed. Sales teams may influence revenue more directly than HR or finance, so department-level comparisons need care. In most cases, it is better to use function-specific KPIs and reserve revenue per employee for the company level or business unit level.」（https://strategize.cloud/revenue-per-employee-benchmarks-by-company-size-and-industry）
 - 検索結果の抜粋：
   - 「Revenue Per Employee 2026: $130K-$249K by Stage — Jul 7, 2026 · Startup revenue per employee benchmarks for 2026: median and top-quartile figures by funding stage, sector, and headcount band, what the metric」（https://stealthagents.com/research/startup-revenue-per-employee-benchmarks）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）（statistical data revisions analysis real-time vintages revision size bias preliminary final）
 - 文脈：改訂
@@ -16201,6 +16201,97 @@
 
 ## 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）（statistics method change continuity reporting reference values Japan wage statistics）
 - 文脈：統計の読み方
+- 手順・やり方：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 実例：記載なし（読んだ27頁・検索12回）
+
+## 数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126）（number fact-checking trace every figure back to source table hallucinated numbers audit newsroom）
+- 文脈：裏取り
+- 手順・やり方：
+  - 「本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである」（https://note.com/everprogress/n/nc066813442e3）
+  - 「エージェント型AI：人間が与えた目標に対し、必要な手順を自ら組み立て、外部の道具を呼び出して多段階の作業を進めるAI」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Khalid & Witmer(2025)は、大規模言語モデルを用いた主題分析の手順を四段階に整理した」（https://note.com/everprogress/n/nc066813442e3）
+  - 「一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「エージェント型AIはこれをさらに進め、収集、処理、分析の三つの段階を自律的に行き来する(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「：theHarvester、SpiderFoot、OSINT Framework」（https://note.com/everprogress/n/nc066813442e3）
+  - 「エージェント型の例としてOpenOSINTがある」（https://note.com/everprogress/n/nc066813442e3）
+  - 「対話型の実行環境、ウェブ画面、コマンドライン、MCPサーバーの四つの使い方がある(OpenOSINT, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.2.3 「エージェント型OSINT」という質的な転換」（https://note.com/everprogress/n/nc066813442e3）
+  - 「情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「CIAの公刊誌に載った近年の論考は、ソーシャルメディアなどの公開データと業務上の記録を大規模言語モデルに読み込ませ、協力者との対話で使うべき言葉や避けるべき話題、相手が示しそうな反論を事前に助言させる使い方を提案している(Mulligan, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「GCHQ長官のアン・キースト＝バトラーは、2026年5月27日にブレッチリー・パークで行った第1回GCHQ年次講演で、国家サイバーセキュリティセンター(NCSC)がエージェント型AIを組み込んだ国家規模のサイバー防衛能力を開発中であることを明らかにした」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2021年の「拡張知能」から2026年の「エージェント型AIによる機械の速さでの防御」への移行は、後述する導入計画の第一段階から第四段階までを、一つの機関が5年間で歩んだ例といえる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.4.2 フランスDGSEの統合型モデル」（https://note.com/everprogress/n/nc066813442e3）
+  - 「GCHQが自らの防御にエージェント型AIを組み込もうとしているように、企業も自社ネットワークの防御に同じ技術を使うことができる」（https://note.com/everprogress/n/nc066813442e3）
+- 突き合わせ・推定：
+  - 「競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「市場規模や性能に関する推計は情報源によって大きく食い違う」（https://note.com/everprogress/n/nc066813442e3）
+  - 「一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている」（https://note.com/everprogress/n/nc066813442e3）
+  - 「画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「研究は収集と分析に偏り、検証と報告の段階が手薄である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている」（https://note.com/everprogress/n/nc066813442e3）
+  - 「モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する」（https://note.com/everprogress/n/nc066813442e3）
+  - 「大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している」（https://note.com/everprogress/n/nc066813442e3）
+- 一次情報の探し方：
+  - 「：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://aclanthology.org/2023.eval4nlp-1.7.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf」（https://note.com/everprogress/n/nc066813442e3）
+  - 「https://www.dni.gov/files/documents/ICD/ICD-203.pdf」（https://note.com/everprogress/n/nc066813442e3）
+- 失敗・落とし穴：
+  - 「確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす」（https://note.com/everprogress/n/nc066813442e3）
+  - 「構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法」（https://note.com/everprogress/n/nc066813442e3）
+  - 「第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた」（https://note.com/everprogress/n/nc066813442e3）
+  - 「事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した」（https://note.com/everprogress/n/nc066813442e3）
+  - 「構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む」（https://note.com/everprogress/n/nc066813442e3）
+  - 「メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める」（https://note.com/everprogress/n/nc066813442e3）
+  - 「CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している」（https://note.com/everprogress/n/nc066813442e3）
+- 実例：
+  - 「エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.3.3 イスラエルの事例と証拠の限界」（https://note.com/everprogress/n/nc066813442e3）
+  - 「イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である」（https://note.com/everprogress/n/nc066813442e3）
+  - 「衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する」（https://note.com/everprogress/n/nc066813442e3）
+  - 「企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた」（https://note.com/everprogress/n/nc066813442e3）
+  - 「Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している」（https://note.com/everprogress/n/nc066813442e3）
+  - 「公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる」（https://note.com/everprogress/n/nc066813442e3）
+  - 「データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている」（https://note.com/everprogress/n/nc066813442e3）
+  - 「2.8.2 中国の事例が示す対照的な型」（https://note.com/everprogress/n/nc066813442e3）
+
+## 貿易の数字で供給網を追う調べ方（HS の品目番号が無い品を原料で追う・ミラー統計・季節外れの跳び・船荷の記録の網羅の欠け・4-117・4-126）（trace supply chain with trade statistics mirror data HS code precursor seasonal anomaly investigative）
+- 文脈：探し先
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）

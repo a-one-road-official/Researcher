@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・276品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・277品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -13984,14 +13984,14 @@
 
 ## 工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）（Census of Manufacture Economic Structure Survey overlap year reference values linking old and new methods Japan）
 - 文脈：定義
-- 痛み・損（深さの印）：記載なし（読んだ50頁・検索18回）
-- 事業所数・社数：記載なし（読んだ50頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ50頁・検索18回）
-- 受注金額・加工賃収入：記載なし（読んだ50頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ50頁・検索18回）
-- 生産能力・設備：記載なし（読んだ50頁・検索18回）
-- 10年推移：記載なし（読んだ50頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ50頁・検索18回）
+- 痛み・損（深さの印）：記載なし（読んだ52頁・検索18回）
+- 事業所数・社数：記載なし（読んだ52頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ52頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ52頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ52頁・検索18回）
+- 生産能力・設備：記載なし（読んだ52頁・検索18回）
+- 10年推移：記載なし（読んだ52頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ52頁・検索18回）
 
 ## 奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）（Nara prefecture census of manufacture results by employee size unit of shipments）
 - 文脈：統計
@@ -14121,6 +14121,100 @@
   - 「み込まれる ソフトウェア の 開 発など、事業所 収 入に直 接 関 連 する 外注 費用をいい、派遣受入」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
   - 「者に係わる支払額、 委託生 産額などの 外注 費は 含 みませ ん」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
   - 「額」、原 材料使 用額等に「製造等に関 連 する 外注 費」、「 転売 した商品の 仕 入額」を調査」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+
+## 工業統計表 地域別統計表 都道府県×従業者規模の製造品出荷額等・従業者数・事業所数（奈良県の行を所管の表で取り直す・e-Stat の xlsx・表頭の単位の行つき・県のページの値と同じ年で照らす・4-41・4-90・4-126）（Census of Manufacture regional statistics table by prefecture and employee size e-Stat xlsx Nara）
+- 文脈：統計
+- 事業所数・社数：
+  - 「事業所数及び従業者数は調査年の６月１日現在」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(62KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(69KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(291KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.01MB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(105KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(107KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(567KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.43MB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 社員数・平均社員数：
+  - 「事業所数及び従業者数は調査年の６月１日現在」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(62KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(69KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(291KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.01MB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(105KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(107KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(567KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.43MB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 受注金額・加工賃収入：
+  - 「製造品出荷額等の経理項目は，調査年の前年の１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(62KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(69KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(291KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.01MB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「全国の産業中分類別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「都道府県別事業所数，従業者数，製造品出荷額等 (Excelファイル)(73KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等外 (Excelファイル)(105KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡，法人・個人別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(107KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類，地域別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(567KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業細分類別事業所数，従業者数， 製造品出荷額等外 (Excelファイル)(1.43MB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 1人あたり・1社あたり金額：
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(76KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(68KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等， (粗)付加価値額外 (Excelファイル)(70KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(101KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数， 製造品出荷額等，(粗)付加価値額外 (Excelファイル)(111KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等，(粗)付加価値額外 (Excelファイル)(100KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「事業所数及び従業者数は令和２年６月１日現在，製造品出荷額等及び付加価値額は令和元年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表６】市町別の付加価値額の推移［従業者４人以上の事業所］（平成12年～） (Excelファイル)(37KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表９～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（平成11年～） (Excelファイル)(37KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移［従業者４人以上の事業所］（昭和20年～） (Excelファイル)(21KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表15】事業所数，従業者数，製造品出荷額等，付加価値額の推移（新分類組み換え後）［従業者４人以上の事業所］（昭和60年～） (Excelファイル)(21KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「事業所数及び従業者数は令和元年６月１日現在，製造品出荷額等及び付加価値額は平成30年１月から12月の数値です」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表6】市町別の付加価値額の推移[従業者4人以上の事業所]（平成11年～） (Excelファイル)(39KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表9～12】産業中分類別の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（平成10年～） (Excelファイル)(38KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表13】広島県及び全国の事業所数，従業者数，製造品出荷額等，付加価値額の推移[従業者4人以上の事業所]（昭和20年～） (Excelファイル)(23KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 生産能力・設備：
+  - 「従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(48KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(44KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「従業者規模，産業中分類別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(43KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(47KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(42KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(46KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「市郡別事業所数，従業者数，製造品出荷額等・在庫額等，有形固定資産外 (Excelファイル)(45KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 10年推移：
+  - 「2025年12月25日」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「※令和４年（2022年）以降は，「」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「​ 令和４年（2022年）以降の状況については，「」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「（2020年）」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「（2019年）」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「（2018年）」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「（2017年）」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「（2015年）」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「（2010年）」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「※平成29年（2017年）調査から，調査期日が変わりました」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「※平成23年（2011年），平成28年（2016年）及び令和３年（2021年）は，「経済センサス-活動調査」が実施されたため，工業統計調査は実施されていません」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「令和２年（2020年）（令和元年実績）」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表１】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者４人以上の事業所］（昭和25年～） (Excelファイル)(33KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表２】事業所数，従業者数，現金給与総額，原材料使用額等，製造品出荷額等の推移［従業者３人以下の事業所］（昭和58年～） (Excelファイル)(16KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+  - 「【参考表３】市町別の事業所数の推移［従業者４人以上の事業所］（平成12年～） (Excelファイル)(34KB)」（https://www.pref.hiroshima.lg.jp/site/toukei/kougyoutoukeityousa.html）
+- 痛み・損（深さの印）：記載なし（読んだ48頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ48頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

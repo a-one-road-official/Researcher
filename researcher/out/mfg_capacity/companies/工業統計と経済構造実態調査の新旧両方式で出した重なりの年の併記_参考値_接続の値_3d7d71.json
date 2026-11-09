@@ -1,0 +1,632 @@
+{
+ "name": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）",
+ "en": "Census of Manufacture Economic Structure Survey overlap year reference values linking old and new methods Japan",
+ "aliases": [
+  "経済構造実態調査 工業統計 接続 参考値 遡及",
+  "工業統計 経済構造実態調査 新旧 比較 2020年 2021年",
+  "製造業事業所調査 時系列 接続 注意"
+ ],
+ "context": "定義",
+ "kind": "market",
+ "researched_at": "2026-11-09T09:59:42.604634+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kkj-st.go.jp/about/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hokkaido.lg.jp/ss/tuk/010cmn/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei-r.co.jp/news/information/id7173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000832071.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/census-kouzou-annai-syoten-2021.9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.mie.lg.jp/DATABOX/12133003755.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000749845.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001232565&lid=000001128869&result_page=1&statdisp_id=0004055501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000348.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kantoko.com/blog/2025/09/90946/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/kkj/gaiyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/asm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://d-infra.ier.hit-u.ac.jp/English/ltes/a000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.kkj-st.go.jp/about/",
+    "https://release.nikkei.co.jp/attach_file/0532219_02.pdf",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-10.pdf",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.pref.hokkaido.lg.jp/ss/tuk/010cmn/index.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/kougyo/index.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 人手不足 損失 億円",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote090/e_rnote085.pdf",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.nikkei-r.co.jp/news/information/id7173",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 推移",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151",
+    "https://www.jfpi.or.jp/topics_detail6/id=4674",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result1.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 統計 PDF",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "http://www.etisa.or.jp/census-kouzou-annai-syoten-2021.9.pdf",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.mie.lg.jp/DATABOX/12133003755.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.nikkei-r.co.jp/news/information/id7173",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 従業者規模別",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&iroha=9&toukei=00200555&statdisp_id=0004040167",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 1人当たり 万円",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） 2015 2025",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001232565&lid=000001128869&result_page=1&statdisp_id=0004055501",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000348.html",
+    "https://kantoko.com/blog/2025/09/90946/",
+    "https://www.jagat.or.jp/archives/99010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Census of Manufacture Economic Structure Survey overlap year reference values linking old and new methods Japan Japan statistics",
+   "results": [
+    "https://www.stat.go.jp/english/data/kkj/gaiyou.html",
+    "https://www.census.gov/programs-surveys/asm.html",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://d-infra.ier.hit-u.ac.jp/English/ltes/a000.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "https://www.ide.go.jp/library/English/Publish/Periodicals/De/pdf/98_03_06.pdf",
+    "https://www.nber.org/system/files/working_papers/w12081/w12081.pdf",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）",
+   "results": [
+    "https://note.com/platypus2000jp/n/n51ee55d311eb",
+    "https://note.com/masa_san_jp/n/n2a0e620b2e68",
+    "https://note.com/platypus2000jp/n/nba85794a9039",
+    "https://note.com/todobuono/n/nc6e8c7e71199",
+    "https://note.com/yama_note_365/n/n8c68ee3d0a0b",
+    "https://note.com/team_r/n/nb1155f5dee35",
+    "https://note.com/tak744/n/n57e1c032ff42",
+    "https://note.com/data_analyst_jp/n/n36f6843a9870",
+    "https://note.com/zz08/n/n92a4d2ba0979",
+    "https://note.com/takaosakaitakao/n/nbd147b234e19"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com 工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2117446741004054596",
+    "https://jf.x.com/images/media-preview/2110491878940610654",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/kido_office/status/2089094854446125168",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/yflut/status/2086907213793366455",
+    "https://x.com/S14nh/status/2109062692111843496"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）",
+   "results": [
+    "https://jp.linkedin.com/in/智-中村-1618b2393",
+    "https://www.linkedin.com/feed/update/urn:li:share:7503858045324623873",
+    "https://jp.linkedin.com/posts/shoichionaka_経済産業省が2026年1月に発表した2040年の就業構造推計に目を通してみました-activity-7432232582047547392-GwLx",
+    "https://jp.linkedin.com/posts/makoto-saito-98019b69_fc-新旧対照表-法令の改正前後を自動比較-activity-7445581860518227969-4bQN",
+    "https://jp.linkedin.com/posts/hidetoshitakano_タクシー運転手の給料が4割増の衝撃-厚労省の賃金構造基本統計調査見た2024-activity-7415591664171315200-qQ8G",
+    "https://jp.linkedin.com/pulse/量か質かそれとも両方かグローバル経済の50年問題-cihan-i-ozduru-oy6cc",
+    "https://jp.linkedin.com/posts/shinobu-matsuoka_アクチュアリー試験の生保2次および損保2次のテキストについて新旧対比表が作成されました-activity-7477284786948993024-qBel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）",
+   "results": [
+    "https://www.facebook.com/ecensus2026/",
+    "https://www.facebook.com/stat.japan/posts/3月27日総務省統計局からお知らせします2025年経済構造実態調査一次集計結果-産業横断調査企業等に関する集計-総務省及び経済産業省は2025年6月に実施した2/1369600878537270/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2023年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1014172224088803/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/",
+    "https://www.facebook.com/tochokoho/posts/始まります令和8年経済センサス活動調査総務省と経済産業省は令和8年6月1日を期日として全国のすべての事業所及び企業を対象に令和8年経済センサス活動調査を実施しま/1281149700865058/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） note 社長",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.pref.nagasaki.jp/bunrui/kenseijoho/toukeijoho/tokeichosa/kogyo/",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://nagisacorporation.com/column/263/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Census of Manufacture Economic Structure Survey overlap year reference values linking old and new methods Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/christinespyu",
+    "https://www.linkedin.com/in/patrick-bixler-76993b26",
+    "https://www.linkedin.com/in/chrisrider",
+    "https://www.linkedin.com/in/solomonmg",
+    "https://www.linkedin.com/in/evanmossenttech",
+    "https://www.linkedin.com/in/diyouva",
+    "https://www.linkedin.com/in/marwahmaqbool",
+    "https://www.linkedin.com/in/benjaminkinsella1",
+    "https://www.linkedin.com/in/kimberlyherrington",
+    "https://www.linkedin.com/in/yi-pan-8a695815"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ52頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ52頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ52頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ52頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ52頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ52頁・検索18回）",
+  "10年推移": "記載なし（読んだ52頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ52頁・検索18回）"
+ }
+}

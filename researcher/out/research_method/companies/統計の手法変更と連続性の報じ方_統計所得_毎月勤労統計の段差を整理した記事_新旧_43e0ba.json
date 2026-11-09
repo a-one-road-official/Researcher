@@ -1,0 +1,403 @@
+{
+ "name": "統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）",
+ "en": "statistics method change continuity reporting reference values Japan wage statistics",
+ "aliases": [
+  "統計所得 問題 整理 note",
+  "毎月勤労統計 サンプル入れ替え 段差 報道 誤り",
+  "統計 基準改定 連続性 参考値 読み方"
+ ],
+ "context": "統計の読み方",
+ "kind": "market",
+ "researched_at": "2026-11-09T09:59:36.854854+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/slownewsjp/n/na9283d2fbea9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n7d9e30962dbd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kens_reading1/n/nafa6dbfed7fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keisemi/n/naf14ab3c9062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/paguinu/n/n3b6d21164525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E7%B5%B1%E8%A8%88%E6%89%8B%E6%B3%95",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smart-analytics.jp/learning/analysis-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirotakai/n/n089d4caceb95",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statweb.jp/method",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datascience.co.jp/method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.persol-group.co.jp/service/business/article/15798/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/analyticalmethod-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cacco.co.jp/datascience/media/statistics/79/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuroco.team/blog-data-tokeibunseki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/1997/07/main-economic-indicators-sources-and-methods_g1gh56b9/9789264008557-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jil.go.jp/english/publications/materials/presentation/2024/p01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/16e081.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/research_data/gap/index.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125） site:note.com",
+   "results": [
+    "https://note.com/slownewsjp/n/na9283d2fbea9",
+    "https://note.com/hirokimiyano/n/n7d9e30962dbd",
+    "https://note.com/kens_reading1/n/nafa6dbfed7fa",
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://note.com/paguinu/n/n3b6d21164525",
+    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "https://note.com/kens_reading1/n/n5a6f68680575",
+    "https://note.com/jyaga0716/n/n239faa6e4159",
+    "https://note.com/daishoku_ninja/n/nea7c813321d4",
+    "https://note.com/honda_crosscom/n/n3302b525ddcc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125） note",
+   "results": [
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://note.com/tag/%E7%B5%B1%E8%A8%88%E6%89%8B%E6%B3%95",
+    "https://note.com/slownewsjp/n/na9283d2fbea9",
+    "https://www.youtube.com/watch?v=7nIz4yO2ODA",
+    "https://smart-analytics.jp/learning/analysis-guide/",
+    "https://note.com/hirotakai/n/n089d4caceb95",
+    "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://note.com/futaro_/n/ne92955415538",
+    "https://note.com/futaro_/n/n6a7330c842d6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125） やり方",
+   "results": [
+    "https://www.statweb.jp/method",
+    "https://smart-analytics.jp/learning/analysis-guide/",
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
+    "https://datascience.co.jp/method/",
+    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
+    "https://www.persol-group.co.jp/service/business/article/15798/",
+    "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
+    "https://www.questionpro.com/blog/ja/%E7%B5%B1%E8%A8%88%E7%9A%84%E6%89%8B%E6%B3%95%EF%BC%9A%E5%AE%9A%E7%BE%A9%E3%80%81%E7%A8%AE%E9%A1%9E%E3%80%81%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%A8%E5%88%86%E6%9E%90/",
+    "https://stat-agent.com/blog/13.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125） 事例",
+   "results": [
+    "https://www.statweb.jp/method",
+    "https://datascience.co.jp/method/",
+    "https://www.persol-group.co.jp/service/business/article/15798/",
+    "https://data-viz-lab.com/analyticalmethod-list",
+    "https://smart-analytics.jp/learning/analysis-guide/",
+    "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
+    "https://cacco.co.jp/datascience/media/statistics/79/",
+    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
+    "https://kuroco.team/blog-data-tokeibunseki/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "statistics method change continuity reporting reference values Japan wage statistics",
+   "results": [
+    "https://www.stat.go.jp/english/",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/WOE00",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/1997/07/main-economic-indicators-sources-and-methods_g1gh56b9/9789264008557-en.pdf",
+    "https://www.jil.go.jp/english/publications/materials/presentation/2024/p01.html",
+    "https://www.rieti.go.jp/jp/publications/dp/16e081.pdf",
+    "https://www.boj.or.jp/en/research/research_data/gap/index.htm",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=wage&layout=dataset",
+    "https://tradingeconomics.com/japan/wage-growth",
+    "https://www.ilo.org/sites/default/files/2024-11/GWR-2024_Layout_E_RGB_Web.pdf",
+    "https://www.e-stat.go.jp/en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）",
+   "results": [
+    "https://note.com/hirokimiyano/n/n6f36baea03e9",
+    "https://note.com/_takumi_inoue_/n/nb71712a01e0c",
+    "https://note.com/ichi_twnovel/n/n9bde056023e1",
+    "https://note.com/shotar/n/nc9df946b4b83",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://note.com/yshirt_ch/n/ne94f6a1009b2",
+    "https://note.com/gifted_viola8806/n/n420aae73a0cd",
+    "https://note.com/ichi_twnovel/n/n8be5bcdea3cf",
+    "https://note.com/jdex/n/n944c34672656",
+    "https://note.com/nice_wren7963/n/n46e6f71ba147"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）",
+   "results": [
+    "https://x.com/genkuroki/status/1966778087263400276",
+    "https://x.com/yanai_factcheck/status/1955883999890694292",
+    "https://x.com/fujikawa/status/2118500956690362408",
+    "https://x.com/KagawaTomo/article/2085881352768180569",
+    "https://x.com/junpeiakashi/status/1952345181765718276",
+    "https://x.com/ctgptlb/all",
+    "https://x.com/luigi_jpn/article/2060619527810060389",
+    "https://x.com/KagawaTomo/status/2118979372862591427",
+    "https://x.com/fujikawa/status/2115208571818549436",
+    "https://x.com/fujikawa/status/2118860150589284601"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）",
+   "results": [
+    "https://jp.linkedin.com/pulse/march-2026-seo-recap-10-search-updates-you-shouldnt-miss-baldikov-tfcyf?tl=ja",
+    "https://jp.linkedin.com/in/yuma-nagasawa-78626b30a",
+    "https://jp.linkedin.com/pulse/strategic-alignment-urbanization-information-systems-fintech-fahmi-b57ke?tl=ja",
+    "https://jp.linkedin.com/pulse/mirror-we-built-marco-ceruti-wnbvf?tl=ja",
+    "https://jp.linkedin.com/pulse/why-ai-cant-stop-using-em-dashes-nick-potkalitsky-phd-7slle?tl=ja",
+    "https://jp.linkedin.com/pulse/right-silicon-we-filling-wrong-data-centers-compute-s-e-e-d--anzoc?tl=ja",
+    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-may-6th-jeroen-ern%C3%A9-uug3c?tl=ja",
+    "https://jp.linkedin.com/in/greatcowboy",
+    "https://jp.linkedin.com/in/ryo-miyazawa-90290b11b",
+    "https://my.linkedin.com/in/jun-igaki-40a552115"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）",
+   "results": [
+    "https://www.facebook.com/aichi.mederu/",
+    "https://www.facebook.com/aichi.mederu/posts/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8C%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E4%BB%A5%E4%B8%8A%E3%81%AB%E8%A6%8B%E3%82%84%E3%81%99%E3%81%84%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%BE%8C%E3%81%A8%E3%82%82%E3%81%94%E6%84%9B%E9%A1%A7%E3%81%AE%E3%81%BB%E3%81%A9%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/3737727649629833/",
+    "https://www.facebook.com/groups/kodaishi/posts/4949798651831512/",
+    "https://www.facebook.com/ibooks.japan/posts/chatgpt%E3%81%A7%E5%8D%92%E8%AB%96%E3%82%92%E6%9B%B8%E3%81%84%E3%81%A6%E3%83%90%E3%83%AC%E3%81%9F%E4%BA%8B%E4%BE%8B%E3%82%B1%E3%83%BC%E3%82%B91%E6%96%87%E4%BD%93%E7%9F%A5%E8%AD%98%E5%90%8C%E5%AE%9A%E3%81%AE%E4%B8%8D%E4%B8%80%E8%87%B4%E5%8F%A3%E9%A0%AD%E8%A9%A6%E5%95%8F%E3%81%A7%E7%A0%B4%E7%B6%BB-%E6%88%90%E7%B8%BE%E7%84%A1%E5%8A%B9%E5%8D%92%E6%A5%AD%E5%BB%B6%E6%9C%9F%E7%99%BA%E8%A6%9A%E3%81%AE%E7%AB%AF%E7%B7%92%E6%8C%87%E5%B0%8E%E6%95%99%E5%93%A1%E3%81%8C%E5%BD%93%E8%A9%B2%E5%AD%A6%E7%94%9F%E3%81%AE%E9%81%8E%E5%8E%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%A8%E5%8D%92%E8%AB%96%E6%9C%AC%E6%96%87%E3%81%AE%E6%96%87%E4%BD%93%E8%AA%9E%E5%BD%99/1208941307915373/",
+    "https://www.facebook.com/cgtnjapanese/posts/%E7%B1%B3ai%E3%83%A2%E3%83%87%E3%83%AB%E6%9C%89%E6%A8%A9%E8%80%85%E6%83%85%E5%A0%B1%E3%82%92%E7%84%A1%E6%96%AD%E5%8F%96%E5%BE%97%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%A0%B1%E9%81%93%E3%81%8C10%E6%9C%8825%E6%97%A5%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8%E5%90%8C%E5%9B%BD%E3%81%AE%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BDai%E4%BC%81%E6%A5%AD%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AFanthropic%E3%81%8C%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89cla/1468056545464604/",
+    "https://www.facebook.com/MarketAnalyze/posts/2025%E5%B9%B46%E6%9C%881%E6%97%A5%E6%97%A5%E5%85%88%E9%80%B1%E3%81%AE%E6%9D%B1%E4%BA%AC%E6%A0%AA%E5%BC%8F%E5%B8%82%E5%A0%B4%EF%BC%95%E6%9C%88%E7%9B%B8%E5%A0%B4%E3%81%8C%E7%B5%82%E4%BA%86%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E3%81%AF%E6%9C%88%E8%B6%B3%E3%81%A7%EF%BC%92%E3%81%8B%E6%9C%88%E9%80%A3%E7%B6%9A%E3%81%AE%E9%99%BD%E7%B7%9A%E9%88%B4%E6%9C%A8%E4%B8%80%E4%B9%8B%E3%81%A7%E3%81%99%EF%BC%95%E6%9C%88%E7%9B%B8%E5%A0%B4%E3%81%8C%E7%B5%82%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%82%E3%81%84%E3%81%8B%E3%82%8F%E3%82%89%E3%81%9A%EF%BC%95%E6%9C%88%E3%82%82%E6%9C%88%E9%96%93%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E4%B8%8A%E4%B8%8B%E3%81%AB%E6%BF%80%E3%81%97%E3%81%84/1374230690767310/",
+    "https://www.facebook.com/cgtnjapanese/posts/5%E5%B9%B4%E9%96%93%E3%81%A7%E7%B4%AF%E8%A8%88%E7%B4%8430%E5%85%86%E5%85%83-%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E3%81%AE%E5%AF%BE%E5%A4%96%E8%B2%BF%E6%98%93%E8%A6%8F%E6%A8%A1%E3%81%AF%E7%9D%80%E5%AE%9F%E3%81%AB%E6%8B%A1%E5%A4%A7%E5%B1%B1%E6%9D%B1%E7%9C%81%E6%B8%88%E5%8D%97%E7%A8%8E%E9%96%A2%E3%81%AE%E7%B5%B1%E8%A8%88%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A82021%E5%B9%B4%E3%81%8B%E3%82%892025%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE5%E5%B9%B4%E9%96%93%E3%81%A7%E9%BB%84%E6%B2%B3%E6%B5%81%E5%9F%9F%E3%81%AE%E8%BC%B8%E5%87%BA%E5%85%A5%E7%B7%8F%E9%A1%8D%E3%81%AF29%E5%85%869500/1469273338676258/",
+    "https://www.facebook.com/aichi.mederu/photos/561554295667978/",
+    "https://www.facebook.com/shusuke.terada/",
+    "https://www.facebook.com/groups/247816822664827/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125） note 社長",
+   "results": [
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://note.com/hirotakai/n/n089d4caceb95",
+    "https://www.youtube.com/watch?v=7nIz4yO2ODA",
+    "https://note.com/nanto_econ",
+    "https://note.com/nanto_econ/n/nceee2f36c432",
+    "https://www.asahi.com/articles/ASM2N5SK2M2NUTFK01J.html",
+    "https://note.com/tetsuya_maeda/n/nd17990a22409",
+    "https://engineerteam.note.jp/m/mf9b71b6f1b8d/hashtag/%E7%B5%B1%E8%A8%88",
+    "https://note.com/guts_koukun/n/ne15cb8940d5a",
+    "https://note.com/atara1/n/n5c601c0b47d4"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125） X 投稿",
+   "results": [
+    "https://www.jstage.jst.go.jp/article/tenrikiyo/25/1/25_25-010/_html/-char/ja",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vK1rE_cvto8Y4bi0povt6XX1oLvT0U57CUrM2prVjFYk_b7A6aB",
+    "https://www.shuttlerock.co.jp/news/24581/",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%8B%95%E7%94%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E6%88%90%E6%9E%9C%E3%82%92%E5%87%BA%E3%81%99%E6%B4%BB%E7%94%A8%E6%B3%95/",
+    "https://www.tribalmedia.co.jp/note/marketing-1068/",
+    "https://xboost.now/notes/x-viral-post-templates-2026",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/dp/2001/2001cj58.pdf",
+    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
+    "https://note.com/yusuke_motoyama/n/n4dd3c56c7df1",
+    "https://stat-agent.com/blog/13.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "statistics method change continuity reporting reference values Japan wage statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/michaelcwest",
+    "https://www.linkedin.com/in/angela-pompey-1913b371",
+    "https://www.linkedin.com/in/tanmaymanohar",
+    "https://www.linkedin.com/company/veeam-software",
+    "https://www.linkedin.com/in/matt-oefinger-phd",
+    "https://vi.linkedin.com/in/kristen-check",
+    "https://www.linkedin.com/in/rajeevlakra",
+    "https://www.linkedin.com/in/owoyemi",
+    "https://www.linkedin.com/in/niranjanbose",
+    "https://www.linkedin.com/in/britteast"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ27頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ27頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ27頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ27頁・検索12回）",
+  "実例": "記載なし（読んだ27頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-09T09:59:36.854854+00:00"
+}
