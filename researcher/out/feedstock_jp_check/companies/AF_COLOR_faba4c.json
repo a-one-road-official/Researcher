@@ -1,0 +1,595 @@
+{
+ "name": "AF-COLOR",
+ "aliases": [
+  "AF-COLOR"
+ ],
+ "context": "マスターバッチ",
+ "researched_at": "2026-11-09T05:48:56.055709+00:00",
+ "official_url": "https://www.af-color.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "規模・親会社": [
+   {
+    "quote": "Become part of our team",
+    "url": "https://af-color.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "We are always on the lookout for talented and enthusiastic employees. If you would like to work on exciting and challenging projects in the field of plastics and masterbatches, please contact us. We look forward to hearing from you.",
+    "url": "https://af-color.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Newly developed additives enable improved flow behaviour when processing certain polymer groups with a significantly reduced temperature profile. Nevertheless, the melt viscosity corresponds to the required process window.",
+    "url": "https://af-color.com/en/masterbatches/additive-masterbatches",
+    "pass": 3
+   },
+   {
+    "quote": "AF-COLOR - Company of the Feddersen Group",
+    "url": "https://feddersen.group/en/companies/af-color",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We are always on the lookout for talented and enthusiastic employees. If you would like to work on exciting and challenging projects in the field of plastics and masterbatches, please contact us. We look forward to hearing from you.",
+    "url": "https://af-color.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Would you like to know how we can fulfil your industry-specific requirements? Contact us and find out what we can do for you.",
+    "url": "https://af-color.com/en/industries",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us for a personal consultation",
+    "url": "https://af-color.com/en/masterbatches/additive-masterbatches",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AF - COLOR | Your masterbatch specialist — AF - COLOR | Your masterbatch specialist AF-COLOR https://af-color.com > ...",
+    "url": "https://af-color.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "AF - COLOR - AKRO-PLASTIC — AF - COLOR - AKRO-PLASTIC AKRO-PLASTIC https://akro-plastic.com > companies > af-color",
+    "url": "https://akro-plastic.com/en/companies/af-color",
+    "pass": 3
+   },
+   {
+    "quote": "Masterbatch solutions for all industries - AF - COLOR — Masterbatch solutions for all industries - AF - COLOR AF-COLOR https://af-color.com > industries",
+    "url": "https://af-color.com/en/industries",
+    "pass": 3
+   },
+   {
+    "quote": "Additive masterbatches AF-Complex® from AF - COLOR — Additive masterbatches AF-Complex® from AF - COLOR AF-COLOR https://af-color.com > masterbatches",
+    "url": "https://af-color.com/en/masterbatches/additive-masterbatches",
+    "pass": 3
+   },
+   {
+    "quote": "AF - COLOR - Company of the Feddersen Group — AF - COLOR - Company of the Feddersen Group The Feddersen Group https://feddersen.group > af-color",
+    "url": "https://feddersen.group/en/companies/af-color",
+    "pass": 3
+   },
+   {
+    "quote": "Get in touch with AF - COLOR — Get in touch with AF - COLOR AF-COLOR https://af-color.com > contact",
+    "url": "https://af-color.com/en/contact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AF - COLOR | LinkedIn AF - COLOR | LinkedIn LinkedIn https://de.linkedin.com > af-color",
+    "url": "https://de.linkedin.com/company/af-color",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://af-color.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://af-color.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akro-plastic.com/en/companies/af-color",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.daicolor.co.jp/products/docs/af_color.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://af-color.com/en/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://visio-eyewear.jp/?pid=178186202&srsltid=AYCX9vIdNBrwZF1UTPOtVvuliqZ8V4r-wv6u8l1tzn8vQaNgzED6PFi4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zygospec.com/item/item-list.php?blog2_categ1=140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DWJNw1CkjP2/?hl=af",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://visio-eyewear.jp/?pid=174933276&srsltid=AYCX9vLBcCDIDDV6L4Fg9gfalQiEuKcbGSPgQtgOHy9makToqs9aXc5x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://visio-eyewear.jp/?pid=172002771&srsltid=AYCX9vIwlUB77Hjb8spRF1qTl1CAWpicZ1nvpXDTR_a6kzOIflxFnS8c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.altra-online.com/brands/5?srsltid=AYCX9vL04KG3rnQvVvrVajOoULNPfwnw5RCnMd2qTSDKAaSUe4tUe099",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/daicolor/product/detail/2001053793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aandf.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://af-color.com/en/masterbatches/additive-masterbatches",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%AE%AE%E6%98%8E%E3%81%AA%E3%83%AA%E3%83%88%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC-AF-PLA%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-Lithophane-Maker%E8%A3%BD/dp/B09YQNQDQW",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJYdONRSalr5wlQGX6XIevHNh_FcPVTF6hK2x3uYdouTlxdr1jR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akro-plastic.com/en/companies/af-color",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://af-color.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://feddersen.group/en/companies/af-color",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/printtrimsmachinery/posts/single-color-offset-printing-machine-brand-hashimotomodel-af-scolor-whitesize-13/1585319886929278/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://akro-plastic.com/en/companies/af-color",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://af-color.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/top-japanese-cosmetics-beauty-distributors-importers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.q-depot.com/blog/jbeauty/cielo-hair-care-japan?srsltid=AYCX9vJMY8vtwLdGpdf5tq85kMv4mvlqDpxzrdnVn9CemximquaqurpY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/AirFly-Sunglasses-Dimmable-Japanese-Screwdriver/dp/B0DKS7G7H9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/Color-Me-Fascist-Steve-Weichert/dp/B0F7RG66JT",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Primary-Color-Ducks-F-Arnold/dp/1955083061",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Dont-Give-Coloring-Stress-Relaxation/dp/B09GCJQRXW",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5222/1007/?srsltid=AYCX9vLJBj_ewkmMyqUJdUYbghoaXuVjE1uXkv_LrB6Xen3lp848QNgC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/2025/1264/?srsltid=AYCX9vIX1eqILFO8u8pxpU4cjOrHXfpMqSUQfShQMkiDEIsd2CuiXVVo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04029722/?srsltid=AYCX9vJPZ7TuaV6b6BKMztm57Xo2DPpk0RoyfLnCfsD4HatoocM2ByOy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02024406/?srsltid=AYCX9vKQuVZVtxTnNLbR7BXZZJZD4I5iz_-XDZ6I5rOWerHTAaG-rqem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akro-plastic.com/en/companies/af-color",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/color.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/COLOR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/uniform-color-co/81592562",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/af-color",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AF-COLOR 代理店",
+   "results": [
+    "https://af-color.com/en",
+    "https://akro-plastic.com/en/companies/af-color",
+    "http://www.daicolor.co.jp/products/docs/af_color.pdf",
+    "https://af-color.com/en/industries",
+    "http://www.aiwa-c.co.jp/",
+    "https://craft-mate.jp/shop/pages/sk-afcolor.aspx?srsltid=AYCX9vIxBwheB3qKJ7MSpkl77HAP5g6MC-he07k_LkStTR17y6yreRKT",
+    "https://pr.mono.ipros.com/daicolor/product/detail/2001053793/",
+    "https://www.movacolor.com/ja/contact/distributors-agents/",
+    "https://k-orion.co.jp/info/20260803-2/",
+    "https://af-color.com/en/masterbatches/colormasterbatches"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "AF-COLOR 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://visio-eyewear.jp/?pid=178186202&srsltid=AYCX9vIdNBrwZF1UTPOtVvuliqZ8V4r-wv6u8l1tzn8vQaNgzED6PFi4",
+    "https://www.zygospec.com/item/item-list.php?blog2_categ1=140",
+    "https://www.instagram.com/p/DWJNw1CkjP2/?hl=af",
+    "https://visio-eyewear.jp/?pid=174933276&srsltid=AYCX9vLBcCDIDDV6L4Fg9gfalQiEuKcbGSPgQtgOHy9makToqs9aXc5x",
+    "http://stkb.co.jp/",
+    "https://item.rakuten.co.jp/full-shot/2512af306-c1re/",
+    "https://www.tiktok.com/@nakaharamegane/video/7702653032781057286",
+    "https://epongolf.co.jp/news/9379/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "AF-COLOR 日本 販売",
+   "results": [
+    "https://visio-eyewear.jp/?pid=172002771&srsltid=AYCX9vIwlUB77Hjb8spRF1qTl1CAWpicZ1nvpXDTR_a6kzOIflxFnS8c",
+    "https://www.altra-online.com/brands/5?srsltid=AYCX9vL04KG3rnQvVvrVajOoULNPfwnw5RCnMd2qTSDKAaSUe4tUe099",
+    "https://pr.mono.ipros.com/daicolor/product/detail/2001053793/",
+    "https://aandf.co.jp/",
+    "https://loom-osaka.com/collections/afartefact",
+    "https://www.tempt.jp/brands/104?srsltid=AYCX9vLSMdHA-_I8VanzhN7NWJqIBDTH2By8KptnReC6chjU2p0PihlF",
+    "https://aandfstore.com/?srsltid=AYCX9vL_emV3RbbtjXKySKxkoST6V6ELeRKMmcm_GsQQQqc8SfUuOt9u",
+    "http://stkb.co.jp/",
+    "https://af-color.com/en",
+    "https://www.daicolor.co.jp/products/docs/af_color.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "AF-COLOR フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://af-color.com/en/masterbatches/additive-masterbatches",
+    "https://skhonpo.com/collections/filament",
+    "https://www.amazon.co.jp/%E9%AE%AE%E6%98%8E%E3%81%AA%E3%83%AA%E3%83%88%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC-AF-PLA%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-Lithophane-Maker%E8%A3%BD/dp/B09YQNQDQW",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJYdONRSalr5wlQGX6XIevHNh_FcPVTF6hK2x3uYdouTlxdr1jR",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://flashforge.jp/filament-list/",
+    "https://item.rakuten.co.jp/grass-road/af-value-abs-fil/",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vJ56EK4cTz1D-Q6tX2BsIpEnomP2bgjZjh6mqPA5hUJWKgKuaqz"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "AF-COLOR Japan distributor",
+   "results": [
+    "https://akro-plastic.com/en/companies/af-color",
+    "https://af-color.com/en",
+    "https://feddersen.group/en/companies/af-color",
+    "https://www.facebook.com/printtrimsmachinery/posts/single-color-offset-printing-machine-brand-hashimotomodel-af-scolor-whitesize-13/1585319886929278/",
+    "https://af-color.com/en/contact",
+    "https://ascolour.com/?srsltid=AYCX9vJ8TczSZk0nSkPm0hwbe_1Km1a8Ai8L2Y8mUHoRx8yRpr84Bzvu",
+    "https://de.linkedin.com/company/af-color",
+    "https://www.ronanpaints.com/japan-colors",
+    "https://www.matsui-color.com/matsui-color-distributors/",
+    "https://af-color.com/en/masterbatches/colormasterbatches"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AF-COLOR distributor Japan OR Japanese partner",
+   "results": [
+    "https://akro-plastic.com/en/companies/af-color",
+    "https://af-color.com/en",
+    "https://japanesedistributors.com/top-japanese-cosmetics-beauty-distributors-importers/",
+    "https://www.q-depot.com/blog/jbeauty/cielo-hair-care-japan?srsltid=AYCX9vJMY8vtwLdGpdf5tq85kMv4mvlqDpxzrdnVn9CemximquaqurpY",
+    "https://www.aestheticsbeautyconnect.com/find-beauty-distributors-in-japan",
+    "https://jhcia.org/en/about/1_aboutus.html",
+    "https://af-color.com/en/about-us",
+    "https://alphathera.com/news/funakoshi-co-ltd-announced-as-alphatheras-distribution-partner-in-japan/",
+    "https://www.glossy.co/beauty/japans-top-pro-hair-care-brand-is-leveraging-a-u-s-based-creative-director-and-product-line-to-expand-stateside/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp AF-COLOR",
+   "results": [
+    "https://www.amazon.co.jp/-/en/AirFly-Sunglasses-Dimmable-Japanese-Screwdriver/dp/B0DKS7G7H9",
+    "https://www.amazon.co.jp/Color-Me-Fascist-Steve-Weichert/dp/B0F7RG66JT",
+    "https://www.amazon.co.jp/Primary-Color-Ducks-F-Arnold/dp/1955083061",
+    "https://www.amazon.co.jp/Dont-Give-Coloring-Stress-Relaxation/dp/B09GCJQRXW",
+    "https://www.amazon.co.jp/iris-%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%89%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF-%E3%80%90iris%E3%80%91%E3%80%90%E5%9B%BD%E7%94%A3%E5%93%81%E3%80%91%E3%82%BD%E3%83%95%E3%83%88%E3%82%AA%E3%82%A4%E3%83%AB%E3%83%AC%E3%82%B6%E3%83%BC%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF%EF%BC%887-color-af-321-all/dp/B01MRCOF6Q",
+    "https://www.amazon.co.jp/%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A-%E6%A5%BD%E5%99%A8-16-%E7%A9%B4%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A%E5%B0%82%E9%96%80%E6%A5%BD%E5%99%A8%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A%E3%83%95%E3%83%AB%E3%83%BC%E3%83%88-Color/dp/B0CZ7SB1Z3",
+    "https://www.amazon.co.jp/%E3%82%AB%E3%83%BC%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC-BP4S-39-040-%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%B7%E9%83%A8%E5%93%81%E3%83%AA%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%9E%E3%83%84%E3%83%80-2004-2012-%E3%81%A8%E4%BA%92%E6%8F%9B%E6%80%A7%E3%83%9E%E3%83%84%E3%83%80/dp/B0CYSLCN8G",
+    "https://www.amazon.co.jp/-/en/r?_encoding=UTF8&aid=MW354G9KR8GSmnHqG-C3vQ&dest=https%3A%2F%2Fwww.oeko-tex.com%2Fen%2Four-standards%2Foeko-tex-standard-100&ref_=cct_cg_CPF_3b1&pf_rd_p=2c014a27-c97f-4804-8932-ed19b2f5aa03&pf_rd_r=J6JN5EKM8FAX9S73JCKA",
+    "https://www.amazon.co.jp/-/en/AirFlay-Sunglasses-Without-Transmittance-Reduction/dp/B09XL7NTBG",
+    "https://music.amazon.co.jp/podcasts/2d274a0c-2af8-4941-bd03-edb85d5f3206/episodes/bedbe421-f2c7-4c79-98aa-e27412e9a6ea/udwfyh1j3l-literary-ebook-archive-guía-summary-ebook-wild-alphabet-an-animal-coloring-journey-learn-color-and-discover-activity-book--coloring-full"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:monotaro.com AF-COLOR",
+   "results": [
+    "https://www.monotaro.com/p/5222/1007/?srsltid=AYCX9vLJBj_ewkmMyqUJdUYbghoaXuVjE1uXkv_LrB6Xen3lp848QNgC",
+    "https://www.monotaro.com/p/2025/1264/?srsltid=AYCX9vIX1eqILFO8u8pxpU4cjOrHXfpMqSUQfShQMkiDEIsd2CuiXVVo",
+    "https://www.monotaro.com/g/04029722/?srsltid=AYCX9vJPZ7TuaV6b6BKMztm57Xo2DPpk0RoyfLnCfsD4HatoocM2ByOy",
+    "https://www.monotaro.com/g/02024406/?srsltid=AYCX9vKQuVZVtxTnNLbR7BXZZJZD4I5iz_-XDZ6I5rOWerHTAaG-rqem",
+    "https://www.monotaro.com/g/00352395/?srsltid=AYCX9vL-nladiZ8RHR4SWtgHIXGvI12Mi0NjIKsJGFDrAbUbdJeWYxNM",
+    "https://www.monotaro.com/g/04029718/?srsltid=AYCX9vLzIw7hRNqL71-T15TsGHaj33xtVZtAby6pEtmRRifj96ihc548",
+    "https://www.monotaro.com/p/0829/6364/?srsltid=AYCX9vIohkGQwd1hNX9I2rMZ3Il4AzTTO24AA_gZV-r1uKsxLE0TX9dN",
+    "https://www.monotaro.com/p/0537/6988/?srsltid=AYCX9vK2Bw0bRXp4RUE6kh7wohqKDKhIl01eLR70woee4L3zf-vILX_U",
+    "https://www.monotaro.com/p/2091/0487/?srsltid=AYCX9vJxeUymEmN67vwgOl8c_eFI3T3Fb1WMLoN6ZVdsK6sh9okGP1oX",
+    "https://corp.monotaro.com/ir/library/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AF-COLOR employees revenue parent company",
+   "results": [
+    "https://akro-plastic.com/en/companies/af-color",
+    "https://getlatka.com/companies/color.com",
+    "https://growjo.com/company/COLOR",
+    "https://www.zoominfo.com/c/uniform-color-co/81592562",
+    "https://www.owler.com/company/chromacolors",
+    "https://bullfincher.io/",
+    "https://af-color.com/en/industries",
+    "https://companiesmarketcap.com/af-gruppen/revenue/",
+    "https://craft.co/color-image-apparel",
+    "https://rocketreach.co/af-color-profile_b40e3402ffe26656"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com AF-COLOR",
+   "results": [
+    "https://note.com/fueda218/n/n7d42a2429ea0?hl=en",
+    "https://note.com/koosawa93/n/nfcd53a43a5cb?hl=en",
+    "https://note.com/lumix_magazine/n/n3221115211da?hl=en",
+    "https://note.com/light_fox3746/n/n38a23ce015a5?hl=en",
+    "https://note.com/novalisnova/n/n9a3dc1ae2190?hl=en",
+    "https://note.com/kamitabaphoto/n/n0c3a3b192388?hl=en",
+    "https://note.com/pentakids/n/n7254bd00fede?hl=en",
+    "https://note.com/nice_dog9512/n/n5f9db9537014?hl=en",
+    "https://note.com/fu_iandc/n/n99ea1ecd6837?hl=en",
+    "https://note.com/seigo77"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com AF-COLOR",
+   "results": [
+    "https://x.com/ThatARCGuy/status/2118729721651605736/photo/1",
+    "https://x.com/sprite_yena/status/1313016250608435200",
+    "https://x.com/arcticfoxcolor/status/1447585485765980160",
+    "https://x.com/ThatARCGuy/status/2118729721651605736/photo/3",
+    "https://x.com/JBZimmerman1/status/1480680470543273988",
+    "https://x.com/vanndrysdale/status/2090846955911987302",
+    "https://x.com/SCPSchools/status/2099536219721851083",
+    "https://x.com/AgeFactory_/status/2114326356448428231",
+    "https://x.com/arcticfoxcolor/status/1974565438454718582",
+    "https://x.com/MaliceDaFirenze/status/2052053714593100054"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com AF-COLOR",
+   "results": [
+    "https://de.linkedin.com/company/af-color",
+    "https://www.linkedin.com/company/akro-plastic-gmbh/?viewAsMember=true",
+    "https://www.linkedin.com/company/bio-fed",
+    "https://www.linkedin.com/company/k-d-feddersen-holding",
+    "https://www.linkedin.com/posts/jclicht_its-here-benjamin-moores-2026-color-activity-7384620465165668353-xPpC",
+    "https://de.linkedin.com/posts/af-color_feddersengroup-activity-7196083858025463811-VH5o",
+    "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fgq-ZVDh5&urlhash=Ux4_&mt=D-IA5Gq5pn8X2Vvz-Ljwe1PVKYH8npV5lJaqqlRfSHbv3iJF57iEe43rq7YJGTRqJ1rHvQzekCIKFIe-Gc1KNm-_GrTjJW55XoXuJLH7hdjXP-0CrMVGThN87g&isSdui=true",
+    "https://www.linkedin.com/pulse/solid-color-masterbatches-demand-key-industries-uses-ensign-aim-pgjme",
+    "https://www.linkedin.com/posts/valerie-hawks_when-pantone-becomes-personal-revising-activity-7399202866969751552-Lo3N",
+    "https://www.linkedin.com/company/af-color"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com AF-COLOR",
+   "results": [
+    "https://www.facebook.com/ArcticFoxHairColor/posts/a-color-made-in-af-heaven-this-shade-is-so-vibrant-and-extremely-versatile-not-t/1066962455596126/",
+    "https://www.facebook.com/ArcticFoxHairColor/posts/it-looks-like-wrath-and-purple-rain-has-made-it-to-the-top-two-which-color-deser/1995334060705175/",
+    "https://www.facebook.com/ArcticFoxHairColor/posts/faded-purple-af-for-the-win-ellxtasy/754604126831962/",
+    "https://www.facebook.com/ArcticFoxHairColor/videos/aquamarine-and-purple-af-over-a-brunette-base-will-turn-heads-drop-a-mix-you-wan/2441107026316113/",
+    "https://www.facebook.com/benjaminmoorepaints/posts/confident-happy-a-symbol-of-strength-and-desire-benjamin-moores-color-of-the-yea/10156044568111323/",
+    "https://www.facebook.com/groups/275310917589751/posts/1289757979478368/",
+    "https://www.facebook.com/benjaminmoorepaints/posts/we-love-an-excuse-to-get-together-and-what-better-way-to-get-ready-to-celebrate/1301636668677971/",
+    "https://www.facebook.com/groups/456551695549550/posts/1674285857109455/",
+    "https://www.facebook.com/ArcticFoxHairColor/videos/watch-makeupandtatt2-refresh-their-color-with-us-using-poseidon-and-purple-af-ht/1858084845179060/",
+    "https://www.facebook.com/fb-answers/air-force-color-codes/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AF-COLOR note 社長",
+   "results": [
+    "https://af-color.com/en",
+    "https://note.com/",
+    "https://www.splashofcolorack.com/about",
+    "https://note.com/colorwith/n/nce866a7e3534",
+    "https://chromacolors.com/executive-team/",
+    "https://note.com/noble_stilt6992/n/n330e5308b874",
+    "https://www.tokyo-cci.or.jp/shachonet/profile/001416.html",
+    "https://www.khara.co.jp/info/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.cbinsights.com/company/af-color/people"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "AF-COLOR X 投稿",
+   "results": [
+    "https://akro-plastic.com/en/companies/af-color",
+    "https://af-color.com/en",
+    "https://af-color.com/en/news",
+    "https://www.color-hex.com/color-palette/8778",
+    "https://x.com/everycolorbot",
+    "https://www.youtube.com/watch?v=ReGPpHvbTS8",
+    "https://www.fc94af.com/",
+    "https://www.instagram.com/popular/color-code-fc94-af-meaning/",
+    "https://x.com/llcabR18",
+    "https://x.com/llcabR18/status/1938900650487881994"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

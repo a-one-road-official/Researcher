@@ -8,215 +8,137 @@
  ],
  "context": "手法・偏り",
  "kind": "market",
- "researched_at": "2026-11-08T21:30:40.292808+00:00",
+ "researched_at": "2026-11-09T06:04:25.027096+00:00",
  "evidence": {
-  "実例": [
+  "突き合わせ・推定": [
    {
-    "quote": "In some cases, however, key assumptions and the logic behind specific techniques were not transparent.",
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "quote": "Strategic estimates; long-horizon planning",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-09"
    },
    {
-    "quote": "For example, various SATs address mindset bias; “satisficing”",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "can be misapplied in individual cases. Proponents of SATs",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "reexamination of assumptions and, in some cases, height-",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "have otherwise been the case. In some cases, this may be",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "on factors other than its analytic quality. For example, whether",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In some cases, an individual might have a bias—current intel-",
-    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ". For example, what will work in future in a slightly different settings (1), missing and ambiguous evidence (2), and with clients and other stakeholders who may intentionally or unintentionally not disclose or actually mislead (3) , and whose recommendations can affect peoples lives, positively and negatively (4).",
-    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "example, the extent to which other people",
+    "quote": "Availability. Probability estimates are",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "or example, military analysis may focus",
+    "quote": "Anchoring. Probability estimates are",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "these forces actually fght?). In this case,",
+    "quote": "certainty into a probability estimate, people",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "might fuctuate. All of these examples",
+    "quote": "goal-maximizing policy is overestimated.",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Key Assumptions Check: The 2002 DC Sniper Case",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "a good example of how this technique could have been applied. After the initial furry of",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "accurately. In the case of HUMINT , this will",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "builds a more concrete case for the analytic",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "when it is important to make a case that a",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "hypotheses—in some cases, analysts",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "hypotheses. In the latter case, the evidence can",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "case, explore what could account for",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "best possible case for an alternative",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In some cases, the analyst or a team",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "merits of each case, pose questions back",
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Using three historical case studies, the authors examine the ability of past decisionmakers to identify adversary thresholds and to apply this information to control escalation during militarized crises between nuclear-armed states.",
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "effective than an individual’s thinking.19 Intelligence analysis, for example, has improved when",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Small groups of eight or fewer individuals, as is typically the case for JSAT sessions, are",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Other considerations include the relationships between techniques. In many cases, techniques",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "questions to begin the process. Examples include:",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "manner, in this case to develop and track the definition process with a sharable modality such as",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "or timeline. For example: “Look for relationships and patterns in the data connecting persons,",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "groups them together into at least four plausible scenarios – best case, worst case, baseline and an",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "CDR Gay, T. N., LCDR Ripley, D. B., & 1/C Fecskovics, A. K. (2012). Use of Case Studies",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and Structured Analytic Techniques in Intel Studies: USCGA Example [PowerPoint slides].",
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Miller Beebe, S. (2020). Teaching Structured Analytic Techniques with Cases. Ascendant",
+    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
   "手順・やり方": [
+   {
+    "quote": "Structured Analytic Techniques are procedures that force analysts to externalise reasoning steps that, in unstructured analysis, remain implicit and therefore unauditable. SATs do three things simultaneously: they",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ACH cannot manufacture hypotheses the team has not considered — its output is bounded by the hypothesis set at step 1. It is also evidence-quality-blind: low-reliability evidence weighted equally with high-reliability evidence produces noise. Mitigation: gate ACH on a prior source-reliability audit (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Source Verification Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Procedure (10–15 assumption step):",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Red Teaming is methodologically demanding: it requires genuine cultural-linguistic fluency in the adversary’s frame. A Red Team staffed with analysts who only know the adversary through Western secondary sources will mirror-image inside the exercise and produce a Red Team report that recapitulates the friendly consensus in adversary costume. See",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Stephen Marrin and others have argued that SATs are ritually performed without changing the underlying judgment, producing the",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "SATs operate over whatever hypotheses make it into step 1; they cannot surface what no one has considered.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Professional Development Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "RAND reviewed 63 finished intelligence products from CIA, DIA, and NIC; only a minority used explicit SATs, but those that did “addressed a broader range of potential outcomes and implications than did other analyses.” The report proposes a multi-method evaluation framework (SAT reviews, structured interviews, controlled experiments) and surveys the limited prior empirical literature.",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Proposed Evaluation Methods",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of analysts, managers, methodologists, consumers, briefers",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Document the methodology used to construct scenarios (in a box or appendix)",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Stephen Marrin — cited on the difficulty of measuring analytic quality",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "for what RAND directly claims (their pilot study findings, their literature review, their proposed methodology).",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "One primarily qualitative method to evaluate these techniques would be periodic in-depth reviews of intelligence production on a variety of topics to ascertain how frequently structured techniques are used and which ones are most effective.",
     "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
@@ -664,7 +586,69 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Assessing the Value of Structured Analytic Techniques in the ...Assessing Structured Analytic Techniques in U.S. Intelligence ...Structured Analytic Techniques (SATs) — by Luiz H. S. BrandãoArtner, Girven & Bruce — Assessing SATs (RAND RR1408, 2016)DTIC AD1024447: Assessing the Value of Structured Analytic ...Structured Analytic Techniques for Intelligence Analysis — Jan 9, 2017 · This report argu",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
   "失敗・落とし穴": [
+   {
+    "quote": "(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Cognitive Biases in Intelligence Analysis",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). SATs are procedural countermeasures whose efficacy derives precisely from their structural friction — they slow the analyst down at the moments where bias operates fastest.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", making suppressed disconfirming evidence visible. It also reframes the analytic question from “what is the most likely hypothesis” to “which hypothesis is least disconfirmed” — a small linguistic shift that interrupts confirmation bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "§ Confirmation Bias and",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Hypothesis-set selection bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "reduced confirmation bias only among participants who lacked a professional intelligence background",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Expert analysts may already be doing what ACH formalizes; ACH not free debiasing",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.",
     "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
@@ -924,33 +908,213 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
+  "実例": [
    {
-    "quote": "Availability. Probability estimates are",
+    "quote": "in some cases heightens confidence in preferred hypotheses",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "In some cases, however, key assumptions and the logic behind specific techniques were not transparent.",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, various SATs address mindset bias; “satisficing”",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "can be misapplied in individual cases. Proponents of SATs",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "reexamination of assumptions and, in some cases, height-",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "have otherwise been the case. In some cases, this may be",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "on factors other than its analytic quality. For example, whether",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In some cases, an individual might have a bias—current intel-",
+    "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ". For example, what will work in future in a slightly different settings (1), missing and ambiguous evidence (2), and with clients and other stakeholders who may intentionally or unintentionally not disclose or actually mislead (3) , and whose recommendations can affect peoples lives, positively and negatively (4).",
+    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "example, the extent to which other people",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Anchoring. Probability estimates are",
+    "quote": "or example, military analysis may focus",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "certainty into a probability estimate, people",
+    "quote": "these forces actually fght?). In this case,",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "goal-maximizing policy is overestimated.",
+    "quote": "might fuctuate. All of these examples",
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users",
+    "quote": "Key Assumptions Check: The 2002 DC Sniper Case",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "a good example of how this technique could have been applied. After the initial furry of",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "accurately. In the case of HUMINT , this will",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "builds a more concrete case for the analytic",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "when it is important to make a case that a",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "hypotheses—in some cases, analysts",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "hypotheses. In the latter case, the evidence can",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "case, explore what could account for",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "best possible case for an alternative",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In some cases, the analyst or a team",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "merits of each case, pose questions back",
+    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Using three historical case studies, the authors examine the ability of past decisionmakers to identify adversary thresholds and to apply this information to control escalation during militarized crises between nuclear-armed states.",
+    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "effective than an individual’s thinking.19 Intelligence analysis, for example, has improved when",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Small groups of eight or fewer individuals, as is typically the case for JSAT sessions, are",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Other considerations include the relationships between techniques. In many cases, techniques",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "questions to begin the process. Examples include:",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "manner, in this case to develop and track the definition process with a sharable modality such as",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "or timeline. For example: “Look for relationships and patterns in the data connecting persons,",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "groups them together into at least four plausible scenarios – best case, worst case, baseline and an",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "CDR Gay, T. N., LCDR Ripley, D. B., & 1/C Fecskovics, A. K. (2012). Use of Case Studies",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and Structured Analytic Techniques in Intel Studies: USCGA Example [PowerPoint slides].",
+    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Miller Beebe, S. (2020). Teaching Structured Analytic Techniques with Cases. Ascendant",
     "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -961,72 +1125,62 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://aist.repo.nii.ac.jp/records/2003489",
+    "url": "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
     "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://textbook-rc.or.jp/report_data2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
-    "url": "https://aist.repo.nii.ac.jp/records/2003492",
+    "url": "https://note.com/aisight/n/n61c130b50bcc",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
+    "url": "https://note.com/masa_cloud/n/nc55e9b41c850",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
+    "url": "https://note.com/tad_shimizu/n/n83beac399f95",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.seattleu.edu/media/seattle-university/human-resources/compensation/files/WA-St-OT-Threshold-Chart-2025-2028.pdf",
+    "url": "https://note.com/clean_broom590/n/nd6c45163054a",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.wafarmersmarkettoolkit.org/wp-content/uploads/2023/12/F700-207-000.pdf",
+    "url": "https://note.com/_nazo/n/n3dfdbd38fb65",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://archseattle.org/wp-content/uploads/2020/12/HR1.1-Salary-Exempt-Changes-WA-State.pdf",
+    "url": "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://aist.repo.nii.ac.jp/records/2003346",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "url": "https://shinji.design/devils-advocate-vs-authentic-dissent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyorosukeke.hatenablog.com/entry/2026/08/13/170247",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consulnote.com/articles/thinking/structured-analytic-techniques/",
     "status": "ok",
     "method": "http"
    },
@@ -1036,22 +1190,27 @@
     "method": "pdf"
    },
    {
-    "url": "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
+    "url": "https://studylib.net/doc/28738744/rand-rr1408",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
-    "url": "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.rand.org/topics/intelligence-analysis.html",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.org/details/DTIC_AD1024447",
     "status": "ok",
     "method": "http"
    }
@@ -1061,234 +1220,371 @@
   {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） site:note.com",
    "results": [
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://aist.repo.nii.ac.jp/records/2003492",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja"
+    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://note.com/aisight/n/n61c130b50bcc",
+    "https://note.com/masa_cloud/n/nc55e9b41c850",
+    "https://note.com/tad_shimizu/n/n83beac399f95",
+    "https://note.com/clean_broom590/n/nd6c45163054a",
+    "https://note.com/_nazo/n/n3dfdbd38fb65",
+    "https://note.com/chiteki/n/ndb5790f6d156"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） note",
    "results": [
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://aist.repo.nii.ac.jp/records/2003492",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
-    "https://www.seattleu.edu/media/seattle-university/human-resources/compensation/files/WA-St-OT-Threshold-Chart-2025-2028.pdf"
+    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://shinji.design/devils-advocate-vs-authentic-dissent/",
+    "https://kyorosukeke.hatenablog.com/entry/2026/08/13/170247",
+    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "https://www.consulnote.com/articles/thinking/structured-analytic-techniques/"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 29
+   "n_hits": 7
   },
   {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） やり方",
    "results": [
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492",
-    "https://aist.repo.nii.ac.jp/records/2003346",
-    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757"
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://shinji.design/devils-advocate-vs-authentic-dissent/",
+    "https://kyorosukeke.hatenablog.com/entry/2026/08/13/170247",
+    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "https://www.consulnote.com/articles/thinking/structured-analytic-techniques/"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） 事例",
    "results": [
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492",
-    "https://aist.repo.nii.ac.jp/records/2003346",
-    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757"
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://shinji.design/devils-advocate-vs-authentic-dissent/",
+    "https://kyorosukeke.hatenablog.com/entry/2026/08/13/170247",
+    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "https://www.consulnote.com/articles/thinking/structured-analytic-techniques/"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "structured analytic techniques effectiveness evaluation satisficing intelligence analysis RAND",
    "results": [
-    "https://www.rand.org/pubs/research_reports/RR1408.html",
     "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "https://mande.co.uk/2021/media-3/books/structured-analytic-techniques-for-intelligence-analysis/",
-    "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
-    "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
-    "https://www.rand.org/topics/intelligence-analysis.html",
-    "https://econjournals.sgh.waw.pl/JMFS/article/download/732/635/1283",
-    "https://www.hsdl.org/document/20945",
-    "https://www.maltego.com/blog/improving-your-intelligence-analysis-with-structured-analytic-techniques/",
-    "https://studylib.net/doc/28738744/rand-rr1408"
+    "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "https://studylib.net/doc/28738744/rand-rr1408",
+    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "https://archive.org/details/DTIC_AD1024447",
+    "https://us2.sagepub.com/en-us/nam/structured-analytic-techniques-for-intelligence-analysis/book255432"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:note.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
    "results": [
     "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://note.com/aisight/n/n61c130b50bcc",
     "https://note.com/masa_cloud/n/nc55e9b41c850",
     "https://note.com/tad_shimizu/n/n83beac399f95",
-    "https://note.com/aisight/n/n61c130b50bcc",
-    "https://note.com/h_system/n/nd18ef30aaa61",
     "https://note.com/clean_broom590/n/nd6c45163054a",
-    "https://note.com/_nazo/n/n3dfdbd38fb65",
-    "https://note.com/_yoke/n/n510129d2faca",
-    "https://note.com/chiteki/n/ndb5790f6d156",
-    "https://note.com/grand_wren2289/n/ne55ace23a5ac"
+    "https://note.com/lilygpt/n/n2e409b0d8575",
+    "https://note.com/chiteki/n/ndb5790f6d156"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "site:x.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
    "results": [
-    "https://x.com/N5DeuCtRlz41963",
-    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
-    "https://note.com/masa_cloud/n/nc55e9b41c850",
-    "https://note.com/tad_shimizu/n/n83beac399f95",
-    "https://note.com/aisight/n/n61c130b50bcc",
-    "https://note.com/h_system/n/nd18ef30aaa61",
-    "https://note.com/clean_broom590/n/nd6c45163054a",
-    "https://note.com/_nazo/n/n3dfdbd38fb65",
-    "https://note.com/_yoke/n/n510129d2faca",
-    "https://note.com/chiteki/n/ndb5790f6d156"
+    "https://x.com/tetumemo/status/2018835524136645080",
+    "https://x.com/kajikent/status/2055965760959504502",
+    "https://x.com/t4knwl/status/2104360091805962615",
+    "https://x.com/manabu_okumura/status/2078319850796265506",
+    "https://x.com/moriakit/status/2067083891136237747",
+    "https://x.com/orca_ai_teacher/status/2058678176855777378",
+    "https://x.com/tetumemo/status/2018694225903362054"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 11
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
    "results": [
-    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
-    "https://note.com/masa_cloud/n/nc55e9b41c850",
-    "https://note.com/tad_shimizu/n/n83beac399f95",
-    "https://note.com/aisight/n/n61c130b50bcc",
-    "https://note.com/h_system/n/nd18ef30aaa61",
-    "https://note.com/clean_broom590/n/nd6c45163054a",
-    "https://note.com/_nazo/n/n3dfdbd38fb65",
-    "https://note.com/_yoke/n/n510129d2faca",
-    "https://note.com/chiteki/n/ndb5790f6d156",
-    "https://note.com/grand_wren2289/n/ne55ace23a5ac"
+    "https://jp.linkedin.com/pulse/how-raise-army-kill-devils-advocate-innovation-vivek-muralidharan?tl=ja",
+    "https://www.linkedin.com/posts/hiroyukiarai_イノベーターは常に悪魔の代弁者を内包せよpinky-ピンキー-activity-7231270724458438658-YNbW",
+    "https://jp.linkedin.com/pulse/ten-faces-innovation-how-defeat-devils-advocate-spark-chintakunta-xpkfc?tl=ja",
+    "https://jp.linkedin.com/posts/南実-河原地-a07aa818b_意思決定-組織-悪魔の代弁者-activity-7424798484215803904-Qq_z",
+    "https://jp.linkedin.com/posts/tetsuo-kan-ba1677297_コンサル調査案件は情報収集から仮説検証へaiを悪魔の代弁者にして検証を仕組-activity-7489599653361950720-iYTT",
+    "https://jp.linkedin.com/pulse/validate-before-you-build-how-stress-test-your-idea-austin-menear-ir2fe?tl=ja",
+    "https://jp.linkedin.com/pulse/beyond-5-whys-building-stronger-root-cause-analysis-ahmed-ms-gsp-2uoge?tl=ja"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）",
    "results": [
-    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
-    "https://note.com/masa_cloud/n/nc55e9b41c850",
-    "https://note.com/tad_shimizu/n/n83beac399f95",
-    "https://note.com/aisight/n/n61c130b50bcc",
-    "https://note.com/h_system/n/nd18ef30aaa61",
-    "https://note.com/clean_broom590/n/nd6c45163054a",
-    "https://note.com/_nazo/n/n3dfdbd38fb65",
-    "https://note.com/_yoke/n/n510129d2faca",
-    "https://note.com/chiteki/n/ndb5790f6d156",
-    "https://note.com/grand_wren2289/n/ne55ace23a5ac"
+    "https://www.facebook.com/BizMentor.2020/posts/悪魔の代弁者カトリック教会で聖人を選ぶ際にその人物の欠点や問題点を指摘する役割を持つわざと反対する人の事です異論を聞き聞く事で冷静に判断できるという効果があるの/344478410761048/",
+    "https://www.facebook.com/empublic.jp/posts/1069565913105851/",
+    "https://www.facebook.com/logistique001/posts/cbp宣誓書を深掘りする-cape設計概要とach還付要件企業が今すぐ整えるべき受領体制ここでいうcbp宣誓書はatmus-filtration-事件で-cbp/1375748684597648/",
+    "https://www.facebook.com/salondeshacho/photos/イギリスの政治哲学者であり経済思想家でもあるミル1806-1873が語った悪魔の代弁者についてご紹介します-悪魔の代弁者とは多数派に対してあえて批判や反論をする/1178098245695558/",
+    "https://www.facebook.com/mainichishimbun/posts/相談相手は悪魔と天使の代弁者関電が挑むai時代の企業変革関西電力が人工知能aiの活用に本腰を入れています将来的には原子力発電所の点検など人が担うには危険がある分/1471157618379921/",
+    "https://www.facebook.com/masato.tahara/posts/社会システムの代案を作る行為は現在のシステムが考えられた前提を点検することでありそれを考えた人たち以上の視座で考えることであり現在のシステムを正当に評価して総括/5446683035389958/",
+    "https://www.facebook.com/SankeiShimbun/posts/日本から中国にご説明に伺うのが今の日本と中国の力関係と重ねて投稿しこのような実態を無視して口だけ番長で威勢よく言えるのは無責任な国会議員コメンテーター学者など-/1292008529631155/"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） note 社長",
    "results": [
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://www.mistore.jp/moodmark/sx01/journal0106/010655/",
-    "https://aist.repo.nii.ac.jp/records/2003492",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja"
+    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://shinji.design/devils-advocate-vs-authentic-dissent/",
+    "https://kyorosukeke.hatenablog.com/entry/2026/08/13/170247",
+    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "https://www.consulnote.com/articles/thinking/structured-analytic-techniques/"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者） X 投稿",
    "results": [
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://synapsesocial.com/ja/papers/6a3e16cd030ad1a9b30907c7",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/37078",
-    "https://textbook-rc.or.jp/report_data2.pdf",
-    "https://all.rokin.or.jp/association/press/documents/documents/00_arikata_all.pdf",
-    "https://aist.repo.nii.ac.jp/records/2003492",
-    "https://aist.repo.nii.ac.jp/records/2003346",
-    "https://researchmap.jp/kazsaito1234/published_papers/35020780?lang=ja",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2004757"
+    "https://yasashii-cybersecurity.com/osint-information-evaluation-guide/",
+    "https://note.com/magic_cosmos1054/n/n8d09648ff9fb",
+    "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "https://kyorosukeke.hatenablog.com/entry/2026/08/13/170247",
+    "https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry",
+    "https://www.consulnote.com/articles/thinking/structured-analytic-techniques/",
+    "https://atsumori.shop/archives/2346"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "structured analytic techniques effectiveness evaluation satisficing intelligence analysis RAND site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/james-murphy-721151251",
-    "https://www.linkedin.com/posts/william-russell-bb05352_marketingstrategy-marketing-marketingchannels-activity-7519060230392020994-CT1w",
-    "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
-    "https://www.rand.org/pubs/research_reports/RR1408.html",
-    "https://studylib.net/doc/28738744/rand-rr1408",
-    "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
-    "https://archive.org/details/DTIC_AD1024447",
-    "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
-    "https://policycommons.net/artifacts/4835781/assessing-the-value-of-structured-analytic-techniques-in-the-us/5672491/",
-    "https://cdnmaltego.blob.core.windows.net/cdn/Case+studies/Evaluating_Structured_Analysis_Techniques_AaronDixon.pdf"
+    "https://www.linkedin.com/pulse/structured-analytic-techniques-sats-explanation-relevance-shawn-riley-fglec",
+    "https://hk.linkedin.com/posts/ole-donner_cti-intelligence-ai-activity-7029002208327168000-bJoJ",
+    "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/structured-analytic-techniques-sats",
+    "https://www.linkedin.com/posts/college-of-public-service_structured-analytic-techniques-in-an-intelligence-activity-7303085697375105026-fvHR",
+    "https://www.linkedin.com/pulse/stealing-from-spooks-structured-analytic-techniques-law-poindexter-tzenc",
+    "https://www.linkedin.com/posts/jdamienscott_intelligenceanalysis-tradecraft-structuredanalytictechniques-activity-7487337848400998400-nWlu",
+    "https://pe.linkedin.com/posts/michelle-ziegler-02a498144_rethinking-strategic-readiness-activity-7199803869210501120-V5Tw"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 12
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 5,
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Strategic estimates; long-horizon planning",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Structured Analytic Techniques are procedures that force analysts to externalise reasoning steps that, in unstructured analysis, remain implicit and therefore unauditable. SATs do three things simultaneously: they",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ACH cannot manufacture hypotheses the team has not considered — its output is bounded by the hypothesis set at step 1. It is also evidence-quality-blind: low-reliability evidence weighted equally with high-reliability evidence produces noise. Mitigation: gate ACH on a prior source-reliability audit (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Source Verification Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Procedure (10–15 assumption step):",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Red Teaming is methodologically demanding: it requires genuine cultural-linguistic fluency in the adversary’s frame. A Red Team staffed with analysts who only know the adversary through Western secondary sources will mirror-image inside the exercise and produce a Red Team report that recapitulates the friendly consensus in adversary costume. See",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Stephen Marrin and others have argued that SATs are ritually performed without changing the underlying judgment, producing the",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "SATs operate over whatever hypotheses make it into step 1; they cannot surface what no one has considered.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Professional Development Framework",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "RAND reviewed 63 finished intelligence products from CIA, DIA, and NIC; only a minority used explicit SATs, but those that did “addressed a broader range of potential outcomes and implications than did other analyses.” The report proposes a multi-method evaluation framework (SAT reviews, structured interviews, controlled experiments) and surveys the limited prior empirical literature.",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Proposed Evaluation Methods",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of analysts, managers, methodologists, consumers, briefers",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Document the methodology used to construct scenarios (in a box or appendix)",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Stephen Marrin — cited on the difficulty of measuring analytic quality",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "for what RAND directly claims (their pilot study findings, their literature review, their proposed methodology).",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Assessing the Value of Structured Analytic Techniques in the ...Assessing Structured Analytic Techniques in U.S. Intelligence ...Structured Analytic Techniques (SATs) — by Luiz H. S. BrandãoArtner, Girven & Bruce — Assessing SATs (RAND RR1408, 2016)DTIC AD1024447: Assessing the Value of Structured Analytic ...Structured Analytic Techniques for Intelligence Analysis — Jan 9, 2017 · This report argu",
+    "url": "https://www.rand.org/pubs/research_reports/RR1408.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Cognitive Biases in Intelligence Analysis",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). SATs are procedural countermeasures whose efficacy derives precisely from their structural friction — they slow the analyst down at the moments where bias operates fastest.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", making suppressed disconfirming evidence visible. It also reframes the analytic question from “what is the most likely hypothesis” to “which hypothesis is least disconfirmed” — a small linguistic shift that interrupts confirmation bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "§ Confirmation Bias and",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Hypothesis-set selection bias.",
+    "url": "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "reduced confirmation bias only among participants who lacked a professional intelligence background",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Expert analysts may already be doing what ACH formalizes; ACH not free debiasing",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "in some cases heightens confidence in preferred hypotheses",
+    "url": "https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 6,
  "first_researched_at": "2026-11-07T17:46:57.072112+00:00"
 }

@@ -1,0 +1,1820 @@
+{
+ "name": "光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）",
+ "en": "engineering photopolymer resin manufacturers SLA DLP LCD brands",
+ "aliases": [
+  "Photopolymer Harz Hersteller",
+  "résine photopolymère fabricant",
+  "光敏树脂 厂家",
+  "3D프린터 레진 제조사"
+ ],
+ "context": "レジン",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:47:55.096912+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": "Certified Part Producers",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": "Almost all 3D-printing resin manufacturers are trying to mimic ABS and some market their resin as ABS-Like. Why is ABS the benchmark and how does its properties compare to best in class tough resins?",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s talk about 3D-printer compatibility of the above mentioned tough resins. Hardware manufacturers like 3D-Systems, Carbon3D, EnvisionTEC and Formlabs focus on selling their hardware with their materials and their resin are not known to be compatible with other 3D-printers. To our best knowledge the DSM Somos resin is compatible with (huge) laser based SLA 3D-printers brands like UnionTEC",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": ". While Henkel is an open platform, mainly working with high-end brands like Asiga",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": ". Time will tell how all these manufacturers move forward in resin 3D-printing. For those who follow Liqcreate, know that the resin formulators at Liqcreate aim for a wide resin compatibility with DLP, SLA, MSLA and LCD 3D-printers in all segments. More information regarding machine compatibility can be found",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": ". Just to name a few Liqcreate compatible 3D-printer brands:",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": "6] www.dsm.com/content/dam/dsm/additive-manufacturing/en_US/documents/Brand-Status-Sell-Sheets/English-Letter/Somos%20Taurus%20SS-PDS%20Letter.pdff",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": "Average prices range from about $15 to $40 per liter, making this resin type one of the most economical options in the 3D printing industry. With proper post-processing, including sanding and painting, you can achieve a professional appearance.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Typically ranges from about $20 to $60 or more per liter, depending on brand and formulation.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-range, often between $30 and $70 per liter depending on brand.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Rigid or ceramic-filled resins deliver high stiffness and dimensional accuracy but fail in a brittle manner, which makes them best for metrology fixtures. PMMA-like blends provide long-term optical stability for clear parts, while nylon-like versions improve layer bonding and flexibility for living hinges.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "More expensive than general clear resin and require more post-processing steps to reach their best optical quality.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Hidden costs accumulate quickly in the 3D printing process. Consumables such as isopropyl alcohol for rinsing, water or solvent disposal, nitrile gloves, filters, and replacement FEP films for resin printers all impact the budget. Filled resins, including ceramic or glass-loaded types, can wear FEP films faster, adding to maintenance expenses.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Which Resin Types are Best for Miniatures and for Large Models?",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin printing performance depends on well-tuned profiles. These profiles live partly in the slicer and partly on the printer, defining how light, lift, and curing interact with liquid resin. A safe starting point is the datasheet from the manufacturer, but you should always run calibration coupons to validate exposure windows, layer height, and mechanical properties.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Water-washable resin for 3D printers benefits from longer dry times before UV curing to prevent embrittlement. Keeping a change log as you iterate helps you refine parameters without losing track of what worked best, and to tune effectively, you first need to know what a resin profile actually is.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Once the basic parameters are in place, fine-tuning is what brings consistency and precision. Calibration prints are the best starting point. These test pieces let you read failures: under-exposure shows as weak adhesion or “elephant skin” textures, while over-exposure causes brittleness and blurred edges. Adjust exposure times in small increments, typically 0.2–0.3 seconds, to avoid overshooting.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "How Do You Evaluate Resin Brands and Specifications Without the Marketing Noise?",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "You should also account for consistency. Some manufacturers offer strong warranty support and batch tracking, while others rely on open-material ecosystems that give you flexibility but less direct assurance.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "To start, there are a number of firms producing 3D printing resins for desktop machines. Though many 3D printer manufacturers sell their proprietary materials, several generic brands have taken to making their own varieties for these systems, including MadeSolid, MakerJuice and Spot-A Materials.",
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "pass": 3
+   },
+   {
+    "quote": "A variety of 3D printing resins from SprintRay, manufacturer of the MoonRay 3D printer. (Image courtesy of SprintRay.)",
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "pass": 3
+   },
+   {
+    "quote": "Formlabs isn’t the only one to have produced photopolymers capable of demonstrating stronger mechanical properties. Generic material makers, such as MadeSolid, MakerJuice and Spot-A Materials all manufacture tough resins as well.",
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "pass": 3
+   },
+   {
+    "quote": "There are a limited number of manufacturers of flexible resins, including Formlabs, FSL3D and Spot-A Materials, all of which make a material for printing rubbery parts. This is ideal for prototyping elastic products, such as water bottles, handles and grips. Careful not to stretch too much or these components might tear!",
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 3D Printing Resin Manufacturers in China - ANEBON METAL",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 3D Printing Resin Manufacturers in China",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Custom 3D Printing Manufacturers in China",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Online 3D Printing Manufacturers in China",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Why work with 3D Printing Resin Manufacturers in China?",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Anebon leads among 3D Printing Resin Manufacturers and OEMs",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "9. WeProFab (Photopolymer Resin Manufacturer)",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "How to select the right 3D Printing Resin Manufacturers in China",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "● FAQ About 3D Printing Resin Manufacturers in China",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "How can I verify the quality of 3D printing resin from Chinese manufacturers?",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Can Chinese 3D Printing Resin Manufacturers support private‑label and custom‑formula projects?",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "What types of 3D printing resin are commonly available from Chinese suppliers?",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "How do companies like Anebon Metal cooperate with 3D Printing Resin Manufacturers?",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "What information should I prepare before contacting Anebon Metal or other 3D Printing Resin Manufacturers?",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printer resin manufacturers",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "top 3D printing service manufacturers and suppliers",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": ". This guide is intended for OEMs, brands, and buyers seeking reliable 3D printer resin manufacturers in China. It covers leading companies, selection criteria, and practical tips for sourcing high-quality resin for various applications. For overseas brands, wholesalers, and OEM producers, partnering with reliable",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Resin Manufacturers",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printer Resin Manufacturers: Growing Demand in China",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Many Chinese 3D Printing Resin Manufacturers now serve high‑value industries such as dental, jewelry, medical devices, and precision engineering, where surface finish and dimensional accuracy are critical.[4][3]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Printer Supplies Suppliers | Page 4 | SourceReady",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Printer Supplies Suppliers",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Discover a curated selection of reliable 3D printing material providers, including filaments, resins, and custom components tailored for diverse applications.",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer/Trading Company",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "2023 New Luminous Word 3d Printer 3d Printer Manufacturer 3d Printer Supplies for Channel Letter Sign Printing",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to its core printing business, Henan Tiffan Machinery provides a range of industrial equipment including CNC and laser engraving machines, cutting plotters, and food processing machinery such as meat mincers and fish milling machines. The company maintains a strong focus on technical quality, with many of its products carrying CE certification to meet international standards.",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "JYCTEC PLA filament 5kg supplier for 3d printing service 1kg/3kg/5kg 1.75mm WOOD/PETG/PLA filament for 3d printer",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer/Trading Company/Wholesaler",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printer Enclosure for Most Brand 3D Printers",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "How can I compare multiple suppliers effectively?",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Compare suppliers based on factors such as product quality, pricing, certifications, production capacity, lead times, export experience, and communication responsiveness. Evaluating suppliers against the same criteria makes decision-making more objective.",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "3d Printer Resin Dental YOUSU Standard Resin Castable Supplier 3d 405nm Resin Fit for 8k 12k 3d Printer 3d Resin",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer/Trading Company/Trading Company/Trading Company",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer/Trading Company/Distributor/Wholesaler",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer/Trading Company/Wholesaler/Distributor",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Best 3D Printer",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Eco-friendly supplier",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   }
+  ],
+  "代理店募集・売り方": [
+   {
+    "quote": "Partners & Distributors",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": "By offering both FDM filaments and 3D printing resin, Yousu3D allows distributors and OEMs to source multiple material types from a single supplier, simplifying inventory and logistics. OEM and private‑label services are available for customers who want to develop their own branded 3D printing resin lines.[1]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "The company offers export‑ready packages, including printers, resins, and spare parts, which is attractive for dealers, educational institutions, and small manufacturers looking for a turnkey solution, particularly when combined with external",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Because of its global distribution network and brand recognition, sourcing eSUN 3D printing resin is relatively straightforward for distributors and end users around the world. The company’s technical expertise helps customers select suitable 3D printing resin grades for specific printers and applications.[5]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, many 3D Printing Resin Manufacturers in China offer OEM and ODM services, including private‑label packaging, custom bottle designs, and tailored formulations for specific applications. This allows distributors and brands to build their own 3D printing resin product lines without investing in resin production facilities.[6][1]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Trading Company/Distributor",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer/Trading Company/Distributor/Wholesaler",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer/Trading Company/Wholesaler/Distributor",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Ortho Native 3D GmbH is a German distributor of a FDM 3D printing system for the medical field. Special focus is on dentistry and dental technology as well as orthopedic technology and medicine.",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": ", RapidShape",
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard and draft blends are great for everyday models and quick prototypes.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Which Standard Resin Types are Commonly Used?",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "When you look at resins for 3D printing, some categories stand out as the most widely used across resin printers. These are favored because they balance cost, accessibility, and reliable performance for a broad range of 3D printing projects.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard or rigid resins are often the first choice for prototypes and everyday models because they offer a smooth surface finish and predictable results.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Each resin type comes with trade-offs, whether that is brittleness, curing sensitivity, or limited long-term stability under UV light. Understanding these limitations is essential when deciding how your parts should function.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "To help you compare, let’s look closely at the most common standard resin types and what makes them useful for your 3D printing applications.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard / Rigid (General-Purpose)",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard or rigid resins are the baseline material you will encounter when working with resin 3D printing. These resins are designed to provide ease of use and consistency, making them ideal for both beginners and experienced users.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Water-washable resin for 3D printing is marketed as a convenient alternative to standard resins that require isopropyl alcohol cleaning. Instead of a solvent bath, you rinse your resin prints in water to remove uncured material.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Flexible or elastic resins introduce a completely different behavior compared with rigid materials. They mimic the feel of rubber, offering elongation and energy absorption that standard resins cannot achieve.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "You can also mix a small percentage of flexible resin with standard resin for 3D printing to improve toughness, though you should expect longer exposure times. Average prices range from about $40 to $100 per liter, reflecting their specialized role in the 3D printing industry.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "This makes it especially valuable when you need quick prototypes, early design iterations, or large parts where speed matters more than aesthetics. You will often see thicker layer heights compared with standard resins, which reduces overall print time but also lowers resolution and smooth surface quality.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "For design-intent validation, draft resin is an excellent choice, but once your prototype is finalized, you should reprint in a tougher or standard resin type for durability.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Some workflows claim multiple times faster output compared with standard resin 3D printers, and up to ten times faster than large FDM builds.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Some blends claim reduced brittleness and improved abrasion resistance compared with standard resin types.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Tough or ABS-like resins offer impact resistance and ductility, making them suitable for snap-fits or housings. High-temperature resins withstand heat ranges of about 180 to 260 °C HDT, enabling use in tooling or under-the-hood prototypes.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Compared with standard resins for 3D printing, these blends provide higher elongation and better resilience against cracking. Shore hardness typically ranges from 68 to 75D, with tensile and flexural strengths that approach or exceed entry-level thermoplastics.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Snap-fits, housings, and clips that require more toughness than standard resin prints.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Jigs that must withstand heat exposure without warping or losing precision.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Higher cost, slower curing, and limited color options compared with standard resins.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Problem solving games to challenge engineers (or help them procrastinate).",
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s a bit unclear how many folks are purchasing or building Autodesk’s open-source Ember 3D printer, but the software company deserves props for releasing the complete designs for its DLP machine. More than that, Autodesk actually opened up the recipe for its photopolymer resin as well. The company’s standard clear resin can be developed at home or in a lab or modified to produce new materials.",
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "pass": 3
+   },
+   {
+    "quote": ", powering rapid prototyping and production for industries such as automotive, medical, consumer electronics, and industrial equipment, while European hubs like Germany host their own",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Buyers can choose from a broad range of 3D printing resin types including standard, tough, flexible, clear, high‑temp, and castable grades, often available from stock for fast sampling.[1][3]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "custom CNC machining and rapid prototyping capabilities",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Anebon uses industrial‑grade resin 3D printing technologies for rapid prototypes, appearance models, small‑batch functional parts, and bridge production before tooling, with material choice for functional parts based on the required mechanical performance, including high-tensile strength and impact resistance for durable or load-bearing applications.[2]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Anebon stands out in the landscape of 3D Printing Resin Manufacturers in China because it focuses on full‑process, engineering‑driven solutions instead of only selling materials. Customers can start with resin 3D printed prototypes, refine designs based on engineering feedback, and then move into metal or plastic mass production and assembly within the same organization.[2]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Kingroon is widely recognized for its desktop 3D printers and also supplies 3D printing resin for LCD and MSLA machines. Its product catalog typically includes standard UV resin, water‑washable 3D printing resin, which does not require isopropyl alcohol for cleaning, and special variants aimed at hobbyists, miniature artists, and small businesses.[6]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "China XANADU focuses on R&D and production of photopolymer resins used in 3D printing and other UV‑curing applications. Its 3D printing resin products are designed for SLA, DLP, and LCD systems, and cover categories such as standard, engineering, flexible, and clear resins.[9]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "The main types of 3D printing resin include Standard, Tough, Flexible, and Castable formulations.",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Confirm that the manufacturer supplies the required 3D printing resin types—especially Standard, Tough, Flexible, and Castable formulations, along with options such as clear or dental—and can provide relevant certifications, test data, and safety documentation.[3][1]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Among the many 3D Printing Resin Manufacturers and service providers in China, Anebon Metal is especially suitable for overseas OEM customers who need both resin 3D printing and downstream manufacturing. Instead of sourcing resin from one partner and machining or assembly from another, customers can work with a single team that understands the full lifecycle of the product.[2]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Finished assemblies, incorporating 3D printing resin parts and metal or plastic components, are inspected and tested according to the customer’s standards, ready for direct shipment, drawing on best practices similar to those used by",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": ". Share your drawings, 3D models, and requirements, and the engineering team can recommend the best 3D printing resin, manufacturing path, and quality plan to move your product from concept to market rapidly and safely.[2]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Material specialists typically focus on developing and producing high‑quality 3D printing resin, while OEM factories like Anebon Metal select suitable resins and use them in SLA, DLP, or LCD printers to produce parts and assemblies, including understanding why some",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical 3D Printing: Precision Medical Industry Solutions for Rapid R&D",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to its core printing business, Henan Tiffan Machinery provides a range of industrial equipment including CNC and laser engraving machines, cutting plotters, and food processing machinery such as meat mincers and fish milling machines. The company maintains a strong focus on technical quality, with many of its products carrying CE certification to meet international standards.",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Wholesale Rapid PLA+ 3D Filament 1.75mm 1kg Cardboard Spool PLA+ Plus 3D Printer Filament for Fast 3D Printer",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "3d Printer Resin Dental YOUSU Standard Resin Castable Supplier 3d 405nm Resin Fit for 8k 12k 3d Printer 3d Resin",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Inslogic Standard Pro 3D Printer Resin Abrasion and Scratch Resistant 3D Resin High Precision 3D Print Resin",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printer Resin for SLA 3D Printer /Standard Resin and Castable Resin",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "ZS Easy to Clean Suppliers Kings 3d Printer Resin 3d Rapid Prototype Uv Resin Printer for Auto Industry Resin 405nm 3d Printer",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Explore eSUN's Standard and Tough Resins",
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG names new board leadership for 2026–2027 term",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "The additive manufacturing industry is entering a defining year. After navigating periods of rapid expansion, market correction, and evolving expectations, 2026 marks a decisive shift from what’s possible to what’s proven. Industry leaders are converging on a clear message: this is the year 3D printing earns its place as a mature, reliable manufacturing technology.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Demand in the drones sector is being reinforced by continued momentum in defense, which will remain a meaningful growth driver through 2026. Requirements for rapid iteration, secure supply chains, and distributed manufacturing are accelerating investment in additive manufacturing capabilities, with spillover effects into adjacent segments, including aerospace.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D printing industry in 2026 will enter a key phase of deep industrial adoption, moving from rapid expansion to real-world application. Focus is shifting from technology itself to how it creates sustained value in production environments. Key trends to watch include:",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Sectors like dental, automotive, aerospace, and medical devices continue to generate high-value demand. Dental 3D printing, in particular, is experiencing strong growth, with integrated solutions maintaining rapid expansion. High-barrier, high-value vertical markets are attracting capital, technology, and skilled professionals.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Projection 001: Specialized Materials, Applied Standards",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, the long-anticipated convergence between metal AM and CNC ecosystems is accelerating—both in hardware and software—as seen with players like DN Solutions, reinforcing that LPBF’s future lies not as a standalone technology, but as a fully integrated manufacturing system.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, we observe a growing maturity on the demand side. Industrial players now demonstrate a clearer understanding of where additive manufacturing creates value, with more targeted applications and realistic performance expectations. This convergence between improved process control and better-defined use cases is likely to be a strong driver for industrial adoption by 2026.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid commercial adoption of systems for micro parts, such as BMF and Fabrica Group (Nano Dimension)",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "The first major challenge came from",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "LCD 3D printers are considered an ideal and affordable vat photopolymerization solution for various dental applications due to their ability to offer high resolutions on small parts. Companies such as Asiga and Ackuretta offer both standard DLP and LCD systems, with the latter specifically targeting the dental segment.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Production, Modular, Stand-alone, Jewelry, Dental",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "The installed base of vat photopolymerization systems is already substantial, and growth rates are expected to be lower due to the obsolescence of low-cost LCD systems. However, the installed base of industrial systems is predicted to grow rapidly in the second half of the forecast period, driven by increased adoption of VPP technologies for part production.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "AMUG selects High Speed Sintering inventor Neil Hopkinson for Innovators Award",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker adds Rapid Fusion to its PolyCore hardware partner network",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Xenia to unveil carbon fiber-reinforced PEBA filament at Formnext 2026",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "How Should You Set Up and Tune Resin Profiles and Parameters?",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Water-washable resin for 3D printers benefits from longer dry times before UV curing to prevent embrittlement. Keeping a change log as you iterate helps you refine parameters without losing track of what worked best, and to tune effectively, you first need to know what a resin profile actually is.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "What are Key Parameters in Resin Profiles?",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Once the basic parameters are in place, fine-tuning is what brings consistency and precision. Calibration prints are the best starting point. These test pieces let you read failures: under-exposure shows as weak adhesion or “elephant skin” textures, while over-exposure causes brittleness and blurred edges. Adjust exposure times in small increments, typically 0.2–0.3 seconds, to avoid overshooting.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Many Chinese suppliers have extensive export experience and provide English‑language technical support, packaging customization, and regulatory documentation for international markets, serving sectors such as automotive in ways that complement",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Designers and buyers can send CAD files and application requirements; Anebon’s engineers then recommend appropriate 3D printing resin, process parameters, post processing steps after printing, and any post‑machining or assembly steps needed to meet final specifications.[2]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Training and Services",
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "pass": 3
+   },
+   {
+    "quote": "ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Application-driven AM now means qualification-first, data-centric, and governance-ready: tightly integrated with robotic automation and physical AI to enable distributed manufacturing and real supply-chain resilience.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "After years of intensive product development, qualification processes, and pilot applications, we expect 2026 to mark a turning point in which metal additive manufacturing is deployed directly within industrial production chains as a safe, sustainable, and reliable alternative to conventional manufacturing.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, LPBF is increasingly enabling new, AM-native products across sectors, rather than retrofitting legacy components, supported by growing acceptance of AM-specific tolerancing and qualification logic.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "The Performance Review Institute (PRI) is a global leader in quality assurance and accreditation. We administer the Nadcap® program for critical process accreditation, provide quality management system certifications, and offer professional development and workforce qualification programs. Visit us to explore how PRI helps advance quality and compliance across the aerospace supply chain.",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "What makes resin printing so appealing is its ability to deliver very fine detail and smooth surfaces, though you should also remember that most resins are brittle compared to thermoplastics, UV-sensitive, and not food-safe. Prices can range from around $15 to more than $200 per liter, so the choice you make also comes down to budget.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Average prices range from about $15 to $40 per liter, making this resin type one of the most economical options in the 3D printing industry. With proper post-processing, including sanding and painting, you can achieve a professional appearance.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Typically ranges from about $20 to $60 or more per liter, depending on brand and formulation.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "You can also mix a small percentage of flexible resin with standard resin for 3D printing to improve toughness, though you should expect longer exposure times. Average prices range from about $40 to $100 per liter, reflecting their specialized role in the 3D printing industry.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-range, often between $30 and $70 per liter depending on brand.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ": Set your budget, draft and standard resins run ~$15–$60/L, flexible resins $40–$100/L, and engineering blends can exceed $100/L.",
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": ", powering rapid prototyping and production for industries such as automotive, medical, consumer electronics, and industrial equipment, while European hubs like Germany host their own",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "– Competitive pricing and MOQs",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "Anebon offers precision assembly, dimensional inspection, and functional testing services tailored to the requirements of European, American, and Asian OEM customers.[2]",
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "pass": 3
+   },
+   {
+    "quote": "$27160295",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "TIFFAN Supply Reasonable Price Uv Printer A2 Flatbed Uv Printer Digital Printing Machine for Paper",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$73804",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Price 3D PLA Filament 1.75mm 1KG Spool PLA Filament for 3d Printer",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$429.84",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$68761",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$3142.5",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$32778",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$1755.61",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$174.67",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$1385.32",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$240.93",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$2323.75",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$398.75",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "Compare suppliers based on factors such as product quality, pricing, certifications, production capacity, lead times, export experience, and communication responsiveness. Evaluating suppliers against the same criteria makes decision-making more objective.",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$23000",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$582.2",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$28.99",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$38600",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "$18550",
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "pass": 3
+   },
+   {
+    "quote": "FREE, FAST Shipping on orders over $35 in the U.S.*",
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "pass": 3
+   },
+   {
+    "quote": "Free Shipping on +$35 orders in the U.S.*",
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "pass": 3
+   },
+   {
+    "quote": "$17.30 - $40.50",
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "pass": 3
+   },
+   {
+    "quote": "$8.84 - $129.00",
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "pass": 3
+   },
+   {
+    "quote": "$27.59 - $6,156.00",
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "pass": 3
+   },
+   {
+    "quote": "ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora Labs bets A$6M on scaling sovereign drone propulsion",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Due to the global political situation, regions such as Europe will focus more on their own capacities, driven in part by the further spread of additive manufacturing in the defence sector.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the trend to more functional resins (Dental, Medical) and tougher materials continues, which can open up new applications if the price-per-part drops in the future.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, we already know that we will see commercial housing projects with 100+ units in Europe and likely also in the US.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "COBOD already has four customers in Asia, Europe, and the US producing various marine life improvement structures, ranging from artificial reef modules to underwater harbor enhancement structures and coastal barriers.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "CECIMO – European Association of Manufacturing Technologies",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "In the near term, additive manufacturing will therefore be deployed primarily where it delivers clear and immediate value: spare parts, tooling, lightweight components, and complex high-performance parts. A stronger focus on these “winner” applications will be critical to positioning AM as a competitive, industrial production option that is fully embedded in European factories.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese equipment manufacturers have moved well beyond copying Western designs. They’re now shipping capable systems at 30-50% lower price points with improving reliability. This will accelerate hardware commoditisation and force Western OEMs to compete on ecosystem value rather than machine specifications.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "The strategic implication is clear: companies need to move up the stack toward intelligence and automation, or they’ll find themselves in an increasingly brutal hardware price war against well-capitalised competitors.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "The other trend we see is data collection and exploitation in lower price point machines. This is well established in higher values areas of the market, however as the capability of the lower cost machines advances their use case widens and we are now at the point that robust production data will start to be a necessity for a growing number of parts produced on these machines.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, new business models and collaborations are emerging. Public-private partnerships and cooperative schemes are positioned as strategic solutions for social housing and urban regeneration. The housing crisis and European funds are driving projects that combine speed, scalability, and sustainability, where technology acts as an enabler to meet social and economic objectives.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "CECIMO - European Association of Manufacturing Technologies",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": ", have made significant contributions. These companies now offer a wide range of large-format industrial machines at competitive prices. China has also seen the rise of multiple AM service providers, with factories housing hundreds of industrial SLA systems.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "acquired by Desktop Metal for $300 million in 2021 and rebranded as ETEC",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "These smaller TI DLP Pico chipsets are anticipated to make high-quality 3D printers small enough to be placed on desks at home or work. Consequently, they can be available for less than $500, which is less than half the price of previous DLP 3D printers.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Another key trend in LCD technology is the availability of ultra-low-cost systems, mainly developed and marketed by Chinese companies such as Falshforge, Creality, and Elegoo. Anycubic is the market leader in this segment, with the Photon Mono series providing reliable and high-resolution 3D printing capabilities starting at just $199 (build volume: 130 x 80 x 165mm).",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "In the future high-speed DLP and SLA will be the largest revenue segments in vat photopolymerization. By 2032, high-speed DLP will be in fact surpass SLA as the largest vat photopolymerization hardware revenue opportunity overall totaling $2.7 billion in yearly revenues.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond SLA, which will grow to over 2.4 billion in revenues by 2032, among the key sub-technologies of vat photopolymerization, conventional DLP (VPP-DLP) systems are expected to generate $601 million by 2032, whilst VPP-LCD systems are expected to grow to almost $1 billion by the end of the forecast period.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Meilleurs logiciels de CAO",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   },
+   {
+    "quote": "Choisir un ordinateur pour la CAO",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   },
+   {
+    "quote": "Extrudeur Bowden ou direct",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   },
+   {
+    "quote": "Éditeurs de logiciels",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   },
+   {
+    "quote": "ARTEC EUROPE S.à r.l.",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   }
+  ],
+  "資金調達・株主": [
+   {
+    "quote": "In the case of a laser, the individual layers of a 3D model are drawn onto the resin as a printbed is raised or lowered—depending on whether the vat is above or below the light source—layer by layer until the object is complete. In the case of a lamp or projector, entire slices of the CAD model are cast onto the resin, hardening the object one whole layer at a time.",
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, toward the end of 2025, we saw increasing investor confidence and substantial funding flowing into Chinese personal 3D printing companies. While 2026 may still be too early to judge the full impact, it is reasonable to expect the first results of this investment. It can be seen as faster product iteration, tighter hardware-software integration, or more aggressive market expansion.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "Secondly, I do see a trend to use printfarms with more inexpensive tabletop printers (mainly FDM) as installations for series and mass production applications. This will weaken the market size for professional plastics 3D printers shifting into that direction.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "As can be expected, the majority of the installed base of vat photopolymerization systems comprises low-cost LCD systems, totaling 1.7 million machines installed worldwide in 2022. VoxelMatters projects this category to remain the largest within vat photopolymerization, with almost 12 million units installed by 2032. Altogether",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   }
+  ],
+  "創業年": [
+   {
+    "quote": "The construction industry trends for 2026 will build upon the momentum established in 2025:",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "The other trend we see is data collection and exploitation in lower price point machines. This is well established in higher values areas of the market, however as the capability of the lower cost machines advances their use case widens and we are now at the point that robust production data will start to be a necessity for a growing number of parts produced on these machines.",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "A.MANNESMANN is specialist in the production of geometric demanding, high precision machine components. Founded in 1796, the company produces components with high fegrees of slenderness in lenght up to 15 meters. The unit of mesurement for the manufacture tolerances - even with large dimensions - is the µm (micrometer).",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   },
+   {
+    "quote": "Guangdong Youhui Technology Co., Ltd. was established in 2003, located in Jiangmen City,Guangdong Province, close to Guangzhou City and Shenzhen City. lt is a professional infrared emitters supplier integrating R&D,production, sales and service.",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   },
+   {
+    "quote": "We are a manufacturer from Shanghai area of China for Industrial vacuum heat treatment furnace and fine cleaning machine since 2009.",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   }
+  ],
+  "年商・規模": [
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "pass": 3
+   },
+   {
+    "quote": "In the future high-speed DLP and SLA will be the largest revenue segments in vat photopolymerization. By 2032, high-speed DLP will be in fact surpass SLA as the largest vat photopolymerization hardware revenue opportunity overall totaling $2.7 billion in yearly revenues.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond SLA, which will grow to over 2.4 billion in revenues by 2032, among the key sub-technologies of vat photopolymerization, conventional DLP (VPP-DLP) systems are expected to generate $601 million by 2032, whilst VPP-LCD systems are expected to grow to almost $1 billion by the end of the forecast period.",
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "JAPAN PAVILION by J3DPA",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "創業年": [
+   {
+    "value": "2025",
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "quote": "The construction industry trends for 2026 will build upon the momentum established in 2025:"
+   },
+   {
+    "value": "2003",
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "quote": "Guangdong Youhui Technology Co., Ltd. was established in 2003, located in Jiangmen City,Guangdong Province, close to Guangzhou City and Shenzhen City. lt is a professional infrared emitters supplier integrating R&D,production, sales and service."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.liqcreate.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/blog/sla-dlp-msla-lcd-resin-3d-printer-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/?srsltid=AYCX9vI8HIMoOLlYywBW4FVhjOiyFGfSxQsEhdU_0sJYe14NcxaTzBmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/1/resin-printer-decision-makers-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/649463835399845/posts/2018242571855291/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/pages/examples-of-compatible-sla-dlp-lcd-3d-printers-with-our-3d-resins?srsltid=AYCX9vLemaBN5OnY16SuiEVCdvoLX34MF69Q7wExi1HUi7lPwaEiFF34",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/c/browse-by-resin-3d-printer-curing-technology?srsltid=AYCX9vKlisNvl8vhswVL8ZRhVvgexQtn9r9rToLHZzJqZN2g4g5bR5d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mobile.engineering.com/amp/13554.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/c/engineering-3d-printer-resins",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/02/12/top-10-companies-in-the-highly-transparent-photopolymer-resin-industry-2026-market-leaders-powering-next-generation-additive-manufacturing/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3dresyns.com/pages/examples-of-compatible-sla-dlp-lcd-3d-printers-with-our-3d-resins?srsltid=AYCX9vLlXU94McAf9LYFXdIYAd8NBsiuGgkJmedrOVsanxU3DroK_HOR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/c/lcd-and-msla-3d-printer-photopolymer-resins?srsltid=AYCX9vIagzSWSwmYdnA04YYAuFmwOIi8f5PP6uqTRKvy0FKdzD0M2ltH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facfox.com/docs/kb/photopolymer-resin-3d-printing-comparison-sla-vs-dlp-vs-lcd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/01/26/top-10-companies-in-the-highly-transparent-photopolymer-resin-industry-2026-market-leaders-powering-next-generation-manufacturing/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://beadbramble.com/best-photopolymer-resin-for-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/?srsltid=AYCX9vLBWtLHEaIB8ti-X7BvEoaI5GKF3L_56HI3m_eDosYsAx70ucrI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/c/browse-by-resin-3d-printer-curing-technology?srsltid=AYCX9vJ4T2rig0oucX3BNYGzn-R6_w4Q4vp4WKTnq0iYY7lwvi-eCwq8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/resin-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/?srsltid=AYCX9vIFPlJbuIUO2uNdyYOkQ47p06io20AzIQvq4cl6ZsgOxK7wsKdM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://paradise-3d.com/top-10-resin-3d-printing-companies-in-bangalore/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/c/browse-by-resin-3d-printer-curing-technology?srsltid=AYCX9vLTPZTOxPEYiBDCoHQ4CBp6KwxUUSFcdQUdBTAkmhaCBRTp66UT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2773207X24001684",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pmw-expo.com/exhibitors-products/resin-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.liqcreate.com/supportarticles/engineering-resin-3dprinting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/tag/engineering-resin?srsltid=AYCX9vJE3Jj2XYU_84lMS8I8kAAIf_790qZtbY2bpwZlug4Oabgd2R07",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bmf3d.co.jp/blog/93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alpha-kaken.com/product_category/heat-resistant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-sol.co.jp/tech/hardware/dlp_materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/support/sla-materials/engineering-resins/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AnycubicPhoton/comments/goglgc/what_temp_can_cured_uv_resin_cope_with/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/liqcreate-launches-professional-grade-high-strength-and-chemical-resistant-resin-231317/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/new-resin-and-curing-system-aimed-at-injection-molding-performance-by-formlabs-237862/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/cubic-ink-new-high-performance-3d-printing-materials-showcased-at-formnext-2025-246823/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/tethon-3d-patents-its-genesis-line-of-3d-printing-resins-196622/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/zortrax-enters-vat-polmerization-market-with-inkspire-3d-printer-139760/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/materials/polymer-materials/resins/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-future-of-stereolithography-seen-through-innovations-by-axtra-3d-formlabs-and-3d-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/tethon-3d-launches-carbon-nanotube-c-lite-esd-resin-for-stereolithography/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/voxtech3d-to-distribute-nano-xs3dtech-micro-dlp-printers-in-north-america/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/top-10-resin-3d-printers280320174/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/different-types-of-resins-3d-printing-281220225/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/sla-vs-dlp-3d-printing-080420215/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/3d-materials/en/3d-printers/liquid-crystal-opus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/stereolithography-explained100420174/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://www.liqcreate.com/",
+    "https://formlabs.com/blog/sla-dlp-msla-lcd-resin-3d-printer-comparison/",
+    "https://www.3dresyns.com/?srsltid=AYCX9vI8HIMoOLlYywBW4FVhjOiyFGfSxQsEhdU_0sJYe14NcxaTzBmo",
+    "https://all3dp.com/1/resin-printer-decision-makers-guide/",
+    "https://www.facebook.com/groups/649463835399845/posts/2018242571855291/",
+    "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "https://www.matterhackers.com/store/c/lcd-and-msla-3d-printer-photopolymer-resins?srsltid=AYCX9vJP56-G3B7o3Rx2Cz3qf7SMTDWkGnYTWY_ASHKWCOaaVpfZy01l",
+    "https://www.youtube.com/watch?v=CNdqu3C9UAk",
+    "https://mobile.engineering.com/amp/13554.html",
+    "https://www.matterhackers.com/store/c/engineering-3d-printer-resins"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "engineering photopolymer resin manufacturers SLA DLP LCD brands list",
+   "results": [
+    "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "https://formlabs.com/blog/sla-dlp-msla-lcd-resin-3d-printer-comparison/",
+    "https://www.raise3d.com/blog/resin-types-of-3d-printing/",
+    "https://www.3dresyns.com/pages/examples-of-compatible-sla-dlp-lcd-3d-printers-with-our-3d-resins?srsltid=AYCX9vLemaBN5OnY16SuiEVCdvoLX34MF69Q7wExi1HUi7lPwaEiFF34",
+    "https://all3dp.com/1/resin-printer-decision-makers-guide/",
+    "https://www.matterhackers.com/store/c/browse-by-resin-3d-printer-curing-technology?srsltid=AYCX9vKlisNvl8vhswVL8ZRhVvgexQtn9r9rToLHZzJqZN2g4g5bR5d1",
+    "https://www.youtube.com/watch?v=CNdqu3C9UAk",
+    "https://mobile.engineering.com/amp/13554.html",
+    "https://www.facebook.com/groups/649463835399845/posts/2018242571855291/",
+    "https://www.matterhackers.com/store/c/engineering-3d-printer-resins"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "top engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://www.liqcreate.com/",
+    "https://formlabs.com/blog/sla-dlp-msla-lcd-resin-3d-printer-comparison/",
+    "https://all3dp.com/1/resin-printer-decision-makers-guide/",
+    "https://www.3dresyns.com/pages/examples-of-compatible-sla-dlp-lcd-3d-printers-with-our-3d-resins?srsltid=AYCX9vLlXU94McAf9LYFXdIYAd8NBsiuGgkJmedrOVsanxU3DroK_HOR",
+    "https://www.youtube.com/watch?v=CNdqu3C9UAk",
+    "https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/",
+    "https://www.matterhackers.com/store/c/lcd-and-msla-3d-printer-photopolymer-resins?srsltid=AYCX9vIagzSWSwmYdnA04YYAuFmwOIi8f5PP6uqTRKvy0FKdzD0M2ltH",
+    "https://facfox.com/docs/kb/photopolymer-resin-3d-printing-comparison-sla-vs-dlp-vs-lcd",
+    "https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/",
+    "https://chemicalresearchinsight.com/2026/02/12/top-10-companies-in-the-highly-transparent-photopolymer-resin-industry-2026-market-leaders-powering-next-generation-additive-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "engineering photopolymer resin manufacturers SLA DLP LCD brands distributor reseller program",
+   "results": [
+    "https://www.liqcreate.com/",
+    "https://formlabs.com/blog/sla-dlp-msla-lcd-resin-3d-printer-comparison/",
+    "https://www.3dresyns.com/?srsltid=AYCX9vLBWtLHEaIB8ti-X7BvEoaI5GKF3L_56HI3m_eDosYsAx70ucrI",
+    "https://all3dp.com/1/resin-printer-decision-makers-guide/",
+    "https://www.youtube.com/watch?v=YqzK9Gl2SKE",
+    "https://www.matterhackers.com/store/c/browse-by-resin-3d-printer-curing-technology?srsltid=AYCX9vJ4T2rig0oucX3BNYGzn-R6_w4Q4vp4WKTnq0iYY7lwvi-eCwq8",
+    "https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/",
+    "https://www.voxelmatters.directory/company-category/resin-manufacturer/",
+    "https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4",
+    "https://www.matterhackers.com/store/c/engineering-3d-printer-resins"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "engineering photopolymer resin manufacturers SLA DLP LCD brands exhibitors",
+   "results": [
+    "https://www.liqcreate.com/",
+    "https://formlabs.com/blog/sla-dlp-msla-lcd-resin-3d-printer-comparison/",
+    "https://www.3dresyns.com/?srsltid=AYCX9vIFPlJbuIUO2uNdyYOkQ47p06io20AzIQvq4cl6ZsgOxK7wsKdM",
+    "https://www.instagram.com/p/DXPmVk_gN2d/",
+    "https://all3dp.com/1/resin-printer-decision-makers-guide/",
+    "https://www.youtube.com/watch?v=CNdqu3C9UAk",
+    "https://paradise-3d.com/top-10-resin-3d-printing-companies-in-bangalore/",
+    "https://www.matterhackers.com/store/c/browse-by-resin-3d-printer-curing-technology?srsltid=AYCX9vLTPZTOxPEYiBDCoHQ4CBp6KwxUUSFcdQUdBTAkmhaCBRTp66UT",
+    "https://www.sciencedirect.com/science/article/pii/S2773207X24001684",
+    "https://chemicalresearchinsight.com/2026/02/12/top-10-companies-in-the-highly-transparent-photopolymer-resin-industry-2026-market-leaders-powering-next-generation-additive-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）",
+   "results": [
+    "https://i-maker.jp/blog/tag/engineering-resin?srsltid=AYCX9vJE3Jj2XYU_84lMS8I8kAAIf_790qZtbY2bpwZlug4Oabgd2R07",
+    "https://www.bmf3d.co.jp/blog/93",
+    "https://www.alpha-kaken.com/product_category/heat-resistant/",
+    "https://www.t-sol.co.jp/tech/hardware/dlp_materials/",
+    "https://formlabs.com/jp/support/sla-materials/engineering-resins/",
+    "https://www.reddit.com/r/AnycubicPhoton/comments/goglgc/what_temp_can_cured_uv_resin_cope_with/?tl=ja",
+    "https://skhonpo.com/blogs/3dprinter-practice/3dresintsukaiwake",
+    "https://news.sharelab.jp/3dp-news/plastic-materials/formlabs-tough2000v2-1000/",
+    "https://www.lantu3d.cn/ja/news/sla-resin-materials-guide-2026",
+    "https://i-maker.jp/blog/resin-guide"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:metal-am.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:3dprintingindustry.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://3dprintingindustry.com/news/liqcreate-launches-professional-grade-high-strength-and-chemical-resistant-resin-231317/",
+    "https://3dprintingindustry.com/news/new-resin-and-curing-system-aimed-at-injection-molding-performance-by-formlabs-237862/",
+    "https://3dprintingindustry.com/news/cubic-ink-new-high-performance-3d-printing-materials-showcased-at-formnext-2025-246823/",
+    "https://3dprintingindustry.com/news/tethon-3d-patents-its-genesis-line-of-3d-printing-resins-196622/",
+    "https://3dprintingindustry.com/news/zortrax-enters-vat-polmerization-market-with-inkspire-3d-printer-139760/",
+    "https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/",
+    "https://3dprintingindustry.com/news/liqcreate-launches-ceramic-reinforced-composite-x-resin-for-3d-printing-heavy-duty-parts-183869/",
+    "https://3dprintingindustry.com/news/evonik-launches-two-new-high-performance-3d-printing-resins-189864/",
+    "https://3dprintingindustry.com/news/liqcreate-launches-new-affordable-esd-resin-to-expand-its-engineering-3d-printing-portfolio-221436/",
+    "https://3dprintingindustry.com/news/liqcreate-launches-new-elastic-ultra-soft-elastomer-x-3d-printing-resin-216330"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:voxelmatters.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/",
+    "https://www.voxelmatters.com/category/materials/polymer-materials/resins/",
+    "https://www.voxelmatters.com/the-future-of-stereolithography-seen-through-innovations-by-axtra-3d-formlabs-and-3d-systems/",
+    "https://www.voxelmatters.com/tethon-3d-launches-carbon-nanotube-c-lite-esd-resin-for-stereolithography/",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.voxelmatters.com/voxtech3d-to-distribute-nano-xs3dtech-micro-dlp-printers-in-north-america/",
+    "https://www.voxelmatters.com/gianni-zitelli-on-building-axtra-3d-from-the-ground-up/",
+    "https://www.voxelmatters.com/graphy-signs-1-3-million-dental-3d-printing-supply-agreement-with-megagen/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.com/new-photopolymer-resins/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:3dnatives.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://www.3dnatives.com/en/top-10-resin-3d-printers280320174/",
+    "https://www.3dnatives.com/en/different-types-of-resins-3d-printing-281220225/",
+    "https://www.3dnatives.com/en/sla-vs-dlp-3d-printing-080420215/",
+    "https://www.3dnatives.com/3d-materials/en/3d-printers/liquid-crystal-opus/",
+    "https://www.3dnatives.com/en/stereolithography-explained100420174/",
+    "https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1",
+    "https://www.3dnatives.com/en/material-jetting-vs-binder-jetting-300920216/",
+    "https://www.3dnatives.com/en/which-companies-manufacture-3d-printing-resin-in-the-united-states-130820254/",
+    "https://www.3dnatives.com/en/which-companies-manufacturer-resin-3d-printers-in-the-united-states-17122025/",
+    "https://www.3dnatives.com/en/all-you-need-to-know-about-resin-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:3printr.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://www.3printr.com/tag/3d-printing-materials-sla-dlp/",
+    "https://www.3printr.com/tag/photopolymer-based-3d-printing/",
+    "https://www.3printr.com/tag/remove-excess-material-sla-dlp-3d-prints/",
+    "https://www.3printr.com/tag/photopolymer-3d-printing/",
+    "https://www.3printr.com/tag/dlp-printer-software/",
+    "https://www.3printr.com/tag/laser-sintering/",
+    "https://www.3printr.com/tag/concept-laser/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://3druck.com/en/3d-printing-materials-2/amazon-eono-3d-printing-resin-10103864/",
+    "https://3druck.com/en/3d-printing-materials-2/research-project-aims-to-develop-flame-retardant-resin-for-sla-and-dlp-printing-07159038/",
+    "https://3druck.com/en/3d-printing-materials-2/fsm-resin-research-project-develops-flame-retardant-for-sla-and-dlp-printing-51158656/",
+    "https://3druck.com/3d-druckmaterialien/fsm-resine-forschungsprojekt-entwickelt-flammschutz-fuer-sla-und-dlp-druck-51158656/",
+    "https://3druck.com/3d-druckmaterialien/forschungsprojekt-soll-flammgeschuetzte-resine-fuer-sla-und-dlp-druck-entwickeln-07159038/",
+    "https://3druck.com/en/research/sla-recycling-in-space-researchers-develop-circulation-system-for-resin-pressure-in-weightlessness-51156074/",
+    "https://3druck.com/en/research/plant-based-3d-printing-resins-upc-and-iciq-develop-sustainable-photopolymer-solutions-58146762/",
+    "https://3druck.com/en/3d-printing-materials-2/manufacturer-liqcreate-provides-insights-into-the-development-of-resins-for-additive-manufacturing-interview-with-ruben-bosch-15128699/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:3dadept.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://3dadept.com/liqcreate-adds-an-affordable-esd-safe-3d-printing-resin-to-its-portfolio/",
+    "https://3dadept.com/liqcreate-adds-new-engineering-3d-printing-resin-to-its-portfolio/",
+    "https://3dadept.com/evonik-releases-a-new-product-line-of-polymer-resins-for-liquid-based-additive-manufacturing/",
+    "https://3dadept.com/liqcreate-launches-photopolymer-resin-for-3d-printed-dental-applications/",
+    "https://3dadept.com/tethon3d-recently-introduced-a-new-resin-material-for-3d-printing/",
+    "https://3dadept.com/evonik-launches-new-photopolymer-for-dlp-3d-printing/",
+    "https://3dadept.com/envisiontec-and-henkel-their-new-partnership-to-drive-3d-printing-of-final-parts-with-photopolymers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:alibaba.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://www.alibaba.com/discover/engineering-resin-sla.html",
+    "https://www.alibaba.com/product-detail/Specialty-Engineering-Photopolymer-Resin-High-Performance_1601955348019.html",
+    "https://jiecheng3d.en.alibaba.com/productgrouplist-965491439/DLP_Resin.html",
+    "https://jamghe.en.alibaba.com/productgrouplist-811054251/Functional_Resins.html",
+    "https://yidimu.en.alibaba.com/",
+    "https://bassen.en.alibaba.com/productgrouplist-801199154/DLP_LCD_Resin.html",
+    "https://antinsky.en.alibaba.com/productgrouplist-918802305/Antinsky.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:all3dp.com engineering photopolymer resin manufacturers SLA DLP LCD brands",
+   "results": [
+    "https://all3dp.com/1/resin-printer-decision-makers-guide/",
+    "https://all3dp.com/2/vat-polymerization-what-are-sla-dlp-and-lcd/",
+    "https://all3dp.com/2/flexible-resin-3d-printing/",
+    "https://all3dp.com/4/strength-showdown-sla-dlp-lcd/",
+    "https://all3dp.com/2/best-tough-resin-abs-like-resin/",
+    "https://all3dp.com/1/best-resin-dlp-sla-3d-printer-kit-stereolithography/",
+    "https://all3dp.com/2/best-resin-3d-printing-service/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "engineering photopolymer resin manufacturers SLA DLP LCD brands brands comparison",
+   "results": [
+    "https://formlabs.com/blog/sla-dlp-msla-lcd-resin-3d-printer-comparison/",
+    "https://73reviews.com/articles/3d-printing-liquid/",
+    "https://en.hprtec.com/3d-printing-services/sla/resin-3d-printing-sla-dlp-lcd-compared.html",
+    "https://3dput.com/best-3d-printer-resin-kits-sla-dlp-printing-2026/",
+    "https://www.3dresyns.com/pages/sla-dlp-and-lcd-3d-printing",
+    "https://www.3dsourced.com/3d-printing-technologies/sla-vs-dlp-3d-printing/",
+    "https://www.3dresyns.com/collections/standard-sla-dlp-lcd-3d-resins-our-standard-photopolymer-3dresyns-for-printing-functional-materials-for-general-purpose-applications"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）",
+   "results": [
+    "https://note.com/cozy_viper2916/n/n728480fa0242",
+    "https://note.com/skhonpo/n/n8e20c3deb065",
+    "https://note.com/323labo/n/n8429694b0e1a",
+    "https://note.com/joyful_pansy1961/n/nd4f0cefa4ed6",
+    "https://note.com/3dprinter/n/n8c850017a308",
+    "https://note.com/mocchan/n/n5a049d58be37",
+    "https://note.com/ririwo/n/n16a4d8ab2934"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2098148605039395312",
+    "https://jf.x.com/images/media-preview/2111775944516198613",
+    "https://x.com/fujiwarachemi/status/1972588503872766339",
+    "https://x.com/homare_resin",
+    "https://x.com/iguazu_3d/status/2112041593494712647",
+    "https://x.com/compon/status/2060899329519632432",
+    "https://x.com/ns32v/status/2105249435672543541"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）",
+   "results": [
+    "https://www.linkedin.com/company/softalk-technologies",
+    "https://jp.linkedin.com/pulse/uv光硬化システムの主要メーカー一覧-petrolattice-research-sfaee",
+    "https://jp.linkedin.com/pulse/光硬化型コンフォーマルコーティングメーカー一覧2026年版-reflectathon-va4ye",
+    "https://jp.linkedin.com/pulse/紫外線led光硬化光源メーカー上位企業2026-gear-up-gallery-kd9wf",
+    "https://jp.linkedin.com/pulse/紫外線硬化型光学接着剤の日本メーカー2026年版-crema-core-6g6ve",
+    "https://jp.linkedin.com/pulse/スーパービューレジン-svrの国内メーカーまとめ-polyscope-market-insights-r94ue",
+    "https://jp.linkedin.com/pulse/2026年から2033年までの期間における光硬化性樹脂市場の規模と143のcagrでの急-7495154363800313856-kvyfe"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）",
+   "results": [
+    "https://www.facebook.com/ResinEngneering/",
+    "https://www.facebook.com/harrysengineering/posts/2528354310602888/",
+    "https://www.facebook.com/BruleInc/posts/formlabs社の最新レジンタフ1500の動画でのご紹介ですhttpswwwyoutubecomwatchvz2pmjwxs4y8/2905407572899956/",
+    "https://www.facebook.com/groups/plamo/posts/4571968766420956/",
+    "https://www.facebook.com/nichimecha/posts/光造形3dプリンタの未硬化レジン洗浄穴内部洗浄で寸法精度を安定化課題-インプラント治療に用いる顎模型を製作している歯科技工所a社様では3dデータを活用しuv硬化/1378744787391229/",
+    "https://www.facebook.com/akira.mizorogi/posts/光パテや光アロンアルファ光系の素材は使いようです特に光パテは光硬化レジンやレジンキットに物凄く食いつきますお試しを/9127184897385215/",
+    "https://www.facebook.com/shoptonerico/posts/-re-stock-再入荷リクエストを多く頂いていたmk2様のjkhd-6spが久しぶりの入荷です次回生産未定となりますのでお早めにどうぞ-mk2-jkfigu/1101539750638278/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "光硬化レジンのメーカー（エンジニアリング・耐熱・タフ） note 社長",
+   "results": [
+    "https://www.lantu3d.cn/ja/news/sla-resin-materials-guide-2026",
+    "https://mono.ipros.com/cg1/レジン/",
+    "https://mono.ipros.com/cg2/UV硬化樹脂/",
+    "https://jp.linkedin.com/pulse/uv光硬化システムの主要メーカー一覧-petrolattice-research-sfaee",
+    "https://www.jhepoxy.com/ja/application/uv-resin-manufacturers",
+    "https://metoree.com/categories/2240/",
+    "https://www.ipros.com/cg1/樹脂/レジン/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "光硬化レジンのメーカー（エンジニアリング・耐熱・タフ） X 投稿",
+   "results": [
+    "https://www.lantu3d.cn/ja/news/sla-resin-materials-guide-2026",
+    "https://i-maker.jp/blog/resin-guide",
+    "https://x.com/homare_resin",
+    "https://mono.ipros.com/cg1/レジン/",
+    "https://metoree.com/categories/9346/",
+    "https://mono.ipros.com/cg2/UV硬化樹脂/",
+    "https://www.ibismaterials.com/jp/search/?kw=光硬化"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "engineering photopolymer resin manufacturers SLA DLP LCD brands site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/key-stereolithographyslaprototype-makers-know-2026-escutcheon-edge-kqhue",
+    "https://www.linkedin.com/pulse/leading-dlp-3d-printing-manufacturers-what-sets-it6ne",
+    "https://pe.linkedin.com/posts/allied-market-research_3dprinting-fdm-sla-activity-7130470568742596608-UBG9",
+    "https://in.linkedin.com/company/wellman-engineering-resins",
+    "https://pt.linkedin.com/posts/voxelmanufatura_sla-dlp-lcd-comparativo-resina-2026-06-12-activity-7471289994096136193-Z76G",
+    "https://cn.linkedin.com/company/liqcreate",
+    "https://cn.linkedin.com/in/xiaomiaojin/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

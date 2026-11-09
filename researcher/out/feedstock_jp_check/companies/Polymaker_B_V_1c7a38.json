@@ -1,0 +1,1356 @@
+{
+ "name": "Polymaker B.V.",
+ "aliases": [
+  "Polymaker",
+  "ポリメーカー"
+ ],
+ "context": "フィラメント・ペレット",
+ "researched_at": "2026-11-09T05:40:47.761002+00:00",
+ "official_url": "https://www.polymaker.com",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "100Summit Partners",
+    "value": "Growth/Expansion Minority",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Zhejiang Wanma Group",
+    "value": "Corporation Minority",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/panchroma/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/material/pla/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/material/abs/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/material/tpu/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/material/pa/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/material/pc/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/material/special/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/material/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Any questions about our products? Find answers in support center. Or contact us anytime through",
+    "url": "https://polymaker.com/about-polymaker/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/about-polymaker/",
+    "pass": 1
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/find-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Email support@polymaker.com",
+    "url": "https://polymaker.com/wp-content/uploads/Polymaker-HT-PLA-Pro-SDS-Japan-JA-2026-06-25-PL-XC-2026-JP-001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Author: Hangzhou C&K Testing Technic Co., Ltd. Website: www.cirs-ck.com Tel: 0571-89900715 Email: test@cirs-group.com",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "We'll email you when this item is back in stock.",
+    "url": "https://skhonpo.com/collections/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email and we'll let you know when this item is back in stock.",
+    "url": "https://skhonpo.com/collections/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "Your email is required",
+    "url": "https://skhonpo.com/collections/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "Please fill in the form below or if you have other questions are not included in the form, please contact us through",
+    "url": "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "pass": 3
+   },
+   {
+    "quote": ", after which the customer management team will validate the application within one to two business days. Once approved, customers receive a confirmation email and can begin placing orders. The wholesale channel is limited to businesses within the European Union because of order and shipping processing complexities, while customers outside the EU are directed to contact the",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/panchroma/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/material/pla/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/material/abs/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/material/tpu/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/material/pa/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/material/pc/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/material/special/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/material/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Polymaker developed a glass filled ASA pellet which the Shanghai Construction Group used to print the world largest 3D printed bridge, creating the heaviest single 3D printed object.",
+    "url": "https://polymaker.com/about-polymaker/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/find-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "Author: Hangzhou C&K Testing Technic Co., Ltd. Website: www.cirs-ck.com Tel: 0571-89900715 Email: test@cirs-group.com",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you for being a part of our journey. Stay tuned for more updates and thrilling developments from Polymaker!",
+    "url": "https://www.youtube.com/watch?v=9qXwpStA1wk",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": ". Material categories listed in the announcement include engineering-grade, eco-conscious, and specialty filaments, with applications spanning prototyping, manufacturing, education, and creative design. Those details define what is now available through the expanded consumer storefront.",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker has 110 total employees.",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Polymaker’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Polymaker is",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   },
+   {
+    "quote": ", Changshu Guofa Venture Capital, and Zhejiang Wanma Group are 5 of 11 investors who have invested in Polymaker.",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Find a Reseller - Polymaker",
+    "url": "https://polymaker.com/find-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "0 resellers",
+    "url": "https://polymaker.com/find-a-reseller/",
+    "pass": 1
+   },
+   {
+    "quote": "This reseller stocks all materials",
+    "url": "https://polymaker.com/find-a-reseller/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "2026/06/25 (印刷日) | JA (日本語)",
+    "url": "https://polymaker.com/wp-content/uploads/Polymaker-HT-PLA-Pro-SDS-Japan-JA-2026-06-25-PL-XC-2026-JP-001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 1/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 2/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 3/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日本 - ばく露限界値 (日本産業衛生学会)",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 4/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 5/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 6/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 7/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 8/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025/01/15 (印刷日) JA (日本語) 9/9",
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Polymaker社製3Dプリンターフィラメント日本総代理店",
+    "url": "https://www.poly-maker.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事ではPolymakerの主なフィラメントを、日本での購入先や旧名称も含めて整理し、",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "【続々】PolymakerのPanchroma 半透明PLA&マーブルPLAを使ってみた！コスプレグッズ専用の削りやすい＆塗装しやすいCosPLAも日本初上陸！ #3Dプリンター",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新】PolymakerのPanchroma・Fiberonフィラメントを使ってみた！日本初上陸の美観&機能性に優れた材料が続々登場！ #3Dプリンター",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab A1 mini 3Dプリンター 高速高精度 自動調整 初心者向け 日本語UI対応 造形サイズ：180×180×180mm³ | 全自動キャリブレーション＆流量補正で誰でも簡単に造形 自動レベリング 組立簡単 メンテナンス簡単 静音設計（＜48dB）で家庭でも快適",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Bambu Lab A1 3Dプリンター 多色造形対応 高速高精度 自動調整 初心者向け 日本語UI対応 造形サイズ：256×256×256mm³ | 全自動キャリブレーション＆流量補正で誰でも簡単に造形 自動レベリング 組立簡単 メンテナンス簡単 静音設計（＜48dB）で家庭でも快適",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月25日、Ultimaker社の3Dプリンタ―の日本総代理店である",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/ultimaker-s7-230208/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では近接・同価格帯で3Dプリンタ―装置を展開する、",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/ultimaker-s7-230208/",
+    "pass": 3
+   },
+   {
+    "quote": "まだ日本未発売の材料なども存在するが、日本でも多くの材料が利用できることは間違いがない",
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/ultimaker-s7-230208/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker社は中国上海に本社を置き、米国とオランダにも事務所を設けているほか、各国に販売代理店を配置しています",
+    "url": "https://www.polymaker.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker社製3Dプリンターフィラメント日本総代理店は、株式会社サンステラです",
+    "url": "https://www.polymaker.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の伝統色を忠実に再現し、",
+    "url": "https://skhonpo.com/collections/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "【最新】PolymakerのPanchroma・Fiberonフィラメントを使ってみた！日本初上陸の美観&機能性に優れた材料が続々登場！ #3Dプリンター - YouTube",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "【最新】PolymakerのPanchroma・Fiberonフィラメントを使ってみた！日本初上陸の美観&機能性に優れた材料が続々登場！ #3Dプリンター",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "【最新】PolymakerのPanchroma・Fiberonフィラメントを使ってみた！日本初上陸の美観&機能性に優れた材料が続々登場！",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンステラ公式 【3Dプリンター】",
+    "url": "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "新製品紹介｜株式会社サンステラ公式 【3Dプリンター】｜note",
+    "url": "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "pass": 3
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "※「価格」等はAmazonの情報を参照しています",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "高速プリント向けのRapidシリーズやカーボンファイバー入りの素材の特徴と、公式ストア・Amazonの価格比較に加え、RFIDとCANVASへの対応、保管と乾燥まで選び方を紹介します",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker Webshop Now Ships Direct to Europe",
+    "url": "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "pass": 3
+   },
+   {
+    "quote": "https://shopa.jp/F49FZ4M2MAKX/?url=/p...",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "※Amazonアソシエイトとして上記リンクを使用しています",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "https://unolaboratory.com/amazon-sale/",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "https://unolaboratory.com/amazon-time...",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "therealsamprentice-shop.fourthwall.com/products/therealsamprentice-t-shirt-2022?variant=04fc6467-c0a8-4141-b3d3-8c2c6e1a64d6",
+    "url": "https://www.youtube.com/watch?v=9qXwpStA1wk",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker Expands Consumer Webshop to Six European Markets - 3D Printing Industry",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker Expands Consumer Webshop to Six European Markets",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": ", a developer and manufacturer of 3D printing materials, has expanded its direct-to-consumer webshop to six additional European markets: the UK, France, Germany, Poland, Czechia, and Spain. Announced from Utrecht, Netherlands, the move gives customers in those countries direct access to the company’s",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker operates manufacturing facilities in the United States and China and serves customers globally with its 3D printing materials portfolio. In concrete terms, the announcement adds six countries to the consumer webshop while also introducing a separate EU wholesale route for VAT-registered business buyers.",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: Polymaker",
+    "url": "https://www.amazon.co.jp/stores/Polymaker/page/A4D2414E-CFC0-4756-87A4-A5CB8F666574",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonビジネス (法人購買・請求書払い・法人割引)",
+    "url": "https://www.amazon.co.jp/stores/Polymaker/page/A4D2414E-CFC0-4756-87A4-A5CB8F666574",
+    "pass": 3
+   },
+   {
+    "quote": "© 1996-2026, Amazon.com, Inc. またはその関連会社",
+    "url": "https://www.amazon.co.jp/stores/Polymaker/page/A4D2414E-CFC0-4756-87A4-A5CB8F666574",
+    "pass": 3
+   },
+   {
+    "quote": "この記事には Amazonアフィリエイトのリンクが含まれています",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "おかげさまでAmazon広告のギフトが少しですが頂けるようになってきたので、以前から気になっていたフィラメントを購入してみました",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Polymaker - Simplify Creation — Polymaker - Simplify Creation Polymaker https://polymaker.com",
+    "url": "https://polymaker.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker 社製3Dプリンターフィラメント日本総 代理店 — Polymaker 社製3Dプリンターフィラメント日本総 代理店 poly-maker.jp https://www.poly-maker.jp > NEWS",
+    "url": "https://www.poly-maker.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 Polymaker のフィラメント一覧【3Dプリンター】 — 【2026】 Polymaker のフィラメント一覧【3Dプリンター】 Age of 3DP https://unolaboratory.com > 3Dプリント材料",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker 代理店 | RS — Polymaker 代理店 | RS RS Online https://jp.rs-online.com > web > polymaker",
+    "url": "https://jp.rs-online.com/web/b/polymaker/?srsltid=AYCX9vJS0MbqNGiX7wVHT34Ja_UzXlzJZnxtgNU8uIYVdxlElHJFnbeW",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker 社製3Dプリンターフィラメント 日本 総代理店 — Polymaker 社製3Dプリンターフィラメント 日本 総代理店 poly-maker.jp https://www.poly-maker.jp > NEWS",
+    "url": "https://www.poly-maker.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker - 私たちのミッションは最良の3Dプリンター用 ... — Polymaker - 私たちのミッションは最良の3Dプリンター用 ... polymaker.co.jp https://www.polymaker.co.jp",
+    "url": "https://www.polymaker.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker （ポリメーカー）フィラメント一覧 - SK本舗 — Polymaker （ポリメーカー）フィラメント一覧 - SK本舗 SK本舗 https://skhonpo.com > collections > polymaker",
+    "url": "https://skhonpo.com/collections/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker 取り扱いフィラメント情報 - システムクリエイト — Polymaker 取り扱いフィラメント情報 - システムクリエイト systemcreate-inc.co.jp https://systemcreate-inc.co.jp > polymaker_filament",
+    "url": "https://systemcreate-inc.co.jp/products/polymaker_filament",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker 社製3Dプリンター フィラメント 日本総代理店 — Polymaker 社製3Dプリンター フィラメント 日本総代理店 poly-maker.jp https://www.poly-maker.jp > NEWS",
+    "url": "https://www.poly-maker.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 Polymaker の フィラメント 一覧【3Dプリンター】 — 【2026】 Polymaker の フィラメント 一覧【3Dプリンター】 Age of 3DP https://unolaboratory.com > 3Dプリント材料",
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker （ポリメーカー）PolyLite PETG 3Dプリンター用 ... — Polymaker （ポリメーカー）PolyLite PETG 3Dプリンター用 ... 楽天市場 https://item.rakuten.co.jp > auc-ufigure > polylite-petg",
+    "url": "https://item.rakuten.co.jp/auc-ufigure/polylite-petg/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker's New European Distribution Centre Launched! — Polymaker's New European Distribution Centre Launched! Polymaker https://polymaker.com > polymakers-...",
+    "url": "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "pass": 3
+   },
+   {
+    "quote": "[Latest] Trying out Polymaker's Panchroma and Fiberon ... — [Latest] Trying out Polymaker's Panchroma and Fiberon ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker Expands Consumer Webshop to Six European ... — Polymaker Expands Consumer Webshop to Six European ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker Unveils Panchroma & Fiberon : Rapid TCT LA — Polymaker Unveils Panchroma & Fiberon : Rapid TCT LA YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=9qXwpStA1wk",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: ポリメーカー (Polymaker) — Amazon.co.jp: ポリメーカー (Polymaker) Amazon Advertising 商品の露出でお客様の関心と 反応を引き出す Audible（オーディブル） 「聴く」読書 会員なら聴き放題 アマゾン ウェブ サービス（AWS） クラウドコンピューティング サービス Amazonアウトレット 訳あり商品を お手頃価格で販売 Amazonビジネス（法人 ...",
+    "url": "https://www.amazon.co.jp/s?rh=p_89:ポリメーカー(Polymaker)",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: Polymaker - アマゾン — 3Dプリンターフィラメント（Polymaker社製）専門店。ほとんどのFDM方式3Dプリンターで使用可能。新しい印刷性能向上材料を引き続き提供します。",
+    "url": "https://www.amazon.co.jp/stores/Polymaker/page/A4D2414E-CFC0-4756-87A4-A5CB8F666574",
+    "pass": 3
+   },
+   {
+    "quote": "ポリメーカ (Polymaker)3Dプリンタ―用 ... - AmazonAmazon.co.jp: ポリメーカー フィラメントAmazon.co.jp: PolymakerAmazon.co.jp: ポリメーカー (Polymaker) 3Dプリンター用ナイロンフィ... — PolymakerのHT-PLAフィラメントは、150℃までの温度でも反りや変形を起こさずに耐えられるよう設計された、高品質な耐熱性3Dプリント素材です。 HT-PLAは、工業用グレードの耐久性と標準PLAの容易な印刷性・高精度を兼ね備えています。 Polymaker（ポリメーカー）簡単に研磨＆塗装できるPLAフィラメント 1.75mm CosPLA（バージョンB - 優れた耐久性を備えたサンディング性能）、PolyLite 3Dプリンターフィラメント 1.75mm 1kg 3Dプリント用PLAフィラメント コス",
+    "url": "https://www.amazon.co.jp/ポリメーカ-Polymaker-3Dプリンタ―用耐熱性フィラメント-HT-PLA-1-75mm径/dp/B0FWJ9L47C",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: ポリメーカー フィラメント — Polymaker（ポリメーカー）簡単に研磨＆塗装できるPLAフィラメント 1.75mm CosPLA（バージョンB - 優れた耐久性を備えたサンディング性能）、PolyLite 3Dプリンターフィラメント 1.75mm 1kg 3Dプリント用PLAフィラメント コスプレ用の簡単サンディング 4.2 (58)",
+    "url": "https://www.amazon.co.jp/ポリメーカー-フィラメント/s?k=ポリメーカー+フィラメント",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker HT-PLA Polymaker フィラメント 【通販モノタロウ】 — BASF (ビーエーエスエフ) ￥14,278 BASF (ビーエーエスエフ) ￥14,278 Polymaker ￥6,268 Polymaker ￥4,948 Flash Forge ￥4,398 Flash Forge ￥4,398 Flash Forge ￥9,018",
+    "url": "https://www.monotaro.com/g/07997989/",
+    "pass": 3
+   },
+   {
+    "quote": "\"polymaker\" 【通販モノタロウ】 最短即日出荷 — Polymaker社製のポリカーボネート樹脂です。 ポリカーボネートは、最も広く使用されているエンジニアリング・プラスチック樹脂で耐熱性、耐衝撃性に優れています。 ノズル温度を250～270℃に設定可能な、線形1.75mm規格の3Dプリンタで使用可能です。",
+    "url": "https://www.monotaro.com/s/q-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker HT-PLA-GF Polymaker フィラメント 【通販モノタロウ】 — Polymaker HT-PLA-GFは、反りや変形を起こさずに150℃までの高温でも耐えられる耐熱素材です。 アニーリングを行うと高い熱変形温度になり、熱安定性を必要とする用途に最適です。",
+    "url": "https://www.monotaro.com/g/07997990/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker 【通販モノタロウ】 最短即日出荷 — Polymakerのすべての商品 Polymaker Polymakerのページです。 Polymakerは、オフィスサプライなどの商品を提供しています。 現在46件の商品をご用意しており、人気商品や新着商品を豊富な品揃えの中からお選びいただけます。",
+    "url": "https://www.monotaro.com/s/b-20224/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker 2026 Company Profile - PitchBook — Polymaker 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In Polymaker Stock | Buy Pre-IPO Shares | EquityZen — Invest In Polymaker Stock | Buy Pre-IPO Shares | EquityZen EquityZen https://equityzen.com > polymaker",
+    "url": "https://equityzen.com/company/polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about Polymaker — Learn more about Polymaker Polymaker https://polymaker.com > about-polym...",
+    "url": "https://polymaker.com/about-polymaker/",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker - Overview, News & Similar companies - ZoomInfo — Polymaker - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > polyma...",
+    "url": "https://www.zoominfo.com/c/polymaker-llc/369433923",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker Information - RocketReach — Polymaker Information - RocketReach RocketReach https://rocketreach.co > polymaker-pr...",
+    "url": "https://rocketreach.co/polymaker-profile_b5ff95dcf6fd6879",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Polymaker HT-PLA（耐熱PLA）を耐熱テストしてみた Oct 27, 2025 · 2025/10/27にPolymakerから耐熱PLAと謳われたHT-PLAが発売され早速買って試してみました。 発売2日後の2025/10/29にフィラメントが届き、このnoteは購入5日目の2025/11/3時点で書いています（今後使っていく中で評価が変化する可能性もあります）。",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "新製品紹介｜株式会社サンステラ公式 【3Dプリンター】 - note 新製品紹介｜株式会社サンステラ公式 【3Dプリンター】 - note note https://note.com > hashtag > polymaker",
+    "url": "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker HT-PLA 投入｜go_3DP - note Polymaker HT-PLA 投入｜go_3DP - note note https://note.com > レビュー > 商品レビュー",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Polymaker HT-PLA（耐熱PLA）を耐熱テストしてみた｜yagi",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker HT-PLA（耐熱PLA）を耐熱テストしてみた",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "車のダッシュボードに置いたり、太陽望遠鏡に取り付けたりするものを3D印刷していますが、PLAでは熱で変形してしまうのでABSを使っています。でも印刷時の反り、定着剥がれ、積層割れとの戦いになり、苦労しています。",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "2025/10/27にPolymakerから耐熱PLAと謳われたHT-PLAが発売され早速買って試してみました。発売２日後の2025/10/29にフィラメントが届き、このnoteは購入５日目の2025/11/3時点で書いています（今後使っていく中で評価が変化する可能性もあります）。",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "耐熱PLAがPolymakerからついに登場！",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/gUed2EKXMv",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "— サンステラ@3Dプリンター (@sunstella_3d)",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "・ひとことで言うと、HT-PLAは使える。詳しく言うと、",
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サンステラ公式 【3Dプリンター】",
+    "url": "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "サンステラ3Dモール新製品入荷（Creality）【20220524】",
+    "url": "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "新製品紹介｜株式会社サンステラ公式 【3Dプリンター】｜note",
+    "url": "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "pass": 3
+   },
+   {
+    "quote": "Polymaker HT-PLA 投入｜go_3DP",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "この記事には Amazonアフィリエイトのリンクが含まれています",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "おかげさまでAmazon広告のギフトが少しですが頂けるようになってきたので、以前から気になっていたフィラメントを購入してみました。",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "PLAの印刷のしやすさでありながら耐熱温度150℃という、若干疑ってしまうようなスペックのフィラメントです。",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "色も沢山用意されており、本当ならば夢のようなフィラメントだし大きな戦力となりそうです。",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "例の如く（自分で調整できる力量が無いので）まずはメーカープロファイルを探してDLします。",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "二つありますが、上の方がより多くのプロファイルが入っていました。",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   },
+   {
+    "quote": "（下は OrcaSlicer 用 のようです）",
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Polymaker | LinkedIn Polymaker | LinkedIn LinkedIn https://nl.linkedin.com > polymaker-3d",
+    "url": "https://nl.linkedin.com/company/polymaker-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Wildrik Van der Weiden - Managing Director Polymaker B.V. Wildrik Van der Weiden - Managing Director Polymaker B.V. LinkedIn https://nl.linkedin.com > wildrik-van-...",
+    "url": "https://nl.linkedin.com/in/wildrik-van-der-weiden-9972247",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Polymaker (@ Polymaker .3D) - Facebook Polymaker (@ Polymaker .3D) - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/Polymaker.3D/",
+    "pass": 3
+   },
+   {
+    "quote": "Cute 3D printed models with Polymaker filament - Facebook Cute 3D printed models with Polymaker filament - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/3dprintingforbeginnersandpros/posts/837525608177633/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Polymaker (@Polymaker_3D) / X Polymaker (@Polymaker_3D) / X X https://x.com > Polymaker_3D",
+    "url": "https://x.com/Polymaker_3D",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://polymaker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/panchroma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/pla/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/petg/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/abs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/tpu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/pa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/pc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/material/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/about-polymaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/find-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://polymaker.com/wp-content/uploads/Polymaker-HT-PLA-Pro-SDS-Japan-JA-2026-06-25-PL-XC-2026-JP-001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://polymaker.com/wp-content/uploads/lana-downloads/Fiberon%E2%84%A2-PA612-ESD-Japan-SDS-JP_V1.1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://polymaker.com/wp-content/uploads/Map-star.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://polymaker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.rs-online.com/web/b/polymaker/?srsltid=AYCX9vJS0MbqNGiX7wVHT34Ja_UzXlzJZnxtgNU8uIYVdxlElHJFnbeW",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/plastics-3dprinter/ultimaker-s7-230208/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axel.as-1.co.jp/asone/maker/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TOYO%E3%82%A4%E3%83%8E%E3%83%99%E3%83%83%E3%82%AF%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polymaker.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/polymaker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unolaboratory.com/filament-polymaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://item.rakuten.co.jp/auc-ufigure/polylite-petg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://polymaker.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9qXwpStA1wk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/s?rh=p_89:%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC(Polymaker)",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/Polymaker/page/A4D2414E-CFC0-4756-87A4-A5CB8F666574",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%BC%E3%82%AB-Polymaker-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E2%80%95%E7%94%A8%E8%80%90%E7%86%B1%E6%80%A7%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-HT-PLA-1-75mm%E5%BE%84/dp/B0FWJ9L47C",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04535607/?srsltid=AYCX9vJDwzcFVy4dWBD3tUg7HYeRNE1nN82ihN-e_aUZ-kU1Z6He9-nd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/07997989/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-polymaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/07997990/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/172024-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://equityzen.com/company/polymaker/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://polymaker.com/about-polymaker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/polymaker-llc/369433923",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/astro3dp/n/n0eca11bd3925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nl.linkedin.com/company/polymaker-3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/wildrik-van-der-weiden-9972247",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Polymaker.3D/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/3dprintingforbeginnersandpros/posts/837525608177633/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/go_3dp/n/n785a84253d80",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Polymaker_3D",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Polymaker.3D/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polymaker B.V. 代理店",
+   "results": [
+    "https://polymaker.com/",
+    "https://www.poly-maker.jp/",
+    "https://unolaboratory.com/filament-polymaker/",
+    "https://jp.rs-online.com/web/b/polymaker/?srsltid=AYCX9vJS0MbqNGiX7wVHT34Ja_UzXlzJZnxtgNU8uIYVdxlElHJFnbeW",
+    "https://www.crosslinkres.com/business-3dprinting/",
+    "https://shop.polymaker.com/pages/impressum?srsltid=AYCX9vJ-bTEcjZj0GHFXtojploVa1iHxrnvqh-HPz55OHq56VRMMy_w7",
+    "https://www.poly-maker.jp/contact2",
+    "https://buyandsellambergris.com/dp/42d4f58060004",
+    "https://systemcreate-inc.co.jp/products/polymaker_filament",
+    "https://www.poly-maker.jp/polymaker"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polymaker B.V. 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/ultimaker-s7-230208/",
+    "https://axel.as-1.co.jp/asone/maker/",
+    "https://ja.wikipedia.org/wiki/TOYOイノベックス",
+    "https://www.msh-systems.com/partners/",
+    "https://www.toyo-invx.com/company/location/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.toyo-invx.com/company/outline/",
+    "https://www.trade.gov/buyusa-japan-find-us-products-and-services",
+    "https://www.rosemarydoll.jp/about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Polymaker B.V. 日本 販売",
+   "results": [
+    "https://www.poly-maker.jp/",
+    "https://www.polymaker.co.jp/",
+    "https://skhonpo.com/collections/polymaker",
+    "https://unolaboratory.com/filament-polymaker/",
+    "https://systemcreate-inc.co.jp/products/polymaker_filament",
+    "https://www.poly-maker.jp/07",
+    "https://sunstella.co.jp/collections/polymaker?srsltid=AYCX9vJWe0Mlcvru36z5pnI0gtzVouxFRT46A5Zrma3CusGIesf7R7k8",
+    "https://www.raise3d.jp/ofp/pc-pbt",
+    "https://www.yodobashi.com/maker/5000024377/",
+    "https://www.poly-maker.jp/polymaker"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polymaker B.V. フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://polymaker.com/",
+    "https://www.poly-maker.jp/",
+    "https://unolaboratory.com/filament-polymaker/",
+    "https://item.rakuten.co.jp/auc-ufigure/polylite-petg/",
+    "https://i-maker.jp/i/polylite-pla?srsltid=AYCX9vKE9GqJxDZ0UbEoHNPsubT81cIW4F0XJyc6RnRGoHFUckWlZRMM",
+    "https://www.monotaro.com/s/attr_f5139-PLA%E6%A8%B9%E8%84%82/q-polymaker/?srsltid=AYCX9vJ-XCPkLIQLd_sHRIm3ohpxdTLP0kaVa_f79sMxMPCRrMnW4KNs",
+    "https://www.raise3d.jp/ofp/polysmooth",
+    "https://skhonpo.com/collections/polymaker",
+    "https://www.youtube.com/watch?v=_f_rrADe_HE",
+    "https://phrozen3d.com/ja-jp/blogs/guides/resin-vs-filament-3d-printing"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polymaker B.V. Japan distributor",
+   "results": [
+    "https://polymaker.com/",
+    "https://www.poly-maker.jp/",
+    "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "https://www.youtube.com/watch?v=r6y3GWSg3Cc",
+    "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "https://shop.polymaker.com/pages/contact-reseller?srsltid=AYCX9vLCCmk7IZsmUxPCQmANeb-c-BFYbJRPFAKHz7w6qiEguPfD4kFB",
+    "https://prtimes.jp/main/html/rd/p/000000106.000083219.html",
+    "https://www.poly-maker.jp/24-7",
+    "https://jp.rs-online.com/web/b/polymaker/?srsltid=AYCX9vI5c3UIKFLeV4nd0mHrilQgq4c5fB0hDltcJAWA9XTuQ_OS1qxz",
+    "https://polymaker.com/find-a-reseller/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polymaker B.V. distributor Japan OR Japanese partner",
+   "results": [
+    "https://polymaker.com/",
+    "https://www.youtube.com/watch?v=9qXwpStA1wk",
+    "https://polymaker.com/polymakers-new-european-distribution-centre-launched/",
+    "https://3dprintingindustry.com/news/polymaker-expands-consumer-webshop-to-six-european-markets-250231/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://sp3d.in/polymaker-goes-direct-in-europe-3dprint-com/",
+    "https://www.poly-maker.jp/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://polymaker.com/about-polymaker/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Polymaker B.V.",
+   "results": [
+    "https://www.amazon.co.jp/s?rh=p_89:ポリメーカー(Polymaker)",
+    "https://www.amazon.co.jp/stores/Polymaker/page/A4D2414E-CFC0-4756-87A4-A5CB8F666574",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://www.amazon.co.jp/ポリメーカ-Polymaker-3Dプリンタ―用耐熱性フィラメント-HT-PLA-1-75mm径/dp/B0FWJ9L47C",
+    "https://www.amazon.co.jp/ポリメーカー-フィラメント/s?k=ポリメーカー+フィラメント",
+    "https://www.amazon.co.jp/s?rh=p_89:Polymaker",
+    "https://www.amazon.co.jp/ポリメーカー-Polymaker-3Dプリンター用ナイロンフィラメント-PolyMide-CoPA/dp/B09KKZ23VP"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Polymaker B.V.",
+   "results": [
+    "https://www.monotaro.com/g/04535607/?srsltid=AYCX9vJDwzcFVy4dWBD3tUg7HYeRNE1nN82ihN-e_aUZ-kU1Z6He9-nd",
+    "https://www.monotaro.com/g/07997989/",
+    "https://www.monotaro.com/s/q-polymaker/",
+    "https://www.monotaro.com/g/07997990/",
+    "https://www.monotaro.com/s/b-20224/",
+    "https://www.monotaro.com/g/06962697/",
+    "https://www.monotaro.com/g/05914662/",
+    "https://www.monotaro.com/g/05942545/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Polymaker B.V. employees revenue parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/172024-21",
+    "https://equityzen.com/company/polymaker/",
+    "https://polymaker.com/about-polymaker/",
+    "https://www.zoominfo.com/c/polymaker-llc/369433923",
+    "https://rocketreach.co/polymaker-profile_b5ff95dcf6fd6879",
+    "https://www.linkedin.com/company/polymaker-3d",
+    "https://www.youtube.com/watch?v=hGb1CItTbcQ",
+    "https://www.voxelmatters.com/these-are-the-top-10-polymer-am-companies-by-revenue-in-2024/",
+    "https://www.youtube.com/watch?v=fuHtLlF62N8&vl=ja",
+    "https://tracxn.com/d/companies/polymaker/__STvnyyXrNRmNJOwv7gZ5EhrnWEh-V94QKLGa5D6WsyU"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Polymaker B.V.",
+   "results": [
+    "https://note.com/rengehatsumetaku/n/n5ba2941c802c",
+    "https://note.com/astro3dp/n/n0eca11bd3925",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/tag/秋冬ファッション",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Polymaker B.V.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Polymaker B.V.",
+   "results": [
+    "https://nl.linkedin.com/company/polymaker-3d",
+    "https://nl.linkedin.com/in/wildrik-van-der-weiden-9972247",
+    "https://nl.linkedin.com/in/deborah-c-03bba576",
+    "https://www.linkedin.com/pulse/10-key-players-polylactic-acid-3d-printing-zest-zeniths-utjze",
+    "https://nl.linkedin.com/in/nelly-peek-2060b682",
+    "https://nl.linkedin.com/in/justin-church-37814b12b/en",
+    "https://www.linkedin.com/pulse/asa-filament-3d-printing-material-market-size-global-industry-yp3fe",
+    "https://be.linkedin.com/in/dries-housen-88945016",
+    "https://nl.linkedin.com/in/joost-van-rooijen-4510046",
+    "https://www.linkedin.com/company/polymaker-3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Polymaker B.V.",
+   "results": [
+    "https://www.facebook.com/Polymaker.3D/",
+    "https://www.facebook.com/Roccoforgains3D/videos/-vinicius-rocco-15-off-polymaker-filament%EF%B8%8F-code-rocco10-httpsshoppolymakercomroc/2508494389677107/",
+    "https://www.facebook.com/Roccoforgains3D/posts/-vinicius-rocco-15-off-polymaker-filament%EF%B8%8F-code-rocco10-7-brutal-lessons-i-learn/122175662786725640/",
+    "https://www.facebook.com/groups/3dprintingforbeginnersandpros/posts/837525608177633/",
+    "https://www.facebook.com/groups/polymaker3d/posts/1651441039599507/",
+    "https://www.facebook.com/groups/482533505156388/posts/28950516981264660/",
+    "https://www.facebook.com/hafugo/posts/a-3d-printed-jet-that-you-steer-with-a-joystick/1687448490059089/",
+    "https://www.facebook.com/MasangaHospital/posts/3d-printing-of-lower-extremity-prostheses-in-sierra-leone-students-of-the-hogesc/3098911133478695/",
+    "https://www.facebook.com/notbrokenltd/posts/out-with-the-old-and-with-the-new-on-the-left-is-a-pla-tray-skinned-with-carbon/678868158960764/",
+    "https://www.facebook.com/p/Polymaker-Figurines-61576560520180/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polymaker B.V. note 社長",
+   "results": [
+    "https://wiki.polymaker.com/",
+    "https://note.com/sunstella_3d/m/m43cd1f038e7d/hashtag/polymaker",
+    "https://www.poly-maker.jp/",
+    "https://note.com/go_3dp/n/n785a84253d80",
+    "https://www.instagram.com/p/Ddyan3TCc1c/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.reddit.com/r/3Dprinting/comments/1806prt/is_polymaker_filament_good/?tl=ja",
+    "https://note.com/lorelei_mrst/n/n51e09be771dd",
+    "https://polymaker.com/about-polymaker/",
+    "https://www.cbinsights.com/company/polymaker/people"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polymaker B.V. X 投稿",
+   "results": [
+    "https://polymaker.com/",
+    "https://x.com/Polymaker_3D",
+    "https://www.youtube.com/watch?v=ZvaTjtopRmg",
+    "https://www.facebook.com/Polymaker.3D/",
+    "https://www.youtube.com/c/Polymaker",
+    "https://www.youtube.com/watch?v=D-oNhWKWBnw",
+    "https://www.instagram.com/polymaker_3d/?hl=ja",
+    "https://3dprintingindustry.com/tags/polymaker/",
+    "https://polymaker.com/polymaker_store/polymaker-b-v/",
+    "https://x.com/PolymakerJapan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部45頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部45頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部45頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部45頁・検索15回）"
+ }
+}

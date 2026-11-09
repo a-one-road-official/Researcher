@@ -1,0 +1,798 @@
+{
+ "name": "金属・セラミック充填フィラメントのメーカー",
+ "en": "metal filled ceramic filled sinterable filament manufacturers",
+ "aliases": [
+  "Metallfilament Hersteller",
+  "filament céramique fabricant",
+  "金属线材 厂家"
+ ],
+ "context": "フィラメント・充填",
+ "kind": "market",
+ "researched_at": "2026-11-09T05:39:41.438356+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": "Printer manufacturers",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "AMAREA Technology is a system developer and manufacturer of additive manufacturing machines for industrial applications that can process high-performance materials such as",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "As a young company, we not only bring a breath of fresh air to the market, but also see ourselves as a technology-driven innovation partner – far beyond the role of a traditional hardware supplier. Our goal is to take additive manufacturing to the next level with multi-material technologies. To achieve this, we offer a holistic system consisting of",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "Users who particularly benefit from our MMJ technology are primarily research and development departments, manufacturers in the field of electronics and sensor technology, the aerospace industry, the",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "Every Wednesday, we bring you the best articles from the past week, a must-watch video highlight, and a heads-up on upcoming events you won't want to miss.",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": "3DN: What are the challenges?",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "Like every innovative key technology, multi-material jetting also faces specific challenges:",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "the interaction of different high-performance materials in a single manufacturing process requires in-depth material science expertise. Each material and material combination has its own requirements in terms of rheology, sintering behavior and others. We are aware of this challenge and have extensive in-house expertise in materials science.",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "Standardization & scalability:",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive multi-material processes are still uncharted territory in many industries and research institutions. Accordingly, established standards, test methods and interfaces for integration into existing processes are sometimes lacking. This is where we provide our customers with advice.",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   },
+   {
+    "quote": "The AMAREA Technology team at Formnext.",
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://filament2print.com/en/237-sinterable",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/prusa3d/comments/12683cy/anyone_know_any_metal_filaments_i_can_print_with/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigmafilament.com/metal-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vI9b0apKw--RjkCMHun779gyONyFlh_4gCRNraXiNgbkqrpQlNT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vI49LRz49E9s_V0SpG6uvud5fYHtJVPa7cMmLKXmuqvBEeyTx5n",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/resources/3d-printing/types-of-3d-printer-filaments/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dbite.com/metal-3d-printing-filament-explained-composite-sinterable/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dmag.com/3d-wikipedia/metal-infused-filament-bronze-pla-metal-3d-printing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vKZnEWA-IIRYbPSXOGTUdZTbQddovWWvd4M_-ieGNTsb2nTrmmE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elecrow.com/blog/the-best-3d-printer-metal-filaments-in-2023.html?srsltid=AYCX9vJkorLH62IDBsFdTtAp0N_d2mlPhxG4hgqh70qDUQTRKejkHN6Y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vLAvMQwGvSTtOaviaN56tDUgd_SJgRyunvxsEBlBlZYiEPkeGwk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/best-sinterable-metal-3d-printing-filament-options/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.elecrow.com/blog/the-best-3d-printer-metal-filaments-in-2023.html?srsltid=AYCX9vJkE08Uzyh3anrLtiI81VAMAN1Vq9ZGWJGnqidsALhycsD3lyCm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vL3Fjys2A6AFAMWJt9HI0zrOzKjvhTvWn2EPWUW2A2K7M56K1pS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facfox.com/docs/kb/3d-printer-metal-filament-best-brands-of-2021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us-wholesale.polymaker.com/?srsltid=AYCX9vIyP6SRkMzOIxps4ogZkFIl7QOld6FAX8qEHYlgPYaUf2XZw4Vf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vLYEMHKVsGb__LTNE8roGO2jPGOhOUZyQxsnwGF87OHWYH63ZXE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vJgVjrFEcsbNzUDJ1YCcqHRCdHa9f3hnFXyhSTZKz1P_0YT6q-n",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zetamix.fr/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/products/zirconium-silicate-zircopax-ceramic-filamet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vIplxDyUnn9_MGYN2yP5MDP61ZXmhbM_DnStAtOtj-Z-MK4O-FN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/video-projecttube-90-percent-metal-filament-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proto-pasta.com/collections/metal-filled?srsltid=AYCX9vKgqCzAl5xZx1NxGFjzVXLFdT-N77Qc-9BTRhDWuxeHlVRdUc6U",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigmafilament.com/metal-3d-printer-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/collections/metal-filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://filament2print.com/en/341-sinterable",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vIP_kMufySUihr0yJwYgnyhqydqNc3lL2GKk_qo84hLxwKDDSlR",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.metal-am.com/category/company/nanoe/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/nanoe-launches-zetasinter-4l-sintering-furnace/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/nanoe-and-kimya-partner-to-bring-metal-and-ceramic-filaments-for-am-to-north-american-market/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/wzr-ceramic-solutions-installs-sinter-furnace-for-metal-am/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/xerion-launches-ultra-compact-fusion-factory-additive-manufacturing-system/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/emery-oleochemicals-and-3dgence-partner-to-provide-sinter-based-material-extrusion-process/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/metal-filled-filament-will-let-you-produce-full-metal-3d-printed-objects-46401",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/virtual-foundrys-alternative-costly-metal-systems-open-safe-priced-compete-131159/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/nanovia-launches-two-new-metal-and-ceramic-filaments-for-fdm-3d-printing-191456/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/the-virtual-foundry-filament-for-3d-printing-metal-on-an-fdm-system-140705",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/3d-print-metal-on-a-sample-scale-with-the-virtual-foundrys-filamet-evaluation-kit-215443/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/3d-printed-metal-parts-from-a-microwave-virtual-foundry-unveils-new-method-216199/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-complete-guide-to-binder-based-metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nanoe-launches-high-permittivity-zetamix-tio%E2%82%82-ceramic-filament-for-rf-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nanoe-launches-high-permittivity-zetamix-tio%E2%82%82-ceramic-filament-for-rf-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nanoe-is-launching-a-new-zetasinter-4l-metal-sintering-furnace-in-partnership-with-cerinnov-group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/siceram-spectrum-ceramic-filaments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/filament-manufacturers-in-the-united-states-090720254/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/stratasys-takes-the-leap-into-metal-3d-printing-17112025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/why-are-manufacturers-betting-on-ceramic-fff-3d-printing-100120224/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2025/07/USA_Filament_Manufacturers_3Dnatives.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/nanoe-democratizing-ceramic-and-metal-desktop-am-170320214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://filament2print.com/en/237-sinterable",
+    "https://thevirtualfoundry.com/",
+    "https://www.reddit.com/r/prusa3d/comments/12683cy/anyone_know_any_metal_filaments_i_can_print_with/",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://sigmafilament.com/metal-filament/",
+    "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vI9b0apKw--RjkCMHun779gyONyFlh_4gCRNraXiNgbkqrpQlNT",
+    "https://proto-pasta.com/collections/metal-filled?srsltid=AYCX9vJjGjgxVGxFLOagAnuO4u2YNwkHhOmX8Zy4iNDJHbJNuRZEJh_6",
+    "https://zetamix.fr/en/",
+    "https://www.matterhackers.com/store/l/the-virtual-foundry-filamet-titanium-64-5-025kg/sk/MMSP6FMS?srsltid=AYCX9vKxjLVKvYHs1ATyA3jsuchvBT2VgAMLwbAKK9DvLYfjyqdQqbT_",
+    "https://filament2print.com/en/341-sinterable"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "metal filled ceramic filled sinterable filament manufacturers list",
+   "results": [
+    "https://filament2print.com/en/237-sinterable",
+    "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vI49LRz49E9s_V0SpG6uvud5fYHtJVPa7cMmLKXmuqvBEeyTx5n",
+    "https://www.xometry.com/resources/3d-printing/types-of-3d-printer-filaments/",
+    "https://www.reddit.com/r/prusa3d/comments/12683cy/anyone_know_any_metal_filaments_i_can_print_with/",
+    "https://3dbite.com/metal-3d-printing-filament-explained-composite-sinterable/",
+    "https://www.3dmag.com/3d-wikipedia/metal-infused-filament-bronze-pla-metal-3d-printing-guide/",
+    "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vKZnEWA-IIRYbPSXOGTUdZTbQddovWWvd4M_-ieGNTsb2nTrmmE",
+    "https://www.elecrow.com/blog/the-best-3d-printer-metal-filaments-in-2023.html?srsltid=AYCX9vJkorLH62IDBsFdTtAp0N_d2mlPhxG4hgqh70qDUQTRKejkHN6Y",
+    "https://www.matterhackers.com/store/c/metallic-3d-printing-filament?srsltid=AYCX9vIHxR_kjEeiazIxBWuxAE7bHDlJ6K9-xyZHpRtqDj12NJj51yCi",
+    "https://sigmafilament.com/metal-filament/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "top metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vLAvMQwGvSTtOaviaN56tDUgd_SJgRyunvxsEBlBlZYiEPkeGwk",
+    "https://filament2print.com/en/237-sinterable",
+    "https://www.reddit.com/r/prusa3d/comments/12683cy/anyone_know_any_metal_filaments_i_can_print_with/",
+    "https://sigmafilament.com/metal-filament/",
+    "https://www.facebook.com/fb-answers/best-sinterable-metal-3d-printing-filament-options/",
+    "https://www.elecrow.com/blog/the-best-3d-printer-metal-filaments-in-2023.html?srsltid=AYCX9vJkE08Uzyh3anrLtiI81VAMAN1Vq9ZGWJGnqidsALhycsD3lyCm",
+    "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vL3Fjys2A6AFAMWJt9HI0zrOzKjvhTvWn2EPWUW2A2K7M56K1pS",
+    "https://www.3dmag.com/3d-wikipedia/metal-infused-filament-bronze-pla-metal-3d-printing-guide/",
+    "https://facfox.com/docs/kb/3d-printer-metal-filament-best-brands-of-2021"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal filled ceramic filled sinterable filament manufacturers distributor reseller program",
+   "results": [
+    "https://thevirtualfoundry.com/",
+    "https://filament2print.com/en/237-sinterable",
+    "https://sigmafilament.com/metal-filament/",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://us-wholesale.polymaker.com/?srsltid=AYCX9vIyP6SRkMzOIxps4ogZkFIl7QOld6FAX8qEHYlgPYaUf2XZw4Vf",
+    "https://shop.thevirtualfoundry.com/?srsltid=AYCX9vLYEMHKVsGb__LTNE8roGO2jPGOhOUZyQxsnwGF87OHWYH63ZXE",
+    "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vJgVjrFEcsbNzUDJ1YCcqHRCdHa9f3hnFXyhSTZKz1P_0YT6q-n",
+    "https://www.youtube.com/watch?v=uuf10ymlbc4",
+    "https://zetamix.fr/en/",
+    "https://shop.thevirtualfoundry.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "metal filled ceramic filled sinterable filament manufacturers exhibitors",
+   "results": [
+    "https://thevirtualfoundry.com/",
+    "https://filament2print.com/en/237-sinterable",
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://www.reddit.com/r/prusa3d/comments/12683cy/anyone_know_any_metal_filaments_i_can_print_with/",
+    "https://3dbite.com/metal-3d-printing-filament-explained-composite-sinterable/",
+    "https://zetamix.fr/en/",
+    "https://additiveplus.com/product-category/materials/filaments/ceramic-filaments/?srsltid=AYCX9vIplxDyUnn9_MGYN2yP5MDP61ZXmhbM_DnStAtOtj-Z-MK4O-FN",
+    "https://thevirtualfoundry.com/video-projecttube-90-percent-metal-filament-review/",
+    "https://proto-pasta.com/collections/metal-filled?srsltid=AYCX9vKgqCzAl5xZx1NxGFjzVXLFdT-N77Qc-9BTRhDWuxeHlVRdUc6U",
+    "https://sigmafilament.com/metal-filament/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属・セラミック充填フィラメントのメーカー",
+   "results": [
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vIP_kMufySUihr0yJwYgnyhqydqNc3lL2GKk_qo84hLxwKDDSlR",
+    "https://www.ipros.com/cg3/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.raise3d.jp/case/25",
+    "https://mono.ipros.com/cg1/フィラメント/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:metal-am.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://www.metal-am.com/category/company/nanoe/",
+    "https://www.metal-am.com/nanoe-launches-zetasinter-4l-sintering-furnace/",
+    "https://www.metal-am.com/nanoe-and-kimya-partner-to-bring-metal-and-ceramic-filaments-for-am-to-north-american-market/",
+    "https://www.metal-am.com/wzr-ceramic-solutions-installs-sinter-furnace-for-metal-am/",
+    "https://www.metal-am.com/xerion-launches-ultra-compact-fusion-factory-additive-manufacturing-system/",
+    "https://www.metal-am.com/emery-oleochemicals-and-3dgence-partner-to-provide-sinter-based-material-extrusion-process/",
+    "https://www.metal-am.com/the-virtual-foundry-names-sapphire3d-its-first-certified-sintering-partner/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dprintingindustry.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://3dprintingindustry.com/news/metal-filled-filament-will-let-you-produce-full-metal-3d-printed-objects-46401",
+    "https://www.3dprintingindustry.com/news/virtual-foundrys-alternative-costly-metal-systems-open-safe-priced-compete-131159/",
+    "https://3dprintingindustry.com/news/nanovia-launches-two-new-metal-and-ceramic-filaments-for-fdm-3d-printing-191456/",
+    "https://3dprintingindustry.com/news/the-virtual-foundry-filament-for-3d-printing-metal-on-an-fdm-system-140705",
+    "https://3dprintingindustry.com/news/3d-print-metal-on-a-sample-scale-with-the-virtual-foundrys-filamet-evaluation-kit-215443/",
+    "https://www.3dprintingindustry.com/news/3d-printed-metal-parts-from-a-microwave-virtual-foundry-unveils-new-method-216199/",
+    "https://3dprintingindustry.com/news/new-high-performance-fdm-filaments-at-formnext-2024-by-xenia-materials-234053/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:voxelmatters.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://www.voxelmatters.com/the-complete-guide-to-binder-based-metal-3d-printing/",
+    "https://www.voxelmatters.com/nanoe-launches-high-permittivity-zetamix-tio%E2%82%82-ceramic-filament-for-rf-applications/",
+    "https://www.voxelmatters.com/nanoe-launches-high-permittivity-zetamix-tio₂-ceramic-filament-for-rf-applications/",
+    "https://www.voxelmatters.com/nanoe-is-launching-a-new-zetasinter-4l-metal-sintering-furnace-in-partnership-with-cerinnov-group/",
+    "https://www.voxelmatters.com/siceram-spectrum-ceramic-filaments/",
+    "https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026/",
+    "https://www.voxelmatters.com/green-polymer-additives-binder-3d-printing-of-metals-and-ceramics/",
+    "https://www.voxelmatters.com/nanoe-turns-to-kimya-to-bring-zetamix-to-north-america/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:3dnatives.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/",
+    "https://www.3dnatives.com/en/filament-manufacturers-in-the-united-states-090720254/",
+    "https://www.3dnatives.com/en/stratasys-takes-the-leap-into-metal-3d-printing-17112025/",
+    "https://www.3dnatives.com/en/why-are-manufacturers-betting-on-ceramic-fff-3d-printing-100120224/",
+    "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2025/07/USA_Filament_Manufacturers_3Dnatives.pdf",
+    "https://www.3dnatives.com/en/nanoe-democratizing-ceramic-and-metal-desktop-am-170320214/",
+    "https://www.3dnatives.com/en/xjet-process-for-ceramic-and-metal-3d-printing-101020224/",
+    "https://www.3dnatives.com/en/startup3d-synteris-optimizes-3d-printing-technical-ceramics-081020244/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:3printr.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://www.3printr.com/tag/metal-filament-fdm/",
+    "https://www.3printr.com/tag/ceramic-filament-fdm/",
+    "https://www.3printr.com/tag/metal-filaments-manufacturer/",
+    "https://www.3printr.com/tag/filamet/",
+    "https://www.3printr.com/tag/ceramic-metal-3d-printer/",
+    "https://www.3printr.com/tag/metal-sintering/",
+    "https://www.3printr.com/tag/metal-powder-works/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://3druck.com/en/3d-printing-materials-2/interview-with-guenther-lange-from-the-tu-ilmenau-metal-filled-filaments-in-3d-printing-opportunities-and-technical-hurdles-17155339/",
+    "https://3druck.com/en/3d-printing-materials-2/3d-printable-titanium-dioxide-nanoe-launches-ceramic-filament-for-high-frequency-technology-21145592/",
+    "https://3druck.com/en/directory/materials/",
+    "https://3druck.com/3d-druckmaterialien/the-virtual-foundry-filament-macht-bambu-lab-3d-drucker-zu-metall-3d-drucker-34142748/",
+    "https://3druck.com/en/3d-printing-materials-2/zortrax-presents-new-ceramic-filled-resin-its-resin-printer-41117698/",
+    "https://3druck.com/nl/materialen-voor-3d-printen/interview-met-guenther-lange-van-tu-ilmenau-metaalgevulde-filamenten-in-3d-printen-kansen-en-technische-hindernissen-17155339/",
+    "https://3druck.com/3d-druckmaterialien/interview-mit-ian-ramsdell-von-kupros-wie-leitfaehige-3d-druckmaterialien-elektronik-direkt-ins-bauteil-bringen-43158330/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dadept.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://3dadept.com/roboze-adds-a-new-super-polymer-for-3d-printing-metal-replacement-solutions/",
+    "https://3dadept.com/nexa3d-enters-metal-3d-printing-segment-thanks-to-headmade-materials/",
+    "https://3dadept.com/new-ceramic-3d-printing-from-3dceram-combines-fff-machining-and-robocasting/",
+    "https://3dadept.com/zetamix-h13-steel-filament-completes-nanoes-portfolio-of-3d-printing-materials/",
+    "https://3dadept.com/nanoe-and-cerinnov-group-release-a-line-of-porcelain-3d-printing-products-for-art-design-and-craftsmanship/",
+    "https://3dadept.com/how-metshape-uses-indirect-am-process-lmm-for-medical-3d-printing-and-more/",
+    "https://3dadept.com/focus-moving-toward-industrialization-with-3dcerams-ceramic-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:alibaba.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://www.alibaba.com/showroom/metal-filled-filament.html",
+    "https://www.alibaba.com/showroom/metal-filled-resin.html",
+    "https://electronics.alibaba.com/supplier/china-manufacturers-3d-printer-filament",
+    "https://electronics.alibaba.com/supplier/3d-printer-filament-suppliers",
+    "https://suppliers.alibaba.com/",
+    "https://smartbuy.alibaba.com/buyingguides/metal-filament-for-3d-printing",
+    "https://smartbuy.alibaba.com/buyingguides/3d-printer-metal-filament"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:all3dp.com metal filled ceramic filled sinterable filament manufacturers",
+   "results": [
+    "https://all3dp.com/1/3d-printing-metal-with-metal-filament/",
+    "https://all3dp.com/1/3d-metal-3d-printer-metal-3d-printing/",
+    "https://all3dp.com/1/best-3d-printer-filament/",
+    "https://all3dp.com/2/3d-printer-metal-filament-basics-best-brands/",
+    "https://all3dp.com/4/whats-everyone-3d-printing-with-we-surveyed-46-filament-companies-to-find-out/",
+    "https://all3dp.com/1/selective-laser-melting-guide/",
+    "https://all3dp.com/4/new-stainless-steel-filament-simplifies-metal-3d-printing-on-desktop-fdms/",
+    "https://all3dp.com/1/all-you-need-to-know-for-successful-metal-fff-printing/",
+    "https://all3dp.com/1/fdm-metal-3d-printing-makerbot/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal filled ceramic filled sinterable filament manufacturers brands comparison",
+   "results": [
+    "https://filament2print.com/en/237-sinterable",
+    "https://sigmafilament.com/metal-filament/",
+    "https://www.matterhackers.com/3d-printer-filament-compare?srsltid=AYCX9vLkCgvrOrIH2dNqqNbPSFBtF4ha5e04fHOKEyOvATyhaJEHEXtv",
+    "https://www.reddit.com/r/3Dprinting/comments/10e33on/best_metal_look_alikemetal_filaments/",
+    "https://www.xometry.com/resources/3d-printing/types-of-3d-printer-filaments/",
+    "https://www.youtube.com/watch?v=vSwumoSlZTo",
+    "https://www.elecrow.com/blog/the-best-3d-printer-metal-filaments-in-2023.html?srsltid=AYCX9vLb_p68NAHs9FXVgFUW61uMdYxnc5nCbRSzITNOEKQgbyITObLm",
+    "https://www.3dmag.com/3d-wikipedia/metal-infused-filament-bronze-pla-metal-3d-printing-guide/",
+    "https://3dput.com/complete-metal-fill-filament-guide-2026-settings-tips-and-best-brands/",
+    "https://3dput.com/complete-filament-brand-comparison-2026-tolerance-quality-value-ratings/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 金属・セラミック充填フィラメントのメーカー",
+   "results": [
+    "https://note.com/sherlokian/n/n6455ca9273f5",
+    "https://note.com/otoeri/n/ne40c14acb763",
+    "https://note.com/create_gbm/n/n03b1cd8b3b90",
+    "https://note.com/firm_yak4862/n/n26bdc0582fd4",
+    "https://note.com/kicrea_20251026/n/n058660c47208",
+    "https://note.com/takenoko_lab/n/n13a71e8109e5",
+    "https://note.com/central_wolf/n/n3a0a27c977bc",
+    "https://note.com/kaimononavi/n/nf6488154d681"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 金属・セラミック充填フィラメントのメーカー",
+   "results": [
+    "https://x.com/responsejp/status/2071809758513025105",
+    "https://x.com/daiichiceramo/status/1963169073946341651",
+    "https://x.com/daiichiceramo",
+    "https://x.com/kuromame2209/status/2107681987196555481",
+    "https://x.com/wakuwaku_jin_jp/status/2061364852648726639",
+    "https://x.com/APPLE_TREE_CO/status/1894316937662140926",
+    "https://x.com/kentz_jp/status/2076952096981823981"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属・セラミック充填フィラメントのメーカー",
+   "results": [
+    "https://jp.linkedin.com/pulse/pga%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E8%A6%8F%E6%A8%A1%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-98%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E3%82%8B-hqy1e"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:facebook.com 金属・セラミック充填フィラメントのメーカー",
+   "results": [
+    "https://www.facebook.com/UltimakerJP/videos/速報第一セラモ株式会社formnext-forum-tokyoで革新的な金属セラミックフィラメントを発表-粉末射出成形材料のリーディングカンパニーである第一セラ/836574821871932/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/UltimakerJP/videos/3420895054879378/",
+    "https://www.facebook.com/story.php/?story_fbid=1271278237314940&id=100032983286359",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimakerで金属3dプリントが可能にこのたび第一セラモ株式会社dai-ichi-ceramo-co-ltdのcerafila-sus316-ステンレス/1040358058181925/",
+    "https://www.facebook.com/raise3djp/videos/フィラメントを節約するためのノウハウ/343657947493978/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属・セラミック充填フィラメントのメーカー note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "https://www.brule.co.jp/learn/casestudy/metal-filaments-for-desktop-3dprinters.html?srsltid=AYCX9vIFJWO0yguIGSa1eDRS5vJy39pX5K74qSArFD6jeZ6w7x3U50Ie",
+    "https://www.raise3d.jp/case/25",
+    "https://sekapri.com/material/20161001-3947/",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://www.ipros.com/cg1/フィラメント/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属・セラミック充填フィラメントのメーカー X 投稿",
+   "results": [
+    "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "https://3dprinter.co.jp/product/markforged/metal-x/",
+    "https://www.raise3d.jp/case/25",
+    "https://monoist.itmedia.co.jp/mn/articles/1812/27/news078.html",
+    "https://3druck.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/3devo-filament-maker-x10%EF%BC%9A%E8%87%AA%E7%A4%BE%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%94%9F%E7%94%A3%E5%90%91%E3%81%91%E3%81%AE%E6%96%B0%E5%9E%8B%E3%82%A8%E3%82%AF%E3%82%B9/",
+    "https://www.indexbox.io/ja/blog/metal-filled-polymer-filaments-market-forecast-to-2035-driven-by-aerospace-demand-for-lightweight-components/",
+    "https://www.dai-ichi-ceramo.co.jp/topics/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal filled ceramic filled sinterable filament manufacturers site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/the-virtual-foundry",
+    "https://www.linkedin.com/in/hany-eitouni",
+    "https://www.linkedin.com/in/gabriel-rodriguez-2a3b48166",
+    "https://es.linkedin.com/in/juan-escribano",
+    "https://fr.linkedin.com/in/jean-luc-rehspringer-13891a24",
+    "https://www.linkedin.com/pulse/ceramic-filled-thermoplastic-polymer-filament-market-trends-sxkpc",
+    "https://www.linkedin.com/pulse/ceramic-filled-thermoplastic-polymer-filament-market-2fn6f",
+    "https://be.linkedin.com/in/katty-peeters-928b46434",
+    "https://uk.linkedin.com/in/alex-mcnulty-015898249",
+    "https://uk.linkedin.com/in/faris-mckinnon-57938350"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年": "記載なし（読んだ60頁・検索23回）",
+  "資金調達・株主": "記載なし（読んだ60頁・検索23回）",
+  "年商・規模": "記載なし（読んだ60頁・検索23回）",
+  "日本の担い手": "記載なし（読んだ60頁・検索23回）",
+  "代理店募集・売り方": "記載なし（読んだ60頁・検索23回）",
+  "技術支援": "記載なし（読んだ60頁・検索23回）",
+  "価格": "記載なし（読んだ60頁・検索23回）"
+ }
+}

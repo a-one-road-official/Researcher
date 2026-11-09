@@ -1,0 +1,914 @@
+{
+ "name": "FormFutura B.V.",
+ "aliases": [
+  "FormFutura",
+  "フォームフューチュラ"
+ ],
+ "context": "フィラメント",
+ "researched_at": "2026-11-09T05:48:33.104440+00:00",
+ "official_url": "https://www.formfutura.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "直送・ネット販売": [
+   {
+    "quote": "One-stop shop for 3D printing materials",
+    "url": "https://www.formfutura.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Odoo as ERP system and Webshop(s)",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "We use them to support your activities on our website. For example, your session (so you don't have to login again) or your shopping cart.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Shopping Cart | FormFutura",
+    "url": "https://www.formfutura.com/shop/cart",
+    "pass": 1
+   },
+   {
+    "quote": "By offering a complete range of filaments, resins, and adhesives, we now have a one-stop shop that enables customers to get all their materials in one place. We regularly update our product range with the latest innovative products, putting us in the unique position of staying ahead of the curve in a rapidly expanding industry.",
+    "url": "https://www.formfutura.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "No part of this website may be copied, reproduced, duplicated, sold, resold, visited, filed, distributed or otherwise exploited without the expressed written consent of FormFutura.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "These terms and conditions apply to and form an integral part of all offers, quotations, and agreements for the sale and delivery of goods and/or services by the seller.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "The seller is not liable for errors or deviations in pricing, images, drawings, or measurements listed on the website or in quotations or order confirmations.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Any additional or amended agreements made after the initial agreement, including commitments made by the seller’s staff, are only binding if confirmed in writing by the seller.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery to the address specified by the buyer is subject to compliance with shipping restrictions as listed on the seller’s website.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "If a supplier cannot deliver an accepted order, the seller may offer an alternative. If the buyer does not accept the alternative, the seller may terminate the relevant part of the agreement without judicial intervention. The seller is not liable for incomplete or non-delivery of the order.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "If the buyer fails to pay (a part of) their obligations, all outstanding amounts owed to the seller, whether due or not, become immediately payable.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Quantities listed on delivery notes or similar documents are presumed correct unless disputed immediately upon receipt, prior to processing, and noted on the delivery note or receipt.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "The buyer may not pledge, transfer ownership, or grant third-party rights to goods under retention of title, except as part of normal business operations. At the seller's request, the buyer must cooperate in establishing a lien on receivables arising from the onward sale of such goods.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "With our friendly support staff — consisting of knowledgeable and season 3D printing technicians — we provide customers with reliable customer support. Our support also covers customers of resellers and partners. Through the website everyone can get access to extensive in-depth information about our materials.",
+    "url": "https://www.formfutura.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Formfutura B.V. is located in Nijmegen, GELDERLAND, Netherlands and is part of the Nonstore Retail Industry. Formfutura B.V. has 4 employees at this location and generates 0.32 million in sales (USD).",
+    "url": "https://databasesets.com/national-company/id/126150009",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "In compliance with the EU Digital Services Act, the email address for our single contact point is:",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "A binding agreement is established through an order placed via the seller’s website, written acceptance (including by email), order confirmation by the seller, or actual execution of the buyer’s order. Digital signing of the sent quotation also constitutes a binding agreement.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "To request a return, please contact us via",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Contact information including email address",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Periodically promotional emails may be sent about new products, special offers or other information which you may find interesting using the email address which you have provided",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "From time to time, you can be contacted to provide information for market research purposes. This will be done by email. The information used can be used to customize the website according to your interests",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "To stay up-to-date with FormFutura’ activities, you signed up for the newsletter. It is with your explicit permission that FormFutura adds your email address to the list of subscribers. Should you no longer wish to receive this newsletter, you should click on the link at the bottom of each newsletter to unsubscribe. We never provide third parties with our subscriber base.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Brevo/Sendinblue for marketing emails",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "You can always find the most recent version of our privacy policy on this page. We reserve the right to change this privacy policy. We will always notify you of any changes to this policy by email. Should you have questions or comments regarding this privacy policy, please contact FormFutura by email or phone for more information.",
+    "url": "https://www.formfutura.com/legal",
+    "pass": 1
+   },
+   {
+    "quote": "If you would rather give us a call first to get to know us or have more questions beforehand, please be sure to contact us directly by visiting our",
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "📧Contact Us: contact@databasesets.com",
+    "url": "https://databasesets.com/national-company/id/126150009",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Become a reseller | FormFutura",
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Become a FormFutura Reseller Today",
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Contact to become a reseller",
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "What to expect as a FormFutura reseller",
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "We are continuously looking to cooperate with resellers in the wholesale and retail markets. If you are looking to become a reseller of quality and innovative desktop 3D printer filaments, then you have come to the right address! Please fill out the registration form below and we will send you our terms and wholesale pricing for our filaments.",
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Our products are readily accessible around the world through our many resellers. We guarantee the quality of our products and can ship quickly and flexible without limitations to minimum order quantities. By default, resellers are provided with everything they need to bring our products to market.",
+    "url": "https://www.formfutura.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With our friendly support staff — consisting of knowledgeable and season 3D printing technicians — we provide customers with reliable customer support. Our support also covers customers of resellers and partners. Through the website everyone can get access to extensive in-depth information about our materials.",
+    "url": "https://www.formfutura.com/about",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FormFutura : Professional 3D Printing Consumables & Materials — FormFutura : Professional 3D Printing Consumables & Materials FormFutura https://www.formfutura.com",
+    "url": "https://www.formfutura.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura BV - Resellers — FormFutura BV - Resellers FormFutura https://www.formfutura.com > partners",
+    "url": "https://www.formfutura.com/partners/formfutura-bv-1",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura - 3D Printing Materials | Nijmegen - Facebook — FormFutura - 3D Printing Materials | Nijmegen - Facebook Facebook https://www.facebook.com > ... > Commercial & Industrial",
+    "url": "https://www.facebook.com/Formfutura/",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura B.V. Reviews - Trustpilot — FormFutura B.V. Reviews - Trustpilot Trustpilot https://www.trustpilot.com > formfutura",
+    "url": "https://www.trustpilot.com/review/formfutura.com",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura Filaments - 3DJake International — FormFutura Filaments - 3DJake International 3DJake https://www.3djake.com > formfutura",
+    "url": "https://www.3djake.com/formfutura",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Filaments | High Quality PLA, PETG, ABS & More — 3D Printing Filaments | High Quality PLA, PETG, ABS & More FormFutura https://www.formfutura.com > filame...",
+    "url": "https://www.formfutura.com/filaments",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura | 3DFS id.arts — FormFutura | 3DFS id.arts 3DFS id.arts https://3dfs.idarts.co.jp > categories",
+    "url": "https://3dfs.idarts.co.jp/categories/3502480",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura の フィラメント ：全71ライン - SimplyPrint — FormFutura の フィラメント ：全71ライン - SimplyPrint SimplyPrint https://simplyprint.io > ... > FormFutura",
+    "url": "https://simplyprint.io/ja/filaments/formfutura",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller - FormFutura — Become a reseller - FormFutura FormFutura https://www.formfutura.com > becom...",
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Formfutura Launches New 3D Printer Filaments: Foamy, Felty ... — Formfutura Launches New 3D Printer Filaments: Foamy, Felty ... 3DPrint.com https://3dprint.com > formfutura-3d-...",
+    "url": "https://3dprint.com/16275/formfutura-3d-printer-filament/",
+    "pass": 3
+   },
+   {
+    "quote": "Formfutura 2.85mm TitanX - White - 3D Printer Filament — Jul 29, 2025 · Amazon.co.jp: Formfutura 2.85mm TitanX - White - 3D Printer Filament : Industrial & Scientific About this item TitanX is an innovative high performance FDM optimized engineering filament Industry Grade ABS Type 3D Printer Filament Exceptional mechanical properties Excellent roundness and very tight diameter and full circle tol",
+    "url": "https://www.amazon.co.jp/-/en/FormFutura-Printer-Filament-Dimensional-Accuracy/dp/B0D8L7Q4ND",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura - TitanX ABSフィラメント ブラック 2.3kgAmazon.co.jp: FormFutura - 3Dプリンタ・スキャナ: 産業・研究開発用...Amazon.co.jp: PP Filament Centaur PP 1.75mm 1500 gram White ...Amazon.co.jp: PLA 3D Printer Filament Premium PLA 1.75mm ...Amazon.co.jp: FormFutura シルクグロス PLA 1.75mm ブリリアントパー...Amazon.co.jp: TPC Filament FlexiFil 2.85mm Red 500 gram 3D ... — Amazon.co.jp: FormFutura - TitanX ABSフィラメント ブラック 2.3kg : DIY・工具・ガーデ",
+    "url": "https://www.amazon.co.jp/FormFutura-TitanX-ABSフィラメント-ブラック-2-3kg/dp/B075ZGV2QB",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: PP Filament Centaur PP 1.75mm 1500 gram White ... — PP Filament Centaur PP 1.75mm 1500 gram White 3D Printer Filament ブランド: FormFutura 4.0 (1) ￥17,967 税込 出品者による発送",
+    "url": "https://www.amazon.co.jp/Filament-Centaur-1-75mm-White-Printer/dp/B07XFXT3BN",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: PLA 3D Printer Filament Premium PLA 1.75mm ... — Therefore Premium PLA is available on large spool sizes. 商品概要: PLA 3D Printer Filament Premium PLA 1.75mm Robotic Grey 1000 gram FormFuturaから 5つ星のうち4.8, 8 レーティング カスタマーレビュー",
+    "url": "https://www.amazon.co.jp/Formfutura-1-75mm-Premium-PLA-3Dプリンターフィラメント/dp/B01BDMDXLG",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: FormFutura シルクグロス PLA 1.75mm ブリリアントパー... — FormFutura Silk Gloss PLAは別のポリマーで改質され、非常に滑らかでシルクのような表面仕上げに高レベルの光分散と反射があります。 Silk Gloss PLAは優れた3D印刷特性を発揮し、高いレベルの光沢度でほとんど見えない層でオブジェクトを3D印刷することができます。",
+    "url": "https://www.amazon.co.jp/FormFutura-シルクグロス-1-75mm-ブリリアントパープル-3Dプリンターフィラメント/dp/B08BRZ6FC1",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura - Overview, News & Similar companies | ZoomInfo.com — View FormFutura (www.formfutura.com) location in Gelderland, Netherlands , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/formfutura/357496159",
+    "pass": 3
+   },
+   {
+    "quote": "Formfutura B.V. - National Company | 全球公司数据集开放平台 — Profile: Formfutura B.V. is located in Nijmegen, GELDERLAND, Netherlands and is part of the Nonstore Retail Industry. Formfutura B.V. has 4 employees at this location and generates 0.32 million in sales (USD).",
+    "url": "https://databasesets.com/national-company/id/126150009",
+    "pass": 3
+   },
+   {
+    "quote": "About FormFuturaFormfutura — Company Profile | The Company CheckFormFutura Information - RocketReachFormfutura - Crunchbase Company Profile & FundingFormFutura - LinkedIn — FormFutura was founded in 2012, supplying PLA and ABS to the western European market. Founded in Amsterdam, The Netherlands, FormFutura quickly grew into an unmistakable brand with resellers and customers across Europe and quic",
+    "url": "https://formfutura.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Formfutura — Company Profile | The Company Check — Formfutura is a company based in Amsterdam (Netherlands) founded in 2012. It operates as a B2C and B2B. Formfutura offers products and services including PLA Filament, ABS Filament, PETG Filament, and LCD Resins. Formfutura operates in a competitive market with competitors including Polymaker, Victrex, Elix Polymers, Vartega and Biome Bioplastics,",
+    "url": "https://www.thecompanycheck.com/company/b/formfutura/071eaba64b944aa29",
+    "pass": 3
+   },
+   {
+    "quote": "FormFutura Information - RocketReachFormfutura - Crunchbase Company Profile & FundingFormFutura - LinkedIn — FormFutura is a Plastics Manufacturing company located in Nijmegen, Gelderland with 11 employees. Find top employees, contact details and business statistics at RocketReach. FormFutura is a manufacturing firm that manufactures 3D printer filament, printer accessories, and other related prod",
+    "url": "https://rocketreach.co/formfutura-profile_b4403b85fdc91e3f",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Comprehensive Japanese Company Reports",
+    "url": "https://databasesets.com/national-company/id/126150009",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "食品対応フィラメント「HDglass」をつかってみる｜ろく Oct 29, 2020 · 食品対応フィラメント『HDglass』10M | 3DFS id.arts powered by BASE FormFutura社の『HDglass™』（1.75mm）サンプルです。 長さは約10メートルで、小物からやや重量のある大 3dfs.idarts.co.jp 968円 3DFS id.artsで購入する サンプルで送料とか入れたら1300円くらい！",
+    "url": "https://note.com/rokunacaddata/n/nf48a01257b58",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "FormFutura - LinkedIn Formfutura is a young and dynamic company established in June 2012 in Amsterdam, the Netherlands. Our company is all about this amazing technology called desktop 3D printing. We believe that ...",
+    "url": "https://www.linkedin.com/company/formfutura",
+    "pass": 3
+   },
+   {
+    "quote": "Arnold Medenblik - CEO & Co-founder FormFutura BV | LinkedInRien Schuurhuis - Co-founder Formfutura BV | LinkedInWouter Betting - Chief IT & Operating Officer bij FormFutura ...Wouter Betting - Chief Technology & Operating Officer at ...𝗪𝗲'𝗿𝗲 𝗴𝗼𝗶𝗻𝗴 𝘁𝗼 𝗙𝗼𝗿𝗺𝗻𝗲𝘅𝘁 𝟮𝟬𝟮𝟲! From Novembe...Hannah van den Broek - Reinders on LinkedIn: Just one more ... CEO & Co-founder FormFutura BV · Ervaring: FormFutura ·",
+    "url": "https://nl.linkedin.com/in/arnoldmedenblik",
+    "pass": 3
+   },
+   {
+    "quote": "Rien Schuurhuis - Co-founder Formfutura BV | LinkedInWouter Betting - Chief IT & Operating Officer bij FormFutura ...Wouter Betting - Chief Technology & Operating Officer at ...𝗪𝗲'𝗿𝗲 𝗴𝗼𝗶𝗻𝗴 𝘁𝗼 𝗙𝗼𝗿𝗺𝗻𝗲𝘅𝘁 𝟮𝟬𝟮𝟲! From Novembe...Hannah van den Broek - Reinders on LinkedIn: Just one more ... Co-founder Formfutura BV · Experience: FormFutura · Location: {:currentLocation} · 151 connections on LinkedIn. Vie",
+    "url": "https://www.linkedin.com/in/rien-schuurhuis-05ab975",
+    "pass": 3
+   },
+   {
+    "quote": "Wouter Betting - Chief IT & Operating Officer bij FormFutura ...Wouter Betting - Chief Technology & Operating Officer at ...𝗪𝗲'𝗿𝗲 𝗴𝗼𝗶𝗻𝗴 𝘁𝗼 𝗙𝗼𝗿𝗺𝗻𝗲𝘅𝘁 𝟮𝟬𝟮𝟲! From Novembe...Hannah van den Broek - Reinders on LinkedIn: Just one more ... Chief IT & Operating Officer bij FormFutura BV · Ervaring: FormFutura · Opleiding: TU Delft · Locatie: Rotterdam · 165 connecties op LinkedIn. Bekijk het profiel van Wo",
+    "url": "https://nl.linkedin.com/in/wouterbetting",
+    "pass": 3
+   },
+   {
+    "quote": "Arnold Medenblik - CEO & Co-founder FormFutura BV | LinkedInAbout FormFuturaRien Schuurhuis - Co-founder Formfutura BV | LinkedInFormfutura B.V. | Company.infoFormfutura Management Team | Org Chart - RocketReachRien Schuurhuis Email & Phone Number | Co-founder Formfutura ...Legal | FormFutura CEO & Co-founder FormFutura BV · Ervaring: FormFutura · Opleiding: Vrije Universiteit Amsterdam · Locatie:",
+    "url": "https://nl.linkedin.com/in/arnoldmedenblik",
+    "pass": 3
+   },
+   {
+    "quote": "Rien Schuurhuis - Co-founder Formfutura BV | LinkedInFormfutura B.V. | Company.infoFormfutura Management Team | Org Chart - RocketReachRien Schuurhuis Email & Phone Number | Co-founder Formfutura ...Legal | FormFutura Co-founder Formfutura BV · Experience: FormFutura · Location: {:currentLocation} · 151 connections on LinkedIn. View Rien Schuurhuis’ profile on LinkedIn, a professional community of",
+    "url": "https://www.linkedin.com/in/rien-schuurhuis-05ab975",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FormFutura - 3D Printing Materials | Nijmegen - FacebookReFill not only reduces plastic waste and carbon emissions ...Big news for all our... - FormFutura - 3D Printing Materials ...Now available in our... - FormFutura - 3D Printing Materials ...We printed the biggest Modular Spool Holder in the world. We ...A fantastic 3dprinted mask crafted by the talented ... - FacebookWe printer with our new B",
+    "url": "https://www.facebook.com/Formfutura/",
+    "pass": 3
+   },
+   {
+    "quote": "Big news for all our... - FormFutura - 3D Printing Materials ... Mar 7, 2023 · Recent Posts FormFutura - 3D Printing Materials FormFutura family, we want to express our sincere gratitude for your continued support. With the rapid expansion of 3D printing services and the growing adoption of pellet-based printing, we are seeing more diversity in materials, applications, and creative possibilities t",
+    "url": "https://www.facebook.com/Formfutura/posts/big-news-for-all-our-eco-conscious-3d-printing-enthusiasts-out-there-refill-is-n/668150945311710/",
+    "pass": 3
+   },
+   {
+    "quote": "Now available in our... - FormFutura - 3D Printing Materials ... Feb 7, 2025 · FormFutura - 3D Printing Materials Jan 8 FormFutura family, we want to express our sincere gratitude for your continued support. With the rapid expansion of 3D printing services and the growing adoption of pellet-based printing, we are seeing more diversity in materials, applications, and creative possibilities than eve",
+    "url": "https://www.facebook.com/Formfutura/posts/now-available-in-our-store-is-the-modular-spool-holder-the-spool-holder-is-desig/1176948414431958/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.formfutura.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/legal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/filaments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/shop/category/bambu-refill-coils",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/shop/category/formfutura-refill-coils",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/shop/pla-matting-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/accessories/filament-accessories/adhesives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/accessories/filament-accessories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/accessories/resin-accessories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/shop/cart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/shop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/shop/all-brands",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/pp-gf-pellets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/reform-rpetg-gf30-uv-pellets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/compost3d-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/transparent-pla",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.facebook.com/Formfutura/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.trustpilot.com/review/formfutura.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://needohorder.com/ja",
+    "status": "http_530",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--ecki1etbd5qj3e4d.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.webshop-sa.com/Hurtta.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dfs.idarts.co.jp/categories/3502480",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Printer-Filament-Premium-1-75mm-Ocean/dp/B01IBMV8HW",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://marketplace.ultimaker.com/app/cura/materials/Formfutura",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3djake.com/formfutura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DDpEig_tzLT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Formfutura/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3djake.com/formfutura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Formfutura/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/FormFutura-Printer-Filament-Dimensional-Accuracy/dp/B0D8L7Q4ND",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/FormFutura-TitanX-ABS%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF-2-3kg/dp/B075ZGV2QB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Filament-Centaur-1-75mm-White-Printer/dp/B07XFXT3BN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Formfutura-1-75mm-Premium-PLA-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/dp/B01BDMDXLG",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01460552/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0223/1205/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0850/5831/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/formfutura/357496159",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://databasesets.com/national-company/id/126150009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.formfutura.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/formfutura/071eaba64b944aa29",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rokunacaddata/n/nf48a01257b58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/formfutura",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/arnoldmedenblik",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rien-schuurhuis-05ab975",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/wouterbetting",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Formfutura/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Formfutura/posts/big-news-for-all-our-eco-conscious-3d-printing-enthusiasts-out-there-refill-is-n/668150945311710/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Formfutura/posts/now-available-in-our-store-is-the-modular-spool-holder-the-spool-holder-is-desig/1176948414431958/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/arnoldmedenblik",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rien-schuurhuis-05ab975",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "FormFutura B.V. 代理店",
+   "results": [
+    "https://www.formfutura.com/",
+    "https://www.formfutura.com/partners/formfutura-bv-1",
+    "https://www.facebook.com/Formfutura/",
+    "https://www.trustpilot.com/review/formfutura.com",
+    "https://www.3djake.com/formfutura",
+    "https://www.resense.com.hk/brands/other-product/formfutura/",
+    "https://www.amazon.com/stores/3DPrintlife/page/4ADE085D-38C7-4A37-BD81-FDE2D137C167",
+    "https://simplyprint.io/ja/filaments/formfutura",
+    "https://partsbuilt.com/formfutura-usa?srsltid=AYCX9vLvX4Gak1l-suw_HEqra3EgpjYw43I36MH5JI18KHBqsyACY94y",
+    "https://formfutura.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "FormFutura B.V. 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://needohorder.com/ja",
+    "https://xn--ecki1etbd5qj3e4d.com/company/",
+    "https://www.msh-systems.com/partners/",
+    "http://www.webshop-sa.com/Hurtta.html",
+    "https://d-hub.jp/",
+    "https://metatron-japan.com/",
+    "https://note.com/chara912/n/nf46962988ca7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "FormFutura B.V. 日本 販売",
+   "results": [
+    "https://www.formfutura.com/",
+    "https://www.formfutura.com/filaments",
+    "https://3dfs.idarts.co.jp/categories/3502480",
+    "https://www.amazon.co.jp/Printer-Filament-Premium-1-75mm-Ocean/dp/B01IBMV8HW",
+    "https://jp.farnell.com/en-JP/c/tools-production-supplies/3d-printers-accessories/3d-printer-filaments?srsltid=AYCX9vL34wWHI7WgXntHgRZ2or6RbpXkdI_niAGOJYjB2Bajvf0FeAiv",
+    "https://3dlabstore.com.hk/brand/3d-filament/formfutura?srsltid=AYCX9vIed7fXF20fMBkdG-BQWny5aalMEjKpMWra-ngX4Qchlo9r1lWF",
+    "https://formlabs.com/jp/",
+    "https://www.directindustry.com/ja/prod/formfutura/product-196782-2198739.html",
+    "https://www.form2.shop/?srsltid=AYCX9vKnqpWl4fjj7fwb-UpBhjwnBUColueyRrpHs9mdIKnld9H0WLYu",
+    "https://formfutura.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "FormFutura B.V. フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.formfutura.com/",
+    "https://marketplace.ultimaker.com/app/cura/materials/Formfutura",
+    "https://www.3djake.com/formfutura",
+    "https://www.instagram.com/reel/DDpEig_tzLT/",
+    "https://simplyprint.io/ja/filaments/formfutura",
+    "https://www.amazon.com/stores/3DPrintlife/page/4ADE085D-38C7-4A37-BD81-FDE2D137C167",
+    "https://www.formfutura.com/filaments/flexible",
+    "https://filament23d.dk/en-gb/formfutura-1-233",
+    "https://3dfs.idarts.co.jp/categories/3502480",
+    "https://i-maker.jp/formlabs/resins/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "FormFutura B.V. Japan distributor",
+   "results": [
+    "https://www.formfutura.com/",
+    "https://www.formfutura.com/become-a-reseller",
+    "https://www.facebook.com/Formfutura/",
+    "https://www.3djake.com/formfutura",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://marketplace.ultimaker.com/app/cura/materials/Formfutura",
+    "https://partsbuilt.com/formfutura-usa?srsltid=AYCX9vKMjExSvvOTjwV7t4V1N9CvaLnFcUw5ZX9yWZZbZVMcx7A655L6",
+    "https://3dprintatlas.nl/business-listing/formfutura",
+    "https://www.amazon.com/stores/3DPrintlife/page/4ADE085D-38C7-4A37-BD81-FDE2D137C167",
+    "https://formfutura.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "FormFutura B.V. distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.formfutura.com/",
+    "https://www.formfutura.com/partners/formfutura-bv-1",
+    "https://www.facebook.com/Formfutura/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://3dprint.com/16275/formfutura-3d-printer-filament/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.3djake.com/formfutura",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp FormFutura B.V.",
+   "results": [
+    "https://www.amazon.co.jp/-/en/FormFutura-Printer-Filament-Dimensional-Accuracy/dp/B0D8L7Q4ND",
+    "https://www.amazon.co.jp/FormFutura-TitanX-ABSフィラメント-ブラック-2-3kg/dp/B075ZGV2QB",
+    "https://www.amazon.co.jp/Filament-Centaur-1-75mm-White-Printer/dp/B07XFXT3BN",
+    "https://www.amazon.co.jp/Formfutura-1-75mm-Premium-PLA-3Dプリンターフィラメント/dp/B01BDMDXLG",
+    "https://www.amazon.co.jp/FormFutura-シルクグロス-1-75mm-ブリリアントパープル-3Dプリンターフィラメント/dp/B08BRZ6FC1",
+    "https://www.amazon.co.jp/Filament-FlexiFil-2-85mm-gram-Printer/dp/B01AASJH32",
+    "https://www.amazon.co.jp/3Dプリンタ・スキャナ-FormFutura-産業・研究開発用品/s?rh=n:2500103051,p_89:FormFutura"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com FormFutura B.V.",
+   "results": [
+    "https://www.monotaro.com/g/01460552/",
+    "https://www.monotaro.com/p/0223/1205/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/0850/5831/",
+    "https://www.monotaro.com/g/04262384/",
+    "https://www.monotaro.com/g/01398412/",
+    "https://www.monotaro.com/g/01018222/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "FormFutura B.V. employees revenue parent company",
+   "results": [
+    "https://www.zoominfo.com/c/formfutura/357496159",
+    "https://databasesets.com/national-company/id/126150009",
+    "https://formfutura.com/about",
+    "https://www.thecompanycheck.com/company/b/formfutura/071eaba64b944aa29",
+    "https://rocketreach.co/formfutura-profile_b4403b85fdc91e3f",
+    "https://www.crunchbase.com/organization/formfutura",
+    "https://www.linkedin.com/company/formfutura"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com FormFutura B.V.",
+   "results": [
+    "https://note.com/tag/積読美術館",
+    "https://note.com/rokunacaddata/n/nf48a01257b58",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/abeshi/n/n0506b291db8a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com FormFutura B.V.",
+   "results": [
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/Urfavliar2/status/2117023998710259801",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/xhazeling/status/2114183586970734857"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com FormFutura B.V.",
+   "results": [
+    "https://www.linkedin.com/company/formfutura",
+    "https://nl.linkedin.com/in/arnoldmedenblik",
+    "https://www.linkedin.com/in/rien-schuurhuis-05ab975",
+    "https://nl.linkedin.com/in/wouterbetting",
+    "https://www.linkedin.com/posts/hannah-van-den-broek-reinders-651608223_just-one-more-week-i-have-had-a-tremendously-activity-6957277233178624000-OQ7B",
+    "https://www.linkedin.com/pub/dir/wouter/betting",
+    "https://www.linkedin.com/posts/formfutura_𝗪𝗲𝗿𝗲-𝗴𝗼𝗶𝗻𝗴-𝘁𝗼-𝗙𝗼𝗿𝗺𝗻𝗲𝘅𝘁-activity-7520772391010992128-cHMU"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com FormFutura B.V.",
+   "results": [
+    "https://www.facebook.com/Formfutura/",
+    "https://www.facebook.com/Formfutura/posts/big-news-for-all-our-eco-conscious-3d-printing-enthusiasts-out-there-refill-is-n/668150945311710/",
+    "https://www.facebook.com/Formfutura/posts/now-available-in-our-store-is-the-modular-spool-holder-the-spool-holder-is-desig/1176948414431958/",
+    "https://www.facebook.com/reel/260626246855216/",
+    "https://www.facebook.com/FormFutura+B.V./videos/1917569335269947/",
+    "https://www.facebook.com/Formfutura/videos/554324583810980/",
+    "https://www.facebook.com/FormFutura+B.V./videos/7134515653306624/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "FormFutura B.V. note 社長",
+   "results": [
+    "https://nl.linkedin.com/in/arnoldmedenblik",
+    "https://formfutura.com/about",
+    "https://www.linkedin.com/in/rien-schuurhuis-05ab975",
+    "https://companyinfo.nl/organisatieprofiel/detailhandel-gespecialiseerd-in-overige-nieuwe-artikelen-rest/formfutura-b-v-nijmegen-69099502-000025151568",
+    "https://rocketreach.co/formfutura-management_b4403b85fdc91e3f",
+    "https://contactout.com/rien-schuurhuis-98138",
+    "https://formfutura.com/legal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "FormFutura B.V. X 投稿",
+   "results": [
+    "https://www.instagram.com/p/DA6BIFgMixB/",
+    "https://www.instagram.com/formfutura/",
+    "https://formfutura.com/about",
+    "https://www.tiktok.com/@formfutura",
+    "https://formfutura.com/",
+    "https://www.printables.com/@FormFuturaBV",
+    "https://www.youtube.com/@FormFutura_BV"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

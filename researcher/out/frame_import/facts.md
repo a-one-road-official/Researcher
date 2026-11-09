@@ -3511,6 +3511,8 @@
   - 「切な分別やメーカーへの引き渡しを推進すべきである」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf）
   - 「え、自動車メーカー等においては、使用済リチウムイオン電池等の回収を実」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf）
 - 顧客の顧客（発注元が求めること）：
+  - 「・自動車製造業における再生プラの利用拡大のためのロードマップの実施（再生材利用認証スキーム、再生プラ集約拠点構」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「・地域資源を活用した地域脱炭素の推進等、意欲的な自治体の取組支援」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
   - 「mae Re-Style COTE Re Beasts て 脱炭素ポータル」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「・自動車製造業における再生プラの利用拡大のためのロードマップの実施 (再生材利用認証」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「性が要求される．熱や振動，温度などの環境変化に対する長」（https://www.jstage.jst.go.jp/article/materia/56/3/56_56.157/_pdf）
@@ -3524,9 +3526,8 @@
   - 「また、RBAのプラットフォームであるRBA-Onlineを活用して、サプライヤーの皆様にESGの取り組みに関する各種データの提供を頂いており、RBAの管理指標をベンチマークとして、持続可能なビジネス活動を推進するために、サプライヤーの皆様と協力してESGリスクの是正、低減化に取り組んでいます」（https://jp.ricoh.com/sustainability/society/scm）
   - 「サプライヤーの皆様は、ESG説明会の開催や脱炭素推進に向けた電力量削減プログラム、その他様々な取り組みについて情報交換を行い、実践されています」（https://jp.ricoh.com/sustainability/society/scm）
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/）
-  - 「重要鉱物の不安定性は高度なSCRMを要求する」（https://note.com/kumu_works/n/nd9c4042d4da9）
-  - 「DNPは、グローバルに広がるサプライチェーン全体のリスクを的確に捉え、多様な課題を解決して持続可能な社会に貢献するため、国内外のサプライヤーや業務委託先（以下、「ビジネスパートナー」）とともに「責任ある調達」に取り組んでいます」（https://www.global.dnp/ja/sustainability/supplychain/）
 - 顧客の競合（奪いに来る側）：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/）
   - 「2024年に国策企業の中国資源循環集団(資本金約2千億円)を設立」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「循環ネットワークを構築 国 i RY 米国・欧州 . a」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「米財務長官、中国副首相と電話協議 「首脳会談の合意は全面履行を」」（https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/）
@@ -3541,8 +3542,8 @@
   - 「2025年10月発表の輸出管理措置の概要（※1年停止）中国による輸出管理措置対象の鉱種」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
   - 「中国国外の組織・個人による中国以外の国・地域への以下レアアース関連品目の輸出に、輸出許可取得を」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
   - 「① 中国産レアアース（価値比率0.1%以上）を含む、外国で生産されたレアアース関連製品（磁石等）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/019_02_00.pdf）
-  - 「対ミャンマー圧力の米国、対話路線に転換 新戦略で「中国に対抗」」（https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「アジア•ヨーロッパなどの製錬所、商社、エンドユーザーなどと多数の実績があるので、幅広いニーズにお応えできます」（https://www.kohwa-s.co.jp/）
   - 「レアメタルリサイクルの専門商社『メタルドゥ』のご紹介」（https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/）
   - 「株式会社メタルドゥは創業64年、会社設立48年以上の歴史を持つレアメタルリサイクルの専門商社であり、」（https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/）
   - 「株式会社イフ商会は、お客様の製品コスト低減、品質安定、新技術・新製品開発のスピードアップに貢献できる多機能商社です」（https://mono.ipros.com/cg2/%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/）
@@ -3557,8 +3558,15 @@
   - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUA052OI0V00C26A3000000/）
   - 「近年ではレアメタルリサイクル技術の研究・開発、実用化が進められていることから、レアメタルリサイクルの重要性が増々高まってきており、当社はレアメタル・レアアースの取り扱いに特化した独自のノウハウやルートを活かして、今後もレアメタル・レアアースの専業商社としてリサイクル事業に取り組んでまいります」（https://www.fuji-material.co.jp/service.html）
   - 「レアメタル・レアアースの専門商社の知見を活かし資源リサイクル事業も手掛ける│アドバンストマテリアルジャパン株式会社代表取締役社長 福田 聡 | アルコニックス株式会社」（https://www.alconix.com/media/owned/2026/01/13/AMJ.html）
-  - 「商社流通セグメント」（https://www.alconix.com/media/owned/2026/01/13/AMJ.html）
 - 政治（法・予算・規制）：
+  - 「• 2026年7月21日、政府は日本成長戦略を閣議決定し、戦略17分野における「主要な製品・技術等」の官民投資」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「＜日本成長戦略（2026年7月21日閣議決定）＞（抜粋）」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「・既存の出資制度の枠組みの見直しを含め、安定供給確保支援基金やJOGMEC出資金により、プロジェクト組成」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「安定供給確保支援基金（重要鉱物） 、JOGMEC※出資金による支援によりプロ」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「• 近年、特定国の輸出管理措置を用いた経済的威圧により、重要鉱物の供給リスクが格段に高まっており、」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「特定国依存からの脱却と供給源の多角化が経済安全保障上の喫緊の課題」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「• 経済安保推進法では、政令で36種の鉱物を重要物資として指定した上で 、基金による助成事業の対象となる」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
+  - 「※１ これらの鉱種については、中国の輸出規制等により供給途絶の蓋然性が認められる間に限る」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/mining/pdf/003_03_00.pdf）
   - 「B 循環経済の実現を国家戦略として、 政府全体で戦略的・統合的に行うため、循環経済 (サーキュラー」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「生各国で重要鉱物及びリサイクル資源の輸出管理強化、 国内資源確保、 グローバル企業の再生材利用が進む中、 我が国で」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「eEU域外への廃電子機器等の輸出規制を強化 (2024年施行) 質・量・コストの面で安定的に調達できるサプライチェーンが」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
@@ -3566,14 +3574,6 @@
   - 「・再資源化事業等高度化法に基づく、 製造業への再生材供給等に係る事業認定 (3年で」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「規制が極めて厳しい日本では，資源確保だけではなく，環境」（https://www.jstage.jst.go.jp/article/materia/56/3/56_56.157/_pdf）
   - 「の分離精製などについては，現状では環境規制により実施で」（https://www.jstage.jst.go.jp/article/materia/56/3/56_56.157/_pdf）
-  - 「今後，環境規制は世界的な規模で強化されていくであろ」（https://www.jstage.jst.go.jp/article/materia/56/3/56_56.157/_pdf）
-  - 「世界的な増加，工業製品のさらなる高機能化，環境規制の強」（https://www.jstage.jst.go.jp/article/materia/56/3/56_56.157/_pdf）
-  - 「この問題に関して、政府はリサイクルの仕組み構築するため、実証事業を始めています」（https://shizen-hatch.net/2020/09/08/rare-metals/）
-  - 「非鉄各社、レアメタルリサイクル強化で「脱・中国」進む 供給網強靱化へ政府も支援 | olasonic.jp」（https://olasonic.jp/%E9%9D%9E%E9%89%84%E5%90%84%E7%A4%BE%E3%80%81%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%BC%B7%E5%8C%96%E3%81%A7%E3%80%8C%E8%84%B1%E3%83%BB%E4%B8%AD/）
-  - 「非鉄各社、レアメタルリサイクル強化で「脱・中国」進む 供給網強靱化へ政府も支援」（https://olasonic.jp/%E9%9D%9E%E9%89%84%E5%90%84%E7%A4%BE%E3%80%81%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%BC%B7%E5%8C%96%E3%81%A7%E3%80%8C%E8%84%B1%E3%83%BB%E4%B8%AD/）
-  - 「非資源国の日本にとって、資源循環によるサプライチェーン（供給網）強靱化は、経済安全保障上の重要課題となる」（https://olasonic.jp/%E9%9D%9E%E9%89%84%E5%90%84%E7%A4%BE%E3%80%81%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%BC%B7%E5%8C%96%E3%81%A7%E3%80%8C%E8%84%B1%E3%83%BB%E4%B8%AD/）
-  - 「政府は地政学リスクを最小化するため、使用済みLIBからのレアメタルのリサイクルが必要だとして、民間企業の技術開発を支援する」（https://olasonic.jp/%E9%9D%9E%E9%89%84%E5%90%84%E7%A4%BE%E3%80%81%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E5%BC%B7%E5%8C%96%E3%81%A7%E3%80%8C%E8%84%B1%E3%83%BB%E4%B8%AD/）
-  - 「の多くは、法律に基づく回収スキーム（自動車、家電４品目、パソコン、小」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/pdf/report01_02_03.pdf）
 - 経済（規模・価格・為替）：
   - 「(制度的措置を含お) 等により官民で約 1 兆円の投資を目指すなど、 再生資源供給サプライチェーンの強朝化を図る」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
   - 「2024年に国策企業の中国資源循環集団(資本金約2千億円)を設立」（https://www.jwrf.or.jp/01ec09b732abec2175b7e6454c5d1d92c7fba674.pdf）
@@ -3814,6 +3814,9 @@
   - 「経済産業省は11月28日、次世代型太陽電池の一種「ペロブスカイト太陽電池」の普及と、その開発・量産で強固な国際競争力を獲得するための戦略を公表した」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「本格普及には、もう一段の技術革新と量産効果が必要で、普及は30年以降になる可能性もある」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
 - 顧客の顧客（発注元が求めること）：
+  - 「✓ 同志国とともに価格によらない要素（脱炭素、安定供給、資」（https://www.env.go.jp/content/000389653.pdf）
+  - 「・補助率 ：2/3 (避難施設、サプライチェーンの脱炭素化など政策誘導効果の高いものに」（https://www.env.go.jp/content/000389653.pdf）
+  - 「※2 防衛省施設は、既存施設の更新に係る計画（マスタープラン）を作成しているところであり、上記ポテンシャルには含まれない」（https://www.env.go.jp/content/000389653.pdf）
   - 「巨大な国内市場でコスト低減を進め、脱炭素事業でも世界の覇者を狙う中国」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「政府の第7次エネルギー基本計画で、40年度の電源構成の23～29％を占めるトップ電源として脱炭素電源の主軸とされた太陽光」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「脱炭素に向けた取り組みを加速し、エネルギー安全保障と日本企業の競争力を高めるカギとして、その行方が注目されている」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
@@ -3826,10 +3829,8 @@
   - 「また、シリコン太陽電池の世界最大手の1つであるLONGi（隆基緑能科技）は、シリコンとペロブスカイトのタンデムセルで変換効率34.85%を達成し、米国立再生可能エネルギー研究所（NREL）の認証を受けたと2025年4月に発表しました」（https://note.com/hirokimiyano/n/n493e7d969f8d）
   - 「脱炭素とエネルギー安全保障の両方に関わる産業だけに、各国が補助金や規制を総動員して自国産業を守り育てようとしています」（https://note.com/hirokimiyano/n/n493e7d969f8d）
   - 「官公庁への先行導入は、この実証の場としても重要な役割を果たすことになります」（https://note.com/hirokimiyano/n/n493e7d969f8d）
-  - 「官公庁や自治体が最初の買い手になるのは有効な手段ですが、公共部門の需要だけで工場をフル稼働させ続けることはできません」（https://note.com/hirokimiyano/n/n493e7d969f8d）
-  - 「もう1つは、前述したように、規制緩和や官公庁の調達といった需要側の対策をセットで打ち出している点です」（https://note.com/hirokimiyano/n/n493e7d969f8d）
-  - 「官公庁や自治体での導入件数・規模がどこまで伸びるか、そして民間企業がどの程度、自らの判断で導入を始めるかが重要です」（https://note.com/hirokimiyano/n/n493e7d969f8d）
 - 顧客の競合（奪いに来る側）：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOUA23AGY0T21C26A0000000/）
   - 「主要原料は日本が世界シェア第2位」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「ペロブスカイト太陽電池の主な原料はヨウ素であり、日本の生産量が世界シェアの約3割を占めている」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「これは世界第2位のシェアとなる」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
@@ -3844,7 +3845,6 @@
   - 「ペロブスカイト太陽電池、国家戦略に中国の壁 発電コスト下げ必須」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「量産の規模とスピードで世界に先行し、中国などの追い上げを阻むという」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「反ESGと自国優先主義を叫び、化石燃料の利用拡大へ進む米国」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
-  - 「巨大な国内市場でコスト低減を進め、脱炭素事業でも世界の覇者を狙う中国」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
 - 自社の競合（商社・代理店・仲介）：
   - 「・PPA／エネルギーサービス／商社／新規参入検討企業」（https://mono.ipros.com/cg3/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0/）
   - 「販売会社や商社も、結晶シリコンとペロブスカイトを用途に応じて組み合わせる提案力が競争力になるだろう」（https://solarjournal.jp/news/67839/）
@@ -3862,6 +3862,14 @@
   - 「運営: ブライト株式会社（LED照明器具・電源・電気設備の専門商社）」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
   - 「本記事は、LED照明器具、電源・電気設備を扱う専門商社である」（https://bright-co-ltd.com/solar-media/solar/perovskite-katei-itsu/）
 - 政治（法・予算・規制）：
+  - 「あわせて、工場立地法や消防庁のガイドラインなど、設置を妨げてきた規制も見直されます」（https://note.com/hirokimiyano/n/n493e7d969f8d）
+  - 「本記事では、今回の補助金の中身、リコーと長州産業の技術、規制緩和と官需の役割、そして中国勢との競争やコスト・耐久性の壁まで、ビジネスパーソン・投資家の視点で詳しく整理します」（https://note.com/hirokimiyano/n/n493e7d969f8d）
+  - 「1. 何が決まったのか：4年で約1000億円、規制緩和とセットの量産支援」（https://note.com/hirokimiyano/n/n493e7d969f8d）
+  - 「経済産業省は近く、グリーントランスフォーメーション（GX）関連の補助金の対象として、リコーと長州産業の2社を選びます」（https://note.com/hirokimiyano/n/n493e7d969f8d）
+  - 「企業側は補助金と同額以上の資金を投じるとされており、官民をあわせた投資額は少なくとも2000億円規模になる計算です」（https://note.com/hirokimiyano/n/n493e7d969f8d）
+  - 「政府は量産を見据えて、2026年度中に次のようなルール整備を進めます」（https://note.com/hirokimiyano/n/n493e7d969f8d）
+  - 「政府は2026年末に策定する「パワーGX戦略」にも、量産に向けた動きを盛り込む方針です」（https://note.com/hirokimiyano/n/n493e7d969f8d）
+  - 「つまり今回の1000億円は、単発の補助金ではなく「供給（工場）」「需要（官公庁の調達）」「制度（規制緩和）」を一体で動かす国家プロジェクトの一部と見るべきでしょう」（https://note.com/hirokimiyano/n/n493e7d969f8d）
   - 「これに対し日本政府は2025年2月18日に閣議決定した第7次エネルギー基本計画において、ペロブスカイト太陽電池の早期の社会実装を進めていく方針を明記」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「新市場の創出や都市部での再エネ促進へ、環境省は補助金を来年度予算に盛り込む」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「政府の第7次エネルギー基本計画で、40年度の電源構成の23～29％を占めるトップ電源として脱炭素電源の主軸とされた太陽光」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
@@ -3869,15 +3877,9 @@
   - 「省エネ法(エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律)の改正により、2026年度から「特定事業者」に対して、建物屋根への太陽光発電設備の設置目標を策定することが義務づけられることとなった」（https://solarjournal.jp/renewable/66930/）
   - 「アプローチすべきターゲットとなる特定事業者は、資源エネルギー庁のWEBサイトにある「エネルギーの使用の合理化等に関する法律に基づく特定事業者等指定状況」で知ることができる」（https://solarjournal.jp/renewable/66930/）
   - 「原材料や技術を特定の国に依存しないことから、経済安全保障・エネルギー安全保障の観点からも期待されている」（https://solarjournal.jp/renewable/66930/）
-  - 「政策パッケージとしては、GI基金による研究開発支援、事業者による量産のための設備投資支援、需要家に向けての導入支援を実施」（https://solarjournal.jp/renewable/66930/）
-  - 「さらに2026年度より3年間、GI基金の採択事業者の生産品に対する固定資産税の課税特例を重点化」（https://solarjournal.jp/renewable/66930/）
-  - 「とくに自治体や企業の設備担当者にとっては、導入時期・コスト・補助金の情報が曖昧なままでは判断ができません」（https://enemanex.jp/perovskite-solar-cell/）
-  - 「2025年の事業予算は、」（https://enemanex.jp/perovskite-solar-cell/）
-  - 「相談・補助金申請・工事・アフターフォローまで、まるっとお任せください」（https://enemanex.jp/perovskite-solar-cell/）
-  - 「ペロブスカイト太陽電池に補助金は使えるか？」（https://enemanex.jp/perovskite-solar-cell/）
-  - 「もしも補助金を使って太陽電池を導入したいのであれば、従来のシリコンタイプの太陽電池がおすすめです」（https://enemanex.jp/perovskite-solar-cell/）
-  - 「すでにさまざまな補助金があるため、企業・施設にあったものを選択できます」（https://enemanex.jp/perovskite-solar-cell/）
 - 経済（規模・価格・為替）：
+  - 「大阪府堺市にGW級の製造ライン構築のため、約3,150億円を投資を決定（GXサプライチェーン構築支援事業にて半額補助）」（https://www.env.go.jp/content/000389653.pdf）
+  - 「ついては3/4）、上限10億円」（https://www.env.go.jp/content/000389653.pdf）
   - 「2035年に世界の市場規模が1兆円に達するとの予測もある次世代の太陽電池だ」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「積水化学工業、ペロブスカイト電池に3100億円超投資 日本はシリコン系限界」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「投資額は約3000億円規模で、政府が半額を補助」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
@@ -3891,9 +3893,9 @@
   - 「2029年度までに総額1000億円ほどの補助金を出し、企業側も同額以上の資金を投じて量産工場をつくります」（https://note.com/hirokimiyano/n/n493e7d969f8d）
   - 「先行する積水化学工業グループには、すでに約1572億円の補助が決まっています」（https://note.com/hirokimiyano/n/n493e7d969f8d）
   - 「1. 何が決まったのか：4年で約1000億円、規制緩和とセットの量産支援」（https://note.com/hirokimiyano/n/n493e7d969f8d）
-  - 「2029年度までの4年間で、総額1000億円ほどを出す見通しです」（https://note.com/hirokimiyano/n/n493e7d969f8d）
-  - 「企業側は補助金と同額以上の資金を投じるとされており、官民をあわせた投資額は少なくとも2000億円規模になる計算です」（https://note.com/hirokimiyano/n/n493e7d969f8d）
 - 社会（人・担い手）：
+  - 「韓国、首都圏に7万6700戸供給へ…「自立型都市」掲げるも雇用目標は未提示」（https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400728/）
+  - 「経審に「制度疲労」、人材の確保や育成の評価拡充を求める声 国交省調査」（https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400728/）
   - 「公安調査庁は「人材リクルート」「投資・買収」「不正調達」など主に7つの流出経路を指摘している」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「日経ビジネスはリスクを「人材」「協力関係」「拠点」の3つに分類し…」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUA23AGY0T21C26A0000000/）
@@ -3907,8 +3909,6 @@
   - 「・受注の急増、技術者の高齢化による人員不足」（https://www.npcgroup.net/images/ir/pdf/plan_potential_20251128.pdf）
   - 「安全性認証や製品規格の標準化、サプライチェーンの確立、製造技術や施工人材の育成など業界共通の課題解決に取り組み、日本全体でペロブスカイト関連の産業競争力の強化につなげるものです」（https://www.nef.or.jp/keyword/20260930.html）
   - 「製造業・人材派遣メディア | ニッケンつなぐ」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/680/）
-  - 「本資料では、急速に拡大する蓄電池市場の動向と、バッテリー製造の現場で求められる人材育成プログラムの考え方を整理しています」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/680/）
-  - 「人材不足への対応や、生産体制強化に向けた社内検討の材料としてご活用ください」（https://www.nikken-totalsourcing.jp/business/tsunagu/column/680/）
 - 技術（新しい技術・実証）：
   - 「日本発のペロブスカイト太陽電池 近づく量産化に向け高まる期待と課題：日経ビジネス電子版」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「次世代太陽電池として注目を集める「ペロブスカイト太陽電池」」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
@@ -3926,6 +3926,8 @@
   - 「たとえばパナソニックは建材ガラスに太陽電池をインクジェット塗布する技術、ENEOSホールディングスでは透明な太陽光パネルの開発を進めている」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
   - 「次世代太陽電池を用いた建材一体型パネルの実証実験が始まっている」（https://business.nikkei.com/atcl/gen/19/00081/110600721/）
 - 検索結果の抜粋：
+  - 「Perovskite Solar Cell Market Size, Growth Report, 2026 -2033 — Perovskite Solar Cell Market Size, Growth Report, 2026 -2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/perovskite-solar-cell-market-report）
+  - 「Japan to back perovskite solar cell mass production with $640 ... — Japan to back perovskite solar cell mass production with $640 ... Nikkei Asia https://asia.nikkei.com > energy > jap...」（https://asia.nikkei.com/business/energy/japan-to-back-perovskite-solar-cell-mass-production-with-640m-in-subsidies）
   - 「② ペロブスカイト 事前調査・計画策定事業 | 公募情報 — ② ペロブスカイト 事前調査・計画策定事業 | 公募情報 一般社団法人 環境技術普及促進協会 https://www.eta.or.jp > offering > 2026 > psc_research」（https://www.eta.or.jp/offering/2026/psc_research/index.php）
   - 「【 2026 年】家庭用 ペロブスカイト は実用化された？世界 ... — 【 2026 年】家庭用 ペロブスカイト は実用化された？世界 ... ソーラーパートナーズ https://www.solar-partners.jp > contents」（https://www.solar-partners.jp/contents/51662.html）
   - 「ペロブスカイト 量産へ国が1000 億円 リコーと長州産業で挑む ... — ペロブスカイト 量産へ国が1000 億円 リコーと長州産業で挑む ... note https://note.com > 政治・経済 > 政策・法律」（https://note.com/hirokimiyano/n/n493e7d969f8d）
@@ -3939,8 +3941,6 @@
   - 「【 2026 】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... — 【 2026 】 ペロブスカイト太陽電池 メーカー一覧と実用化 ... bright-co-ltd.com https://bright-co-ltd.com > ホーム > 太陽光発電一覧」（https://bright-co-ltd.com/solar-media/solar/perovskite-maker/）
   - 「① ペロブスカイト 設備導入事業 | 公募情報 — ① ペロブスカイト 設備導入事業 | 公募情報 一般社団法人 環境技術普及促進協会 https://www.eta.or.jp > offering > 2026 > psc」（https://www.eta.or.jp/offering/2026/psc/index.php）
   - 「ペロブスカイト太陽電池 事業説明会 - 積水化学工業 — ペロブスカイト太陽電池 事業説明会 - 積水化学工業 積水化学工業株式会社 PDF https://www.sekisui.co.jp > afieldfile > 2025/01/07」（https://www.sekisui.co.jp/ir/event/other/__icsFiles/afieldfile/2025/01/07/20250107PVK.pdf）
-  - 「ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 — ペロブスカイト太陽電池市場規模 、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 業界-レポート」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4-101556）
-  - 「ペロブスカイト太陽電池 、前年比2倍超に 世界の 市場規模 — ペロブスカイト太陽電池 、前年比2倍超に 世界の 市場規模 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUC299P00Z20C26A9000000/）
 
 ## 水電解装置（water electrolyzer）
 - 文脈：12 GX ②水素等
@@ -4726,54 +4726,61 @@
   - 「Some SMR designs proposes cooling systems only based on thermoconvection – natural circulation – to eliminate cooling pumps that could break down. Convection can keep removing decay heat after reactor shutdown. However, some SMRs may need an active cooling system to back up the passive system, increasing cost.」（https://en.wikipedia.org/wiki/Small_modular_reactor）
   - 「BWXT（BWX Technologies）投資分析：核技術の「特許数」ではなく、認可・製造・受注残で測る」（https://note.com/tag/%E5%B0%8F%E5%9E%8B%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E7%82%89）
 - 顧客（金を払う側）：
-  - 「東京電力管内の家庭や企業を対象にした夏の「節電要請」が始まった」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「再生可能エネルギーの導入再拡大が必須である」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「再生可能エネルギー水素は技術的に成熟しており、欧米中は大型水電解装置導入による低コスト化に舵を切っている」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「米国は海外企業の濃縮サービスに多くを依存し、現時点で米国内で稼働する商業用ウラン濃縮施設はニューメキシコ州ユーニスのウレンコUSAの工場のみである」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「 連続生産、工場での製造により、建設期間や費用を削減」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 段階的な資本支出により、資金調達コストやリスクを低減」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 大型発電所新設が困難な国や地域への導入」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「2-4 導入検討国」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 世界でSMR導入に関心を示す国は、東欧を中心に多くある」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 斗山重工業は主要機器を供給し、関係企業とで1億ドル強を出資」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「2013年 ●SMR導入の可能性調査（FS）を開始」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 英国内に2050年までに最大16基 （うち10基は2035年まで）の導入予」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「トルコ 2020年3月 トルコ国営企業EUASと「SMR導入に向けたFS」」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「チェコ 2020年11月 チェコ電力CEZと「SMR導入に向けたFS」」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「エストニア 2021年3月 エストニアのFermi Energiaと「SMR導入に向けたFS」」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「その半年後、2023年2月に、GX（グリーントランスフォーメーション）基本方針が閣議決定され、2023年5月にはカーボンプライシングの導入を含むGX推進法、原子力発電所の運転期間の60年超への延長を盛り込んだGX脱炭素電源法のGX関連法が相次いで成立した」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「現行の中大型軽水炉をベースとし、既存技術の延長線上にあるため成熟度が高い「革新軽水炉」は、発電事業者が廃炉跡地への早期導入に向けて選択する可能性が高いと考えられる」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「使用済核燃料の再処理工場の建設が30年超遅れたことで、電力会社の保有する原発内の貯蔵プールは、使用済核燃料で満杯状態にある」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「ロシア国営原子力企業ロスアトムは、MOX燃料を使い高速実証炉「BN-800」の営業運転を実施しており、鉛冷却高速炉のパイロット実証炉「BREST-300」の建設を開始した」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「英国ではロールス・ロイスが主導する企業連合が、「UK-SMR」と呼ばれるPWR型の小型軽水炉を開発中である」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「すなわち、原子炉をモジュール化して工場内で組み立て、ユニットとして輸送・設置することで、安全性と経済性を両立させ、多目的用途を目指している」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「など様々な炉型がSMRと呼ばれているが、モジュール化により工場内で組み立て、ユニットとして輸送・設置する炉の総称である」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「：工場でモジュールを製造して組み立て、ユニットとして運搬し、現地で設置することができる」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「その他、米国Xcelエナジーやデイリーランド電力共同組合が、「VOYGR」導入を検討している」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「カナダ、チェコ、エストニア、ポーランド、ルーマニアなどの企業が「VOYGR」導入を検討」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2022年10月、主要なEPC（設計・調達・建設）契約企業とし、米国他での「SMR-160」の建設プロジェクトを加速するため、」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2023年2月、「SMR-160」の機器製造協力で、英国の大型鋳鍛造品メーカーである」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「工場で製造した部品（モジュール）を現地で組み立て、一次系以外に一般産業技術を積極採用することで建設費や工期を抑え、」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「受注額は4基合計で3000億円規模とみられ、オンタリオ州ダーリントンに建設する」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2022年6月、サスカチュワン州営電力も、2030年代半ばまでにSMRを建設する場合、「BWRX-300」を採用すると表明し、同年9月に候補地2か所（サスカチュワン州のエステバンとエルボー）を選定した」（https://www.decarbonation-tech.com/nuclear_3100/）
 - 顧客の顧客（発注元が求めること）：
+  - 「その半年後、2023年2月に、GX（グリーントランスフォーメーション）基本方針が閣議決定され、2023年5月にはカーボンプライシングの導入を含むGX推進法、原子力発電所の運転期間の60年超への延長を盛り込んだGX脱炭素電源法のGX関連法が相次いで成立した」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「小型軽水炉（SMR）の開発現状 | 脱炭素技術センター」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2050年の脱炭素を想定した「ネット・ゼロ・シナリオ」を公表」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2020年9月、米国原子力規制委員会（NRC）はモジュール1基の出力が5万kWのNPMについて、SMRとして初の「標準設計承認（SDA）」を発給し、2023年1月、設計認証（DC：Design Certification）を発給した」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「現時点で、「BWRX-300」は米国原子力規制委員会（NRC）の設計認証（DC）を受けていない」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「ロールス・ロイスSMR製の小型モジュール炉設計について、包括的設計認証審査（GDA）の実施を要請」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「ロードマップよれば、2025～2030年に「NUWARD」の詳細設計と正式申請が予定され、同期間中の設計認証とサプライチェーンの開発を経て、2030年に初号基に着工し、建設期間は約3年と見込まれている」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「© 2022-2026 脱炭素技術センター.」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「世界が脱炭素にかじを切る中で温暖化ガスを排出しない次世代の電源として期待される」（https://www.nikkei.com/topics/22A00698）
   - 「原子カは安定・安価な脱炭素エネ CORR ORS」（https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf）
   - 「よる機動的な電気出力変化が可能であり、再生可能エネルギーの出力変動を調整する脱炭素」（https://www.jaea.go.jp/04/sefard/faq/files/material050306.pdf）
   - 「それは、生成AIという「史上最もエネルギー密度を要求するテクノロジー」が、既存の送電インフラという「物理的限界」に衝突した結果生まれた、」（https://techshift.jp/2026/07/13/post-1813/）
   - 「日本の技術責任者や事業責任者は、自社が持つ独自の材料・加工・計測技術を単なる部品サプライヤーの枠に留めず、ハイパースケーラーの「戦略的エネルギーパートナー」として格上げするためのシステム設計力と、海外SMR新興企業とのアライアンス構築に、今すぐ踏み出すべきである」（https://techshift.jp/2026/07/13/post-1813/）
   - 「近年、脱炭素化やエネルギー安全保障、電力需要の増加への対応等を背景に、世界各国においてSMR（Small Modular Reactor：小型モジュール炉）の開発や導入に向けた動きが進展しています」（https://www.jaif.or.jp/information/worldsmr20260520/）
   - 「革新軽水炉が2030年代中頃に稼働するために大きな障害となり得るのは、GX脱炭素電源法で原発の60年超運転を可能にした制度である」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「間違った小型モジュール炉への期待（Ⅸ） | 脱炭素技術センター」（https://www.decarbonation-tech.com/nuclear_2125/）
-  - 「ロールス・ロイスSMR製の小型モジュール炉設計について、包括的設計認証審査（GDA）の実施を要請」（https://www.decarbonation-tech.com/nuclear_2125/）
-  - 「横河電機はロールス・ロイスSMRが英国や欧州で建設をめざすSMRの基幹制御システムの開発、認証取得、設置、試運転などに参加する」（https://www.decarbonation-tech.com/nuclear_2125/）
-  - 「その半年後、2023年2月に、GX（グリーントランスフォーメーション）基本方針が閣議決定され、2023年5月にはカーボンプライシングの導入を含むGX推進法、原子力発電所の運転期間の60年超への延長を盛り込んだGX脱炭素電源法のGX関連法が相次いで成立した」（https://www.decarbonation-tech.com/nuclear_2125/）
-  - 「© 2022-2026 脱炭素技術センター.」（https://www.decarbonation-tech.com/nuclear_2125/）
-  - 「脱炭素の機運が高まる中、温暖化ガスをほぼ出さず、大型炉よりも安全で低コストの小型炉に注目が集まる」（https://www.nikkei.com/topics/22A00366）
-  - 「日米以外でも韓国の斗山（ドゥサン）重工業が小型原子炉を設計した次世代原子力発電所「小型モジュール原発（SMR）」が米国で設計認証を取得した」（https://www.nikkei.com/topics/22A00366）
-  - 「小型原子炉、脱炭素で導入機運 日立がカナダで受注」（https://www.nikkei.com/topics/22A00366）
-  - 「「えつおやすお騒動」で国民のつぶやきを「偽情報」とレッテル貼り…こんな「政府広報」が巨額予算を要求中」（https://www.tokyo-np.co.jp/article/290726）
 - 顧客の競合（奪いに来る側）：
-  - 「米国TAE Technologies（TAEテクノロジーズ）に続き、カナダGeneral Fusion（ジェネラル・フュージョン）、英国Tokamaku Energy（トカマク・エナジー）に注目する」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「一方、欧州の多くの国ではエネルギー安全保障を強化するため「脱ロシア」を念頭に置き、原発回帰の動きが活発化している」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「また、米国では35年振りに新規建設の原発が本格稼働を開始した」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「既存技術の延長線上にあるため技術的な問題点が少なく、発電単価も安価になると期待されている」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「（米国、英国、カナダ、ロシア、中国）」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 米国、ロシアが特に積極的で、全体の約半分を占める」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「米国 5 2 4 4 3 18」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「中国 4 1 2 1 8」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「韓国 1 1 2」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「中国 < 5％」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 米国、英国」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 輸出に向けて、米国、英国が世界をリードしている」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「ｻｳｼﾞｱﾗﾋﾞｱ SMARTHTR-PM 2015年～ 韓国MSIT2017年 CNEC 20年代に初号機建設」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「ｱｼﾞｱ フィリピン 2019年 ロスアトム2020年 韓国KHNP －」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「MSIT:科学技術情報通信部、KHNP:韓国水力原子力」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「しかし、ITERの大幅な建設遅れが原因で、EU、日本、韓国、中国は個別に原型炉（DEMO)の開発に向けて動いている」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「一方で、英国、米国においては核融合ベンチャーの誕生が相次いでおり、それぞれ独自の技術に基づいて開発が進められている」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「原発の再稼働に向けて岸田首相が「国が前面に立ってあらゆる対応をとっていく」と強調したものの、関西電力の高浜1,2号機の再稼働は1か月遅れ、東北電力の女川2号機、中国電力の島根２号機は明確な進捗なしと、政府が大きく関与した兆候は認められない」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「中国では高温ガス炉「HTR-PM」が168時間の連続運転に成功し、世界初となる商業運転に移行した」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
+  - 「現在、世界の原子力市場は中国とロシアが主体となっており、」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「米国、カナダ、英国などが「小型モジュール炉（SMR）」で原子力分野の巻き返しを図っている」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「と、中国山東省栄成の石島湾の」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「現在、世界の原子力市場は中国とロシアが主導しており、」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「米国、カナダ、英国などがSMRで原子力分野の巻き返しを図っている」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「米国方式の分類に従い小型軽水炉である「SMR」と、非軽水炉系の「新型炉」の開発動向を区別し、小型軽水炉「SMR」の開発動向をレビューする」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2020年9月、米国原子力規制委員会（NRC）はモジュール1基の出力が5万kWのNPMについて、SMRとして初の「標準設計承認（SDA）」を発給し、2023年1月、設計認証（DC：Design Certification）を発給した」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「韓国の斗山エナビリティ（＝Doosan Enerbility、旧斗山重工業）と、原子炉圧力容器の鍛造材生産」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2023年11月、米国ニュースケール・パワーは、INLで2029年の稼働を計画していた」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「米国初の案件であったが、2023年1月、発電価格が8.9セント（約13円）/kWhと当初計画より約5割高くなる見通しを発表し、さらにインフレや金利高で建造費なども高騰し、」（https://www.decarbonation-tech.com/nuclear_3100/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Agent Harnessの役割をEarendilの説明とPiの公開コードで確認」（https://labmemo.com/smr-terrapower-natrium-oklo-tergo-data-center-2026/）
+  - 「Hermes Agent v0.22.1徹底解説――安定チャネル最初のパッチ」（https://labmemo.com/smr-terrapower-natrium-oklo-tergo-data-center-2026/）
+  - 「cron・圧縮・MCP・Windows Storeの更新経路を実務視点で直すHermes Agent v0.22.1は、大型更新v0.22.0の翌日に公開された修正版です」（https://labmemo.com/smr-terrapower-natrium-oklo-tergo-data-center-2026/）
+  - 「Nuclear Power Plant Commissioning Status」（https://cnic.jp/english/?cat=97）
+  - 「Plutonium Recovered through Reprocessing of Fugen Fuel to be Transferred to Orano The Japan Atomic Energy Agency (JAEA) reported to Japan’s Atomic Energy Commission (JAEC) on September 19 regarding its policy for utilizing plutonium...」（https://cnic.jp/english/?cat=97）
+  - 「In the United States, NuScale Power's uprated 77 MWe US460 design received Standard Design Approval from the Nuclear Regulatory Commission (NRC) in May 2025, according to」（https://informedclearly.com/en/energy/61629/small-modular-reactors-fusion-race-2026）
+  - 「The UK's Office for Nuclear Regulation, alongside the NRC and Canadian Nuclear Safety Commission, signed a trilateral memorandum of cooperation on advanced reactors in March 2024 to harmonize reviews, as detailed by the」（https://informedclearly.com/en/energy/61629/small-modular-reactors-fusion-race-2026）
   - 「LTSは、米国内の先進的なSMR設計の認証、認可及び立地を加速するため、許認可対応に要する費用をDOEが分担するもので、2014年にはNuScale Power社が開発する加圧水型SMR（現在、NuScale Power Module（NPM）と称される）が支援先として選定され、SMRとして初となる設計認証申請を米国原子力規制委員会（Nuclear Regulatory Commission: NRC）に行うに至っている」（https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html）
   - 「多くのSMR設計における小規模な放射性物質と地下展開は追加の安全マージンを生み出し、X-energyのXe-100のような一部の先進原子炉では1,600°Cを超える温度でも物理的に溶融しない」（https://introl.com/ja/blog/smr-nuclear-power-ai-data-centers-2025）
   - 「50%手数料削減」（https://introl.com/ja/blog/smr-nuclear-power-ai-data-centers-2025）
@@ -4782,93 +4789,86 @@
   - 「https://www.nuscalepower.com/press-releases/2025/nuscale-powers-small-modular-reactor-smr-achieves-standard-design-approval-from-us-nuclear-regulatory-commission-for-77-mwe」（https://introl.com/ja/blog/smr-nuclear-power-ai-data-centers-2025）
   - 「———. "NRC commissioners order changes to proposed licensing rules for advanced reactors." 2024.」（https://introl.com/ja/blog/smr-nuclear-power-ai-data-centers-2025）
   - 「White House. "Ordering the Reform of the Nuclear Regulatory Commission." Presidential Actions. May 2025.」（https://introl.com/ja/blog/smr-nuclear-power-ai-data-centers-2025）
-  - 「https://www.whitehouse.gov/presidential-actions/2025/05/ordering-the-reform-of-the-nuclear-regulatory-commission/」（https://introl.com/ja/blog/smr-nuclear-power-ai-data-centers-2025）
-  - 「カトン 【輸入元】 (ドルンMMBtu) (ドルノバレル)」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/kakushinro_wg/pdf/008_01_00.pdf）
-  - 「Nuclear Regulatory Commission (NRC), rising construction costs exceeding initial estimates during detailed design」（https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2025/03/27/2501btf_asada_matsuura_e.pdf）
-  - 「formulated by the NRA in July 2013 after public consultation. In rulemaking, the NRA commissioners referred to the guidelines of the IAEA, Finland, France and the USA, as well as the former NISA July 2011 stress test rules and provisional 30-point measures, issued in April 2012, that were applied to the restarts of Ohi 3&4.」（https://world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power）
-  - 「Decommissioning small old units」（https://world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power）
-  - 「The first reactor to produce electricity in Japan was a prototype boiling water reactor: the Japan Power Demonstration Reactor (JPDR) which ran from 1963 to 1976 and provided a large amount of information for later commercial reactors. It also later provided the test bed for reactor decommissioning.」（https://world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power）
-  - 「In March 2011 units 1-4 of the Fukushima Daiichi plant were seriously damaged in a major accident, hence written off for decommissioning, which removed 2719 MWe net from Tepco's – and the country's – system. In 2014 units 5&6 joined them in being decommissioned.」（https://world-nuclear.org/information-library/country-profiles/countries-g-n/japan-nuclear-power）
 - 政治（法・予算・規制）：
+  - 「政府は、昨年2022年6月の電力需要ひっ迫を起点に、同8月には来夏以降に向け「原発の更なる再稼働が重要だ」との認識を示し、岸田文雄首相は第2回GX会議（2022年8月24日）で「これまでに再稼働した原発10基に加え、来夏以降に追加で7基の再稼働を進める方針」を表明した」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「その半年後、2023年2月に、GX（グリーントランスフォーメーション）基本方針が閣議決定され、2023年5月にはカーボンプライシングの導入を含むGX推進法、原子力発電所の運転期間の60年超への延長を盛り込んだGX脱炭素電源法のGX関連法が相次いで成立した」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「原発の再稼働に向けて岸田首相が「国が前面に立ってあらゆる対応をとっていく」と強調したものの、関西電力の高浜1,2号機の再稼働は1か月遅れ、東北電力の女川2号機、中国電力の島根２号機は明確な進捗なしと、政府が大きく関与した兆候は認められない」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「政府の趣旨はいつの間にか、「原発再稼働」から「60年超の運転期間延長」へと切り替わった」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「2020年9月、米国原子力規制委員会（NRC）はモジュール1基の出力が5万kWのNPMについて、SMRとして初の「標準設計承認（SDA）」を発給し、2023年1月、設計認証（DC：Design Certification）を発給した」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「現時点で、「BWRX-300」は米国原子力規制委員会（NRC）の設計認証（DC）を受けていない」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2022年6月、ポーランド政府所有の電力会社Enea（エネア）グループは「PWR-20」導入を目指し、」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「その後、政府の関与を前提に2035年までに10基、2050年までに最大16基の建設を目指している」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2022年3月、英国原子力規制庁（ONR）は、ビジネス・エネルギー・産業戦略省（BEIS）からロールス・ロイス子会社の」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「政府は10億ユーロ（約1300億円）を投じてSMR開発を進める」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「当初、2022年建設完了をめざしていたが、政府からの建設費支払遅延や設計変更などで作業が中断した」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「政府は2030年の電源構成に占める原子力の割合について、20～22％を目指すとしている」（https://www.decarbonation-tech.com/nuclear_3100/）
   - 「政府は数値目標は設けずに、無理のない範囲での節電協力を要請している」（https://www.decarbonation-tech.com/nuclear_2116/）
   - 「米政府、原発新設に2.8兆円融資へ 2030年までに10基着工」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
   - 「 英国における新設原子力発電所の資金調達手法「規制資産ベース（RAB）」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「 フランスの原子力発電への規制アクセス制度 ARENH の見直しと新たな制度的措置の概要案」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「第4部 許認可に係る規制行政」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「 米国原子力規制委員会の行政審判制度について－原子力安全許認可審査パネル (ASLBP) の紹介－」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「原子力規制委員会（NRC）によるSMRの定義」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「• この他、連邦政府による長期契約（power purchase agreement）の可能性につ」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「• 2018年度予算にて、2021年1月以降に運転を開始する発電所につ」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「- 予算権限は連邦議会にあるが、近年、連邦議会では原子力に関する複数の立法が超」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「• 連邦制であり、かつ憲法上の規程により、エネルギーミックスは州政府の権限」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「• 規範的（prescriptive）ではない、technology neutralな規制基準」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「• 評価サービスであり、設計認証のような規制判断ではない」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「規制基準の特徴やVDRという仕組みの存在が、新型炉開発に適した環境を提供」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
-  - 「- 先進原子炉基金（Advanced Nuclear Fund, 計38.5億ポンド）」（https://www.aesj.or.jp/~fuel/Pdf/seminar/2022_txt/1530_SMR.pdf）
 - 経済（規模・価格・為替）：
+  - 「米国初の案件であったが、2023年1月、発電価格が8.9セント（約13円）/kWhと当初計画より約5割高くなる見通しを発表し、さらにインフレや金利高で建造費なども高騰し、」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「建設費用は約1000億円」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「受注額は4基合計で3000億円規模とみられ、オンタリオ州ダーリントンに建設する」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2021年11月、ロールス・ロイスは米国エクセロン・ジェネレーション、フランスのBNFリソーシズUKと、英国内のSMR開発に今後3年間で合計1.95億ポンド（約295億円）投資すると発表」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「これを受けて英国ビジネス・エネルギー・産業戦略省（BEIS）は、2.1億ポンド（約318億円）を提供する方針を表明した」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「政府は10億ユーロ（約1300億円）を投じてSMR開発を進める」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「CNEAが設計、総投資額35億ペソ（約455億円）で国内のIMPSAに発注し、機器・関連サービスの7割を国内企業から調達する方針で、現在製造中である」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「建設費は2000億円/台」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「世界の原発建設79基、40年ぶり高水準 エネ価格高騰やAI需要で」（https://www.nikkei.com/topics/22A00698）
+  - 「半導体工場に1.6兆円、対米投融資の第3弾 東エレクや東京応化が参画」（https://www.nikkei.com/topics/22A00698）
+  - 「対米投融資で半導体工場、日米両政府 2兆円規模」（https://www.nikkei.com/topics/22A00698）
+  - 「米半導体大手、3兆円でニューヨーク州に工場 日本の対米投融資の一環」（https://www.nikkei.com/topics/22A00698）
+  - 「対米投資第2弾、融資7300億円が決定 米シティと米JPモルガン参加」（https://www.nikkei.com/topics/22A00698）
+  - 「1992年に建設を開始したがトラブル頻発により、2021年6月には総事業費が14.44兆円に膨らんだことを公表し、2022年9月には26回目となる工事完成の延期を発表」（https://www.decarbonation-tech.com/nuclear_2121/）
   - 「アメリカ、小型原発の商用化へ1300億円支援 カナダはG7初着工 - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
-  - 「原子炉開発や原発新設などの支援に9億ドル（およそ1300億円）を投じる」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
-  - 「米政府、原発新設に2.8兆円融資へ 2030年までに10基着工」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
-  - 「2,000〜3,000億円（NOAK時）」（https://techshift.jp/2026/07/13/post-1813/）
-  - 「1兆〜2兆円超」（https://techshift.jp/2026/07/13/post-1813/）
-  - 「安全対策などで建設コストが1兆円規模となる革新軽水炉への建て替えに対して、電力会社は1千億円規模で済む従来原発の運転延長を選択する可能性が高い」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「2021年11月、ロールス・ロイスは米国エクセロン・ジェネレーション、フランスのBNFリソーシズUKと、英国内のSMR開発に今後3年間で合計1.95億ポンド（約295億円）の投資を発表」（https://www.decarbonation-tech.com/nuclear_2125/）
-  - 「これを受けて英国ビジネス・エネルギー・産業戦略省（BEIS）は、2.1億ポンド（約318億円）を提供する方針を表明した」（https://www.decarbonation-tech.com/nuclear_2125/）
-  - 「日立・GE、小型原子炉を受注 カナダで3000億円規模」（https://www.nikkei.com/topics/22A00366）
-  - 「折からの世界的な高インフレを受けて、ニュースケールは1MWh当たりの目標電力価格を、当初の58ドルから89ドルに今月大幅に引き上げた（ロイター1月20日）」（https://www.jetro.go.jp/biznews/2023/01/e87fd9d18b86b1a5.html）
-  - 「また、エネルギー経済・財務分析研究所（IEEFA）は、同価格は最終的に102ドルになると試算しており、SMRが安価なエネルギー源とする考え方は弱められていると主張している」（https://www.jetro.go.jp/biznews/2023/01/e87fd9d18b86b1a5.html）
-  - 「例えば、アメリカでは、SMRの技術開発支援として、NuScale社へ約1355億円の支援を行いました※」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
-  - 「イギリスでは革新原子力ファンド内で、SMR開発に約322億円を充てており※、フランスや韓国など、その他の国々でも政府支援が実施されています」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
-  - 「は電気出力：30万kW以下と小型化するために、kWあたりの発電単価は高くなる」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「～4兆円、SMRで」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
 - 社会（人・担い手）：
-  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
-  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOGN19CEW0Z10C25A5000000/）
-  - 「拡大が予想される世界のSMR市場を見据え、雇用、知的財産権及びサプライチェーンの国内定着を図るとともに、開発政策面においても世界のリーダー的立場を確保することがその狙いとされる」（https://www.jaea.go.jp/04/sefard/ordinary/2022/2022090901.html）
-  - 「●次世代革新炉の開発・設置 ●サプライチェーン ●人材」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「発・設置に留まらず、再稼働等においても重要であることから、五つ目の柱に移管し、同様に重要である人材の」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「位置づけの明確化と合わせて、「事業環境整備／サプライチェーン・人材基盤の維持・強化」としてはどうか」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「の維持・強化、人材の」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「・原子力の価値実現、技術・人材」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「• 廃炉現場での双方向のイノベーション促進･人材育成の視点も踏まえ、フィジカルＡＩ等も活」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「用した遠隔操作技術等の開発や､廃炉作業を担う多様な人材の確保･育成を含む体制構築を行う」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「持、人材の育成・確保の観点から見通しや将来像を示す必要があるとの意」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「• 人材不足、サプライチェーン毀損のリスクを抱える中で、2040年以降の供給力の壁への解決策を早急に示」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「• 社会実装や実証炉の実現に向けた課題への対応の進捗、人材やサプライチェーンの状況、そし」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「（施設老朽化、人材不足）も踏まえつつ、研究開発基盤の強化を図ることが重要」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
-  - 「✓震災以降の新規建設案件喪失で、原子力産業・人材基盤が脅かされつつあ」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/pdf/049_02_00.pdf）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/topics/22A00698）
+  - 「安全かつ機能的なSMRを建設するための熟練した人材の不足も、市場の成長率に悪影響を与えるだろう」（https://www.zionmarketresearch.com/ja/report/small-modular-reactor-market）
+  - 「今回の発表について、アリ・ザイディ大統領補佐官（気候変動担当）は「国内のウラン供給量を増加させることは、バイデン政権の歴史的な気候変動対策を前進させるだけでなく、米国のエネルギー安全保障を強化し、高賃金の労働組合の雇用を創出し、競争力を強化することにもつながる」と述べ、その意義を強調した」（https://www.jetro.go.jp/biznews/2024/01/14c7b17d01df0f4c.html）
+  - 「前回「その1」では、再稼働が進む裏側で、撤退企業の増加や技能職の減少、部品の供給途絶といった形でサプライチェーンが静かに損なわれてきた実態と、その背景にある政策転換（GX脱炭素電源法）を見てきた」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「全国およそ400社の原子力関連企業を対象に、①戦略的な人材の育成・確保、②部品・素材の供給途絶対策と事業承継支援、③海外プロジェクトへの参画支援という3本柱で、個社の実情に応じた伴走支援を行う枠組みである」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「NSCPでは、原子力発電所向けバルブを製造するメーカー各社による意見交換会や、実際の工場見学会を実施し、技術・技能の伝承方法について事業者間で知見を共有する場を設けている」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「ある企業では、震災後に新設案件がなく特定用途の部品発注に偏りが生じているとして、技術情報をできる限り文書化するとともに、工場敷地内に実際の配管を模した研修設備を設けて技能継承にあたっているという」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「国はこうした個社の取り組みに対し、原子力分野の製造・検査に関わるものづくり人材向けの実習講座を2023年度から委託事業として開始し、順次拡大している」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「あわせて、経済産業省と文部科学省が連携し、大学・高専等の教育機関とも協力しながら、若手人材の確保に向けたカリキュラム・講座開発も進められており、産業界単独ではなく、教育機関を巻き込んだ中長期的な人材供給の枠組みづくりが図られている」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「資源エネルギー庁の審議会資料では、人材不足とサプライチェーン毀損のリスクを抱えたまま2040年以降の供給力の壁に直面しかねないとの強い危機感が示されており、単発の予算措置ではなく、継続的な発注のリズムをどう作るかが焦点になっている」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「2022年時点の政府資料によれば、フランスでは原子炉メーカーのフラマトム社が経営体制を刷新し、技術・人材の立て直しに取り組んでいるとの指摘があった（直近の経営状況は本稿執筆時点で確認できていない）」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「国内の新設需要だけに頼らず、海外の成長市場に活路を見いだすことは、供給網を維持するための現実的な選択肢の一つだが、各国とも同じ課題――建設・調達の空白期間による技術と人材の劣化――と向き合っている点は、日本の状況と地続きであることも見えてくる」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「資源エネルギー庁 原子力人材育成イニシアティブ報告書（2023年1月18日）」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「現在、NPO日本サプライマネジメント協会にて調達人材の育成とサプライマネジメント領域の高度化を推進中」（https://supplystrategist.fastalert.jp/posts/mZNjZj1X）
+  - 「課題4：人材育成」（https://labmemo.com/smr-terrapower-nuscale-ge-hitachi-bwrx-300-2026/）
 - 技術（新しい技術・実証）：
-  - 「核融合スタートアップ各社の開発動向についてレビューを進める」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「2018年、経済協力開発機構/原子力機関(OECD/NEA)の軽水炉に関するATF専門家グループ（EGATFL）による会合(2014～2017年)で、ATF候補概念が検討され候補材料が示された」（https://www.decarbonation-tech.com/nuclear_2116/）
-  - 「２．世界のSMR開発の概況」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「３．主要国のSMR開発状況」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「2-1 世界のSMR開発状況」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「国名 原子炉名 炉型 電気出力（万kW） M性 燃料 設計者 開発段階」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「けるリーダーシップ奪還を目指し、先進型原子炉（AR）を積極的に開発」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「えて「AR研究開発への積極的な投資」を進める方針」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 連邦議会は2018年、NEICA法、NEIMA法によりAR開発をサポート」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「●商業化のための研究開発施設（NRIC）の設置」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「●研究開発のための技術資源のDOEとNRCの共有化促進」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「米国連邦議会のSMR開発促進に向けた法制定」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 バイデン政権は2035年の電力分野CN目指し、ARを開発」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「3-1 米国： AR開発の背景とタイムライン」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「 2015年、革新的原子力技術支援（GAIN＊）を開始」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
+  - 「まずは、加圧水型軽水炉（PWR）をベースに開発を進めている三菱重工業の「SRZ-1200」を見てみよう」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「しかし、ITERの大幅な建設遅れが原因で、EU、日本、韓国、中国は個別に原型炉（DEMO)の開発に向けて動いている」（https://www.decarbonation-tech.com/nuclear_2116/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
+  - 「浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発」（https://www.nikkei.com/article/DGXZQOUC032VF0T01C21A2000000/）
+  - 「小型軽水炉（SMR）の開発現状 | 脱炭素技術センター」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「次世代自動車：2010年代の開発」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「SMRは世界で80以上の開発が進められている」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「先進国ではSMR開発に重きが置かれ、2021～2035年にかけて約450万kW/年で拡大すると予測している」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「米国方式の分類に従い小型軽水炉である「SMR」と、非軽水炉系の「新型炉」の開発動向を区別し、小型軽水炉「SMR」の開発動向をレビューする」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「として、多様な利用をめざして開発が進められている」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「SMRを活用したクリーン水素製造を共同開発・実証」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「が進める「SMR-160」は、子会社SMRが開発中のPWR型の小型軽水炉（電気出力：16万kW、炉心出口温度：321℃）である」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「カナダのSNC-ラバリン、米国のエクセロン・ジェネレーションなどが開発で参加し、燃料はフランスのフラマトムが供給する」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「GE日立・ニュクリアエナジーと日立GEニュークリア・エナジーが開発する」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「2022年8月、テネシー峡谷開発公社（TVA）がクリンチリバー・サイトで建設する可能性」（https://www.decarbonation-tech.com/nuclear_3100/）
 - 検索結果の抜粋：
-  - 「｢ 小型モジュール炉 （ SMR ）」を3分解説！ | EMIRA — ｢ 小型モジュール炉 （ SMR ）」を3分解説！ | EMIRA emira-t.jp https://emira-t.jp > エネペディア」（https://emira-t.jp/pedia/26107/）
-  - 「Small Modular Reactors - MITSUI & CO., LTD. — Small Modular Reactors - MITSUI & CO., LTD. MITSUI & CO., LTD. PDF https://www.mitsui.com > afieldfile > 2025/03/27」（https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2025/03/27/2501btf_asada_matsuura_e.pdf）
-  - 「Japan Invests $65 Billion in U.S. SMR Projects : r/StockMarket — Japan Invests $65 Billion in U.S. SMR Projects : r/StockMarket Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/StockMarket/comments/1u4atdy/japan_invests_65_billion_in_us_smr_projects/）
-  - 「[米国] DOE、 SMR 導入加速に向け8社に総額9400万ドルを支給 — [米国] DOE、 SMR 導入加速に向け8社に総額9400万ドルを支給 電気事業連合会 https://www.fepc.or.jp > ... > 海外電力関連 トピックス情報」（https://www.fepc.or.jp/pr/kaigai/kaigai_topics/1271701_8182.html）
-  - 「Japan Small Modular Reactor Market (2024-2029) — Japan Small Modular Reactor Market (2024-2029) MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/small-modular-reactor-market/Japan）
-  - 「小型モジュール炉 （ SMR ）の まやかしと原発のコスト — 小型モジュール炉 （ SMR ）の まやかしと原発のコスト 国際環境NGO FoE Japan PDF https://foejapan.org > 2025/11 > 251113_matsukubo」（https://foejapan.org/wpcms/wp-content/uploads/2025/11/251113_matsukubo.pdf）
-  - 「世界の 小型モジュール炉 の開発動向 - 原子力委員会 — 世界の 小型モジュール炉 の開発動向 - 原子力委員会 原子力委員会 PDF https://www.aec.go.jp > teirei > siryo32 > 1_haifu」（https://www.aec.go.jp/kaigi/teirei/2021/siryo32/1_haifu.pdf）
-  - 「オンタリオ州、カナダ初の 小型モジュール炉 の建設開始を許可 — オンタリオ州、カナダ初の 小型モジュール炉 の建設開始を許可 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2025/05」（https://www.jetro.go.jp/biznews/2025/05/587f9da7e0a1a584.html）
-  - 「SMR とは？メリット・デメリット、 国内 外の開発事例や各国 ... — SMR とは？メリット・デメリット、 国内 外の開発事例や各国 ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_69」（https://www.wsew.jp/hub/ja-jp/blog/article_69.html）
-  - 「小型モジュール式原子炉（ SMR ）市場 2026 -2046年：技術 — 小型モジュール式原子炉（ SMR ）市場 2026 -2046年：技術 IDTechEx https://www.idtechex.com > research-report > nuclear-sma...」（https://www.idtechex.com/ja/research-report/nuclear-small-modular-reactors-smrs-market/1153）
-  - 「Small Modular Reactor Market Outlook 2026 - 2035 — Small Modular Reactor Market Outlook 2026 - 2035 Business Research Insights https://www.businessresearchinsights.com > ...」（https://www.businessresearchinsights.com/market-reports/small-modular-reactor-market-125340）
-  - 「小型モジュール炉 市場規模・成長レポート、 2026 〜2035年 — 小型モジュール炉 市場規模・成長レポート、 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > small-m...」（https://www.gminsights.com/ja/industry-analysis/small-modular-reactor-market）
-  - 「小型モジュール炉SMR はデータセンターの深刻な電力不足を ... — 小型モジュール炉SMR はデータセンターの深刻な電力不足を ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/10 > smrai」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
-  - 「英国政府、北ウェールズで英国初の 小型モジュール炉 建設へ — 英国政府、北ウェールズで英国初の 小型モジュール炉 建設へ ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2025/11」（https://www.jetro.go.jp/biznews/2025/11/c0464d81d0d5a736.html）
-  - 「小型モジュール炉 市場 2035年には158億7000万米ドルへ拡大 — 小型モジュール炉 市場 2035年には158億7000万米ドルへ拡大 Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 https://www.reportocean.co.jp > industry-reports > small-...」（https://www.reportocean.co.jp/industry-reports/small-modular-reactor-market）
+  - 「注目される小型軽水炉（ SMR ）とは？ - 脱炭素技術センター — 注目される小型軽水炉（ SMR ）とは？ - 脱炭素技術センター 脱炭素技術センター https://www.decarbonation-tech.com > nuclear_3100」（https://www.decarbonation-tech.com/nuclear_3100/）
+  - 「小型モジュール炉 - Wikipedia — 小型モジュール炉 （こがたモジュールろ、英語: S mall M odular R eactors: SMR）は、従来の 原子炉 よりも小型の 核分裂炉。 一般的な 原子力発電所 の電気出力が1基100万キロ ワット 程度であるのに対して、SMRは30万キロワット以下 [1] 、または熱出力が1000MWth未満 ...」（https://ja.wikipedia.org/wiki/小型モジュール炉）
+  - 「小型モジュール炉（SMR）が日本にもたらす価値とは 次世代原子炉が切... — Jul 29, 2025 · こうした状況を踏まえ、今後の脱炭素電源の選択肢として、原子力、特に小型モジュール炉（SMR：Small Modular Reactor）の可能性について、本コラムで考えていきたい。」（https://www.mri.co.jp/knowledge/column/20250729.html）
+  - 「小型モジュール炉（SMR）・次世代原子力完全解説ガイド2026：「AIの電... — May 23, 2026 · 小型モジュール炉（SMR）完全ガイド2026。 TerraPower・Natrium・Oklo等の最新動向、AIデータセンターの電力飢餓への対応、安全性、日本の規制状況と導入展望、原子力発電の未来を初心者向けに分かりやすく詳しく解説するSMR完全ガイド。」（https://labmemo.com/smr-terrapower-natrium-oklo-tergo-data-center-2026/）
+  - 「小型モジュール炉（SMR）は電力不足を変える？国内外9事例と参入条件... — Sep 8, 2026 · SMRは、小型モジュール炉と呼ばれる原子炉です。 大型原子炉より出力を小さくし、主要な機器を工場でつくりやすくする考え方が注目されています。 期待される理由は、電力需要の伸びです。 たとえば、AIデータセンターは24時間動く電源を求めています。」（https://iri-group.jp/knowledge/theme/energy-food/smr/）
+  - 「小型モジュール炉SMRはデータセンターの深刻な電力不足を解消できるか... — Oct 4, 2026 · 火力発電所の閉鎖で税収や雇用が縮小する自治体にとっても、同じ敷地で小型モジュール炉SMRとデータセンターを受け入れることは地域経済の維持につながります。 社会的な受容性を形成しやすい点も、用地選定における実務的な強みとなります。」（https://blogs.itmedia.co.jp/business20/2026/10/smrai.html）
+  - 「小型モジュール炉（SMR）の実用化はいつ？仕組みとロードマップ、東洋... — Jul 13, 2026 · 本記事では、SMR実用化へのロードマップと、グリッドの限界を突破するオンサイト自営電源としての可能性、そして日本企業が挑む世界最先端の技術的課題を鋭く分析します。」（https://techshift.jp/2026/07/13/post-1813/）
+  - 「「世界の主なSMR（小型モジュール炉）建設・計画・検討状況」の掲載に... — May 20, 2026 · 近年、脱炭素化やエネルギー安全保障、電力需要の増加への対応等を背景に、世界各国においてSMR（Small Modular Reactor：小型モジュール炉）の開発や導入に向けた動きが進展しています。」（https://www.jaif.or.jp/information/worldsmr20260520/）
+  - 「SMR（小型モジュール炉）完全ガイド2026：原子力の民主化 — May 23, 2026 · 従来の大型原子炉とは根本的に異なるアプローチ——「小さく、安全に、どこでも」——を掲げるこの技術は、単なる原子力の進化版ではない。 エネルギーの在り方そのものを問い直す「パラダイムシフト」だ。」（https://labmemo.com/smr-terrapower-nuscale-ge-hitachi-bwrx-300-2026/）
+  - 「小型モジュール式原子炉（SMR）市場 2026-2046年：技術、有力企業、ベ... — 本調査レポートでは、SMR（小型モジュール炉）市場について、原子炉技術、有力企業、その他電力網、データセンター、産業向け潜在的用途を含む包括的分析を提供しています。」（https://www.idtechex.com/ja/research-report/nuclear-small-modular-reactors-smrs-market/1153）
+  - 「2026年2月 | 新型炉に関する国際情報 | 国立研究開発法人日本原子力研... — 2026年2月の新型炉（高温ガス炉、高速炉等）、SMR、イノベーション技術、核燃料サイクル、エネルギー政策等に関する海外の動向について、収集した情報を紹介します。」（https://www.jaea.go.jp/04/sefard/situation/2026/202602.html）
+  - 「Japan, US, South Korea Eye Indonesia for Small Modular ... — Nov 2, 2026 · Japan, the United States, and South Korea are considering Indonesia a leading candidate for deploying small modular reactors (SMRs), a next-generation nuclear technology the three countries are jointly developing.」（https://japan-forward.com/us-south-korea-indonesia-small-modular-reactors/）
+  - 「Small Modular Reactors (SMR) – Citizens' Nuclear Information ... — Jun 6, 2022 · Japan Bank for International Cooperation (JBIC) invests in SMR development company NuScale By Mitsuta Kanna, FoE Japan On April 6, 2022, Friends of the Earth Japan (FoE Japan) issued a statement protesting the decision of Japan Bank for International Cooperation (JBIC), wholly owned by the Japanese...」（https://cnic.jp/english/?cat=97）
+  - 「SMR Catalogue 2026 — Small modular reactors (SMRs) may play an important role in the transition to low-carbon energy systems. Their smaller unit size makes them suitable for countries with smaller electricity grids, while their lower upfront capital investment requirements may improve financing prospects and facilitate incremental capacity additions.」（https://aris.iaea.org/publications/SMR_Catalogue_2026.pdf）
+  - 「FACT SHEET: U.S.-Japan-ROK Memorandum of Cooperation on Small ... — Sep 20, 2026 · The United States, Japan, and the Republic of Korea signed a Memorandum of Cooperation (MOC) on July 7, 2026 establishing a trilateral framework accelerating small modular reactor (SMR) and advanced nuclear reactor technology deployments, with an initial focus on the Indo-Pacific.」（https://www.state.gov/wp-content/uploads/2026/09/MOC-Fact-Sheet-20260920-FINAL.pdf）
 
 ## バイオ由来化学品（bio-based chemicals）
 - 文脈：12 GX ⑦GXケミカル

@@ -1,0 +1,939 @@
+{
+ "name": "MIM・バインダー系フィードストックのメーカー（3Dプリント用）",
+ "en": "MIM feedstock for 3D printing suppliers pellets metal injection",
+ "aliases": [
+  "MIM Feedstock Hersteller",
+  "feedstock MIM fabricant",
+  "喂料 MIM 厂家"
+ ],
+ "context": "フィードストック",
+ "kind": "market",
+ "researched_at": "2026-11-09T06:00:22.539232+00:00",
+ "evidence": {
+  "会社名・一覧": [
+   {
+    "quote": "Supplier Evaluation Checklist",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIM can assist customers with custom MIM material development when standard MIM-grade alloys cannot meet a clearly defined part requirement. These projects are uncommon and require coordinated work between the customer, XTMIM engineers, and a specialist powder or feedstock supplier. They are not a routine material-selection service or XTMIM’s main manufacturing business.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "The specialist supplier prepares the required powder-binder formulation and supplies ready-to-mold pelletized MIM feedstock. XTMIM then evaluates the downstream manufacturing route through in-house injection molding, debinding, sintering, dimensional review, and project-specific validation before tooling decisions are locked. For most projects, the better first step is still to compare proven",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard MIM materials should be reviewed first. Custom material development is considered only when a measurable performance gap remains and the project can support specialist supplier development plus downstream production validation.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Using a specialist-supplier-prepared powder mixture and pelletized feedstock for a defined performance requirement",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboratively developing a new alloy route with specialist material suppliers, followed by MIM production and validation",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIM can support rare custom material development projects by translating part requirements into a MIM manufacturing route and coordinating with specialist powder or feedstock suppliers. Powder-binder compounding is not a routine in-house workshop operation at XTMIM; suppliers deliver ready-to-mold pelletized MIM feedstock for molding and downstream process evaluation.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Real pelletized MIM feedstock showing the physical form of supplier-prepared material before injection molding. The pellets can be loaded directly into MIM injection molding equipment for molding and downstream process evaluation.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "If a verified performance gap remains, XTMIM can help define the MIM requirements and coordinate with a specialist supplier for suitable pelletized feedstock, followed by molding, debinding, sintering, dimensional, and property validation. This is an illustrative decision example, not a customer case or a claim of a specific project result.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "MIM depends on fine metal powders with suitable chemistry, particle size, shape, purity, and supply stability. For a custom route, XTMIM reviews these requirements with the customer and a specialist material supplier; a material may exist as a wrought or casting alloy without being practical as supplier-prepared MIM feedstock.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "A specialist supplier compounds the powder with a binder system and delivers ready-to-mold pelletized",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier feedstock preparation and XTMIM trial molding",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "A specialist supplier prepares the powder-binder formulation and pelletized feedstock; XTMIM evaluates flow, filling, green strength, and molding stability after the material is received.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": ", including",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": ", including Fe-Ni, Fe-Si, or Fe-Co options",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Specialist powder or feedstock supplier",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier-prepared pellets are delivered to XTMIM; routine powder-binder compounding is not performed in the XTMIM production workshop",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "XTMIM loads supplier-prepared pelletized MIM feedstock into its in-house injection molding equipment and evaluates molding behavior against the part geometry.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Coordinate Supplier Feedstock Feasibility",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "If standard routes are not suitable, we discuss powder and feedstock requirements with a specialist supplier. The supplier prepares the powder-binder formulation and pelletized feedstock; XTMIM then reviews whether the supplied material is practical for molding, debinding, sintering, dimensional control, and final property validation.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   }
+  ],
+  "展示会": [
+   {
+    "quote": "XTMIM can assist customers with custom MIM material development when standard MIM-grade alloys cannot meet a clearly defined part requirement. These projects are uncommon and require coordinated work between the customer, XTMIM engineers, and a specialist powder or feedstock supplier. They are not a routine material-selection service or XTMIM’s main manufacturing business.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard MIM materials cannot meet a clearly defined performance target.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard MIM materials should be reviewed first. Custom material development is considered only when a measurable performance gap remains and the project can support specialist supplier development plus downstream production validation.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Why standard materials come first",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard MIM material selection",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "A true custom feedstock route should only be considered after standard materials and established",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom material review can make sense when the part has a clear performance requirement that cannot be met by a standard MIM material route. The requirement should be tied to function, environment, inspection criteria, or service risk, not only to a preferred alloy name.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "The customer expects the same cost and lead time as a standard MIM material.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "The team should first convert the general request into measurable property, application, inspection, geometry, and volume requirements. Standard stainless steel, heat-treatable stainless steel, low alloy steel, surface finishing, and wear-resistant alternatives should then be compared before a custom route is considered.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Material Alternatives Should Be Reviewed First",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "In most MIM projects, standard or established materials should be reviewed before custom material development. This does not reduce engineering quality. In many cases, it improves project stability because powder behavior, molding response, sintering behavior, and inspection expectations are easier to discuss before tooling.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium, Co-Cr, stainless options, and project-specific standards review",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "A standard material may not sound as impressive as a custom alloy, but it is often easier to validate, easier to quote, and safer for production.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Most MIM projects should review standard material options first. Custom feedstock becomes reasonable only when standard materials cannot meet clearly defined performance requirements.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard MIM materials should be reviewed first; custom feedstock is a higher-cost, higher-validation route that should be justified by measurable performance requirements.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare Standard MIM-Grade Alternatives",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Before recommending custom development, we compare the request against standard stainless steels, low alloy steels, soft magnetic materials, special alloys, and relevant post-treatment options.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "If standard routes are not suitable, we discuss powder and feedstock requirements with a specialist supplier. The supplier prepares the powder-binder formulation and pelletized feedstock; XTMIM then reviews whether the supplied material is practical for molding, debinding, sintering, dimensional control, and final property validation.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Recommend a Standard, Modified, or Custom Route",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "The final recommendation may be a standard material, a modified route using heat treatment or surface finishing, an established special alloy, or a supplier-supported custom material development route. If the custom route is not technically or commercially reasonable, we will explain the limitation clearly.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "Custom MIM materials usually increase cost and lead time because they introduce more unknowns before stable production can begin. The cost driver is not only the powder price. It is the additional work needed to confirm whether the material route can produce repeatable parts within the drawing and inspection requirements.",
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MTRL & DSGN LAB - 熱溶解積層式3Dプリント用のステンレスフィラメン... しかし、3Dプリントは層状に積層していくことから、XYとZ方向で、強度、収縮率などに差が出る欠点を持つため、材料や積層ピッチなどを最適化して解決する研究が日本のMIMメーカーと大学で進められている。",
+    "url": "https://www.facebook.com/MTRL.AND.DSGN.LAB/posts/熱溶解積層式3dプリント用のステンレスフィラメントが開発されておりsus316lsus630相当の合金で成形可能な材料が販売されているフィラメントは金属微粒子を/270418287927444/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/manufacturing/comments/cigsyu/where_to_get_metal_injection_moulding_feedstock/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pollen.am/metal_general_introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.samaterials.com/metal-injection-molding-feedstock-316l-mim.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.met3dp.com/blog/metal-3d-printing-vs-mim-process-in-2026-small-metal-parts-sourcing-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/lzfj67/mim_feedstock_for_sls_3dprinting_metal_parts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://advancedpowderproducts.com/metal-injection-molding-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optimim.com/resources/article/mim-series-part-2-feedstock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zcmim.com/custom-mim-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mimaweb.org/DesignCenter/ProcessOverviewMIM.aspx",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.precision-mim.com/news/MIM-Feedstock-Binder-System-Powder-Loading-Guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fabit3d.com/knowledge-base/metal-injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silvexinc.com/about-us/news/metal-injection-molding-3d-printing-powder-metal-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zcmim.com/mim-feedstock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/en/powder-technologies/metal-injection-molding/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indo-mim.com/indo-mim-inc/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sigmatechnik.com/injection-molding/the-top-metal-injection-molding-materials-suppliers-in-the-industry",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.samaterials.com/metal-injection-molding.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/reports/global-metal-injection-molding-mim-powders-and-feedstock-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.mpif.org/MPIF/Associations/MIMA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/metal-injection-molding-powders-and-feedstock-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/metal-injection-molding-mim-parts-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ryerinc.com/feedstock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/2018/01/aim3ds-most-interesting-3d-metal-printing-concept",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optimim.com/resources/article/mim-series-part-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.samaterials.com/metal-injection-molding-feedstock-304l-mim.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mfg.com/manufacturer/indomim-texas-1856007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmindustries.com/polyalloys/mim-processes-and-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indo-mim.com/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indo-mim.industree.asia/metal-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jhmim.com/ja/binder-jetting-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://mimsen83.blogspot.com/2019/&q=EgQUQGvBGPPDxdcGIi0oYFgV6vissh6CJJoxOtBZ9ZTIxLz5UED4evKfeuVwJ5jlRGdFOVN85x1XROEyAnJSWgFDYKPbt7Lo7MXzfg",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/knowledge/glossary/mim.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metal-am.com/wp-content/uploads/sites/4/2021/12/Metal-AM-Winter-2021.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/metal-powders-in-additive-manufacturing-an-exploration-of-sustainable-production-usage-and-recycling/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/wp-content/uploads/sites/4/2025/03/Metal-Additive-Manufacturing-magazine-Spring-2025-issue.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/selecting-atomised-aluminium-alloy-powders-for-the-metal-3d-printing-process/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/kbm-advanced-materials-launches-to-sell-metal-powders-for-am-and-mim/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/webinar-the-future-of-tooling-manufacturing-exploring-indomim-m2-properties-with-hp-metals-3d-printing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dprintingindustry.com/news/continuum-raises-36m-to-fund-recycled-metal-3d-printing-powder-growth-opportunities-218786/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/optimizing-3d-printer-feedstock-production-with-ross-mixers-industrial-mixing-portfolio-225175/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/chinese-super-factory-with-400-metal-3d-printers-planned-for-smartphone-production-255540/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/hoganas-launches-additive-manufacturing-mim-venture-132004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/indo-mim-qualifies-continuum-powders-optipowder-ni718-on-hp-metal-jet-s100-245511/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/new-amgta-research-reveals-sustainable-metal-am-powder-production-methods-230173/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mim-leader-indo-mim-adopts-incus-gmbh-metal-3d-printer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/continuum-powders-and-indo-mim-qualify-ni718-for-binder-jet-production/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/indo-mim-to-install-5-more-hp-metal-jet-s100-units/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/additive-manufacturing/am-technologies/fused-feedstock-depositioning/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/aim3d-presents-cem-e2-extruder-for-metal-plastic-and-ceramic-pellets/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/what-are-the-pellet-3d-printers-on-the-market-200120225/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/how-does-3d-printing-with-pellets-work-291220214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/rapid-fusion-pellets-large-format-additive-manufacturing-231020244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/benefits-of-tumaker-pellets-3d-printing-formnext-18112021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/stratasys-takes-the-leap-into-metal-3d-printing-17112025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/10-reasons-to-use-pellets-in-3d-printing-120920244/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/MTRL.AND.DSGN.LAB/posts/熱溶解積層式3dプリント用のステンレスフィラメントが開発されておりsus316lsus630相当の合金で成形可能な材料が販売されているフィラメントは金属微粒子を/270418287927444/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.reddit.com/r/manufacturing/comments/cigsyu/where_to_get_metal_injection_moulding_feedstock/",
+    "https://pollen.am/metal_general_introduction/",
+    "https://www.samaterials.com/metal-injection-molding-feedstock-316l-mim.html",
+    "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "https://blog.met3dp.com/blog/metal-3d-printing-vs-mim-process-in-2026-small-metal-parts-sourcing-guide/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/lzfj67/mim_feedstock_for_sls_3dprinting_metal_parts/",
+    "https://www.zcmim.com/custom-mim-materials/",
+    "https://fabit3d.com/knowledge-base/metal-injection-molding/",
+    "https://www.mimaweb.org/DesignCenter/ProcessOverviewMIM.aspx",
+    "https://www.zcmim.com/mim-feedstock/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "MIM feedstock for 3D printing suppliers pellets metal injection list",
+   "results": [
+    "https://pollen.am/metal_general_introduction/",
+    "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "https://advancedpowderproducts.com/metal-injection-molding-materials",
+    "https://www.optimim.com/resources/article/mim-series-part-2-feedstock",
+    "https://www.zcmim.com/custom-mim-materials/",
+    "https://www.mimaweb.org/DesignCenter/ProcessOverviewMIM.aspx",
+    "https://www.samaterials.com/metal-injection-molding-feedstock-316l-mim.html",
+    "https://www.precision-mim.com/news/MIM-Feedstock-Binder-System-Powder-Loading-Guide/",
+    "https://www.sciencedirect.com/science/article/pii/S2468067222000372",
+    "https://www.zcmim.com/mim-feedstock/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "top MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.reddit.com/r/manufacturing/comments/cigsyu/where_to_get_metal_injection_moulding_feedstock/",
+    "https://pollen.am/metal_general_introduction/",
+    "https://www.zcmim.com/custom-mim-materials/",
+    "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "https://blog.met3dp.com/blog/metal-3d-printing-vs-mim-process-in-2026-small-metal-parts-sourcing-guide/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/lzfj67/mim_feedstock_for_sls_3dprinting_metal_parts/",
+    "https://www.samaterials.com/metal-injection-molding-feedstock-316l-mim.html",
+    "https://fabit3d.com/knowledge-base/metal-injection-molding/",
+    "https://www.silvexinc.com/about-us/news/metal-injection-molding-3d-printing-powder-metal-parts/",
+    "https://www.zcmim.com/mim-feedstock/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MIM feedstock for 3D printing suppliers pellets metal injection distributor reseller program",
+   "results": [
+    "https://pollen.am/metal_general_introduction/",
+    "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "https://www.samaterials.com/metal-injection-molding.html",
+    "https://www.optimim.com/resources/article/mim-series-part-2-feedstock",
+    "https://advancedpowderproducts.com/metal-injection-molding-materials",
+    "https://www.databridgemarketresearch.com/reports/global-metal-injection-molding-mim-powders-and-feedstock-market",
+    "https://my.mpif.org/MPIF/Associations/MIMA",
+    "https://www.datamintelligence.com/research-report/metal-injection-molding-powders-and-feedstock-market",
+    "https://www.futuremarketinsights.com/reports/metal-injection-molding-mim-parts-market",
+    "https://www.zcmim.com/custom-mim-materials/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MIM feedstock for 3D printing suppliers pellets metal injection exhibitors",
+   "results": [
+    "https://pollen.am/metal_general_introduction/",
+    "https://www.youtube.com/watch?v=7PYWvw5H2JU",
+    "https://xtmim.com/mim-materials/custom-mim-materials/",
+    "https://www.zcmim.com/custom-mim-materials/",
+    "https://www.fabbaloo.com/2018/01/aim3ds-most-interesting-3d-metal-printing-concept",
+    "https://www.optimim.com/resources/article/mim-series-part-1",
+    "https://www.databridgemarketresearch.com/reports/global-metal-injection-molding-mim-powders-and-feedstock-market",
+    "https://www.samaterials.com/metal-injection-molding-feedstock-304l-mim.html",
+    "https://www.mimaweb.org/DesignCenter/ProcessOverviewMIM.aspx",
+    "https://www.mfg.com/manufacturer/indomim-texas-1856007/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MIM・バインダー系フィードストックのメーカー（3Dプリント用）",
+   "results": [
+    "https://www.indo-mim.com/%E3%83%90%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%883d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88/",
+    "https://indo-mim.industree.asia/metal-3d-printing/",
+    "https://jhmim.com/ja/binder-jetting-3d-printing/",
+    "https://mimsen83.blogspot.com/2019/",
+    "https://www.3d-printer.jp/knowledge/glossary/mim.html",
+    "https://www.atect.co.jp/cms/wp-content/uploads/2018/11/pim_material.pdf",
+    "https://www.seed3d.net/post/%E4%BD%8E%E3%82%B3%E3%82%B9%E3%83%88%E3%81%A7%E9%87%91%E5%B1%9E%E3%83%BB%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E9%80%A0%E5%BD%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E9%87%91%E5%B1%9Efff-mex%E6%96%B9%E5%BC%8F3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F",
+    "https://www.asahi-kasei-plastics.com/trend/powder-injection-molding-01/",
+    "https://www.precision-mim.com/jp/Metal-Injection-Moulding/",
+    "https://www.atect.co.jp/post_pimcase/mimfs/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:metal-am.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2021/12/Metal-AM-Winter-2021.pdf",
+    "https://www.metal-am.com/articles/metal-powders-in-additive-manufacturing-an-exploration-of-sustainable-production-usage-and-recycling/",
+    "https://www.metal-am.com/wp-content/uploads/sites/4/2025/03/Metal-Additive-Manufacturing-magazine-Spring-2025-issue.pdf",
+    "https://www.metal-am.com/articles/selecting-atomised-aluminium-alloy-powders-for-the-metal-3d-printing-process/",
+    "https://www.metal-am.com/kbm-advanced-materials-launches-to-sell-metal-powders-for-am-and-mim/",
+    "https://www.metal-am.com/webinar-the-future-of-tooling-manufacturing-exploring-indomim-m2-properties-with-hp-metals-3d-printing/",
+    "https://www.metal-am.com/articles/metal-powder-characterisation-standards-and-test-methods-for-consistent-quality-in-3d-printin/",
+    "https://www.metal-am.com/programme-published-for-epmas-metal-injection-moulding-seminar/",
+    "https://www.metal-am.com/uprise-3d-offers-metal-ceramic-and-composite-am-on-new-machine/",
+    "https://www.metal-am.com/gc-advanced-material-solutions-qualifies-new-steel-powders-from-mitsubishi-steel-for-mim-and-am-feedstocks/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:3dprintingindustry.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.3dprintingindustry.com/news/continuum-raises-36m-to-fund-recycled-metal-3d-printing-powder-growth-opportunities-218786/",
+    "https://3dprintingindustry.com/news/optimizing-3d-printer-feedstock-production-with-ross-mixers-industrial-mixing-portfolio-225175/",
+    "https://3dprintingindustry.com/news/chinese-super-factory-with-400-metal-3d-printers-planned-for-smartphone-production-255540/",
+    "https://3dprintingindustry.com/news/hoganas-launches-additive-manufacturing-mim-venture-132004/",
+    "https://3dprintingindustry.com/news/indo-mim-qualifies-continuum-powders-optipowder-ni718-on-hp-metal-jet-s100-245511/",
+    "https://3dprintingindustry.com/news/new-amgta-research-reveals-sustainable-metal-am-powder-production-methods-230173/",
+    "https://3dprintingindustry.com/news/ge-metal-powder-additive-manufacturing-pyrogenesis-mim-121211"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:voxelmatters.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.voxelmatters.com/mim-leader-indo-mim-adopts-incus-gmbh-metal-3d-printer/",
+    "https://www.voxelmatters.com/continuum-powders-and-indo-mim-qualify-ni718-for-binder-jet-production/",
+    "https://www.voxelmatters.com/indo-mim-to-install-5-more-hp-metal-jet-s100-units/",
+    "https://www.voxelmatters.com/additive-manufacturing/am-technologies/fused-feedstock-depositioning/",
+    "https://www.voxelmatters.com/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/",
+    "https://www.voxelmatters.com/aim3d-presents-cem-e2-extruder-for-metal-plastic-and-ceramic-pellets/",
+    "https://www.voxelmatters.com/gcams-qualify-steel-powders-bmpd-feedstocks/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dnatives.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.3dnatives.com/en/what-are-the-pellet-3d-printers-on-the-market-200120225/",
+    "https://www.3dnatives.com/en/how-does-3d-printing-with-pellets-work-291220214/",
+    "https://www.3dnatives.com/en/rapid-fusion-pellets-large-format-additive-manufacturing-231020244/",
+    "https://www.3dnatives.com/en/benefits-of-tumaker-pellets-3d-printing-formnext-18112021/",
+    "https://www.3dnatives.com/en/stratasys-takes-the-leap-into-metal-3d-printing-17112025/",
+    "https://www.3dnatives.com/en/10-reasons-to-use-pellets-in-3d-printing-120920244/",
+    "https://www.3dnatives.com/en/the-metal-3d-printing-guide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3printr.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.3printr.com/tag/metal-injection-molding/",
+    "https://www.3printr.com/tag/metall-3d-printing/",
+    "https://www.3printr.com/tag/metal-3d-printer/",
+    "https://www.3printr.com/tag/3d-printing-metals-market/",
+    "https://www.3printr.com/tag/metal-materials-3d-printing/",
+    "https://www.3printr.com/tag/metal-injection-moulding/",
+    "https://www.3printr.com/tag/metal-materials/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3druck.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://3druck.com/en/industry-2/indo-mim-expands-production-with-five-more-hp-metal-jet-s100-3d-printers-37143931/",
+    "https://3druck.com/en/industry-2/rostock-university-and-stenzel-mim-technik-develop-3d-printed-metal-injection-mold-26119813/",
+    "https://3druck.com/en/",
+    "https://3druck.com/en/industry-2/formnext-2025-hp-drives-industrial-additive-manufacturing-forward-with-new-materials-and-filament-systems-49151618/",
+    "https://3druck.com/en/3d-printing-materials-2/interview-with-mateusz-skalon-from-ultra-metal-powders-why-standard-powders-are-no-longer-sufficient-for-many-applications-02155722/",
+    "https://3druck.com/en/case-studies/ornl-prints-hip-capsules-for-large-metal-components-using-3d-printing-56157357/",
+    "https://3druck.com/en/industry-2/metal-3d-printing-university-of-turku-upgrades-system-for-multiple-materials-33164803/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:3dadept.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://3dadept.com/meet-the-x1-25pro-3d-printing-machine-it-combines-mim-with-production-volume-capability/",
+    "https://3dadept.com/sandvik-unveils-new-copper-based-alloy-designed-for-am-mim/",
+    "https://3dadept.com/jingye-bets-700-million-on-400-metal-3d-printers-for-smartphone-parts/",
+    "https://3dadept.com/interview-pollen-am-a-strategic-and-qualitative-choice-for-thermoplastic-elastomers-used-in-am/",
+    "https://3dadept.com/en/",
+    "https://3dadept.com/category/3d-printing/metal-additive-manufacturing/",
+    "https://3dadept.com/category/additive-manufacturing-and-3d-printing-materials/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:alibaba.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://www.alibaba.com/product-detail/MIM-Metal-Injection-Moulding-Stainless-Steel_11000004651274.html",
+    "https://www.alibaba.com/showroom/mim-metal-powders.html",
+    "https://seller.alibaba.com/blogs/2026/southeast-asia/machinery/metal-injection-molding-mim-precision-parts-guide-alibaba-b2b",
+    "https://www.alibaba.com/product-introduction/Stainless-Steel-Powder-304-Feedstock-for_1601386734541.html",
+    "https://www.alibaba.com/showroom/mim-raw-material.html",
+    "https://www.alibaba.com/product-detail/Stainless-Steel-Powder-304-Feedstock-for_1601386734541.html",
+    "https://www.alibaba.com/mim-metal-suppliers.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:all3dp.com MIM feedstock for 3D printing suppliers pellets metal injection",
+   "results": [
+    "https://all3dp.com/4/prusa-steps-into-pellet-3d-printing-with-prusament-pellets-up-to-60-cheaper-than-filament/",
+    "https://all3dp.com/1/cheaper-3d-printing-with-pellets/",
+    "https://i.all3dp.com/wp-content/uploads/2015/02/27152708/All3DP-Material-Guide-01-2015.pdf",
+    "https://all3dp.com/1/3d-printing-materials-guide-3d-printer-material/",
+    "https://all3dp.com/materials/",
+    "https://all3dp.com/1/top-3d-printing-metals-compared/",
+    "https://all3dp.com/4/can-this-new-molten-metal-printhead-bring-aluminium-3d-printing-to-the-factory-floor/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MIM feedstock for 3D printing suppliers pellets metal injection brands comparison",
+   "results": [
+    "https://pollen.am/metal_general_introduction/",
+    "https://xtmim.com/blogs/mim-feedstock-vs-metal-3d-printing-powder/",
+    "https://www.zcmim.com/mim-feedstock/",
+    "https://blog.met3dp.com/blog/mim-powder-for-small-precision-metal-component-production/",
+    "https://www.sigmatechnik.com/injection-molding/the-top-metal-injection-molding-materials-suppliers-in-the-industry",
+    "https://blog.met3dp.com/blog/metal-3d-printing-vs-mim-process-in-2026-small-metal-parts-sourcing-guide/",
+    "https://redstonemanufacturing.com/resources/articles/best-metal-injection-molding-manufacturers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MIM・バインダー系フィードストックのメーカー（3Dプリント用）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com MIM・バインダー系フィードストックのメーカー（3Dプリント用）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2095646082332295206",
+    "https://x.com/mim_01124/status/2110941725321838767",
+    "https://x.com/matsurido_model/status/2050335510292549748",
+    "https://x.com/yokomitarai/status/2107532374338855223",
+    "https://x.com/fujikyouzai/status/2094680243147825243",
+    "https://x.com/jiacang/status/2070868327732498726",
+    "https://x.com/FKindustry/status/2061646006585020609"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MIM・バインダー系フィードストックのメーカー（3Dプリント用）",
+   "results": [
+    "https://www.linkedin.com/posts/yibimetal_3d-printed-prototype-to-mim-what-still-needs-activity-7500908038783029249-PkhT",
+    "https://www.linkedin.com/pulse/navigating-future-medical-device-manufacturing-in-depth-bhat-svzic",
+    "https://in.linkedin.com/in/karthikeya-sridhara-murthy-199764222",
+    "https://in.linkedin.com/in/gopal-behera-b659a070",
+    "https://jp.linkedin.com/pulse/3dプリンティング薬物製剤と投与メーカー一覧2026年版-omix-academy-ptcce",
+    "https://jp.linkedin.com/pulse/3d-プリンティング機器を製造する主要企業-benchmark-bloom-vxwqe",
+    "https://my.linkedin.com/posts/thomas-h-pang-ph-d-（トーマス・パン）-07745416_マークフォージドはヘガネスab社とバインダージェット方式の金属3dプリンティングソリューションプロバイダー-activity-6952670330729496577-Rp80"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MIM・バインダー系フィードストックのメーカー（3Dプリント用）",
+   "results": [
+    "https://www.facebook.com/MTRL.AND.DSGN.LAB/posts/熱溶解積層式3dプリント用のステンレスフィラメントが開発されておりsus316lsus630相当の合金で成形可能な材料が販売されているフィラメントは金属微粒子を/270418287927444/",
+    "https://www.facebook.com/FANUC.CORPORATION/videos/金属粉末射出成形mimを知っていますか金属の粉と樹脂を混ぜて型に流し込んで形を作る技術ですそのあと高温で焼くことでしっかりした金属部品になります️小さくて複雑な/1077436257564545/",
+    "https://www.facebook.com/DesktopMetal/videos/indo-mim-limited-uses-nearly-every-desktop-metal-binder-jetting-system-including/556510296870467/",
+    "https://www.facebook.com/RandDsc/posts/854945336648799/",
+    "https://www.facebook.com/funaisoken/posts/グローバルno1金属加工メーカーind-mim視察レポートサステナグロースカンパニー視察セミナー3日目私たちは金属射出成形mimで世界をリードするind-mim/1199453028857570/",
+    "https://www.facebook.com/ufulab/videos/m6手帳ユーザー必携labセレクト商品リフィルメーカーライト-rm-laガイドラインに合わせてパンチするだけで2種類のサイズの手帳のリフィルが作れる手帳用穴あけ/1477419957645519/",
+    "https://www.facebook.com/groups/575732029944050/posts/2059688951548343/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MIM・バインダー系フィードストックのメーカー（3Dプリント用） note 社長",
+   "results": [
+    "https://note.com/qy_research/n/nb7bffbf35d4b",
+    "https://xtmim.com/ja/blogs/mim-feedstock-vs-metal-3d-printing-powder/",
+    "https://www.ipros.com/cg1/成形/mim/",
+    "https://www.precision-mim.com/jp/Metal-Injection-Moulding/",
+    "https://www.atect.co.jp/post_pimcase/mimfs/",
+    "https://www.kyhe-hex.com/ja/feedstock",
+    "https://mono.ipros.com/cg1/成形/mim/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MIM・バインダー系フィードストックのメーカー（3Dプリント用） X 投稿",
+   "results": [
+    "https://xtmim.com/ja/blogs/mim-feedstock-vs-metal-3d-printing-powder/",
+    "https://xtmim.com/ja/mim-materials/custom-mim-materials/",
+    "https://www.kyhe-hex.com/ja/feedstock",
+    "https://www.ipros.com/cg1/成形/mim/",
+    "https://www.precision-mim.com/jp/Metal-Injection-Moulding/",
+    "https://mono.ipros.com/cg1/成形/mim/",
+    "https://www.dai-ichi-ceramo.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MIM feedstock for 3D printing suppliers pellets metal injection site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/metal-injection-molding-powder-manufacturers-guide-main-suppliers-iehle",
+    "https://www.linkedin.com/posts/cmg-technologies-metal-injection-moulders_3dmetalprinting-metaladditivemanufacturing-activity-6914869157888954368-itsV",
+    "https://ke.linkedin.com/company/cmg-technologies-metal-injection-moulders",
+    "https://pe.linkedin.com/feed/update/urn:li:share:7341221429683634179",
+    "https://www.linkedin.com/posts/yibimetal_mim-metalinjectionmolding-precisionmanufacturing-activity-7498285954105868289-rICB",
+    "https://www.linkedin.com/posts/cmg-technologies-metal-injection-moulders_mim-materials-injectionmoulding-activity-7092795601553088512-1xGm",
+    "https://www.linkedin.com/posts/direct3d-pellet-extrusion_316l-mim-feedstock-activity-7379787667519074304-fdMG"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年": "記載なし（読んだ61頁・検索23回）",
+  "資金調達・株主": "記載なし（読んだ61頁・検索23回）",
+  "年商・規模": "記載なし（読んだ61頁・検索23回）",
+  "日本の担い手": "記載なし（読んだ61頁・検索23回）",
+  "代理店募集・売り方": "記載なし（読んだ61頁・検索23回）",
+  "技術支援": "記載なし（読んだ61頁・検索23回）"
+ }
+}

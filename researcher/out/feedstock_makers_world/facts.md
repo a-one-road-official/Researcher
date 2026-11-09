@@ -1,0 +1,1077 @@
+# 世界のAM原料メーカー一覧（形態別・地域別）— 社名・国・製品・日本の担い手（事実のみ・16品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 汎用フィラメントのメーカー一覧（PLA・PETG・ABS・ASA）（3D printer filament manufacturers list brands PLA PETG ABS）
+- 文脈：フィラメント・汎用
+- 会社名・一覧：
+  - 「Best 3D Printer Filament Brands Ranked: Premium, Value, Bambu, and Specialty Filaments | Filament Cheat Sheet」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「This guide ranks popular 3D printer filament brands by practical reliability and best use case. The goal is not to crown one perfect brand for everyone, it is to help you choose the right filament brand for the type of printing you actually do. For full per-brand details, you can also browse our」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「filament brand directory」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「How These Filament Brands Are Ranked」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「This ranking is based on a mix of practical user experience, public reputation, manufacturer quality-control signals, material availability, and how consistently each brand performs across common materials like」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Tip: if you ever notice a respected brand suddenly underperforming, the spool itself may be the problem before the brand is. See our guide on」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「before blaming the manufacturer.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「A Tier: Best Filament Brands for Premium QC and Repeatability」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「A-tier filament brands are the safest choices when you care about consistency, repeatability, and fewer surprises between rolls.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「More expensive than budget brands」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「is one of the best all-around filament brands. It has a huge material selection, strong reliability, and excellent options for both functional and aesthetic prints.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Usually costs more than budget brands」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Polymaker is one of the safest recommendations for most people. If you want one brand that covers everyday printing, attractive colors, and engineering materials, Polymaker is hard to beat. Their newer PETG formula is also a great example of」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「is a premium filament brand with a strong reputation for consistency and specialty materials. It may not be as widely available in every region, but it is respected among users who want quality filament.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「May cost more than common value brands」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+- 創業年：
+  - 「“Polymaker has been consistent outstanding quality since 2015”」（https://3dput.com/complete-filament-brand-comparison-2026-tolerance-quality-value-ratings/）
+  - 「Extruded in France since 2015 with laser diameter control」（https://filamentcheatsheet.com/brands/）
+  - 「Czech manufacturer since 2013 with laser diameter control and biogas-powered production」（https://filamentcheatsheet.com/brands/）
+  - 「Very good value + generally consistent; Czech regional producer since 2012」（https://filamentcheatsheet.com/brands/）
+  - 「Made in Czech Republic by FUEL INVEST with long regional track record since 2012」（https://filamentcheatsheet.com/brands/）
+  - 「Ermaksan, a Bursa-based sheet metal machinery manufacturer founded in 1965.」（https://www.voxelmatters.com/expo-3d-istanbul-makes-its-case-as-the-am-bridge-between-east-and-west/）
+  - 「Izmir-based Polyture, founded in 2020, produces its own PLA lines (Basic, Pro, Pastel, and Pro Silk) plus ABS and ASA filaments」（https://www.voxelmatters.com/expo-3d-istanbul-makes-its-case-as-the-am-bridge-between-east-and-west/）
+- 資金調達・株主：
+  - 「Wide wood-grain options (rosewood, ebony, vera) praised in 3Dnatives industry coverage」（https://filamentcheatsheet.com/brands/）
+  - 「appreciate guidance to start a new 3D venture in INDIA at Bengaluru.」（https://www.3dnatives.com/en/plastics-used-3d-printing110420174/）
+- 年商・規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/formfutra-co-founder-arnold-medenblik-the-world-of-3d-printing-filaments-50796/）
+  - 「The company has grown rapidly into a well-established quality filament brand in the 3D printing world and now has one of the largest product portfolios, with multiple employees and resellers across the world and on every continent.」（https://3dprintingindustry.com/news/formfutra-co-founder-arnold-medenblik-the-world-of-3d-printing-filaments-50796/）
+- 日本の担い手：
+  - 「日本の3Dプリンターユーザーの声を反映した配合・カラーが特長です」（https://skhonpo.com/pages/filament-features）
+  - 「、藍・朱・抹茶など日本の伝統色をモチーフにした」（https://skhonpo.com/pages/filament-features）
+  - 「NIHON COLOR FILAMENT（日本カラー）」（https://skhonpo.com/pages/filament-features）
+  - 「日本の大手化学メーカー旭化成の3Dプリンター用フィラメントです」（https://skhonpo.com/pages/filament-features）
+  - 「SK本舗ではこれらのブランドを正規流通で仕入れ、国内倉庫から発送しています」（https://skhonpo.com/pages/filament-features）
+  - 「日本語サポート・日本語TDS・国内即納で、安心してお使いいただけます」（https://skhonpo.com/pages/filament-features）
+- 代理店募集・売り方：
+  - 「Trusted reseller and filament supplier」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「There's nothing "green" about 3D printing, and there never will be. Any attempt to convince you otherwise is a brazen marketing gimmick spoken from the mouth of a salesman. It's a hustle. They may as well be a used car dealer trying to sell you the benefits of organic, locally-sourced, farm-to-table gasoline.」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「sell the same basic compound to dozens of resellers with different storage and QC practices.」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「Budget Amazon distributor with inconsistent batch sourcing」（https://filamentcheatsheet.com/brands/）
+  - 「The company has grown rapidly into a well-established quality filament brand in the 3D printing world and now has one of the largest product portfolios, with multiple employees and resellers across the world and on every continent.」（https://3dprintingindustry.com/news/formfutra-co-founder-arnold-medenblik-the-world-of-3d-printing-filaments-50796/）
+  - 「The first edition drew more than 15,000 visitors and 100 exhibitors, with Turkish manufacturers, resellers and Chinese materials suppliers sharing the show floor」（https://www.voxelmatters.com/expo-3d-istanbul-makes-its-case-as-the-am-bridge-between-east-and-west/）
+  - 「Resellers and distributors」（https://www.voxelmatters.com/expo-3d-istanbul-makes-its-case-as-the-am-bridge-between-east-and-west/）
+  - 「Many of these resellers are also developing their own filament and printer brands, which suggests the move toward local production that Paksuz described has already started.」（https://www.voxelmatters.com/expo-3d-istanbul-makes-its-case-as-the-am-bridge-between-east-and-west/）
+- 技術支援：
+  - 「Bambu Lab’s own filament line is purpose-built for their printers. RFID chips on each spool allow automatic material detection, colour identification, and loading of pre-tuned print profiles in Bambu Studio. For Bambu printer owners, this is genuinely useful — you load the spool, the printer knows what it is, and you print.」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「French Armor Group brand with Kimya Lab formulation and aerospace qualifications」（https://filamentcheatsheet.com/brands/）
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/formfutra-co-founder-arnold-medenblik-the-world-of-3d-printing-filaments-50796/）
+  - 「Like PEEK, PEKK requires dedicated industrial hardware and carries a significant material cost. It is less widely available than PEEK in filament form and has a smaller ecosystem of compatible printers and validated print profiles.」（https://www.3dnatives.com/en/plastics-used-3d-printing110420174/）
+- 展示会：
+  - 「belongs in A tier mostly because of its Pro series. The standard lines may vary more, but MatterHackers Pro is a strong premium option.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Standard lines should not be judged the same as Pro」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Standout colors like Wizard's Voodoo」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「is another premium brand that shines in specialty materials, colors, and unique blends. It has a long-standing reputation in the filament space.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Prusament is the in-house filament manufactured by Prusa Research, using exacting standards – and lasers – to keep every roll of printer food precise and perfect. They have a large variety of rich colors and several with a glorious dusting of jam free micro glitter. This giant nozzle is dazzling in Galaxy Silver PLA.」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「Prusament filaments are known for their exacting standards and high quality control, so it’s no wonder their PETG prints with little fuss and few strings. Shown here is Carmine Red Transparent, one of 20 colors in the PETG line.」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「Prusament PLA prints exceptionally well at both standard and high speeds. The PETG is some of the easiest engineering-adjacent filament to dial in we’ve ever used — minimal stringing, great layer adhesion, and consistent flow. The」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「has been a community favourite for years because it delivers genuinely better results than standard PLA — stronger, less brittle, and with a slightly higher heat resistance — at a price that doesn’t make you wince.」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「Hatchbox and Overture are reliable workhorses for everyday printing. Elegoo Rapid PLA+ is punching well above its price point for high-speed users — watch this brand closely.」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「is consistently easy to print with — good bed adhesion, minimal stringing, and a wide temperature window. Diameter tolerance is around ±0.05mm, acceptable for standard-speed printing but shows limits at high speeds.」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「8. Elegoo Rapid PLA+」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「Elegoo Rapid PLA+ holds ±0.03mm tolerance and has been tested at speeds up to」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「🔥 Get Elegoo Rapid PLA+ (Best Budget High-Speed) →」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「Large, low-detail prints at standard speeds on forgiving printers. But if you’re reading this guide to make an informed decision, you’re probably past that stage. The couple of dollars you save per spool won’t cover the cost of even one failed print.」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+  - 「If you’ve been using standard PLA as your daily driver, it’s time to upgrade.」（https://www.3dtechvalley.com/best-3d-printer-filament-brand/）
+- 価格：
+  - 「Atomic is a great A-tier brand for people who care more about dependable results than chasing the lowest possible price.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Good price-to-performance ratio」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Overture is a practical option for people who want solid filament without premium pricing.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Duramic is a good B-tier brand when you want dependable results without paying premium prices.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「is known for affordable pricing and easy availability. Its filament is generally acceptable and often a good deal, especially for users printing a lot of basic PLA.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Elegoo is a good value brand, especially when price matters more than perfect consistency.」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Often has strong sale pricing」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「If you want good filament without paying premium prices,」（https://filamentcheatsheet.com/blog/best-3d-printer-filament-brands-ranked/）
+  - 「Filament for 3D printing comes in an overwhelming array of materials, colors and price points. Sadly, many new users will shy away from trying interesting materials not because they lack confidence, but because they don’t have a good recommendation. That’s why we’ve built this guide. Every filament on this list ran through our 3D printers with flying colors.」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「around can knock your socks off with a $15 roll of bargain PLA.」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「Fun fact: We easily used up to $800 worth of filament in our review of the massive」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「$16.99」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「$18.99」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「$29.99」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+  - 「$18.32」（https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing）
+
+## エンプラ・スーパーエンプラのフィラメントのメーカー（PEEK・PEKK・PEI/ULTEM・PPSU・PA・PC）（PEEK PEKK ULTEM PPSU nylon polycarbonate filament manufacturers）
+- 文脈：フィラメント・エンプラ
+- 会社名・一覧：
+  - 「performs, what printer hardware it requires, and where it is best」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「world is structured. Most manufacturers and engineers divide these」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Best printability, least moisture」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Best balance of strength and printability」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「withstand more aggressive sterilization methods including autoclave,」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Very High — best in polysulfone family」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「DuPont has developed and offers filaments based on the Hytrel brand of elastomeric polymers based on the same pellet materials (see next section).」（https://www.voxelmatters.com/all-about-tpu-and-other-thermoplastic-elastomers-for-3d-printing/）
+  - 「All thermoplastic elastomers (including TPU) have similar properties to thermoset elastomers (like polyurethane). This means that they are flexible at room temperature but remain dimensionally stable. When the powders are heated, they can be plastically deformed and processed like thermoplastics. Since they are easy to process, they can be used to replace cross-linked elastomers and soft PVC.」（https://www.voxelmatters.com/all-about-tpu-and-other-thermoplastic-elastomers-for-3d-printing/）
+  - 「was one of the first third-party suppliers to develop various TPU powders for SLS technology (targeting footwear and orthopedic supports early on).」（https://www.voxelmatters.com/all-about-tpu-and-other-thermoplastic-elastomers-for-3d-printing/）
+  - 「Manufacturer/Supplier」（https://www.voxelmatters.com/all-about-tpu-and-other-thermoplastic-elastomers-for-3d-printing/）
+  - 「Printer manufacturers」（https://www.3dnatives.com/en/the-top-flame-retardant-materials-for-3d-printing-050420244/）
+  - 「and has a high flammability temperature, in addition to being mechanically and chemically highly resistant. There are many manufacturers of PEEK in filament form, including Victrex, Evonik, 3DXTech and others. Another example is」（https://www.3dnatives.com/en/the-top-flame-retardant-materials-for-3d-printing-050420244/）
+  - 「Another high-performance material is PVDF (polyvinylidene fluoride), which is flame-retardant. It is renowned for its very high chemical resistance and low coefficient of friction – it is particularly popular in the production of nuts, screws, etc. Among manufacturers of filaments for additive manufacturing, Nanovia and Solvay offer PVDF.」（https://www.3dnatives.com/en/the-top-flame-retardant-materials-for-3d-printing-050420244/）
+  - 「Finally, we can conclude with PPSU which, in addition to its interesting thermal profile, is reputed to be extremely resistant to hydrolysis, water and impact. Forward AM, a BASF brand, offers a PPSU filament for 3D printing that is highly suitable for the aerospace industry.」（https://www.3dnatives.com/en/the-top-flame-retardant-materials-for-3d-printing-050420244/）
+  - 「There are other materials that can also become flame-retardant, something for which material manufacturer Spectrum Filaments is particularly well-known. The company has a wide range of choice when it comes to filaments and its own line of flame-retardant options. These include PA6 CS20 FR V0, FlameGuard ASA 275, PC/ABS FR V0, FlameGuard PLA and PETG FR V0.」（https://www.3dnatives.com/en/the-top-flame-retardant-materials-for-3d-printing-050420244/）
+- 資金調達・株主：
+  - 「HP 3D High Reusability TPA enabled by Evonik」（https://www.voxelmatters.com/all-about-tpu-and-other-thermoplastic-elastomers-for-3d-printing/）
+- 年商・規模：
+  - 「An excerpt from VoxelMatters’ Polymer AM 2020-2030 market report. Full 500-page study includes available product price information, material demand and material revenues for all polymer AM materials」（https://www.voxelmatters.com/all-about-tpu-and-other-thermoplastic-elastomers-for-3d-printing/）
+- 展示会：
+  - 「continuous operating temperatures that would destroy standard」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「materials, it helps to understand how the high-temperature filament」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「that outperform standard filaments but are still accessible on」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「UL 94 V-2 (standard) / V-0 (FR grades)」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Outstanding UV and weather resistance」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「UL 94 HB (standard) / V-2 (FR grades)」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Poor UV resistance in standard grades」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Outstanding — resists most acids, bases, solvents」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「resistance to hydrolysis. It can withstand repeated steam」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「withstand more aggressive sterilization methods including autoclave,」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Withstands autoclave, gamma, and」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「PEEK is the gold standard of FDM」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「Outstanding mechanical strength」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「a material challenge — they are a hardware challenge. Here is what」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「materials is understanding that the filament is only part of the」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+- 価格：
+  - 「$25–60」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$30–80」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$40–120」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$150–300」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$100–250」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$150–350」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$200–600」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$350–900」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「$400–1,200+」（https://blog.lumanet.info/blog/1779336023/the-complete-guide-to-high-temperature-3d-printing-filaments-in-2026）
+  - 「An excerpt from VoxelMatters’ Polymer AM 2020-2030 market report. Full 500-page study includes available product price information, material demand and material revenues for all polymer AM materials」（https://www.voxelmatters.com/all-about-tpu-and-other-thermoplastic-elastomers-for-3d-printing/）
+- 創業年：記載なし（読んだ60頁・検索23回）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
+- 技術支援：記載なし（読んだ60頁・検索23回）
+
+## 炭素繊維・ガラス繊維強化フィラメントのメーカー（carbon fiber glass fiber reinforced filament manufacturers）
+- 文脈：フィラメント・強化
+- 会社名・一覧：
+  - 「Search for a product, a brand...」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「3D Printer Brands」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「Which carbon composite filament brand to choose?」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「reputable manufacturers」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「. Choose brands known for their expertise and manufacturing excellence.」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「Find top carbon filament brands like Polymaker Fiberon, Nanovia, and Forshape.」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「A wide choice of products from the biggest brands」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「Glass fiber or carbon fiber filaments? Discover the differences, strengths, and best uses to choose the right reinforced 3D printing material.」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「have become essential for makers, engineers, and manufacturers looking for stronger, more durable parts. Much like adding rebar to concrete, mixing fibers into 3D printing polymers increases stiffness, dimensional stability, and overall performance. Among all the reinforcing additives available—carbon nanotubes, ceramic,」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「If you're evaluating which of these reinforced materials best fits your next project, MatterHackers offers one of the most extensive selections of both carbon fiber and glass fiber filaments in the 3D printing industry. Their curated」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「makes it easy to browse high-performance materials from trusted brands like」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「One advantage that consistently attracts makers to」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「Obsidian composites are available in several vivid shades, giving makers the rare ability to combine strength with aesthetics. If your project requires both durability and visual appeal, MatterHackers’ selection of」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「Choosing the Best Filament for Your Application」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「No matter your application, MatterHackers makes the decision process easier with their extensive collection of reinforced filaments—each supported by clear product descriptions, detailed technical specs, and compatibility notes. Their staff of filament experts is also available to help guide users to the best material for their specific needs.」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+- 年商・規模：
+  - 「Let’s look at the top 10 companies in composites AM by revenues.」（https://www.voxelmatters.com/markforged-eos-airtech-among-the-key-top-10-companies-in-composites-am/）
+- 技術支援：
+  - 「By downloading their predefined print profiles, you gain a plug-and-play 3D printing experience with the」（https://ultimaker.com/ja/learn/glass-vs-carbon-fiber-composites/）
+  - 「Training and Services」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「To learn about available discounts, training, and maintenance options, please use the form below and a MatterHackers Expert will contact you within one business day. Alternatively, you can always feel free to give us a call」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「Start with manufacturer print profiles, then tune temperatures and cooling for your printer」（https://shop.polymaker.com/collections/carbon-fiber-filament?srsltid=AYCX9vL03xZEMS-zUt9LCHdvIREYqorCJuIYHmRJzQQ36Oyy7VaDDsWH）
+  - 「Training and Services」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vKQvIk63BAcw9iTO5S7jkO2duhMO1DPJFURhx6lvEF_CMHy6o4s）
+  - 「To learn about available discounts, training, and maintenance options, please use the form below and a MatterHackers Expert will contact you within one business day. Alternatively, you can always feel free to give us a call」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vKQvIk63BAcw9iTO5S7jkO2duhMO1DPJFURhx6lvEF_CMHy6o4s）
+- 展示会：
+  - 「To understand these, let’s dig deeper into the manufacturing processes involved...」（https://ultimaker.com/ja/learn/glass-vs-carbon-fiber-composites/）
+  - 「And with a deeper understanding of how carbon or glass fibers are used to reinforce 3D printing filament, you can leverage the many benefits of composite materials for your own in-house production needs.」（https://ultimaker.com/ja/learn/glass-vs-carbon-fiber-composites/）
+  - 「To understand user behavior in order to provide you with a more relevant browsing experience or」（https://ultimaker.com/ja/learn/glass-vs-carbon-fiber-composites/）
+  - 「Standard Blue Resin Elegoo - 1000 ml」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「Creality Standard Rigid Transparent Green Resin - 1 kg」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「for temperature resistance, or Polymaker Fiberon PA6 CF20 for outstanding mechanical performance and durability.」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「, available at MatterHackers, produce prints that can withstand repeated stress without cracking or deforming.」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「reinforced filament is prized for one thing above all: outstanding stiffness. With a vastly superior strength-to-weight ratio compared to standard polymers,」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「materials set the performance standard.」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「shrinks significantly less than standard ABS, making prints far more "true to size." This helps engineers produce accurate mechanical assemblies without extensive post-processing or reprinting.」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「Whether you're designing rugged mechanical components or lightweight engineering prototypes, MatterHackers is the trusted destination for high-performance composite materials that elevate your printing capabilities far beyond standard filaments.」（https://www.matterhackers.com/about/glass-fiber-vs-carbon-fiber-filaments-which-reinforced-material-should-you-choose?srsltid=AYCX9vI-00fT8C5PnOLC8MI37MCi1mfnw5CRSi0SB-aY7HJ42ptlgomF）
+  - 「This makes carbon fiber filament especially useful when standard filament is too flexible, when large parts are prone to warping, or when a project requires a more rigid engineering material. It is commonly used to produce brackets, jigs, fixtures, drone components, automotive parts, tools, robotics components, and other functional 3D printed parts.」（https://shop.polymaker.com/collections/carbon-fiber-filament?srsltid=AYCX9vL03xZEMS-zUt9LCHdvIREYqorCJuIYHmRJzQQ36Oyy7VaDDsWH）
+  - 「Fiberon™ PETG-rCF combines PETG with recycled carbon fiber reinforcement. It is a practical option for users who want the accessible printability of PETG with added rigidity and a more stable, professional-looking finish. Use it for functional parts, workshop tools, housings, prototypes, and other applications where standard PETG needs more stiffness.」（https://shop.polymaker.com/collections/carbon-fiber-filament?srsltid=AYCX9vL03xZEMS-zUt9LCHdvIREYqorCJuIYHmRJzQQ36Oyy7VaDDsWH）
+  - 「Carbon fiber filament requires a printer setup suitable for abrasive filled materials. Carbon fiber particles can wear a standard brass nozzle quickly, so use a hardened steel, tungsten carbide, ruby-tipped, or other abrasion-resistant nozzle. A larger nozzle diameter can also improve reliability, particularly with heavily filled grades.」（https://shop.polymaker.com/collections/carbon-fiber-filament?srsltid=AYCX9vL03xZEMS-zUt9LCHdvIREYqorCJuIYHmRJzQQ36Oyy7VaDDsWH）
+  - 「Carbon fiber filament is worth it when your part needs more stiffness, lower warping, better dimensional stability, or a professional matte finish than an unfilled material can provide. For decorative models or low-stress parts, a standard PLA or PETG may be more cost-effective.」（https://shop.polymaker.com/collections/carbon-fiber-filament?srsltid=AYCX9vL03xZEMS-zUt9LCHdvIREYqorCJuIYHmRJzQQ36Oyy7VaDDsWH）
+- 価格：
+  - 「Pricing or financing options」（https://ultimaker.com/ja/learn/glass-vs-carbon-fiber-composites/）
+  - 「Carbon fiber’s manufacturing process takes place at a molecular level. Despite the material's higher price tag, its rigidity and excellent strength-to-weight ratio have made carbon fiber the composite additive of choice for lightweight automotive and aerospace applications.」（https://ultimaker.com/ja/learn/glass-vs-carbon-fiber-composites/）
+  - 「from €39.90」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「-€66.67」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€690.83」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€624.17」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€9,675.00」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€4,999.00」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「-€83.33」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€915.83」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€832.50」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「-€100.00」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€954.49」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「€854.49」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+  - 「-€33.33」（https://www.polyfab3d.com/60-carbon-fiber-filament）
+- 創業年：記載なし（読んだ60頁・検索23回）
+- 資金調達・株主：記載なし（読んだ60頁・検索23回）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
+
+## TPU・柔軟フィラメントのメーカー（TPU flexible filament manufacturers brands）
+- 文脈：フィラメント・柔軟
+- 会社名・一覧：
+  - 「TPU Flexible Filament Manufacturer | OEM TPU Filament Supplier | Felarus | Felarus3D」（https://felarus3d.com/product/tpu-filament）
+  - 「TPU Flexible Filament Manufacturer」（https://felarus3d.com/product/tpu-filament）
+  - 「Felarus is a professional TPU filament manufacturer supplying flexible 3D printing materials to distributors, wholesalers, retailers, print farms and private label brands worldwide.」（https://felarus3d.com/product/tpu-filament）
+  - 「TPU Filament Manufacturer for Distributors, Wholesalers and Private Label Brands」（https://felarus3d.com/product/tpu-filament）
+  - 「is a professional TPU filament manufacturer supplying flexible 3D printing materials to distributors, wholesalers, retailers, print farms and private label brands worldwide.」（https://felarus3d.com/product/tpu-filament）
+  - 「Our TPU filament series is available in multiple hardness options including 95A, 85A and 75A, allowing customers to」（https://felarus3d.com/product/tpu-filament）
+  - 「Whether you are building your own filament brand, expanding your product portfolio or sourcing reliable materials for large-scale distribution, Felarus provides stable quality, OEM packaging solutions and consistent supply support.」（https://felarus3d.com/product/tpu-filament）
+  - 「Custom labels, custom packaging and brand-building services are available for distributors and private-label filament brands.」（https://felarus3d.com/product/tpu-filament）
+  - 「Manufacturers often use TPU for seals, gaskets, shock-absorbing elements and custom tooling applications.」（https://felarus3d.com/product/tpu-filament）
+  - 「Felarus supports distributors and private-label brands through complete OEM manufacturing services.」（https://felarus3d.com/product/tpu-filament）
+  - 「We can produce TPU filament in custom colors based on customer requirements and branding guidelines.」（https://felarus3d.com/product/tpu-filament）
+  - 「Brand Development Support」（https://felarus3d.com/product/tpu-filament）
+  - 「Many successful filament brands begin with OEM manufacturing partnerships.」（https://felarus3d.com/product/tpu-filament）
+  - 「Practical answers for distributors, private-label brands and businesses looking for a reliable TPU filament manufacturer.」（https://felarus3d.com/product/tpu-filament）
+  - 「Are you a manufacturer or trading company?」（https://felarus3d.com/product/tpu-filament）
+- 資金調達・株主：
+  - 「The company’s TPC 45D is a rubber-like filament derived from rapeseed oil and is proven to have a carbon footprint up to 50% lower than comparable co-polyesters, according to BASF. The TPS 90A is a very versatile material featuring a rubber-like soft touch and non-slip properties. Especially useful, the material shows a reduced moisture uptake, which allows for printing without pre-drying.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「European 3D printer and materials reseller 3D Jake ventured into manufacturing its own branded filament years ago and it has gained a following for quality.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「X1 Series and X1 Carbon desktop 3D printers」（https://3dprintingindustry.com/news/amolen-launches-new-tpu-filaments-239319/）
+  - 「appreciate guidance to start a new 3D venture in INDIA at Bengaluru.」（https://www.3dnatives.com/en/plastics-used-3d-printing110420174/）
+- 年商・規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/amolen-launches-new-tpu-filaments-239319/）
+- 代理店募集・売り方：
+  - 「Felarus is a professional TPU filament manufacturer supplying flexible 3D printing materials to distributors, wholesalers, retailers, print farms and private label brands worldwide.」（https://felarus3d.com/product/tpu-filament）
+  - 「TPU Filament Manufacturer for Distributors, Wholesalers and Private Label Brands」（https://felarus3d.com/product/tpu-filament）
+  - 「is a professional TPU filament manufacturer supplying flexible 3D printing materials to distributors, wholesalers, retailers, print farms and private label brands worldwide.」（https://felarus3d.com/product/tpu-filament）
+  - 「Custom labels, custom packaging and brand-building services are available for distributors and private-label filament brands.」（https://felarus3d.com/product/tpu-filament）
+  - 「For many distributors and retailers, TPU 95A represents the highest-volume flexible filament category.」（https://felarus3d.com/product/tpu-filament）
+  - 「Felarus supports distributors and private-label brands through complete OEM manufacturing services.」（https://felarus3d.com/product/tpu-filament）
+  - 「We support barcode integration for distributors and retail supply chains.」（https://felarus3d.com/product/tpu-filament）
+  - 「Practical answers for distributors, private-label brands and businesses looking for a reliable TPU filament manufacturer.」（https://felarus3d.com/product/tpu-filament）
+  - 「is committed to helping distributors, wholesalers and private-label brands build reliable flexible filament product lines through dependable manufacturing and OEM services.」（https://felarus3d.com/product/tpu-filament）
+  - 「There are far cheaper flexible filaments available than our picks here but, buyer beware. Unless your filament comes from a brand or reseller you trust and is accompanied by a full technical specification sheet, you’re risking hours of frustration with failed prints.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「European 3D printer and materials reseller 3D Jake ventured into manufacturing its own branded filament years ago and it has gained a following for quality.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+- 技術支援：
+  - 「Production parameters are continuously monitored throughout the manufacturing process.」（https://felarus3d.com/product/tpu-filament）
+  - 「If your printer brand offers its own flexible filament its likely to come with well-tested print profiles and is probably your best bet, or at least your best first step when it comes to successful printing of flexible parts.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/amolen-launches-new-tpu-filaments-239319/）
+  - 「. The integration aims to strengthen supply reliability and technical support for industrial customers seeking high-performance polymers for large-format additive manufacturing.」（https://3dprintingindustry.com/news/amolen-launches-new-tpu-filaments-239319/）
+  - 「Like PEEK, PEKK requires dedicated industrial hardware and carries a significant material cost. It is less widely available than PEEK in filament form and has a smaller ecosystem of compatible printers and validated print profiles.」（https://www.3dnatives.com/en/plastics-used-3d-printing110420174/）
+- 展示会：
+  - 「Flexible materials require far more production control than standard PLA or PETG. Small inconsistencies in formulation, moisture control or winding quality can lead to feeding issues, stringing or unstable print performance.」（https://felarus3d.com/product/tpu-filament）
+  - 「At Felarus, TPU filament is produced under strict manufacturing standards to ensure reliable performance from trial orders to long-term supply programs.」（https://felarus3d.com/product/tpu-filament）
+  - 「Standard & Custom Colors」（https://felarus3d.com/product/tpu-filament）
+  - 「Standard diameter is 1.75mm.」（https://felarus3d.com/product/tpu-filament）
+  - 「If you need your final parts to have a degree of flexibility – anything from super rubbery to just a touch of give – you’ll want to pay attention to a few key measurements that are detailed in your filaments’ technical datasheet. Some filament called “flexible” may not disclose exactly what it’s made of, so to know how parts made from it will perform, you’ll need to understand the following terms.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「There’s more to flexible filaments than thermoplastic elastomers, but do you really need to know polymer chemistry? Probably not. Yet, here are few notable distinctions between the major flexible polymers that could be useful understand.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「At 85A, printed parts feel like a soft rubber band or a silicone phone case. This hardness is ideal for gaskets, soft grips, vibration dampers, and wearable items. Printing is more challenging because the filament compresses easily in the extruder, requiring very slow print speeds and careful retraction tuning. If you want a reliable soft TPU,」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「TPU requires a different approach compared to PLA or PETG. The key challenge is that flexible filament can buckle, compress, or jam in the extruder assembly. Here are the settings we recommend for reliable TPU prints.」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「stands out for its tight diameter tolerance of plus or minus 0.03 mm, which translates to more consistent extrusion and fewer print failures. It is particularly well suited for mechanical parts like couplings and bushings where dimensional accuracy matters.」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「formulations combine polyurethane with additional resin compounds to modify mechanical properties. These filaments tend to be more expensive but can outperform standard TPU in demanding applications.」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「TPU does not work well with standard breakaway supports because the support material bonds too strongly. For complex geometries, consider using a dual-extrusion setup with a dissolvable support material, or design your part to minimize overhangs. Supports printed in the same TPU material can be cut away with a sharp blade.」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「Standard acrylic paints adhere poorly to TPU and will crack when the part flexes. Flexible acrylic paints or spray paints formulated for plastics work better. Prime the surface with a flexible primer designed for rubber or vinyl before painting.」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「Standard TPU degrades under prolonged UV exposure and is not recommended for permanent outdoor use. Some manufacturers offer UV-stabilized TPU formulations that perform better outdoors. For applications requiring long-term UV resistance, consider TPC or a UV-resistant coating.」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「Peter Gedeon is the founder of 3DPut.com. He oversees research-based 3D printing guides, comparisons, and buying advice for makers and engineers, produced under the site's published editorial and evidence standards.」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+  - 「Best 3D Printers for Halloween Props and Decorations in 2026: Complete Buyer Guide to Large Props, Jack-O-Lanterns, and Light-Up Effects」（https://3dput.com/complete-tpu-filament-guide-2026-settings-tips-and-best-brands/）
+- 価格：
+  - 「Our products are supplied to customers across North America, Europe, South America and other international markets.」（https://felarus3d.com/product/tpu-filament）
+  - 「Our sales team will provide pricing and production details.」（https://felarus3d.com/product/tpu-filament）
+  - 「Finding a reliable TPU filament supplier is about more than pricing.」（https://felarus3d.com/product/tpu-filament）
+  - 「$45-90$ / .5 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$40-$98 / .5kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$39-$86 / .5kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$39-$67 / .75 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$63-$80 / 1 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$47 / .65 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$42-$92 / .75 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$35-$73 / .5 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$45-$55 / .5kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$35 / .75 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「$50 / 1 kg」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+  - 「European 3D printer and materials reseller 3D Jake ventured into manufacturing its own branded filament years ago and it has gained a following for quality.」（https://facfox.com/docs/kb/the-best-flexible-filaments-of-2021-tpu-tpe-tpc）
+- 創業年：記載なし（読んだ60頁・検索23回）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+
+## 金属・セラミック充填フィラメントのメーカー（metal filled ceramic filled sinterable filament manufacturers）
+- 文脈：フィラメント・充填
+- 会社名・一覧：
+  - 「Printer manufacturers」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「AMAREA Technology is a system developer and manufacturer of additive manufacturing machines for industrial applications that can process high-performance materials such as」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「As a young company, we not only bring a breath of fresh air to the market, but also see ourselves as a technology-driven innovation partner – far beyond the role of a traditional hardware supplier. Our goal is to take additive manufacturing to the next level with multi-material technologies. To achieve this, we offer a holistic system consisting of」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「Users who particularly benefit from our MMJ technology are primarily research and development departments, manufacturers in the field of electronics and sensor technology, the aerospace industry, the」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「Every Wednesday, we bring you the best articles from the past week, a must-watch video highlight, and a heads-up on upcoming events you won't want to miss.」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+- 展示会：
+  - 「3DN: What are the challenges?」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「Like every innovative key technology, multi-material jetting also faces specific challenges:」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「the interaction of different high-performance materials in a single manufacturing process requires in-depth material science expertise. Each material and material combination has its own requirements in terms of rheology, sintering behavior and others. We are aware of this challenge and have extensive in-house expertise in materials science.」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「Standardization & scalability:」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「Additive multi-material processes are still uncharted territory in many industries and research institutions. Accordingly, established standards, test methods and interfaces for integration into existing processes are sometimes lacking. This is where we provide our customers with advice.」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+  - 「The AMAREA Technology team at Formnext.」（https://www.3dnatives.com/en/3dstartup-how-amarea-technology-is-shaping-the-future-of-am-050820256/）
+- 創業年：記載なし（読んだ60頁・検索23回）
+- 資金調達・株主：記載なし（読んだ60頁・検索23回）
+- 年商・規模：記載なし（読んだ60頁・検索23回）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
+- 技術支援：記載なし（読んだ60頁・検索23回）
+- 価格：記載なし（読んだ60頁・検索23回）
+
+## 水溶性・サポート材フィラメントのメーカー（soluble support filament PVA BVOH manufacturers）
+- 文脈：フィラメント・サポート
+- 会社名・一覧：
+  - 「Breakaway is not one universal chemistry. UltiMaker validates its product with named materials including PLA, Tough PLA, Nylon, ABS, CPE and CPE+. Another brand may publish a different list. A pairing that adheres too weakly can collapse during printing; one that fuses too strongly defeats the purpose.」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vJJYPLmyFqFbPNAXcIH960jGrDfi38mIcOUy0e3O5f34q9A5IXb）
+  - 「Check nozzle count, tool-changing or material-changing capability and the manufacturer’s support-material instructions.」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vJJYPLmyFqFbPNAXcIH960jGrDfi38mIcOUy0e3O5f34q9A5IXb）
+  - 「METMalaysia describes the country’s climate as having high humidity and substantial rainfall. That makes dry handling part of the process, not optional storage advice. Keep PVA and BVOH sealed with active desiccant, minimise the time between drying and printing, and use a low-resistance dry box if the manufacturer recommends printing from one.」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vJJYPLmyFqFbPNAXcIH960jGrDfi38mIcOUy0e3O5f34q9A5IXb）
+  - 「Do not copy one drying temperature across brands. A support filament can soften, deform on its spool or degrade if overheated. Use the latest label or technical sheet for that exact SKU and ensure the dryer and spool can tolerate the stated condition. The」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vJJYPLmyFqFbPNAXcIH960jGrDfi38mIcOUy0e3O5f34q9A5IXb）
+  - 「Water-Soluble Support Filament: Best Options and Where to Buy」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「Best Water-Soluble Support Filaments to Buy」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「Manufacturers have long aimed to create water-soluble support filaments due to their safety and accessibility, which do not require harsh chemicals. This category offers various materials, making it versatile for various filaments. Water-soluble filaments fall into two main types:」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「: These advanced filaments blend a water-soluble polymer with sugar, like trehalose, offering compatibility with a wide temperature range, including ABS to PEEK or ULTEM. Aquasys 120 and Aquatek X1 are notable for their compatibility with various materials and resistance to high chamber temperatures.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「PVA and BVOH-based filaments are best suited, with BVOH being less moisture-sensitive but slightly pricier.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「Aquasys 180 offers these materials' best compatibility and thermal stability.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「What are the Best Options Available for Water-Soluble Filament?」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「-Versatility for Diverse Applications: Ultimaker PVA's versatility extends to various applications, including creating parts with intricate geometries, fabricating concept models, and producing detailed molds. Its adaptability makes it a go-to choice for users seeking reliable, efficient, and eco-friendly 3D printing solutions.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「Having looked at the best water-soluble filament, it’s also important to have a look at the best 3D printing software. There are many that are available, but we recommend using SelfCAD. It is an easy-to-use」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「SelfCAD also comes with many resources for learning including」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「Breakaway is not one universal chemistry. UltiMaker validates its product with named materials including PLA, Tough PLA, Nylon, ABS, CPE and CPE+. Another brand may publish a different list. A pairing that adheres too weakly can collapse during printing; one that fuses too strongly defeats the purpose.」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vK4XmP-j9xqO_QrNwG6ZA9I-AJbRnL8oJr5haysTuEdpxgsw_JL）
+- 創業年：
+  - 「INTAMSYS, founded in Shanghai in 2016, positions the machine for prosumer and industrial applications, with a specific focus on small-batch manufacturing.」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「Founded in 2012 by three students from the Polytechnic University of Catalonia (also known as BarcelonaTech), the manufacturer BCN3D has become one of the key players in the FDM 3D printing market over the years. Though initially focused on」（https://www.3dnatives.com/en/3dnatives-lab-sigma-d25-3d-printer-bcn3d-091220214/）
+  - 「, since 2018, BCN3D has professionalized to offer professional Plug&play models, such as the Sigma D25 3D printer from the company. These are notable in particular due to BCN3D’s IDEX technology and for their various manufacturing modes such as Mirror or Duplication for the production of parts simultaneously.」（https://www.3dnatives.com/en/3dnatives-lab-sigma-d25-3d-printer-bcn3d-091220214/）
+- 資金調達・株主：
+  - 「What typically separates this class of machine from a desktop FFF printer is security, safety features, consistency, and robustness, backed by the kind of thermal control and independent multi-nozzle motion built into the Funmat Pro 310 NEO.」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「appreciate guidance to start a new 3D venture in INDIA at Bengaluru.」（https://www.3dnatives.com/en/plastics-used-3d-printing110420174/）
+- 年商・規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「Furthermore, we had a chance to study the business model and the organisation of the company. The 3DGence has shown an amazing growth since establishment with over 80 employees in various departments. The team behind the DOUBLE is incredibly knowledgeable and committed to providing a high quality 3D printing experience for users.」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+- 技術支援：
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「Parameters can also be overridden on a per-model basis for jobs that need finer control than the presets allow. Preset profiles are organized by quality and speed tier, including Balance 0.2mm, Performance 0.15mm, Quality 0.1mm, and Speed 0.25mm.」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「Like PEEK, PEKK requires dedicated industrial hardware and carries a significant material cost. It is less widely available than PEEK in filament form and has a smaller ecosystem of compatible printers and validated print profiles.」（https://www.3dnatives.com/en/plastics-used-3d-printing110420174/）
+- 展示会：
+  - 「While compatibility is challenging, BVOH or Aquasys 120 can be tested for suitability.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「Ultimaker PVA stands out as a premier water-soluble support material, revolutionizing multi-extrusion 3D printing by simplifying the creation of intricate designs.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「Ultimaker PVA, with its outstanding properties and eco-friendly characteristics, emerges as a top-tier choice for users prioritizing quality, efficiency, and sustainability in 3D printing.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「MatterHackers' PRO Series PVA stands out as a reliable water-soluble support material specifically designed to address the challenges of intricate 3D printing. Its features cater to professionals and hobbyists alike, enhancing the overall additive manufacturing experience.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「So, MatterHackers’ PRO 55–60 PVA sets a high standard in 3D printing support materials, offering reliable performance, ease of use, and environmental responsibility, making it a preferred choice for users aiming for exceptional results in their projects.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「-Excellent Solubility and Compatibility: One of its standout features is its superb solubility, allowing easy removal without causing any harm to the printed object. Moreover, it meshes well with various materials, like PLA, ensuring sturdy connections and suitability for complex designs.」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「PVA stands for polyvinyl alcohol. It dissolves in water and is used in FDM printing mainly for temporary support structures. It is most commonly paired with PLA because the processing temperatures are relatively close.」（https://www.vuolti.com/3d-printing/filament/water-soluble-support-filament/）
+  - 「BVOH stands for butenediol vinyl alcohol copolymer. Like PVA it dissolves in water and is used for temporary supports, while the part itself is printed in PLA, PETG or another compatible material.」（https://www.vuolti.com/3d-printing/filament/water-soluble-support-filament/）
+  - 「AMUG names new board leadership for 2026–2027 term」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「The user manual reflects the high quality and standard the company follows. It is well structured and fine attention has been given to the details and content. The manual covers all the necessary information professionally, including the safety measures, first set up, touchscreen options and troubleshooting.」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「Specifically, the test model displayed effective overhang handling capability. Our engineer particularly liked the DOUBLE’s impressive capability of printing PLA along with BVOH material for support effortlessly. The DOUBLE also handles the retractions in an outstanding manner.」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「AMUG names new board leadership for 2026–2027 term」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「What makes the Funmat Pro 310 NEO stand out?」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「The print head reaches a maximum nozzle temperature of 350°C, using a direct-drive dual-gear extrusion system. Nozzles ship in a standard 0.4 mm diameter, with 0.25, 0.6, and 0.8 mm options also supported, feeding standard 1.75 mm filament.」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「That support-material ecosystem is one of the machine’s clearer strengths. Beyond standard breakaway HIPS and SP5010, the printer runs a water-soluble support material called SP3030, which our test results showed as having ‘exceptional behavior as a water soluble support for PA6, PA6 CF, TPU 95 A, and ABS plus,’ dissolving faster in heated water and printing far more easily than PVA.」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+- 価格：
+  - 「when the exact product offers documented compatibility or processing advantages worth its price.」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vJJYPLmyFqFbPNAXcIH960jGrDfi38mIcOUy0e3O5f34q9A5IXb）
+  - 「$125.00」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「$59.99」（https://www.selfcad.com/blog/water-soluble-support-filament）
+  - 「when the exact product offers documented compatibility or processing advantages worth its price.」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vK4XmP-j9xqO_QrNwG6ZA9I-AJbRnL8oJr5haysTuEdpxgsw_JL）
+  - 「when the exact product offers documented compatibility or processing advantages worth its price.」（https://www.smith3d.com/pva-vs-bvoh-vs-breakaway-support-material/?srsltid=AYCX9vJMqojKyxqXRBwS3cpmYJ4g6hgzEt5YQ5y8cEgPJeiBTJLrlkGi）
+  - 「The two main materials are PVA and BVOH. They work on the same principle but differ in printability, material compatibility and price. This guide covers both, modified PVA grades, use in automatic material systems, drying, and what to check before buying.」（https://www.vuolti.com/3d-printing/filament/water-soluble-support-filament/）
+  - 「ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「Aurora Labs bets A$6M on scaling sovereign drone propulsion」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「The 3DGence DOUBLE is priced at €3095,」（https://3dprintingindustry.com/news/review-3dgence-double-a-high-quality-dual-extruder-3d-printer-that-delivers-136779/）
+  - 「ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「Aurora Labs bets A$6M on scaling sovereign drone propulsion」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「delivers industrial-grade dual-extrusion printing for $8,495 to $9,495, a price that puts high-temperature engineering-polymer capability within reach of SMEs that might otherwise outsource these parts.」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+  - 「For engineering teams and small manufacturers who need functional prototypes and short-run, end-use parts in high-temperature and reinforced polymers, the Funmat Pro 310 NEO stands out as one of the more capable industrial dual-extrusion platforms in its price bracket, particularly where multi-material or soluble-support geometry would otherwise be impractical to produce.」（https://3dprintingindustry.com/news/review-intamsys-funmat-pro-310-neo-pairs-idex-precision-with-a-100c-chamber-for-engineering-polymers-255270/）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
+
+## 大型FGF・LFAM用ペレット・コンパウンドのメーカー（pellets for large format additive manufacturing compound suppliers）
+- 文脈：ペレット
+- 会社名・一覧：
+  - 「European manufacturers including CEAD (Netherlands), Caracol」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「manufacturers employ infrared preheating, heated enclosures up to」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Robotic arm systems, including CEAD Flexbot and Caracol Heron」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「high-performance thermoplastics including PEEK, PEKK, and PEI」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「mounts to standard industrial robots from all major manufacturers:」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「IRB series, including IRB 4600, IRB 6700, IRB 7600」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「manufacturer-specific programming required—ADDX communicates via」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「robot investments—a critical advantage for manufacturers already」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「systems. A manufacturer with existing KUKA robots for automotive」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Material suppliers including SABIC (THERMOCOMP AM series), Techmer」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「August 2025) demonstrates manufacturer-integrated intelligence:」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Extensive robot brand libraries」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「For manufacturers evaluating ADDX, the implication is clear: the」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「manufacturers (KUKA, ABB, Fanuc, Yaskawa, Universal Robots,」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Manufacturer Technical Documentation」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+- 創業年：
+  - 「The construction industry trends for 2025 will build upon the momentum established in 2024:」（https://3dprintingindustry.com/news/3d-printing-trends-for-2025-executive-survey-of-leading-additive-manufacturing-companies-236247/）
+  - 「A.MANNESMANN is specialist in the production of geometric demanding, high precision machine components. Founded in 1796, the company produces components with high fegrees of slenderness in lenght up to 15 meters. The unit of mesurement for the manufacture tolerances - even with large dimensions - is the µm (micrometer).」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Guangdong Youhui Technology Co., Ltd. was established in 2003, located in Jiangmen City,Guangdong Province, close to Guangzhou City and Shenzhen City. lt is a professional infrared emitters supplier integrating R&D,production, sales and service.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「We are a manufacturer from Shanghai area of China for Industrial vacuum heat treatment furnace and fine cleaning machine since 2009.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 資金調達・株主：
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/suppliers）
+  - 「The SUMMSEED project, led by the Technical University of Catalonia - BarcelonaTech, is developing medium manganese steels for wire-based DED. Potential outcome: The project aims to create an alternative to Hadfield steels with reduced CO2 footprint.」（https://www.additivemanufacturing.media/suppliers）
+  - 「Chevalier manufactures CNC machines in our own ISO 90001-certified factories and provide solutions for Aerospace, Automotive, Defense, Energy, Gas & Oil, Medical, Semiconductor and Tool & Die industries. Our dealers delivers on time, at a competitive price and backed by our legendary service.」（https://www.additivemanufacturing.media/suppliers）
+  - 「I’m also thrilled by the rise of 3D print farms. Small business owners are leveraging multiple printers to efficiently produce customized products at low costs. At Elegoo, we’re committed to supporting this entrepreneurial spirit with reliable, high-performance printers like the Centauri Carbon, which is perfect for creating toys, miniatures, and functional components.」（https://3dprintingindustry.com/news/3d-printing-trends-for-2025-executive-survey-of-leading-additive-manufacturing-companies-236247/）
+  - 「Consolidation in 3D printing will continue, as there are too many players compared to the real market size. Unrealistic expectations of venture capital funds have largely not been fulfilled triggering exits by mergers or divestments. Investments in new start-ups in 3D printing will not compensate for the number of companies disappearing.」（https://3dprintingindustry.com/news/3d-printing-trends-for-2025-executive-survey-of-leading-additive-manufacturing-companies-236247/）
+  - 「The 3D printing industry is an exciting industry that continues to grow at an accelerated pace, recent reports indicate YoY growth in excess of 20%. The growth of the industry has attracted the attention of a lot of investors, resulting in an influx of capital and increasing valuations.」（https://3dprintingindustry.com/news/what-is-the-future-of-3d-printing-80-additive-manufacturing-experts-forecast-3d-printing-trends-for-2023-220261/）
+- 年商・規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/no-more-buying-by-the-ton-prusa-launches-small-batch-polymer-pellets-255814/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/3d-printing-trends-for-2025-executive-survey-of-leading-additive-manufacturing-companies-236247/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/what-is-the-future-of-3d-printing-80-additive-manufacturing-experts-forecast-3d-printing-trends-for-2023-220261/）
+  - 「As was seen in 2022, growth is expected to be much higher in system revenues than in unit shipments with revenues now forecasted to grow +19% across all technologies for the year against a unit volume growth expectation of just +9%.」（https://3dprintingindustry.com/news/what-is-the-future-of-3d-printing-80-additive-manufacturing-experts-forecast-3d-printing-trends-for-2023-220261/）
+  - 「CONTEXT reports 14% growth in revenue from 3D printing systems despite shipment dip」（https://3dprintingindustry.com/news/what-is-the-future-of-3d-printing-80-additive-manufacturing-experts-forecast-3d-printing-trends-for-2023-220261/）
+- 日本の担い手：
+  - 「This movement is named “Maximal Design” in contrast to “minimal design,” which is oriented toward the use of the same shape by many people. In Japan, New Craft Shop and Sekisai deserve attention. In the future, we expect this movement to grow into a larger trend as players in maximal design from around the world establish a network.」（https://3dprintingindustry.com/news/3d-printing-trends-for-2025-executive-survey-of-leading-additive-manufacturing-companies-236247/）
+  - 「JAPAN PAVILION by J3DPA」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 代理店募集・売り方：
+  - 「How to tell a catalog reseller apart from a real manufacturing partner」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+  - 「Judge suppliers on production terms, not prototype terms. Look for material breadth, batch consistency across lots, full documentation (TDS, SDS, and a certificate of conformance), capacity to scale, and reliable lead times. A supplier that manufactures its own material and offers application engineering support will hold up better through qualification than a catalog reseller.」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+  - 「A true manufacturing partner can. If a supplier compounds its own material, they can adjust filler loading, mechanical or thermal performance, flame rating, ESD properties, or color to fit the application, and offer it in both filament and pellet form. A reseller cannot, because they do not own the formulation. Ask about custom development timelines and minimum order quantities early.」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+  - 「Reclamation/Recycling Services, Scrap Dealers」（https://www.additivemanufacturing.media/suppliers）
+  - 「Chevalier manufactures CNC machines in our own ISO 90001-certified factories and provide solutions for Aerospace, Automotive, Defense, Energy, Gas & Oil, Medical, Semiconductor and Tool & Die industries. Our dealers delivers on time, at a competitive price and backed by our legendary service.」（https://www.additivemanufacturing.media/suppliers）
+  - 「Ortho Native 3D GmbH is a German distributor of a FDM 3D printing system for the medical field. Special focus is on dentistry and dental technology as well as orthopedic technology and medicine.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Materialise has expanded its role in the aerospace maintenance, repair and overhaul (MRO) sector and is now working with Proponent, the world’s largest aerospace distributor, and Stirling Dynamics, a leading EASA 21. J-certified design organization, to develop 3D printed cabin solutions. Materialise has previously partnered with」（https://www.3dnatives.com/en/3d-printing-aeronautics-010320184/）
+  - 「Unfortunately, the term biodegradable used by manufacturers and distributors can be somewhat misleading for the final consumer when it is not further defined. The Federal Environment Agency also notes in its report that increased environmental impacts from micro-plastics can occur if more plastics are disposed of in the environment due to this communicated biodegradability.」（https://www.3dnatives.com/en/pla-filament-230720194/）
+- 技術支援：
+  - 「Production-ready operation with validated process parameters」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「materials without separate qualification—a significant advantage」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「validated processing parameters that reduce implementation risk.」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「printing knowledge to recommend process parameters across pellet」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「transverse speed, and screw speed parameters. CNN-LSTM hybrid models」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「magnitude, coordinating six robot axes with extruder parameters and」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「robot motion, extrusion parameters, fiber tension, and thermal」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「optimization for LFAM process parameters」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Various autoclave qualification standards」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「For specific technical parameters, performance data, and case study」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「at minimum. For regulated or customer-audited work, you also need records that prove what you received and where it came from. A supplier that treats documentation as an afterthought will slow every qualification you run.」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+  - 「The qualification checklist:」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+  - 「These are the baseline for any qualification and any safety review.」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+  - 「Judge suppliers on production terms, not prototype terms. Look for material breadth, batch consistency across lots, full documentation (TDS, SDS, and a certificate of conformance), capacity to scale, and reliable lead times. A supplier that manufactures its own material and offers application engineering support will hold up better through qualification than a catalog reseller.」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+  - 「Choosing a made in USA filament supplier comes down to whether the supplier can support production, not just fill an order. 3DXTech is a US filament manufacturer that develops and manufactures advanced 3D printing filaments and pellets domestically, with custom compounding and application engineering support for teams qualifying materials for demanding and regulated programs.」（https://www.3dxtech.com/blogs/featured/made-in-usa-filament-supplier?srsltid=AYCX9vJcU0j9Pi-hg7ola_RJBRD0ZgTT5u_JjJxmAI857BayxFSmLu9I）
+- 展示会：
+  - 「final tolerance—became the industry standard for high-quality」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「deposition rates with standard work envelopes of 23 × 10 × 46 feet.」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「through an additional thermal cycle. LFAM systems feed standard」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Thermal management represents the critical process control challenge」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Standard Nozzle Output」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「mounts to standard industrial robots from all major manufacturers:」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「The system interfaces through standard robot tool flanges using」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「industry-standard mechanical and electrical connections. No」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「standard industrial protocols (Ethernet/IP, PROFINET, etc.).」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Rapid Integration Timeline」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Standard engineering polymers serve room-temperature and」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「challenge: Z-direction strength typically reaches only 30-60% of」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Pure pellet extrusion, rapid deposition」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「KUKA, ABB, Fanuc, Yaskawa, Universal Robots, Kawasaki. Standard」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「via standard polymer granulates pre-mixed with reinforcement through」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+- 価格：
+  - 「European manufacturers including CEAD (Netherlands), Caracol」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「warpage, and material costs under $25/kg. CF-PC (carbon fiber」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「produced wind turbine blade components under a $4 million DOE grant」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「$1M-$30M」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「$50K-$500K」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「$150K-$400K (est.)」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「Traditional blade mold fabrication costs exceed $10 million with」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「(March 2025) demonstrated neural networks achieving 8.88% mean」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「The LFAM-specific market has grown from $117.7 million in 2021 to」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「projected $619.3 million by 2030—more than 5× expansion according to」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「even stronger growth, with projections ranging from $88 billion to」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「$144 billion by 2030-2033 at CAGRs of 21-24%. Continuous fiber」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「composite 3D printing specifically is projected to reach $405」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「$117.7M (2021) → $619.3M (2030)」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+  - 「$300M (2023) → $800M (2024)」（https://www.addcomposites.com/post/large-format-additive-manufacturing-transforms-industrial-production-in-the-ai-era）
+
+## エンプラ・スーパーエンプラのAM用コンパウンドメーカー（PEEK・PEI・PPS・PA）（high performance polymer compounds for 3D printing PEEK PEI PPS suppliers）
+- 文脈：ペレット・エンプラ
+- 会社名・一覧：
+  - 「Design guides, best practices, and optimization tips for 3D printing success.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「No. PEEK filament is available from multiple suppliers in 1.75mm and 2.85mm formats, but the filament format doesn't make it compatible with desktop hardware. The limitation is temperature capability of the printer, not the filament form factor.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「PLA vs PETG vs ASA: Best 3D Printing Filament for Outdoor Use」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Best 3D Printing Filament Dry Boxes 2026 & DIY Tips」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Dissolvable 3D Printing Filament: Ultimate Guide & Best Uses」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「PPS has been investigated for a wide variety of applications since it was first introduced in the 1960s. Special attention has been paid to PPS for coating applications owing to its excellent resistance to corrosion and other chemicals including organic solvents, inorganic salts, bleaches, and strong bases.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「For these reasons, extensive work has been done to improve the mechanical performance of PPS. Formulations of PPS containing fillers such as carbon fiber, nylon, and volcanic ash have been developed to improve mechanical properties including its tensile strength and toughness.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「Polyetherimide (PEI), with a trade name of ULTEM, is an amorphous high performance thermoplastic polymer. PEI has various commercial product lines including ULTEM 9085 and ULTEM 1010, having」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「further showed that polymer blends (i.e., 2 wt% PVDF) with the best piezoelectric properties can be printed using SLA, a technique similar to DPP which also employs light to print the parts.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「The overall manufacturability of PVDF was improved due to the CTE decrease and unwanted distortion in printed parts. However, a substantial decrease in mechanical properties including effective yield strength and elongation to failure was observed. Interestingly, this issue may be overcome by incorporating appropriate Zn(WO」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「Oil and gas companies and their suppliers can share these libraries for rapid production of spare and replacement parts. Such digital libraries are merely virtual repositories and should not incur any additional cost.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「In 4D printing, the printed part can change shape over time in response to an external stimulus (e.g., heat, light, water, pH, and magnetic field). In this technology, the 3D-printed parts, also called smart materials, can undergo shape change or transformation, including twisting, bending, curling, folding, expanding (linear or non-linear expansion), either from 1D, 2D, or 3D structures.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「https://www.solvay.com/en/brands/udel-psu」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「Fabricants d’imprimantes」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「3D MASTERPARTS GmbH is your reliable contract manufacturer for CNC and 3D printed parts in the fields of rapid prototyping, model making, and one-off pieces. We are also happy to take care of assembly and surface finishing. With our strong team and our own machinery, we are there when your complex requirements need a professional solution!」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 創業年：
+  - 「A.MANNESMANN is specialist in the production of geometric demanding, high precision machine components. Founded in 1796, the company produces components with high fegrees of slenderness in lenght up to 15 meters. The unit of mesurement for the manufacture tolerances - even with large dimensions - is the µm (micrometer).」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Guangdong Youhui Technology Co., Ltd. was established in 2003, located in Jiangmen City,Guangdong Province, close to Guangzhou City and Shenzhen City. lt is a professional infrared emitters supplier integrating R&D,production, sales and service.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「We are a manufacturer from Shanghai area of China for Industrial vacuum heat treatment furnace and fine cleaning machine since 2009.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 年商・規模：
+  - 「It plays a crucial role in the global economy as it not only generates a revenue of roughly US$ 3 trillion annually worldwide,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+- 日本の担い手：
+  - 「JAPAN PAVILION by J3DPA」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 代理店募集・売り方：
+  - 「Ortho Native 3D GmbH is a German distributor of a FDM 3D printing system for the medical field. Special focus is on dentistry and dental technology as well as orthopedic technology and medicine.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 技術支援：
+  - 「Get PEEK 3D printed parts engineered for your application. JLC3DP offers professional PEEK printing with process parameters optimized for mechanical performance.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「: CF-PEEK is more brittle than unfilled PEEK, incurs higher material costs, and can reduce interlayer adhesion if printing parameters aren’t optimized.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「PEEK 3D printing produces inter-layer bond strength that approaches bulk material properties when process parameters are optimized. When they're not, when chamber temperature drifts, when print speed is too high, when cooling is inconsistent, layer adhesion degrades and parts fail at inter-layer boundaries under mechanical or thermal stress.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「FDM has also been extensively used to print PEEK and PEEK-based materials. Early studies have focused on the potential of printed PEEK for biomedical applications. Due to the desirable properties of PEEK, much research studies in the biomedical field have shifted to FDM 3D printing of PEEK and exploring different parameters toward improvement of printed PEEK-based parts. Valentan et al.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「also developed a customized FDM system for printing PEEK, where the PEEK tensile properties were optimized by focusing on the effects of different printing parameters. Likewise, the addition of carbon fiber filler affecting the structural and thermal properties of 3D-printed PEEK-based composites (Fig.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「due to the layer-by-layer type of fabrication compared to formative and subtractive manufacturing. To overcome this issue, 3D printing parameters such as printing speed, printing temperature, layer height, and the like can be optimized, while other 3D printing technologies with lesser degree of anisotropy can be used.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「The Performance Review Institute (PRI) is a global leader in quality assurance and accreditation. We administer the Nadcap® program for critical process accreditation, provide quality management system certifications, and offer professional development and workforce qualification programs. Visit us to explore how PRI helps advance quality and compliance across the aerospace supply chain.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 展示会：
+  - 「PEEK 3D Printing: Benefits, Applications & Challenges」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Compare and understand the major 3D printing technologies.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Understand business strategies and economics of 3D printing.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Understanding costs and return on 3D printing investment.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Why Use PEEK 3D Printing? Benefits, Applications & Challenges」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Challenges of 3D Printing PEEK Materials」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Standard consumer FDM printers don't reach these temperatures. Industrial high-temperature FDM systems, Stratasys Fortus, Apium P-Series, AON3D, Intamsys FUNMAT HT, are the equipment class that makes PEEK 3D printing viable.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「For applications requiring additional stiffness, dimensional stability, or reduced warping, carbon fiber reinforced PEEK (CF-PEEK) 3d printing provides an enhanced solution. Compared to standard PEEK, CF-PEEK delivers:」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「PEEK 3D printing temperature requirements, 360-400°C at the nozzle, 120-160°C chamber, 120-160°C bed, put it outside the capability of all standard and prosumer FDM equipment. Industrial high-temperature systems cost $20,000-150,000 depending on build volume and capability.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「No. Standard desktop FDM printers cannot reach the nozzle temperatures of 360-400°C or the heated chamber temperatures of 120-160°C that PEEK 3D printing requires.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Because of their strength-to-weight ratios, ability to withstand a broader range of chemical, thermal, and physical stress, and other advantages over metallic materials, HPPs have become an attractive choice for utility across a wide range of demanding applications.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「In comparison, PVDF, also known as Kynar, is readily processible through standard thermoplastic techniques like extrusion and injection molding. PVDF is synthesized by free radical polymerization of 1,1-diflouroethylene.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「AM is synonymous to the following terminologies: 3D printing, digital manufacturing, freeform fabrication, and rapid prototyping.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「Currently, there are many different types of AM technologies available for processing different materials, but requiring different post-processing operations. According to standards, AM is categorized into seven processes,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「A brief discussion on the three distinct market segments of the oil and gas industry could facilitate a better understanding of the potential use of polymer 3D printing. Fig.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+- 価格：
+  - 「PEEK 3D printing temperature requirements, 360-400°C at the nozzle, 120-160°C chamber, 120-160°C bed, put it outside the capability of all standard and prosumer FDM equipment. Industrial high-temperature systems cost $20,000-150,000 depending on build volume and capability.」（https://jlc3dp.com/blog/peek-3d-printing）
+  - 「Oil and gas companies are among the biggest and most important industrial sectors in the world, with crude oil and natural gas prices as two of the most closely watched in the global market.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「It plays a crucial role in the global economy as it not only generates a revenue of roughly US$ 3 trillion annually worldwide,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8675114/）
+  - 「Meilleurs logiciels de CAO」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Choisir un ordinateur pour la CAO」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Extrudeur Bowden ou direct」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Éditeurs de logiciels」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「ARTEC EUROPE S.à r.l.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Your partner for individual solutions for everything to do with laser cladding, DED , LMD We have many years of extensive experience in the field of laser cladding. That makes us experts in our industry! Our work is always based on the requirements of our customers. Quality, reliability and reasonable prices are our focus in order to contribute to your success.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「DN Solutions Europe GmbH」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「ETMM European Tool & Mould Making」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Jahresmagazin Kunststofftechnik Ingenieurwissenschaften 2026」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Mitsubishi Chemical Europe GmbH」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Mitsui Chemicals Europe GmbH」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Nikon Metrology Europe NV」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 資金調達・株主：記載なし（読んだ60頁・検索23回）
+
+## SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）（SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers）
+- 文脈：樹脂粉末
+- 会社名・一覧：記載なし（読んだ60頁・検索23回）
+- 創業年：記載なし（読んだ60頁・検索23回）
+- 資金調達・株主：記載なし（読んだ60頁・検索23回）
+- 年商・規模：記載なし（読んだ60頁・検索23回）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
+- 技術支援：記載なし（読んだ60頁・検索23回）
+- 展示会：記載なし（読んだ60頁・検索23回）
+- 価格：記載なし（読んだ60頁・検索23回）
+
+## 光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）（engineering photopolymer resin manufacturers SLA DLP LCD brands）
+- 文脈：レジン
+- 会社名・一覧：
+  - 「Certified Part Producers」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「Almost all 3D-printing resin manufacturers are trying to mimic ABS and some market their resin as ABS-Like. Why is ABS the benchmark and how does its properties compare to best in class tough resins?」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「Let’s talk about 3D-printer compatibility of the above mentioned tough resins. Hardware manufacturers like 3D-Systems, Carbon3D, EnvisionTEC and Formlabs focus on selling their hardware with their materials and their resin are not known to be compatible with other 3D-printers. To our best knowledge the DSM Somos resin is compatible with (huge) laser based SLA 3D-printers brands like UnionTEC」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「. While Henkel is an open platform, mainly working with high-end brands like Asiga」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「. Time will tell how all these manufacturers move forward in resin 3D-printing. For those who follow Liqcreate, know that the resin formulators at Liqcreate aim for a wide resin compatibility with DLP, SLA, MSLA and LCD 3D-printers in all segments. More information regarding machine compatibility can be found」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「. Just to name a few Liqcreate compatible 3D-printer brands:」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「6] www.dsm.com/content/dam/dsm/additive-manufacturing/en_US/documents/Brand-Status-Sell-Sheets/English-Letter/Somos%20Taurus%20SS-PDS%20Letter.pdff」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「Average prices range from about $15 to $40 per liter, making this resin type one of the most economical options in the 3D printing industry. With proper post-processing, including sanding and painting, you can achieve a professional appearance.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Typically ranges from about $20 to $60 or more per liter, depending on brand and formulation.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Mid-range, often between $30 and $70 per liter depending on brand.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Rigid or ceramic-filled resins deliver high stiffness and dimensional accuracy but fail in a brittle manner, which makes them best for metrology fixtures. PMMA-like blends provide long-term optical stability for clear parts, while nylon-like versions improve layer bonding and flexibility for living hinges.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「More expensive than general clear resin and require more post-processing steps to reach their best optical quality.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Hidden costs accumulate quickly in the 3D printing process. Consumables such as isopropyl alcohol for rinsing, water or solvent disposal, nitrile gloves, filters, and replacement FEP films for resin printers all impact the budget. Filled resins, including ceramic or glass-loaded types, can wear FEP films faster, adding to maintenance expenses.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Which Resin Types are Best for Miniatures and for Large Models?」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Resin printing performance depends on well-tuned profiles. These profiles live partly in the slicer and partly on the printer, defining how light, lift, and curing interact with liquid resin. A safe starting point is the datasheet from the manufacturer, but you should always run calibration coupons to validate exposure windows, layer height, and mechanical properties.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+- 創業年：
+  - 「The construction industry trends for 2026 will build upon the momentum established in 2025:」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「The other trend we see is data collection and exploitation in lower price point machines. This is well established in higher values areas of the market, however as the capability of the lower cost machines advances their use case widens and we are now at the point that robust production data will start to be a necessity for a growing number of parts produced on these machines.」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「A.MANNESMANN is specialist in the production of geometric demanding, high precision machine components. Founded in 1796, the company produces components with high fegrees of slenderness in lenght up to 15 meters. The unit of mesurement for the manufacture tolerances - even with large dimensions - is the µm (micrometer).」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Guangdong Youhui Technology Co., Ltd. was established in 2003, located in Jiangmen City,Guangdong Province, close to Guangzhou City and Shenzhen City. lt is a professional infrared emitters supplier integrating R&D,production, sales and service.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「We are a manufacturer from Shanghai area of China for Industrial vacuum heat treatment furnace and fine cleaning machine since 2009.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 資金調達・株主：
+  - 「In the case of a laser, the individual layers of a 3D model are drawn onto the resin as a printbed is raised or lowered—depending on whether the vat is above or below the light source—layer by layer until the object is complete. In the case of a lamp or projector, entire slices of the CAD model are cast onto the resin, hardening the object one whole layer at a time.」（https://www.engineering.com/9-desktop-3d-printing-resins-you-should-know-about/）
+  - 「Finally, toward the end of 2025, we saw increasing investor confidence and substantial funding flowing into Chinese personal 3D printing companies. While 2026 may still be too early to judge the full impact, it is reasonable to expect the first results of this investment. It can be seen as faster product iteration, tighter hardware-software integration, or more aggressive market expansion.」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「Secondly, I do see a trend to use printfarms with more inexpensive tabletop printers (mainly FDM) as installations for series and mass production applications. This will weaken the market size for professional plastics 3D printers shifting into that direction.」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「As can be expected, the majority of the installed base of vat photopolymerization systems comprises low-cost LCD systems, totaling 1.7 million machines installed worldwide in 2022. VoxelMatters projects this category to remain the largest within vat photopolymerization, with almost 12 million units installed by 2032. Altogether」（https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/）
+- 年商・規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「In the future high-speed DLP and SLA will be the largest revenue segments in vat photopolymerization. By 2032, high-speed DLP will be in fact surpass SLA as the largest vat photopolymerization hardware revenue opportunity overall totaling $2.7 billion in yearly revenues.」（https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/）
+  - 「Beyond SLA, which will grow to over 2.4 billion in revenues by 2032, among the key sub-technologies of vat photopolymerization, conventional DLP (VPP-DLP) systems are expected to generate $601 million by 2032, whilst VPP-LCD systems are expected to grow to almost $1 billion by the end of the forecast period.」（https://www.voxelmatters.com/all-you-need-to-know-about-the-past-present-and-future-of-stereolithography/）
+- 日本の担い手：
+  - 「JAPAN PAVILION by J3DPA」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 代理店募集・売り方：
+  - 「Partners & Distributors」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「By offering both FDM filaments and 3D printing resin, Yousu3D allows distributors and OEMs to source multiple material types from a single supplier, simplifying inventory and logistics. OEM and private‑label services are available for customers who want to develop their own branded 3D printing resin lines.[1]」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「The company offers export‑ready packages, including printers, resins, and spare parts, which is attractive for dealers, educational institutions, and small manufacturers looking for a turnkey solution, particularly when combined with external」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「Because of its global distribution network and brand recognition, sourcing eSUN 3D printing resin is relatively straightforward for distributors and end users around the world. The company’s technical expertise helps customers select suitable 3D printing resin grades for specific printers and applications.[5]」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「Yes, many 3D Printing Resin Manufacturers in China offer OEM and ODM services, including private‑label packaging, custom bottle designs, and tailored formulations for specific applications. This allows distributors and brands to build their own 3D printing resin product lines without investing in resin production facilities.[6][1]」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「Trading Company/Distributor」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「Manufacturer/Trading Company/Distributor/Wholesaler」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「Manufacturer/Trading Company/Wholesaler/Distributor」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「Ortho Native 3D GmbH is a German distributor of a FDM 3D printing system for the medical field. Special focus is on dentistry and dental technology as well as orthopedic technology and medicine.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 技術支援：
+  - 「How Should You Set Up and Tune Resin Profiles and Parameters?」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Water-washable resin for 3D printers benefits from longer dry times before UV curing to prevent embrittlement. Keeping a change log as you iterate helps you refine parameters without losing track of what worked best, and to tune effectively, you first need to know what a resin profile actually is.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「What are Key Parameters in Resin Profiles?」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Once the basic parameters are in place, fine-tuning is what brings consistency and precision. Calibration prints are the best starting point. These test pieces let you read failures: under-exposure shows as weak adhesion or “elephant skin” textures, while over-exposure causes brittleness and blurred edges. Adjust exposure times in small increments, typically 0.2–0.3 seconds, to avoid overshooting.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Many Chinese suppliers have extensive export experience and provide English‑language technical support, packaging customization, and regulatory documentation for international markets, serving sectors such as automotive in ways that complement」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「Designers and buyers can send CAD files and application requirements; Anebon’s engineers then recommend appropriate 3D printing resin, process parameters, post processing steps after printing, and any post‑machining or assembly steps needed to meet final specifications.[2]」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「Training and Services」（https://www.matterhackers.com/store/c/browse-by-3d-printer-resin-brands）
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「Application-driven AM now means qualification-first, data-centric, and governance-ready: tightly integrated with robotic automation and physical AI to enable distributed manufacturing and real supply-chain resilience.」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「After years of intensive product development, qualification processes, and pilot applications, we expect 2026 to mark a turning point in which metal additive manufacturing is deployed directly within industrial production chains as a safe, sustainable, and reliable alternative to conventional manufacturing.」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「At the same time, LPBF is increasingly enabling new, AM-native products across sectors, rather than retrofitting legacy components, supported by growing acceptance of AM-specific tolerancing and qualification logic.」（https://3dprintingindustry.com/news/the-future-of-3d-printing-additive-manufacturing-expert-forecasts-for-2026-249050/）
+  - 「The Performance Review Institute (PRI) is a global leader in quality assurance and accreditation. We administer the Nadcap® program for critical process accreditation, provide quality management system certifications, and offer professional development and workforce qualification programs. Visit us to explore how PRI helps advance quality and compliance across the aerospace supply chain.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 展示会：
+  - 「, RapidShape」（https://www.liqcreate.com/supportarticles/the-tough-3d-printing-resin-sla-dlp-lcd-msla/）
+  - 「Standard and draft blends are great for everyday models and quick prototypes.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Which Standard Resin Types are Commonly Used?」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「When you look at resins for 3D printing, some categories stand out as the most widely used across resin printers. These are favored because they balance cost, accessibility, and reliable performance for a broad range of 3D printing projects.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Standard or rigid resins are often the first choice for prototypes and everyday models because they offer a smooth surface finish and predictable results.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Each resin type comes with trade-offs, whether that is brittleness, curing sensitivity, or limited long-term stability under UV light. Understanding these limitations is essential when deciding how your parts should function.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「To help you compare, let’s look closely at the most common standard resin types and what makes them useful for your 3D printing applications.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Standard / Rigid (General-Purpose)」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Standard or rigid resins are the baseline material you will encounter when working with resin 3D printing. These resins are designed to provide ease of use and consistency, making them ideal for both beginners and experienced users.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Water-washable resin for 3D printing is marketed as a convenient alternative to standard resins that require isopropyl alcohol cleaning. Instead of a solvent bath, you rinse your resin prints in water to remove uncured material.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Flexible or elastic resins introduce a completely different behavior compared with rigid materials. They mimic the feel of rubber, offering elongation and energy absorption that standard resins cannot achieve.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「You can also mix a small percentage of flexible resin with standard resin for 3D printing to improve toughness, though you should expect longer exposure times. Average prices range from about $40 to $100 per liter, reflecting their specialized role in the 3D printing industry.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「This makes it especially valuable when you need quick prototypes, early design iterations, or large parts where speed matters more than aesthetics. You will often see thicker layer heights compared with standard resins, which reduces overall print time but also lowers resolution and smooth surface quality.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「For design-intent validation, draft resin is an excellent choice, but once your prototype is finalized, you should reprint in a tougher or standard resin type for durability.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Some workflows claim multiple times faster output compared with standard resin 3D printers, and up to ten times faster than large FDM builds.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+- 価格：
+  - 「What makes resin printing so appealing is its ability to deliver very fine detail and smooth surfaces, though you should also remember that most resins are brittle compared to thermoplastics, UV-sensitive, and not food-safe. Prices can range from around $15 to more than $200 per liter, so the choice you make also comes down to budget.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Average prices range from about $15 to $40 per liter, making this resin type one of the most economical options in the 3D printing industry. With proper post-processing, including sanding and painting, you can achieve a professional appearance.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Typically ranges from about $20 to $60 or more per liter, depending on brand and formulation.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「You can also mix a small percentage of flexible resin with standard resin for 3D printing to improve toughness, though you should expect longer exposure times. Average prices range from about $40 to $100 per liter, reflecting their specialized role in the 3D printing industry.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「Mid-range, often between $30 and $70 per liter depending on brand.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「: Set your budget, draft and standard resins run ~$15–$60/L, flexible resins $40–$100/L, and engineering blends can exceed $100/L.」（https://www.raise3d.com/blog/resin-types-of-3d-printing/）
+  - 「, powering rapid prototyping and production for industries such as automotive, medical, consumer electronics, and industrial equipment, while European hubs like Germany host their own」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「– Competitive pricing and MOQs」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「Anebon offers precision assembly, dimensional inspection, and functional testing services tailored to the requirements of European, American, and Asian OEM customers.[2]」（https://anebonmetal.com/top-10-3d-printing-resin-manufacturers-in-china/）
+  - 「$27160295」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「TIFFAN Supply Reasonable Price Uv Printer A2 Flatbed Uv Printer Digital Printing Machine for Paper」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「$73804」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「Factory Price 3D PLA Filament 1.75mm 1KG Spool PLA Filament for 3d Printer」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「$429.84」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+  - 「$68761」（https://www.sourceready.com/supplier/list/3d-printer-supplies-suppliers/4）
+
+## 歯科・医療用3Dプリントレジンのメーカー（dental 3D printing resin manufacturers）
+- 文脈：レジン・歯科
+- 会社名・一覧：
+  - 「THE TOP BRANDS FOR IN-HOUSE PRODUCTION OF MODELS AND APPLIANCES」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「Here at Voxel, we’re highly selective over the brands we choose to work with, seeking distributor relationships with manufacturers who share our obsession with quality and service so we can provide our customers with the very best clinical experience.」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「When it comes to 3D printing, we’ve chosen to work with today’s leading brands as well as emerging technologies that live up to their promises for speed, reliability and usability. With our many years of experience creating digital workflows in dentistry, we’re constantly testing and evaluating the latest and greatest to make sure our customers are getting the best value on the market.」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「The top dental 3D printing brands, including SprintRay, FlashForge, LuxCreo, and Uniz」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「If a product is identified as "FDA Listed" or "FDA-Listed," it means that the company who manufacturers or distributes it has completed an online listing theur the」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「List of FDA Tracked Dental 3D Printer Resins」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「Contract Manufacturer;」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「These companies resell, relabel or specify other manufacturer's resins, with or without their own FDA establishment licenses.」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「The indications and/or categories of resins below do not currently require FDA listings by their manufacturers as the devices created with these resins do not require biocompatibility:」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「Including webcast and powerpoint links」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「Printer manufacturers」（https://www.3dnatives.com/en/the-dental-resin-3d-printers-currently-on-the-market-170220225/）
+  - 「American manufacturer」（https://www.3dnatives.com/en/the-dental-resin-3d-printers-currently-on-the-market-170220225/）
+  - 「Every Wednesday, we bring you the best articles from the past week, a must-watch video highlight, and a heads-up on upcoming events you won't want to miss.」（https://www.3dnatives.com/en/the-dental-resin-3d-printers-currently-on-the-market-170220225/）
+  - 「Best Dental 3D Printer Brands Compared: 2025 Guide」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Top Dental 3D Printer Brands & Market Leaders: Complete 2025 Comparison Guide」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+- 年商・規模：
+  - 「Guidance for Industry and FDA Staff - Dental Composite Resin Devices - Premarket Notification [510(k)] SubmissionsDental Composite Resin Devices - Premarket Notification [510(k)] Submissions」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「The FormLabs 3B+ is an excellent printer in terms of ease of use and is one of the easiest printers to delegate to staff. The setup up process is a breeze and can easily be done by anyone on the team without a technician.」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/ameralabs-introduces-three-ce-class-i-resins-for-dental-3d-printing-255153/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/direct-parameter-imports-now-possible-with-new-chitubox-dental-v1-2-0-slicer-software-235558/）
+- 代理店募集・売り方：
+  - 「Here at Voxel, we’re highly selective over the brands we choose to work with, seeking distributor relationships with manufacturers who share our obsession with quality and service so we can provide our customers with the very best clinical experience.」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「The printer will cost you around $11,000 USD depending on your local distributor and region. This does not include a wash or cure, but does include unlimited lifetime technical support for free which is accessible via Asiga Customer Support Centre, online ticketing system, Asiga resellers and all Asiga offices (Australia, USA, Germany).」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「Value added resellers and distributors」（https://ultimate3dprintingstore.com/pages/reseller-program?srsltid=AYCX9vLWxzh2mJX2Dw0seJSgcyapRbzWvvko9kTyFSRXtGxFXwcbuiP1）
+  - 「Aident provides dental digital manufacturing solutions, including dental 3D printers and dental 3D printing resins. Dental laboratories, distributors, and OEM/ODM buyers can contact the Aident team to discuss their applications, supported material workflows, product specifications, and commercial requirements.」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「Discuss equipment purchasing, distributor cooperation, or OEM/ODM requirements.」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「Dental 3D Printing Market Trends: Why Digital Dentistry Is Creating New Opportunities for Clinics, Labs and Distributors」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「In-House Dental 3D Printing: A Buying Guide for Dental Labs and Equipment Distributors」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「The formulations are also free from TPO, THFA, MMA, BPA and phthalates. AmeraLabs develops and manufactures its resins at its ISO 13485-certified facility in Europe, where the company says each batch undergoes quality testing. CIT-25, SGR-28 and TRY-23 are now available through the AmeraLabs online shop and its authorized resellers.」（https://3dprintingindustry.com/news/ameralabs-introduces-three-ce-class-i-resins-for-dental-3d-printing-255153/）
+- 技術支援：
+  - 「You'll receive unlimited training and support to get up and running quickly」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「Installation & Training」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Technology: Advanced laser scanning with optimized cure parameters」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「INSTALLATION & TRAINING」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「to get in-depth training.」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「Alpha AI is user friendly. Most doctors can pick it up without any formal training. It is constantly updated, new versions are always coming out with improved resin profiles.」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「Alpha AI software that runs the SOL is user friendly. Most doctors can pick it up without any formal training. It is constantly being updated with new versions coming out with improved resin profiles.」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「The printer will cost you around $11,000 USD depending on your local distributor and region. This does not include a wash or cure, but does include unlimited lifetime technical support for free which is accessible via Asiga Customer Support Centre, online ticketing system, Asiga resellers and all Asiga offices (Australia, USA, Germany).」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「Free Remote setup and training」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「However, I did run into some errors which the technical support team were already aware of and planning to fix. For instance, adding more than 2 study models per build seemed to confuse the cloud-based slicing software.」（https://instituteofdigitaldentistry.com/3d-printing/idd-dental-clinic-3d-printer-review-2024/）
+  - 「However, purchasing a dental 3D printer is not simply a matter of comparing resolution, printing speed, or equipment prices. The resin, printing parameters, washing process, post-curing conditions, and software workflow all affect the final result.」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「Were the tests performed using the recommended resin and validated parameters?」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「Supported printer models and recommended print parameters.」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「Important factors include the printer's light source, optical system, resin formulation, exposure parameters, build platform, slicing software, and recommended post-processing procedure.」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+  - 「A material that works on one system may require different parameters on another, and changing those parameters without validation can affect dimensional consistency or material performance.」（https://www.aident3d.com/info/how-to-choose-a-dental-3d-printer-and-resin-fo-103715035.html）
+- 展示会：
+  - 「Actually, there is no such thing as an "FDA Approved" resin for 3D printing. The term "FDA Approved" is reserved for high risk drugs and medical devices which have been approved via a very stringent premarket approval (PMA) process that goes well beyond the standard FDA 510(k) pathway. Read the article below on the FDA website for this very important distinction:」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「"Standardization Roadmap for Additive Manufacturing, Version 2.0"」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「https://share.ansi.org/Shared%20Documents/Standards%20Activities/AMSC/AMSC_18-001_PRELIMINARY_FINAL_DRAFT_AMSC_Roadmap_v2.pdf」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「SOFTWARE STANDARDS AND FDA GUIDANCE」（https://www.microndental.com/regulatory/fda-approved-cleared-3d-printer-resins）
+  - 「Photo Credits: Rapid Shape」（https://www.3dnatives.com/en/the-dental-resin-3d-printers-currently-on-the-market-170220225/）
+  - 「← Dental 3D Printer Comparison: Understanding DLP, SLA, and MSLA Technologies」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Understanding the Dental 3D Printer Market Leadership」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「has capitalized on by introducing the world’s first FDA-cleared direct-print clear aligner system in 2022, fundamentally challenging traditional manufacturing paradigms.」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Understanding which brands lead the market provides crucial context for purchasing decisions. Market leaders typically offer:」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Market Position: Emerging leader with rapidly expanding market presence following FDA clearance」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Print Speed: 30-40 minutes for models (50 mm/h standard, 100 mm/h with Crown Kit)」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Market Position: Proven laboratory standard with 500+ validated materials」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Understanding the fundamental difference between direct-print and traditional thermoforming workflows is essential to informed purchasing decisions.」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「“3D printed dentures deliver unrivalled aesthetics and functional results in half the production time… We’ve found exceptional durability with the ability to withstand extreme stress tests.”」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+  - 「Stratasys’ J5 DentaJet multi-material jetting technology enabling single-build monolithic dentures with multiple tooth and base shades simultaneously represents emerging esthetic standard, driving 350% year-over-year adoption increases.」（https://luxcreo.com/top-dental-3d-printer-brands-market-leaders-complete-2025-comparison-guide/）
+- 価格：
+  - 「Price, low to high」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「Price, high to low」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$149.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$125.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$749.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$109.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$119.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$325.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$642.21 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$175.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$514.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$71.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$600.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$323.00 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+  - 「$437.70 USD」（https://voxeldental.com/collections/dental-resin-3d-printing?srsltid=AYCX9vLTg_soq-dQfnIVf8UkUCH-eoTMysBRXCuwg3_Q8qgcUD3Rb1cf）
+- 検索結果の抜粋：
+  - 「Dental 3d Printer China Trade,Buy China Direct From Dental 3d ...Best Resin 3D Printers for Dental & Prototyping in 2024How to Choose a Dental 3D Printer Supplier: Verified ListCompany Overview - Guangzhou Riton Additive Technology Co., Ltd.Company Overview - Guangzhou Ifun Technology Co., Ltd.Company Overview - Zhejiang Flashforge 3d Technology Co., Ltd. — Buy Dental 3d Printer China Direct From 」（https://www.alibaba.com/countrysearch/CN/dental-3d-printer.html）
+- 創業年：記載なし（読んだ61頁・検索23回）
+- 資金調達・株主：記載なし（読んだ61頁・検索23回）
+- 日本の担い手：記載なし（読んだ61頁・検索23回）
+
+## 鋳造用（キャスタブル）レジン・ワックスのメーカー（castable resin wax 3D printing manufacturers jewelry）
+- 文脈：レジン・鋳造
+- 会社名・一覧：
+  - 「Capable 3D printing materials like Castable Wax Resin are helping jewelry designers and manufacturers scale their production in-house.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Highly capable equipment and materials help designers and manufacturers free up time that would be spent making or preparing pieces by hand.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「By focusing on the most challenging geometries during product development, we were able to create a material capable of accurately printing designs of all kinds. Castable Wax is our best all-around material for investment casting or lost wax casting, and is strong enough to be used for initial test fittings or prototyping designs.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Castable Wax is our best all-around material for investment casting, and is strong enough to be used for initial test fittings or prototyping designs. See Castable Wax Resin’s crisp accuracy and smooth surface finish firsthand」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Castable Wax is our best all-around material for investment casting or lost wax casting, and is strong enough to be used for initial test fittings or prototyping designs.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「, are changing the way jewelry manufacturers and designers work, bringing industrial quality to the desktop and making it easier to produce and fit complicated geometries that once required hours of meticulous labor.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Best 3D Printer for Wax: Top Castable Resins and Filaments for Jewelry and Metal Parts – Handy Man Can」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Best picks & buying guides」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Best 3D Printer for Wax: Top Castable Resins and Filaments for Jewelry and Metal Parts」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Compatibility: Confirm compatibility with your printer (LCD/DLP/SLA) and print settings. Some materials are designed to work best with specific printer brands or curing wavelengths (e.g., 405 nm).」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Safety and ventilation: Use in a well-ventilated area and follow manufacturer safety guidelines for resin handling and curing.」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Best Extended Picatinny Light Mounts for Modern Firearms and Setups」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Best 5-Inch Self-Adhesive Sanding Discs for DA Sanders and Auto Body」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Best Stabilizer Jacks for RV Slide Outs: Strong, Long-Lasting Support for Campers」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「When choosing stabilizer jacks for RV slide outs, look for heavy-duty capacity, quick-lift adjustments, and secure top contact. This guide presents five top options that balance strength, ease of use, and stability for different RV sizes and travel styles. The best picks here are suitable for travelers who want quick setup, reliable support on uneven…」（https://handy-man-can.com/best-3d-printer-for-wax/）
+- 創業年：
+  - 「Founded in 2004, Shining 3D is one of the leading 3D scanner manufacturers on the market.」（https://www.aniwaa.com/insight/3d-printers/3d-printed-jewelry-castable-resins/）
+  - 「Several manufacturers of photopolymerization 3D printers were present as exhibitors. Some, like EnvisionTEC and DWS, are already well established in the industry, presenting a wide range of systems and materials for modeling and casting (and direct manufacturing in the case of DWS’s IRIX nanoceramic).」（https://www.voxelmatters.com/resin-metal-3d-printed-jewelry-shines-vicenza-oro-jewelry-fair/）
+- 資金調達・株主：
+  - 「technology is known for with increased part strength and precise print settings to capture astonishingly sharp detail. Now you can create 3D printed wax-like patterns that accurately capture fine features, like raised text, delicate filigree wires and meshes, and detailed pavé, with no visible layer lines.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Now you can create 3D printed wax-like patterns that accurately capture fine features, like raised text, delicate filigree wires and meshes, and detailed pavé, with no visible layer lines.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「XJet’s NPJ technology occupies a unique position in the broader AM segment. The direct material jetting process—backed by over 80 patents and patent applications—boasts high-resolution and precision while doing away with powders as a raw material. Instead, the technology relies on nanoparticle ink cartridges, which are easier and safer to handle.」（https://www.voxelmatters.com/xjets-new-economic-logic-for-jewelry-innovation/）
+- 年商・規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/liqcreate-shares-successful-applications-of-its-wax-castable-resin-232675/）
+- 日本の担い手：
+  - 「for jewelry in terms of retail value, producing in huge volumes. The Formlabs product development team worked closely with jewelry manufacturing partners in China, Japan, and India to ensure that Castable Wax Resin could reliably print challenging ornate pavé pieces and large filigree bracelets, which are particularly popular in those regions.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「SDS・TDS は Formlabs 公式(formlabs.com)の日本語 PDF(英語版は明記)」（https://i-maker.jp/i/castable-wax-resin?srsltid=AYCX9vJPUOWRKO54WjTv0b_blcCJ8AcPqJPyrI31_jyZmnUKv75HCxpF）
+  - 「© 2026 吉田キャスト工業株式会社 Powered by」（https://yoshidacast.com/castablresin/）
+  - 「Expert Material Laboratories株式会社」（https://sunstella.co.jp/collections/castable-resin?srsltid=AYCX9vIr11-0O9qhkywtpBsTndX-FDus9CplxHwBUGeSnLyOwIjG7_Vv）
+  - 「Polymaker 日本語安心データシート」（https://sunstella.co.jp/collections/castable-resin?srsltid=AYCX9vIr11-0O9qhkywtpBsTndX-FDus9CplxHwBUGeSnLyOwIjG7_Vv）
+  - 「Bambu Lab 日本語安心データシート」（https://sunstella.co.jp/collections/castable-resin?srsltid=AYCX9vIr11-0O9qhkywtpBsTndX-FDus9CplxHwBUGeSnLyOwIjG7_Vv）
+  - 「ジュエリーメーカーのアンブローズ アンド カンパニー株式会社が開発」（https://sunstella.co.jp/collections/castable-resin?srsltid=AYCX9vIr11-0O9qhkywtpBsTndX-FDus9CplxHwBUGeSnLyOwIjG7_Vv）
+- 代理店募集・売り方：
+  - 「or contact a Liqcreate representative or dealer for more information and order details.」（https://3dprintingindustry.com/news/liqcreate-shares-successful-applications-of-its-wax-castable-resin-232675/）
+- 技術支援：
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/liqcreate-shares-successful-applications-of-its-wax-castable-resin-232675/）
+- 展示会：
+  - 「Before bringing 3D printing in-house, I’ve outsourced waxes to be printed, only to discover I needed thicker or thinner dimensions in the first design. I’m super excited about the new Castable Wax Resin, the detail was outstanding in the initial prints and the material was so much easier to invest and cast.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Highly detailed and challenging jewelry is complicated to produce by hand, and in a world driven by high demand and fast fashion, it can be difficult for hand-crafted pieces to keep pace.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Castable Wax Resin was formulated to set the standard for print quality on an affordable desktop 3D printer, combining the smooth surface finish that」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「for jewelry in terms of retail value, producing in huge volumes. The Formlabs product development team worked closely with jewelry manufacturing partners in China, Japan, and India to ensure that Castable Wax Resin could reliably print challenging ornate pavé pieces and large filigree bracelets, which are particularly popular in those regions.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「By focusing on the most challenging geometries during product development, we were able to create a material capable of accurately printing designs of all kinds. Castable Wax is our best all-around material for investment casting or lost wax casting, and is strong enough to be used for initial test fittings or prototyping designs.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「Castable Wax Resin is 20% wax-filled for clean, easy casting with fast, reliable burnout. This material is suitable for a standard burnout schedule or a short 8-hour burnout schedule using strong investments like」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「, developed specifically to withstand faster heating for photopolymer casting.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「The Standard Burnout Schedule is recommended for overnight cycles and for larger flasks and heavier geometries.」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「The Standard Burnout schedule is designed to provide the maximum possible investment strength and complete burnout of the finest details using」（https://formlabs.com/blog/introducing-castable-wax-resin-jewelry-3d-printing/）
+  - 「In practice, PolyCast delivers machinable surfaces with minimal post-processing after casting. Its performance is especially valued in applications where repeatable, smooth finishes are essential for jewelry and small-scale metal parts. It is compatible with standard 3D printers that support filaments designed for investment casting.」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「It is designed to withstand both the heat and pressure of vulcanizing the model in rubber with incredible detail and without losing dimensional stability.」（https://www.jewelryclouds.com/3d-printing-service.html）
+  - 「WIC100G can deliver high-quality details and print speeds as well as a standard wax burnout cycle with regular plaster investments.」（https://www.jewelryclouds.com/3d-printing-service.html）
+  - 「Jewelers often care deeply about their long-standing traditions and tend to meet revolutionary changes with reluctance. This is why BlueCast resins are designed to be」（https://www.aniwaa.com/insight/3d-printers/3d-printed-jewelry-castable-resins/）
+  - 「The only thing that really changes from the jeweler’s standpoint is that they」（https://www.aniwaa.com/insight/3d-printers/3d-printed-jewelry-castable-resins/）
+  - 「Ensuring Accuracy in 3D Scanning: Calibration Techniques and Accuracy Standards」（https://www.aniwaa.com/insight/3d-printers/3d-printed-jewelry-castable-resins/）
+- 価格：
+  - 「Note: This article presents objective information about materials suitable for wax burnout and metal casting workflows. Prices are not listed, and the focus is on performance characteristics and compatibility.」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「Check Price on Amazon」（https://handy-man-can.com/best-3d-printer-for-wax/）
+  - 「We calculate each customer printing project individually based on a lot of information. However, we are in the process of preparing a valid price list that will be available shortly.」（https://www.jewelryclouds.com/3d-printing-service.html）
+  - 「within 48 hours of receipt of the request for a quotation and will include information for pricing as well as the start and completion date of this project. Generally, quotations are expired after 30 days. If there are any other special requests or additional questions, please contact us.」（https://www.jewelryclouds.com/3d-printing-service.html）
+  - 「, one of the leading European manufacturers of resins aimed at the jewelry market,」（https://www.aniwaa.com/insight/3d-printers/3d-printed-jewelry-castable-resins/）
+  - 「European-style jewelry」（https://www.aniwaa.com/insight/3d-printers/3d-printed-jewelry-castable-resins/）
+  - 「HI Scott! I am looking to start printing waxes in my jewellery shop, and was wondering where to start. We would have maybe a few a week…and we have a small automated dental casting machine which casts pretty well with our hand carved waxes at the moment. I’d like to spend less than $3000 canadian ($2300 US - all in)」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「With these printers the bulk of your expense will be with the resins. A liter of a good, castable resin tends to be between $300 and $500. But, I would suggest starting with just about any “normal” resin (which tend to cost in the neighborhood of $60/L) to get the hang of the nuances of 3D printing with resin.」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「But we can get somewhat close. As far as printer cost, the ones I listed in one of the posts above are very affordable starts. Anycubic just released a DLP printer that prints even smoother models than those listed, and I believe the retail price for that is $600.」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「When it boils down to it though, you can still get a system up and running for well under $1000, and learn the particular nuances of the printer, the resin, and the casting, and end up with a fair amount of success.」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「CNC milling is a whole other path (arguably quite a bit more expensive initially) that does yield really good results. We’ve got 2 mills, one of which is a pocketNC, which is a darn good little mill, perfect for jewelry making, but costs over $3,000 I believe.」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「printers, so long as they’re matched up to the different printer types (sla, DLP, lcd), so generally speaking a resin that is sold with a $4000 printer will still likely work just fine on a $300 printer. The differences come in print speed, accuracy, minimum layer thickness, etc.」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「I almost bought a Projet 2500 and that is $55,000!!! Oye. Decided to stick with Solidscape and with my old trade I wound up getting the S390 for like $26,000 all in. The surface quality is superb, precision unmatched, and they now offer lifetime print jet replacement with your purchase. Thanks for the conversation and for your feedback, I really appreciate it.」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「So all-in-all I really don’t blame you for dumping the FormLabs printer. The more I’ve used it, the more I’ve realized that there are far better options, in a variety of price points.」（https://orchid.ganoksin.com/t/ask-your-3d-printing-and-resin-casting-questions-here/64723）
+  - 「製品シート(PDF)は i-MAKER 作成(価格・仕様は 2026-10-20 時点)」（https://i-maker.jp/i/castable-wax-resin?srsltid=AYCX9vJPUOWRKO54WjTv0b_blcCJ8AcPqJPyrI31_jyZmnUKv75HCxpF）
+- 検索結果の抜粋：
+  - 「キャスタブルワックスレジン Form 3専用 1L 鋳造 原型 - i-MAKER — キャスタブルワックスレジン Form 3専用 1L 鋳造 原型 - i-MAKER アイ・メーカー https://i-maker.jp > castable-wax-resin」（https://i-maker.jp/i/castable-wax-resin?srsltid=AYCX9vJPUOWRKO54WjTv0b_blcCJ8AcPqJPyrI31_jyZmnUKv75HCxpF）
+  - 「キャスタブルレジン — 3Dプリンター サンステラ3Dモール — キャスタブルレジン — 3Dプリンター サンステラ3Dモール サンステラ https://sunstella.co.jp > collections > castable-resin」（https://sunstella.co.jp/collections/castable-resin?srsltid=AYCX9vIr11-0O9qhkywtpBsTndX-FDus9CplxHwBUGeSnLyOwIjG7_Vv）
+
+## セラミックスラリー・セラミックレジンのメーカー（ceramic slurry ceramic resin 3D printing materials suppliers）
+- 文脈：セラミック
+- 会社名・一覧：
+  - 「Confirm the formulation and process window with the supplier.」（https://3dceram.com/ceramic-sla-3d-printing-the-essential-guide/）
+  - 「(without including bioprinting product resellers). Among these companies, 38% are bioprinter manufacturers, 30% are biomaterials suppliers and 44% are bioprinting labs or service providers. Note that companies can belong to multiple categories and that numbers continue to increase as new companies emerge and/or are discovered by the 3dpbm Research team.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Many other companies have developed significant businesses based on bioprinting hardware in the past, and many more are doing it presently, including Cellink. Some of the most well-known, long-standing system manufacturers include」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「. Another key traditional operator in the hardware market is EnvisionTEC, a leading industrial DLP system manufacturer that was recently acquired by Desktop Metal and rebranded as」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「From left to right, the Manufacturer, Developer and Starter series of the 3D Bioplotter」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Bioprinter manufacturer」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Tissue engineering scaffolds have been made from nearly all cell-free 3D printing materials, including metal, synthetic and natural polymers. To improve the mechanical strength of hard tissue repair replacements, metal and hydroxyapatite powders are typically employed as starting materials.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「The scarcity of organs around the world, on the other hand, is a significant motivator for tissue engineering research, particularly the design of a cell-scaffold-microenvironment to stimulate the regeneration of many types of tissue, including skin, cartilage, bone, tendon and cardiac tissue.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「In tissue engineering, bioprinting allows for the creation of constructs with greater resolution and complexity than is possible with traditional lab approaches. Bioprinting has become a common method for fabricating cartilage tissue engineering scaffolds from a wide range of materials, including ceramics and nanomaterials.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Fabricants d’imprimantes」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「3D MASTERPARTS GmbH is your reliable contract manufacturer for CNC and 3D printed parts in the fields of rapid prototyping, model making, and one-off pieces. We are also happy to take care of assembly and surface finishing. With our strong team and our own machinery, we are there when your complex requirements need a professional solution!」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Best Finishing S.r.l.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Brandenburgische Technische Universität Cottbus-Senftenberg」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Dragonfly - a brand of Comet Technologies」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Guangdong Youhui Technology Co., Ltd. was established in 2003, located in Jiangmen City,Guangdong Province, close to Guangzhou City and Shenzhen City. lt is a professional infrared emitters supplier integrating R&D,production, sales and service.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 創業年：
+  - 「A.MANNESMANN is specialist in the production of geometric demanding, high precision machine components. Founded in 1796, the company produces components with high fegrees of slenderness in lenght up to 15 meters. The unit of mesurement for the manufacture tolerances - even with large dimensions - is the µm (micrometer).」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Guangdong Youhui Technology Co., Ltd. was established in 2003, located in Jiangmen City,Guangdong Province, close to Guangzhou City and Shenzhen City. lt is a professional infrared emitters supplier integrating R&D,production, sales and service.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「We are a manufacturer from Shanghai area of China for Industrial vacuum heat treatment furnace and fine cleaning machine since 2009.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 日本の担い手：
+  - 「JAPAN PAVILION by J3DPA」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 代理店募集・売り方：
+  - 「(without including bioprinting product resellers). Among these companies, 38% are bioprinter manufacturers, 30% are biomaterials suppliers and 44% are bioprinting labs or service providers. Note that companies can belong to multiple categories and that numbers continue to increase as new companies emerge and/or are discovered by the 3dpbm Research team.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Ortho Native 3D GmbH is a German distributor of a FDM 3D printing system for the medical field. Special focus is on dentistry and dental technology as well as orthopedic technology and medicine.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 技術支援：
+  - 「for CERAMAKER printers and also describes on-demand formulations. For a machine shortlist, ask which material grades are available and what process data, training, cleaning and firing support accompany the selected configuration. Read the」（https://3dceram.com/ceramic-sla-3d-printing-the-essential-guide/）
+  - 「The Performance Review Institute (PRI) is a global leader in quality assurance and accreditation. We administer the Nadcap® program for critical process accreditation, provide quality management system certifications, and offer professional development and workforce qualification programs. Visit us to explore how PRI helps advance quality and compliance across the aerospace supply chain.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 展示会：
+  - 「among the most notable. The company now has 14 companies that offer researchers and clinicians technologies, products and services to help them generate, understand and master biology, with a focus on 3D printing but with a wide range of applications.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Many other companies have developed significant businesses based on bioprinting hardware in the past, and many more are doing it presently, including Cellink. Some of the most well-known, long-standing system manufacturers include」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「T&R Biofab—which stands for Tissue Engineering and Regenerative Medicine, Biofabrication」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Bioprinting processes can use a variety of cell types. The size and morphology of the cell or cell aggregate, as well as its ability to be transmitted through the printing process in a healthy form, are the most common limitations. Temperature, shear stresses, acceleration and deceleration should all be considered from the standpoint of the cell and other fragile components of the bioink.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「, signed an exclusive research partnership to bioprint follicles capable of sprouting hair. Not only may this lead to more effective hair product testing, but it could also increase our understanding of how hair works, paving the way for potential biological remedies for adult hair loss.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「From the Shenzhen HQ to Formnext in Frankfurt, it’s a new Creality」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Nordic AM Alliance organizes joint pavilion for Formnext 2026」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Polymaker adds Rapid Fusion to its…」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Arkema and Carbon deepen longstanding materials…」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Exposants Formnext 2026 : tous les stands et le plan du salon | 3Dnatives」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Formnext 2026」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Tous les stands sur le plan officiel」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Tous les articles Formnext」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Trouvez un stand parmi」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Les lancements de Formnext 2026」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 価格：
+  - 「Le stockage ou l’accès technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.」（https://3dceram.com/ceramic-sla-3d-printing-the-essential-guide/）
+  - 「Le stockage ou l’accès technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’utilisateur.」（https://3dceram.com/ceramic-sla-3d-printing-the-essential-guide/）
+  - 「Le stockage ou l’accès technique est nécessaire pour créer des profils d’utilisateurs afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web à des fins de marketing similaires.」（https://3dceram.com/ceramic-sla-3d-printing-the-essential-guide/）
+  - 「Cellular spheroids are basic 3D models that may be made from a variety of cell types and form spheroids due to adhering cells’ inherent desire to aggregate. Embryoid bodies, mammospheres, tumor spheroids, hepatospheres and neurospheres are all examples of spheroids.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Cosmetics firms are extremely interested in today’s advanced 3D printing and bioprinting applications, such as 3D printed tissue and even hair follicles, especially in Europe, where animal testing for cosmetics was outlawed in 2013.」（https://www.voxelmatters.com/the-state-of-bioprinting/）
+  - 「Meilleurs logiciels de CAO」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Choisir un ordinateur pour la CAO」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Extrudeur Bowden ou direct」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Éditeurs de logiciels」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「ARTEC EUROPE S.à r.l.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Your partner for individual solutions for everything to do with laser cladding, DED , LMD We have many years of extensive experience in the field of laser cladding. That makes us experts in our industry! Our work is always based on the requirements of our customers. Quality, reliability and reasonable prices are our focus in order to contribute to your success.」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「DN Solutions Europe GmbH」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「ETMM European Tool & Mould Making」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Jahresmagazin Kunststofftechnik Ingenieurwissenschaften 2026」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+  - 「Mitsubishi Chemical Europe GmbH」（https://www.3dnatives.com/lp/formnext/exposants-formnext/?map=1）
+- 資金調達・株主：記載なし（読んだ60頁・検索23回）
+- 年商・規模：記載なし（読んだ60頁・検索23回）
+
+## 連続繊維・複合材の造形材料メーカー（テープ・トウ）（continuous fiber composite 3D printing material suppliers tow tape）
+- 文脈：複合材
+- 会社名・一覧：
+  - 「Cure Simulation: Live demo of a cure simulation tool that helps manufacturers predict cure behavior before starting production」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Best practices for developing an adhesion specification and quality control strategy」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Thousands of people visit our Supplier Guide」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Cevotec, a tank manufacturer, Roth Composite Machinery and Cikoni, have undertaken a comprehensive project to explore and demonstrate the impact of dome reinforcements using FPP technology for composite tanks.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Through a decade of work and more than 60 projects, Fraunhofer IWU has used its industrial-scale pultrusion line to open the limitations of this 70-year old technology, including curved profiles, TPC, weldable composite-metal hybrids, embedded sensors, digitally optimized processes and complex, non-constant cross-sections.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Dura Composites, Envalior, Arclin and Asahi Kasei report recent sustainability milestones in 2026, including circular rail infrastructure, acrylonitrile carbon footprint transparency and global sustainability initiative committment.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Use of a debondable infusion resin achieves more than 95% recovery of blade resin and fibers, and follows CRRC’s other circular efforts including a recyclable thermoset resin blade and mobile recycler.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Explore the technologies, materials, and strategies that can help composites manufacturers become more sustainable.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Explore the technologies, materials and strategies used by composites manufacturers working in the evolving space market.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Gardner Business Media and New American Industrial Alliance Partner to Connect Small Manufacturers with America's Reindustrialization」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「to accelerate, strengthen and broaden the transfer of additive extrusion to industry for 3D-printed composites. This branch of DLR is also completing an array of R&D projects including simulation of additive extrusion, modification of thermoplastics for improved performance in 3D printing, development of industrial printing hardware and production of printer filaments with continuous fiber.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Brighton Science uses decades of experience, 2-second surface measurements and a framework of data-based specs and KPIs to help manufacturers advance toward reliable, predictable bond quality for faster, high-performance production.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Cure Simulation: Live demo of a cure simulation tool that helps manufacturers predict cure behavior before starting production」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Best practices for developing an adhesion specification and quality control strategy」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Thousands of people visit our Supplier Guide」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- 資金調達・株主：
+  - 「NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「CW talks with Syensqo, Spirit AeroSystems and other consortia members about current funding, specification of the next world’s largest press, organizational structure and projects to support U.S. companies in the race to deliver >40,000 sustainable and efficient aircraft over the next 20 years.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「NSF Funding Supports 3D Printed CFRP Composite Finishing Project at Miami University」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Supported by 2024 Supply Chain Accelerator funding, the company will work with Port of Inverness to manage recovery and reprocessing of wind blades and other industrial waste plastics.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- 年商・規模：
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+- 技術支援：
+  - 「Which parameters really matter?」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Which parameters really matter?」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+  - 「, s working to bring metallic 3D printing into the FKM design guideline used across German engineering. The project is developing an additively manufactured steel alloy for FKM qualification and addressing factors like powder condition, AM system technology, and post-processing methods such as surface smoothing and compaction that the guideline doesn’t currently account for.」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+  - 「3D Printing Industry is inviting speakers for its 2026 Additive Manufacturing Applications (AMA) series, covering Energy, Healthcare, Automotive and Mobility, Aerospace, Space and Defense, and Software. Each online event focuses on real production deployments, qualification, and supply chain integration. Practitioners interested in contributing can」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+  - 「, qualification, supply chains, and」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+- 展示会：
+  - 「The OmniSurf 5.0 release adds dozens of tools to address new standards, new production challenges and new ways of specifying texture for material engineers and designers.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「The latest spin-out under the newly formed Composites Innovation Group, Quantis will address complex or niche engineering challenges, with an initial focus on energy and infrastructure.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Massivit Expands Scope of RapidWings Platform in North America」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Liquid composite moulding has been studied and practised for decades, yet turning a successful process into robust, repeatable industrial production remains one of the biggest challenges in composite manufacturing.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「A clearer understanding of what robust composite processing looks like.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Solving the Production Rate Challenge in Aerospace & Defense Composites」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Understanding ASTM standards for adhesion testing and surface cleanliness verification」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Formnext 2026」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「As hub for Additive Manufacturing, Formnext is central information platform for industrial 3D Printing experts and production professionals from a wide range of application industries. With the trade show in Frankfurt, up-to-date industry information and networking opportunities 365 days a year, we bundle expertise, create in-depth professional exchange and access to the latest AM solutions.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「This collection details the basics, challenges, and future of thermoplastic composites technology, with particular emphasis on their use for commercial aerospace primary structures.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Understand the basic science of TPC stamp forming, a manufacturing process steadily gaining momentum in aerospace and mobility applications thanks to its rapid forming, short cycle times and automated methods.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「Cycle Inspect's ASNT-aligned certification program employs affordable twin-crystal ultrasonic testing equipment and standardized inspection methods to detect damage in composite bicycle components.」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「The OmniSurf 5.0 release adds dozens of tools to address new standards, new production challenges and new ways of specifying texture for material engineers and designers.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「The latest spin-out under the newly formed Composites Innovation Group, Quantis will address complex or niche engineering challenges, with an initial focus on energy and infrastructure.」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「Massivit Expands Scope of RapidWings Platform in North America」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+- 価格：
+  - 「GridWrap Awarded $5.9M By CEC to Expand Grid Capacity Via Composite WiRe Wrap」（https://www.compositesworld.com/articles/reducing-the-cost-of-continuous-fiber-3d-printing-materials）
+  - 「GridWrap Awarded $5.9M By CEC to Expand Grid Capacity Via Composite WiRe Wrap」（https://www.compositesworld.com/articles/3d-printing-with-continuous-fiber-a-landscape）
+  - 「ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+  - 「$500m Jiuquan aerospace project plans 100 3D printers and 6,300 tonnes of annual metal powder capacity」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+  - 「Aurora Labs bets A$6M on scaling sovereign drone propulsion」（https://3dprintingindustry.com/news/hve-completes-tool-free-3d-printing-process-for-rail-components-254030/）
+- 創業年：記載なし（読んだ60頁・検索23回）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
+
+## MIM・バインダー系フィードストックのメーカー（3Dプリント用）（MIM feedstock for 3D printing suppliers pellets metal injection）
+- 文脈：フィードストック
+- 会社名・一覧：
+  - 「Supplier Evaluation Checklist」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「XTMIM can assist customers with custom MIM material development when standard MIM-grade alloys cannot meet a clearly defined part requirement. These projects are uncommon and require coordinated work between the customer, XTMIM engineers, and a specialist powder or feedstock supplier. They are not a routine material-selection service or XTMIM’s main manufacturing business.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「The specialist supplier prepares the required powder-binder formulation and supplies ready-to-mold pelletized MIM feedstock. XTMIM then evaluates the downstream manufacturing route through in-house injection molding, debinding, sintering, dimensional review, and project-specific validation before tooling decisions are locked. For most projects, the better first step is still to compare proven」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Standard MIM materials should be reviewed first. Custom material development is considered only when a measurable performance gap remains and the project can support specialist supplier development plus downstream production validation.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Using a specialist-supplier-prepared powder mixture and pelletized feedstock for a defined performance requirement」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Collaboratively developing a new alloy route with specialist material suppliers, followed by MIM production and validation」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「XTMIM can support rare custom material development projects by translating part requirements into a MIM manufacturing route and coordinating with specialist powder or feedstock suppliers. Powder-binder compounding is not a routine in-house workshop operation at XTMIM; suppliers deliver ready-to-mold pelletized MIM feedstock for molding and downstream process evaluation.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Real pelletized MIM feedstock showing the physical form of supplier-prepared material before injection molding. The pellets can be loaded directly into MIM injection molding equipment for molding and downstream process evaluation.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「If a verified performance gap remains, XTMIM can help define the MIM requirements and coordinate with a specialist supplier for suitable pelletized feedstock, followed by molding, debinding, sintering, dimensional, and property validation. This is an illustrative decision example, not a customer case or a claim of a specific project result.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「MIM depends on fine metal powders with suitable chemistry, particle size, shape, purity, and supply stability. For a custom route, XTMIM reviews these requirements with the customer and a specialist material supplier; a material may exist as a wrought or casting alloy without being practical as supplier-prepared MIM feedstock.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「A specialist supplier compounds the powder with a binder system and delivers ready-to-mold pelletized」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Supplier feedstock preparation and XTMIM trial molding」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「A specialist supplier prepares the powder-binder formulation and pelletized feedstock; XTMIM evaluates flow, filling, green strength, and molding stability after the material is received.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「, including」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「, including Fe-Ni, Fe-Si, or Fe-Co options」（https://xtmim.com/mim-materials/custom-mim-materials/）
+- 展示会：
+  - 「XTMIM can assist customers with custom MIM material development when standard MIM-grade alloys cannot meet a clearly defined part requirement. These projects are uncommon and require coordinated work between the customer, XTMIM engineers, and a specialist powder or feedstock supplier. They are not a routine material-selection service or XTMIM’s main manufacturing business.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Standard MIM materials cannot meet a clearly defined performance target.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Standard MIM materials should be reviewed first. Custom material development is considered only when a measurable performance gap remains and the project can support specialist supplier development plus downstream production validation.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Why standard materials come first」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Standard MIM material selection」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「A true custom feedstock route should only be considered after standard materials and established」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Custom material review can make sense when the part has a clear performance requirement that cannot be met by a standard MIM material route. The requirement should be tied to function, environment, inspection criteria, or service risk, not only to a preferred alloy name.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「The customer expects the same cost and lead time as a standard MIM material.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「The team should first convert the general request into measurable property, application, inspection, geometry, and volume requirements. Standard stainless steel, heat-treatable stainless steel, low alloy steel, surface finishing, and wear-resistant alternatives should then be compared before a custom route is considered.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Standard Material Alternatives Should Be Reviewed First」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「In most MIM projects, standard or established materials should be reviewed before custom material development. This does not reduce engineering quality. In many cases, it improves project stability because powder behavior, molding response, sintering behavior, and inspection expectations are easier to discuss before tooling.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Titanium, Co-Cr, stainless options, and project-specific standards review」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「A standard material may not sound as impressive as a custom alloy, but it is often easier to validate, easier to quote, and safer for production.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Most MIM projects should review standard material options first. Custom feedstock becomes reasonable only when standard materials cannot meet clearly defined performance requirements.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+  - 「Standard MIM materials should be reviewed first; custom feedstock is a higher-cost, higher-validation route that should be justified by measurable performance requirements.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+- 価格：
+  - 「Custom MIM materials usually increase cost and lead time because they introduce more unknowns before stable production can begin. The cost driver is not only the powder price. It is the additional work needed to confirm whether the material route can produce repeatable parts within the drawing and inspection requirements.」（https://xtmim.com/mim-materials/custom-mim-materials/）
+- 創業年：記載なし（読んだ61頁・検索23回）
+- 資金調達・株主：記載なし（読んだ61頁・検索23回）
+- 年商・規模：記載なし（読んだ61頁・検索23回）
+- 日本の担い手：記載なし（読んだ61頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ61頁・検索23回）
+- 技術支援：記載なし（読んだ61頁・検索23回）
+
+## WAAM・DED用ワイヤのメーカー（WAAM wire suppliers additive manufacturing wire feedstock）
+- 文脈：ワイヤ
+- 会社名・一覧：
+  - 「This article will explore the WAAM process, including the materials and steps involved. You’ll learn the advantages and drawbacks of WAAM and its applications in various industries. One crucial section highlights when to use Wire Arc Additive Manufacturing vs.」（https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/）
+  - 「Variations in grain structure resulting from different heat inputs can significantly influence the material properties of the deposited parts, including aspects such as grain size, porosity, and overall mechanical strength.」（https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/）
+  - 「"MakerVerse is one of the few suppliers that can follow the fast pace of the new space industry."」（https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/）
+  - 「Choose the best-fitting material for your next 3D printing project.」（https://www.makerverse.com/resources/3d-printing/wire-arc-additive-manufacturing-waam-explained/）
+  - 「Welding wire is a global standard, easily sourced in a wide range of compositions and diameters. There’s no need to rely on niche suppliers for custom powders.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「These factors make WAAM a more accessible and scalable solution for manufacturers who want to produce large, high-performance parts without the complexity of vacuum chambers or powder handling systems.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Because understanding the exact capabilities of 3D-printed metal is critical for engineering and load-bearing applications, we prioritize transparency in our material performance. Below is an overview of the mechanical properties, including Ultimate Tensile Strength (UTS), Yield Strength, and Elongation, typically achieved with our WAAM process in the as-built condition.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「. Depending on your industry’s requirements, we can validate final printed components to meet rigorous third-party standards, including」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Titanium and aluminium structural components — brackets, ribs, bulkheads, and fuselage frames — where WAAM reduces both lead time and buy-to-fly ratio compared to machining from billet. Tier-1 manufacturers including Airbus and Lockheed Martin actively use WAAM for low-volume structural parts.」（https://facfox.com/docs/kb/wire-arc-additive-manufacturing-waam-the-big-metal-revolution-in-3d-printing）
+  - 「From sensors to end-effectors and automation to health & safety, we have put you, the user, at the core of our hardware design process. We have redefined what state of the art means, in and around the deposition volume, to give you the best possible experience. What’s more, it all comes together in a vehicle through which we enable you to make the best possible parts: RoboWAAM.」（https://www.waam3d.com/）
+  - 「Deliver on your sustainability agenda, make your supply chain more manageable, increase your negotiation power and reduce your project’s lead-time with WAAM. Including; - Oil - Gas - Renewables - Nuclear」（https://www.waam3d.com/）
+  - 「"WAAMCtrl will provide full traceability for the user of issues that are discovered during and after subsequent deposits. If an issue was deemed to be material related and full traceability of suppliers' spools were maintained it would be possible to investigate if any issues occurred during the production of that spool."」（https://www.waam3d.com/）
+  - 「WAAM can offer manufacturers significant carbon emission and carbon footprint reductions. The WAAM component demonstrated a 40% reduction in environmental impact compared to the demonstration part made using traditional, subtractive fabrication approaches.」（https://www.waam3d.com/）
+  - 「. Wire makers serving the wider」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Aerospace OEMs and tier suppliers grow at」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 創業年：
+  - 「(MIB), established in 2024 to spearhead the Navy’s efforts to revitalize America’s shipbuilding and repair capabilities. Achieving these production targets will require innovative solutions to reduce bottlenecks, increase throughput, and strengthen supply chains. As part of this effort, the MIB Program is investing in」（https://www.3dnatives.com/en/inside-lincoln-electrics-mission-to-3d-print-components-for-nuclear-submarines-311020254/）
+  - 「This initiative builds on several years of collaboration between Lincoln Electric and the U.S. Navy. Since 2022, the company has supported multiple naval programs and suppliers, but the MIB Program investment represents its largest government-funded AM capital investment to date」（https://www.3dnatives.com/en/inside-lincoln-electrics-mission-to-3d-print-components-for-nuclear-submarines-311020254/）
+- 資金調達・株主：
+  - 「The US Navy, Electric Boat and Lincoln Electric announced funding for four SculptPrint 1500 WAAM cells in Cleveland.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Defense and naval is the largest application with 32.0% of 2025 value and the fastest at 19.3% a year, led by submarine components and surface warship parts. Aerospace grows at 17.3% a year on Airbus qualification work with Norsk Titanium, and energy and power generation also grows at 17.3% a year on utility repair programs such as the Tennessee Valley Authority installation.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research set the growth rate from AML3D revenue growth and order intake, US Navy Maritime Industrial Base funding, MMPDS acceptance of plasma arc titanium and new system launches, balanced against supplier losses and post-processing constraints.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The growth rate was validated through Dataintelo primary research with market participants and cross-checked against AML3D order intake, US Navy program funding and Norsk Titanium guidance changes.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Florida to Host New Defense Manufacturing Lab Backed by $9M Investment」（https://www.additivemanufacturing.media/topics/waam）
+  - 「The SUMMSEED project, led by the Technical University of Catalonia - BarcelonaTech, is developing medium manganese steels for wire-based DED. Potential outcome: The project aims to create an alternative to Hadfield steels with reduced CO2 footprint.」（https://www.additivemanufacturing.media/topics/waam）
+- 年商・規模：
+  - 「FY2026 revenue AUD 12.5 million, up 70%; AUD 9.9 million order for four ARCEMY X systems, March 2026」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「AML3D reported record FY2026 revenue including lease income of AUD 12.5 million, up 70%, and its first profitable half year.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Share of 2025 revenue」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Suppliers are small and many are loss-making: Norsk Titanium reported USD 4.1 million of 2025 revenue and other income, burned an average of USD 2.6 million a month and retracted its revenue guidance in February 2026. Post-build machining and inspection constrain throughput, and each new aerospace or nuclear part needs its own qualification before production.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The main suppliers are AML3D, Lincoln Electric, Norsk Titanium, WAAM3D, DAIHEN, RAMLAB, GEFERTEC, MX3D, Addilan and ADIRA AddCreative, with Valk Welding, Fronius and KUKA supplying cells, power sources and robots. Vallourec prints its own oil and gas parts. AML3D is the largest listed pure play, with FY2026 revenue of AUD 12.5 million.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「: AML3D FY2026 revenue, US Navy system count and utility and industrial customers for the company revenue leg」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「: Norsk Titanium 2025 revenue, cash burn, guidance and MMPDS acceptance for plasma arc titanium」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research built the base from the filed revenue of the listed WAAM specialists, AML3D and Norsk Titanium, and added the private system builders and the WAAM activities of Lincoln Electric, DAIHEN and Vallourec, giving a 2025 range of USD 110 million to USD 230 million with USD 160 million at the centre.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research set the growth rate from AML3D revenue growth and order intake, US Navy Maritime Industrial Base funding, MMPDS acceptance of plasma arc titanium and new system launches, balanced against supplier losses and post-processing constraints.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The 2025 base was validated through Dataintelo primary research with WAAM system builders and service bureaus and cross-checked against the company revenue and volume and price sizing legs.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/mx3d-earns-dnvs-highest-additive-manufacturing-certification-for-wire-arc-3d-printing-255360/）
+- 日本の担い手：
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Osaka, Japan」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「United States, Canada, United Kingdom, Germany, Netherlands, Norway, Spain, Australia, China, Japan, Singapore, Malaysia, Brazil, Mexico, Saudi Arabia, United Arab Emirates」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「14.2.2 Japan」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「North America leads with 40.0% of 2025 value and grows at 16.2% a year, driven by US Navy and shipyard demand including six ARCEMY X systems ordered by Newport News Shipbuilding. Asia Pacific is the fastest growing region at 18.2% a year, supported by the DAIHEN launch in Japan, the WAAM3D agreement in Malaysia and Vallourec printing in Singapore.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 代理店募集・売り方：
+  - 「4.3.2 List of Key Distributors」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Manufacturers, distributors, resellers, and system integrators」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+- 技術支援：
+  - 「, it is possible to log and control heat input, layer height, temperature, and deposition parameters with precision. Combined with post-processing such as machining and heat treatment, this enables WAAM parts to meet certification standards such as:」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「At MX3D, we help clients navigate this selection process based on application, certification, and scalability. Our engineers optimize both the material and process parameters to ensure each component is printed with repeatable quality, ready for real-world use.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「— Sensors track the melt pool geometry and adjust arc parameters in real time to maintain accuracy.」（https://facfox.com/docs/kb/wire-arc-additive-manufacturing-waam-the-big-metal-revolution-in-3d-printing）
+  - 「We carry out business case and life cycle assessments to ensure WAAM is right for you. We offer consultancy, prototyping, full project management, and training for operators and engineers.」（https://www.waam3d.com/）
+  - 「Helping you with first right part building, technology qualification and exploitation.」（https://www.waam3d.com/）
+  - 「of annual revenue over the period. The market covers WAAM systems built on gas metal arc, cold metal transfer, tungsten inert gas and plasma arc processes, the software that plans and monitors the builds, and contract printing, repair and qualification services; laser and electron beam wire deposition, powder processes and wire sold on its own sit outside it. Within the wider」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Aerospace Qualification Opens Serial Production」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「often contract qualification work before committing to a machine. Software for path planning and process monitoring, such as WAAM3D WAAMPlanner, is mostly sold with systems, and the two WAAM3D installations at CCAM in January 2026 passed acceptance testing on software integration as well as performance.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Post-processing and qualification remain the practical brake on growth. The American Welding Society Welding Digest noted in 2025 that machining and inspection after the build constrain throughput, and every new aerospace or nuclear part number needs its own approval. Suppliers that pair cells with in-process monitoring and the inspection services sold in the」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Global revenue from wire arc additive manufacturing (GMAW and CMT, GTAW and plasma arc wire deposition): WAAM systems and deposition heads, WAAM path planning and monitoring software, and WAAM contract part printing, repair and qualification services.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Suppliers are small and many are loss-making: Norsk Titanium reported USD 4.1 million of 2025 revenue and other income, burned an average of USD 2.6 million a month and retracted its revenue guidance in February 2026. Post-build machining and inspection constrain throughput, and each new aerospace or nuclear part needs its own qualification before production.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Defense and naval is the largest application with 32.0% of 2025 value and the fastest at 19.3% a year, led by submarine components and surface warship parts. Aerospace grows at 17.3% a year on Airbus qualification work with Norsk Titanium, and energy and power generation also grows at 17.3% a year on utility repair programs such as the Tennessee Valley Authority installation.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「The global wire arc additive manufacturing market was worth $160 million in 2025 and reaches $608.47 million by 2034, growing at a CAGR of 16.0%. The value covers WAAM systems, path planning and monitoring software, and contract part printing, repair and qualification services. It excludes laser and electron beam wire deposition, powder processes and wire feedstock sold separately.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dataintelo research checked that range with a volume and price leg, multiplying annual WAAM cell shipments by disclosed system prices from the DAIHEN ArcBuilder 3D to large custom ARCEMY X cells and adding contract printing, qualification and software revenue.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Dyndrite Supports America Makes Delta Qual 2.0 to Advance Metal Additive Manufacturing Qualification」（https://www.additivemanufacturing.media/topics/waam）
+- 展示会：
+  - 「. Pure aluminum is described as challenging.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Before diving into materials, it helps to understand where WAAM fits in the world of metal additive manufacturing. WAAM is a specific type of」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Stainless steels are among the most widely used materials in WAAM. Alloys like 316L are known for their corrosion resistance and toughness, making them ideal for applications in maritime, chemical, and food industries. WAAM-printed stainless steel parts have demonstrated excellent mechanical properties and surface finish after standard post-processing.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Although pure aluminum is challenging due to its high thermal conductivity and oxidation behavior,」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Because WAAM uses standard welding wire as feedstock, companies and research institutes can experiment with custom alloys more easily than with powders. This opens up innovation in metallurgy, allowing for tuned properties without the high cost or safety concerns of powder handling. Order parts to be printed with these materials now, thanks to our」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Welding wire is a global standard, easily sourced in a wide range of compositions and diameters. There’s no need to rely on niche suppliers for custom powders.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「One common question is whether WAAM parts made from standard」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「, it is possible to log and control heat input, layer height, temperature, and deposition parameters with precision. Combined with post-processing such as machining and heat treatment, this enables WAAM parts to meet certification standards such as:」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「API standards for offshore applications」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Wire Arc Additive Manufacturing (WAAM) enables the 3D printing of large-scale, industrial-grade metal components using a wide range of commercially available welding wires. At MX3D, our robotic WAAM technology is rigorously optimized to deliver exceptional material integrity, ensuring that printed parts meet the demanding standards of the maritime, energy, aerospace, and heavy industry sectors.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「From standard carbon steels and marine-grade stainless steel (316L) to high-performance alloys like Super Duplex, Inconel, and Titanium, our multi-axis robotic systems provide highly controlled deposition rates. This results in dense, near-net-shape components with excellent structural characteristics.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Because understanding the exact capabilities of 3D-printed metal is critical for engineering and load-bearing applications, we prioritize transparency in our material performance. Below is an overview of the mechanical properties, including Ultimate Tensile Strength (UTS), Yield Strength, and Elongation, typically achieved with our WAAM process in the as-built condition.」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Because we utilize commercially available welding wire, all feedstock comes with standard EN 10204 Type 3.1 or 3.2 material certificates. Furthermore, MX3D’s robotic DED-Arc facility and M1 Metal AM System are officially qualified by」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「. Depending on your industry’s requirements, we can validate final printed components to meet rigorous third-party standards, including」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+  - 「Wire Arc Additive Manufacturing stands out in the world of metal 3D printing because of its」（https://mx3d.com/what-materials-can-be-used-in-wire-arc-additive-manufacturing-waam/）
+- 価格：
+  - 「$160 million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$608.47 million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$448.47 million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「a year. DAIHEN showed the ArcBuilder 3D at Robot Technology Japan 2026 at USD 450,000 to 500,000, a price that puts a turnkey cell within reach of fabricators already running DAIHEN welding robots. In February 2026 WAAM3D signed a memorandum with National Aerospace Industry Corporation Malaysia to set up WAAM at the MyAERO Centre, tying the technology to regional」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「. Contract part printing is the largest service line: AML3D signed a $2.6 million (AUD) contract in FY2026 to supply high demand, non-safety critical replacement components for US Navy submarines, and Lincoln Electric Additive Solutions sells printed parts alongside its SculptPrint cells. RAMLAB applies the same model to repair and remanufacturing, and buyers of」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「2025 revenue and other income USD 4.1 million; RPD titanium accepted into MMPDS, December 2025」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「ArcBuilder 3D launched at Robot Technology Japan 2026, priced USD 450,000 to 500,000」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「DAIHEN entered the WAAM market with the ArcBuilder 3D at Robot Technology Japan 2026, priced at USD 450,000 to 500,000.」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「5 regions: North America, Europe, Asia Pacific, Latin America, Middle East & Africa, with 16 country forecasts」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$160 Million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「$608.47 Million」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「Asia Pacific, North America, Europe, Latin America, Middle East & Africa」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「4.5.2 Wire Arc Additive Manufacturing Market Absolute $ Opportunity」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「5.1.3 Absolute $ Opportunity Assessment By Offering」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）
+  - 「6.1.3 Absolute $ Opportunity Assessment By Application」（https://dataintelo.com/report/wire-arc-additive-manufacturing-market）

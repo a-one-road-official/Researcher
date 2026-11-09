@@ -1,0 +1,1063 @@
+{
+ "name": "シート積層・箔（LOM・UAM超音波積層）",
+ "en": "sheet lamination ultrasonic additive manufacturing foil feedstock",
+ "aliases": [
+  "シート積層 3Dプリンター",
+  "超音波積層 箔",
+  "UAM 材料"
+ ],
+ "context": "シート・箔",
+ "kind": "market",
+ "researched_at": "2026-11-09T06:02:28.196993+00:00",
+ "evidence": {
+  "価格": [
+   {
+    "quote": "価格：14995USD",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vI8X_XBrLo3wBi2KFh9u0n9hE56Z3EI1FLgLXBG2NavmCHbUiQs",
+    "pass": 3
+   },
+   {
+    "quote": "先に述べたように、ファブリソニック社が販売する最小のマシンは約20万円",
+    "url": "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "pass": 3
+   },
+   {
+    "quote": "価格：14995USD",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKrNfyjko_5lOnfMCoyoK_qV5_ccue-2dxjaYI7v6WRuunPUor7",
+    "pass": 3
+   },
+   {
+    "quote": "価格：14995USD",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIB06x2aR7Sm-RcXa_xuveA41dYilRMoY0X1kkIWBe9CmXqHTV5",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】おすすめの3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】精度重視の3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】造形方式別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円未満】造形サイズ別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】おすすめの3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】おすすめの3Dプリンター_TOP",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】精度重視の3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】造形方式別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "【500万円以上】造形サイズ別3Dプリンター",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの価格帯について",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "500万円以上の業務用3Dプリンター特集",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格は当時で約15000US＄（約160万円）程でした",
+    "url": "https://kictec3d.com/archives/1665",
+    "pass": 3
+   },
+   {
+    "quote": "おそらくですが、光造形やFDM方式３Dプリンタの低価格化が",
+    "url": "https://kictec3d.com/archives/1665",
+    "pass": 3
+   },
+   {
+    "quote": "独自調査で判明、三菱UFJニコス・みずほで1000億円超のプロジェクト",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "価格：14995USD",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vILqsMXu6k-a3UL3aWGZDAQLjXhKDqWiX_YPp_Mi_wNaoUl19Qs",
+    "pass": 3
+   },
+   {
+    "quote": "価格：14995USD",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html",
+    "pass": 3
+   },
+   {
+    "quote": "価格：14995USD",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIBg3PVLJqRWAJTjVxhX3WLngHxkg_s0T6Q3jkknEeW2y7cyDTg",
+    "pass": 3
+   },
+   {
+    "quote": "価格：14995USD",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKheY8_IoEJm6I4h2Vq81s7juz_rV2PxwO3T23UHiUAGSH65gZl",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "このフェーズでは、専用のモデリングソフトウェアを使用して、製造中の部品の3DCADモデルを分析します",
+    "url": "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは材料に専用PVCシートを使用し、",
+    "url": "https://kictec3d.com/archives/1665",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルLLMに最適な専用機 Mac miniかAMD搭載PCか",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "iPhone 18 Pro分解、「中身は別物」 半導体チップの冷却優先に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "アディティブ・マニュファクチュアリングのOEMがコストを削減する方法トップ5",
+    "url": "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "pass": 3
+   },
+   {
+    "quote": "競争の激しいこの世界で、アディティブマニュファクチャリング（AM）のOEMは、他のメーカーと同様に、競合他社との製品の差別化というプレッシャーに直面しています",
+    "url": "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "また、他のサポート材が不要な造形法のように中空の形状に対応することはできず、造形できる形状に制限があるため、使用する際には注意が必要です",
+    "url": "https://news.sharelab.jp/study/am-shl/",
+    "pass": 3
+   },
+   {
+    "quote": "材料押出のサポート材除去ほど面倒ではありませんが、サポート部が多いとその分が材料ロスにつながってしまいます",
+    "url": "https://news.sharelab.jp/study/am-shl/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末焼結方式は、粉末材料をレーザーなどで焼き固めながら積層する方式で、未焼結粉末がサポート材の役割を果たすため、内部空洞や複雑形状の造形に対応しやすい点があります",
+    "url": "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンターにおける水溶性サポート材の活用",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "水溶性サポート材を採用しており、複雑な内部構造でもサポート除去が簡単",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "粉末焼結方式（SLS）を採用しており、サポート材を使わずに内部構造を含む複雑形状を一括造形",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材除去、表面研磨",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "洗浄、二次硬化、サポート材除去",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "造形物の周囲の余剰部分が支持体の役割を果たすため、複雑なサポート構造が不要",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート材が不要、または除去が容易なのはなぜ？",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティングにおける後処理で、最も手間のかかる作業の一つが「サポート材」の除去です",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜなら、造形されなかった材料の余剰部分が、そのまま造形物を支える堅牢な土台、つまりサポート材の役割を自然と果たしてくれるからです",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "後処理は、この不要な部分をブロック状にごっそりと取り除く「除塊（じょかい）」と呼ばれる作業が中心となり、細かい柱状のサポート材を一つずつニッパーで除去していくような煩雑さはありません",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "メリットとして「サポート材の除去が容易」と述べましたが、これには注意が必要です",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "「容易」というのは、あくまでFDM方式などの細かいサポート材除去と比較した場合の話",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   },
+   {
+    "quote": "「サポート除去が容易」という言葉を鵜呑みにせず、実際に不要部分を取り除く「除塊」の作業を見学、あるいは体験させてもらう",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vI8X_XBrLo3wBi2KFh9u0n9hE56Z3EI1FLgLXBG2NavmCHbUiQs",
+    "pass": 3
+   },
+   {
+    "quote": "シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKrNfyjko_5lOnfMCoyoK_qV5_ccue-2dxjaYI7v6WRuunPUor7",
+    "pass": 3
+   },
+   {
+    "quote": "シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIB06x2aR7Sm-RcXa_xuveA41dYilRMoY0X1kkIWBe9CmXqHTV5",
+    "pass": 3
+   },
+   {
+    "quote": "その7． シート積層 法 - 業務用 3Dプリンターとは — その7． シート積層 法 - 業務用 3Dプリンターとは recmbus-3dprint.com https://www.recmbus-3dprint.com > sheet-laminate",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "異種金属を扱える3Dプリンター、 超音波 接合の シート積層 ... — 異種金属を扱える3Dプリンター、 超音波 接合の シート積層 ... 日経クロステック https://xtech.nikkei.com > RAPID + TCT 2019",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vILqsMXu6k-a3UL3aWGZDAQLjXhKDqWiX_YPp_Mi_wNaoUl19Qs",
+    "pass": 3
+   },
+   {
+    "quote": "シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIBg3PVLJqRWAJTjVxhX3WLngHxkg_s0T6Q3jkknEeW2y7cyDTg",
+    "pass": 3
+   },
+   {
+    "quote": "シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース",
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKheY8_IoEJm6I4h2Vq81s7juz_rV2PxwO3T23UHiUAGSH65gZl",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "そのため、汎用的な試作や治具製作では、材料押出方式や光造形方式、粉末焼結方式などが選ばれるケースもあります",
+    "url": "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "pass": 3
+   },
+   {
+    "quote": "おそらくですが、光造形やFDM方式３Dプリンタの低価格化が",
+    "url": "https://kictec3d.com/archives/1665",
+    "pass": 3
+   },
+   {
+    "quote": "紙などの汎用的な材料が使用でき、材料費を劇的に削減",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "業務用3Dプリンター＆メーカー一覧",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務用3Dプリンター＆メーカー一覧_TOP",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターの世界シェア",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "ある大手自動車メーカーでは、新モデルのデザイン開発におけるリードタイムの長さが長年の課題でした",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "シートの未使用部分、切断や仕上げの工数、材料の保管も費用に入ります",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "シートを幾重にも積み重ねた後に輪郭をカットして造形していくことから、中空構造の造形に向いておらず、また小さい部品の製造およびロット数が少ない場合、材料ロスが多くなることが懸念されます",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "マンション修繕談合に独禁法違反認定、有力企業含む42社／国内初の大型木造商業ビル「渋谷マルイ」27年夏開業／「建築に強い建設会社」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "代表形状について材料使用量と完成までの時間を見積もり、他方式と比べると判断できます",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計者が求める強度や剛性といった要件を入力するだけで、AIが異方性を完全に織り込み、材料の使用量を最小限に抑えながら最適な積層方向と内部構造を自動で生成してくれるようになるのです",
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "JAM-5200EBM[日本電子株式会社]",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "LAMDAシリーズ［日本電産マシンツール］",
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミュンヘン工科大学が選んだ日本の造形技術、複雑流路で未硬化粉末を残さず",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "日本流、フィジカルAIのつくり方",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "決算調査で判明、日本の大規模ITプロジェクトの真実",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "業務プロセスと業務フローを混同する日本企業、DXから逃げ続けて末期症状に",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "政府が国内の情報漏洩事例を分析、「ブラックオクトーバー」後の対策を提示",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "マンション修繕談合に独禁法違反認定、有力企業含む42社／国内初の大型木造商業ビル「渋谷マルイ」27年夏開業／「建築に強い建設会社」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "独自調査で判明、三菱UFJニコス・みずほで1000億円超のプロジェクト",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "1位は「高水圧で壁厚30cmのトンネル崩落、湧水対策が裏目に出た可能性も」2週連続",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社MarketsandMarkets（M&M）によると、3Dプリンタ生産と積層造形アウトプットの価値は2017年に35億ドルに成長しました",
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007041673.html",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vI8X_XBrLo3wBi2KFh9u0n9hE56Z3EI1FLgLXBG2NavmCHbUiQs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/5398283",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/am-shl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKrNfyjko_5lOnfMCoyoK_qV5_ccue-2dxjaYI7v6WRuunPUor7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.mining-base.co.jp/collections/mb-sf6.atom?srsltid=AYCX9vK5RbKE9sTb16pII59s3_XqmH9qUPYT3Pkhq-WMrHoP-3ZFpYnX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-ad.jp/products/list?tag_id%5B0%5D=374&srsltid=AYCX9vJ1_x9eTVBkw4ZRApHXgX-jrwtH4dApmdXtcPaFHJkcYitp6oGE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/575271?qs=EG&modal=DescProductIntroGroup&modalId=product-info-sec&srsltid=AYCX9vLGmDGgy4SWbXhgCzZ0l894YzdqJ-pEGxqaHejYrhKWTh-VV4Xt",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIB06x2aR7Sm-RcXa_xuveA41dYilRMoY0X1kkIWBe9CmXqHTV5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kictec3d.com/archives/1665",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dmgmori.co.jp/sp/am/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fukuda-kyoto.co.jp/technology/research/additive-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vILqsMXu6k-a3UL3aWGZDAQLjXhKDqWiX_YPp_Mi_wNaoUl19Qs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://346design.com/glossary/6fGrcyCk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIBg3PVLJqRWAJTjVxhX3WLngHxkg_s0T6Q3jkknEeW2y7cyDTg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfe-tec.co.jp/download/pdf/3E2J-374-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.scas.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.mfgrobots.com/mfg/3dprinting/1007041673.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKheY8_IoEJm6I4h2Vq81s7juz_rV2PxwO3T23UHiUAGSH65gZl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/metal3dprinter/qa/qa11/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E7%A4%8E%E3%82%B3%E3%83%BC%E3%82%B9/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AE%E6%A6%82%E8%A6%81/%E3%82%B7%E3%83%BC%E3%83%88%E3%83%A9%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%88/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newaymachining.com/ja/knowledge-hub/understanding-ultrasonic-additive-manufacturing-uam-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://market.us/report/the-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/hybrid-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/learning/additive-manufacturing-for-business/sheet-lamination-ultrasonic-consolidation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://insidemetaladditivemanufacturing.com/2015/11/09/ultrasonic-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.twi-global.com/technical-knowledge/faqs/what-is-ultrasonic-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） 市場規模 CAGR",
+   "results": [
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vI8X_XBrLo3wBi2KFh9u0n9hE56Z3EI1FLgLXBG2NavmCHbUiQs",
+    "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://newscast.jp/news/5398283",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://www.mordorintelligence.com/ja/industry-reports/united-states-additive-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/jp/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4-117013",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "https://www.theinsightpartners.com/ja/reports/sheet-lamination-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） 価格",
+   "results": [
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKrNfyjko_5lOnfMCoyoK_qV5_ccue-2dxjaYI7v6WRuunPUor7",
+    "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "https://shop.mining-base.co.jp/collections/mb-sf6.atom?srsltid=AYCX9vK5RbKE9sTb16pII59s3_XqmH9qUPYT3Pkhq-WMrHoP-3ZFpYnX",
+    "https://hi-ad.jp/products/list?tag_id%5B0%5D=374&srsltid=AYCX9vJ1_x9eTVBkw4ZRApHXgX-jrwtH4dApmdXtcPaFHJkcYitp6oGE",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.kkday.com/ja/product/575271?qs=EG&modal=DescProductIntroGroup&modalId=product-info-sec&srsltid=AYCX9vLGmDGgy4SWbXhgCzZ0l894YzdqJ-pEGxqaHejYrhKWTh-VV4Xt"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） 主要メーカー 一覧",
+   "results": [
+    "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIB06x2aR7Sm-RcXa_xuveA41dYilRMoY0X1kkIWBe9CmXqHTV5",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "https://kictec3d.com/archives/1665",
+    "https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://www.fukuda-kyoto.co.jp/technology/research/additive-manufacturing.html",
+    "https://metoree.com/categories/10063/",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） 代理店 日本",
+   "results": [
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vILqsMXu6k-a3UL3aWGZDAQLjXhKDqWiX_YPp_Mi_wNaoUl19Qs",
+    "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "https://kictec3d.com/archives/1665",
+    "https://jampt.jp/",
+    "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "https://jlc3dp.com/jp",
+    "https://346design.com/glossary/6fGrcyCk",
+    "https://mt-ump.co.jp/am-technology-sheet-lamination-method/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） 規制 保管 危険物",
+   "results": [
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIBg3PVLJqRWAJTjVxhX3WLngHxkg_s0T6Q3jkknEeW2y7cyDTg",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "https://www.jfe-tec.co.jp/download/pdf/3E2J-374-00.pdf",
+    "https://ufo.uacj-group.com/products/SDS_UACJ.pdf",
+    "https://346design.com/glossary/6fGrcyCk",
+    "https://www.scas.co.jp/index.html",
+    "https://mt-ump.co.jp/am-technology-sheet-lamination-method/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） 純正 指定材料 互換",
+   "results": [
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKheY8_IoEJm6I4h2Vq81s7juz_rV2PxwO3T23UHiUAGSH65gZl",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam",
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "https://kictec3d.com/archives/1665",
+    "https://www.recmbus-3dprint.com/method/sheet-laminate.html",
+    "https://jampt.jp/metal3dprinter/qa/qa11/",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html",
+    "https://ja.mfgrobots.com/mfg/3dprinting/1007041673.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock market size CAGR",
+   "results": [
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://market.us/report/the-additive-manufacturing-market/",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://www.grandviewresearch.com/industry-analysis/hybrid-additive-manufacturing-market",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://www.linkedin.com/pulse/additive-manufacturing-101-6-what-sheet-lamination-silbernagel",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "https://www.researchgate.net/publication/367410096_Review_of_recent_trends_in_ultrasonic_additive_manufacturing_current_challenges_and_future_prospects",
+    "https://www.theinsightpartners.com/reports/sheet-lamination-market"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock price per kg",
+   "results": [
+    "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://www.linkedin.com/learning/additive-manufacturing-for-business/sheet-lamination-ultrasonic-consolidation",
+    "https://insidemetaladditivemanufacturing.com/2015/11/09/ultrasonic-additive-manufacturing/",
+    "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "https://www.youtube.com/watch?v=ciCxNgROtm4",
+    "https://www.twi-global.com/technical-knowledge/faqs/what-is-ultrasonic-additive-manufacturing",
+    "https://www.sourcebyspec.com/news/additive-manufacturing-material-2026-price-cost-guide-feedstock-process-and.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock key players",
+   "results": [
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860419305706",
+    "https://www.3dmag.com/3d-wikipedia/sheet-lamination-3d-printing/",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "https://www.strategicmarketresearch.com/market-report/sheet-lamination-market",
+    "https://www.linkedin.com/pulse/additive-manufacturing-101-6-what-sheet-lamination-silbernagel"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock distributor Japan",
+   "results": [
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://www.linkedin.com/learning/additive-manufacturing-for-business/sheet-lamination-ultrasonic-consolidation",
+    "https://insidemetaladditivemanufacturing.com/2015/11/09/ultrasonic-additive-manufacturing/",
+    "https://ewi.org/ultrasonic-metal-foil-additive-manufacturing-explained/",
+    "https://www.twi-global.com/technical-knowledge/faqs/what-is-ultrasonic-additive-manufacturing"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock safety storage regulation",
+   "results": [
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://research.wayne.edu/oehs/lab-safety/3d-printing",
+    "https://insidemetaladditivemanufacturing.com/2015/11/09/ultrasonic-additive-manufacturing/",
+    "https://www.linkedin.com/pulse/additive-manufacturing-101-6-what-sheet-lamination-silbernagel",
+    "https://collateral-library-production.s3.amazonaws.com/uploads/asset_file/attachment/2418/CS10883_Additive_Manufacturing_Facility_Safety_White_Paper_V4-LR_3.2018.pdf",
+    "https://www.astm.org/products-services/standards-and-publications/standards/additive-manufacturing-standards.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock closed system open material third-party",
+   "results": [
+    "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860419305706",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://www.3dmag.com/3d-wikipedia/laminated-object-manufacturing/",
+    "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "https://www.linkedin.com/pulse/additive-manufacturing-101-6-what-sheet-lamination-silbernagel",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://www.linkedin.com/learning/additive-manufacturing-for-business/sheet-lamination-ultrasonic-consolidation",
+    "https://en.wikipedia.org/wiki/Ultrasonic_consolidation"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock commodity price competition",
+   "results": [
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "https://insidemetaladditivemanufacturing.com/2015/11/09/ultrasonic-additive-manufacturing/",
+    "https://www.linkedin.com/learning/additive-manufacturing-for-business/sheet-lamination-ultrasonic-consolidation",
+    "https://ewi.org/ultrasonic-metal-foil-additive-manufacturing-explained/",
+    "https://www.sciencedirect.com/science/article/pii/S2238785422015526",
+    "https://www.cognitivemarketresearch.com/sheet-lamination-market-report"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock technical support parameters",
+   "results": [
+    "https://fabrisonic.com/wp-content/uploads/2024/03/UltrasonicAdditiveManufacturingDesignGuide_V3_230829.pdf",
+    "https://www.xometry.com/resources/3d-printing/sheet-lamination/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2214860419305706",
+    "https://blog.spatial.com/ultrasonic-additive-manufacturing",
+    "https://www.lboro.ac.uk/research/amrg/about/the7categoriesofadditivemanufacturing/sheetlamination/",
+    "https://www.totalmateria.com/en-us/articles/ultrasonic-additive-manufacturing-uam/",
+    "https://www.twi-global.com/technical-knowledge/faqs/what-is-ultrasonic-additive-manufacturing",
+    "https://insidemetaladditivemanufacturing.com/2015/11/09/ultrasonic-additive-manufacturing/",
+    "https://www.linkedin.com/pulse/additive-manufacturing-101-6-what-sheet-lamination-silbernagel",
+    "https://www.mdpi.com/2073-4352/12/12/1696"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com シート積層・箔（LOM・UAM超音波積層）",
+   "results": [
+    "https://note.com/ateban/n/n578f21012282",
+    "https://note.com/cfrp_media/n/n202a9dad4f70",
+    "https://note.com/aratama315/n/n6cdcd96ba966",
+    "https://note.com/unique_mint4963/n/n19ee9a0abb2a",
+    "https://note.com/naka_at/n/n2fa1f1c8f5a2",
+    "https://note.com/loyal_myrtle1528/n/nc1e5bd648f35",
+    "https://note.com/dopodomani/n/n3593b63d4a2c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com シート積層・箔（LOM・UAM超音波積層）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2114268390525399082",
+    "https://x.com/chemicaldailyad/status/2067381880241131753",
+    "https://x.com/s_wired/status/2060314175579263184",
+    "https://x.com/munro1920scout/status/1773493964320211403",
+    "https://x.com/akomo583/status/2054107243109658897",
+    "https://x.com/tjmlab/status/2057437191274746318",
+    "https://x.com/negitts/status/2056380378743718073"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com シート積層・箔（LOM・UAM超音波積層）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com シート積層・箔（LOM・UAM超音波積層）",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/mizqueenC7/",
+    "https://www.facebook.com/HitachiHightech.jp/photos/みんなの試作広場からのお知らせ特徴ある造形手法シート積層法dlsペレット溶解積層法式shs編樹脂3dプリンター入門講座7これまでの連載では３dプリンターの代表的/2993380720715951/",
+    "https://www.facebook.com/fabcross4engineer/posts/超音波非破壊検査向けに液体の塗布が不要な滑る超音波透過シートを開発/796647892289408/",
+    "https://www.facebook.com/Kjcbiz/posts/超音波接合装置リチウムイオンバッテリーの多層箔接合セパレータ溶着インバータモジュールの端子接合などパワーデバイス分野向けの商品ラインナップが充実-超音波切断装置/585514478284068/",
+    "https://www.facebook.com/kyoto3ddstudygroup/posts/積層法でない方法/582514343902821/",
+    "https://www.facebook.com/DMGMORI.CO/videos/動画のご紹介-アディティブマニュファクチャリング/382077859595918/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） note 社長",
+   "results": [
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html",
+    "https://ja.mfgrobots.com/mfg/3dprinting/1007041673.html",
+    "https://blog.spatial.com/ja/超音波積層造形-uam",
+    "https://www.newaymachining.com/ja/knowledge-hub/understanding-ultrasonic-additive-manufacturing-uam-3d-printing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シート積層・箔（LOM・UAM超音波積層） X 投稿",
+   "results": [
+    "https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html",
+    "https://mt-ump.co.jp/am-technology-sheet-lamination-method/",
+    "https://news.sharelab.jp/study/am-shl/",
+    "https://i-maker.jp/blog/lom-3d-printing-10398.html",
+    "https://ja.mfgrobots.com/mfg/3dprinting/1007041673.html",
+    "https://blog.spatial.com/ja/超音波積層造形-uam",
+    "https://www.newaymachining.com/ja/knowledge-hub/understanding-ultrasonic-additive-manufacturing-uam-3d-printing"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "sheet lamination ultrasonic additive manufacturing foil feedstock site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/learning/additive-manufacturing-for-business/sheet-lamination-ultrasonic-consolidation",
+    "https://www.linkedin.com/pulse/ultrasonic-additive-manufacturing-uam-3d-printing-how-clyde-verse-27kcc",
+    "https://pe.linkedin.com/pulse/additive-manufacturing-101-6-what-sheet-lamination-silbernagel",
+    "https://pe.linkedin.com/pulse/7-major-technologies-additive-manufacturing-yang-en-song",
+    "https://www.linkedin.com/posts/atharvaa3110_sheet-lamination-sheet-lamination-in-additive-activity-7446435667829686272-ob-5",
+    "https://www.linkedin.com/pulse/emerging-trends-sheet-lamination-market-sustainable-manufacturing-kjvmf",
+    "https://www.linkedin.com/pulse/north-america-sheet-lamination-market-analysis-future-growth-odp7e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "成長率": "記載なし（読んだ45頁・検索21回）"
+ }
+}

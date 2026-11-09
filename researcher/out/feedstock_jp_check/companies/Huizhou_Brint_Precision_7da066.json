@@ -1,0 +1,672 @@
+{
+ "name": "Huizhou Brint Precision",
+ "aliases": [
+  "Brint"
+ ],
+ "context": "フィラメント",
+ "researched_at": "2026-11-09T05:43:10.876331+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Huizhou Brint - Polymer Resins and Compounds - Mati Logistics — Huizhou Brint - Polymer Resins and Compounds - Mati Logistics Mati Logistics https://www.matilogistics.com > huizh...",
+    "url": "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbcasting.com/en/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xinpoint.com/intro/16.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jibang.foundry-suppliers.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/jetro/japan/fukushima/company/pdf/list_2015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fashion-tokyo.jp/autumn/en-gb/search/2025/directory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.erimo-works.com/nicky/nickylog00027.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edenjapanexpo.jp/exhibitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marklines.com/ja/top500/huizhou-desay-sv-automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uscc.gov/sites/default/files/2025-11/Chapter_9--Chained_to_China_Beijings_Weaponization_of_Supply_Chains.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mcgc.com/english/ir/pdf/02274/02571.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256805784334807.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alibaba.com/product-detail/1-75-3-0mm-Flexible-TPU_1601773030045.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intamsys.jp/industries-medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jam-net.co.jp/wp-content/uploads/2023/12/2023-06_Vice-general-catalog.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cn-huaxin.en.alibaba.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ausjetech.com/h-col-180.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.metalex.co.th/en-gb/visitor-info/search-for-exhibitors/exhibitor-profile.huizhou%20jibang%20precision%20technology%20co%20ltd.org-fd2693ac-2a55-4736-a8ca-a6832d46cfc6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurodaprecision.com/global/products/support/distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cn-huaxin.en.alibaba.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metalex.co.th/en-gb/visitor-info/search-for-exhibitors/exhibitor-profile.huizhou%20jibang%20precision%20technology%20co%20ltd.org-fd2693ac-2a55-4736-a8ca-a6832d46cfc6.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Huizhou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.wikipedia.org/wiki/%E6%83%A0%E5%B7%9E%E5%B8%82",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Huizhou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zh.wikipedia.org/wiki/%E6%83%A0%E5%B7%9E%E5%B8%82",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/hon-hai-precision/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://feisitetool.en.made-in-china.com/company-Huizhou-Feisite-Precision-Tools-Co-Ltd-.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/2103",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cn1557580710oveo.en.alibaba.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Huizhou Brint Precision",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://www.ausjetech.com/h-col-180.html",
+    "https://metalsglobal.en.alibaba.com/",
+    "https://cn-huaxin.en.alibaba.com/",
+    "https://www.linkedin.com/company/huizhou-jibang-precision-technology-co-ltd",
+    "https://feisitetool.en.made-in-china.com/company-Huizhou-Feisite-Precision-Tools-Co-Ltd-.html",
+    "https://global.iteschina.com/en/exhibitor-list/details/11261",
+    "https://online.tctasia.cn/",
+    "https://www.jbcasting.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "株式会社Huizhou Brint Precision",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://www.linkedin.com/company/huizhou-jibang-precision-technology-co-ltd",
+    "https://www.jbcasting.com/en/technology/",
+    "https://jibang.foundry-suppliers.com/",
+    "https://www.dnb.com/business-directory/company-information.manufacturing.cn.guangdong.huizhou.html",
+    "https://en.nbd.ltd/trader/info/I9NBD250756764",
+    "http://www.top-hz.com/en/index-912336.html",
+    "https://umbrex.com/resources/company-profiles/hon-precision-inc/",
+    "https://bridgeprecisiontools.com/?srsltid=AYCX9vLb6ZwcLES3zWoxNRerucYNnfxqEQuJ-Z8oIolB1s3k6c_JjIQc",
+    "https://www.tenforums.com/threads/how-do-i-get-a-screenshot-of-start-menu.5772/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Huizhou Brint Precision 株式会社",
+   "results": [
+    "https://www.jbcasting.com/en/technology/",
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://www.linkedin.com/company/huizhou-jibang-precision-technology-co-ltd",
+    "https://global.iteschina.com/en/exhibitor-list/details/11261",
+    "https://jibang.foundry-suppliers.com/",
+    "https://choei.com.hk/wp-content/uploads/2024/08/eb2014649e9982431452d4420acf613f.pdf",
+    "http://www.hzkuho.com/",
+    "https://www.dnb.com/business-directory/company-information.manufacturing.cn.guangdong.huizhou.html",
+    "https://www.bretonprecision.com/ja/",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Ｈｕｉｚｈｏｕ　Ｂｒｉｎｔ　Ｐｒｅｃｉｓｉｏｎ",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://www.linkedin.com/company/huizhou-jibang-precision-technology-co-ltd",
+    "https://metalsglobal.en.alibaba.com/",
+    "https://www.ausjetech.com/h-col-180.html",
+    "https://cn-huaxin.en.alibaba.com/",
+    "https://feisitetool.en.made-in-china.com/company-Huizhou-Feisite-Precision-Tools-Co-Ltd-.html",
+    "https://global.iteschina.com/en/exhibitor-list/details/11261",
+    "https://www.jbcasting.com/",
+    "https://online.tctasia.cn/",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "HuizhouBrintPrecision",
+   "results": [
+    "https://haobang-machining.en.made-in-china.com/",
+    "https://www.linkedin.com/company/huizhou-jibang-precision-technology-co-ltd",
+    "https://metalsglobal.en.alibaba.com/",
+    "https://www.bloomberg.com/profile/company/0180740D:CH",
+    "https://iopscience.iop.org/article/10.1088/0256-307X/42/11/110102",
+    "https://www.dqsglobal.com/en/customer-database/wanshengxing-precision-technology-huizhou-co.,-ltd2",
+    "https://www.metalex.co.th/en-gb/visitor-info/search-for-exhibitors/exhibitor-profile.huizhou%20jibang%20precision%20technology%20co%20ltd.org-fd2693ac-2a55-4736-a8ca-a6832d46cfc6.html",
+    "https://baike.baidu.com/en/item/Huizhou%20Xianrui%20Precision%20Technology%20Co.%2C%20Ltd./5636480",
+    "https://arxiv.org/abs/2504.21050",
+    "https://www.edmunds.com/hyundai/santa-cruz/2022/trims/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
+  },
+  {
+   "query": "Huizhou Brint Precision Japan",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://cn-huaxin.en.alibaba.com/",
+    "https://www.metalex.co.th/en-gb/visitor-info/search-for-exhibitors/exhibitor-profile.huizhou%20jibang%20precision%20technology%20co%20ltd.org-fd2693ac-2a55-4736-a8ca-a6832d46cfc6.html",
+    "https://www.ausjetech.com/h-col-180.html",
+    "https://metalsglobal.en.alibaba.com/",
+    "https://www.linkedin.com/company/huizhou-jibang-precision-technology-co-ltd",
+    "https://global.iteschina.com/en/exhibitor-list/details/11261",
+    "https://feisitetool.en.made-in-china.com/company-Huizhou-Feisite-Precision-Tools-Co-Ltd-.html",
+    "https://yc-precise.com/about-us/",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Huizhou Brint Precision 日本",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://www.metalex.co.th/en-gb/visitor-info/search-for-exhibitors/exhibitor-profile.huizhou%20jibang%20precision%20technology%20co%20ltd.org-fd2693ac-2a55-4736-a8ca-a6832d46cfc6.html",
+    "https://cn-huaxin.en.alibaba.com/",
+    "https://www.jbcasting.com/",
+    "https://yc-precise.com/about-us/",
+    "https://www.facebook.com/PeoplesDaily/posts/the-first-demonstration-unit-of-chinas-new-generation-domestically-developed-med/1656760076495277/",
+    "https://metalsglobal.en.alibaba.com/ja_JP/company_profile.html",
+    "https://ntcthermistor.en.made-in-china.com/",
+    "https://cn1557580710oveo.en.alibaba.com/",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Huizhou Brint Precision K.K.",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://www.linkedin.com/company/huizhou-jibang-precision-technology-co-ltd",
+    "https://metalsglobal.en.alibaba.com/",
+    "https://global.iteschina.com/en/exhibitor-list/details/11261",
+    "https://ancete.en.alibaba.com/",
+    "https://feisitetool.en.made-in-china.com/company-Huizhou-Feisite-Precision-Tools-Co-Ltd-.html",
+    "https://www.jbcasting.com/en/technology/",
+    "https://jibang.foundry-suppliers.com/",
+    "https://www.hzsunbright.com/",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Huizhou Brint Precision 代理店",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://www.jbcasting.com/en/technology/",
+    "https://www.xinpoint.com/intro/16.html",
+    "https://jibang.foundry-suppliers.com/",
+    "https://www.honprec.com/en/stronghold/",
+    "https://bridgeprecisiontools.com/company/?srsltid=AYCX9vKT-QplNvk4fRONvd9nSUOO00XZSXUb7FjkyI8cuKosD5XrdyKS",
+    "https://www.absint.com/shop/wheretobuy_ja.htm",
+    "https://www.precisionext.com/",
+    "https://www.bpe.com.tw/indexE.html",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Huizhou Brint Precision 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.jetro.go.jp/ext_images/jetro/japan/fukushima/company/pdf/list_2015.pdf",
+    "https://www.fashion-tokyo.jp/autumn/en-gb/search/2025/directory.html",
+    "http://www.erimo-works.com/nicky/nickylog00027.html",
+    "https://www.edenjapanexpo.jp/exhibitors",
+    "http://www.normanackroyd.com/?attachment_id=487",
+    "http://www.mutuki.sakura.ne.jp/index.php/view/286",
+    "http://akie-style.cocolog-nifty.com/blog/2007/04/post_6ec4.html",
+    "http://erimo-works.com/nicky/nicky.cgi?page=12",
+    "https://online.tctasia.cn/en/showroom-2026/institutions/23bdhh",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/huizhou-brint-precision-co-ltd.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Huizhou Brint Precision 日本 販売",
+   "results": [
+    "https://www.marklines.com/ja/top500/huizhou-desay-sv-automotive",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://www.uscc.gov/sites/default/files/2025-11/Chapter_9--Chained_to_China_Beijings_Weaponization_of_Supply_Chains.pdf",
+    "https://www.mcgc.com/english/ir/pdf/02274/02571.pdf",
+    "https://dash.harvard.edu/bitstreams/833cfcf4-79bb-4589-b5ad-e4881a29139b/download",
+    "https://albo.inc/imports/8d92ff97-e212-5f6a-981b-e045c16fac9e?lang=ja",
+    "https://ja.hysdiecasting.com/",
+    "https://www.gazaihanbai.jp/products/list.php?category_id=2915",
+    "https://www.jayonjapan.com/m/shop.php?smode=category_detail&part_code=3&id=5803494",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Huizhou Brint Precision フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.aliexpress.com/item/1005005970649559.html",
+    "https://www.alibaba.com/product-detail/1-75-3-0mm-Flexible-TPU_1601773030045.html",
+    "https://www.intamsys.jp/industries-medical",
+    "https://jam-net.co.jp/wp-content/uploads/2023/12/2023-06_Vice-general-catalog.pdf",
+    "https://techcarbonworks.com/ja/carbon-fiber-manufacturing-services/",
+    "https://www.tokyo-pack.jp/event/13994/module/booth/422836",
+    "http://aitendo3.sakura.ne.jp/aitendo_data/product_img/lcd/VFD/VFD2/AN-B-1003H.pdf",
+    "https://www.riken.jp/medialibrary/riken/pr/publications/kiso/kiso-2018-19.pdf",
+    "https://www.fashion-tokyo.jp/autumn/en-gb/search/2025/directory.html",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Huizhou Brint Precision Japan distributor",
+   "results": [
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://cn-huaxin.en.alibaba.com/",
+    "https://www.ausjetech.com/h-col-180.html",
+    "https://www.metalex.co.th/en-gb/visitor-info/search-for-exhibitors/exhibitor-profile.huizhou%20jibang%20precision%20technology%20co%20ltd.org-fd2693ac-2a55-4736-a8ca-a6832d46cfc6.html",
+    "https://global.iteschina.com/en/exhibitor-list/details/11261",
+    "https://ntcthermistor.en.made-in-china.com/",
+    "https://jibang.foundry-suppliers.com/",
+    "https://hzsaytall.en.alibaba.com/",
+    "https://www.jbcasting.com/en/contact/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Huizhou Brint Precision distributor Japan OR Japanese partner",
+   "results": [
+    "https://kurodaprecision.com/global/products/support/distributor/",
+    "https://www.matilogistics.com/supplier/huizhou-brint-precision-co-ltd",
+    "https://cn-huaxin.en.alibaba.com/",
+    "https://www.metalex.co.th/en-gb/visitor-info/search-for-exhibitors/exhibitor-profile.huizhou%20jibang%20precision%20technology%20co%20ltd.org-fd2693ac-2a55-4736-a8ca-a6832d46cfc6.html",
+    "https://jibang.foundry-suppliers.com/",
+    "https://www.harting.com/en-JP/japan-domestic-distributor",
+    "https://ntcthermistor.en.made-in-china.com/",
+    "https://ftprecision.com/about/leadership/",
+    "https://hsprecision.com/international-distributors/",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:amazon.co.jp Huizhou Brint Precision",
+   "results": [
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/",
+    "https://www.trip.com/toplist/tripbest/huizhou-best-things-to-do-10072139111111/",
+    "https://baike.baidu.com/en/item/Huizhou+City/985739",
+    "https://visitcn.com.cn/en/provinces/guangdong/huizhou",
+    "https://www.waytochinatravel.com/destinations/south-china/guangdong/huizhou",
+    "https://baike.baidu.com/item/惠州市/2626655"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:monotaro.com Huizhou Brint Precision",
+   "results": [
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/",
+    "https://www.trip.com/toplist/tripbest/huizhou-best-things-to-do-10072139111111/",
+    "https://baike.baidu.com/en/item/Huizhou+City/985739",
+    "https://visitcn.com.cn/en/provinces/guangdong/huizhou",
+    "https://www.waytochinatravel.com/destinations/south-china/guangdong/huizhou",
+    "https://baike.baidu.com/item/惠州市/2626655"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Huizhou Brint Precision employees revenue parent company",
+   "results": [
+    "https://www.reveliolabs.com/companies/hon-hai-precision/employees",
+    "https://feisitetool.en.made-in-china.com/company-Huizhou-Feisite-Precision-Tools-Co-Ltd-.html",
+    "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/2103",
+    "https://cn1557580710oveo.en.alibaba.com/",
+    "https://www.companieshistory.com/hon-hai-precision-industry-co-ltd-foxconn/",
+    "https://www.linkedin.com/company/precisionproductsgroupinc-",
+    "https://umbrex.com/resources/company-profiles/hon-precision-inc/",
+    "https://www.facebook.com/ForbesMENA.English/videos/hon-hai-precision-industry-also-known-as-foxconn-has-raised-11-billion-through-a/863234832328178/",
+    "https://www.zoominfo.com/c/auer-precision/3375539",
+    "https://en.wikipedia.org/wiki/Huizhou"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Huizhou Brint Precision",
+   "results": [
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/",
+    "https://www.trip.com/toplist/tripbest/huizhou-best-things-to-do-10072139111111/",
+    "https://baike.baidu.com/en/item/Huizhou+City/985739",
+    "https://visitcn.com.cn/en/provinces/guangdong/huizhou",
+    "https://www.waytochinatravel.com/destinations/south-china/guangdong/huizhou",
+    "https://baike.baidu.com/item/惠州市/2626655"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Huizhou Brint Precision",
+   "results": [
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/",
+    "https://www.trip.com/toplist/tripbest/huizhou-best-things-to-do-10072139111111/",
+    "https://baike.baidu.com/en/item/Huizhou+City/985739",
+    "https://visitcn.com.cn/en/provinces/guangdong/huizhou",
+    "https://www.waytochinatravel.com/destinations/south-china/guangdong/huizhou",
+    "https://baike.baidu.com/item/惠州市/2626655"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Huizhou Brint Precision",
+   "results": [
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/",
+    "https://www.trip.com/toplist/tripbest/huizhou-best-things-to-do-10072139111111/",
+    "https://baike.baidu.com/en/item/Huizhou+City/985739",
+    "https://visitcn.com.cn/en/provinces/guangdong/huizhou",
+    "https://www.waytochinatravel.com/destinations/south-china/guangdong/huizhou",
+    "https://baike.baidu.com/item/惠州市/2626655"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Huizhou Brint Precision",
+   "results": [
+    "https://www.facebook.com/leduvsolutions/videos/offset-sheetfed-roll-roll-uvled-press-uv-led/5054582998101562/",
+    "https://www.facebook.com/100077122448382/videos/1325-custom-uv-flatbed-printer-multi-angle-full-display-multi-angle-tour-of-1325/3685669684922156/",
+    "https://www.facebook.com/61593855366875/posts/watch-how-our-advanced-multi-axis-cnc-machining-center-crafts-high-strength-alum/122114904045461845/",
+    "https://www.facebook.com/100064268516662/videos/allwin-c8-512i30-pl-flex-printing-machine-original-allwin-bodyspeed-1500-sq-ft-p/253424428996415/",
+    "https://www.facebook.com/festoindia/posts/how-can-seamless-automation-make-your-manufacturing-processes-faster-more-precis/1432648712254488/",
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Huizhou Brint Precision note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/",
+    "https://www.trip.com/toplist/tripbest/huizhou-best-things-to-do-10072139111111/",
+    "https://baike.baidu.com/en/item/Huizhou+City/985739",
+    "https://visitcn.com.cn/en/provinces/guangdong/huizhou",
+    "https://www.waytochinatravel.com/destinations/south-china/guangdong/huizhou",
+    "https://baike.baidu.com/item/惠州市/2626655"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Huizhou Brint Precision X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Huizhou",
+    "https://zh.wikipedia.org/wiki/惠州市",
+    "https://www.tripadvisor.com/Attractions-g297413-Activities-Huizhou_Guangdong.html",
+    "https://www.travelchinaguide.com/cityguides/guangdong/huizhou/",
+    "https://www.chinaculturepro.com/huizhou-culture/",
+    "https://www.trip.com/toplist/tripbest/huizhou-best-things-to-do-10072139111111/",
+    "https://baike.baidu.com/en/item/Huizhou+City/985739",
+    "https://visitcn.com.cn/en/provinces/guangdong/huizhou",
+    "https://www.waytochinatravel.com/destinations/south-china/guangdong/huizhou",
+    "https://baike.baidu.com/item/惠州市/2626655"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "拠点": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "代理店網": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）",
+  "規模・親会社": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）"
+ }
+}

@@ -124,6 +124,11 @@
   - 「□ 未取得や矛盾がある場合の追加確認方法を定めたか」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
   - 「改革の意思決定に必要な問いがあり、その問いを検証するのに必要な人・情報・方法が対応づけられ、調査に抜けがないことだ」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
 - 一次情報の探し方：
+  - 「疫学や統計学では，因果関」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「疫学や統計学では因果関係を立証するための方」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「から検証不可能な統計的仮定によって成り立っているた」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「であり，統計学的な議論はこれからである」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「差の定義を行い，臨床試験のための統計的原則 補遺 臨」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
   - 「意思決定者には目的・判断条件の確認、実行担当者にはインタビューと操作観察、IT担当にはデータ定義・抽出条件の確認など、目的に合わせた方法を採用する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
   - 「下記A社のインタビュー人数は、調査工程を練習するための仮置きであり、統計的な代表性や業務全容の網羅を保証するものではない」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
   - 「https://www.iiba.org/contentassets/68ac5649fc5248739a107fd08446cc08/task-card-plan-stakeholder-engagement.pdf」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
@@ -134,27 +139,22 @@
   - 「1990年代に統計学者レオ・ブライマン（Leo Breiman）が提唱したバギング（Bagging）が祖先的概念です」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「最もシンプルな実装は多数決（Majority Voting / メジャリティ・ボーティング）で、３つのAIに同じ質問を投げ、多数派の判断を採用します」（https://note.com/tomohiko_naba/n/n45c8146428ce）
   - 「（コンテキスト長増加による応答品質の劣化）も避け、AI同士の議論が統計的に安定したと判定された時点で停止します」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「[追加統計][ケース得点]を選択するとケーススコアが次のように出力される」（https://www.relak.net/psy/kasai/reqa/type3study-score7p.htm）
-  - 「レーション」という用語を採用した理由について説」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
-  - 「のデータを集めた上で統計的に処理することによっ」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
-  - 「おいては，個人レヴェルのデータを統計的な処理に」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
-  - 「それらの方法の採用は，実り少ないものとなるであ」（https://www.ritsumei.ac.jp/file.jsp?id=254534）
 - 失敗・落とし穴：
-  - 「業務改革の最初の失敗は、改善策の検討時ではなく、現状を調べる段階で起こることがある」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
-  - 「一方、実際に受注処理をしている担当者に聞くと、返品・支払エラー・在庫引当失敗といった例外対応が見つかるかもしれない」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
-  - 「Q-02：在庫引当失敗／発生率と再確認の原因／EC・物流・IT／ログ定義確認＋例外観察／第1〜2週／結果は原因仮説台帳へ反映／ステータス：取得条件確認中」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
-  - 「10．よくある失敗と防止策」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
-  - 「失敗⑤ インタビューの発言を事実と断定する」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
-  - 「ChatGPTに『すごい！』と褒められた人へ あなたの判断は静かに歪められている 『シコファンシー』という誰も警告してくれない罠 【全１１回の１０】｜なば」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「ChatGPTに『すごい！』と褒められた人へ あなたの判断は静かに歪められている 『シコファンシー』という誰も警告してくれない罠 【全１１回の１０】」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「上記を踏まえると、シコファンシーの罠を抜け出すための「３つのAI使い分け」は、以下のリレー形式が基本となります」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「ただし、無料プランは入力データがAIの学習に利用される可能性があるため、機密情報の取り扱いには十分注意してください」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「」（Self-enhancement bias）といった、AI特有の新たなバイアスが生じてしまうのです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「に「これで本当に正しいか？」とチェックさせても、同じバイアスの「合わせ鏡」の中で肯定し合ってしまう危険性があります」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「同論文でも、こうしたAI審判のバイアスを緩和する最も有効な戦略の一つとして、「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「異なるモデルは、それぞれ全く異なる種類のバイアスの弱点を持つ」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「という「第三者の審判」に持ち込んで初めて、その隠れた追従性や見落とし（共通バイアス）を客観的にあぶり出すことができるのです」（https://note.com/tomohiko_naba/n/n45c8146428ce）
-  - 「AIは与えられた役割（ポジション）にアンカリング（固執）しがちですが、役割を交換してもなお「同じ結論」（判決）に収束した場合、それはAIのバイアスではなく「」（https://note.com/tomohiko_naba/n/n45c8146428ce）
+  - 「おいてデータは交絡等によるバイアスの影響を受けるた」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「いが，バイアスを発生させることになる」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「め，分析においてはこれらのバイアスに対して，データ」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「潜在的なバイアスに対処するために，様々な高度な統」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「め，実際にはバイアスを常に取り除くことができるわけ」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「一定の仮定の下でバイアスが（ほとんど）存在しないこ」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「とを保証されている研究，あるいはバイアスの発生源や」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「複数のアプローチの長所と短所，特にバイアスの原」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「Ａ． 少なくとも 2 つ，理想的にはそれ以上，潜在的なバイアスの主な原因が異なり，関連性のない異なるア」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「Ｄ．各アプローチにおいて，研究結果を比較する際に，主要なバイアスの原因が明確に示されている」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「Ｅ． 各アプローチにおいて，潜在的なバイアスの主要なすべての要因は，予想される影響の方向が明示され」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「ている，理想的には，比較する一連の研究のアプローチにおいて，潜在的なバイアスの方向が正反対で」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「Ｆ． 少なくとも 2 つ，理想的にはそれ以上，潜在的なバイアスの主な原因が異なり，関連性のない異なるア」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「よるバイアスを軽減するために，遺伝子変異を操作」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
+  - 「研究のバイアスを反映していると思われ ，リスク比」（https://www.jstage.jst.go.jp/article/tmjutmed/35/1/35_19/_pdf）
 - 実例：
   - 「例えば、EC責任者に「受注確認はどのような仕事か」と尋ねると、公式手順や管理指標を説明してもらえる」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
   - 「IIBAの『The Business Analysis Standard』は、関係者との情報収集、結果の確認、協働の維持を重要な活動として整理している」（https://note.com/jgiajfid_5293/n/n5b8998020fdd）
@@ -2217,6 +2217,11 @@
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
 - 手順・やり方：
+  - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「電子公告と決算公告の違いとは？関係性・3つの公告方法の費用を徹底比較」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「公告の「方法」と「内容」という関係性、Web開示との使い分け、官報・新聞との費用比較まで専門メディアが整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告をホームページで行うには？定款変更の要否と手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告をホームページで行う方法を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告を官報で閲覧する5つの方法を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -2227,11 +2232,6 @@
   - 「帝国データバンクで決算公告を無料検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「TDB企業サーチの使い方、COSMOS有料データとの違い、見つからない場合の官報・EDINETでの代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告を電子公告に変更する登記手続き｜費用3万円・5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2265,6 +2265,7 @@
   - 「Q2. 大会社かどうかは決算公告のどこで見分けられますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 失敗・落とし穴：
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2279,8 +2280,9 @@
   - 「流動比率が100%を下回る場合、短期的な支払い義務が短期間に現金化できる資産を上回っていることを意味し、資金繰りの悪化サインとして注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「ただし、中小企業の決算公告はB/Sのみのため、売上成長率や利益率の比較はできない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 実例：
+  - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2294,8 +2296,6 @@
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「そのため、官報掲載の会社であっても電子公告ページを持っているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「経済産業省の商工業実態基本調査によると、製造業の中小企業では20%台が一つの基準となるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 
 ## 非上場企業の売上の調べ方（イノベーション総研・調査会社のナレッジ）（how to find private company revenue Japan consulting knowledge base）
 - 文脈：探し先
@@ -6704,54 +6704,56 @@
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
 - 突き合わせ・推定：
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
 - 一次情報の探し方：
-  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
+  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a705dc88caa92cdea7d9c873dcba3eb7）
@@ -6765,24 +6767,22 @@
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=cdfa6bf83da08d8261c8c9afa6e17522）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
-  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=3cc4e9b7d02c2aa646016743d5c08b09）
-  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=36fa6184df2accd37fb3fb0b260ac935）
 - 実例：
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
+  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a47b3a82edd42b240dcb8fc4cc5caa5c）
   - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
   - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「個人受講モデルと企業一括導入モデルでは、推計結果が大きく変わる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「の結果は、公開統計や実測値の代わりではありません」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「を使って市場調査を進めた活用事例を、導入事例集でご覧いただけます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=fb26153a890d01ba91e119f1018f6045）
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a705dc88caa92cdea7d9c873dcba3eb7）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=a705dc88caa92cdea7d9c873dcba3eb7）
 
 ## 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）（entity resolution evaluation cluster sampling precision bias）
 - 文脈：突き合わせ
@@ -9318,22 +9318,24 @@
 ## 会社の公告方法を登記簿で確かめてから決算公告を探す方法（電子公告のURL・持分会社の公告不要）（company public notice method commercial register electronic public notice Japan）
 - 文脈：会社の数字
 - 手順・やり方：
+  - 「Q1-9.現在、電子公告を実施している会社を知る方法はありますか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q2-7.公告方法が官報で決算のみ電子公告だった会社が、公告方法全部を電子公告に変更した場合、登記していた決算用のアドレスはどうなりますか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q3-1.調査申込みは、公告方法の定款変更後でないとできないのですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．法人が定款等で公告をする方法を「電子公告」としている会社は、法定公告（決算公告を除く）を行う場合、その電子公告が適法に行われているかを第三者である電子公告調査機関の調査を受けなければなりません（会社法第941条）」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「また債権者保護手続きの際、公告方法が官報の場合は「官報＋個別催告」しか方法はありませんが、公告方法が電子公告の場合は「官報＋電子公告」が選べます」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「法人が定款等で公告をする方法を「電子公告」としていても、法令で「～は官報で公告し、～」とある場合には必ず官報公告をしなければいけません」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「株式会社の行う法定公告には、定款で定めた方法による公告（株主通知、基準日設定、株券廃止、事業譲渡などの公告）と、必ず官報が必要な公告（合併公告、吸収分割公告、資本金の額の減少公告などの債権者保護手続き、解散公告）に分かれます」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．定款には公告方法として電子公告を行う旨だけ（及び予備的方法まで）定めれば足ります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．登記アドレスは、登記簿（登記記録）の「公告をする方法」欄に記載されているURLです」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「公告方法を変更した後に迎える決算から対象となりますので、導入した最初の年は当該１期分だけの掲載となります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．まず、公告方法を電子公告に変更登記すると登記簿の「公告をする方法」欄には新しい登記アドレスが登記されます」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「ただし、登記アドレスから決算公告もたどれるため決算公告のアドレスが登記されている必要が無い場合には、公告をする方法の変更登記と併せて貸借対照表にかかる情報の提供を受けるために必要な事項の抹消の登記を申請する必要があります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．現在官報や新聞を公告方法としている会社様が、これから「公告をする方法」を電子公告に変更登記をするのが前提ということであれば、お申込は可能です」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「なお、公告内容の公開を直前まで避けたいときは、公告ファイル(PDF)を公告アドレスに掲載しておき、電子公告ページにリンクを作成しない、という方法もあります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
   - 「公告とは？意味や公告方法の種類、変更手続きを解説 - 起業・開業お役立ち情報 - 弥生株式会社【公式】」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「公告とは？意味や公告方法の種類、変更手続きを解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「会社を設立するときに決める事の1つが、公告の方法です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「一般的には、会社は決めた公告方法を定款で定めているため、定款の作成にあたって、「そもそも公告とは何だろう」「公告方法にはどんな種類があるのだろう」などと戸惑う方もいるかもしれません」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「公告には、官報への掲載などの他に電子公告などの方法もあり、それぞれの公告方法の違いを知っておく必要があります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「本記事では、公告の意味や公告方法の種類の他、定款で公告方法を定める際の記載例を解説します」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「会社設立後に公告方法を変更する場合に必要な手続きも紹介しますので、確認しておきましょう」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「官報公告は官報に特定の事項を掲載し周知させる公告方法」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「電子公告はオンラインで情報を公開する公告方法」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「公告方法の違いを知ったうえで定款に定めよう」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「公告の方法は3種類ある」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「公告には、「官報公告」「新聞公告」「電子公告」という3つの方法があります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「会社は公告方法として、この3つのいずれかを定款で定めることができます」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「公告方法は登記事項であり、登記簿にも記載されます」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「ただ、公告方法は、定款に必ず記載しなければならない絶対的記載事項ではないため、定款で公告方法を定めなくても法的に問題があるわけではありません」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
 - 突き合わせ・推定：
+  - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「制度の要件と自社の運用体制を突き合わせたうえで、内製と外注の切り分けを検討することが実務的だといえるでしょう」（https://lassic.co.jp/media/column/electronic-public-notice/）
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-yarikata/）
@@ -9343,22 +9345,29 @@
   - 「食い違いに気づいたら、どちらが正しいのかを整理してください」（https://kabushiki-kaisha-setsuritsu.com/kessan-kokoku-hoho/）
   - 「Estimated reading time: 9 minutes」（https://www.mofo.com/resources/insights/220504-summary-update-enforcement）
 - 一次情報の探し方：
-  - 「皆さんは非上場の会社の決算公告と聞いて何を思い浮かべますか？」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「には、非上場会社であっても決算を公告する義務が規定されているものの、多くの中小企業で決算公告がおこなわれてないのが実情のようです」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「とはいえ、税務申告をするうえで全ての企業で決算書の作成義務がありますし、株主や取引銀行から計算書類の提出が求められるでしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「１．決算公告」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「上場会社のほとんどは印刷会社の開示支援サービスを利用して、決算短信や有価証券報告書、招集通知などの開示書類を作成しています」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、ここで作成すべきとされている注記表はあくまで計算書類のためのものであり、後述する全文による決算公告における注記とは必要なものが異なります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「１－２．決算公告の方法」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「ただし、決算公告の方法によっては、要旨だけ掲載すればよい場合もあります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、定款に定めが無い場合は官報で掲載する方法とみなされます」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「官報および日刊新聞紙に掲載する方法のメリットは、貸借対照表の要旨（大会社にあたっては、貸借対照表および損益計算書の要旨）だけ掲載すればよく（会社法第440条2項）、公告すべき情報量が電子公告に比べて圧倒的に少なく済む点でしょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「なお、電子公告にあたっては、ホームページのアドレスを登記する必要があります」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「持分会社（合名会社、合資会社、合同会社）については決算公告は不要」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「１－３．要旨による決算公告 - 中小企業 -」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「それでは官報もしくは日刊新聞紙に、要旨のみ掲載する方法を見てみましょう」（https://note.com/isa99999/n/n7aadf977f2e7）
-  - 「「大会社」ではない会社の決算公告は、貸借対照表の要旨のみ掲載でしたね」（https://note.com/isa99999/n/n7aadf977f2e7）
+  - 「Q1-4.電子公告は、官報公告または新聞公告と比較してどのようなメリットがありますか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q1-5.電子公告を採用すれば、官報での公告はすべて不要になるのですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q1-8.決算公告も電子公告調査を受けなければならないのでしょうか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q2-2.電子公告を導入する場合、定款にも登記アドレス(URL)も定める必要はありますか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q2-3.「登記アドレス」や「公告アドレス」とはなんですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q2-4.登記アドレスや公告アドレスは一般的にどのように定めているか教えてください」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q2-5.登記アドレスを自社ホームページ以外に定めることはできますか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q2-6.決算を電子公告（電磁的計算書類の開示を含む）でする際の注意点はなんですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q2-7.公告方法が官報で決算のみ電子公告だった会社が、公告方法全部を電子公告に変更した場合、登記していた決算用のアドレスはどうなりますか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q3-6.公告ファイル(PDF)にパスワードの設定をしてもいいですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q3-7.公告ファイル(PDF)を暗号化してもいいですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q3-8.公告ファイル(PDF)は公告文に影響しない修正でも再提出が必要ですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．会社法第941条には法定公告（会社法第440条の決算公告を除く）を電子公告で行う際には、調査機関に調査を求めなければならない旨が定められています」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「1.登記アドレス（登記簿に記載されているURL）から公告アドレス（公告文面のURL）まで画面の指示に従って、またパスワード等を入力しなくても無料で誰もが閲覧できるか」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．法人が定款等で公告をする方法を「電子公告」としている会社は、法定公告（決算公告を除く）を行う場合、その電子公告が適法に行われているかを第三者である電子公告調査機関の調査を受けなければなりません（会社法第941条）」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
 - 失敗・落とし穴：
+  - 「Q2-6.決算を電子公告（電磁的計算書類の開示を含む）でする際の注意点はなんですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「なお法令により、巡回調査は取得に１回失敗しても３つの異なるプロバイダを切り替えながらシステムによる自動調査と人間による手動調査で計６回アクセスして確認するようになっています」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「ただし、決算公告は他の公告と違い、5年間の掲載が求められていますので注意が必要です」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「この際、管理者パスワードが原因で結合できない場合には管理者パスワードを教えていただく必要がございますので、ご注意ください」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「調査結果通知書作成の際、暗号化を解除するために管理者パスワードを教えていただく必要がございますので、ご注意ください」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「調査終了日にご注意いただき、もしも公告ファイルを掲載しているｗｅｂサーバを自社で管理しているのであれば、調査期間中にメンテナンスが入らないようにサーバ管理者にご相談いただくだけで、中断の可能性はかなり低くなります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「官報公告を利用する際の注意点は、後述する電子公告に比べて費用がかかることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「新聞公告を利用する際の注意点は、他の公告方法に比べて費用が高額になることです」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
@@ -9367,29 +9376,22 @@
   - 「定款の書き方は？記載事項ごとの書き方のポイントや注意点も解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「定款変更にかかる費用は？手続きの流れや注意点を解説」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「また、決算公告以外では調査機関の費用がかかる点に注意が必要です」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
-  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
-  - 「Jira移行の5ステップ｜課題管理のデータを移す進め方と注意点」（https://lassic.co.jp/media/column/electronic-public-notice/）
-  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
-  - 「電子公告の場合は貸借対照表の全文（要旨だけではダメ）を、5年間は掲載する必要があります」（https://yoshimulog.com/koukokuhouhou/）
-  - 「3つの公告方法、それぞれのメリットと注意点」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
-  - 「サイトをリニューアルしてアドレスが変わった場合は、あらためてURLの変更登記が必要になる点に注意してください」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
-  - 「決算公告を電子公告で行う場合、定時株主総会の終結の日後5年を経過する日まで掲載を継続しなければならない（会社法940条1項2号）ため、サイトの移転・閉鎖の際は掲載の継続に十分注意してください」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
 - 実例：
+  - 「Q1-6.電子公告調査結果通知書とはどんなものですか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Q4-3.調査期間が終了したら、何日で調査結果通知書が届きますか？」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「調査終了後に弊社で作成する調査結果通知書は、末尾に公告ファイルを結合する必要があります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．PDFファイルには複数の暗号化がありますが、AES 256bitの暗号化をされてしまうと調査結果通知書が作成できません」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「調査結果通知書作成の際、暗号化を解除するために管理者パスワードを教えていただく必要がございますので、ご注意ください」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．弊社では、調査終了の翌営業日に調査結果通知書を発行し、メール送信と紙面郵送をいたします」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「ただし、すぐに削除される会社様の中には、2/5 24:00 までの調査の場合に「2/5までの調査」という言葉が、お申込人から複数人を介した結果、web担当者には「2/5までの調査＝2/5 0:00には調査が終了＝2/5 の昼間には削除しても良い」と伝わってしまい、調査最終日の日中に削除されてしまうケースがよくあります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「Ａ．調査結果通知書は調査対象法人ごとに作成しますので、法人の数だけ調査が必要になります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「また調査結果通知書は、法人ごと、根拠条項ごとに作成しますので、調査対象の公告ファイルが１つであっても根拠法ごとに調査が必要となります」（https://www.n-koukoku.com/0140%20faq/00%20faq.html）
+  - 「主要企業の官報公告事例と実務への影響を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-yarikata/）
   - 「掲載内容によって料金は異なりますが、例えば決算公告の場合、一般的には7万円程度の費用がかかります」（https://www.yayoi-kk.co.jp/kigyo/oyakudachi/kokoku/）
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/denshi-koukoku-touki/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-yarikata/）
-  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
-  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128?hl=en）
-  - 「会社を設立したとき、定款に「当会社の公告は、官報に掲載してする」と書いた──多くの中小企業がこのパターンで、その後ずっと見直さないまま、というケースがよくあります」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「https://www.example.co.jp/koukoku/」（https://note.com/real_ram9758/n/n015e975a7128）
-  - 「「決算公告だけはホームページで行う」として、この②の登記だけを単独で入れておくケース」（https://office-nl.com/2026/09/18/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A%E3%82%92web%E3%81%A7%E5%AE%8C%E7%B5%90%EF%BC%81%E3%80%8C%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%97%E3%81%91/）
-  - 「・・・しかし、結局、いろいろ検討された結果、官報公告に落ち着きました」（https://tokucyan-siho.hatenablog.com/entry/2021/09/18/111852）
-  - 「さらに、公告期間が満了しても、調査会社は即日に電子公告がされていたことの証明書を出してくれるわけではありませんので、新設合併等の登記自体が効力発生日となっているケースでは、その証明書が発行されるまでの期間を考慮したスケジュールを立てなくてはなりません」（https://shiodome.co.jp/js/blog/507）
-  - 「合同会社であれば決算公告の義務はありませんので、官報公告を会社の公告方法としておくケースが多いのではないでしょうか」（https://shiodome.co.jp/js/blog/507）
-  - 「合同会社でも公告費用が安いから電子公告を選択しているという方がたまにいらっしゃいますが、決算公告義務がないことを考えると、決定公告においては官報公告の方が安くなるケースも少なくありません」（https://shiodome.co.jp/js/blog/507）
-  - 「上場企業は、かつては日本経済新聞に掲載するケースがほとんどでしたが、電子公告が認められるようになってからは、電子公告とするケースがほとんどのようです」（https://llliii.jp/commercial-registration/3511/）
 
 ## 統計の改訂方針（周期の直し・方法の変更・誤りの訂正）と訂正の大きさの判定（Eurostat・ESS の改訂方針の手引き・各国統計局の改訂方針）（statistical revision policy guidelines error correction magnitude routine methodological revisions ESS handbook）
 - 文脈：推定
@@ -10630,11 +10632,11 @@
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ13頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
-- 実例：記載なし（読んだ13頁・検索12回）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
@@ -11339,7 +11341,7 @@
   - 「The guide warns that cases can disappear without notice .」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「Following the Waste Back to Italy: An OSINT Case Study from Croatia」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「AI-Designed Viral Genomes: What the First Functional Phage Case Changes」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）（how to read statistical survey methodology notes before using numbers sampling estimation suppression tax inclusive）
 - 文脈：裏取り
@@ -12116,22 +12118,23 @@
 ## 構造化分析手法（ACH・前提の点検・悪魔の代弁）の効き目を実際の分析の振り返りで測った研究と、満足化（最初に合う説明で止める）を防ぐ手順（RAND・情報分析の研究者）（structured analytic techniques effectiveness evaluation satisficing intelligence analysis RAND）
 - 文脈：手法・偏り
 - 手順・やり方：
-  - 「One primarily qualitative method to evaluate these techniques would be periodic in-depth reviews of intelligence production on a variety of topics to ascertain how frequently structured techniques are used and which ones are most effective.」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「In addition, quantitative research could examine the extent to which the use or nonuse of structured techniques correlates with the quality of analytic output as measured by product evaluation staffs, while controlled experiments could test these methods' contribution to intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「Artner, Stephen, Richard S. Girven, and James B. Bruce,」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「Artner, Stephen, Richard S. Girven, and James B. Bruce, Assessing the Value of Structured Analytic Techniques in the U.S. Intelligence Community. Santa Monica, CA: RAND Corporation, 2016. https://www.rand.org/pubs/research_reports/RR1408.html.」（https://www.rand.org/pubs/research_reports/RR1408.html）
-  - 「Stephen Artner, Richard S. Girven, and James B. Bruce」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「* One promising method of assessing these techniques」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「One primarily qualitative method of evaluating these」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「their use, and the need for additional analytic methodologies.」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「SATs are methods of organizing and stimulating thinking」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「about intelligence problems. These methods aim to make the」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「SATs provide analysts with clear, often step-by-step, guid-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「also provide step-by-step guidance for designing analysis to」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「We interviewed analytic managers and analytic methodologists」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「tional analytic methodologies. We also held an analyst focus」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「IC to reinforce analytic methods that challenge long-standing」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
+  - 「Structured Analytic Techniques are procedures that force analysts to externalise reasoning steps that, in unstructured analysis, remain implicit and therefore unauditable. SATs do three things simultaneously: they」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「ACH cannot manufacture hypotheses the team has not considered — its output is bounded by the hypothesis set at step 1. It is also evidence-quality-blind: low-reliability evidence weighted equally with high-reliability evidence produces noise. Mitigation: gate ACH on a prior source-reliability audit (see」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Source Verification Framework」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Procedure (10–15 assumption step):」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Red Teaming is methodologically demanding: it requires genuine cultural-linguistic fluency in the adversary’s frame. A Red Team staffed with analysts who only know the adversary through Western secondary sources will mirror-image inside the exercise and produce a Red Team report that recapitulates the friendly consensus in adversary costume. See」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Stephen Marrin and others have argued that SATs are ritually performed without changing the underlying judgment, producing the」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「SATs operate over whatever hypotheses make it into step 1; they cannot surface what no one has considered.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Professional Development Framework」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「RAND reviewed 63 finished intelligence products from CIA, DIA, and NIC; only a minority used explicit SATs, but those that did “addressed a broader range of potential outcomes and implications than did other analyses.” The report proposes a multi-method evaluation framework (SAT reviews, structured interviews, controlled experiments) and surveys the limited prior empirical literature.」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
+  - 「Proposed Evaluation Methods」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
+  - 「of analysts, managers, methodologists, consumers, briefers」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
+  - 「Document the methodology used to construct scenarios (in a box or appendix)」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
+  - 「Stephen Marrin — cited on the difficulty of measuring analytic quality」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
+  - 「for what RAND directly claims (their pilot study findings, their literature review, their proposed methodology).」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
 - 突き合わせ・推定：
+  - 「Strategic estimates; long-horizon planning」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
   - 「Availability. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Anchoring. Probability estimates are」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「certainty into a probability estimate, people」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
@@ -12154,22 +12157,23 @@
   - 「3rd%20Edition.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
   - 「Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf」（https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf）
 - 失敗・落とし穴：
+  - 「(1999) and Kahneman-Tversky’s heuristics-and-biases program, is that unstructured expert judgment is systematically biased in identifiable ways (see」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Cognitive Biases in Intelligence Analysis」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「). SATs are procedural countermeasures whose efficacy derives precisely from their structural friction — they slow the analyst down at the moments where bias operates fastest.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「, making suppressed disconfirming evidence visible. It also reframes the analytic question from “what is the most likely hypothesis” to “which hypothesis is least disconfirmed” — a small linguistic shift that interrupts confirmation bias.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「§ Confirmation Bias and」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「LLM-generated alternative hypotheses are sampled from the model’s training distribution, which reflects the dominant analytic consensus on the topic. The LLM is therefore more likely to surface mainstream alternatives than the genuinely contrarian ones a human Red Team would identify. Automating the bias-mitigation step risks」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「Hypothesis-set selection bias.」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Structured-Analytic-Techniques）
+  - 「reduced confirmation bias only among participants who lacked a professional intelligence background」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
+  - 「Expert analysts may already be doing what ACH formalizes; ACH not free debiasing」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
   - 「More comprehensive reviews, along with interviews of analysts, managers, and consumers, could determine how effectively agencies are employing structured techniques and provide lessons learned on best practices and pitfalls of their use in intelligence analysis.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「employing SATs and compile lessons learned on best practices and pitfalls of their use in intelligence」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「the probability of errors caused by numerous cognitive biases」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「tive bias and reducing it. Chief among such biases often seen in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「* confirmation bias—a tendency to search for or interpret」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「In addition to their significant debiasing capabilities, SATs」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「ficult problems and, in the process, help reduce potential biasing」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「larity in part because they specifically address cognitive pitfalls」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「For example, various SATs address mindset bias; “satisficing”」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「most important SATs—reduced confirmation bias only」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「mitigating the cognitive pitfalls they are designed to address,」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「・ What are the most important best practices and pitfalls in」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「・ To what extent do SATs help overcome mindset bias, satis-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「ficing, and other cognitive pitfalls that plague analysis?」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
-  - 「In some cases, an individual might have a bias—current intel-」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
 - 実例：
+  - 「in some cases heightens confidence in preferred hypotheses」（https://mattdot.github.io/sats4llms/sources/rand-rr1408-2016）
   - 「In some cases, however, key assumptions and the logic behind specific techniques were not transparent.」（https://www.rand.org/pubs/research_reports/RR1408.html）
   - 「For example, various SATs address mindset bias; “satisficing”」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
   - 「can be misapplied in individual cases. Proponents of SATs」（https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf）
@@ -12184,11 +12188,13 @@
   - 「might fuctuate. All of these examples」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「Key Assumptions Check: The 2002 DC Sniper Case」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
   - 「a good example of how this technique could have been applied. After the initial furry of」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
-  - 「accurately. In the case of HUMINT , this will」（https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf）
+- 検索結果の抜粋：
+  - 「Assessing the Value of Structured Analytic Techniques in the ...Assessing Structured Analytic Techniques in U.S. Intelligence ...Structured Analytic Techniques (SATs) — by Luiz H. S. BrandãoArtner, Girven & Bruce — Assessing SATs (RAND RR1408, 2016)DTIC AD1024447: Assessing the Value of Structured Analytic ...Structured Analytic Techniques for Intelligence Analysis — Jan 9, 2017 · This report argu」（https://www.rand.org/pubs/research_reports/RR1408.html）
 
 ## 決算公告の貸借対照表の要旨の読み方（当期純利益の付記・表示単位の混在・旧様式の科目・端数・決算日の記載）を書いた専門の媒体（電子決算公告ドットコムMagazine・開示ワイヤー以外の書き手も）（reading Japanese statutory balance sheet summary public notice net income units）
 - 文脈：決算・一次
 - 手順・やり方：
+  - 「会社法440条により株式会社は上場・非上場を問わず必要となり、違反時の罰則や公告方法ごとの費用の違いを経営者向けにわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告はどこで見れる？無料・有料の閲覧方法6選を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -12203,7 +12209,6 @@
   - 「ここからは、実際に貸借対照表の要旨を作成するための具体的な手順を解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「貸借対照表の要旨は、以下の5ステップで作成できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「ステップ1: 自社の会社分類を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ2: 決算書から必須科目の金額を転記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 一次情報の探し方：
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「決算公告の貸借対照表 要旨とは？記載例・書き方・テンプレートを完全解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
@@ -12221,6 +12226,7 @@
   - 「つまり、資本金5億円未満かつ負債200億円未満の中小企業であれば、貸借対照表の「要旨」で決算公告を行うことができます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「合同会社には決算公告の義務がないため、合同会社の経営者は「公告をしない」という選択ができます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 失敗・落とし穴：
+  - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
@@ -12251,7 +12257,7 @@
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
 
 ## 企業向け・事業所向け調査の非回答バイアスの点検と補正（回収率の目安・回答した会社の偏りの向き・重み付けの実務・統計局や研究者の書き手）（nonresponse bias business establishment survey response rate weighting）
 - 文脈：手法・偏り
@@ -13755,69 +13761,69 @@
 ## 名寄せ・照合の正解表を独立の出どころで作る実務（今の結果を下書きにしない・抜き取りの大きさとまとまりの偏り）（entity resolution ground truth independent source benchmark bias evaluation）
 - 文脈：検証
 - 手順・やり方：
-  - 「「この文書からは、人物・組織・場所の3種類を抜き出してください」と先に指定してから抽出させるやり方があります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「作業を始める前、筆者は「人物・勢力・出身・宝貝（パオペイ）あたりの型を先に決めればよい」と考えていました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「図2 事前に挙げた型の候補と、原文での出現回数」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「つまり、型を事前に決めると、原文の分布と合わないものを押し付けることになります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「そこで筆者は、抽出させるときのスキーマには型のフィールドだけを置き、値は自由な文字列で書かせました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「何種類の型が出てくるか自体が、この検証の結果になります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「図6 型の種類と、件数の偏り」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「図2で挙げた型の候補と突き合わせると、3つのことが言えます」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「1つめは、「寶貝」という型が1件も出なかったことです」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「が、型として出てきたことです」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「そこで、表示のためだけに型を閉じた抽出を、別の実験として回しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「魂の行き先は、型を与えても死の手がかりにはなっていません」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「この対をグラフの辺とみなして、繋がっているものを1つの人物にまとめるのが、素朴なやり方です」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「問題の型で分けると、どちらが当てるかが分かれます」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「この3つだけ型を閉じて抽出し直しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
+  - 「How to Evaluate Entity Resolution Systems:An Entity-Centric Framework with Application toInventor Name Disambiguation」（https://arxiv.org/html/2404.05622）
+  - 「How to Evaluate Entity Resolution Systems:」（https://arxiv.org/html/2404.05622）
+  - 「An Entity-Centric Framework with Application to」（https://arxiv.org/html/2404.05622）
+  - 「In this article, we address evaluating the accuracy of entity resolution systems. Traditional evaluation methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding matching pairs, especially those missed by the entity resolution system, is much like looking for a needle in a haystack: in a database of」（https://arxiv.org/html/2404.05622）
+  - 「evaluation framework with the following components.」（https://arxiv.org/html/2404.05622）
+  - 「A methodology for creating a benchmark set of fully-resolved entities through manual data labeling (section」（https://arxiv.org/html/2404.05622）
+  - 「evaluation. That is, we evaluate the end result of an entity resolution system, without considering its specific architecture. This allows our framework to apply to any entity resolution system, as long as it produces a clustering as an output.」（https://arxiv.org/html/2404.05622）
+  - 「represents the elements of the evaluation framework as well as their interdependencies.」（https://arxiv.org/html/2404.05622）
+  - 「. This can lead to inaccurate representation of model performance and erroneous ranking of competing methods. In particular, the naive computation of pairwise precision on benchmark data sets has been shown to provide over-optimistic results」（https://arxiv.org/html/2404.05622）
+  - 「, we introduce the proposed methodology. In section」（https://arxiv.org/html/2404.05622）
+  - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
+  - 「. Most of these data sets provide “ground truth” disambiguation (of various quality) of a specific subset of inventors for a given time period. They are all cluster samples that fit our evaluation framework. However, except for the new inventor benchmark data developed in」（https://arxiv.org/html/2404.05622）
+  - 「. All other linkages are classified as operational, such as linkages that support specific steps in a sample survey, e.g., frame maintenance operations, like removing duplicates or linking different sampling frames in a multi-frame survey. For all the linkages, regardless of their purpose, the accuracy of the linkage decisions is measured with clerical reviews or a statistical model.」（https://arxiv.org/html/2404.05622）
+  - 「We now describe our evaluation framework in detail.」（https://arxiv.org/html/2404.05622）
+  - 「. To evaluate the entity resolution system, we introduce a methodology that samples clusters」（https://arxiv.org/html/2404.05622）
 - 突き合わせ・推定：
-  - 「今回、オントロジーによって、『封神演義』の登場人物同士や勢力の関係性を表現し、読む助けになるかを検証しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「この検証で答えたい問いが「事前にスキーマを決めずに、どこまで機械が見つけられるか」だからです」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「何種類の型が出てくるか自体が、この検証の結果になります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「合計9,375項目のうち、9,186項目（98.0%）が原文の一部として照合できました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「ただし、この書き換えは原文と照合すれば検出できます」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「図2で挙げた型の候補と突き合わせると、3つのことが言えます」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「その引用が原文の部分文字列かどうかを、機械で照合しました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「この照合で、筆者の側の間違いが2つ出ました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「もう1つは、照合を完全一致だけでやっていたために、」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「末尾の句読点を落としてから照合するようにしました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「答えが入っている243件を全部モデルに採り直させたところ、58件（24%）で食い違いました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「主語を前へ詰めた引用になっているため、原文の部分文字列かどうかの照合が通らず、死亡回が4つに減りました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「原文との文字列照合で、この1件は除かれています」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such」（https://arxiv.org/pdf/2404.05622）
+  - 「2. Global Performance Metric Estimates:」（https://arxiv.org/html/2404.05622）
+  - 「To obtain estimates of global performance metrics such as pairwise and b-cubed precision and recall」（https://arxiv.org/html/2404.05622）
+  - 「, we express them as weighted aggregates of cluster-wise error metrics. This helps obtain estimates that are representative of the system’s performance on the entire data set, not just the benchmark (section」（https://arxiv.org/html/2404.05622）
+  - 「, even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice」（https://arxiv.org/html/2404.05622）
+  - 「, we show the estimated numbers of citations to PatentsView in the academic literature over time and by Dewey Decimal subject classification.」（https://arxiv.org/html/2404.05622）
+  - 「Estimated number of citations to PatentsView in academic literature by year.」（https://arxiv.org/html/2404.05622）
+  - 「to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.」（https://arxiv.org/html/2404.05622）
+  - 「At Statistics Canada, accuracy measures are estimated primarily through clerical reviews」（https://arxiv.org/html/2404.05622）
+  - 「. These groups are essentially connected components in the graph where the vertices are the records and the edges are the links. To cut costs, Statistics Canada is also considering model-based estimates」（https://arxiv.org/html/2404.05622）
+  - 「), or estimated for the unknown ground truth clustering」（https://arxiv.org/html/2404.05622）
+  - 「clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.」（https://arxiv.org/html/2404.05622）
+  - 「), which then can be estimated in the same way.」（https://arxiv.org/html/2404.05622）
+  - 「can result in increased accuracy relative to simple random sampling of clusters. In particular, when a cluster-level outcome of interest is correlated with the size of the cluster, the probability proportional to size design offers smaller standard errors in estimates of population quantities」（https://arxiv.org/html/2404.05622）
+  - 「, and will artificially inflate performance metrics estimates. The correct approach is to first identify entities」（https://arxiv.org/html/2404.05622）
+  - 「, and performance estimates can be obtained by restricting the sample to this subset. For example, with pairwise precision, this corresponds to estimating the ratio of the number of pairwise links within clusters in」（https://arxiv.org/html/2404.05622）
 - 失敗・落とし穴：
+  - 「Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased」（https://arxiv.org/html/2404.05622）
+  - 「, even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice」（https://arxiv.org/html/2404.05622）
+  - 「to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.」（https://arxiv.org/html/2404.05622）
+  - 「, we also can use the bias-adjusted estimator and variance estimator described in」（https://arxiv.org/html/2404.05622）
+  - 「) within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package」（https://arxiv.org/html/2404.05622）
+  - 「. We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in」（https://arxiv.org/html/2404.05622）
+  - 「pairwise recall. Note that bias is below」（https://arxiv.org/html/2404.05622）
+  - 「The empirical bias is always smaller than」（https://arxiv.org/html/2404.05622）
+  - 「when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.」（https://arxiv.org/html/2404.05622）
+  - 「pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.」（https://arxiv.org/html/2404.05622）
+  - 「Seeing the non-stars: (Some) sources of bias in past disambiguation」（https://arxiv.org/html/2404.05622）
   - 「この照合で、筆者の側の間違いが2つ出ました」（https://note.com/rosso_blog/n/n9a90aed86fce）
   - 「失敗した6問を見ると、4問が同じ原因です」（https://note.com/rosso_blog/n/n9a90aed86fce）
   - 「14 渡したのに答えず（読み取りの失敗）」（https://note.com/rosso_blog/n/n9a90aed86fce）
   - 「7 渡していない（検索の失敗）」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「不支持になった辺を消してしまうと、抽出に間違いがあったことが画面から分からなくなります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
-  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
-  - 「The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the」（https://arxiv.org/pdf/2404.05622）
-  - 「bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy」（https://arxiv.org/pdf/2404.05622）
-  - 「adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include」（https://arxiv.org/pdf/2404.05622）
-  - 「reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.」（https://arxiv.org/pdf/2404.05622）
-  - 「ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)」（https://arxiv.org/pdf/2404.05622）
-  - 「Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always」（https://arxiv.org/pdf/2404.05622）
-  - 「less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the」（https://arxiv.org/pdf/2404.05622）
-  - 「In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-」（https://arxiv.org/pdf/2404.05622）
 - 実例：
-  - 「レシピを1万件集めて「よく使われる材料」を数えるとき、集計プログラムが玉ねぎ・タマネギ・玉葱を別々に数えてしまえば、結果は実態と合いません」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「スキーマを与えると、抽出結果は必ずその3種類のどれかに収まります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「何種類の型が出てくるか自体が、この検証の結果になります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「原文に根拠のない関係が抽出結果に混ざっても、筆者が読んで気づくことは難しくなります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「3つめは、原文が中国語なので、抽出結果を見ても筆者には正解かどうかの判断がつかないことです」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「抽出した結果を数えると、次のようになりました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「例えば、以下のようにLLMはズルをしました」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「事前にスキーマを渡していたら、この2つは抽出結果に出てきません」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「抽出結果と原文を突き合わせるには、新字体と簡体字を原文の字体に戻す必要があります」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「抽出結果に手を加えていないほうは「抽出したままの主張」と呼びます」（https://note.com/rosso_blog/n/n9a90aed86fce）
-  - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
-  - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
-  - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
-  - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
-  - 「resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/pdf/2404.05622）
+  - 「Entity resolution systems typically employ machine learning and artificial intelligence models to tackle this challenge. The models use contextual information to predict whether or not two records refer to the same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors, employer, and location, in addition to first and last names」（https://arxiv.org/html/2404.05622）
+  - 「Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of」（https://arxiv.org/html/2404.05622）
+  - 「, we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section」（https://arxiv.org/html/2404.05622）
+  - 「We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/html/2404.05622）
+  - 「Example of attributes available for individual inventor mentions. Additional attributes, such as co-inventor information and patent text, are available as well.」（https://arxiv.org/html/2404.05622）
+  - 「. For example, this approach was used to set the record similarity threshold (i.e., how similar two records have to be before they are linked) in the probabilistic linkage between the 2021 census of agriculture and the census of population for the same year」（https://arxiv.org/html/2404.05622）
+  - 「is sampled in any one draw. For example, with probability proportional to size sampling, we have」（https://arxiv.org/html/2404.05622）
+  - 「For example, when sampling clusters with probability proportional to size, we have」（https://arxiv.org/html/2404.05622）
+  - 「clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.」（https://arxiv.org/html/2404.05622）
+  - 「In this case, the probability that a given cluster」（https://arxiv.org/html/2404.05622）
+  - 「. This is the case for PatentsView data, as large clusters tend to be associated with increased chances for errors.」（https://arxiv.org/html/2404.05622）
+  - 「Other sampling designs can be leveraged, in which case the probabilities」（https://arxiv.org/html/2404.05622）
+  - 「should change to match the design. For example, uniform sampling probabilities」（https://arxiv.org/html/2404.05622）
+  - 「can be appropriate when entities, rather than records, are sampled at random. As another example, suppose the disambiguation algorithm provides match probabilities between all pairs of records; that is, we have probabilities」（https://arxiv.org/html/2404.05622）
+  - 「. For example, systematic failure to disambiguate inventor names from a given culture, for instance due to differences in naming conventions, could be considered an unacceptable flaw even if the relative prevalence of such inventors is low. It is therefore necessary to test systems and to investigate errors to help identify such issues」（https://arxiv.org/html/2404.05622）
 - 一次情報の探し方：記載なし（読んだ6頁・検索12回）
 
 ## 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）（statistical series break linking coverage change fixed base index bias practice）

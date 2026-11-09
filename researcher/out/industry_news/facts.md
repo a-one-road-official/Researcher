@@ -4745,6 +4745,8 @@
   - 「個別の認証・表示の判断は、制度運営者や専門家へ確認します」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
   - 「認証制度や法律への適合を判定する図ではなく、特定企業の契約条件や一般削減率を示しません」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
 - 顧客の競合（奪いに来る側）：
+  - 「フォークリフトの市場規模、シェア、動向、2033年までの世界予測（MarketsandMarkets）」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
+  - 「靴底用ポリウレタン原液市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）6.05%の安定成長」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
   - 「今後は価格競争力だけでなく、材料の安定供給、加工適性、性能の再現性を実現できる企業が市場拡大の恩恵を受ける可能性があります」（https://newscast.jp/smart/news/2113196）
   - 「経営者は、低価格競争に陥りやすい汎用接着剤市場だけを追うのではなく、環境情報の透明性や高度な品質保証が求められる建材分野に重点を置き、技術力と顧客との長期的な取引関係を活用した高付加価値事業の構築を目指すべきです」（https://newscast.jp/smart/news/2113196）
   - 「2025年7月のQore発行リリースでは、米国アイオワ州での生産開始を公表し、The LYCRA Companyによる繊維への採用、BASFとの誘導品向け長期供給契約を説明しています」（https://iri-group.jp/knowledge/theme/energy-food/bio-based-chemicals/）
@@ -4758,8 +4760,6 @@
   - 「欧州バイオリファイナリーが示しているのは、」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「次回の第4話では、台湾半導体企業が先行する「水リサイクル完全クローズドループ」を取り上げます」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「しかし台湾TSMCは、工業用水の使用量を90%削減し、水コストを年間200億円削減しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「台湾の半導体工場で見た、使用済み工業用水が99.9%の純度で再生される瞬間」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「次号では、台湾モデルの詳細と、日本の半導体復興に不可欠な水戦略を提示します」（https://note.com/iceman_23/n/n4c99a6f861e4）
 - 自社の競合（商社・代理店・仲介）：
   - 「Commissioned Research :」（https://newscast.jp/smart/news/2113196）
   - 「https://www.reportocean.co.jp/commissioned-research-services」（https://newscast.jp/smart/news/2113196）
@@ -4791,6 +4791,9 @@
   - 「国政府の投資、政策、規制改革の方向」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
   - 「• 政府は、バイオエコノミー戦略（令和６年６月、総合イノベーション戦略推進会議決定）を」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）
 - 経済（規模・価格・為替）：
+  - 「フォークリフトの市場規模、シェア、動向、2033年までの世界予測（MarketsandMarkets）」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
+  - 「靴底用ポリウレタン原液市場規模マップ＋シェア＋フレームワーク、年平均成長率（CAGR）6.05%の安定成長」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
+  - 「「半導体ボンディングテスターの世界市場」市場規模予測・企業動向レポートを発行、年平均6.6%で成長する見込み」（https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1225799.html）
   - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略 | NEWSCAST」（https://newscast.jp/smart/news/2113196）
   - 「リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略」（https://newscast.jp/smart/news/2113196）
   - 「リグニン系樹脂市場は、2025年の5億3,934万米ドルから2035年には8億6,066万米ドルに達すると予測されており、2026年から2035年の予測期間において年平均成長率（CAGR）5.33％で成長すると見込まれています」（https://newscast.jp/smart/news/2113196）
@@ -4803,9 +4806,6 @@
   - 「・第1段階：高付加価値の香料成分を抽出（販売単価：kg 8,000円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「・第2段階：界面活性剤の原料を抽出（販売単価：kg 1,200円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「・第3段階：残渣からバイオプラスチックを製造（販売単価：kg 400円）」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「2020年、原油価格（WTI）は1バレルあたり約40ドルでした」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「しかし2024年現在、価格は80ドル前後で推移しています」（https://note.com/iceman_23/n/n4c99a6f861e4）
-  - 「原油価格が2倍になれば、製造コストは120%増加します」（https://note.com/iceman_23/n/n4c99a6f861e4）
 - 社会（人・担い手）：
   - 「・雇用創出（施設従業員80名+関連雇用200名）」（https://note.com/iceman_23/n/n4c99a6f861e4）
   - 「• バイオファウンドリ拠点の整備（培養・発酵等の生産プロセス開発、人材育成）」（https://www.hkd.meti.go.jp/hokch/20260130/data01.pdf）

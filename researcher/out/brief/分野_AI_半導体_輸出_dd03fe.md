@@ -211,7 +211,7 @@
   - ［記事］2026-11-06「Global AI Accelerator Chip Market Size, Industry Share ... — May 24, 2026 · AI Accelerator Chip Market Overview 2026-2033 The AI Accelerator Chip Market constitutes a specialized segment within the broader semiconductor 」https://www.verifiedmarketreports.com/product/ai-accelerator-chip-market/
   - ［記事］2026-11-06「AI Accelerator Chip Market Size, Share & Forecast Report 2025 ...AI Accelerator Chip Market Share Outlook Highlights USD 74.34 ...AI Accelerator Chips Market Size & Share 2026-2035AI Accelerator Market Size, Share, Trend」https://dataintelo.com/report/ai-accelerator-chip-market
 ### 日本→海外（輸出）｜バーティカルAI（vertical AI）
-- 取得：2026-11-08T05:25・調査5回目・読んだ頁83
+- 取得：2026-11-09T05:47・調査6回目・読んだ頁77
 - 痛み・損（深さの印）（1件）：
   - ［記事］2026-11-06「Key drivers include enterprise AI adoption, the Society 5.0 framework, healthcare digitization, labor shortages pushing automation, expanding domestic LLMs, and government investment in foundation-model research and infr」https://www.imarcgroup.com/japan-generative-ai-market
 - 顧客（金を払う側）（34件）：
@@ -220,12 +220,12 @@
   - ［一次］2026-11-08「ティカル A 1 の開発や実装を担う企業群のスケール化も推進する」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
   - ［一次］2026-11-08「製造領域におけるバーティカル A 1 の社会実装を阻お壁は、工場・設計・調達・品質証蹴の分断と、 品質」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
   - ［一次］2026-11-05「右するフィジカルAIは、工場等の現場データやノウハウ、高い品」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 顧客の顧客（発注元が求めること）（14件）：
+- 顧客の顧客（発注元が求めること）（17件）：
+  - ［記事］2026-11-09「・国産フィジカルＡＩモデル開発やデータ整備等を通じたロボット基盤モデルの開発能力強化や、ロボットOEMの育成、重要部品の設計・製造能力強化に取り組む」https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html
+  - ［記事］2026-11-09「国産フィジカルＡＩモデル開発・データ整備、ロボットOEMの育成、重要部品の設計・製造能力強化、「ＡＩロボティクス実装ロードマップ」、Center of Excellenceの創設」https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html
   - ［記事］2026-11-08「金融は、規制と数値精度の両方が要求される業界であり、バーティカルAIとの相性が特に高い領域です」https://www.ai-souken.com/article/what-is-vertical-ai
   - ［記事］2026-11-08「**業界別事例では、Harvey（法務・公式で60〜90%効率化、1クエリ15〜30分削減、LPHS週8時間削減）・Ambience（医療・Cleveland Clinic・UCSF Health・Houston Methodist・Memorial Hermannなど米国主要病院に導入）・Sierra（CS・Cigna認証時間80%短縮、Singtel解決率70%以上、Fortune 50の40%以上が利用）**などが業界標準として定」https://www.ai-souken.com/article/what-is-vertical-ai
   - ［記事］2026-11-06「令和9年度には中小企業のAX支援やフィジカルAIの開発に大型予算が要求され、政策は「導入しながら磨く」方向へ転換しました」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-  - ［記事］2026-11-05「データセンターの国内配置を進めるにあたっては、グリーン変革（GX）戦略地域制度の活用などが模索されていますが、安定的な電力供給の確保と脱炭素化の両立は容易な道のりではありません」https://newspicks.com/news/17011823/body/
-  - ［記事］2026-11-05「The Cabinet Office's Society 5.0 vision and the AI Strategy 2025 program prioritize generative AI as foundational technology. Public-sector procurement and university research grants are channeling structured demand towa」https://www.imarcgroup.com/japan-generative-ai-market
 - 顧客の競合（奪いに来る側）（23件）：
   - ［記事］2026-11-07「こうした背景から、米国のAIベンダーやスタートアップを中心に、業界特化型のAIを明確に区別するVertical AIという概念が重視されるようになりました」https://www.members.co.jp/column/20260326-vertical-ai
   - ［記事］2026-11-07「米国のAI企業Turing社は、今後のビジネス変革を主導する存在として「Vertical AI Agents」を挙げています」https://www.members.co.jp/column/20260326-vertical-ai
@@ -244,12 +244,12 @@
   - ［記事］2026-11-07「Vertical AIを「特定の業界やユースケースに合わせて設計され、業界特有のデータ・規制・既存ワークフローと密接に統合されたAI」」https://www.members.co.jp/column/20260326-vertical-ai
   - ［記事］2026-11-07「ヘルスケアや金融といった規制産業では、価格戦略や調達、償還（リインバースメント）といった事業上の意思決定を左右する領域には、いまだ十分に踏み込めていない実情があります」https://www.members.co.jp/column/20260326-vertical-ai
   - ［記事］2026-11-06「令和9年度には中小企業のAX支援やフィジカルAIの開発に大型予算が要求され、政策は「導入しながら磨く」方向へ転換しました」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
-- 経済（規模・価格・為替）（28件）：
+- 経済（規模・価格・為替）（31件）：
+  - ［記事］2026-11-09「フィジカルＡＩ（特にＡＩロボット）は、2040年に世界シェア3割超・20兆円の市場獲得を目指し、ロボット基盤モデルの開発能力強化や「ＡＩロボティクス実装ロードマップ」に基づく18分野での導入を進めます」https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html
+  - ［記事］2026-11-09「フィジカル・インテリジェント・システムの中核を担う半導体は、国内生産される半導体売上高を2030年に15兆円、2040年に40兆円とすることを目指し、アナログ・レガシー半導体まで含めて設計開発能力と一体的に強化します」https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html
+  - ［記事］2026-11-09「バーティカルＡＩ（領域特化型ＡＩ）は、2030年に世界で5兆円以上の市場獲得を目指し、ＡＩ基盤整備や政府の率先導入、中小企業や地域のＡＸ促進で初期需要を創出します」https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html
   - ［記事］2026-11-07「市場調査会社Technavioのレポートによれば、Vertical AI市場は2024年から2029年にかけて、年平均約24％（CAGR24.3％）という高い水準で成長すると予測されています」https://www.members.co.jp/column/20260326-vertical-ai
   - ［記事］2026-11-06「2030年に世界のバーティカル市場33兆円のうち、内外で少なくとも5兆円の市場を獲得することが目標です」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
-  - ［記事］2026-11-06「・2024年の国内バーティカルAI市場は約1兆円で、2030年には約3兆円になる見通し」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
-  - ［記事］2026-11-06「国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しで、フィジカルAIに先行して市場が発現しています」https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html
-  - ［記事］2026-11-06「バーティカルAIの導入・開発利用の促進【新規】：内閣府 約1,009億円」https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/
 - 社会（人・担い手）（30件）：
   - ［一次］2026-11-08「導入が進おバーティカルA 1 主導で、 人材、モデル、 アプリ、 データ、 クラウド、 データセンター、 計算資源、」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
   - ［一次］2026-11-08「バーティカルA 1 開発・実装の担い手となる事業者の育成を行う」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
@@ -262,39 +262,39 @@
   - ［一次］2026-11-08「3.2.3. REE AAI ccc ce eeccsseeecessnsecessneecssneeeessnsecessnseessnsecsssnseesssneeesssnecessnteessnnsecssnneessaness25」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
   - ［一次］2026-11-08「産業・行政における重点領域ごとにバーティカル A I (Vertical Al) を開発・実装していくため、 バーテ」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
   - ［一次］2026-11-08「これまでもバーティカルA 1 導入による課題解決、 導入と開発の好循環による市場拡大が期待されてき」https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf
-- SNS・note（Facebook・検索結果の抜粋）（7件）：
-  - ［SNS］2026-11-08「デジタル社会推進本部 AI・web3PTを開催。議題は「バーティカルAI領域... デジタル社会推進本部 AI・web3PTを開催。議題は「バーティカルAI領域別戦略」と「AI政策推進機能の抜本的強化に係る緊急提言」です。 日本の勝ち筋は、海外の汎用AIを追いかけるだけではありません。医療、教育、製造、防災、行政など、日本の現場に蓄積された質の高いデータ、専門知 ...」https://www.facebook.com/hiratakuchan/videos/vertical-ai/4454192671502881/
-  - ［SNS］2026-11-08「カインズ - 2026年7月24日に、建設バーティカルAIサービスを提供する... Aug 19, 2026 · 2026年7月24日に、建設バーティカルAIサービスを提供する株式会社アンドパッドと資本業務提携契約を締結いたしました。 両社は、2016年よりリフォーム領域の施工管理アプリの活用を通じて現場のDXを推進し、施工品質の向上と業務効率化に取り組んできました。...」https://www.facebook.com/cainzfun/posts/2026年7月24日に建設バーティカルaiサービスを提供する株式会社アンドパッドと資本業務提携契約を締結いたしました両社は2016年よりリフォーム領域の施工管理/1532036815630136/
-  - ［SNS］2026-11-08「小野田紀美事務所 - 年4月3日（金）、AI・半導体ワーキンググループ（... Apr 10, 2026 · 年4月3日（金）、AI・半導体ワーキンググループ（第2回）に出席しました。 バーティカルAIを現場で徹底活用することがフィジカルAIの開発にもつながること、そしてこれら2つの技術に関する官民投資ロードマップを最大限活用することで、力強い経済構造への転換を進めていく旨を述べました。」https://www.facebook.com/OnodaKimi.Okayama/posts/年４月３日金ａｉ半導体ワーキンググループ第２回に出席しましたバーティカルａｉを現場で徹底活用することがフィジカルａｉの開発にもつながることそしてこれら２つの技術/1357754859493890/
-  - ［SNS］2026-11-05「バーティカルai領域別戦略 Profiles - Facebook View the profiles of people named バーティカルai領域別戦略. Join Facebook to connect with バーティカルai領域別戦略 and others you may know. Facebook gives people the power to...」https://www.facebook.com/public/バーティカルai領域別戦略/
-  - ［SNS］2026-11-05「ANDPAD（アンドパッド） - 【建設バーティカルAIと現場経験豊富なプロ... 【建設バーティカルAIと現場経験豊富なプロ人材が業務代行を行う「ANDPAD AI-BPOサービス」を提供開始 | 第1弾として、電気工事会社向けに拾い出しから見積までの積算業務に対応した積算AI-BPOサービスを提供開始】...」https://www.facebook.com/andpad/posts/建設バーティカルaiと現場経験豊富なプロ人材が業務代行を行うandpad-ai-bpoサービスを提供開始-第１弾として電気工事会社向けに拾い出しから見積までの積/1739760981489053/
-- SNS・note（X・検索結果の抜粋）（7件）：
-  - ［SNS］2026-11-08「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... ｢バーティカルAI｣関連銘柄を紹介！ ChatGPTなどの｢汎用AI｣は出遅れたが｢業界特化型のバーティカルAI｣では日本独自の価値の創出と“AI主権”の確保が可能！ 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。」https://x.com/zaionline/status/2077963752826392911
-  - ［SNS］2026-11-08「日経クロステック IT on X: "バーティカルAI（Vertical AI） https://... Sep 14, 2026 · 日経BPの技術系デジタルメディア「日経クロステック（xTECH）」のうち、IT系の話題をお届けするアカウントです。日経クロステックに掲載したIT系の記事をつぶやきます ...」https://x.com/nikkeibpITpro/status/2099478398892687518
-  - ［SNS］2026-11-05「#バーティカルAI - Search / X See posts about #バーティカルAI on X. See what people are saying and join the conversation.」https://x.com/hashtag/バーティカルAI
-  - ［SNS］2026-11-05「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。 政府は「AI基本計画」において、「バーティカルAI」を中核に、AIで社会全体を駆動する「AX（AIトランスフォーメーション）」を強力に推進するとしています。」https://x.com/zaionline/status/2077963752826392911
-  - ［SNS］2026-11-05「高市首相、バーティカルAIとフィジカルAIの開発推進を表明 日本政府は人工知能基本計画を改定し、米中主導の汎用AIではなく、製造業、医療、防災など17分野のバーティカルAIと物理世界で動くフィジカルAIを柱に据える。 「日本AX」をスローガンに官民投資を後押しし、人手不足解消や安全保障強化を目指す。」https://x.com/i/trending/2075427445662961989
 - SNS・note（LinkedIn・検索結果の抜粋）（12件）：
   - ［SNS］2026-11-08「専門業務を支えるVertical AI（バーティカルAI）とは？汎用AIだけでは... 🆕【AI】ChatGPTを全社展開したのに成果が出ない？専門業務を支えるVertical AI（バーティカルAI）の必要性 「ChatGPTを全社展開したのに、現場の成果になかなかつながらない」 こうした悩みの背景には、汎用AIの構造的な限界があるのかもしれません。特定の業界や専門業務に深く踏み込む「Vertical ...」https://jp.linkedin.com/posts/members-co--ltd_専門業務を支えるvertical-aiバーティカルaiとは汎用aiだけでは超-activity-7446798891208830976-Mw1E
   - ［SNS］2026-11-08「140 Vertical AI Startups Worth over $120B Are Reshaping the ... Dec 3, 2025 · A new dataset of category-defining companies reveals where AI value is actually accumulating — and why the next decade will belong to founders」https://www.linkedin.com/pulse/140-vertical-ai-startups-worth-over-120b-reshaping-industrial-cohen-grtle/
   - ［SNS］2026-11-08「Clive Mayhew - Chief Executive Officer GOLF.AI Author ... Clive Mayhew, CLIVE.AI is the author of Vertical AI and CEO of GOLF.AI, helping build world leading Vertical AI platforms across industries: changing the game. A 」https://au.linkedin.com/in/clivemay
   - ［SNS］2026-11-08「Understanding Horizontal and Vertical AI: What's the ... Jul 23, 2025 · Whether you’re building an AI-powered product or considering one for your organisation, understanding this horizontal-vertical distinction helps you」https://www.linkedin.com/pulse/understanding-horizontal-vertical-ai-whats-difference-thilakaratne-jf84e
   - ［SNS］2026-11-08「Vertical AI: Why Industry-Specific AI Solutions Are Winning Jun 25, 2026 · Learn why Vertical AI is outperforming generic AI with industry-specific solutions that improve workflows, compliance, decision-making, and busin」https://www.linkedin.com/pulse/vertical-ai-why-industry-specific-solutions-winning-ypqmc/
-- 検索結果の抜粋（17件）：
-  - ［記事］2026-11-08「Vertical AI（バーティカルAIエージェント）がもたらす可能性と事例か... — Jan 22, 2026 · バーティカルAIエージェントは、特定の業界や業務領域に特化して最適化されたAIシステムです。汎用的なAIとは異なり、実際の業務フローや業務ルールと深く連携し、現場で求められる高い精度と再現性を実現します。 バーティカルAIエージェントは、特定の業界や業務領域に特化して最適化さ ...」https://www.brainpad.co.jp/doors/contents/what-is-vertical-ai-agent/
-  - ［記事］2026-11-08「「バーティカルAI領域別戦略」から読み解く、2030年に向けた産業構造... — Jul 22, 2026 · 政府の人工知能戦略本部は2026年7月10日、「バーティカルAI領域別戦略 中間とりまとめ」を公表しました。 少子高齢化に伴う深刻な人手不足や、海外プラットフォームへの過度な依存によるデジタル赤字の拡大が懸念される中、各現場の暗黙知をデータ化して再現する「バーティカルAI」の重要 ...」https://newspicks.com/news/17139933/body/
-  - ［記事］2026-11-08「バーティカルAIとは？汎用AIとの違いや業界別事例、料金モデルを徹底... — Jul 13, 2026 · バーティカルAI（Vertical AI）は業界・業務に特化したAIで、2026年に日本政府（高市AI基本計画19分野）と海外ユニコーン（Sierra $15B超・Harvey $11B）の両輪で急加速しています。」https://www.ai-souken.com/article/what-is-vertical-ai
-  - ［記事］2026-11-08「AI基本計画2026改定案はどうなった？確定版のバーティカルAI・AI主権 ... — Jun 29, 2026 · 以下では、改定前の計画との違い、確定版で前面に出たバーティカルAI・AI主権の意味、中小企業への実務的な影響を整理します。 政府は2026年7月14日、人工知能基本計画の第Ⅱ期計画を閣議決定した。」https://tech-ai.hateblo.jp/entry/2026/06/29/180000
-  - ［記事］2026-11-08「バーティカルAIとは？ホリゾンタルAIとの違い・政府19領域と向く業務... — Jul 14, 2026 · バーティカルAIは業界のデータ・規制・業務システムを前提に作る業種特化AIです。 ホリゾンタルAIとの違い、2026年7月の政府領域別戦略の19領域、米国の支出35億ドルの内訳、向く業務の5条件と内製・外部サービス・共同実装の選び方を一次情報で整理します。」https://www.issoh.co.jp/column/details/13980/
-- SNS・note（note・検索結果の抜粋）（5件）：
+- SNS・note（X・検索結果の抜粋）（7件）：
+  - ［SNS］2026-11-08「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... ｢バーティカルAI｣関連銘柄を紹介！ ChatGPTなどの｢汎用AI｣は出遅れたが｢業界特化型のバーティカルAI｣では日本独自の価値の創出と“AI主権”の確保が可能！ 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。」https://x.com/zaionline/status/2077963752826392911
+  - ［SNS］2026-11-08「日経クロステック IT on X: "バーティカルAI（Vertical AI） https://... Sep 14, 2026 · 日経BPの技術系デジタルメディア「日経クロステック（xTECH）」のうち、IT系の話題をお届けするアカウントです。日経クロステックに掲載したIT系の記事をつぶやきます ...」https://x.com/nikkeibpITpro/status/2099478398892687518
+  - ［SNS］2026-11-05「#バーティカルAI - Search / X See posts about #バーティカルAI on X. See what people are saying and join the conversation.」https://x.com/hashtag/バーティカルAI
+  - ［SNS］2026-11-05「ザイ・オンライン on X: "｢#バーティカルAI｣関連銘柄を紹介！ ChatG... 「バーティカルAI」関連銘柄について、アナリストの村瀬智一さんが解説。 政府は「AI基本計画」において、「バーティカルAI」を中核に、AIで社会全体を駆動する「AX（AIトランスフォーメーション）」を強力に推進するとしています。」https://x.com/zaionline/status/2077963752826392911
+  - ［SNS］2026-11-05「高市首相、バーティカルAIとフィジカルAIの開発推進を表明 日本政府は人工知能基本計画を改定し、米中主導の汎用AIではなく、製造業、医療、防災など17分野のバーティカルAIと物理世界で動くフィジカルAIを柱に据える。 「日本AX」をスローガンに官民投資を後押しし、人手不足解消や安全保障強化を目指す。」https://x.com/i/trending/2075427445662961989
+- 検索結果の抜粋（24件）：
+  - ［一次］2026-11-09「社会実装から見るバーティカルAIの可能性 — こうした中、日本政府は、2026 年 7 月に改定・閣議決定した「人工知能基本計画」において、日本の勝ち筋の追求に向けた重点分野の1つとしてバーティカルAIを挙げ、その開発や活用を重点的に推進する方針を示している1。」https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf
+  - ［記事］2026-11-09「AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを... — Aug 13, 2026 · NISTも2026年、AIエージェントの相互運用性とセキュリティを対象とした標準化イニシアティブを開始しました。 日本政府の第Ⅱ期人工知能基本計画でも、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していることを前提に、Vertical ...」https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743
+  - ［記事］2026-11-09「Sector-Specific Vertical AI Strategies — Jul 15, 2026 · This document is an interim compilation of 19 sector-specific strategies for Vertical AI, presented at the 5th Artificial Intelligence Strategy Headquarters meeting」https://digital2ai.substack.com/p/sector-specific-vertical-ai-strategies
+  - ［記事］2026-11-09「Vertical AI市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで — Mar 26, 2026 · Vertical AI市場は、複雑な業務上の課題に対処し、企業環境全体での意思決定を改善できる業界特化型AIソリューションへの需要の高まりにより、力強い成長を遂げています。」https://www.gii.co.jp/report/grvi2017718-vertical-ai-market-size-share-trends-analysis.html
+  - ［記事］2026-11-09「Vertical AI Market Size, Share & Growth Report 2033 — Which industry vertical held the largest market share of the global vertical AI market? The banking, financial services, and insurance (BFSI) segment accounted for th」https://www.kingsresearch.com/report/global-vertical-ai-market-3174
+- SNS・note（note・検索結果の抜粋）（9件）：
+  - ［SNS］2026-11-09「「バーティカルAI」って何？ ― 医療AIは国策になった（2分で読める生... Jul 29, 2026 · 骨太に並んだもう一つのキーワード「バーティカルAI（領域特化型AI）」を、放射線科医×AIエンジニアの視点で掘り下げます。 （※2026年7月時点の情報です。 ） 「骨太の方針」に、聞き慣れない言葉が載った。 バーティカルAI ―― 領域特化型AI。」https://note.com/41machida_ai/n/n3d6165ee94e7
+  - ［SNS］2026-11-09「バーティカルAIとは?汎用AIとの違いと選び方｜MIN Aug 26, 2026 · 大手の情報企業が、汎用AIを借りる側から自前で持つ側に回った。 この動きに名前を付けると「バーティカルAI (業界特化AI)」になります。 特定の業界・特定の業務だけを深く扱うAIのことです。 本記事の情報は2026年8月時点の調査に基づきます。」https://note.com/interesting_news/n/n13681b6ce5f6
+  - ［SNS］2026-11-09「バーティカルAI（業務特化型スモールモデル）——汎用AIの限界を超える... Mar 7, 2026 · まとめ バーティカルAI（業務特化型スモールモデル）は、汎用AIの時代の次のステップです。 軽量で業務領域に最適化されたこのアプローチは、企業の実務ニーズにより深く応えられる可能性を持っています。」https://note.com/foodock6/n/ne6e1fb20c9b9
+  - ［SNS］2026-11-09「バーティカルAIとは？業界特化AIが中小企業の業務改善に役立つ理由 バーティカルAIとは、特定の業界や業務に特化したAIのことです。 一般的なチャットAIのように幅広い質問に答えるのではなく、製造業、建設業、医療福祉、金融、自治体業務など、特定分野の知識や業務フローに合わせて活用する点に特徴があります。」https://note.com/chic_rail2301/n/n879ef2f137f4
   - ［SNS］2026-11-08「【解説】政府、「バーティカルAI」推進｜Yoshi_it Jul 12, 2026 · 1. 政府による「バーティカルAI」推進の全容 第Ⅱ期人工知能基本計画の正式決定 日本政府は2026年7月10日、首相官邸で全閣僚が参加する人工知能戦略本部の会合を開催し、AIの利活用促進と安全性確保に向けた新たな基本計画の改定案を決定しました。この席で高市早苗首相は、領域別に戦略を ...」https://note.com/natty_toucan386/n/n71569e37eb2b
-  - ［SNS］2026-11-08「バーティカルAIとは?汎用AIとの違いと選び方｜MIN Aug 26, 2026 · セクション2 バーティカルAIとは何か バーティカル (vertical)は「垂直」、つまり特定の業界を縦に深く掘るという意味です。 美容室の予約、建設現場の工程管理、医療の記録、士業の書類作成。 そうした狭い範囲に照準を合わせたAIを指します。」https://note.com/interesting_news/n/n13681b6ce5f6
-  - ［SNS］2026-11-08「バーティカルAIの本質：数式（理論）とAIの融合が拓く次世代の業界特... Sep 25, 2026 · バーティカルAIとは何か？ AIモデルは「数式」なのか、「AI」なのか 最近、内閣府が推進する「バーティカルAI（Vertical AI）」が注目されています。 金融、半導体、造船、製造業、医療など、各業界に特化したAIのことですが、ここでよく誤解されるのが、 AIモデルとは数式なのか？ それとも ...」https://note.com/144292/n/n509d3da7924b
-  - ［SNS］2026-11-08「「バーティカルAI」という言葉が今後トレンドになるのでは？ Nov 5, 2025 · バーティカルAI まさにこれがものすごく重要なのではないか？と思うことが最近多いです。 生成AIの登場、そしてChatGPT 4.0以降に、AIが世の中に広まるスピードが一気に早まったような気がしています。そして、皆さんのAIへの興味関心度合いが高まり、AIの研修事業を営む企業が増え、AIを業務 ...」https://note.com/potentialight/n/nbee91beb0163
-  - ［SNS］2026-11-08「片山良平＠Eldipa代表、paiza創業者｜note HR特化のバーティカルAIエージェントを社会実装する株式会社Eldipa代表。ITエンジニア100万人登録のpaiza（パイザ）の創業者＆現Executive Advisor。 生成AI、経営についての記事を書いています。 https://eldipa.co.jp/」https://note.com/rk611
-- SNS・note（note・本文）（35件）：
-  - ［SNS］2026-11-08「1. 政府による「バーティカルAI」推進の全容」https://note.com/natty_toucan386/n/n71569e37eb2b
-  - ［SNS］2026-11-08「日本政府は2026年7月10日、首相官邸で全閣僚が参加する人工知能戦略本部の会合を開催し、AIの利活用促進と安全性確保に向けた新たな基本計画の改定案を決定しました。この席で高市早苗首相は、領域別に戦略を策定した上で官民による集中投資を実施することを表明しました。今回の改定案は、従来の汎用的なAI研究開発支援から一歩踏み込み、日本が国際競争力を発揮できる「バーティカルAI（領域特化型AI）」を戦略の重点に位置づけたことが最大の特徴です。」https://note.com/natty_toucan386/n/n71569e37eb2b
-  - ［SNS］2026-11-08「具体的には、製造、医療、農業、金融、行政といった19の重点支援領域を設定し、それぞれの領域でAX（AIトランスフォーメーション）を推進するロードマップが示されました。政府は、AIが単なる業務支援ツールから、意思決定や実行を自律的に担う主体へと進化している現状を踏まえ、制度や政策をAI前提で再構築することを目指しています。以下の図を参照してください。」https://note.com/natty_toucan386/n/n71569e37eb2b
-  - ［SNS］2026-11-08「政府がバーティカルAIに注力する背景には、経済安全保障上の強い危機感があります。現在、クラウドや基盤モデルの多くは海外企業による寡占状態にあり、過度な海外依存はデータの海外流出やデジタル赤字の拡大に直結するリスクを孕んでいます。日本独自の現場データを扱うバーティカルAIを国内で開発・運用する能力を維持することは、戦略的自律性と不可欠性を確保し、開かれた「AI主権」を確立するために不可欠なステップとされています。」https://note.com/natty_toucan386/n/n71569e37eb2b
-  - ［SNS］2026-11-08「バーティカルAIの国内市場規模は、2030年には約3兆円に達すると予測されており、官民の限られたリソースを集中的に投下することで、この成長市場での主導権を握る構えです。政府調達や制度改革を通じて初期需要を積極的に創出し、民間投資を誘発するエコシステムを構築することで、日本を世界有数のバーティカルAIの中核拠点へと成長させる戦略を描いています。」https://note.com/natty_toucan386/n/n71569e37eb2b
+- SNS・note（note・本文）（54件）：
+  - ［SNS］2026-11-09「「バーティカルAI」って何？ ― 医療AIは国策になった（2分で読める生成AIのいま Vol.72）」https://note.com/41machida_ai/n/n3d6165ee94e7
+  - ［SNS］2026-11-09「今回はVol.67「骨太の方針2026とAX」の続編にあたる時事回です。骨太に並んだもう一つのキーワード「バーティカルAI（領域特化型AI）」を、放射線科医×AIエンジニアの視点で掘り下げます。」https://note.com/41machida_ai/n/n3d6165ee94e7
+  - ［SNS］2026-11-09「「骨太の方針」に、聞き慣れない言葉が載った。バーティカルAI ―― 領域特化型AI。ChatGPTとは何が違うのか。そして医療AIは、まさにその代表格だった。」https://note.com/41machida_ai/n/n3d6165ee94e7
+  - ［SNS］2026-11-09「今回も医療田さんと機械屋さんの会話でどうぞ。」https://note.com/41machida_ai/n/n3d6165ee94e7
+  - ［SNS］2026-11-09「今回はまず、ちょっと前提の話から入らせてください。」https://note.com/41machida_ai/n/n3d6165ee94e7
+- SNS・note（Facebook・検索結果の抜粋）（8件）：
+  - ［SNS］2026-11-09「小野田紀美事務所 - 年4月3日（金）、AI・半導体ワーキンググループ（... Apr 10, 2026 · バーティカルAIを現場で徹底活用することがフィジカルAIの開発にもつながること、そしてこれら2つの技術に関する官民投資ロードマップを最大限活用することで、力強い経済構造への転換を進めていく旨を述べました。」https://www.facebook.com/OnodaKimi.Okayama/posts/年４月３日金ａｉ半導体ワーキンググループ第２回に出席しましたバーティカルａｉを現場で徹底活用することがフィジカルａｉの開発にもつながることそしてこれら２つの技術/1357754859493890/
+  - ［SNS］2026-11-08「デジタル社会推進本部 AI・web3PTを開催。議題は「バーティカルAI領域... デジタル社会推進本部 AI・web3PTを開催。議題は「バーティカルAI領域別戦略」と「AI政策推進機能の抜本的強化に係る緊急提言」です。 日本の勝ち筋は、海外の汎用AIを追いかけるだけではありません。医療、教育、製造、防災、行政など、日本の現場に蓄積された質の高いデータ、専門知 ...」https://www.facebook.com/hiratakuchan/videos/vertical-ai/4454192671502881/
+  - ［SNS］2026-11-08「カインズ - 2026年7月24日に、建設バーティカルAIサービスを提供する... Aug 19, 2026 · 2026年7月24日に、建設バーティカルAIサービスを提供する株式会社アンドパッドと資本業務提携契約を締結いたしました。 両社は、2016年よりリフォーム領域の施工管理アプリの活用を通じて現場のDXを推進し、施工品質の向上と業務効率化に取り組んできました。...」https://www.facebook.com/cainzfun/posts/2026年7月24日に建設バーティカルaiサービスを提供する株式会社アンドパッドと資本業務提携契約を締結いたしました両社は2016年よりリフォーム領域の施工管理/1532036815630136/
+  - ［SNS］2026-11-08「小野田紀美事務所 - 年4月3日（金）、AI・半導体ワーキンググループ（... Apr 10, 2026 · 年4月3日（金）、AI・半導体ワーキンググループ（第2回）に出席しました。 バーティカルAIを現場で徹底活用することがフィジカルAIの開発にもつながること、そしてこれら2つの技術に関する官民投資ロードマップを最大限活用することで、力強い経済構造への転換を進めていく旨を述べました。」https://www.facebook.com/OnodaKimi.Okayama/posts/年４月３日金ａｉ半導体ワーキンググループ第２回に出席しましたバーティカルａｉを現場で徹底活用することがフィジカルａｉの開発にもつながることそしてこれら２つの技術/1357754859493890/
+  - ［SNS］2026-11-05「バーティカルai領域別戦略 Profiles - Facebook View the profiles of people named バーティカルai領域別戦略. Join Facebook to connect with バーティカルai領域別戦略 and others you may know. Facebook gives people the power to...」https://www.facebook.com/public/バーティカルai領域別戦略/

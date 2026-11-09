@@ -445,7 +445,7 @@
   - ［SNS］2026-11-07「Hadid Subki – IAEA Technical Lead, Small Modular Reactor (SMR ...Darryl Dormuth - Manager, Small Modular Reactor (SMR ...Steve Livingstone, PhD, P.Eng - Senior Engineer, Nuclear ...Eetu Ahonen - Small modular reactors (S」https://at.linkedin.com/in/hadid-subki-b0295814
   - ［SNS］2026-11-06「Small Modular Reactors (SMRs): What They Are, How They Stay ... Aug 22, 2025 · Executive summary Small modular reactors (SMRs) are factory-fabricated nuclear plants designed to be deployed in 10–300 MWe modules. Their sm」https://www.linkedin.com/pulse/small-modular-reactors-smrs-what-how-stay-safe-mean-ahmed-ms-gsp-fiale
 ### 業界ニュース（毎日）｜バイオ由来化学品（bio-based chemicals）
-- 取得：2026-11-08T05:18・調査5回目・読んだ頁41
+- 取得：2026-11-09T05:46・調査6回目・読んだ頁41
 - 痛み・損（深さの印）：未完（まだ取れていない・掘る対象）
 - 顧客（金を払う側）（42件）：
   - ［一次］2026-11-06「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調査 （仕様書1） 3」https://www.env.go.jp/content/000322560.pdf
@@ -491,5 +491,5 @@
   - ［一次］2026-11-06「I. バイオプラスチック及び再生材等の研究開発、製造動向、導入状況に関する調」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「I – ① バイオプラスチック及び再生材等の研究開発、製造動向の調査」https://www.env.go.jp/content/000322560.pdf
   - ［一次］2026-11-06「6) Sabic, “Sabic Certified Renewable Polyolefins” (2015), www.iscc-system.org/wp-content/uploads/2017/04/Kaptijn_Sabic_ISCC_Sustainability_Conference_040215.pdf」https://www.env.go.jp/content/000322560.pdf
-- 検索結果の抜粋：未完（まだ取れていない・掘る対象）
 - SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- 検索結果の抜粋：未完（まだ取れていない・掘る対象）

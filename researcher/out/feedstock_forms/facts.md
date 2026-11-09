@@ -2206,18 +2206,90 @@
 
 ## シート積層・箔（LOM・UAM超音波積層）（sheet lamination ultrasonic additive manufacturing foil feedstock）
 - 文脈：シート・箔
-- 市場規模：記載なし（読んだ37頁・検索21回）
-- 成長率：記載なし（読んだ37頁・検索21回）
-- 価格：記載なし（読んだ37頁・検索21回）
-- 主要企業：記載なし（読んだ37頁・検索21回）
-- 安全・規制・保管：記載なし（読んだ37頁・検索21回）
-- 品質・証明：記載なし（読んだ37頁・検索21回）
-- 装置縛り・オープン材料：記載なし（読んだ37頁・検索21回）
-- 売り方・商流：記載なし（読んだ37頁・検索21回）
-- 技術支援：記載なし（読んだ37頁・検索21回）
-- コモディティ化：記載なし（読んだ37頁・検索21回）
-- 繰り返し性：記載なし（読んだ37頁・検索21回）
-- 日本：記載なし（読んだ37頁・検索21回）
+- 市場規模：
+  - 「独自調査で判明、三菱UFJニコス・みずほで1000億円超のプロジェクト」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「1位は「高水圧で壁厚30cmのトンネル崩落、湧水対策が裏目に出た可能性も」2週連続」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「市場調査会社MarketsandMarkets（M&M）によると、3Dプリンタ生産と積層造形アウトプットの価値は2017年に35億ドルに成長しました」（https://ja.mfgrobots.com/mfg/3dprinting/1007041673.html）
+- 価格：
+  - 「価格：14995USD」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vI8X_XBrLo3wBi2KFh9u0n9hE56Z3EI1FLgLXBG2NavmCHbUiQs）
+  - 「先に述べたように、ファブリソニック社が販売する最小のマシンは約20万円」（https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam）
+  - 「価格：14995USD」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKrNfyjko_5lOnfMCoyoK_qV5_ccue-2dxjaYI7v6WRuunPUor7）
+  - 「価格：14995USD」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIB06x2aR7Sm-RcXa_xuveA41dYilRMoY0X1kkIWBe9CmXqHTV5）
+  - 「【500万円未満】おすすめの3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円未満】おすすめの3Dプリンター_TOP」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円未満】精度重視の3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円未満】造形方式別3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円未満】造形サイズ別3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円以上】おすすめの3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円以上】おすすめの3Dプリンター_TOP」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円以上】精度重視の3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円以上】造形方式別3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「【500万円以上】造形サイズ別3Dプリンター」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「3Dプリンターの価格帯について」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+- 主要企業：
+  - 「業務用3Dプリンター＆メーカー一覧」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「業務用3Dプリンター＆メーカー一覧_TOP」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「3Dプリンターの世界シェア」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「ある大手自動車メーカーでは、新モデルのデザイン開発におけるリードタイムの長さが長年の課題でした」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+- 安全・規制・保管：
+  - 「シートの未使用部分、切断や仕上げの工数、材料の保管も費用に入ります」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+- 品質・証明：
+  - 「シートを幾重にも積み重ねた後に輪郭をカットして造形していくことから、中空構造の造形に向いておらず、また小さい部品の製造およびロット数が少ない場合、材料ロスが多くなることが懸念されます」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「マンション修繕談合に独禁法違反認定、有力企業含む42社／国内初の大型木造商業ビル「渋谷マルイ」27年夏開業／「建築に強い建設会社」」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+- 装置縛り・オープン材料：
+  - 「このフェーズでは、専用のモデリングソフトウェアを使用して、製造中の部品の3DCADモデルを分析します」（https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam）
+  - 「こちらは材料に専用PVCシートを使用し、」（https://kictec3d.com/archives/1665）
+  - 「ローカルLLMに最適な専用機 Mac miniかAMD搭載PCか」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「iPhone 18 Pro分解、「中身は別物」 半導体チップの冷却優先に」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+- 売り方・商流：
+  - 「アディティブ・マニュファクチュアリングのOEMがコストを削減する方法トップ5」（https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam）
+  - 「競争の激しいこの世界で、アディティブマニュファクチャリング（AM）のOEMは、他のメーカーと同様に、競合他社との製品の差別化というプレッシャーに直面しています」（https://blog.spatial.com/ja/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2-uam）
+- 技術支援：
+  - 「また、他のサポート材が不要な造形法のように中空の形状に対応することはできず、造形できる形状に制限があるため、使用する際には注意が必要です」（https://news.sharelab.jp/study/am-shl/）
+  - 「材料押出のサポート材除去ほど面倒ではありませんが、サポート部が多いとその分が材料ロスにつながってしまいます」（https://news.sharelab.jp/study/am-shl/）
+  - 「粉末焼結方式は、粉末材料をレーザーなどで焼き固めながら積層する方式で、未焼結粉末がサポート材の役割を果たすため、内部空洞や複雑形状の造形に対応しやすい点があります」（https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html）
+  - 「業務用3Dプリンターにおける水溶性サポート材の活用」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「水溶性サポート材を採用しており、複雑な内部構造でもサポート除去が簡単」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「粉末焼結方式（SLS）を採用しており、サポート材を使わずに内部構造を含む複雑形状を一括造形」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「サポート材除去、表面研磨」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「洗浄、二次硬化、サポート材除去」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「造形物の周囲の余剰部分が支持体の役割を果たすため、複雑なサポート構造が不要」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「サポート材が不要、または除去が容易なのはなぜ？」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「3Dプリンティングにおける後処理で、最も手間のかかる作業の一つが「サポート材」の除去です」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「なぜなら、造形されなかった材料の余剰部分が、そのまま造形物を支える堅牢な土台、つまりサポート材の役割を自然と果たしてくれるからです」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「後処理は、この不要な部分をブロック状にごっそりと取り除く「除塊（じょかい）」と呼ばれる作業が中心となり、細かい柱状のサポート材を一つずつニッパーで除去していくような煩雑さはありません」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「メリットとして「サポート材の除去が容易」と述べましたが、これには注意が必要です」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+  - 「「容易」というのは、あくまでFDM方式などの細かいサポート材除去と比較した場合の話」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+- コモディティ化：
+  - 「そのため、汎用的な試作や治具製作では、材料押出方式や光造形方式、粉末焼結方式などが選ばれるケースもあります」（https://www.industrial-3d-printer.com/basic-knowledge/sheet-lamination.html）
+  - 「おそらくですが、光造形やFDM方式３Dプリンタの低価格化が」（https://kictec3d.com/archives/1665）
+  - 「紙などの汎用的な材料が使用でき、材料費を劇的に削減」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+- 繰り返し性：
+  - 「代表形状について材料使用量と完成までの時間を見積もり、他方式と比べると判断できます」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「設計者が求める強度や剛性といった要件を入力するだけで、AIが異方性を完全に織り込み、材料の使用量を最小限に抑えながら最適な積層方向と内部構造を自動で生成してくれるようになるのです」（https://mt-ump.co.jp/am-technology-sheet-lamination-method/）
+- 日本：
+  - 「JAM-5200EBM[日本電子株式会社]」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「LAMDAシリーズ［日本電産マシンツール］」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「ミュンヘン工科大学が選んだ日本の造形技術、複雑流路で未硬化粉末を残さず」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「日本流、フィジカルAIのつくり方」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「奇瑞が27年に日本参入検討、オモダ4のHEVか 競合はヤリスクロス」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「決算調査で判明、日本の大規模ITプロジェクトの真実」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「業務プロセスと業務フローを混同する日本企業、DXから逃げ続けて末期症状に」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「政府が国内の情報漏洩事例を分析、「ブラックオクトーバー」後の対策を提示」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「マンション修繕談合に独禁法違反認定、有力企業含む42社／国内初の大型木造商業ビル「渋谷マルイ」27年夏開業／「建築に強い建設会社」」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+- 検索結果の抜粋：
+  - 「シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vI8X_XBrLo3wBi2KFh9u0n9hE56Z3EI1FLgLXBG2NavmCHbUiQs）
+  - 「シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKrNfyjko_5lOnfMCoyoK_qV5_ccue-2dxjaYI7v6WRuunPUor7）
+  - 「シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIB06x2aR7Sm-RcXa_xuveA41dYilRMoY0X1kkIWBe9CmXqHTV5）
+  - 「その7． シート積層 法 - 業務用 3Dプリンターとは — その7． シート積層 法 - 業務用 3Dプリンターとは recmbus-3dprint.com https://www.recmbus-3dprint.com > sheet-laminate」（https://www.recmbus-3dprint.com/method/sheet-laminate.html）
+  - 「異種金属を扱える3Dプリンター、 超音波 接合の シート積層 ... — 異種金属を扱える3Dプリンター、 超音波 接合の シート積層 ... 日経クロステック https://xtech.nikkei.com > RAPID + TCT 2019」（https://xtech.nikkei.com/atcl/nxt/event/18/00063/00001/）
+  - 「シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vILqsMXu6k-a3UL3aWGZDAQLjXhKDqWiX_YPp_Mi_wNaoUl19Qs）
+  - 「シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vIBg3PVLJqRWAJTjVxhX3WLngHxkg_s0T6Q3jkknEeW2y7cyDTg）
+  - 「シート積層 法3Dプリンターの原理と仕組み - i-MAKER — シート積層 法3Dプリンターの原理と仕組み - i-MAKER アイ・メーカー https://i-maker.jp > Home > ニュース」（https://i-maker.jp/blog/lom-3d-printing-10398.html?srsltid=AYCX9vKheY8_IoEJm6I4h2Vq81s7juz_rV2PxwO3T23UHiUAGSH65gZl）
+- 成長率：記載なし（読んだ45頁・検索21回）
 
 ## 連続繊維（テープ・トウ・AFP・連続繊維フィラメント）（continuous fiber 3D printing tow tape material market）
 - 文脈：テープ・トウ

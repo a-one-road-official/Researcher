@@ -1,0 +1,801 @@
+{
+ "name": "Airtech Europe Sarl",
+ "aliases": [
+  "Dahltram",
+  "Airtech Advanced Materials",
+  "エアテック"
+ ],
+ "context": "強化ペレット",
+ "researched_at": "2026-11-09T05:39:55.491052+00:00",
+ "official_url": "https://www.airtech.lu",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "規模・親会社": [
+   {
+    "quote": "Airtech Advanced Materials Group,",
+    "url": "https://www.airtech.lu/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech Nonwovens Makes INDEX™ 2026 Debut Following Integration into Airtech Advanced Materials Group",
+    "url": "https://www.airtech.lu/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech Advanced Materials Group and Additive Engineering Solutions Partner to Grow Large Format Additive Manufacturing Applications",
+    "url": "https://www.airtech.lu/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Unveils Game-Changing Partnership with CEAD",
+    "url": "https://www.airtech.lu/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Celebrates 50th Anniversary with a New Location in India",
+    "url": "https://www.airtech.lu/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Celebrates 50th Anniversary",
+    "url": "https://www.airtech.lu/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech Advanced Materials Group,",
+    "url": "https://airtech.lu/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Nonwovens Makes INDEX™ 2026 Debut Following Integration into Airtech Advanced Materials Group",
+    "url": "https://airtech.lu/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group and Additive Engineering Solutions Partner to Grow Large Format Additive Manufacturing Applications",
+    "url": "https://airtech.lu/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Unveils Game-Changing Partnership with CEAD",
+    "url": "https://airtech.lu/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Celebrates 50th Anniversary with a New Location in India",
+    "url": "https://airtech.lu/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Celebrates 50th Anniversary",
+    "url": "https://airtech.lu/",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation Week Marketplace is part of the Informa Markets Division of Informa PLC",
+    "url": "https://marketplace.aviationweek.com/suppliers/airtech-europe-sarl/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group は世界一のプリプレグ/オートクレーブ、樹脂注入とウェットレイアップの真空バック及び複合金型材料（適用する最高温度が799°F（426℃）に達する）のメーカーであり、 Airtech Asia はその支社であります",
+    "url": "https://airtech.asia/ja/airtech",
+    "pass": 3
+   },
+   {
+    "quote": "エアテック・アジア（Airtech Asia Ltd.）は世界最大のプリプレグ/オートクレーブ、樹脂注入、ウェットレイアッププロセス用の真空バッグと複合金型の製造商エアテック・アドバンス・マテリアルグループ(Airtech Advanced Materials Group)の支社であり、最高製造温度は799 °F(426 °C)に達します",
+    "url": "https://airtech.asia/ja/airtech",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Nonwovens Makes INDEX™ 2026 Debut Following Integration into Airtech Advanced Materials Group",
+    "url": "https://www.airtechintl.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group and Additive Engineering Solutions Partner to Grow Large Format Additive Manufacturing Applications",
+    "url": "https://www.airtechintl.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Unveils Game-Changing Partnership with CEAD",
+    "url": "https://www.airtechintl.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Celebrates 50th Anniversary with a New Location in India",
+    "url": "https://www.airtechintl.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group and Evergreen Additive Partner to Expand Large Format Additive Manufacturing for Maritime Applications",
+    "url": "https://airtech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Nonwovens Makes INDEX™ 2026 Debut Following Integration into Airtech Advanced Materials Group",
+    "url": "https://airtech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group and Additive Engineering Solutions Partner to Grow Large Format Additive Manufacturing Applications",
+    "url": "https://airtech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Unveils Game-Changing Partnership with CEAD",
+    "url": "https://airtech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Celebrates 50th Anniversary with a New Location in India",
+    "url": "https://airtech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CHADDERTON, UK – November 01, 2022: Airtech Advanced Materials Group, the lar",
+    "url": "https://airtech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group,",
+    "url": "https://airtech.asia/en/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "History - Airtech Advanced Materials Group",
+    "url": "https://airtech.com/airtech-history",
+    "pass": 3
+   },
+   {
+    "quote": ". Additional facilities, equipment, and staff with over 15 years of large scale additive experience have been added to the global team to support this effort.",
+    "url": "https://airtech.com/airtech-history",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group",
+    "url": "https://airtech.com/airtech-history",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Composite Vacuum Bagging Supplies | Manufacturer - Airtech — Composite Vacuum Bagging Supplies | Manufacturer - Airtech Airtech Europe SARL https://airtech.lu",
+    "url": "https://airtech.lu/",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Europe Sarl , Luxembourg | LinkedIn — Airtech Europe Sarl , Luxembourg | LinkedIn LinkedIn Luxembourg https://lu.linkedin.com > company > a...",
+    "url": "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Europe Sarl - Aviation Week Marketplace — Airtech Europe Sarl - Aviation Week Marketplace Aviation Week Marketplace https://marketplace.aviationweek.com > ...",
+    "url": "https://marketplace.aviationweek.com/company/airtech-europe-sarl/",
+    "pass": 3
+   },
+   {
+    "quote": "About Airtech — About Airtech Airtech Advanced Materials Group UK https://airtech-amg.co.uk > airtech",
+    "url": "https://airtech-amg.co.uk/airtech",
+    "pass": 3
+   },
+   {
+    "quote": "エアテック について - Airtech Asia — エアテック について - Airtech Asia Airtech Asia https://airtech.asia > airtech",
+    "url": "https://airtech.asia/ja/airtech",
+    "pass": 3
+   },
+   {
+    "quote": "Product - Airtech Advanced Materials Group — Product - Airtech Advanced Materials Group Airtech https://airtech.com > products",
+    "url": "https://airtech.com/products",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us & Support - Airtech Europe — Contact Us & Support - Airtech Europe Airtech Europe SARL https://airtech.lu > contact-us",
+    "url": "https://airtech.lu/en/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group | LinkedIn — Airtech Advanced Materials Group | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/airtech-advanced-materials-group",
+    "pass": 3
+   },
+   {
+    "quote": "History - Airtech Advanced Materials Group — History - Airtech Advanced Materials Group Airtech https://airtech.com > airtech-history",
+    "url": "https://airtech.com/airtech-history",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group Revenue and Competitors — Airtech Advanced Materials Group Revenue and Competitors Growjo https://growjo.com > company > Airt...",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group - Overview, News & Similar ... — Airtech Advanced Materials Group - Overview, News & Similar ... ZoomInfo https://www.zoominfo.com > airtech-...",
+    "url": "https://www.zoominfo.com/c/airtech-advanced-materials-group/1118334451",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Airtech Europe | Contact Us & Support",
+    "url": "https://airtech.lu/en/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us | Airtech Asia",
+    "url": "https://airtech.asia/en/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you for your interest and feel free to contact us at any time.",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Airtech Advanced Materials Group (@AirtechOfficial) / X Airtech Advanced Materials Group (@AirtechOfficial) / X X https://x.com > AirtechOfficial",
+    "url": "https://x.com/AirtechOfficial",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Airtech Europe Sarl , Luxembourg | LinkedIn Airtech Europe Sarl , Luxembourg | LinkedIn LinkedIn Luxembourg https://lu.linkedin.com > company > a...",
+    "url": "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Advanced Materials Group | LinkedIn Airtech Advanced Materials Group | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/airtech-advanced-materials-group",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Europe Sarl , Luxembourg | LinkedIn Airtech Europe Sarl , Luxembourg | LinkedIn LinkedIn https://jp.linkedin.com > airtech-europe-sarl-luxembourg",
+    "url": "https://jp.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "pass": 3
+   },
+   {
+    "quote": "Airtech Europe Sarl , Luxembourg's Post - LinkedIn Airtech Europe Sarl , Luxembourg's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > ai...",
+    "url": "https://www.linkedin.com/posts/airtech-europe-sarl-luxembourg_airtech-advancedmanufacturingmadrid2026-activity-7520851555181297664-Olz0",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.airtech.lu/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.airtech.lu/sites/default/files/images/mini_worldmap.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://airtech.lu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://marketplace.aviationweek.com/suppliers/airtech-europe-sarl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech-amg.co.uk/airtech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ntkinternational.com/business/material/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://namikiyakuhin.co.jp/makerlist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cancerresearchuk.org/about-cancer/childrens-cancer/brain-tumours/types",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-study-comparing-types-of-ketogenic-diet-in-people-with-glioblastoma-keating",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.asia/ja/airtech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtechintl.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtech.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtech-shop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.lu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtech3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech3d.com/print-surfaces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.lu/en/contact-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.airtechintl.com/ko/airtech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.asia/en/contact-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.lu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airtech3d.com/links",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/airtech-advanced-materials-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://marketplace.aviationweek.com/suppliers/airtech-europe-sarl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alamo.co.uk/en/home.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alamo.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alamo.com/en/deeplink.html?v=2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.alamo.com/en/car-rental.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://airtech.com/airtech-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.peelply.com/airtech-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AirtechOfficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/airtech-advanced-materials-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/airtech-europe-sarl-luxembourg_airtech-advancedmanufacturingmadrid2026-activity-7520851555181297664-Olz0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Airtech Europe Sarl 代理店",
+   "results": [
+    "https://airtech.lu/",
+    "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "https://marketplace.aviationweek.com/company/airtech-europe-sarl/",
+    "https://airtech-amg.co.uk/airtech",
+    "https://www.airtechintl.com/ja/contact-us",
+    "https://events.luxinnovation.lu/e/luxembourg-defence-technology-and-innovation-day/partner/7b64f368-66c4-f011-8195-0022487f0371/airtech-europe-",
+    "https://www.airtecheu.com/en/company.html",
+    "https://lu.kompass.com/c/airtech-europe-s-ar-l/lu0400566/",
+    "https://www.metstrade.com/products-and-services/airtech-europe-s-a-r-l",
+    "https://www.panerabread.com/en-us/cafe/locations/fl/jacksonville/1440-hendricks-ave"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Airtech Europe Sarl 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "http://www.ntkinternational.com/business/material/",
+    "https://namikiyakuhin.co.jp/makerlist/",
+    "https://www.cancerresearchuk.org/about-cancer/childrens-cancer/brain-tumours/types",
+    "https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-study-comparing-types-of-ketogenic-diet-in-people-with-glioblastoma-keating",
+    "https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/brain-other-cns-and-intracranial-tumours/incidence",
+    "https://www.cancerresearchuk.org/about-cancer/brain-tumours/types/glioblastoma",
+    "https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-trial-giving-radiotherapy-again-for-glioblastoma-brioche",
+    "https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-trial-looking-at-sativex-for-people-with-glioblastoma-aristocrat",
+    "https://www.cancerresearchuk.org/about-cancer/brain-tumours/treatment/radiotherapy/side-effects",
+    "https://www.cancerresearchuk.org/about-cancer/brain-tumours/treatment/if-your-tumour-comes-back"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Airtech Europe Sarl 日本 販売",
+   "results": [
+    "https://airtech.asia/ja/airtech",
+    "https://www.airtechintl.com/ja",
+    "https://www.airtech.co.jp/",
+    "https://www.airtech-shop.com/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8096",
+    "https://airtech-corp.com/",
+    "http://www.ntkinternational.com/business/material/",
+    "https://www.youtube.com/watch?v=fhAqq6XjZJs",
+    "https://axel.as-1.co.jp/asone/maker/MH00052/",
+    "https://support.microsoft.com/zh-cn/servicing/os/windows/2022/10/kb5020276-netjoin-domain-join-hardening-changes"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Airtech Europe Sarl フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://airtech.lu/",
+    "https://www.airtech3d.com/",
+    "https://airtech.com/",
+    "https://airtech3d.com/print-surfaces",
+    "https://airtech.com/products",
+    "https://airtech.asia/ja/product-spotlight",
+    "https://ja.aliexpress.com/item/1005007552383848.html",
+    "https://www.packmarket.jp/products/detail?product_class_id=11662",
+    "http://www.ntkinternational.com/business/material/",
+    "https://www.biblegateway.com/passage/?search=Psalm+105&version=NKJV"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Airtech Europe Sarl Japan distributor",
+   "results": [
+    "https://airtech.lu/en/contact-us",
+    "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "https://www.airtechintl.com/ko/airtech",
+    "https://airtech.asia/en/contact-us",
+    "https://marketplace.aviationweek.com/company/airtech-europe-sarl/",
+    "https://www.airtecheu.com/en/company/airtech-europe.html",
+    "https://airtech3d.com/airtech-distribution-nexx-technologies-0",
+    "https://airtech.lu/",
+    "https://airtech-corp.com/en/company/",
+    "https://www.thebump.com/a/how-to-pack-your-diaper-bag"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 33
+  },
+  {
+   "query": "Airtech Europe Sarl distributor Japan OR Japanese partner",
+   "results": [
+    "https://airtech.lu/",
+    "https://www.airtech3d.com/links",
+    "https://www.linkedin.com/company/airtech-advanced-materials-group",
+    "https://marketplace.aviationweek.com/company/airtech-europe-sarl/",
+    "https://airtech.asia/en/contact-us",
+    "https://www.airtechintl.com/ko/airtech",
+    "https://airtech.com/",
+    "https://events.luxinnovation.lu/e/luxembourg-defence-technology-and-innovation-day/partner/7b64f368-66c4-f011-8195-0022487f0371/airtech-europe-",
+    "https://www.airtecheu.com/en/company.html",
+    "https://en.wikipedia.org/wiki/Reddit"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
+  },
+  {
+   "query": "site:amazon.co.jp Airtech Europe Sarl",
+   "results": [
+    "https://www.alamo.co.uk/en/home.html",
+    "https://www.alamo.com/",
+    "https://www.alamo.com/en/deeplink.html?v=2",
+    "https://www.alamo.com/en/car-rental.html",
+    "https://www.expedia.com/Alamo-Rent-A-Car-Car-Rental.cAL.Travel-Guide-CarRentalCompany",
+    "https://www.alamo.ca/en/reserve",
+    "https://tour.alamo.com/en_US/car-rental/locations.html",
+    "https://www.alamo.com/en/car-rental/store-finder/store-finder-results.html",
+    "https://www.alamo.com/en/car-rental-locations.html",
+    "https://www.alamo.com/en/rental-cars/us/cars.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:monotaro.com Airtech Europe Sarl",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Airtech Europe Sarl employees revenue parent company",
+   "results": [
+    "https://airtech.com/airtech-history",
+    "https://growjo.com/company/Airtech_Advanced_Materials_Group",
+    "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "https://www.peelply.com/airtech-history",
+    "https://www.zoominfo.com/c/airtech-advanced-materials-group/1118334451",
+    "https://airtech3d.com/president-ceo-message",
+    "https://idexcorp.com/news/news-item/idex-corporation-completes-acquisition-of-airtech",
+    "https://pitchbook.com/profiles/company/225303-58",
+    "https://rocketreach.co/airtech-advanced-materials-group-profile_b5d1f1e2f42e4cd5",
+    "https://en.m.wikipedia.org/wiki/Stadium"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "site:note.com Airtech Europe Sarl",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Airtech Europe Sarl",
+   "results": [
+    "https://x.com/AirtechOfficial"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:linkedin.com Airtech Europe Sarl",
+   "results": [
+    "https://lu.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "https://www.linkedin.com/company/airtech-advanced-materials-group",
+    "https://jp.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "https://www.linkedin.com/posts/airtech-europe-sarl-luxembourg_airtech-advancedmanufacturingmadrid2026-activity-7520851555181297664-Olz0",
+    "https://uk.linkedin.com/company/airtech-advanced-materials-uk",
+    "https://www.linkedin.com/posts/airtech-europe-sarl-luxembourg_turkcomposites-additivemanufacturing-3dprinting-activity-7518600167470645248-GxoE",
+    "https://lu.linkedin.com/in/christiaens-carl-12723118",
+    "https://lu.linkedin.com/in/tomas-hadrava-a7329b111",
+    "https://lu.linkedin.com/in/silviaradumaxim",
+    "https://lu.linkedin.com/jobs/view/additive-manufacturing-application-engineer-at-airtech-europe-sarl-luxembourg-4074542041"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:facebook.com Airtech Europe Sarl",
+   "results": [
+    "https://www.facebook.com/p/Airtech-Europe-GmbH-100067743035819/",
+    "https://www.facebook.com/groups/fitiniluxembourg/posts/8322821741138032/",
+    "https://www.facebook.com/24ora/photos/a.10150313036755001/10163181818180001/?type=3&eid=ARDrZlyMdyIvx-UfQDXFDvS4ubkfm7ntszwbW6hO8W9s47Vm89T5SOMkCCk85_nGHYXRuXcZwDydQtVw&locale=ko_KR",
+    "https://www.facebook.com/progresofficiel/videos/video-officielle-footrun-dimanche-7-avril-2019/244017546402502/",
+    "https://www.facebook.com/groups/2907192355988194/posts/33670542995893060/",
+    "https://www.facebook.com/SelfaniStore/posts/%D8%A8%D9%88%D8%B1%D8%AF-%D9%87%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-gree-ac-9000-btu-for-19month-or-42912000-btu-for-22month-or-520180/2211698188916757/",
+    "https://www.facebook.com/romlux.org/posts/2086488714696652/",
+    "https://www.facebook.com/Moovijob/posts/d%C3%A9couvrez-les-10-offres-demploi-de-la-semaine-%C3%A0-pourvoir-au-luxembourg-assistant/1358566076303021/",
+    "https://www.facebook.com/romlux.org/",
+    "https://www.facebook.com/formulastudentromania/posts/here-are-the-teams-competing-in-formula-student-romania-2025-we-wish-them-the-be/741810805349772/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Airtech Europe Sarl note 社長",
+   "results": [
+    "https://airtech.lu/en/message-airtech-europe-general-manager",
+    "https://airtech3d.com/president-ceo-message",
+    "https://peelply.com/airtech-history",
+    "https://www.airtechintl.com/ja/airtech-history",
+    "https://airtech.com/about-airtech-video",
+    "https://lu.linkedin.com/in/tomas-hadrava-a7329b111",
+    "https://www.airtechpcb.com/AboutUs.html",
+    "https://www.nevamarine.com/uploads/1/3/4/3/134340628/airtech_general_composite_brochure.pdf",
+    "https://airtech-amg.co.uk/airtech-advanced-materials-group-celebrates-45-years-composites-industry",
+    "https://blog.theinterviewguys.com/resume-formats-that-will-dominate-2026/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Airtech Europe Sarl X 投稿",
+   "results": [
+    "https://airtech.lu/",
+    "https://jp.linkedin.com/company/airtech-europe-sarl-luxembourg",
+    "https://airtech-amg.co.uk/airtech",
+    "https://events.luxinnovation.lu/e/luxembourg-defence-technology-and-innovation-day/partner/7b64f368-66c4-f011-8195-0022487f0371/airtech-europe-",
+    "https://www.airtecheu.com/en/company/airtech-europe.html",
+    "https://airtech.asia/zh-hans/Airtech-Advanced-Materials-UK-Newrelease",
+    "https://www.nevamarine.com/uploads/1/3/4/3/134340628/airtech_general_composite_brochure.pdf",
+    "https://airtech.lu/en/message-airtech-europe-general-manager",
+    "https://airtechintl.com/airdraw2-and-whrightlon7400",
+    "https://www.energy.gov/articles/free-solar-panels-dont-get-burned"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）"
+ }
+}

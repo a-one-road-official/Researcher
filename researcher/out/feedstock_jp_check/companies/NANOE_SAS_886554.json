@@ -1,0 +1,612 @@
+{
+ "name": "NANOE SAS",
+ "aliases": [
+  "Zetamix",
+  "ナノエ"
+ ],
+ "context": "セラミック・金属充填フィラメント",
+ "researched_at": "2026-11-09T05:40:43.185748+00:00",
+ "official_url": "https://www.nanoe.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "直送・ネット販売": [
+   {
+    "quote": "The following « Terms and Conditions of Sale » describes the rules bounded to Zetamix.com (the “online shop”) and condition of purchase of goods provided by Nanoe on the online website.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "“Online shop”: is Nanoe’s online shop zetamix.com where goods are presented and sold to the buyer.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "“Order” means the sales contract concluded between NANOE and the buyer of the NANOE online shop.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "“Product sheet” means all the information provided by NANOE on the online shop about goods.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "Goods presented by Nanoe to the buyer are available or under a delay indicated by Nanoe. However, all the goods providing by Nanoe are not necessary providing on the online shop.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "NANOE will send an e-mail to the buyer in order to confirm the order thanks to the email address the consumer would have communicated on the online shop. The sale transaction is concluded by the sending of this confirmation e-mail.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "The invoice price is the one indicated on the order confirmation. The cost of product shall be made in cash via a method of payment present on the online shop (credit card or Paypal).",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "NANOE will send an e-mail to the buyer in order to confirm the order thanks to the email address the consumer would have communicated on the online shop. The sale transaction is concluded by the sending of this confirmation e-mail.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "The customer can contact customer service by email at contact@zetamix.fr.",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Terms and Conditions of Sale - Zetamix — Terms and Conditions of Sale - Zetamix Zetamix https://zetamix.fr > tcs",
+    "url": "https://zetamix.fr/en/tcs/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・セラミック 3Dプリンティングシステム Zetamix — 金属・セラミック 3Dプリンティングシステム Zetamix 日本バイナリー http://nihonbinary.co.jp > Products > Zetamix",
+    "url": "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zetamix Ceramic 3D Printing by Nanoe — Zetamix Ceramic 3D Printing by Nanoe nanoe.com https://nanoe.com > ...",
+    "url": "https://nanoe.com/en/zetamix-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Zetamix, easy made ceramic and metal 3D printing — Zetamix, easy made ceramic and metal 3D printing Zetamix https://zetamix.fr > ...",
+    "url": "https://zetamix.fr/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Customized object in record time thanks to 3D printing - Zetamix — Customized object in record time thanks to 3D printing - Zetamix Zetamix https://zetamix.fr > Accueil > Use cases",
+    "url": "https://zetamix.fr/en/use-case/zetamix-extrusion-die-customized-object-in-record-time-thanks-to-3d-printing/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "金属・セラミック 3Dプリンティングシステム Zetamix｜日本バイナリー株式会社",
+    "url": "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Find the nearest Zetamix distributor to you",
+    "url": "https://zetamix.fr/en/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Safran Reosc, a subsidiary of Safran Electronics & Defense and part of its Space Division, is a world leader in high-performance optomechanical systems. With a focus on designing and manufacturing premium optical components for Astronomy, Space, Defense, and the laser industry, Safran Reosc has established a reputation for delivering cutting-edge solutions for over 85 years.",
+    "url": "https://zetamix.fr/en/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nanoe.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nanoe.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/nanoe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fr.linkedin.com/company/nanoe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zetamix.fr/en/tcs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kh.snows.org/p/L50731108/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://search.rakuten.co.jp/search/mall/LSIlogic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goo-net.com/usedcar/brand-SUBARU/pref-01/city-011029/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://search.rakuten.co.jp/search/mall/sas+2tb/100026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/nanoe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://panasonic.jp/nanoe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/zetamix-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-asa%E6%A8%B9%E8%84%82%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vKaNazIOgBEtD5AZFd-Jc3dMexM5uIRl_6667jru1vdkc2itW7j",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/nanoe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fr.linkedin.com/company/nanoe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zetamix.fr/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1N0QWkHPJG0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upnano.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HUTT-C7-%E8%87%AA%E5%8B%95%E6%B0%B4%E5%99%B4%E5%87%BA%E4%BB%98%E3%81%8D%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/dp/B0F2DMLD8K",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/lexus-ux/s?k=lexus+ux",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/nanoe/s?k=nanoe",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-Internationally-Compatible-EH-NA9F-RP/dp/B099NG67LM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/g/05259251/?srsltid=AYCX9vL4yisvm-KVIXRAma9NPS1mFSDIZ1vyr0IGwb4R0PQ6rTx4wZ6s",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-%E5%AE%9F%E9%A8%93%E7%94%A8%20%E3%83%88%E3%83%B3%E3%82%B0/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&fpu=1&srsltid=AYCX9vJ8MrNvLqE82ZrN-1_Qd_rf8vcILPpSfwwq3iHAhrlniAnTRcp9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-%E6%B6%88%E6%AF%92%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%20%E7%B6%BF/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&fpu=0&srsltid=AYCX9vJV86Qww1-tbibgsr82ztd0olgWyIHVLFkDw9uo4XxC9VMh6x-R",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/attr_f14763-A2/q-%E7%B2%BE%E8%A3%BD%E6%B0%B4%202l/?fpu=0&srsltid=AYCX9vKFjMNatXBKBEokuPNopz6ZQ_j5Qlsy3pkK6tXNSt-ltSAMkFyP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/nanoe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growjo.com/company/Nano-C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.com/en/nanoe/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NANOE SAS 代理店",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://nanoe.com/en/nanoe/",
+    "https://fr.linkedin.com/company/nanoe",
+    "https://zetamix.fr/en/tcs/",
+    "https://3dceram.com/",
+    "https://additiveplus.com/brands/zetamix-by-nanoe/?srsltid=AYCX9vLrpMOMtqSFvHgIB_nIPbPS5kMlbHnnEz5mPhE137ar3ficyQ03",
+    "https://www.multistation.com/voy_content/uploads/2020/11/nanoe-zetamix-brochure-en-anglais.pdf",
+    "https://fsicti.com/ja/locations/distributors/",
+    "https://ocsial.com/ja/partners/",
+    "https://nanoe.com/en/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "NANOE SAS 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://kh.snows.org/p/L50731108/",
+    "https://search.rakuten.co.jp/search/mall/LSIlogic/",
+    "https://www.goo-net.com/usedcar/brand-SUBARU/pref-01/city-011029/",
+    "https://search.rakuten.co.jp/search/mall/sas+2tb/100026/",
+    "https://search.rakuten.co.jp/search/mall/hsp%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E6%AC%A1%E4%BA%9C%E6%B0%B4%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://search.rakuten.co.jp/search/mall/seagate+%E3%83%8F%E3%83%BC%E3%83%89%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF+3tb+hdd+3%EF%BC%8E5%E3%82%A4%E3%83%B3%E3%83%81/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://noguchi-naohiko.co.jp/shop"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "NANOE SAS 日本 販売",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://nanoe.com/en/nanoe/",
+    "https://panasonic.jp/nanoe/",
+    "http://nihonbinary.co.jp/Products/3DModeling/Zetamix.html",
+    "https://search.kakaku.com/nanoe/",
+    "https://www.nitto.com/jp/ja/products/chatbot/resin.jsp?id=236",
+    "https://nain-jp.com/Product/Detail/view/pid/145881?srsltid=AYCX9vLyKcBKI1fIicnt-S48jXHskHCZhU5-qQbCe53wwsYhDqa2Xquv",
+    "https://search.rakuten.co.jp/search/mall/%E5%8A%A0%E6%B9%BF+%E5%99%A8+%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC/",
+    "https://www.marketresearchintellect.com/ja/companies/nanoe-sas/",
+    "http://medical.nihonkohden.co.jp/products/physio/sas/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "NANOE SAS フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://nanoe.com/en/zetamix-3d-printing/",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "https://www.monotaro.com/s/q-asa%E6%A8%B9%E8%84%82%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vKaNazIOgBEtD5AZFd-Jc3dMexM5uIRl_6667jru1vdkc2itW7j",
+    "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "https://search.rakuten.co.jp/search/mall/asa+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.amazon.co.jp/JAREES-PETG%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E9%87%91%E5%B1%9E%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%B6%88%E8%80%97%E5%93%81-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E5%AF%B8%E6%B3%95%E7%B2%BE%E5%BA%A6-0-03mm%E3%80%81%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC/dp/B0CYBS8TCD",
+    "https://b2b.nanoegg.co.jp/products/27",
+    "https://axel.as-1.co.jp/asone/d/68-0953-11/",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "NANOE SAS Japan distributor",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://nanoe.com/en/nanoe/",
+    "https://fr.linkedin.com/company/nanoe",
+    "https://zetamix.fr/en/",
+    "https://nano3dprint.com/partnerships/distributor/?srsltid=AYCX9vIkeslAu6FFFVnSLpAazgkZE4PQmkyTmX4JMl9M9L00lgZ0sf-p",
+    "https://www.upnano.com/distributors/",
+    "https://news.panasonic.com/global/press/en240802-2",
+    "https://www.kimmon.com/english/distributors.html",
+    "https://quspin.com/international-distributors/",
+    "https://www.sas.com/ja_jp/partners/find-a-partner.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "NANOE SAS distributor Japan OR Japanese partner",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.youtube.com/watch?v=1N0QWkHPJG0",
+    "https://www.upnano.com/distributors/",
+    "https://zetamix.fr/en/use-case/zetamix-extrusion-die-customized-object-in-record-time-thanks-to-3d-printing/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://nanoe.com/en/nanoe/",
+    "https://news.panasonic.com/global/press/en220609-2",
+    "https://nsc.jp.nipponsanso.com/en/our_technology/news/?itemid=13&dispmid=974",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp NANOE SAS",
+   "results": [
+    "https://www.amazon.co.jp/HUTT-C7-%E8%87%AA%E5%8B%95%E6%B0%B4%E5%99%B4%E5%87%BA%E4%BB%98%E3%81%8D%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/dp/B0F2DMLD8K",
+    "https://www.amazon.co.jp/lexus-ux/s?k=lexus+ux",
+    "https://www.amazon.co.jp/nanoe/s?k=nanoe",
+    "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-Internationally-Compatible-EH-NA9F-RP/dp/B099NG67LM",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://pay.amazon.co.jp/signin",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://music.amazon.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:monotaro.com NANOE SAS",
+   "results": [
+    "https://www.monotaro.com/g/05259251/?srsltid=AYCX9vL4yisvm-KVIXRAma9NPS1mFSDIZ1vyr0IGwb4R0PQ6rTx4wZ6s",
+    "https://www.monotaro.com/s/q-%E5%AE%9F%E9%A8%93%E7%94%A8%20%E3%83%88%E3%83%B3%E3%82%B0/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&fpu=1&srsltid=AYCX9vJ8MrNvLqE82ZrN-1_Qd_rf8vcILPpSfwwq3iHAhrlniAnTRcp9",
+    "https://www.monotaro.com/s/q-%E6%B6%88%E6%AF%92%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%20%E7%B6%BF/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&fpu=0&srsltid=AYCX9vJV86Qww1-tbibgsr82ztd0olgWyIHVLFkDw9uo4XxC9VMh6x-R",
+    "https://www.monotaro.com/s/attr_f14763-A2/q-%E7%B2%BE%E8%A3%BD%E6%B0%B4%202l/?fpu=0&srsltid=AYCX9vKFjMNatXBKBEokuPNopz6ZQ_j5Qlsy3pkK6tXNSt-ltSAMkFyP",
+    "https://www.monotaro.com/s/q-%E6%AE%BA%E8%8F%8C%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&srsltid=AYCX9vJAaJRdkDcW14ksR-y_rlRgRtWnqNPhLwslLQ3rMGD2oPA8Xb5F",
+    "https://www.monotaro.com/s/q-%E3%83%90%E3%82%A4%E3%82%AF%E7%94%A8%E9%83%A8%E5%93%81%E3%83%90%E3%83%83%E3%83%86%E3%83%AA/?srsltid=AYCX9vIXJC_N3lLq3xqX-CbIg7ptpPln0R2X5RCkt5hCZ87IzjNmCmPt",
+    "https://www.monotaro.com/s/q-%E7%9F%B3%E9%B9%B8%20%E3%83%88%E3%83%AC%E3%83%BC/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&srsltid=AYCX9vJzM4ufcQ08BuQvKoTjYivfxVFBElqM3-mqDit3uzZKqWWvHzqN",
+    "https://www.monotaro.com/s/q-%E3%83%9A%E3%83%AB%E3%82%AA%E3%82%AD%E3%82%BD%E4%BA%8C%E7%A1%AB%E9%85%B8%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&fpu=1&srsltid=AYCX9vIaMKtJ5njVQDYYiNQ71YHW4x2GxeI7qo8-B-MnQ5VpaB1gVKuh",
+    "https://www.monotaro.com/s/q-%E3%82%BD%E3%83%BC%E3%83%80%20%E3%82%B0%E3%83%A9%E3%82%B9/?attr_f14718=RoHS10%E7%89%A9%E8%B3%AA%E5%AF%BE%E5%BF%9C&fpu=1&srsltid=AYCX9vL63AT4Mie8ODQGEJhAUhpu0KICqr-EwpaWJOxyw6UHZatsW1xg",
+    "https://www.monotaro.com/p/7366/7825/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "NANOE SAS employees revenue parent company",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://in.linkedin.com/company/nanoe",
+    "https://growjo.com/company/Nano-C",
+    "https://nanoe.com/en/nanoe/",
+    "https://www.voxelmatters.com/these-are-the-top-10-polymer-am-companies-by-revenue-in-2024/",
+    "https://www.intellectualmarketinsights.com/blogs/leading-companies-in-the-global-metal-nanoparticles-market-2025",
+    "https://wp-nanoco-2020.s3.eu-west-2.amazonaws.com/media/2024/03/NANO_AR21_Preliminary-results-2021-Final.pdf",
+    "https://www.owler.com/company/nanoholdingscorp",
+    "https://pitchbook.com/profiles/company/495874-63",
+    "https://www.pappers.fr/entreprise/nanoe-507722106"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com NANOE SAS",
+   "results": [
+    "https://note.com/tamaka_trippp/n/n606dc570ef91",
+    "https://note.com/maru3desu/n/nf20f30579046",
+    "https://note.com/sagatman/n/ncbdbd05ed5f0",
+    "https://note.com/h_kuribayashi/n/n676957dae1ff",
+    "https://note.com/kobachou/n/ndb860adf9299",
+    "https://note.com/trang_1985/m/m5838f7333a6e/hashtag/%E5%8C%96%E5%AD%A6%E8%96%AC%E5%93%81",
+    "https://note.com/kuragra_mirei/n/n1e11309925a4",
+    "https://note.com/glad_eel5733/n/nf3888178d6fd",
+    "https://note.com/mmww/n/nb56122acca93",
+    "https://note.com/luxurylane/n/n2e0d32be35f4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com NANOE SAS",
+   "results": [
+    "https://x.com/zemitta_f20/status/2045335507723272605",
+    "https://x.com/fuji_niigata",
+    "https://x.com/montarou1233",
+    "https://x.com/nanoecentral",
+    "https://x.com/i/status/1339486284495134720",
+    "https://x.com/_Nano_____/status/2102051312372420847",
+    "https://x.com/nanocrea_/status/2118128528709259422",
+    "https://x.com/nanocrea_",
+    "https://x.com/sas_nanopi/status/2109276733124088078",
+    "https://x.com/NanoCassiopeia"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com NANOE SAS",
+   "results": [
+    "https://fr.linkedin.com/in/guillaume-de-calan-92515716",
+    "https://www.linkedin.com/company/3dceram/",
+    "https://www.linkedin.com/pulse/nano-metal-oxide-nmo-industry-top-10-companies-profiled-ink-intel-cex3e",
+    "https://fr.linkedin.com/company/panasonic-heating-and-cooling-solutions-europe",
+    "https://fr.linkedin.com/in/corentin-golly-908564385",
+    "https://jp.linkedin.com/pulse/%E6%88%A6%E7%95%A5%E7%9A%84%E5%B8%82%E5%A0%B4%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%8A%E3%83%8E%E9%87%91%E5%B1%9E%E9%85%B8%E5%8C%96%E7%89%A9-nmo-%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B1%95%E6%9C%9B%E3%82%92%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B2026%E5%B9%B42033%E5%B9%B4-verentiqx-200te",
+    "https://fr.linkedin.com/in/st%C3%A9phane-schweizer-80482bb3",
+    "https://fr.linkedin.com/company/centre-de-transfert-de-technologies-ceramiques",
+    "https://fr.linkedin.com/in/philippe-coulon-b92021a5",
+    "https://www.linkedin.com/company/nanoe"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com NANOE SAS",
+   "results": [
+    "https://www.facebook.com/joseherrerahsdofficial/videos/what-is-nanoe-toyota/545009481322346/",
+    "https://www.facebook.com/groups/4133587789991316/posts/30020690324187708/",
+    "https://www.facebook.com/groups/kiwicars.nz.tauranga/posts/2196617894265404/",
+    "https://www.facebook.com/groups/959032808488636/posts/1759023038489605/",
+    "https://www.facebook.com/groups/177053736276766/posts/2138331933482260/",
+    "https://www.facebook.com/groups/1982310362046801/posts/4750060058605137/",
+    "https://www.facebook.com/groups/422489891145924/posts/29117709027863961/",
+    "https://www.facebook.com/groups/405150662972329/posts/3166873736799994/",
+    "https://www.facebook.com/PIMInternationalmag/posts/livefromformnext-nanoe-sas-ballainvilliers-france-will-invest-2-million-in-a-new/1510648725935381/",
+    "https://www.facebook.com/nano.sas.12/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "NANOE SAS note 社長",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://fr.linkedin.com/in/guillaume-de-calan-92515716",
+    "https://nanoe.com/en/nanoe/",
+    "https://zetamix.fr/wp-content/uploads/2023/08/ZETASINTER-CHAMBER-OPERATION-MANUAL.pdf",
+    "https://b3d.com.au/downloads/Zetamix-Epsilon-guidelines.pdf?srsltid=AYCX9vJSI1aWrODhP2XttJh8g8gtv5oWA0ZDeWAHYX4lwNso1juzUnau",
+    "https://note.com/note_brand/n/n5c6ada3d1f22",
+    "https://news.panasonic.com/global/press/en220609-2",
+    "https://www.youtube.com/watch?v=AIS6L-Mu7kI",
+    "https://www.idtechex.com/en/timeline/nanoe/c134816",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "NANOE SAS X 投稿",
+   "results": [
+    "https://nanoe.com/en/",
+    "https://news.panasonic.com/global/press/en260928-3",
+    "https://www.youtube.com/watch?v=Sd3rwVnKd1s",
+    "https://nanoe.com/en/nanoe/",
+    "https://www.facebook.com/PanasonicGroup/posts/panasonic-develops-new-nanoe-x-that-halves-mold-inhibition-time-compared-with-th/1490370799792994/",
+    "https://www.aircon.panasonic.eu/GB_en/happening/nanoe-site-whats-nanoe-01-how-nanoe-works/",
+    "https://www.facebook.com/HRVNZ/videos/what-exactly-is-nanoe-xthe-clever-folks-panasonic-new-zealand-have-developed-sma/1576302916933641/",
+    "https://www.voxelmatters.com/nanoe-ceo-interview-ceramic-filament/",
+    "https://nanoe.com/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/nanoe-sas.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

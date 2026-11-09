@@ -1,0 +1,631 @@
+{
+ "name": "ALPHA POWDERS Sp. z o.o.",
+ "aliases": [
+  "Alpha Powders"
+ ],
+ "context": "SLS用樹脂粉末",
+ "researched_at": "2026-11-09T05:46:05.196251+00:00",
+ "official_url": "https://www.alphapowders.eu",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "規模・親会社": [
+   {
+    "quote": "We are excited to announce our participation in the Additive Manufacturing Users Group (AMUG) Expo 2025 in Chicago, USA. This event marks a significant milestone as we introduce our advanced polymer powder technologies to the American market.",
+    "url": "https://alphapowders.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "We are honored to announce that Alpha Powders has been shortlisted for the \"Innovation of the Year\" in the 3D Printing Industry Awards.",
+    "url": "https://alphapowders.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation",
+    "url": "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "pass": 3
+   },
+   {
+    "quote": "Joining OPTIMAT enhances our potential for collaborations with a broad spectrum of European institutes, hardware companies, and research laboratories. We take pride in being part of this influential network and look forward to contributing to and learning from our fellow members.",
+    "url": "https://alphapowders.eu/optimat-innovation-network/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "W celu uzyskania oferty zapraszamy do kontaktu.",
+    "url": "https://alphapowders.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Payment details will be sent to your email address.",
+    "url": "https://alphapowders.eu/powders/",
+    "pass": 3
+   },
+   {
+    "quote": "Payment details as well as a full quote with shipping options will be sent to your email address.",
+    "url": "https://alphapowders.eu/powders/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "The firm holds patents across key global markets, including the US, EU, China, Korea, and Japan, for its spheroidization process. The technology functions as a platform capable of treating a broad span of thermoplastics up to 260°C, including filled and pigmented composites, and fiber-reinforced materials.",
+    "url": "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "pass": 3
+   },
+   {
+    "quote": "創意の園は、ポーランド・パビリオン内にあるエリアであり、日本市場にとって重要な6つのセクターにおいて、持続可能な未来を形作るアイデアや画期的なイノベーションを紹介する場です",
+    "url": "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、UNIPHAR Sp. z o.o.（ユニファー株式会社）は、機能性食品、先進的なサプリメント、および国内外市場向けの受託製造において20周年を迎えました",
+    "url": "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "pass": 3
+   },
+   {
+    "quote": "Fresh Inset S.A.（フレッシュ・インセット株式会社）は、2017年にポーランド・トルンで設立されたテクノロジー企業です",
+    "url": "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "pass": 3
+   },
+   {
+    "quote": "KIKGEL Sp. z o.o.（キクゲル株式会社）は、30年以上にわたり医療分野で活動している家族経営の企業です",
+    "url": "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "pass": 3
+   },
+   {
+    "quote": "KIKGELは、製品を日本、アメリカ、オーストラリアなどを含む20カ国以上に輸出しており、グローバルに展開しています",
+    "url": "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品の開発・製造に加え、創傷治療分野で評価の高い他社の医療機器の正規代理店としての活動も行っています",
+    "url": "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Japan and Asian markets",
+    "url": "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Alpha Powders – 4th Dimension of Additive Manufacturing ... — Alpha Powders – 4th Dimension of Additive Manufacturing ... Alpha Powders https://alphapowders.eu",
+    "url": "https://alphapowders.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Alpha Powders | LinkedIn — Alpha Powders | LinkedIn LinkedIn https://pl.linkedin.com > alpha-powders",
+    "url": "https://pl.linkedin.com/company/alpha-powders",
+    "pass": 3
+   },
+   {
+    "quote": "Alpha Powders Turns Waste into Performance with 3D ... — Alpha Powders Turns Waste into Performance with 3D ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "pass": 3
+   },
+   {
+    "quote": "OPTIMAT Innovation Network - Alpha Powders — OPTIMAT Innovation Network - Alpha Powders Alpha Powders https://alphapowders.eu > optimat-inn...",
+    "url": "https://alphapowders.eu/optimat-innovation-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Alpha Powders - Expo — Alpha Powders - Expo expo.gov.pl https://www.expo.gov.pl > partner > a...",
+    "url": "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "Alpha Powders - Expo — Alpha Powders - Expo expo.gov.pl https://www.expo.gov.pl > partner > alpha-powders",
+    "url": "https://www.expo.gov.pl/ja/partner/alpha-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us – Alpha Powders – 4th Dimension of Additive ... — About Us – Alpha Powders – 4th Dimension of Additive ... Alpha Powders https://alphapowders.eu > about-us",
+    "url": "https://alphapowders.eu/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "4th Dimension of Additive Manufacturing - Alpha Powders — 4th Dimension of Additive Manufacturing - Alpha Powders Alpha Powders https://alphapowders.eu > powders",
+    "url": "https://alphapowders.eu/powders/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Alpha Powders | LinkedIn Alpha Powders | LinkedIn LinkedIn https://pl.linkedin.com > alpha-powders",
+    "url": "https://pl.linkedin.com/company/alpha-powders",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.alphapowders.eu",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://alphapowders.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pl.linkedin.com/company/alpha-powders",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphapowders.eu/optimat-innovation-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axel.as-1.co.jp/asone/maker/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://media.isbweb.org/images/documents/2025/archive_matterials_challis/fukuoka2023/isb_jsb2023_program_-_abstract_book_compressed_part1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cosmekitchen-webstore.jp/Biople",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://alphapowders.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expo.gov.pl/ja/partner/alpha-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphapowders.eu/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://alphapowders.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphapowders.eu/powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphapowders.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pl.linkedin.com/company/alpha-powders",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazemet.com/agents-and-distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphapowders.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazemet.com/agents-and-distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/gp/bestsellers/hpc/3457111051/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/International-Direct-Shipping-Now-Foods/dp/B006I737NG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/NOW-Foods-Chlorophyll-90-Capsules/dp/B004F1NF5W",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/Koepoe-Koepoe%E3%83%99%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9sp%E3%81%AE%E4%B9%B3%E5%8C%96%E5%89%A4%E3%80%81%EF%BC%884%E3%83%91%E3%83%83%E3%82%AF%EF%BC%89/dp/B019EB5UVO",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04943603/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00180944/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6836/0014/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/2708/4026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphapowders.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Advanced_Powder_Products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pl.linkedin.com/company/alpha-powders",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprint.com/335585/3d-printing-financials-6k-additives-orders-surge-as-revenue-climbs-61/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pl.linkedin.com/company/alpha-powders",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pl.linkedin.com/company/alpha-powders",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. 代理店",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://pl.linkedin.com/company/alpha-powders",
+    "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "https://alphapowders.eu/optimat-innovation-network/",
+    "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "https://www.amazemet.com/agents-and-distributors/",
+    "https://www.astroalloys.com/additive-manufacturing-powders.html",
+    "https://metalpowders.cz/powders",
+    "https://iamg.ltd/materials/",
+    "https://alphapowders.eu/about-us/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%89%B5%E6%84%8F%E3%81%AE%E5%9C%92/",
+    "https://axel.as-1.co.jp/asone/maker/",
+    "https://media.isbweb.org/images/documents/2025/archive_matterials_challis/fukuoka2023/isb_jsb2023_program_-_abstract_book_compressed_part1.pdf",
+    "https://www.cosmekitchen-webstore.jp/Biople",
+    "https://www.expo.gov.pl/ja/%E4%B8%87%E5%8D%9A%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%87%BA%E5%B1%95/%E5%8D%94%E8%B3%9B%E4%BC%81%E6%A5%AD%E3%83%BB%E5%9B%A3%E4%BD%93/",
+    "https://www.shilladfs.com/estore/kr/ja/?uiel=Desktop",
+    "https://joshinweb.jp/audio/57335/?srsltid=AYCX9vLB8HFJFUi3MkfsFT4GzfB0ElOPQ5qrkE2Dqp3so5ecUsqK3AhQ",
+    "https://www.2020games.metro.tokyo.lg.jp/taikaijyunbi/torikumi/yusou/2020tdm/companies.pdf",
+    "https://gull.kinugawa-net.co.jp/store/",
+    "https://ja.wikipedia.org/wiki/ホクレン商事"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. 日本 販売",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://www.expo.gov.pl/ja/partner/alpha-powders/",
+    "https://alphapowders.eu/about-us/",
+    "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "https://alphapowders.eu/powders/",
+    "https://albo.inc/imports/8d92ff97-e212-5f6a-981b-e045c16fac9e?lang=ja",
+    "https://www.medchemexpress.com/distributors.html?srsltid=AYCX9vImK7FONhNLpOE7PfwZfsVeD4dCruXelUTFxmlDdKnyqJxxk2v4",
+    "https://www.struers.com/",
+    "https://bdolytics.com/jp/market/item/25143",
+    "https://expo.gov.pl/ja/partner/alpha-powders/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://alphapowders.eu/powders/",
+    "https://skhonpo.com/",
+    "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "https://formlabs.com/",
+    "https://www.poly-maker.jp/polylite-petg.html/polylitepetg-transparent-02",
+    "https://ja.aliexpress.com/i/33033695063.html",
+    "https://shop.exmatelab.com/",
+    "https://alphapowders.eu/technology/",
+    "https://www.ipros.com/cg1/樹脂/レジン/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. Japan distributor",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://pl.linkedin.com/company/alpha-powders",
+    "https://www.amazemet.com/agents-and-distributors/",
+    "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "https://umpowders.com/",
+    "https://www.astroalloys.com/additive-manufacturing-powders.html",
+    "https://www.micropowders.com/agents-and-distributors.html",
+    "https://www.fukuda-kyoto.co.jp/en/technology/research/additive-manufacturing.html",
+    "https://alphapowders.eu/about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. distributor Japan OR Japanese partner",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://www.amazemet.com/agents-and-distributors/",
+    "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "https://www.fukuda-kyoto.co.jp/en/company/business/powder.html",
+    "https://www.astroalloys.com/additive-manufacturing-powders.html",
+    "https://www.munsonmachinery.com/Articles/Z-1169/japanese-metal-powder-manufacturer-relies-on-u-s-rotary-batch-mixer",
+    "https://metalatomizer.com/en",
+    "https://www.amperemetalpowders.com/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp ALPHA POWDERS Sp. z o.o.",
+   "results": [
+    "https://www.amazon.co.jp/-/en/gp/bestsellers/hpc/3457111051/",
+    "https://www.amazon.co.jp/-/en/International-Direct-Shipping-Now-Foods/dp/B006I737NG",
+    "https://www.amazon.co.jp/-/en/NOW-Foods-Chlorophyll-90-Capsules/dp/B004F1NF5W",
+    "https://www.amazon.co.jp/Koepoe-Koepoeベーキングミックスspの乳化剤、（4パック）/dp/B019EB5UVO",
+    "https://www.amazon.co.jp/【整備済み品】ノートPC-Office2024-Business】-Professional初期設定済み-wajunのWi-Fi/dp/B0GCF1G4HN",
+    "https://www.amazon.co.jp/アルファタックル-Alpha-Tackle-リール-CZ/dp/B0CS5RJY5N",
+    "https://www.amazon.co.jp/スペシャルパウダーソープ-0-6g×35包-酵素洗顔パウダー-Special-Powder/dp/B079TPB1MT"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com ALPHA POWDERS Sp. z o.o.",
+   "results": [
+    "https://www.monotaro.com/g/04943603/",
+    "https://www.monotaro.com/g/00180944/",
+    "https://www.monotaro.com/p/6836/0014/",
+    "https://www.monotaro.com/p/2708/4026/",
+    "https://www.monotaro.com/k/store/電動ピック/",
+    "https://www.monotaro.com/g/08220436/",
+    "https://www.monotaro.com/g/01218424/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. employees revenue parent company",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://growjo.com/company/Advanced_Powder_Products",
+    "https://pl.linkedin.com/company/alpha-powders",
+    "https://3dprint.com/335585/3d-printing-financials-6k-additives-orders-surge-as-revenue-climbs-61/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.zoominfo.com/c/advanced-powder-products-inc/820540",
+    "https://umpowders.com/",
+    "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-additive-manufacturing-metal-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.emis.com/php/company-profile/PL/Alpha_Powders_Sp_z_oo_en_13246159.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ALPHA POWDERS Sp. z o.o.",
+   "results": [
+    "https://note.com/tag/ARIRANG",
+    "https://note.com/jazzy_python3645/n/n60a754908850?hl=en",
+    "https://note.com/yakuzaibucyo/n/nd228f3cd5e36",
+    "https://note.com/edunews_oda/n/n986c373f12c1",
+    "https://note.com/sasanokino/n/nd413d7d61c1b",
+    "https://note.com/around_thirty30/n/nff73bd856c7b",
+    "https://note.com/kkrtksm/n/nbdaa59b0be43"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ALPHA POWDERS Sp. z o.o.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com ALPHA POWDERS Sp. z o.o.",
+   "results": [
+    "https://pl.linkedin.com/company/alpha-powders",
+    "https://pl.linkedin.com/in/dominik-zdybal/en",
+    "https://pl.linkedin.com/company/amazemet",
+    "https://pl.linkedin.com/company/3d-lab",
+    "https://pl.linkedin.com/company/arcway-am",
+    "https://pl.linkedin.com/in/aleksandra-szeliga-edured/pl",
+    "https://pl.linkedin.com/in/agnieszka-chmielewska-wysocka-a20349264",
+    "https://pl.linkedin.com/in/%C5%82ukasz-zembala-2a8909278",
+    "https://pl.linkedin.com/directory/companies/a",
+    "https://pl.linkedin.com/in/piotr-gruber"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ALPHA POWDERS Sp. z o.o.",
+   "results": [
+    "https://www.facebook.com/PIMInternationalmag/posts/looking-back-at-october-pim-international-along-with-our-sister-titles-metal-add/1730405369084895/",
+    "https://www.facebook.com/rev3rd/",
+    "https://www.facebook.com/kamdhenufoods/posts/lactoprot-instant-wpc-80-powder-is-a-high-quality-whey-protein-concentrate-produ/1343329027800481/",
+    "https://www.facebook.com/D.Zavos/posts/we-are-proud-of-our-participation-in-the-izre-poznan-expert-real-estate-exhibiti/1313861104110281/",
+    "https://www.facebook.com/groups/TheAlphaGalKitchen/posts/3160724070731808/",
+    "https://www.facebook.com/100063901011756/mentions/",
+    "https://www.facebook.com/YukonVeterinaryHospital/posts/1556638506471704/",
+    "https://www.facebook.com/falaarchitektura/posts/konkurs-realizacyjny-na-koncepcj%C4%99-centrum-inicjatyw-kulturalnych-w-komorowiemaki/200497381392924/",
+    "https://www.facebook.com/HashUpIt/",
+    "https://www.facebook.com/groups/dairyfreelife/posts/1360286902224350/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. note 社長",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://pl.linkedin.com/company/alpha-powders",
+    "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "https://alphapowders.eu/the-holy-grail-of-3d-printing-an-interview/",
+    "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "https://www.continuumpowders.com/our-story/",
+    "https://note.com/firebrand",
+    "https://www.alpha-food.co.jp/news/detail.php?pkId=71",
+    "https://pl.linkedin.com/in/dominik-zdybal/en",
+    "https://krdf.pl/en/company/0000923335/alpha-powders-sp-z-o-o"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ALPHA POWDERS Sp. z o.o. X 投稿",
+   "results": [
+    "https://alphapowders.eu/",
+    "https://3dprintingindustry.com/news/alpha-powders-turns-waste-into-performance-with-3d-printing-ready-polymers-239256/",
+    "https://alphapowders.eu/3d-printing-days/",
+    "https://www.expo.gov.pl/en/partner/alpha-powders/",
+    "https://www.youtube.com/watch?v=BD1kZw_NETw",
+    "https://www.asminternational.org/video/making-metal-powders-from-off-the-shelf-barstock/",
+    "https://www.amazemet.com/metal-powders-for-additive-manufacturing/",
+    "https://indd.adobe.com/view/55bea808-ab9f-4aba-a27f-23595a861a0d",
+    "https://alphapowders.eu/about-us/",
+    "https://pl.linkedin.com/company/alpha-powders"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}
