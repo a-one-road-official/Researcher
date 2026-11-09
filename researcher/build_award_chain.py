@@ -471,6 +471,17 @@ def write_outputs(finished: bool) -> None:
     rows = _read_csv(CHAIN)
     seeds = _read_csv(SEEDS)
     ok = [r for r in rows if (r.get("judge") or "").startswith("対象") and not r["judge"].startswith("対象外")]
+    # 名簿の門番（2026-11-09）：本人の4条件を1社ずつ引用で確かめ、引用の無い会社は名簿に入れない
+    from researcher.verify_list import verify
+    cap = lambda r: float(r.get("capital_man") or 0)
+    ok = verify(ok, {
+        "資本金1億円以上": (lambda r: cap(r) >= 10000 and bool(r.get("capital_quote")), lambda r: r.get("capital_quote", "")),
+        "一都三県に本社": (lambda r: r.get("pref") in PREFS and any(p[:2] in (r.get("address_quote") or "") for p in PREFS),
+                     lambda r: r.get("address_quote", "")),
+        "製造業（手がかり2つ以上）": (lambda r: r.get("mfg_judge") == "製造業" and len((r.get("mfg_signals") or "").split(" / ")) >= 2,
+                         lambda r: r.get("mfg_signals", "")),
+        "自動車でない": (lambda r: r.get("auto_judge") != "自動車（除外）", lambda r: r.get("auto_signals") or "自動車の手がかりなし"),
+    }, OUT)
     _write_csv(OUT / "list.csv", ok, CHAIN_FIELDS)
     INPUT.parent.mkdir(parents=True, exist_ok=True)
     with open(INPUT, "w", newline="", encoding="utf-8") as f:
