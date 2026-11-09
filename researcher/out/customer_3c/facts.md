@@ -25,6 +25,11 @@
   - 「DMG森精機株式会社（6141）は、宮脇機械プラント株式会社（兵庫県明石市）の株式を取得し、その後、DMG森精機を株式交換完全親会社、宮脇機械プラントを株式交換完全子会社とする簡易株式交換を実施することを決議、株式譲渡契約及び株式交換契約を締結した」（https://www.nihon-ma.co.jp/columns/2022/x20231124-97/・3回目）
   - 「京セラのKDDI株保有は「隠れた含み益」であり、売却すれば巨額の株主還元が可能」（https://note.com/kabutabi2000/n/n2b89e6565c0b・3回目）
 - 創業年度：
+  - 「27歳で京セラを創業した稲盛」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
+  - 「創業の目的は「自らの技術を世に問うこと」でした」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
+  - 「創業3年目に、将来の保証を求めた若手社員からの団体交渉に遭遇します」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
+  - 「創立2周年（1961年4月）の記念写真」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
+  - 「創業3年目の出来事を経てたどり着いた「全従業員の幸福」という目的」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
   - 「京セラドキュメントソリューションズは、1934年の創業以来、先端技術を探求・展開して来ました」（https://www.kyoceradocumentsolutions.com/global/ja/about-us.html・3回目）
   - 「「ザ・リーダー」12月31日(土)放送 京セラ 創業者 稲盛 和夫」（https://www.youtube.com/watch?v=b5ljZ4_Up34・3回目）
   - 「【稲盛和夫氏の消えぬ情熱】やり切ったと思ったことは『一度もありません』京セラ創業～KDDI母体の第二電電設立～JAL再建（2022年8月30日）」（https://www.youtube.com/watch?v=b5ljZ4_Up34・3回目）
@@ -32,12 +37,8 @@
   - 「半導体パッケージの寡占、第二電電の設立、AVX買収、クアルコム端末事業の承継までの沿革と経緯を執筆」（https://the-shashi.com/tse/6971/financials/capex/・3回目）
   - 「当社の創業者である稲盛和夫が大学卒業後に就職したのは、松風工業という会社でした」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
   - 「全従業員の幸福を求めて─創業3年目の出来事」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
-  - 「稲盛氏は京セラやKDDIを創業し、それぞれ1.5兆円、4.9兆円を超える大企業に育成」（https://www.chichi.co.jp/web/20250617_inamorikazuo/・3回目）
-  - 「そこで語られた内容は、京都賞を創設した理由、京都賞受賞者の共通点に始まり、松風工業での修業時代の日々、そこでの転機と心掛け、京セラ創業のドラマ、経営理念に込めた思い、さらには、働くことの大切さ、盛和塾で訴えかけていること、ＫＤＤＩ創業のいきさつと成功秘話、ＪＡＬを奇跡の再生に導いた鍵など、稲盛さんの生き方、働き方、考え方のエッセンスをまさに凝縮したもの」（https://www.chichi.co.jp/web/20250617_inamorikazuo/・3回目）
-  - 「稲盛さんは京セラの創業者であり、経営破綻に陥った日本航空を僅か２年８か月で再上場に導いた名経営者です」（https://www.chichi.co.jp/web/20250617_inamorikazuo/・3回目）
-  - 「３４年京都セラミック（現・京セラ）を設立」（https://www.chichi.co.jp/web/20250617_inamorikazuo/・3回目）
-  - 「昭和５９年には第二電電（現・ＫＤＤＩ）を設立、会長に就任、平成１３年より最高顧問」（https://www.chichi.co.jp/web/20250617_inamorikazuo/・3回目）
 - 目標（中計・経営方針）：
+  - 「老齢を迎えながらも、権力を自らに集中させ、長期にわたり社長の座にとどまり続ける、あるいは会長や相談役として院政を敷くようなケースが後を絶えない」（https://jbpress.ismedia.jp/articles/-/89804・3回目）
   - 「設備投資額の長期推移：2018年3月期〜2026年3月期」（https://the-shashi.com/tse/6971/financials/capex/・3回目）
   - 「ノーベル賞受賞者 山中伸弥さんに聞く―ビジョンを持つことの大切さ」（https://note.com/kyocera_pr・3回目）
   - 「長期投資家 次郎店長 KDDI（9433）」（https://note.com/tag/%E4%BA%AC%E3%82%BB%E3%83%A9・3回目）
@@ -49,7 +50,6 @@
   - 「社長に就任した翌年（1967年）、初の経営方針発表にあたって、稲盛は京セラに集う者が持つべき考え方を「京セラ精神」として自筆でまとめました」（https://note.com/kyocera_pr/n/n52fb062d9249・3回目）
   - 「Q：入社前後のギャップについてはどのように感じていますか？A：もともと私自身が、長期インターン経験後の入社だったこともあり、全体としてギャップはあまり感じていません」（https://unistyleinc.com/techniques/1890・3回目）
   - 「株式会社リーディングマーク取材記事より引用長期インターンシッププログラム体験談②：unistyleインターン生unistyleにもインターン生がいます」（https://unistyleinc.com/techniques/1890・3回目）
-  - 「長期インターンの場合、有給で募集されることもありますが、短期のものは無給のケースが多いです」（https://unistyleinc.com/techniques/1890・3回目）
 - 課題・障壁：
   - 「京セラの液晶ディスプレイの特長と解決できる課題」（https://www.kyocera.co.jp/prdct/display/application/detail/automobile_emirror.html・1回目）
   - 「各産業や日常生活を支える事業を多岐にわたって展開し、労働力不足の解決や幅広い市場への応用展開などにも貢献していきます」（https://www.kyocera.co.jp/company/division/other.html・1回目）
@@ -77,6 +77,7 @@
   - 「定款・株式取扱規則 | 株式情報 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/s_info/rules.html・1回目）
   - 「京セラのご紹介 | 株主・投資家の皆様へ | 京セラ」（https://www.kyocera.co.jp/ir/about/index.html・1回目）
 - 顧客の顧客（主要取引先・発注元）：
+  - 「■ 仕事内容 ◎ 業務概要 ・お客様からの問い合わせ対応（電話・メール・チャット） ・予約管理システムの操作・運用 ・ゲストや設備に関するトラブルの対応および問題解決 ・クレーム対応 ・顧客満足度向上に向けた提案・改善活動 ・ゲスト、清掃スタッフ、物件オーナーへの対応 ・予約画面の編集・管理 （Airbnb／Booking.com／楽天トラベル／Trip.com などをBeds24で一括管理）」（https://jp.stanby.com/search?q=%E4%BA%AC%E3%82%BB%E3%83%A9+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「そうした光通信を支える部品づくりで、京セラは長年にわたって技術と顧客基盤を積み重ねてきました」（https://note.com/kyocera_pr/n/n54a1acb6a67f・3回目）
   - 「村田製作所のMLCC依存は「一本足のリスク」でもあり、AI需要が想定を下回れば業績に直撃する」（https://note.com/kabutabi2000/n/n2b89e6565c0b・3回目）
   - 「ただし京セラの多角化は景気変動への耐性をもたらす一方、村田製作所はMLCC市況への依存度が高い」（https://note.com/kabutabi2000/n/n2b89e6565c0b・3回目）
@@ -88,7 +89,6 @@
   - 「(17) 地震その他の自然災害によって当社の本社や主要な事業関連施設並びに当社のサプライヤーや顧客が被害を受」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_1Q_tannsin.pdf・2回目）
   - 「び「2.6℃シナリオ（注2）」を用いて、2030年の自社の事業への影響及び顧客の業界の変化を把握するとともに、京セラ」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
   - 「当社は従業員、顧客、株主・投資家並びに取引先等、京セラグループに関わるすべてのステークホルダーの人権を尊重」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
-  - 「当社は、従業員、顧客、株主・投資家並びに取引先等、京セラグループに関わるすべてのステークホルダーの人権を尊」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
 - 顧客の顧客が求めること（調達方針・要求）：
   - 「リクエスト元 IP アドレス・User-Agent・リクエストパス・ステータスコード等を保存し、AI クローラー（ClaudeBot, GPTBot 等）と人間のアクセスの比率把握、不正アクセスの検知、配信品質の改善のために利用しています」（https://the-shashi.com/tse/6971/financials/capex/・3回目）
   - 「サイトの品質改善と不正な送信の防止のために利用し、本文の要約には外部の AI サービスを利用する場合があります」（https://the-shashi.com/tse/6971/financials/capex/・3回目）
@@ -103,6 +103,7 @@
   - 「高品質・長寿命の京セラ製太陽光発電システムの設置が可能で、契約期間終了後は設備を無償譲渡します」（https://www.kyocera.co.jp/company/division/environment_energy.html・1回目）
   - 「会計・監査、法令違反、品質不正に関する情報受付窓口」（https://www.kyocera.co.jp/ir/・1回目）
 - 顧客の競合：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGKKZO97262520Q6A630C2TB2000/・3回目）
   - 「私たちは、お客様が情報を知識に変え、その知識を効果的に利用し、競争力を高めることをお手伝いします」（https://www.kyoceradocumentsolutions.com/global/ja/about-us.html・3回目）
   - 「一度読むだけでどれくらいの売上高・平均年収となっているのかがわかり、他社と比較できます」（https://unistyleinc.com/techniques/1890・3回目）
   - 「御社のリサイクルは他社に比べて進んでいるので」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
@@ -114,8 +115,8 @@
   - 「半導体製造装置向けファインセラミック部品については、従前よりわれわれが非常に高いシェアを」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
   - 「一部他社とシェアを分け合っているエッチャー用の静電」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
   - 「チャック等については、シェアを上げていくべく、いろいろな取り組みを行っており、新たな開発」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
-  - 「ですので、既存のシェアを持っているところは、数量とシ」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
 - 自社の競合（すでに入っている売り手）：
+  - 「特許業務法人 藤本パートナーズ 株式会社ネットス 株式会社パトラ」（https://ipforce.jp/applicant-449/publication・3回目）
   - 「収集データは、上記の目的の範囲で、業務を委託する外部サービス（アクセス解析・配信など）に取り扱わせる場合があります」（https://the-shashi.com/tse/6971/financials/capex/・3回目）
   - 「②自己株式取得に係る委託契約に基づく市場買付け」（https://www.kyocera.co.jp/ir/news/pdf/261106_jikokabu.pdf・2回目）
   - 「グローバル市場の不確実性に備え、生産拠点・販売網・調達先の分散と多様化を拡大」（https://note.com/kigyo_bun1/n/n287abf571d39・3回目）
@@ -127,7 +128,6 @@
   - 「一方、販売面の協業については、2027.3 期上期に、特に欧州における販売を京セラで担うという」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
   - 「製造部門の協業については、さらに 2028.3 期の前半に生産の体制を整える計画でございます」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
   - 「(6) 外部委託先や社内工程における製造の遅延又は不良の発生」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
-  - 「(6) 外部委託先や社内工程における製造の遅延又は不良の発生」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_1Q_tannsin.pdf・2回目）
 - 採用（足りない人・職種）：
   - 「「今春に向けて数十名採用予定」／40／50代も活躍／世界的ラグジュアリーグループ／ハイジュエリー販売」（https://jp.stanby.com/search?q=%E4%BA%AC%E3%82%BB%E3%83%A9+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「【応募資格】 [必須] 【必須条件】 ・国内外資ブランド問わず時計宝飾販売経験もしくは外資ラグジュアリーファッションブランド販売経験 [歓迎] 【尚可条件】外商販売経験 【フィットする人物像】 ・起業家精神・キャッチアップの早さ・スピード感・チャレンジ精神 【弊社からの直近の採用実績】 ・ラグジュアリーファッション(アウトレットのみ)・20代男性 ・アフォータプルブランド・30代女性 ・国内ジュエリーブランド・30代女性 ・外資時計ブランド・30代男性 ・外資シューズブランド・40代女性 ・外資化粧品・40代女性 ・ラグジュアリーファッションブランド・30代男性 等、外資ジュエリーブラ」（https://jp.stanby.com/search?q=%E4%BA%AC%E3%82%BB%E3%83%A9+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
@@ -142,6 +142,9 @@
   - 「事業紹介｜会社概要｜2023年新卒採用 - 京セラ」（https://unistyleinc.com/techniques/1890・3回目）
   - 「ムラタを取り巻く業界 | 村田製作所 新卒・キャリア採用情報」（https://unistyleinc.com/techniques/1890・3回目）
 - 発言（社長・役員）：
+  - 「モスは経営会議に「じゃんけん方式」 遠慮や忖度は御法度、社長発案」（https://www.nikkei.com/article/DGKKZO97262520Q6A630C2TB2000/・3回目）
+  - 「【SBIH北尾吉孝会長兼社長】｢年収2億円｣を蹴って格下ベンチャーへ…｢野村証券の社長候補｣の人生を変えた孫正義の異常すぎる一言【リーダーの器】」（https://www.youtube.com/watch?v=b5ljZ4_Up34・3回目）
+  - 「稲盛和夫氏死去 「経営は利他の心で」インタビューで訴え」（https://www.youtube.com/watch?v=b5ljZ4_Up34・3回目）
   - 「京セラ・稲盛和夫名誉会長インタビュー（上） - YouTube」（https://www.youtube.com/watch?v=b5ljZ4_Up34・3回目）
   - 「京セラ・稲盛和夫名誉会長インタビュー（上）」（https://www.youtube.com/watch?v=b5ljZ4_Up34・3回目）
   - 「京セラ・稲盛和夫名誉会長インタビュー（下）」（https://www.youtube.com/watch?v=b5ljZ4_Up34・3回目）
@@ -151,10 +154,8 @@
   - 「マイページ登録後に送付する「募集要項」のメッセージから確認できます」（https://unistyleinc.com/techniques/1890・3回目）
   - 「現社長の谷本秀夫氏はPMI(M&A後の統合プロセス)にも力を入れます」（https://www.nihon-ma.co.jp/columns/2022/x20231124-97/・3回目）
   - 「稲盛氏なき京セラ 谷本秀夫社長「カリスマの教え、進化させる」：日経ビジネス電子版」（https://business.nikkei.com/atcl/NBD/19/00119/00186/・3回目）
-  - 「役員や社長に就任したときなどに「人間性をとにかく高めなさい」と言われてきました」（https://business.nikkei.com/atcl/NBD/19/00119/00186/・3回目）
-  - 「若い頃は「もう少し仕事に直結することを教えてほしい」と素直ではない気持ちもありましたが、私も社長として6年目」（https://business.nikkei.com/atcl/NBD/19/00119/00186/・3回目）
-  - 「私が社長になってから、業績の報告に行くと、手を合わせて「ありがとう」と仰るのです」（https://business.nikkei.com/atcl/NBD/19/00119/00186/・3回目）
 - 政治（法・補助・規制）：
+  - 「【からべ庁舎・事業所援助部門への配属となります】 ・正社員、パート、高齢者向け求人などの求人開拓業務 ・窓口等での一般・学卒・障害者等求人の受理・更新業務 ・求人票作成・各種助成金の活用に関する助言指導、求人条件緩和 指導 ・求人者と求職者のマッチング、面接会等イベントの提案・企画・ 運営等 ・業界団体や自治体等との連絡調整 ・その他事業所援助部門に付随する業務 ※公用車（ＡＴ車）を運転しての外出業務もあります ＊業務変更範囲：変更なし」（https://jp.stanby.com/search?q=%E4%BA%AC%E3%82%BB%E3%83%A9+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「今までは単純な鏡（ミラー）でしたが、2014年の米国法規制などもあり、カメラを使用したバックミラーが増えてきています」（https://www.kyocera.co.jp/prdct/display/application/detail/automobile_emirror.html・1回目）
   - 「なお、本件は経済産業省より、重要鉱物の安定供給確保に向けた供給確保計画として認定を受けて」（https://www.kyocera.co.jp/ir/pdf/FY27_2Q_transcript.pdf・2回目）
   - 「(13) 既存の法規制又は新たな法規制への意図しない抵触」（https://www.kyocera.co.jp/ir/library/pdf/f_results/FY27_2Q_tanshin.pdf・2回目）
@@ -166,7 +167,6 @@
   - 「投資規制・収益の本国送金規制については、当社及びグループ各社にお」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
   - 「いて規制変更の情報を早期に収集し、当該国で保有する会社財産を国外に退避させるなど、適切に対処するよう取り組む」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
   - 「そのため、これに関する予期できない法律・規制の変更等のリスクやレピュテーションリスクに直面する可能性」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
-  - 「仮に、当社の環境関連法令の義務違反等が判明した場合には、規制当局から」（https://f.irbank.net/pdf/E01182/ir/S100W0VP.pdf・3回目）
 - 経済（売上・利益・投資額）：
   - 「"第1四半期実績は前年同期比 増収増益 各部門の戦略的取組みを進め、さらなる業績拡大を目指す"」（https://www.kyocera.co.jp/ir/library/presentation.html・1回目）
   - 「売上高 営業利益 税引前利益 親会社の所有者に帰属する当期利益 基本的1株当たり親会社の所有者に帰属する当期利益」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
@@ -194,6 +194,9 @@
   - 「(4)研究開発費の調整額は各セグメントに帰属しない要素技術研究にかかる研究開発費です」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
   - 「研究開発費 11,644 7,914 17,563 11,671 48,792 8,392 57,184」（https://www.kyocera.co.jp/ir/news/pdf/FY27_2Q_tanshin.pdf・2回目）
 - 検索結果の抜粋：
+  - 「サプライチェーンマネジメント - KYOCERA Document Solutions — サプライチェーンマネジメント - KYOCERA Document Solutions KYOCERA Document Solutions https://www.kyoceradocumentsolutions.com > ... > 社会」（https://www.kyoceradocumentsolutions.com/global/ja/sustainability/society/partners.html・3回目）
+  - 「決算説明会 - 京セラ — 決算説明会 - 京セラ 京セラ株式会社 PDF https://www.kyocera.co.jp > pdf > presentation」（https://www.kyocera.co.jp/ir/library/pdf/presentation/FY26Q2_p.pdf・3回目）
+  - 「京セラ 募集職種 キャリアの求人情報をすべて見る （10,176,443件） — 京セラ 募集職種 キャリアの求人情報をすべて見る （10,176,443件） スタンバイ」（https://jp.stanby.com/search?q=%E4%BA%AC%E3%82%BB%E3%83%A9+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「京セラ 株式会社 IR資料 - EDINET DB — 京セラ 株式会社 IR資料 - EDINET DB EDINET DB https://edinetdb.jp > 京セラ株式会社」（https://edinetdb.jp/company/E01182/ir-docs/・3回目）
   - 「サプライチェーン管理 | 社会への取り組み | サステナビリティ — サプライチェーン管理 | 社会への取り組み | サステナビリティ 京セラ株式会社 https://www.kyocera.co.jp > ... > 社会への取り組み」（https://www.kyocera.co.jp/sustainability/social/supplier.html・3回目）
   - 「人権への取り組み | サステナビリティ | 京セラ — 人権への取り組み | サステナビリティ | 京セラ 京セラ株式会社 https://www.kyocera.co.jp > ... > 社会への取り組み」（https://www.kyocera.co.jp/sustainability/social/human_rights.html・3回目）
@@ -203,16 +206,13 @@
   - 「京セラ 株式会社 会社説明会 — 京セラ 株式会社 会社説明会 京セラ株式会社 PDF https://www.kyocera.co.jp > individual > individual_p」（https://www.kyocera.co.jp/ir/library/pdf/individual/individual_p.pdf・3回目）
   - 「京セラ 募集職種 キャリアの求人情報をすべて見る （10,760,757件） — 京セラ 募集職種 キャリアの求人情報をすべて見る （10,760,757件） スタンバイ」（https://jp.stanby.com/search?q=%E4%BA%AC%E3%82%BB%E3%83%A9+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「【 京セラ 】[6971] 有価証券報告書 | 日経電子版 — 【 京セラ 】[6971] 有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr」（https://www.nikkei.com/nkd/company/ednr/?scode=6971・3回目）
-  - 「企業情報 | 京セラ ドキュメントソリューションズ — 企業情報 | 京セラ ドキュメントソリューションズ KYOCERA Document Solutions https://www.kyoceradocumentsolutions.com > about-us」（https://www.kyoceradocumentsolutions.com/global/ja/about-us.html・3回目）
-  - 「IRライブラリー | 株主・投資家の皆様へ - 京セラ — IRライブラリー | 株主・投資家の皆様へ - 京セラ 京セラ株式会社 https://www.kyocera.co.jp > 株主・投資家の皆様へ」（https://www.kyocera.co.jp/ir/library/・3回目）
-  - 「京セラ - Wikipedia — 京セラ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 京セラ」（https://ja.wikipedia.org/wiki/%E4%BA%AC%E3%82%BB%E3%83%A9・3回目）
-- 株主：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部51頁・検索22回）
-- 設立：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部51頁・検索22回）
-- 代表者：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部51頁・検索22回）
-- 役員：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部51頁・検索22回）
-- 取引先：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部51頁・検索22回）
-- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部51頁・検索22回）
-- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部51頁・検索22回）
+- 株主：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部50頁・検索22回）
+- 設立：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部50頁・検索22回）
+- 代表者：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部50頁・検索22回）
+- 役員：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部50頁・検索22回）
+- 取引先：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部50頁・検索22回）
+- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部50頁・検索22回）
+- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像24件／外部50頁・検索22回）
 
 ## 出光興産
 - 公式URL：https://www.idemitsu.com/（search:yahoo_jp:出光興産）

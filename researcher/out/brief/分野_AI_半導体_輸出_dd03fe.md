@@ -87,62 +87,62 @@
   - ［SNS］2026-11-09「治らない上に、機械はたいがい金属でできてるから重い。関節への負担が大きい。関節が壊れやすいのに勝手には治ってくれない。移動型ロボットは、このために軽量化を目指してる。軽量化を目指せば華奢になり、パワーは犠牲になる。」https://note.com/shinshinohara/n/ne714c4a05db1
   - ［SNS］2026-11-09「そう考えると人間をはじめ、生きものってすごい。わずかな食料を食べて、重い荷物も運べ、簡単には関節も壊れず、多少の故障なら休めば治る。こんなロボットはいまだに開発できていない。」https://note.com/shinshinohara/n/ne714c4a05db1
 ### 日本→海外（輸出）｜エッジAIチップ（edge AI chip）
-- 取得：2026-11-08T03:31・調査5回目・読んだ頁68
+- 取得：2026-11-09T03:37・調査6回目・読んだ頁69
 - 痛み・損（深さの印）（2件）：
   - ［記事］2026-11-06「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―US chip growth at risk from 67K too few skilled workers (7月25日付け BNN Bloomberg (Canada))」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
   - ［記事］2026-11-06「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―Based on graduation rates, many jobs could be hard to fill―Biden administration is trying to foster domestic chipmaking (7月25日付け Bloomberg)」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- 顧客（金を払う側）（79件）：
+- 顧客（金を払う側）（81件）：
+  - ［記事］2026-11-09「EdgeCortixが累計150億円調達、次世代エッジAI半導体の量産と開発を加速」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-09「Resi Forが9000万円を調達──製造現場向けAIエッジ開発で海外展開を視野に」https://kepple.co.jp/articles/vh_svobtf62p
   - ［記事］2026-11-08「知能への需要が加速し、データが生成される現場にますます近づくにつれ、エッジAIは、エッジAIチップのアーキテクチャ設計、最適化、導入を牽引する重要な原動力として台頭しています」https://www.ltts.com/jp/blog/edge-ai-chip-design
   - ［記事］2026-11-08「クラウド環境とは異なり、エッジ環境での導入では、限られた電力予算、厳しいレイテンシ要件、断続的な接続性、そして高まるセキュリティへの期待に対処しなければなりません」https://www.ltts.com/jp/blog/edge-ai-chip-design
   - ［記事］2026-11-08「こうした現実により、チップメーカーは従来の設計アプローチを見直すことを余儀なくされており、ハードウェアとソフトウェアの共同設計、AIチップアーキテクチャ、AIモデルを単一の緊密に連携したシステムとして統合する、包括的なエンジニアリングへと焦点を移しています」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「エッジAIの導入を後押しする主な要因は、すでに確立されている」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「セキュリティと信頼性は、エッジAIの導入において極めて重要です」https://www.ltts.com/jp/blog/edge-ai-chip-design
-- 顧客の顧客（発注元が求めること）（37件）：
-  - ［記事］2026-11-08「セキュアエンクレーブ、ハードウェアベースの認証、およびデバイス上の異常検知は、クラウドサービスに常に依存することなく、機密データを保護し、システムの完全性を確保するのに役立ちます」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「これら企業によるAI最適化アーキテクチャに関する最近の製品革新と投資は、市場競争をさらに激化させると予想され、各サプライヤーは民生用および企業向けアプリケーションの両分野で先行者利益の獲得に全力を挙げている」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-  - ［記事］2026-11-08「私たちは、さまざまな業種にまたがる非常に要求の厳しいクライアントのために、比類のない、綿密で、驚くほど正確な見積もりと予測を作成することに誇りを持っています」https://www.atpress.ne.jp/news/9827371
-  - ［記事］2026-11-06「→＊アップルとNvidia向けの韓国サプライヤーは、ストレージを大量に消費するAIアプリケーションを強化するため、同社のハイエンドDRAMチップの売上が今年2倍以上になると予想している旨」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-  - ［記事］2026-11-06「競争優位を築く企業は、調達先の複線化だけに依存せず、重要部材の可視化、長期供給契約、共同設計、代替仕様の事前認証を進めるでしょう」https://newscast.jp/news/8315575
-- 顧客の競合（奪いに来る側）（50件）：
-  - ［記事］2026-11-08「エッジAIチップ市場、2033年に9兆台湾ドル突破へ――分散型インテリジェンスの波が半導体勢力図を塗り替える」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-  - ［記事］2026-11-08「地域別では北米が世界をリードし続ける一方、AMD、Intel、NVIDIA、Qualcomm、Appleなどのテクノロジー大手が、10兆台湾ドル（約50.9兆円）に迫る巨大市場の覇権を巡って積極的に布陣を進めている」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-  - ［記事］2026-11-08「コンピューティングワークロードの面では、推論機能が2025年に最大の収益シェアを占めており、エッジ端末でのリアルタイムAI駆動型意思決定に対する強い需要を反映している」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-  - ［記事］2026-11-08「米国は、強力な半導体メーカー、テクノロジー企業、研究機関、AIスタートアップのエコシステムを背景に、市場発展の中核的役割を引き続き担っている」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-  - ［記事］2026-11-07「TSMCやラピダス、キオクシアなどのメーカーの動向や供給不足、シェア推移など関連業界や市場の最新ニュース・解説をタイムリーに発信します」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
-- 自社の競合（商社・代理店・仲介）（16件）：
+- 顧客の顧客（発注元が求めること）（52件）：
+  - ［記事］2026-11-09「これらのソリューションはより長い動作寿命、より高い熱耐性、およびフィールドアップグレード可能なファームウェアを必要とし、ベンダーはコンシューマーマージンを上回るプレミアムを要求でき、エッジAIチップス市場全体の規模を拡大しています」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「高いパフォーマンスとASIL-D認証要件は車両あたりのチップ価値を高め、エッジAIチップス市場の長期的な収益を支えています」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「最先端ノードの高ミックス・低ボリュームの性質は、高い平均販売価格を要求するプレミアムコンシューマーデバイスおよびエンタープライズゲートウェイと一致しており、絶対的な出荷量が成熟ノード合計に比べて控えめであっても、エッジAIチップス市場内の収益性を高めています」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「自動車サプライヤーはTexas Instrumentsとレーダー中心のSoCで協業し、乗員モニタリングおよびドライバー状態検知を実現することで、大陸のテクノロジースタック内におけるクロスバーティカルなシナジーを示した」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「最先端の容量と堅牢なソフトウェアエコシステムを確保したサプライヤーは、エッジAIチップス市場が異種マルチダイアセンブリに向けて進む中で、不均衡な経済的利益を獲得する位置にあります」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+- 顧客の競合（奪いに来る側）（55件）：
+  - ［記事］2026-11-09「エッジAIチップス市場規模、トレンド、シェアおよび成長レポート2031」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「米国、日本、ドイツの通信事業者は現在、AIアクセラレーション向けに最適化されたネットワークスライスを試験運用しており、コンピュータービジョンタスクが各層間をシームレスに移動できるようにしています」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「欧州およびアジアの研究コンソーシアムは、マイクロジュールレベルの予算が実現可能性を左右する触覚ロボティクスおよび自律型ドローンスウォームへの応用を検討しています」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「アジア太平洋地域は2025年において43.60%の収益シェアを維持し、ウェーハ製造、先進パッケージングサービス、ODM製造にわたる垂直統合型サプライチェーンがその基盤を支えた」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「韓国のSamsung Electronics Co. Ltd.は高帯域幅メモリスタックによってロジック供給を補完し、低遅延推論アクセラレーターにとって不可欠なシナジーを生み出した」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+- 自社の競合（商社・代理店・仲介）（17件）：
+  - ［記事］2026-11-09「これらのソリューションはより長い動作寿命、より高い熱耐性、およびフィールドアップグレード可能なファームウェアを必要とし、ベンダーはコンシューマーマージンを上回るプレミアムを要求でき、エッジAIチップス市場全体の規模を拡大しています」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
   - ［記事］2026-11-06「開発初期段階から半導体商社だけでなく、メモリベンダーの技術部門とコンタクトを取り、長期的なフォーキャスト（需要予測）を提示することで、優先的な供給枠を確保する交渉を戦略的に行うことが重要です」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-hbm-memory/
   - ［記事］2026-11-06「NXPは、自律型AIエージェントが低遅延、高信頼性、データプライバシーを確​​保しながらエッジで直接動作することを可能にするeIQ Agentic AI Frameworkを発表しました」https://straitsresearch.com/jp/report/edge-ai-market
   - ［記事］2026-11-05「エッジハードウェアに関連する定期的なソフトウェア収益は、ベンダーのマージンに15〜20%を追加し、エッジAIハードウェア市場を一度限りのハードウェア販売を超えて拡大させる可能性があります」https://www.marketresearchfuture.com/ja/reports/edge-ai-hardware-market-7836
   - ［記事］2026-11-04「第11章「Marketing, Distributors and Customer」では、販売チャネル（直接チャネル、間接チャネル）、超エッジAIチップセットの販売業者、および超エッジAIチップセットの顧客に関する情報が記載されている」https://www.atpress.ne.jp/news/9440001
-  - ［記事］2026-11-04「データセンターでなく末端の機器で動作する人工知能、エッジAI向け半導体を手がけるEdgeCortix（エッジコーティックス、川崎市中原区）が、エレクトロニクス商社の伯東、緑屋電気と新たな戦略的提携契約を結んだ」https://dempa-digital.com/article/723488
-- 政治（法・予算・規制）（42件）：
+- 政治（法・予算・規制）（58件）：
   - ［一次］2026-11-07「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
   - ［一次］2026-11-04「この年、米国政府の輸出規制により華為（Huawei）をはじめ、いくつかの企業が影響を受け、それまで監視カメラやスマートシティ分野で広く使われていたAI機能を持つSoCが一気に市場から減少した」https://spap.jst.go.jp/china/experiences/science/st_26032.html
-  - ［記事］2026-11-08「クラウド環境とは異なり、エッジ環境での導入では、限られた電力予算、厳しいレイテンシ要件、断続的な接続性、そして高まるセキュリティへの期待に対処しなければなりません」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「エッジデバイスが安全性が極めて重要とされる環境や規制の厳しい環境で稼働する機会が増えるにつれ、チップにはエッジAIのセキュリティメカニズムをシリコンに直接組み込む必要があります」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-06「米国のCHIPS法補助金は、より多くの企業に半導体工場の建設を促しているが、国内の学校は、必要な数のエンジニア、コンピュータ科学者および技能者を輩出する軌道に乗っていない旨」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
+  - ［記事］2026-11-09「GDPRやカリフォルニア州のCCPAなどの世界的な規制により、個人識別情報の不適切な取り扱いに対する罰則が強化され、生データをローカルに保持するオンデバイス推論の導入が促進されました」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「への新たな需要を生み出し、規制産業におけるエッジAIチップ市場のポジションを化しました」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
+  - ［記事］2026-11-09「欧州およびアジアの研究コンソーシアムは、マイクロジュールレベルの予算が実現可能性を左右する触覚ロボティクスおよび自律型ドローンスウォームへの応用を検討しています」https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market
 - 経済（規模・価格・為替）（68件）：
   - ［記事］2026-11-08「市場調査機関Grand View Researchの最新リポートによると、世界のエッジAIチップ市場は2025年の273億ドル（約4.4兆円）から2033年には2,918億ドル（約46.9兆円）超へ急拡大し、年平均成長率（CAGR）は34.7%に達する見通しだ」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
   - ［記事］2026-11-08「チップ種別ではCPUが依然として主流だが、ASICが33.2%の成長率で最も急成長するカテゴリーとなる」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
   - ［記事］2026-11-08「地域別では北米が世界をリードし続ける一方、AMD、Intel、NVIDIA、Qualcomm、Appleなどのテクノロジー大手が、10兆台湾ドル（約50.9兆円）に迫る巨大市場の覇権を巡って積極的に布陣を進めている」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
   - ［記事］2026-11-08「市場調査機関Grand View Researchが最新で発表した産業分析リポートによると、世界のエッジ人工知能（Edge AI）チップ市場は爆発的な成長段階に入っており、2033年までに市場規模は2,918億ドル（約46.9兆円）を突破し、年平均成長率（CAGR）は34.7%に達する見通しだ」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
   - ［記事］2026-11-08「同リポートによれば、2025年の世界のエッジAIチップ市場規模は既に273億ドル（約4.4兆円）に達しており、今後数年間はIoT機器の急増、機械学習やコンピュータービジョン技術の広範な採用を背景に、市場は高速拡大を維持する見込みだ」https://finance.biggo.jp/news/12f0b49b-e6c9-4264-aef9-941e788136f5
-- 社会（人・担い手）（23件）：
+- 社会（人・担い手）（25件）：
   - ［一次］2026-11-06「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
+  - ［記事］2026-11-09「AIソリューション事業では、JR九州をはじめとする鉄道事業者や地方自治体など、人手不足が課題となっている現場を中心に実証・導入を進めてきた」https://tomoruba.eiicon.net/articles/5919
+  - ［記事］2026-11-09「AI普及に伴う電力消費の増加や、製造・物流・インフラ分野における人手不足といった課題に対し、日本発のディープテック企業として社会実装を進めていく」https://tomoruba.eiicon.net/articles/5919
   - ［記事］2026-11-08「この研究成果を社会実装し、人手不足に悩む社会問題を解決するため、大学発ベンチャー Tokyo Artisan Intelligence (TAI) を起業しました」https://tokyo-ai.co.jp/about/
   - ［記事］2026-11-08「TAI の事業を通じてAI研究による成果を社会還元するだけではなく、研究・開発を通じた人材育成に取り組み、次世代を牽引する人材の輩出に取り組む所存です」https://tokyo-ai.co.jp/about/
-  - ［記事］2026-11-06「もう1つ、半導体新工場への取り組みが各国で行われる中、米国・Semiconductor Industry Association(SIA)が人材不足の問題の警鐘を鳴らす報告書を発表、2030年までに半導体業界で6万7000人不足するとして、関係方面に波紋を呼んでいる」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-  - ［記事］2026-11-06「次に、半導体業界における人材不足について、米国・SIAとOxford Economics社による次の報告書が発表されている」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- 技術（新しい技術・実証）（99件）：
-  - ［記事］2026-11-08「エッジAIチップの設計：ハードウェアとソフトウェアの共同設計が、よりスマートなデバイスを実現する仕組み」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「そして、その答えとなるのがエッジAIかもしれない」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「知能への需要が加速し、データが生成される現場にますます近づくにつれ、エッジAIは、エッジAIチップのアーキテクチャ設計、最適化、導入を牽引する重要な原動力として台頭しています」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「こうした現実により、チップメーカーは従来の設計アプローチを見直すことを余儀なくされており、ハードウェアとソフトウェアの共同設計、AIチップアーキテクチャ、AIモデルを単一の緊密に連携したシステムとして統合する、包括的なエンジニアリングへと焦点を移しています」https://www.ltts.com/jp/blog/edge-ai-chip-design
-  - ［記事］2026-11-08「エッジAIの導入を後押しする主な要因は、すでに確立されている」https://www.ltts.com/jp/blog/edge-ai-chip-design
+- 技術（新しい技術・実証）（109件）：
+  - ［記事］2026-11-09「エッジAIで現場課題に挑むTokyo Artisan Intelligence、11.1億円調達──再構成可能AIチップの開発に本格着手」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-09「今回の調達では、JR東日本コンサルタンツや九州旅客鉄道（JR九州）が新たに資本業務提携先として加わり、AI活用の業界横断的推進と独自半導体チップ開発への本格着手が発表された」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-09「主力事業は、ディープラーニングを基盤としたエッジAIプラットフォームの開発および提供である」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-09「同社は、ニューラルネットワークの圧縮技術やハードウェアへの効率的な実装技術を用い、産業機器・製造装置・鉄道インフラ分野でAIの現場実装を行ってきた」https://kepple.co.jp/articles/vh_svobtf62p
+  - ［記事］2026-11-09「たとえば鉄道の線路点検を自動化する軌道モニタリング装置や、新幹線の確認車両に搭載する支障物検知AIシステムなどがその一例であり、従来は人手に頼っていた点検作業の効率化や省人化に貢献している」https://kepple.co.jp/articles/vh_svobtf62p
 - 検索結果の抜粋：未完（まだ取れていない・掘る対象）
 - SNS・note（X・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
-- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 - SNS・note（Facebook・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
+- SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 ### 日本→海外（輸出）｜生成AI半導体（AI accelerator chip）
 - 取得：2026-11-08T03:59・調査5回目・読んだ頁62
 - 痛み・損（深さの印）（2件）：

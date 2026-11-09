@@ -2212,7 +2212,7 @@
   - 「結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯」（https://www.soumu.go.jp/main_content/000432276.pdf）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -5446,6 +5446,7 @@
   - 「設定、実行結果、原文の画面を本文に載せ、どこまで確認したかを説明します」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
   - 「付属資料には実験コード、架空HTML、実行結果、資料を書き出す補助を収録しました」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
 - 検索結果の抜粋：
+  - 「スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方Defuddle ─ Web ページの本文だけをきれいな Markdown に変換する、オ...Defuddle — ウェブページ本文抽出ライブラリブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder... — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置」（https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています [1]。」（https://nititech.jp/blog/trafilatura-content-extraction/）
@@ -9883,9 +9884,9 @@
   - 「All's well literature bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic access bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
   - 「Diagnostic suspicion bias」（https://catalogofbias.org/biases/outcome-reporting-bias/）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
-- 実例：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
+- 実例：記載なし（読んだ15頁・検索12回）
 
 ## 1人あたり売上の分母の数え方（期末人数・期中平均・常勤換算）と系列の途中で数え方が変わる偽の向き（revenue per employee headcount vs FTE average headcount false trend）
 - 文脈：手順
@@ -11014,6 +11015,7 @@
   - 「AIで作り、検証まで学ぶ8講座」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「「LTMでは12倍だが来期予想では9倍」という並びは、割高と割安の矛盾ではなく、成長期待の大きさそのものです」（https://finance-rice-field.com/ltm-ebitda-calendarization）
 - 一次情報の探し方：
+  - 「日本企業なら、決算短信と半期報告書の損益計算書は期首からの累計表示が基本なので、上の式にそのまま入ります（2024年4月から第1・第3四半期の四半期報告書は廃止され、四半期決算短信に一本化されています）」（https://finance-rice-field.com/ltm-ebitda-calendarization）
   - 「M&Aでは、決算書の数字よりも「いまの実力」に近いため、価格算定の土台として使われます」（https://note.com/ma_nakanohito/n/nfb2926887341）
   - 「決算書は、年に1回しか締まりません」（https://note.com/ma_nakanohito/n/nfb2926887341）
   - 「3月決算の会社を10月に検討する場合、手元の決算書は半年以上前の姿です」（https://note.com/ma_nakanohito/n/nfb2926887341）
@@ -11028,7 +11030,6 @@
   - 「日本企業は3月決算が多数派である一方、米国企業の多くは12月」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「決算を採用しており、国内企業同士でも3月・12月・9月・6月決算が混在します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
   - 「本記事が扱うのは、Comps実務における決算期ズレの」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
-  - 「「同じ業種・成長率でも決算期が違うだけでEV/EBITDAがどれだけ動くか」を整数の仮設例で確認し、LTM統一・CY化・FY表記のまま注記という3つの対応をどう使い分けるかを整理します」（https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/）
 - 失敗・落とし穴：
   - 「LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴｜M&A、中の人」（https://note.com/ma_nakanohito/n/nfb2926887341）
   - 「LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴」（https://note.com/ma_nakanohito/n/nfb2926887341）
@@ -14215,11 +14216,11 @@
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方（headcount definitions full-time equivalent persons engaged statistics vs payroll employees revenue per employee comparison）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合）（prefectural statistical yearbook definitions manufacturing shipments value added size threshold）
 - 文脈：手法・統計
@@ -14239,11 +14240,11 @@
 
 ## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）（journalism foundation guide verifying statistics sources ICFJ Reynolds Center GIJN data quality）
 - 文脈：裏取り
@@ -14282,7 +14283,7 @@
   - 「この記事では、経済統計(SNA: System of National Accounts)の体系について、家計・企業・政府の関係性を中心に図解した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
   - 「この記事では、中小製造業の技術を自社製品として昇華し、その販路開拓を伴走する合同会社メイクスアンドシングスと町工場プロダクツの取り組み事例をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
   - 「この記事では、私たちの経済活動を体系的・網羅的に集計した経済統計であるSNAと、企業会計の類似性について、統計データで検証した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
 
 ## 登記簿をまたいで会社のつながり（親会社・役員・株主）をたどる実務（OpenCorporates・GIJN の企業記録の手引き・登記番号・届出の日付・住所の共有は根拠にしない）（tracing companies across corporate registries officers shareholders filing dates methodology OpenCorporates GIJN）
 - 文脈：裏取り

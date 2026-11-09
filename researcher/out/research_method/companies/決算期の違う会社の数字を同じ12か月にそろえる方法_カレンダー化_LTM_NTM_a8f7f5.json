@@ -8,102 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T19:32:41.593286+00:00",
+ "researched_at": "2026-11-09T03:42:08.842872+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "国内だけでComp Setを組んでも、3月決算と12月決算・9月決算の会社が混在するケースは珍しくありません",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
-    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2. 一過性の大型受注が混ざる",
-    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "四半期データからLTM・NTMを実際に積み上げるExcel実装の手順は、姉妹記事の",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "EV/EBITDA​倍率と​類似会社比較法｜Comps​作成の​5ステップ",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "スタブ期間のEBITDAをComps用に年換算する際によくあるミスが、単純に「12か月 ÷ 期間月数」を掛けて引き伸ばすやり方です",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "図2：決算期ズレへの対応方法を選ぶ判断フロー",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "で揃えたか、②補正方法",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "マルチプルのレンジだけを示して補正方法を書かないと、レビューする側は数値の信頼性を判断できません",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "季節性の​ない​事業であれば​単純な​月数按分でも​大きな​誤差は​生じませんが、​季節性が​ある​事業では​実態から​離れた​数値に​なりやすいため、​前年同期の​実績や​季節指数で​補正するのが​望ましい​方法です",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "補正を行った場合は、基準日・補正方法・補正できなかった会社の有無をフットノートで開示し、レビューする側が数値の前提を検証できる状態にしておくことが実務上の作法です",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "その​AIの​使い方、",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "本記事では、LTMの計算式と数値例、日本の開示資料からの数字の拾い方、そして決算期がずれたコンプスを揃えるカレンダライゼーションまで、実務の手順を解説します",
-    "url": "https://finance-rice-field.com/ltm-ebitda-calendarization",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "手順自体は単純ですが、分母の期間定義が揃って初めてマルチプルは比較可能になります",
-    "url": "https://finance-rice-field.com/ltm-ebitda-calendarization",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "が生じた会社については、前後のFYを合成した推定12か月ベースの数値を使用した」",
@@ -136,63 +42,13 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "失敗・落とし穴": [
+  "一次情報の探し方": [
    {
-    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴｜M&A、中の人",
-    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴",
-    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
-    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "LTMと「年換算」の違い：3つの落とし穴",
-    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "月次の締めは何か月遅れか（2か月以上なら要注意）",
-    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "で解説）の代替として使う近似値である点には注意が必要です",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "業種に​よる​季節性が​ある​場合の​注意点",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "バリュエーションの​落とし穴20",
-    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意点は3つ",
+    "quote": "日本企業なら、決算短信と半期報告書の損益計算書は期首からの累計表示が基本なので、上の式にそのまま入ります（2024年4月から第1・第3四半期の四半期報告書は廃止され、四半期決算短信に一本化されています）",
     "url": "https://finance-rice-field.com/ltm-ebitda-calendarization",
     "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "一次情報の探し方": [
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "M&Aでは、決算書の数字よりも「いまの実力」に近いため、価格算定の土台として使われます",
     "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
@@ -385,41 +241,161 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴｜M&A、中の人",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "LTMとは？M&Aで直近12か月の利益を使う理由と年換算の3つの落とし穴",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "LTMと「年換算」の違い：3つの落とし穴",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "月次の締めは何か月遅れか（2か月以上なら要注意）",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "で解説）の代替として使う近似値である点には注意が必要です",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "業種に​よる​季節性が​ある​場合の​注意点",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "バリュエーションの​落とし穴20",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "注意点は3つ",
+    "url": "https://finance-rice-field.com/ltm-ebitda-calendarization",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "国内だけでComp Setを組んでも、3月決算と12月決算・9月決算の会社が混在するケースは珍しくありません",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "この記事では、LTMの計算方法、M&Aで使われる理由、年換算との違いと3つの落とし穴、黒字転換した会社の見方を、CFOの立場から解説します",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2. 一過性の大型受注が混ざる",
+    "url": "https://note.com/ma_nakanohito/n/nfb2926887341",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算期が異なる会社をCompsで比較する方法｜CY化・スタブ期間・予想年度｜大手町プレップ",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "四半期データからLTM・NTMを実際に積み上げるExcel実装の手順は、姉妹記事の",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "EV/EBITDA​倍率と​類似会社比較法｜Comps​作成の​5ステップ",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "スタブ期間のEBITDAをComps用に年換算する際によくあるミスが、単純に「12か月 ÷ 期間月数」を掛けて引き伸ばすやり方です",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "図2：決算期ズレへの対応方法を選ぶ判断フロー",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "で揃えたか、②補正方法",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "マルチプルのレンジだけを示して補正方法を書かないと、レビューする側は数値の信頼性を判断できません",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "季節性の​ない​事業であれば​単純な​月数按分でも​大きな​誤差は​生じませんが、​季節性が​ある​事業では​実態から​離れた​数値に​なりやすいため、​前年同期の​実績や​季節指数で​補正するのが​望ましい​方法です",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "補正を行った場合は、基準日・補正方法・補正できなかった会社の有無をフットノートで開示し、レビューする側が数値の前提を検証できる状態にしておくことが実務上の作法です",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "その​AIの​使い方、",
+    "url": "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "本記事では、LTMの計算式と数値例、日本の開示資料からの数字の拾い方、そして決算期がずれたコンプスを揃えるカレンダライゼーションまで、実務の手順を解説します",
+    "url": "https://finance-rice-field.com/ltm-ebitda-calendarization",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "手順自体は単純ですが、分母の期間定義が揃って初めてマルチプルは比較可能になります",
+    "url": "https://finance-rice-field.com/ltm-ebitda-calendarization",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://www.obc.co.jp/360/list/post433",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://ishiomaru.com/differences/",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "status": "ok",
@@ -436,7 +412,7 @@
     "method": "http"
    },
    {
-    "url": "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "url": "https://ipo-method.com/accounting/3393/",
     "status": "ok",
     "method": "http"
    },
@@ -446,7 +422,27 @@
     "method": "http"
    },
    {
-    "url": "https://ipo-method.com/accounting/3393/",
+    "url": "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obc.co.jp/360/list/post433",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://financetax-l.jp/%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%83%BB%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%97%A5%E3%81%AE%E5%B7%AE%E7%95%B0%EF%BC%88%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%80%8C3%E3%81%8B%E6%9C%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
     "status": "ok",
     "method": "http"
    },
@@ -461,12 +457,12 @@
     "method": "http"
    },
    {
-    "url": "https://finance-able.com/blog/calendarization/",
+    "url": "https://breakingintowallstreet.com/kb/finance/last-twelve-months-ltm/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://breakingintowallstreet.com/kb/finance/last-twelve-months-ltm/",
+    "url": "https://finance-able.com/blog/calendarization/",
     "status": "ok",
     "method": "http"
    },
@@ -476,7 +472,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.wallstreetmojo.com/calendarization/",
+    "url": "https://www.fe.training/free-resources/accounting/last-twelve-months-ltm/",
     "status": "ok",
     "method": "http"
    }
@@ -486,15 +482,15 @@
   {
    "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） site:note.com",
    "results": [
+    "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
+    "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "https://finance-rice-field.com/ltm-ebitda-calendarization",
+    "https://ipo-method.com/accounting/3393/",
+    "https://note.com/gentle_whale205/n/nacbbb94f6294",
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
     "https://www.obc.co.jp/360/list/post433",
     "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI",
-    "https://support.freee.co.jp/hc/ja/articles/50802240748441-%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%9C%9F%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AE%E8%A9%A6%E7%AE%97%E8%A1%A8-%E5%86%85%E9%83%A8%E5%8F%96%E5%BC%95%E3%81%AE%E5%90%8C%E6%9C%9F-%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
-    "https://ishiomaru.com/differences/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://domanda.jp/singapore_m-and-a_consolidation/",
     "https://note.com/ma_nakanohito/n/nfb2926887341"
    ],
    "engines": [
@@ -507,14 +503,14 @@
    "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） note",
    "results": [
     "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
-    "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
     "https://finance-rice-field.com/ltm-ebitda-calendarization",
-    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
     "https://note.com/gentle_whale205/n/nacbbb94f6294",
-    "https://www.obc.co.jp/360/list/post433",
     "https://ipo-method.com/accounting/3393/",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf"
+    "https://www.obc.co.jp/360/list/post433",
+    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "https://financetax-l.jp/%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%83%BB%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%97%A5%E3%81%AE%E5%B7%AE%E7%95%B0%EF%BC%88%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%80%8C3%E3%81%8B%E6%9C%88/"
    ],
    "engines": [
     "yahoo_jp"
@@ -527,11 +523,11 @@
     "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
     "https://finance-rice-field.com/ltm-ebitda-calendarization",
-    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
-    "https://note.com/gentle_whale205/n/nacbbb94f6294",
-    "https://www.obc.co.jp/360/list/post433",
     "https://ipo-method.com/accounting/3393/",
+    "https://note.com/gentle_whale205/n/nacbbb94f6294",
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
     "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
+    "https://www.obc.co.jp/360/list/post433",
     "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf"
    ],
    "engines": [
@@ -545,11 +541,11 @@
     "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
     "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
     "https://finance-rice-field.com/ltm-ebitda-calendarization",
-    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
-    "https://note.com/gentle_whale205/n/nacbbb94f6294",
     "https://ipo-method.com/accounting/3393/",
-    "https://www.obc.co.jp/360/list/post433",
+    "https://note.com/gentle_whale205/n/nacbbb94f6294",
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
     "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
+    "https://www.obc.co.jp/360/list/post433",
     "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf"
    ],
    "engines": [
@@ -562,36 +558,38 @@
    "results": [
     "https://www.wallstreetprep.com/knowledge/calendarization/",
     "https://corporatefinanceinstitute.com/resources/accounting/calendarization/",
+    "https://breakingintowallstreet.com/kb/finance/last-twelve-months-ltm/",
     "https://www.youtube.com/watch?v=rCrarrkKX7I",
     "https://finance-able.com/blog/calendarization/",
-    "https://breakingintowallstreet.com/kb/finance/last-twelve-months-ltm/",
     "https://ibinterviewquestions.com/guides/valuation-investment-banking/ltm-vs-ntm-multiples-trailing-forward-calendarized",
-    "https://www.wallstreetmojo.com/calendarization/",
-    "https://closeddeals.substack.com/p/technical-deep-dive-27-ltm-vs-ntm",
     "https://www.fe.training/free-resources/accounting/last-twelve-months-ltm/",
+    "https://www.wallstreetmojo.com/calendarization/",
+    "https://www.parikh.financial/glossary/last-twelve-months-ltm/",
     "https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
    "results": [
+    "https://note.com/zuruzirou/n/nf4aefd3bc596",
     "https://note.com/ma_nakanohito/n/nfb2926887341",
     "https://note.com/loots/n/n087b9f4d306f",
     "https://note.com/tasty_hawk401/n/nbcacdf1ef763",
-    "https://note.com/takonove/n/ne3545384d432",
     "https://note.com/lucky_bee22/n/n4be1125a8104",
-    "https://note.com/shingeki_saisei/n/nbef848b1dac8",
-    "https://note.com/fayanasan/n/nf322d29105cb"
+    "https://note.com/takonove/n/ne3545384d432",
+    "https://note.com/fayanasan/n/nf322d29105cb",
+    "https://note.com/shingeki_saisei/n/nbef848b1dac8"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:x.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
@@ -612,13 +610,13 @@
   {
    "query": "site:linkedin.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
    "results": [
-    "https://www.linkedin.com/pulse/同じ数字でも意味は違う-daisuke-hiraoka-j2axc",
     "https://jp.linkedin.com/in/史果-柏原-6a0697408",
     "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系でいう-q1-は基本的に-first-quarter第1四半期-activity-7444178554004803584-pSme",
     "https://www.linkedin.com/posts/activity-7414304935854501888-vnuj",
+    "https://www.linkedin.com/pulse/3つの違う視点ひとつの同じ問い-vol12-masa-sawamoto-vlbzc/",
     "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系企業におけるクオーターの使われ方-ビジネスや金融業界ではクオーター-activity-7378580217256312832-TewQ",
-    "https://jp.linkedin.com/posts/義道-渡邉-820883175_月次決算の打合せで同じ課題が何度も出てくることがあります数字を見てここを改善-activity-7503569046563467264-ugFg",
-    "https://jp.linkedin.com/posts/tomokonakao_米国日系企業向け棚卸の準備ポイント-今年も残すところ一か月となり１２月決算-activity-7399446864561029120-Vn7H"
+    "https://jp.linkedin.com/posts/俊彦-木津-16287b37a_自社では何を見える化すればよいのか-ここまで経営の見える化についてお伝えしてきました-activity-7498880784049549312--hKU",
+    "https://jp.linkedin.com/posts/義道-渡邉-820883175_月次決算の打合せで同じ課題が何度も出てくることがあります数字を見てここを改善-activity-7503569046563467264-ugFg"
    ],
    "engines": [
     "ddgs:google"
@@ -627,32 +625,22 @@
   },
   {
    "query": "site:facebook.com 決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗）",
-   "results": [
-    "https://www.facebook.com/kodatokaikei/",
-    "https://www.facebook.com/Pragma0120/",
-    "https://www.facebook.com/BIPROGY/videos/同じ売上データなのに数字が合わない原因はデータの意味や算出ルールの違いかもデータ活用で押さえたいポイントを解説ホワイトペーパーはこちらhttpsformbipr/2031634644162769/",
-    "https://www.facebook.com/digglejp/posts/事業ごとの数字がバラバラで全社の状況が見えづらくなっていませんか事業ごとに管理方法が違う見込み更新のタイミングもバラバラ気づけば全社の着地が読めないまま月末を迎/1472942694845633/",
-    "https://www.facebook.com/musashinoacademy/photos/-武蔵野流経営計画書の構成数字編-9分でサクッと学べる動画を公開武蔵野流の経営計画書は理念-数字目標-方針-事業年度計画へと一貫して落とし込むことで社内教育の教/1284487630383603/",
-    "https://www.facebook.com/Pragma0120/photos/決算書の話をしたい会計事務所経営の話をしたい社長未来会計の現場-vol26-セカンドオピニオン編③ある社長がこんな風におっしゃっていました税理士さんにはお願いし/1378860880911320/",
-    "https://www.facebook.com/100026138222127/posts/aiは数字に弱いから経営の数字を見せるのはちょっと研修先の社長から今でもよく聞きますその思い込みのせいで毎月いちばん時間を食う作業をいまだに手で抱え込んでいない/1984071472474108/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） note 社長",
    "results": [
+    "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
+    "https://finance-rice-field.com/ltm-ebitda-calendarization",
+    "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "https://note.com/gentle_whale205/n/nacbbb94f6294",
+    "https://ipo-method.com/accounting/3393/",
     "https://www.obc.co.jp/360/list/post433",
     "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.kobelcosys.co.jp/column/monozukuri/251/",
-    "https://jisedai-kansa.jp/ipo-knowledge/post-1868/",
-    "https://biz.moneyforward.com/accounting/basic/68465/",
-    "https://ishiomaru.com/differences/",
-    "https://globis.jp/article/7092/",
-    "https://www.youtube.com/watch?v=RZr9Wz1WPKI"
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "https://financetax-l.jp/%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%83%BB%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%97%A5%E3%81%AE%E5%B7%AE%E7%95%B0%EF%BC%88%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%80%8C3%E3%81%8B%E6%9C%88/"
    ],
    "engines": [
     "yahoo_jp"
@@ -663,13 +651,13 @@
    "query": "決算期の違う会社の数字を同じ12か月にそろえる方法（カレンダー化・LTM・NTM・実績の月と見込みの月の合成・季節性の強い業種での失敗） X 投稿",
    "results": [
     "https://tax.n-legal.co.jp/2026/10/19/cf-kogaisha-kessanki-henko/",
-    "https://ipo-method.com/accounting/3393/",
-    "https://note.com/gentle_whale205/n/nacbbb94f6294",
-    "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
-    "https://www.obc.co.jp/360/list/post433",
     "https://finance-rice-field.com/ltm-ebitda-calendarization",
-    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
+    "https://otemachiprep.com/val-022-comps-fiscal-year-adjustment/",
+    "https://note.com/gentle_whale205/n/nacbbb94f6294",
+    "https://ipo-method.com/accounting/3393/",
+    "https://www.obc.co.jp/360/list/post433",
     "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/consolidated/pdf/ey-japan-corporate-accounting-commentary-consolidated-2013-12-13.pdf",
+    "https://prime-partners.co.jp/consolidation-subsidiary-different-fiscal-year-end/",
     "https://financetax-l.jp/%E8%A6%AA%E4%BC%9A%E7%A4%BE%E3%83%BB%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%B1%BA%E7%AE%97%E6%97%A5%E3%81%AE%E5%B7%AE%E7%95%B0%EF%BC%88%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%80%8C3%E3%81%8B%E6%9C%88/"
    ],
    "engines": [
@@ -699,7 +687,16 @@
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 6,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "日本企業なら、決算短信と半期報告書の損益計算書は期首からの累計表示が基本なので、上の式にそのまま入ります（2024年4月から第1・第3四半期の四半期報告書は廃止され、四半期決算短信に一本化されています）",
+    "url": "https://finance-rice-field.com/ltm-ebitda-calendarization",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 7,
  "first_researched_at": "2026-11-07T10:53:26.370812+00:00"
 }

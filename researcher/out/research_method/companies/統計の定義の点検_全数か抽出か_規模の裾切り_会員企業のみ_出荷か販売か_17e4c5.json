@@ -8,7 +8,7 @@
  ],
  "context": "定義の点検",
  "kind": "market",
- "researched_at": "2026-11-08T19:22:03.940169+00:00",
+ "researched_at": "2026-11-09T03:39:43.854477+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -97,6 +97,46 @@
    },
    {
     "quote": "【調査方法】 （選定）全数 （客体数）36,365 （配布）オンライン （取集）オンラ",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "勢や他都道府県の状況と照合することで、 観光行政の的確な実施に役立てること",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "登校児童生徒数、 ４． 不登校の要因、 ５． 不登校児童生徒への指導結果状況、",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "不登校生徒への指導結果状況、８．相談・指導等を受けた学校内外の機関等",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果",
+    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯",
     "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -193,80 +233,100 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "勢や他都道府県の状況と照合することで、 観光行政の的確な実施に役立てること",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "登校児童生徒数、 ４． 不登校の要因、 ５． 不登校児童生徒への指導結果状況、",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "不登校生徒への指導結果状況、８．相談・指導等を受けた学校内外の機関等",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯",
-    "url": "https://www.soumu.go.jp/main_content/000432276.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/uedamath/n/nae5cd24433ea",
+    "url": "https://note.com/keisemi/n/naf14ab3c9062",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/uminomieruheya/n/n3a1ab577382d",
+    "url": "https://note.com/bizgram/n/n9a587c22ec50",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kenko2024/n/na7db5c406f98",
+    "url": "https://note.com/well_living_ry/n/ncb3a0fe9188f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/makememo/n/n7ae565d6e7f0",
+    "url": "https://note.com/ripla_business/n/n93006d62b537",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
+    "url": "https://note.com/t_isomatsu/n/na2492959fc04",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/paguinu/n/n175e4c9bea71",
+    "url": "https://note.com/kagawatomo/n/n49f13e2d83fe",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://note.com/ohnishi1000/n/n2261e5d7abed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/miyamoto_toukei/n/n679729da0d1b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shl.co.jp/column/perspective/statistical-significance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kojinke/qa-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00500248001/download/ir0001",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/meetings/iinkai_76/siryou_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/documents/27337/654753.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
@@ -274,87 +334,57 @@
     "method": "http"
    },
    {
-    "url": "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
+    "url": "https://corp.neo-m.jp/column/marketing-research_150_samplesurvey-merit",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.icrr.u-tokyo.ac.jp/~ono/lectures/2023basic_stat/mat05.pdf",
+    "url": "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-sample-survey/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/5994/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/glossary/zensu-chousa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.okayama.jp/shisei/0000020881.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/cps/technical-documentation/subject-definitions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catnmsplan.com/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unstats.un.org/UNSDWebsite/statcom/session_57/documents/BG-3h-2-MSITS_2026_white_cover_version-Rev-E.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://pref.shimane-toukei.jp/index.php?view=15577",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.onoff.ne.jp/blog/?p=14424",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://instant.engineer/entry/sampling-inspection",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sangyo-tech.jp/columns/what-is-full-inspection/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://shirasusolo.net/statistics/inspection/post-925/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000754121.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://learn.g2.com/sales-terms",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.census.gov/foreign-trade/guide/sec2.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/sales-report",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.salesforce.com/sales/performance-management/sales-kpis/?bc=OTH",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://deltasalesapp.com/blog/what-is-sales-coverage-and-how-can-companies-measure-it",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.dimins.com/blog/2026/01/29/shipments-depletions-sell-through-differences/",
+    "url": "https://www.salesgenie.com/blog/sales-pipeline-coverage/",
     "status": "ok",
     "method": "http"
    }
@@ -364,98 +394,117 @@
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） site:note.com",
    "results": [
-    "https://note.com/uedamath/n/nae5cd24433ea",
-    "https://note.com/uminomieruheya/n/n3a1ab577382d",
-    "https://note.com/kenko2024/n/na7db5c406f98",
-    "https://note.com/makememo/n/n7ae565d6e7f0",
-    "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
-    "https://note.com/paguinu/n/n175e4c9bea71",
-    "https://note.com/roselite/n/nda0bcd852d3e"
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/well_living_ry/n/ncb3a0fe9188f",
+    "https://note.com/ripla_business/n/n93006d62b537",
+    "https://note.com/t_isomatsu/n/na2492959fc04",
+    "https://note.com/kagawatomo/n/n49f13e2d83fe",
+    "https://note.com/ogataka/n/n9da5cd1635fa",
+    "https://note.com/kagawatomo/n/n3899e67fd088",
+    "https://note.com/kagawatomo/n/nd3159032d31a",
+    "https://note.com/makabe_takashi/n/n2c8a3e772c07"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） note",
    "results": [
-    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
-    "https://note.com/kenko2024/n/na7db5c406f98",
-    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.icrr.u-tokyo.ac.jp/~ono/lectures/2023basic_stat/mat05.pdf",
-    "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://pref.shimane-toukei.jp/index.php?view=15577",
-    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf"
+    "https://note.com/ohnishi1000/n/n2261e5d7abed",
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://note.com/miyamoto_toukei/n/n679729da0d1b",
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://www.shl.co.jp/column/perspective/statistical-significance/",
+    "https://note.com/nanto_econ",
+    "https://www.sprocket.bz/blog/20221018-sample.html",
+    "https://note.com/shiro_ma/n/n81ce6b085da4",
+    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） やり方",
    "results": [
-    "https://www.onoff.ne.jp/blog/?p=14424",
-    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
-    "https://instant.engineer/entry/sampling-inspection",
-    "https://sangyo-tech.jp/columns/what-is-full-inspection/",
-    "https://www.stat.go.jp/naruhodo/12_ppdac/plan/plan1.html",
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo.html",
+    "https://www.stat.go.jp/data/kojinke/qa-2.html",
+    "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
+    "https://www.e-stat.go.jp/surveyplan/p00500248001/download/ir0001",
+    "https://www.soumu.go.jp/main_sosiki/singi/toukei/meetings/iinkai_76/siryou_2.pdf",
+    "https://www.pref.miyagi.jp/documents/27337/654753.pdf",
+    "https://www.cross-m.co.jp/column/marketing/util55",
     "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://shirasusolo.net/statistics/inspection/post-925/"
+    "https://policies.env.go.jp/earth/ghg-santeikohyo/files/study/2022/stdy_20220117_3_rev2.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） 事例",
    "results": [
+    "https://www.meti.go.jp/statistics/tyo/seidou/gaiyo.html",
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
-    "https://instant.engineer/entry/sampling-inspection",
-    "https://www.onoff.ne.jp/blog/?p=14424",
-    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
-    "https://www.soumu.go.jp/main_content/000754121.pdf"
+    "https://corp.neo-m.jp/column/marketing-research_150_samplesurvey-merit",
+    "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-sample-survey/",
+    "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
+    "https://www.issoh.co.jp/column/details/5994/",
+    "https://www.asmarq.co.jp/column/column-cat/glossary/zensu-chousa/",
+    "https://www.city.okayama.jp/shisei/0000020881.html",
+    "https://form.run/home/blog/survey/analytics/sample-survey",
+    "https://instant.engineer/entry/sampling-inspection"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "checking statistical definitions coverage threshold member-only shipment vs sales",
    "results": [
-    "https://learn.g2.com/sales-terms",
-    "https://www.census.gov/foreign-trade/guide/sec2.html",
-    "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/default-reports/sales-report",
-    "https://www.salesforce.com/sales/performance-management/sales-kpis/",
-    "https://deltasalesapp.com/blog/what-is-sales-coverage-and-how-can-companies-measure-it",
-    "https://www.dimins.com/blog/2026/01/29/shipments-depletions-sell-through-differences/",
-    "https://learn.microsoft.com/en-us/sql/relational-databases/statistics/statistics?view=sql-server-ver17"
+    "https://www.cpgdatainsights.com/measure-sales/shipments-vs-retailsales/",
+    "https://www.ftc.gov/business-guidance/resources/complying-telemarketing-sales-rule",
+    "https://www.census.gov/programs-surveys/cps/technical-documentation/subject-definitions.html",
+    "https://catnmsplan.com/faq",
+    "https://unstats.un.org/UNSDWebsite/statcom/session_57/documents/BG-3h-2-MSITS_2026_white_cover_version-Rev-E.pdf",
+    "https://www.salesgenie.com/blog/sales-pipeline-coverage/",
+    "https://monday.com/blog/crm-and-sales/what-is-sales-pipeline-coverage/",
+    "https://www.fec.gov/help-candidates-and-committees/lobbyist-bundling-disclosure/",
+    "https://www.independentagent.com/vu_resource/3-sales-measurements-every-agent-must-understand/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:note.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
-    "https://note.com/uedamath/n/nae5cd24433ea",
-    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/bearcapital/n/n4f3d135558b3",
+    "https://note.com/jack4manastalk/n/ne356da0a34cb",
     "https://note.com/kenko2024/n/na7db5c406f98",
+    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/statistics_ai/n/n205349f6d99d",
+    "https://note.com/paguinu/n/n175e4c9bea71",
     "https://note.com/roselite/n/nda0bcd852d3e",
     "https://note.com/hiroshi_gomi/n/n2b41fe7fa1d3",
-    "https://note.com/paguinu/n/n175e4c9bea71",
-    "https://note.com/qiqumo/n/n39d18b7c45a8"
+    "https://note.com/gadget_hack/n/nf2e41056ff6a"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:x.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
@@ -463,10 +512,10 @@
     "https://x.com/tokuyobi/status/2060647415372259783",
     "https://x.com/Sakura_Med_DSci/status/2117084361283760618",
     "https://x.com/Gustav_Mononobe/status/2112725020472680713",
-    "https://x.com/cyy6oajGf368946/status/2118543137463546145",
-    "https://x.com/cyy6oajGf368946/status/2118543288047415692",
+    "https://x.com/bot_kanazawa/status/2102382783327072664",
     "https://x.com/tru_isct/status/2083915567153770905",
-    "https://x.com/makoto1688/status/1998967163785457900"
+    "https://x.com/AISTATSCH/status/2074858731809223086",
+    "https://x.com/BOT_SWkokushi/status/1586953495592464385"
    ],
    "engines": [
     "ddgs:google"
@@ -477,10 +526,10 @@
    "query": "site:linkedin.com 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）",
    "results": [
     "https://jp.linkedin.com/learning/cert-prep-corporate-activities-for-it-passport-31669299/8729025",
-    "https://jp.linkedin.com/pulse/statistical-sampling-market-research-what-its-types-?tl=ja",
     "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7269624851126988800-WZ_c",
-    "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3369083",
+    "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-実務教育研究所-activity-7357251360871903232-BIC0",
+    "https://jp.linkedin.com/pulse/why-statistics-terminology-especially-confusing-karen-grace-martin-3dfrc?tl=ja",
     "https://jp.linkedin.com/pulse/wat-statistics-why-important-digital-elearning?tl=ja",
     "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3371063"
    ],
@@ -508,56 +557,66 @@
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） note 社長",
    "results": [
-    "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
-    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://note.com/kenko2024/n/na7db5c406f98",
-    "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://pref.shimane-toukei.jp/index.php?view=15577",
-    "https://www.onoff.ne.jp/blog/?p=14424",
-    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf"
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/syoudou/pdf/survey_report_r03.pdf",
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/nablas/n/n026b9d4624ec",
+    "https://www.e-stat.go.jp/surveyplan-ir-guide",
+    "https://note.com/note_ir/n/n57d288e4fea8",
+    "https://www.digital.archives.go.jp/file/4841852",
+    "https://note.com/miyamoto_toukei/n/n679729da0d1b"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か） X 投稿",
    "results": [
     "https://www.stat.go.jp/naruhodo/7_shurui/zensu.html",
-    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html",
-    "https://www.soumu.go.jp/main_content/000596373.pdf",
-    "https://pref.shimane-toukei.jp/index.php?view=15577",
-    "https://www.icrr.u-tokyo.ac.jp/~ono/lectures/2023basic_stat/mat05.pdf",
-    "https://www.pref.toyama.jp/sections/1015/lib/kandokoro/1-02.pdf",
-    "https://instant.engineer/entry/sampling-inspection"
+    "https://www.mof.go.jp/pri/reference/ssc/qa.htm",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.meti.go.jp/statistics/tyo/syoudou/pdf/survey_report_r03.pdf",
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://corp.neo-m.jp/column/marketing-research_150_samplesurvey-merit",
+    "https://researto.com/column/statistical-significance-p-value-marketing/",
+    "https://www.e-stat.go.jp/surveyplan-ir-guide",
+    "https://qiita.com/Mrs_P/items/c55ba09e155812dd8ee0",
+    "https://www.mlit.go.jp/statistics/details/t-other-2_tk_000334.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "checking statistical definitions coverage threshold member-only shipment vs sales site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/secret-sales-superpower-maximizing-quality-pipeline-gropper-kaufman-u6b9c/",
-    "https://www.linkedin.com/pulse/analyzing-sales-coverage-maps-espatial",
-    "https://business.linkedin.com/sell/resources/sales-terms",
-    "https://business.linkedin.com/sales-solutions/resources/sales-pipeline-definition-and-stages",
-    "https://www.linkedin.com/pulse/how-calculate-pipeline-coverage-formula-2026-sales-teams-filipowski-eerbf",
-    "https://www.linkedin.com/top-content/sales/sales-planning/sales-coverage-planning-tips/",
-    "https://www.linkedin.com/pulse/how-risk-adjust-your-pipeline-coverage-ratio-because-sales-sullivan-s35se"
+    "https://www.linkedin.com/top-content/sales/identifying-high-value-leads/defining-qualified-leads-for-sales-and-marketing/",
+    "https://www.linkedin.com/in/john-aven-phd",
+    "https://www.linkedin.com/in/charlie-o-connor-7a6953106",
+    "https://www.linkedin.com/in/brittanyennix",
+    "https://ie.linkedin.com/in/dskenny",
+    "https://www.linkedin.com/in/dearmrrahman",
+    "https://www.linkedin.com/in/yue-shentu-97136818",
+    "https://bg.linkedin.com/in/kienduytran",
+    "https://www.linkedin.com/in/esammer",
+    "https://www.linkedin.com/in/shivi-nigam"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 22,
+ "runs": 23,
  "first_researched_at": "2026-11-05T05:36:39.709245+00:00"
 }

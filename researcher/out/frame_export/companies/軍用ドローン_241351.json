@@ -8,54 +8,666 @@
  ],
  "context": "5 防衛 ①小型無人航空機",
  "kind": "market",
- "researched_at": "2026-11-08T03:31:23.095872+00:00",
+ "researched_at": "2026-11-09T03:36:45.371975+00:00",
  "evidence": {
-  "SNS・note（note・本文）": [
+  "経済（規模・価格・為替）": [
    {
-    "quote": "軍用ドローンって一体なに？ どうやって運用・操縦されてるのかを調べて未来のドローン戦争についても予測してみた｜大岡まさひ",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "プランテーションシャッター市場は2035年に209億6,000万米ドル到達へ｜CAGR 3.49％、住宅の断熱性向上・スマートホーム化・耐久性に優れたインテリア製品への需要拡大が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "建設用プラスチック市場、2035年に2億8,293万米ドル規模へ拡大予測｜CAGR 7.95％、軽量化・耐久性・省エネ建材の需要拡大が市場成長を加速",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ヒト生体試料の世界市場（2026年～2032年）、市場規模（ヒト生体液、ヒト組織サンプル、細胞製品、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マシンビジョン用光源デジタルコントローラーの世界市場（2026年～2032年）、市場規模（ベーシックタイプ、アドバンストタイプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ひずみ波ギアボックスの世界市場（2026年～2032年）、市場規模（ハット型、カップ型、パンケーキ型）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "半導体製造装置用シリコン部品の世界市場（2026年～2032年）、市場規模（エッチング用シリコン部品、炉・LPCVD用シリコン部品）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "防衛テック分野への国内投資額は 2023 年時点では 1000 万ドル未満であったが、2025 年には Brave1",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "26 「ウクライナ国防省高官、軍需企業幹部と 59 億円横領 砲弾調達巡り」毎日新聞 2024 年 1 月 28 日",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "29 Joe Saballa, “Zelensky Says Ukraine Can Now Produce Four Million Drones a Year,” The Defense Post, October 3, 2024; Illia Kabachynskyi,",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "“Ukraine Now Set to Produce 4 Million Drones Annually, After Incredible Two-Year Growth,” United 24 Media, October 21, 2024 (updated July 01,",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2024); Illia Kabachynskyi, “Ukrainian Armed Forces Expect Record Drone Deliveries in 2024-2025 Backed By Over $4 Billion,” United 24 Media, Oct",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "64 Illia Kabachynskyi, “Ukraine’s Defense Tech Boom: $129M Raised in 2025, 2x Growth Over 2024,” United 24 Media, Feb 05, 2026.",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "68 Illia Kabachynskyi, “Ukraine’s Defense Tech Boom: $129M Raised in 2025, 2x Growth Over 2024,” United 24 Media, Feb 05, 2026.",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "76 “£750 million package to provide Ukraine with 150,000 drones and boost air defence,” Gov UK press release, June 18, 2026; Ministry of",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Ukraine of Defence “$4 billion in support and record air defence contributions: Ramstein-format participant countries announce new assistance",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "83 Ministry of Defence, Dan Jarvis, and Keir Starmer, “UK drone transformation to strengthen Armed Forces backed by more than £5 billion,” Gov",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ポリウレアコーティング市場、2035年に267万米ドル規模へ拡大、CAGR 5.76％で進む高耐久性防食・防水コーティング需要の成長",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "産業用ベアリング市場は2035年に3億7,917万米ドルに到達、CAGR 4.3％で成長｜自動車・工作機械・製造設備における高耐久性・省エネ・高性能ベアリング需要が拡大",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インスタント飲料プレミックス市場、2035年に1,818.3億米ドルへ拡大予測｜CAGR 5.92％、利便性と多様化する消費者ニーズが成長を牽引",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "地下水管理市場、2035年に541億8000万米ドルへ拡大予測、CAGR4.34％で進む水資源保全・持続可能な地下水利用と管理技術の進化",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "DTFインクの世界市場（2026年～2032年）、市場規模（シアン、イエロー、ブラック、ホワイト、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PCB内層用フォトレジストの世界市場（2026年～2032年）、市場規模（LPIタイプ、LDIタイプ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "獣医用超音波プローブの世界市場（2026年～2032年）、市場規模（リニアアレイプローブ、コンベックスアレイプローブ、マイクロコンベックスアレイプローブ、フェーズドアレイプローブ、腔内または直腸用プローブ）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "水中船体洗浄ロボットの世界市場（2026年～2032年）、市場規模（遠隔操作型潜水機（ROV）、自律型潜水機（AUV））・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "売上高300億円以下の中堅上場企業「NEXT Company」を対象に有力企業の戦略を探った",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "直近決算期の売上高が300億円以下の中堅上場企業約1900社（金融など除く）について、株式市場に成長を期待される企業をさまざまな切り口から探ります",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "（2022年5月、売上高100億円以下の「NEXT1000」からリニューアルしました）",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "新卒1400万円、霞ヶ関キャピタル",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "軍用ドローン市場2035年までに305億3000万米ドル到達 次世代防衛技術と自律型無人機導入加速により年平均成長率7.09％を記録へ | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "軍用ドローン市場2035年までに305億3000万米ドル到達 次世代防衛技術と自律型無人機導入加速により年平均成長率7.09％を記録へ",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "軍用ドローン市場は、2025年の153.9億米ドルから2035年には305.3億米ドルへ成長し、2026年から2035年にかけて年平均成長率（CAGR）7.09％で拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2035年までに市場規模が300億米ドルを超えるとの予測は、サプライヤー、部品メーカー、防衛技術企業にとって大きな商機を示しています",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "軍用ドローン市場は、2025年の153億9000万米ドルから2035年には305億3000万米ドルへ拡大すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）7.09％で成長する見通しです",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本産業用除湿機市場、2035年に35億米ドル規模へ拡大、CAGR 5.05％、高精度湿度管理・省エネ技術・スマート工場の普及が産業用除湿システムの需要を加速",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本エッジデータセンター市場、2035年に25億5000万米ドル到達へ｜CAGR 14.9％、分散型インフラ・クラウド高度化・リアルタイムデータ処理が新たな投資機会を創出",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "固定翼VTOL UAV市場、2035年に71億6,000万米ドルへ急拡大予測｜年平均成長率19.7％が示す次世代ドローン産業の投資機会と世界市場の成長戦略",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "リチウムイオン電池リサイクル市場は2035年に713億9000万米ドルへ拡大、CAGR 20.46％で急成長する資源循環ビジネスの将来展望",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1機あたりの価格が、それほどまでに安いからです",
+    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1発で400万ドル、日本円にして約6億3000万円かかる地対空誘導弾「パトリオット」で、1機数百万円のドローンを撃ち落とす",
+    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これに対して、迎撃側のパトリオットPAC-3 MSE、つまりミサイル・セグメント・エンハンスメント型の1発の価格は、約410万ドルです",
+    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Defence Security Asia \"Iran's $20,000 Shahed Drones Drain Gulf's Million-Dollar Missile Shield\"",
+    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "徘徊型弾薬の市場規模は2025年に2億3,300万米ドルで、2035年までに24.9億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "防災庁発足でドローン活用はどう変わる？2.6兆円の防災投資と7つの活用分野",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "防災庁発足でドローン活用はどう変わる？2.6兆円の防災投資と7つの活用分野",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オプションで操縦可能なドローン市場は、予測期間中に11.50%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "燃料駆動ドローンは、予測期間中に10.60%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "15万円の《シワ取り美容整形》で顔に傷を負った35歳女性に医師が放った\"驚きの…",
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "〈6年連続シェア1位〉日焼け止め｢ビオレUV｣の伸ばし方､脱･季節商品と価格バ…",
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": " 我が国は外国為替及び外国貿易法（外為法）に基づき、輸出管理等※３を実施",
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "軍用ドローンって一体なに？ どうやって運用・操縦されてるのかを調べて未来のドローン戦争についても予測してみた",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "＊1:外為法：外国為替及び外国貿易法 ＊2:輸出令：輸出貿易管理令 ＊3:外為令：外国為替令",
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "近年、戦場や軍事行動、軍事作戦に関するニュースなどで毎日のように目にする「軍用ドローン」。ドローン、ドローンとよくいわれるけど、具体的に戦場でどんなドローンが使われているのか、今ひとつよくわからないという人もいるのではないでしょうか。",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "軍用ドローン市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "調べてみると、ひとくちに軍用ドローンといっても、手のひらに乗る小さな偵察機から、戦闘機と同じミサイルを積んだ航空機まで多様なタイプが存在します。自分はとくにミリオタというわけではありませんが、人が乗っていないドローンの急速な進化と台頭には興味と恐れを同時に抱いています。映画『マトリックス』やフィリップ・K・ディックの『変種第二号』など、SFで予見されていた無人兵器や自律兵器の戦場投入による悪夢的世界が現実化している感覚があるからです。",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "また、2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "そこでここでは、現代戦の主役となりつつある軍用ドローンの種類や運用、最後は未来予測についても、現在公開されている情報を整理しつつ書いてみました。",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "軍用ドローンは、特徴や役割によって大きく以下の4つに分類できます。",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "① 大型攻撃・偵察用UAV（中高度・長時間滞空型）",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "」などと表現されるときに使われているのがこのタイプです。",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同月24日には経済産業省の無人機産業基盤強化検討会が中間取りまとめを公表し、2030年に約8万台（想定需要約14万台の約6割）の国内供給体制構築を目標に掲げ、2025年度補正予算で量産体制構築支援に139億円を計上、設備投資費用等を最大2分の1補助するとしています",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "1,001億円",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ACSL 防衛省向けで約14億円を積み上げ",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省は2022年末に定めた防衛力整備計画で、「無人アセット防衛能力」を重点分野の1つに位置づけ、2023年度から2027年度までの5年間でおよそ1兆円を投じる方針を示しました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省の資料によると、2026年度予算案では無人アセット防衛能力に約2,773億円が計上されました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "このうち1,001億円が、沿岸防衛構想「SHIELD（シールド）」の構築に充てられています",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "概算要求の段階ではSHIELDに1,287億円が要求されていましたので、査定で圧縮されたうえでなお1,000億円を超える規模が残ったことになります",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに、種類の異なる無人機をまとめて管制する機能の実証にも22億円が付きました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "報道によれば、防衛関係費は8兆8,093億円、米軍再編関係費などを含めると9兆353億円となりました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "報道によると、2025年度補正予算で139億円を確保し、設備投資の費用を最大で2分の1まで補助する枠組みが用意されました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ところが、高性能な迎撃ミサイルは1発あたり数億円にのぼるものもあります",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日経の関連記事では、英国の新興企業が、1発数百万円という低価格のドローン迎撃ミサイルを防衛省に提案していることも報じられています",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社は2026年3月23日、防衛省の入札で小型空撮機体を約10億円で受注したと公表しました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "さらに4月7日には、約3.5億円（納期2026年12月予定）と約0.7億円（納期2027年12月予定）の2件を追加で受注しました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "公表された3件を合計すると約14.2億円になります",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年9月のロイターの報道によると、防衛装備庁から汎用型の防衛ドローン300式を約1.15億円で受注しており、開発した制御装置を搭載する計画です",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "13.2%のCAGR",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2024年の日本の軍用ドローン市場規模は1,608億米ドルでした",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場：市場規模・需要と2034年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：タイプ別（グループ1、グループ2、グループ3、グループ4、グループ5）、用途別（ISR、戦闘、その他）、射程距離別（短距離、中距離、長距離）、技術別（固定翼、回転翼）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、南米および中央アメリカ）",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場規模は、2025年の161億1000万米ドルから2034年には340億米ドルに達すると予測されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同市場は2026年から2034年にかけて年平均成長率（CAGR）8.7%を記録すると見込まれている",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2034年までの市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の年間平均成長率（2026年～2034年）",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「軍用ドローン市場規模と予測（2021年～2034年）」レポートは、以下の分野を網羅した市場の詳細な分析を提供します",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界の軍用ドローン市場規模は、2025年には242億5000万米ドルと評価され、2026年の269億7000万米ドルから2034年には630億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.2%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）13.40%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "用途別に見ると、配送分野は予測期間中に年平均成長率（CAGR）10%を記録すると推定される",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "速度別に見ると、超音速セグメントは予測期間中に年平均成長率（CAGR）11%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "推進方式別に見ると、バッテリー駆動ドローン分野は予測期間中に年平均成長率（CAGR）12.40%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "小型ドローン市場は、低コスト、迅速な生産、大量展開への適性といった利点を背景に、予測期間中に12%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "情報収集・監視・偵察（ISR）分野は2025年に市場を牽引し、軍事作戦におけるリアルタイムの状況認識と継続的な監視において重要な役割を担っていることから、予測期間中に年平均成長率（CAGR）11.50%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "配送分野は、複雑でリスクの高い環境における迅速な無人物流へのニーズの高まりにより、予測期間中に年平均成長率（CAGR）10%を記録し、最も速い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ペイロード150kg未満のドローン市場は、軽量で低コスト、かつ容易に展開可能なドローンへの需要の高まりを背景に、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2025年には亜音速ドローンが市場を席巻し、予測期間中に11%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "超音速ドローン分野は、高速攻撃能力と迅速な対応任務に対する需要の高まりを背景に、年平均成長率（CAGR）12.50%と最も速い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ハイブリッドドローン市場は、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "イオン子会社のミニストップが一転赤字…15億円の黒字見通しが28億円の赤字に変…",
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "また、ロシアの使用するＵＡＶ・シャヘドの単価は３５，０００ドルであるが、これは空対地ミサイル（Ｋｈ－２２）の１０分の１以下である",
+    "url": "https://giest.or.jp/contents/reports/4359/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "2026年2月に始まる最初のフェーズでは、選定されるベンダーの数は最大で12、調達される機体の単価は５,０００ドルと設定されているが、フェーズが進むごとにベンダー数と機体単価は減少し、最終フェーズではベンダー数は５、機体単価は2,300ドルとなっている",
+    "url": "https://giest.or.jp/contents/reports/4359/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tim Zadorozhnyy, Ukraine to buy 4.5 million FPV drones in 2025, The Kyiv Independent, 2025.3.10（確認日2026年5月28日）",
+    "url": "https://giest.or.jp/contents/reports/4359/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "https://kyivindependent.com/ukraine-to-buy-4-5-million-fpv-drones-in-2025",
+    "url": "https://giest.or.jp/contents/reports/4359/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "国防部は19日、行政院で11月末に閣議決定された防衛の強靭（きょうじん）性や非対称戦力の強化を目的とした1兆2500億台湾元（約6兆2800億円）の特別予算案に絡み、約20万機の軍事用無人機（ドローン）を調達すると明らかにした",
+    "url": "https://www.ys-consulting.com.tw/news/126485.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "株式・為替情報(4489)",
+    "url": "https://www.ys-consulting.com.tw/news/126485.html",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
@@ -650,6 +1262,784 @@
     "first_seen": "2026-11-04"
    }
   ],
+  "自社の競合（商社・代理店・仲介）": [
+   {
+    "quote": "総合商社5社がそろって増益､過去最高益も続出…資源高と事業改革が追い風も景気後…",
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "総合商社5社がそろって増益､過去最高益も続出…資源高と事業改革が追い風も景気後退に耐える｢本当の稼ぐ力｣が焦点",
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Decommissioning Nuclear Sites With UAVs - Use Case Study: Sellafield UK",
+    "url": "https://www.idtechex.com/ja/research-report/drones-market/1142",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "If you are a reseller/distributor please",
+    "url": "https://www.idtechex.com/ja/research-report/drones-market/1142",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Commissioned Research :",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "https://www.reportocean.co.jp/commissioned-research-services",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "記事が描いたのは、重工大手からドローン専業、さらにはIT企業や商社、造船会社までが、防衛向けの無人機に一斉に動き出した姿です",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "重工、電機、IT、商社、造船と、業種の壁を越えて参入が相次いでいます",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "商社は、海外メーカーと日本の官公庁や企業をつなぐ窓口として、防衛分野で長い経験を持っています",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "新興企業が単独では越えにくい日本市場の入り口を、商社が開く形です",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "単に海外の完成機を輸入して売るだけの代理店型なのか、国内に工場を建てて生産する型なのか、設計や改良まで国内でできる型なのか",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ウクライナの最前線で鍛えられた機体が、日本のセンサー技術と総合商社の力を借りて、アジアへと羽ばたこうとしています",
+    "url": "https://innovatopia.jp/drones/drones-news/110814/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "同社は日本のセンサー技術を活用する意向であり、販売代理店として丸紅を起用した",
+    "url": "https://innovatopia.jp/drones/drones-news/110814/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回、丸紅は販売代理店として起用されたと報じられています",
+    "url": "https://innovatopia.jp/drones/drones-news/110814/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "総合商社が持つアジア各国への販路と調整力は、海外メーカーが単独では越えにくい商習慣や規制の壁を、現実的な商談に変えていく力を持ちます",
+    "url": "https://innovatopia.jp/drones/drones-news/110814/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Tekeverの販売代理店になったと報じられる日本の総合商社の公式サイト",
+    "url": "https://innovatopia.jp/drones/drones-news/110814/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "商社・卸売り",
+    "url": "https://www.nikkei.com/article/DGKKZO92783770U5A121C2FF8000/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "今回の提携において、楽天はヘルシング社が手掛ける軍用ドローンシステムの日本市場における導入窓口（ディストリビューター・統合支援）としての機能を担います",
+    "url": "https://www.fddi.jp/7608",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "単なる輸入販売にとどまらず、防衛省の国産化方針に合わせ、将来的には日本国内でのライセンス生産や部品加工を含めた「ドローンの国産化」も視野に入れた協議が進められています",
+    "url": "https://www.fddi.jp/7608",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Distributors",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Food Distributors",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "軍用ドローンって一体なに？ どうやって運用・操縦されてるのかを調べて未来のドローン戦争についても予測してみた｜大岡まさひ",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローンって一体なに？ どうやって運用・操縦されてるのかを調べて未来のドローン戦争についても予測してみた",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "近年、戦場や軍事行動、軍事作戦に関するニュースなどで毎日のように目にする「軍用ドローン」。ドローン、ドローンとよくいわれるけど、具体的に戦場でどんなドローンが使われているのか、今ひとつよくわからないという人もいるのではないでしょうか。",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調べてみると、ひとくちに軍用ドローンといっても、手のひらに乗る小さな偵察機から、戦闘機と同じミサイルを積んだ航空機まで多様なタイプが存在します。自分はとくにミリオタというわけではありませんが、人が乗っていないドローンの急速な進化と台頭には興味と恐れを同時に抱いています。映画『マトリックス』やフィリップ・K・ディックの『変種第二号』など、SFで予見されていた無人兵器や自律兵器の戦場投入による悪夢的世界が現実化している感覚があるからです。",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "そこでここでは、現代戦の主役となりつつある軍用ドローンの種類や運用、最後は未来予測についても、現在公開されている情報を整理しつつ書いてみました。",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローンは、特徴や役割によって大きく以下の4つに分類できます。",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "① 大型攻撃・偵察用UAV（中高度・長時間滞空型）",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "」などと表現されるときに使われているのがこのタイプです。",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "顧客の顧客（発注元が求めること）": [
+   {
+    "quote": "27 Martin Fornusek, “Government agrees to carry out defense procurement through Prozorro system,” Kyiv Independent, February 2, 2024;",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "55 “Defence Procurement Agency is largest customer of drones in Prozorro,” Ukrinform, June 21, 2024.",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "軍用ドローン投資は、防衛省や軍事機関が現代戦における情報収集、監視、偵察（ISR）、および自律型攻撃能力を重視する中で急速に拡大しています",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2035年までに市場規模が300億米ドルを超えるとの予測は、サプライヤー、部品メーカー、防衛技術企業にとって大きな商機を示しています",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "防衛省の導入は、",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "防衛省・自衛隊との公開接点は12社",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "防衛省｜令和8年版防衛白書（2026年8月4日公表）",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "防衛省｜令和7年版防衛白書「防衛産業へのスタートアップ活用」",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "防衛省｜令和7年版防衛白書 無人アセット防衛能力の強化",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "⑤ 当該貨物等の輸送、設置等について過剰な安全装置・処置が要求されていないこと",
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⑧ 異常に⼤量のスペアパーツ等の要求がないこと",
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⑨ 通常必要とされる関連装置の要求があること",
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⑭ 通常要求される程度の性能等の保証の要求があること",
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "⑯ 最終仕向地、製品等についての過度の秘密保持の要求がないこと",
+    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "収益の拡大は予算の確保だけでなく、OEMの生産能力、輸出機会、航法の耐障害性、認証済みシステムを予定どおりに運用開始できる能力にも左右される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "定期的な予算配分により、生産計画、サプライヤーの認定、予備部品の確保、ペイロードの更新、訓練インフラの整備が可能になるためだ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍事用ドローンOEMにとっての機会は、機体にとどまらない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "認証済みの自律機能、ミッションシステム、安全なデータリンク、改修対応の設計により、プラットフォームの運用期間を通じた契約価値を高められる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "サイバーセキュリティ強化要件によりプログラム開発予算が増加し、認証の遅延が発生することで、2027〜2030年の調達サイクルに参入する新たなMALEおよびSUASプラットフォームの初期運用能力の獲得が先送りされる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "世界のOEMの市場アクセスを制約するITARおよび輸出管理制度",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "非同盟国の調達機関は規制の緩い代替品を選ぶ傾向にあり、高成長の新興市場における米国OEMの収益基盤が縮小する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "耐空性、認証、相互運用性への適合に伴う負担",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "MALEクラスのUASは、STANAG 4671に基づく耐空性認証と各国の軍用航空当局による承認を得る必要がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "複数国で同時に型式受入れ要件を満たす必要があるため、プログラムの運用開始までの期間が延び、OEMの収益認識が先送りされる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "認証に起因する遅延により、防衛予算サイクルごとの実質的な調達年数が短縮され、各年の実際のプラットフォーム納入数が契約数量を下回るとともに、予測期間前半の収益が中期へと移行する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "認証投資を前倒しし、複数国での型式受入れを早期に確保するプログラムは、スケジュール上の優位性を維持する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国のサプライヤーは、サービスを提供できる顧客や任務に制限を受ける一方、納期の速さ、移転の容易さ、現地産業の参画が受注決定に影響する市場では、規制の緩やかな代替製品が競争力を持つ",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "資金と需要が確保されている場合でも、認証によって収益化が遅れることがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "共通の認証手続きやパートナー国による型式承認に早期に投資するサプライヤーは、契約済みの需要をプラットフォーム収益として計上できる可能性が高まる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "：日本政府の調達方針と、米国の連邦資金プロジェクトにおける禁止規定",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "以上含む外国製造品にまで中国の許可を要求する域外適用ルール",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "納期が読めない状態が常態化している、と考えたほうが実態に近い",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "納期の長期化や突然の出荷停止を平時から織り込んでおく",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米国側の状況は、FCC認証や政府調達の制限だけでは終わっていません",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本のユーザーにとっては、前者が納期と価格に、後者が調達要件に効いてきます",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁・重要インフラ向けドローンの情報セキュリティ要件",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "モーター、電池、カメラ、フライトコントローラ、通信モジュールについて、原産国と一次サプライヤーを機種ごとに一覧にする",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これができていない状態では、11月の判断も、発注元からの照会にも答えられません",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁案件を受託する事業者は、発注側の要件が固まる前に自社の基準を決めておくほうが動きやすくなります",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "完成機の製造国だけを見るのか、重要部品まで遡るのか、セキュリティ認証の有無を条件にするのか",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "「いつまで使えるか」を決めるのは、規制そのものよりも、発注元がどんな要件を書くか",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "SkyLinkでは、産業用ドローンの機体選定、非中国製機体を含む構成の検討、官公庁・インフラ案件の調達要件への適合について、個別にご相談を承っています",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "輸出管理制度、関税、調達方針、係争中の訴訟の状況は変更される可能性があります",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁・重要インフラ向けドローンの情報セキュリティ要件【2026年版】",
+    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省・自衛隊と接点があるドローンメーカー12社【2026年】",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省・自衛隊との公開接点を確認できたUAVメーカーは12社",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "第2回（このブログ）：日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省、防衛装備庁、自衛隊との公開接点が確認できたメーカーに限定しました",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ほかの官公庁だけに導入・実証されたメーカーは集計していません",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省・自衛隊の装備や運用には、安全保障上の理由から公表されない情報もあります",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省・自衛隊との接点を確認",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省・自衛隊との接点",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省／陸上自衛隊",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁・公共安全向け｜導入・実証相談",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁・公共安全向けUAVの導入・実証をご検討の方へ",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "官公庁・公共安全向けUAVを相談する",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "これが、国産メーカーの防衛省採用に時間がかかる理由の一つです",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "調べて見えた、防衛省のドローン導入トレンド",
+    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ACSL 防衛省向けで約14億円を積み上げ",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "三菱重工業は敵のドローンを撃ち落とす迎撃ドローンを短期間で試作し、防衛省への提案を視野に入れています",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ドローン専業のACSLは小型空撮機を防衛省に納め、テラドローンは防衛装備庁と迎撃用ドローンの量産契約を結びました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "無人水上艇の国内量産という話が出てきたのは、防衛省が進める沿岸防衛の構想が、空・水上・水中の無人機を組み合わせる設計になっているためです",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "ACSLが防衛省に納める小型空撮機や、川崎重工がエアバスと検討する大型の滞空型無人機がこれにあたります",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省は2022年末に定めた防衛力整備計画で、「無人アセット防衛能力」を重点分野の1つに位置づけ、2023年度から2027年度までの5年間でおよそ1兆円を投じる方針を示しました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省の資料によると、2026年度予算案では無人アセット防衛能力に約2,773億円が計上されました",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "概算要求の段階ではSHIELDに1,287億円が要求されていましたので、査定で圧縮されたうえでなお1,000億円を超える規模が残ったことになります",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "防衛省は2027年度中の構築を目指しています",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "日経の関連記事によれば、防衛省は2026年10月に、無人機の開発を担う新興企業の公募を始め、早い段階で量産体制を築く考えです",
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Japan Military Drones Market ( 2026 -2031) - MarketsandMarkets — Japan Military Drones Market ( 2026 -2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "China Military Drone Market Outlook, 2033 — China Military Drone Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/military-drone-market/china",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "軍用ドローン 市場2035年までに305億3000万米ドル到達 次 ... — 軍用ドローン 市場2035年までに305億3000万米ドル到達 次 ... アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/1812347",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Military Drones Market Size, Share , Growth Report 2026-2030 — Military Drones Market Size, Share , Growth Report 2026-2030 The Business Research Company https://www.thebusinessresearchcompany.com > ...",
+    "url": "https://www.thebusinessresearchcompany.com/report/military-drone-global-market-report",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Military Drone Market Size, Share , Trends, Growth Report, 2034 — Military Drone Market Size, Share , Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Military Drone Market Analysis, Size, and Forecast 2026-2030 — Military Drone Market Analysis, Size, and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "China Military Drone Market Size & Outlook, 2026-2033 — China Military Drone Market Size & Outlook, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/military-drone-market/china",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Military Drone Market Trends, Size & Forecast to 2032 — Military Drone Market Trends, Size & Forecast to 2032 Markntel Advisor https://www.marknteladvisors.com > ...",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "軍用ドローン 市場規模・予測レポート 2026 〜2035年 — 軍用ドローン 市場規模・予測レポート 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "米、一部 軍用ドローン の輸入禁止を暫定決定 中国製に照準 — 米、一部 軍用ドローン の輸入禁止を暫定決定 中国製に照準 Reuters https://www.reuters.com > world > security > I5RF5PMZ...",
+    "url": "https://www.reuters.com/jp/world/security/I5RF5PMZOBPRPCZXC6WCO2M5FA-2026-07-21/",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場 規模・予測レポート 2026〜2035年 — 軍用ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] — 軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 — 軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン 市場規模・予測レポート 2026〜2035年 — 軍用ドローン 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] — 軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "《台湾有事》国防部の 軍用ドローン調達 、当初予定の4倍に拡大 — 《台湾有事》国防部の 軍用ドローン調達 、当初予定の4倍に拡大 ys-consulting.com.tw https://www.ys-consulting.com.tw > news",
+    "url": "https://www.ys-consulting.com.tw/news/126485.html",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場規模 ・予測レポート 2026 〜2035年 — 軍用ドローン市場規模 ・予測レポート 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] — 軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 — 軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan Plans to Transform Military Capabilities with Drones ... — Japan Plans to Transform Military Capabilities with Drones ... USNI News https://news.usni.org > 2026/08/05 > j...",
+    "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan Military Drone Market Outlook, 2033 — Japan Military Drone Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/military-drone-market/japan",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Japan Military Drones Market (2026-2031) - MarketsandMarkets — Japan Military Drones Market (2026-2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Military Drone Market Size , Share, Trends, Growth Report, 2034 — Military Drone Market Size , Share, Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Military Drone Market Analysis, Size , and Forecast 2026-2030 — Military Drone Market Analysis, Size , and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Asia Pacific Military Drones Market (2026-2031) — Asia Pacific Military Drones Market (2026-2031) MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Asia-Pacific",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Military Drone Market Size And Growth Report, 2026-2033 — Military Drone Market Size And Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   },
+   {
+    "quote": "Military Drone Market Share & Growth Analysis, 2033 — Military Drone Market Share & Growth Analysis, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "軍用ドローン って一体なに？ どうやって運用・操縦されてる ... 軍用ドローン って一体なに？ どうやって運用・操縦されてる ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "pass": 3,
+    "first_seen": "2026-11-04"
+   }
+  ],
   "社会（人・担い手）": [
    {
     "quote": "野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー",
@@ -808,44 +2198,6 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "SNS・note（LinkedIn・検索結果の抜粋）": [
-   {
-    "quote": "The Little Military Drone that Could - LinkedIn The Little Military Drone that Could - LinkedIn LinkedIn https://www.linkedin.com > pulse > lit...",
-    "url": "https://www.linkedin.com/pulse/little-military-drone-could-roey-tzezana",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Impact of Military Drones on Battlefield Roles - LinkedIn Impact of Military Drones on Battlefield Roles - LinkedIn LinkedIn https://www.linkedin.com > technology",
-    "url": "https://www.linkedin.com/top-content/technology/drone-technology-applications/impact-of-military-drones-on-battlefield-roles/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "軍用ドローン /無人航空機メーカーランキング - LinkedIn 軍用ドローン /無人航空機メーカーランキング - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 軍用ドローン無人航空機...",
-    "url": "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%84%A1%E4%BA%BA%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-petroflux-research-group-5d3ee",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Advances in Military Drone Technology in North America Advances in Military Drone Technology in North America LinkedIn https://www.linkedin.com > top-content",
-    "url": "https://www.linkedin.com/top-content/workplace-trends/trends-in-drone-technology/advances-in-military-drone-technology-in-north-america/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Military Drone Technology Explained - LinkedIn Military Drone Technology Explained - LinkedIn LinkedIn https://www.linkedin.com > technology",
-    "url": "https://www.linkedin.com/top-content/technology/drone-technology-applications/military-drone-technology-explained/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Workflow Solutions for Military Drone Operations - LinkedIn Workflow Solutions for Military Drone Operations - LinkedIn LinkedIn https://www.linkedin.com > technology",
-    "url": "https://www.linkedin.com/top-content/technology/workflow-automation-solutions/workflow-solutions-for-military-drone-operations/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
   "SNS・note（Facebook・検索結果の抜粋）": [
    {
     "quote": "軍用ドローン 、世界の最新事情 自衛隊は攻撃型300 機計画 ... 軍用ドローン 、世界の最新事情 自衛隊は攻撃型300 機計画 ... Facebook https://www.facebook.com > nikkei > posts > 軍用ドロー...",
@@ -854,7 +2206,33 @@
     "first_seen": "2026-11-04"
    }
   ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
+    "url": "https://www.nikkei.com/article/DGKKZO92783770U5A121C2FF8000/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "技術（新しい技術・実証）": [
+   {
+    "quote": "トヨタHV特許出願､5年1000件と突出 中国勢は方式集約",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "中国、3Dプリンター製の格安迎撃機「ドローンキラー」の輸出に照準",
     "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
@@ -1582,21 +2960,13 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "痛み・損（深さの印）": [
+  "顧客の競合（奪いに来る側）": [
    {
-    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
+    "quote": "トヨタHV特許出願､5年1000件と突出 中国勢は方式集約",
     "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
     "pass": 3,
-    "first_seen": "2026-11-06"
+    "first_seen": "2026-11-09"
    },
-   {
-    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
-    "url": "https://www.nikkei.com/article/DGKKZO92783770U5A121C2FF8000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "顧客の競合（奪いに来る側）": [
    {
     "quote": "米ドローン大手、中国による制裁で打撃 部品不足に - 日経FTザ・ワールド",
     "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
@@ -2218,178 +3588,6 @@
    {
     "quote": "アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)",
     "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "Japan Military Drones Market ( 2026 -2031) - MarketsandMarkets — Japan Military Drones Market ( 2026 -2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
-    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "China Military Drone Market Outlook, 2033 — China Military Drone Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...",
-    "url": "https://www.grandviewresearch.com/horizon/outlook/military-drone-market/china",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "軍用ドローン 市場2035年までに305億3000万米ドル到達 次 ... — 軍用ドローン 市場2035年までに305億3000万米ドル到達 次 ... アットプレス https://www.atpress.ne.jp > news",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Military Drones Market Size, Share , Growth Report 2026-2030 — Military Drones Market Size, Share , Growth Report 2026-2030 The Business Research Company https://www.thebusinessresearchcompany.com > ...",
-    "url": "https://www.thebusinessresearchcompany.com/report/military-drone-global-market-report",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Military Drone Market Size, Share , Trends, Growth Report, 2034 — Military Drone Market Size, Share , Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
-    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Military Drone Market Analysis, Size, and Forecast 2026-2030 — Military Drone Market Analysis, Size, and Forecast 2026-2030 Technavio https://www.technavio.com > report",
-    "url": "https://www.technavio.com/report/military-drone-market-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "China Military Drone Market Size & Outlook, 2026-2033 — China Military Drone Market Size & Outlook, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
-    "url": "https://www.grandviewresearch.com/horizon/outlook/military-drone-market/china",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Military Drone Market Trends, Size & Forecast to 2032 — Military Drone Market Trends, Size & Forecast to 2032 Markntel Advisor https://www.marknteladvisors.com > ...",
-    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "軍用ドローン 市場規模・予測レポート 2026 〜2035年 — 軍用ドローン 市場規模・予測レポート 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "米、一部 軍用ドローン の輸入禁止を暫定決定 中国製に照準 — 米、一部 軍用ドローン の輸入禁止を暫定決定 中国製に照準 Reuters https://www.reuters.com > world > security > I5RF5PMZ...",
-    "url": "https://www.reuters.com/jp/world/security/I5RF5PMZOBPRPCZXC6WCO2M5FA-2026-07-21/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場 規模・予測レポート 2026〜2035年 — 軍用ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] — 軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
-    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 — 軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン 市場規模・予測レポート 2026〜2035年 — 軍用ドローン 市場規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] — 軍用ドローン 市場規模、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
-    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "《台湾有事》国防部の 軍用ドローン調達 、当初予定の4倍に拡大 — 《台湾有事》国防部の 軍用ドローン調達 、当初予定の4倍に拡大 ys-consulting.com.tw https://www.ys-consulting.com.tw > news",
-    "url": "https://www.ys-consulting.com.tw/news/126485.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場規模 ・予測レポート 2026 〜2035年 — 軍用ドローン市場規模 ・予測レポート 2026 〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] — 軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
-    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 — 軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Japan Plans to Transform Military Capabilities with Drones ... — Japan Plans to Transform Military Capabilities with Drones ... USNI News https://news.usni.org > 2026/08/05 > j...",
-    "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Japan Military Drone Market Outlook, 2033 — Japan Military Drone Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...",
-    "url": "https://www.grandviewresearch.com/horizon/outlook/military-drone-market/japan",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Japan Military Drones Market (2026-2031) - MarketsandMarkets — Japan Military Drones Market (2026-2031) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
-    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Military Drone Market Size , Share, Trends, Growth Report, 2034 — Military Drone Market Size , Share, Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
-    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Military Drone Market Analysis, Size , and Forecast 2026-2030 — Military Drone Market Analysis, Size , and Forecast 2026-2030 Technavio https://www.technavio.com > report",
-    "url": "https://www.technavio.com/report/military-drone-market-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Asia Pacific Military Drones Market (2026-2031) — Asia Pacific Military Drones Market (2026-2031) MarketsandMarkets https://www.marketsandmarkets.com > ...",
-    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Asia-Pacific",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Military Drone Market Size And Growth Report, 2026-2033 — Military Drone Market Size And Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
-    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Military Drone Market Share & Growth Analysis, 2033 — Military Drone Market Share & Growth Analysis, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
-    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "SNS・note（note・検索結果の抜粋）": [
-   {
-    "quote": "軍用ドローン って一体なに？ どうやって運用・操縦されてる ... 軍用ドローン って一体なに？ どうやって運用・操縦されてる ... note https://note.com > 科学・テクノロジー > ロボット技術",
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
@@ -3086,1196 +4284,46 @@
     "first_seen": "2026-11-04"
    }
   ],
-  "顧客の顧客（発注元が求めること）": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "27 Martin Fornusek, “Government agrees to carry out defense procurement through Prozorro system,” Kyiv Independent, February 2, 2024;",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "quote": "Advantages of Attritable Military Drones - LinkedIn Advantages of Attritable Military Drones - LinkedIn LinkedIn https://www.linkedin.com > technology",
+    "url": "https://www.linkedin.com/top-content/technology/drone-technology-applications/advantages-of-attritable-military-drones/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Little Military Drone that Could - LinkedIn The Little Military Drone that Could - LinkedIn LinkedIn https://www.linkedin.com > pulse > lit...",
+    "url": "https://www.linkedin.com/pulse/little-military-drone-could-roey-tzezana",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "55 “Defence Procurement Agency is largest customer of drones in Prozorro,” Ukrinform, June 21, 2024.",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注",
-    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "quote": "Impact of Military Drones on Battlefield Roles - LinkedIn Impact of Military Drones on Battlefield Roles - LinkedIn LinkedIn https://www.linkedin.com > technology",
+    "url": "https://www.linkedin.com/top-content/technology/drone-technology-applications/impact-of-military-drones-on-battlefield-roles/",
     "pass": 3,
     "first_seen": "2026-11-06"
    },
    {
-    "quote": "軍用ドローン投資は、防衛省や軍事機関が現代戦における情報収集、監視、偵察（ISR）、および自律型攻撃能力を重視する中で急速に拡大しています",
-    "url": "https://www.atpress.ne.jp/news/1812347",
+    "quote": "軍用ドローン /無人航空機メーカーランキング - LinkedIn 軍用ドローン /無人航空機メーカーランキング - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 軍用ドローン無人航空機...",
+    "url": "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%84%A1%E4%BA%BA%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-petroflux-research-group-5d3ee",
     "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2035年までに市場規模が300億米ドルを超えるとの予測は、サプライヤー、部品メーカー、防衛技術企業にとって大きな商機を示しています",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "防衛省の導入は、",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "防衛省・自衛隊との公開接点は12社",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "防衛省｜令和8年版防衛白書（2026年8月4日公表）",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "防衛省｜令和7年版防衛白書「防衛産業へのスタートアップ活用」",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "防衛省｜令和7年版防衛白書 無人アセット防衛能力の強化",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "⑤ 当該貨物等の輸送、設置等について過剰な安全装置・処置が要求されていないこと",
-    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "⑧ 異常に⼤量のスペアパーツ等の要求がないこと",
-    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "⑨ 通常必要とされる関連装置の要求があること",
-    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "⑭ 通常要求される程度の性能等の保証の要求があること",
-    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "⑯ 最終仕向地、製品等についての過度の秘密保持の要求がないこと",
-    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "収益の拡大は予算の確保だけでなく、OEMの生産能力、輸出機会、航法の耐障害性、認証済みシステムを予定どおりに運用開始できる能力にも左右される",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "定期的な予算配分により、生産計画、サプライヤーの認定、予備部品の確保、ペイロードの更新、訓練インフラの整備が可能になるためだ",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍事用ドローンOEMにとっての機会は、機体にとどまらない",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "認証済みの自律機能、ミッションシステム、安全なデータリンク、改修対応の設計により、プラットフォームの運用期間を通じた契約価値を高められる",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "サイバーセキュリティ強化要件によりプログラム開発予算が増加し、認証の遅延が発生することで、2027〜2030年の調達サイクルに参入する新たなMALEおよびSUASプラットフォームの初期運用能力の獲得が先送りされる",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "世界のOEMの市場アクセスを制約するITARおよび輸出管理制度",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "非同盟国の調達機関は規制の緩い代替品を選ぶ傾向にあり、高成長の新興市場における米国OEMの収益基盤が縮小する",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "耐空性、認証、相互運用性への適合に伴う負担",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "MALEクラスのUASは、STANAG 4671に基づく耐空性認証と各国の軍用航空当局による承認を得る必要がある",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "複数国で同時に型式受入れ要件を満たす必要があるため、プログラムの運用開始までの期間が延び、OEMの収益認識が先送りされる",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "認証に起因する遅延により、防衛予算サイクルごとの実質的な調達年数が短縮され、各年の実際のプラットフォーム納入数が契約数量を下回るとともに、予測期間前半の収益が中期へと移行する",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "認証投資を前倒しし、複数国での型式受入れを早期に確保するプログラムは、スケジュール上の優位性を維持する",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "米国のサプライヤーは、サービスを提供できる顧客や任務に制限を受ける一方、納期の速さ、移転の容易さ、現地産業の参画が受注決定に影響する市場では、規制の緩やかな代替製品が競争力を持つ",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "資金と需要が確保されている場合でも、認証によって収益化が遅れることがある",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "共通の認証手続きやパートナー国による型式承認に早期に投資するサプライヤーは、契約済みの需要をプラットフォーム収益として計上できる可能性が高まる",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "：日本政府の調達方針と、米国の連邦資金プロジェクトにおける禁止規定",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "以上含む外国製造品にまで中国の許可を要求する域外適用ルール",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "納期が読めない状態が常態化している、と考えたほうが実態に近い",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "納期の長期化や突然の出荷停止を平時から織り込んでおく",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "米国側の状況は、FCC認証や政府調達の制限だけでは終わっていません",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本のユーザーにとっては、前者が納期と価格に、後者が調達要件に効いてきます",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "官公庁・重要インフラ向けドローンの情報セキュリティ要件",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "モーター、電池、カメラ、フライトコントローラ、通信モジュールについて、原産国と一次サプライヤーを機種ごとに一覧にする",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これができていない状態では、11月の判断も、発注元からの照会にも答えられません",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "官公庁案件を受託する事業者は、発注側の要件が固まる前に自社の基準を決めておくほうが動きやすくなります",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "完成機の製造国だけを見るのか、重要部品まで遡るのか、セキュリティ認証の有無を条件にするのか",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「いつまで使えるか」を決めるのは、規制そのものよりも、発注元がどんな要件を書くか",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "SkyLinkでは、産業用ドローンの機体選定、非中国製機体を含む構成の検討、官公庁・インフラ案件の調達要件への適合について、個別にご相談を承っています",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "輸出管理制度、関税、調達方針、係争中の訴訟の状況は変更される可能性があります",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "官公庁・重要インフラ向けドローンの情報セキュリティ要件【2026年版】",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省・自衛隊と接点があるドローンメーカー12社【2026年】",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省・自衛隊との公開接点を確認できたUAVメーカーは12社",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "第2回（このブログ）：日本の防衛省・自衛隊と接点があるUAVメーカー12社を調べてみた",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省、防衛装備庁、自衛隊との公開接点が確認できたメーカーに限定しました",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ほかの官公庁だけに導入・実証されたメーカーは集計していません",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省・自衛隊の装備や運用には、安全保障上の理由から公表されない情報もあります",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省・自衛隊との接点を確認",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省・自衛隊との接点",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省／陸上自衛隊",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "官公庁・公共安全向け｜導入・実証相談",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "官公庁・公共安全向けUAVの導入・実証をご検討の方へ",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "官公庁・公共安全向けUAVを相談する",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "これが、国産メーカーの防衛省採用に時間がかかる理由の一つです",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "調べて見えた、防衛省のドローン導入トレンド",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ACSL 防衛省向けで約14億円を積み上げ",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "三菱重工業は敵のドローンを撃ち落とす迎撃ドローンを短期間で試作し、防衛省への提案を視野に入れています",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ドローン専業のACSLは小型空撮機を防衛省に納め、テラドローンは防衛装備庁と迎撃用ドローンの量産契約を結びました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "無人水上艇の国内量産という話が出てきたのは、防衛省が進める沿岸防衛の構想が、空・水上・水中の無人機を組み合わせる設計になっているためです",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ACSLが防衛省に納める小型空撮機や、川崎重工がエアバスと検討する大型の滞空型無人機がこれにあたります",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省は2022年末に定めた防衛力整備計画で、「無人アセット防衛能力」を重点分野の1つに位置づけ、2023年度から2027年度までの5年間でおよそ1兆円を投じる方針を示しました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省の資料によると、2026年度予算案では無人アセット防衛能力に約2,773億円が計上されました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "概算要求の段階ではSHIELDに1,287億円が要求されていましたので、査定で圧縮されたうえでなお1,000億円を超える規模が残ったことになります",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省は2027年度中の構築を目指しています",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日経の関連記事によれば、防衛省は2026年10月に、無人機の開発を担う新興企業の公募を始め、早い段階で量産体制を築く考えです",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "経済（規模・価格・為替）": [
-   {
-    "quote": "プランテーションシャッター市場は2035年に209億6,000万米ドル到達へ｜CAGR 3.49％、住宅の断熱性向上・スマートホーム化・耐久性に優れたインテリア製品への需要拡大が市場成長を促進",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "建設用プラスチック市場、2035年に2億8,293万米ドル規模へ拡大予測｜CAGR 7.95％、軽量化・耐久性・省エネ建材の需要拡大が市場成長を加速",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ヒト生体試料の世界市場（2026年～2032年）、市場規模（ヒト生体液、ヒト組織サンプル、細胞製品、その他）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "マシンビジョン用光源デジタルコントローラーの世界市場（2026年～2032年）、市場規模（ベーシックタイプ、アドバンストタイプ）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ひずみ波ギアボックスの世界市場（2026年～2032年）、市場規模（ハット型、カップ型、パンケーキ型）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "半導体製造装置用シリコン部品の世界市場（2026年～2032年）、市場規模（エッチング用シリコン部品、炉・LPCVD用シリコン部品）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "防衛テック分野への国内投資額は 2023 年時点では 1000 万ドル未満であったが、2025 年には Brave1",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "26 「ウクライナ国防省高官、軍需企業幹部と 59 億円横領 砲弾調達巡り」毎日新聞 2024 年 1 月 28 日",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "29 Joe Saballa, “Zelensky Says Ukraine Can Now Produce Four Million Drones a Year,” The Defense Post, October 3, 2024; Illia Kabachynskyi,",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "“Ukraine Now Set to Produce 4 Million Drones Annually, After Incredible Two-Year Growth,” United 24 Media, October 21, 2024 (updated July 01,",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2024); Illia Kabachynskyi, “Ukrainian Armed Forces Expect Record Drone Deliveries in 2024-2025 Backed By Over $4 Billion,” United 24 Media, Oct",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "64 Illia Kabachynskyi, “Ukraine’s Defense Tech Boom: $129M Raised in 2025, 2x Growth Over 2024,” United 24 Media, Feb 05, 2026.",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "68 Illia Kabachynskyi, “Ukraine’s Defense Tech Boom: $129M Raised in 2025, 2x Growth Over 2024,” United 24 Media, Feb 05, 2026.",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "76 “£750 million package to provide Ukraine with 150,000 drones and boost air defence,” Gov UK press release, June 18, 2026; Ministry of",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Ukraine of Defence “$4 billion in support and record air defence contributions: Ramstein-format participant countries announce new assistance",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "83 Ministry of Defence, Dan Jarvis, and Keir Starmer, “UK drone transformation to strengthen Armed Forces backed by more than £5 billion,” Gov",
-    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ポリウレアコーティング市場、2035年に267万米ドル規模へ拡大、CAGR 5.76％で進む高耐久性防食・防水コーティング需要の成長",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "産業用ベアリング市場は2035年に3億7,917万米ドルに到達、CAGR 4.3％で成長｜自動車・工作機械・製造設備における高耐久性・省エネ・高性能ベアリング需要が拡大",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "インスタント飲料プレミックス市場、2035年に1,818.3億米ドルへ拡大予測｜CAGR 5.92％、利便性と多様化する消費者ニーズが成長を牽引",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "リグニン系樹脂市場、2035年に8億6,066万米ドルへ拡大予測｜脱石油由来素材・次世代バイオ樹脂の実用化が加速、年平均成長率5.33％で変わる世界の化学・材料産業の成長戦略",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "地下水管理市場、2035年に541億8000万米ドルへ拡大予測、CAGR4.34％で進む水資源保全・持続可能な地下水利用と管理技術の進化",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "DTFインクの世界市場（2026年～2032年）、市場規模（シアン、イエロー、ブラック、ホワイト、その他）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PCB内層用フォトレジストの世界市場（2026年～2032年）、市場規模（LPIタイプ、LDIタイプ）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "獣医用超音波プローブの世界市場（2026年～2032年）、市場規模（リニアアレイプローブ、コンベックスアレイプローブ、マイクロコンベックスアレイプローブ、フェーズドアレイプローブ、腔内または直腸用プローブ）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "水中船体洗浄ロボットの世界市場（2026年～2032年）、市場規模（遠隔操作型潜水機（ROV）、自律型潜水機（AUV））・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "売上高300億円以下の中堅上場企業「NEXT Company」を対象に有力企業の戦略を探った",
-    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "直近決算期の売上高が300億円以下の中堅上場企業約1900社（金融など除く）について、株式市場に成長を期待される企業をさまざまな切り口から探ります",
-    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "（2022年5月、売上高100億円以下の「NEXT1000」からリニューアルしました）",
-    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "新卒1400万円、霞ヶ関キャピタル",
-    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる",
-    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "軍用ドローン市場2035年までに305億3000万米ドル到達 次世代防衛技術と自律型無人機導入加速により年平均成長率7.09％を記録へ | 株式会社レポートオーシャン",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "軍用ドローン市場2035年までに305億3000万米ドル到達 次世代防衛技術と自律型無人機導入加速により年平均成長率7.09％を記録へ",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "軍用ドローン市場は、2025年の153.9億米ドルから2035年には305.3億米ドルへ成長し、2026年から2035年にかけて年平均成長率（CAGR）7.09％で拡大すると予測されています",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2035年までに市場規模が300億米ドルを超えるとの予測は、サプライヤー、部品メーカー、防衛技術企業にとって大きな商機を示しています",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "軍用ドローン市場は、2025年の153億9000万米ドルから2035年には305億3000万米ドルへ拡大すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）7.09％で成長する見通しです",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本産業用除湿機市場、2035年に35億米ドル規模へ拡大、CAGR 5.05％、高精度湿度管理・省エネ技術・スマート工場の普及が産業用除湿システムの需要を加速",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本エッジデータセンター市場、2035年に25億5000万米ドル到達へ｜CAGR 14.9％、分散型インフラ・クラウド高度化・リアルタイムデータ処理が新たな投資機会を創出",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "固定翼VTOL UAV市場、2035年に71億6,000万米ドルへ急拡大予測｜年平均成長率19.7％が示す次世代ドローン産業の投資機会と世界市場の成長戦略",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "リチウムイオン電池リサイクル市場は2035年に713億9000万米ドルへ拡大、CAGR 20.46％で急成長する資源循環ビジネスの将来展望",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1機あたりの価格が、それほどまでに安いからです",
-    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1発で400万ドル、日本円にして約6億3000万円かかる地対空誘導弾「パトリオット」で、1機数百万円のドローンを撃ち落とす",
-    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これに対して、迎撃側のパトリオットPAC-3 MSE、つまりミサイル・セグメント・エンハンスメント型の1発の価格は、約410万ドルです",
-    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Defence Security Asia \"Iran's $20,000 Shahed Drones Drain Gulf's Million-Dollar Missile Shield\"",
-    "url": "https://note.com/hirokimiyano/n/n9ce231dec016",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "徘徊型弾薬の市場規模は2025年に2億3,300万米ドルで、2035年までに24.9億米ドルに達すると予測される",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "防災庁発足でドローン活用はどう変わる？2.6兆円の防災投資と7つの活用分野",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "防災庁発足でドローン活用はどう変わる？2.6兆円の防災投資と7つの活用分野",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オプションで操縦可能なドローン市場は、予測期間中に11.50%の成長率で拡大すると見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "燃料駆動ドローンは、予測期間中に10.60%の成長率で拡大すると見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "15万円の《シワ取り美容整形》で顔に傷を負った35歳女性に医師が放った\"驚きの…",
-    "url": "https://toyokeizai.net/articles/-/942717?display=b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "〈6年連続シェア1位〉日焼け止め｢ビオレUV｣の伸ばし方､脱･季節商品と価格バ…",
-    "url": "https://toyokeizai.net/articles/-/942717?display=b",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": " 我が国は外国為替及び外国貿易法（外為法）に基づき、輸出管理等※３を実施",
-    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "＊1:外為法：外国為替及び外国貿易法 ＊2:輸出令：輸出貿易管理令 ＊3:外為令：外国為替令",
-    "url": "https://www.meti.go.jp/policy/anpo/seminer/shiryo/anpo_drone.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場規模・予測レポート 2026〜2035年",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "また、2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見込みである",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2025年の市場規模",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2026年の市場規模",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2035年の市場規模予測",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "年平均成長率（CAGR）（2026〜2035年）",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "同月24日には経済産業省の無人機産業基盤強化検討会が中間取りまとめを公表し、2030年に約8万台（想定需要約14万台の約6割）の国内供給体制構築を目標に掲げ、2025年度補正予算で量産体制構築支援に139億円を計上、設備投資費用等を最大2分の1補助するとしています",
-    "url": "https://skylinkjapan.com/blog/china-drone-supply-chain-risk-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "1,001億円",
-    "url": "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ACSL 防衛省向けで約14億円を積み上げ",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省は2022年末に定めた防衛力整備計画で、「無人アセット防衛能力」を重点分野の1つに位置づけ、2023年度から2027年度までの5年間でおよそ1兆円を投じる方針を示しました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "防衛省の資料によると、2026年度予算案では無人アセット防衛能力に約2,773億円が計上されました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "このうち1,001億円が、沿岸防衛構想「SHIELD（シールド）」の構築に充てられています",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "概算要求の段階ではSHIELDに1,287億円が要求されていましたので、査定で圧縮されたうえでなお1,000億円を超える規模が残ったことになります",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "さらに、種類の異なる無人機をまとめて管制する機能の実証にも22億円が付きました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "報道によれば、防衛関係費は8兆8,093億円、米軍再編関係費などを含めると9兆353億円となりました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "報道によると、2025年度補正予算で139億円を確保し、設備投資の費用を最大で2分の1まで補助する枠組みが用意されました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ところが、高性能な迎撃ミサイルは1発あたり数億円にのぼるものもあります",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "日経の関連記事では、英国の新興企業が、1発数百万円という低価格のドローン迎撃ミサイルを防衛省に提案していることも報じられています",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "同社は2026年3月23日、防衛省の入札で小型空撮機体を約10億円で受注したと公表しました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "さらに4月7日には、約3.5億円（納期2026年12月予定）と約0.7億円（納期2027年12月予定）の2件を追加で受注しました",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "公表された3件を合計すると約14.2億円になります",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2026年9月のロイターの報道によると、防衛装備庁から汎用型の防衛ドローン300式を約1.15億円で受注しており、開発した制御装置を搭載する計画です",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "13.2%のCAGR",
-    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2024年の日本の軍用ドローン市場規模は1,608億米ドルでした",
-    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場：市場規模・需要と2034年までの予測",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：タイプ別（グループ1、グループ2、グループ3、グループ4、グループ5）、用途別（ISR、戦闘、その他）、射程距離別（短距離、中距離、長距離）、技術別（固定翼、回転翼）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、南米および中央アメリカ）",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場規模は、2025年の161億1000万米ドルから2034年には340億米ドルに達すると予測されている",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "同市場は2026年から2034年にかけて年平均成長率（CAGR）8.7%を記録すると見込まれている",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2025年の市場規模",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2034年までの市場規模",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "世界の年間平均成長率（2026年～2034年）",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "「軍用ドローン市場規模と予測（2021年～2034年）」レポートは、以下の分野を網羅した市場の詳細な分析を提供します",
-    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "世界の軍用ドローン市場規模は、2025年には242億5000万米ドルと評価され、2026年の269億7000万米ドルから2034年には630億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.2%となる見込みです",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）13.40%で成長すると予想されている",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "用途別に見ると、配送分野は予測期間中に年平均成長率（CAGR）10%を記録すると推定される",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "速度別に見ると、超音速セグメントは予測期間中に年平均成長率（CAGR）11%で成長すると予測されている",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "推進方式別に見ると、バッテリー駆動ドローン分野は予測期間中に年平均成長率（CAGR）12.40%で成長すると予想されている",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "小型ドローン市場は、低コスト、迅速な生産、大量展開への適性といった利点を背景に、予測期間中に12%の成長率で拡大すると見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "情報収集・監視・偵察（ISR）分野は2025年に市場を牽引し、軍事作戦におけるリアルタイムの状況認識と継続的な監視において重要な役割を担っていることから、予測期間中に年平均成長率（CAGR）11.50%で成長すると予想されています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "配送分野は、複雑でリスクの高い環境における迅速な無人物流へのニーズの高まりにより、予測期間中に年平均成長率（CAGR）10%を記録し、最も速い成長が見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ペイロード150kg未満のドローン市場は、軽量で低コスト、かつ容易に展開可能なドローンへの需要の高まりを背景に、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2025年には亜音速ドローンが市場を席巻し、予測期間中に11%の成長率で拡大すると見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "超音速ドローン分野は、高速攻撃能力と迅速な対応任務に対する需要の高まりを背景に、年平均成長率（CAGR）12.50%と最も速い成長が見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ハイブリッドドローン市場は、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています",
-    "url": "https://straitsresearch.com/jp/report/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "イオン子会社のミニストップが一転赤字…15億円の黒字見通しが28億円の赤字に変…",
-    "url": "https://toyokeizai.net/articles/-/942717?display=b",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "また、ロシアの使用するＵＡＶ・シャヘドの単価は３５，０００ドルであるが、これは空対地ミサイル（Ｋｈ－２２）の１０分の１以下である",
-    "url": "https://giest.or.jp/contents/reports/4359/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "2026年2月に始まる最初のフェーズでは、選定されるベンダーの数は最大で12、調達される機体の単価は５,０００ドルと設定されているが、フェーズが進むごとにベンダー数と機体単価は減少し、最終フェーズではベンダー数は５、機体単価は2,300ドルとなっている",
-    "url": "https://giest.or.jp/contents/reports/4359/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Tim Zadorozhnyy, Ukraine to buy 4.5 million FPV drones in 2025, The Kyiv Independent, 2025.3.10（確認日2026年5月28日）",
-    "url": "https://giest.or.jp/contents/reports/4359/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "https://kyivindependent.com/ukraine-to-buy-4-5-million-fpv-drones-in-2025",
-    "url": "https://giest.or.jp/contents/reports/4359/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "国防部は19日、行政院で11月末に閣議決定された防衛の強靭（きょうじん）性や非対称戦力の強化を目的とした1兆2500億台湾元（約6兆2800億円）の特別予算案に絡み、約20万機の軍事用無人機（ドローン）を調達すると明らかにした",
-    "url": "https://www.ys-consulting.com.tw/news/126485.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "株式・為替情報(4489)",
-    "url": "https://www.ys-consulting.com.tw/news/126485.html",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   }
-  ],
-  "自社の競合（商社・代理店・仲介）": [
-   {
-    "quote": "Commissioned Research :",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "https://www.reportocean.co.jp/commissioned-research-services",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます",
-    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "記事が描いたのは、重工大手からドローン専業、さらにはIT企業や商社、造船会社までが、防衛向けの無人機に一斉に動き出した姿です",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "重工、電機、IT、商社、造船と、業種の壁を越えて参入が相次いでいます",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "商社は、海外メーカーと日本の官公庁や企業をつなぐ窓口として、防衛分野で長い経験を持っています",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "新興企業が単独では越えにくい日本市場の入り口を、商社が開く形です",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "単に海外の完成機を輸入して売るだけの代理店型なのか、国内に工場を建てて生産する型なのか、設計や改良まで国内でできる型なのか",
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "ウクライナの最前線で鍛えられた機体が、日本のセンサー技術と総合商社の力を借りて、アジアへと羽ばたこうとしています",
-    "url": "https://innovatopia.jp/drones/drones-news/110814/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "同社は日本のセンサー技術を活用する意向であり、販売代理店として丸紅を起用した",
-    "url": "https://innovatopia.jp/drones/drones-news/110814/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "今回、丸紅は販売代理店として起用されたと報じられています",
-    "url": "https://innovatopia.jp/drones/drones-news/110814/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "総合商社が持つアジア各国への販路と調整力は、海外メーカーが単独では越えにくい商習慣や規制の壁を、現実的な商談に変えていく力を持ちます",
-    "url": "https://innovatopia.jp/drones/drones-news/110814/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "Tekeverの販売代理店になったと報じられる日本の総合商社の公式サイト",
-    "url": "https://innovatopia.jp/drones/drones-news/110814/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "商社・卸売り",
-    "url": "https://www.nikkei.com/article/DGKKZO92783770U5A121C2FF8000/",
-    "pass": 3,
-    "first_seen": "2026-11-04"
-   },
-   {
-    "quote": "今回の提携において、楽天はヘルシング社が手掛ける軍用ドローンシステムの日本市場における導入窓口（ディストリビューター・統合支援）としての機能を担います",
-    "url": "https://www.fddi.jp/7608",
-    "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "単なる輸入販売にとどまらず、防衛省の国産化方針に合わせ、将来的には日本国内でのライセンス生産や部品加工を含めた「ドローンの国産化」も視野に入れた協議が進められています",
-    "url": "https://www.fddi.jp/7608",
+    "quote": "Advances in Military Drone Technology in North America Advances in Military Drone Technology in North America LinkedIn https://www.linkedin.com > top-content",
+    "url": "https://www.linkedin.com/top-content/workplace-trends/trends-in-drone-technology/advances-in-military-drone-technology-in-north-america/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Distributors",
-    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "quote": "Military Drone Technology Explained - LinkedIn Military Drone Technology Explained - LinkedIn LinkedIn https://www.linkedin.com > technology",
+    "url": "https://www.linkedin.com/top-content/technology/drone-technology-applications/military-drone-technology-explained/",
     "pass": 3,
     "first_seen": "2026-11-04"
    },
    {
-    "quote": "Food Distributors",
-    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "quote": "Workflow Solutions for Military Drone Operations - LinkedIn Workflow Solutions for Military Drone Operations - LinkedIn LinkedIn https://www.linkedin.com > technology",
+    "url": "https://www.linkedin.com/top-content/technology/workflow-automation-solutions/workflow-solutions-for-military-drone-operations/",
     "pass": 3,
     "first_seen": "2026-11-04"
    }
@@ -4290,24 +4338,19 @@
     "method": ""
    },
    {
+    "url": "https://www.reuters.com/graphics/IRAN-CRISIS/DRONES/gdvzadwempw/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://newsdig.tbs.co.jp/articles/-/3015883",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.reuters.com/jp/world/ukraine/3I6NY2JEPFPTPJ6AMP5YFASABM-2024-02-06/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
+    "url": "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.wsj.com/articles/america-needs-explosives-for-its-drones-this-startup-is-making-them-94d30d3e",
-    "status": "robots_disallowed",
-    "method": ""
+    "method": "pdf"
    },
    {
     "url": "https://diamond.jp/articles/-/402214",
@@ -4325,7 +4368,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.cnn.co.jp/usa/35079775.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.reuters.com/jp/opinion/PA7QBCZCWJN5TJNGO6Y6ETHH4E-2026-07-14/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.wsj.com/articles/how-ukrainian-drone-strikes-are-pounding-russias-economy-c2f771c6",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -4335,12 +4388,7 @@
     "method": "http"
    },
    {
-    "url": "https://jp.wsj.com/articles/how-ukrainian-drone-strikes-are-pounding-russias-economy-c2f771c6",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.atpress.ne.jp/news/1812347",
+    "url": "https://trafficnews.jp/post/683020",
     "status": "ok",
     "method": "http"
    },
@@ -4370,17 +4418,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.nikkei.com/article/DGXZQOUC037410T00C26A8000000/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://terra-drone.net/26566",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nbe40e805c9ca",
     "status": "ok",
     "method": "http"
    },
@@ -4405,22 +4453,22 @@
     "method": "http"
    },
    {
-    "url": "https://toyokeizai.net/articles/-/942717?display=b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.nikkei.com/article/DGXZQOGN04BL10U6A900C2000000/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.wsj.com/articles/SB12591159551345134255804583277253133486298",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.recordchina.co.jp/b953253-s39-c20-d0195.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe.asahi.com/article/12743735",
     "status": "ok",
     "method": "http"
    },
@@ -4465,17 +4513,7 @@
     "method": "http"
    },
    {
-    "url": "https://giest.or.jp/contents/reports/4359/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.atemitech.com/jp/solution/Defense",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://skyfamily.com.cn/ja/buy/3/12881.html",
     "status": "ok",
     "method": "http"
    },
@@ -4485,23 +4523,33 @@
     "method": "http"
    },
    {
-    "url": "https://research.impress.co.jp/report/list/drone/502419",
+    "url": "https://www.businessinsider.jp/article/2607-nato-cant-stockpile-lots-drones-maybe-out-date-next-war/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E7%9B%A3%E8%A6%96%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%88%86%E6%9E%90%E3%81%A8115%E3%81%AEcagr-axyvor-core-upqhe",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://giest.or.jp/contents/reports/4359/",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://akihabara-ds.com/column/detail/40/",
+    "url": "https://research.impress.co.jp/report/list/drone/502419",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.marketreportsworld.com/jp/market-reports/military-grade-drone-market-14727159",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-report/drones-market/1142",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3061026",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -4520,7 +4568,7 @@
     "method": "http"
    },
    {
-    "url": "https://novaist.jp/articles/japan-drone-2030-target/",
+    "url": "https://skylinkjapan.com/blog/drone-hojokin-2026/",
     "status": "ok",
     "method": "http"
    },
@@ -4530,12 +4578,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.nikkei.com/article/DGXZQOUD056M20V00C26A6000000/",
-    "status": "ok",
+    "url": "https://www.bloomberg.com/jp/news/articles/2025-08-25/T1EAEGGOT0JK00",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://arrow-gyosei.com/archives/3722",
+    "url": "https://www.nikkei.com/article/DGXZQOUD056M20V00C26A6000000/",
     "status": "ok",
     "method": "http"
    },
@@ -4545,8 +4593,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.fddi.jp/7608",
+    "url": "https://www.mirait-one.com/miraiz/newsflash/article153.html",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentry-magazine.com/ja/%E7%B1%B3%E8%BB%8D%E3%80%81%E5%AF%BE%E7%84%A1%E4%BA%BA%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%8A%80%E8%A1%93%E3%81%AE%E8%BF%85%E9%80%9F%E3%81%AA%E9%96%8B%E7%99%BA%E3%82%92/",
+    "status": "http_502",
     "method": "http"
    },
    {
@@ -4555,17 +4608,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_03.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mirait-one.com/miraiz/newsflash/article153.html",
+    "url": "https://www.asahi.com/articles/ASV9N54BXV9NUTIL00BM.html",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan",
     "status": "http_403",
     "method": "http"
    },
@@ -4578,11 +4631,6 @@
     "url": "https://www.linkedin.com/pulse/military-drones-market-us-japan-korea-europe-pyzdf",
     "status": "robots_disallowed",
     "method": ""
-   },
-   {
-    "url": "https://www.geopolitechs.org/p/chinas-latest-export-control-measures",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
@@ -4600,11 +4648,6 @@
     "method": ""
    },
    {
-    "url": "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.linkedin.com/top-content/workplace-trends/trends-in-drone-technology/advances-in-military-drone-technology-in-north-america/",
     "status": "robots_disallowed",
     "method": ""
@@ -4620,7 +4663,7 @@
     "method": ""
    },
    {
-    "url": "https://www.linkedin.com/pulse/little-military-drone-could-roey-tzezana",
+    "url": "https://www.linkedin.com/top-content/technology/drone-technology-applications/advantages-of-attritable-military-drones/",
     "status": "robots_disallowed",
     "method": ""
    }
@@ -4632,12 +4675,12 @@
    "results": [
     "https://www.reuters.com/jp/video/watch/idOWjpvCD32Y25FRT05UJKZ3VTH82Z724/",
     "https://www.youtube.com/watch?v=DevXNpvnL6I",
+    "https://www.reuters.com/graphics/IRAN-CRISIS/DRONES/gdvzadwempw/",
     "https://newsdig.tbs.co.jp/articles/-/3015883",
-    "https://www.reuters.com/jp/world/ukraine/3I6NY2JEPFPTPJ6AMP5YFASABM-2024-02-06/",
-    "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
-    "https://diamond.jp/articles/-/402214",
     "https://www.nids.mod.go.jp/publication/commentary/pdf/commentary454.pdf",
+    "https://diamond.jp/articles/-/402214",
     "https://www.bbc.com/japanese/67191996",
+    "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
     "https://forbesjapan.com/articles/detail/105329",
     "https://www.msn.com/ja-jp/news/national/日本-ついにai-ドローン防衛を安保文書へ-人手不足の自衛隊を補う-新たな防御方式-の現実/ar-AA26p7cZ"
    ],
@@ -4650,14 +4693,14 @@
   {
    "query": "軍用ドローン 受注残 人手不足",
    "results": [
-    "https://jp.wsj.com/articles/america-needs-explosives-for-its-drones-this-startup-is-making-them-94d30d3e",
     "https://diamond.jp/articles/-/402214",
     "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
     "https://tokyonewsmedia.com/archives/21088",
-    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "https://globalxetfs.co.jp/research/drones-in-defense-reshaping-modern-warfare-and-its-economics/index.html",
     "https://www.cnn.co.jp/usa/35079775.html",
     "https://mezha.net/jp/news/1b23df74_commander_explains_why/",
+    "https://www.tokyo-np.co.jp/article/359871",
+    "https://gamma.app/docs/7400-gkm2mvv1v18ghk4",
+    "https://globalxetfs.co.jp/research/drones-in-defense-reshaping-modern-warfare-and-its-economics/index.html",
     "https://forbesjapan.com/articles/detail/105329",
     "https://business.nikkei.com/atcl/gen/19/00800/052600024/"
    ],
@@ -4672,14 +4715,14 @@
    "results": [
     "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
     "https://www.reuters.com/jp/opinion/PA7QBCZCWJN5TJNGO6Y6ETHH4E-2026-07-14/",
-    "https://jbpress.ismedia.jp/articles/-/97769",
     "https://jp.wsj.com/articles/how-ukrainian-drone-strikes-are-pounding-russias-economy-c2f771c6",
-    "https://www.youtube.com/watch?v=NgyQVEEVjDA&vl=ja",
-    "https://www.atpress.ne.jp/news/1812347",
+    "https://jbpress.ismedia.jp/articles/-/97769",
     "https://trafficnews.jp/post/683020",
-    "https://gendai.media/articles/-/168434?page=2",
+    "https://www.jiji.com/jc/article?k=WP-WSJ-0003872454&g=ws",
+    "https://www.youtube.com/watch?v=S7zW38siyn8&vl=ja",
+    "https://www.atpress.ne.jp/news/1812347",
     "https://japan.co.jp/reports/japan-drone-industry-2026.html",
-    "https://note.com/asset_alive/n/na6fc62e8a9cb"
+    "https://www.excite.co.jp/news/article/Trafficnews_683020/"
    ],
    "engines": [
     "ddgs:bing",
@@ -4697,7 +4740,7 @@
     "https://milterm.com/archives/1620",
     "https://0523.tw/china-drone-export-control?lang=ja",
     "https://www.reuters.com/jp/world/security/3T5XRLZLKBML3NIDEOSSZGFTMM-2025-09-08/",
-    "https://www.jcipo.org/theme01/%E3%80%90%E5%95%86%E5%8B%99%E9%83%A8%E5%85%AC%E5%91%8A2026%E5%B9%B4%E7%AC%AC34%E5%8F%B7%E3%80%80%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E8%BB%8D%E6%B0%91/",
+    "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
     "https://goalflag.fun/military-drone-guide/",
     "https://straitsresearch.com/jp/report/military-drone-market"
    ],
@@ -4705,21 +4748,21 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 12
   },
   {
    "query": "軍用ドローン 海外 受注 日本企業",
    "results": [
     "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "https://note.com/hirokimiyano/n/nbe40e805c9ca",
     "https://www.nikkei.com/article/DGXZQOUC037410T00C26A8000000/",
     "https://terra-drone.net/26566",
+    "https://note.com/hirokimiyano/n/nbe40e805c9ca",
     "https://www.reuters.com/jp/world/taiwan/YNBILWWWQRIDRJUHXRJEEVO3IE-2026-06-19/",
-    "https://www.youtube.com/watch?v=72Hmsy2MfQk",
     "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://www.youtube.com/watch?v=72Hmsy2MfQk",
     "https://japan-forward.com/ja/terra-a1-interceptor-drone-ukraine-operational/",
     "https://akihabara-ds.com/column/detail/89/",
-    "https://straitsresearch.com/jp/report/military-drone-market"
+    "https://www.fortunebusinessinsights.com/jp/軍用ドローン市場-102181"
    ],
    "engines": [
     "ddgs:google",
@@ -4736,33 +4779,33 @@
     "https://straitsresearch.com/jp/report/military-drone-market",
     "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
     "https://www.theinsightpartners.com/ja/reports/military-drone-market",
-    "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
     "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
     "https://www.marketreportsworld.com/jp/market-reports/military-grade-drone-market-14727159",
     "https://www.fortunebusinessinsights.com/jp/軍用ドローン市場-102181"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "軍用ドローン 中国 韓国 競合 日本",
    "results": [
-    "https://toyokeizai.net/articles/-/942717?display=b",
     "https://www.nikkei.com/article/DGXZQOGN04BL10U6A900C2000000/",
-    "https://jp.wsj.com/articles/SB12591159551345134255804583277253133486298",
-    "https://www.youtube.com/watch?v=H9CoPS2IlhM",
+    "https://toyokeizai.net/articles/-/942717?display=b",
     "https://www.recordchina.co.jp/b953253-s39-c20-d0195.html",
-    "https://note.com/hirokimiyano/n/na70be250ff3c",
-    "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "https://globe.asahi.com/article/12743735",
+    "https://www.youtube.com/watch?v=F4kgMeZmSoU",
+    "https://forbesjapan.com/articles/detail/78626",
+    "https://jp.wsj.com/articles/SB12591159551345134255804583277253133486298",
     "https://straitsresearch.com/jp/report/military-drone-market",
-    "https://www.databridgemarketresearch.com/jp/press-release/asia-pacific-military-drones-market",
-    "https://rocket-boys.co.jp/security-measures-lab/drone-supply-chain-china-reliance-japan-dual-use/"
+    "https://rocket-boys.co.jp/security-measures-lab/drone-supply-chain-china-reliance-japan-dual-use/",
+    "https://gendai.media/articles/-/171270"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -4785,7 +4828,7 @@
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "軍用ドローン 海外展開 商社 代理店",
@@ -4794,12 +4837,12 @@
     "https://www.acsl.co.jp/news-release/press-release/4101/",
     "https://innovatopia.jp/drones/drones-news/110814/",
     "https://www.eft-makuw.jp/agency.html",
+    "https://note.com/hirokimiyano/n/nbe40e805c9ca",
     "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
     "https://terra-drone.net/service/oversea",
-    "https://note.com/hirokimiyano/n/nbe40e805c9ca",
     "https://kmt-drone.com/",
     "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "https://straitsresearch.com/jp/report/military-drone-market"
+    "https://www.system5.co.jp/service/import_wholesale/"
    ],
    "engines": [
     "ddgs:google",
@@ -4811,14 +4854,14 @@
    "query": "軍用ドローン 調達 サプライヤー 要求",
    "results": [
     "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "https://giest.or.jp/contents/reports/4359/",
-    "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
     "https://www.atemitech.com/jp/solution/Defense",
-    "https://skyfamily.com.cn/ja/buy/3/12881.html",
     "https://www.ys-consulting.com.tw/news/126485.html",
-    "https://www.nikkei.com/article/DGKKZO92783770U5A121C2FF8000/",
     "https://www.businessinsider.jp/article/2607-nato-cant-stockpile-lots-drones-maybe-out-date-next-war/",
-    "https://sattu-ai-agent.com/2026/09/17/defence-drone/",
+    "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "https://giest.or.jp/contents/reports/4359/",
+    "https://www.mod.go.jp/j/budget/rapid_acquisition/rfi.html",
+    "https://shikiho.toyokeizai.net/news/0/901019",
+    "https://www.nikkei.com/article/DGXZQOGN119WB0R11C25A1000000/",
     "https://www.fortunebusinessinsights.com/jp/軍用ドローン市場-102181"
    ],
    "engines": [
@@ -4832,17 +4875,17 @@
    "results": [
     "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
     "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
-    "https://straitsresearch.com/jp/report/military-drone-market",
     "https://www.theinsightpartners.com/ja/reports/military-drone-market",
     "https://research.impress.co.jp/report/list/drone/502419",
-    "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E7%9B%A3%E8%A6%96%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%88%86%E6%9E%90%E3%81%A8115%E3%81%AEcagr-axyvor-core-upqhe",
-    "https://akihabara-ds.com/column/detail/40/",
     "https://www.marketreportsworld.com/jp/market-reports/military-grade-drone-market-14727159",
+    "https://straitsresearch.com/jp/report/military-drone-market",
     "https://www.youtube.com/watch?v=_ZBogZUbcT0",
+    "https://www.idtechex.com/ja/research-report/drones-market/1142",
+    "https://newscast.jp/news/3061026",
     "https://www.fortunebusinessinsights.com/jp/軍用ドローン市場-102181"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -4853,16 +4896,16 @@
     "https://droneschool.kofuji.co.jp/drone-subsidy-saishin2026/",
     "https://www.helicam.jp/column/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B0%8E%E5%85%A5%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%BE%E3%81%A8%E3%82%81/",
     "https://kddi.smartdrone.co.jp/column/subsidy/814/",
-    "https://novaist.jp/articles/japan-drone-2030-target/",
     "https://skylinkjapan.com/blog/drone-hojokin-2026/",
-    "https://ninjalinkss.jp/261020-3/",
+    "https://novaist.jp/articles/japan-drone-2030-target/",
     "https://www.reuters.com/jp/world/security/KNNEKT2FGFNMZODL2AMKRPHFNY-2026-04-21/",
+    "https://ninjalinkss.jp/261020-3/",
     "https://www.11consul.com/2026/06/10/drone-hojokin-2026/",
-    "https://ipdefenseforum.com/ja/2026/09/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%98%B2%E8%A1%9B%E4%BA%88%E7%AE%97%E6%A6%82%E7%AE%97%E8%A6%81%E6%B1%82%E3%80%81%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%BBai%E3%83%BB%E3%83%9F%E3%82%B5%E3%82%A4%E3%83%AB/",
+    "https://www.droneking.jp/news/p840/",
     "https://hojokin-kensaku.jp/subsidy/equipment-asset-category/drone"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -4872,37 +4915,37 @@
    "results": [
     "https://sky-stage.jp/column/drone-jinzai-jigyo",
     "https://www.youtube.com/watch?v=Q1yS1o5LV4Y",
-    "https://www.nikkei.com/article/DGXZQOUD056M20V00C26A6000000/",
-    "https://arrow-gyosei.com/archives/3722",
-    "https://corp.furukawadenchi.co.jp/ja/news/news-20240220.html",
     "https://www.bloomberg.co.jp/news/articles/2025-08-25/T1EAEGGOT0JK00",
+    "https://www.nikkei.com/article/DGXZQOUD056M20V00C26A6000000/",
+    "https://corp.furukawadenchi.co.jp/ja/news/news-20240220.html",
+    "https://arrow-gyosei.com/archives/3722",
     "https://www.youtube.com/watch?v=bJMYwtfVVQs",
     "https://www.jfc.go.jp/n/findings/pdf/tyousa_gttupou_2408.pdf",
-    "https://column.suzak.inc/agriculture-forestry/agricultural-drone-usage/",
-    "https://forbesjapan.com/articles/detail/105329"
+    "https://www.asahi.com/articles/ASV9N549YV9NUTFK00MM.html",
+    "https://japan.co.jp/reports/japan-drone-industry-2026.html"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "軍用ドローン 新技術 実証 2026",
    "results": [
     "https://skylinkjapan.com/blog/japan-defense-public-safety-uav-manufacturers-2026/",
-    "https://www.fddi.jp/7608",
-    "https://nsbt-japan.com/?c=aBmR6HFw9Gs7eYbMcfe6d02c6a9686f8fb33adc0e554482f",
     "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
-    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_03.pdf",
     "https://www.mirait-one.com/miraiz/newsflash/article153.html",
-    "https://drone-journal.impress.co.jp/docs/news/1188574.html",
-    "https://www.technologyreview.jp/s/375416/europes-drone-filled-vision-for-the-future-of-war/",
     "https://sentry-magazine.com/ja/%E7%B1%B3%E8%BB%8D%E3%80%81%E5%AF%BE%E7%84%A1%E4%BA%BA%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%8A%80%E8%A1%93%E3%81%AE%E8%BF%85%E9%80%9F%E3%81%AA%E9%96%8B%E7%99%BA%E3%82%92/",
+    "https://nsbt-japan.com/?c=aBmR6HFw9Gs7eYbMcfe6d02c6a9686f8fb33adc0e554482f",
+    "https://www.asahi.com/articles/ASV9N54BXV9NUTIL00BM.html",
+    "https://www.technologyreview.jp/s/375416/europes-drone-filled-vision-for-the-future-of-war/",
+    "https://www.fddi.jp/7608",
+    "https://akihabara-ds.com/column/detail/40/",
     "https://goalflag.fun/military-drone-guide/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -4911,41 +4954,39 @@
    "query": "military drone Japan export 2026",
    "results": [
     "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan",
+    "https://www.youtube.com/watch?v=3kldf8MDb5A",
     "https://www.asianmilitaryreview.com/2026/07/japans-drone-ambitions-face-multiple-impediments-foc/",
     "https://www.linkedin.com/pulse/military-drones-market-us-japan-korea-europe-pyzdf",
-    "https://www.geopolitechs.org/p/chinas-latest-export-control-measures",
+    "https://ssl.japan-drone.com/en_la/",
+    "https://apnews.com/article/japan-defense-paper-china-drones-5a6c6223b22deec4619af31cf69fdc34",
     "https://www.trade.gov/market-intelligence/japan-drone-market",
-    "https://www.unmannedsystemstechnology.com/events/japan-drone/",
-    "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html",
     "https://note.com/hirokimiyano/n/nbe40e805c9ca?hl=en",
-    "https://www.zgsxgt.com/news/Defense_Tech/Anti_Drone_Systems/Japan_Allows_Export_of_Lethal_Defense_Systems_Raising_Compliance_Pressure.html",
-    "https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports"
+    "https://www.zgsxgt.com/news/Defense_Tech/Anti_Drone_Systems/Japan_Allows_Export_of_Lethal_Defense_Systems_Raising_Compliance_Pressure.html"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 14
   },
   {
    "query": "military drone Japanese suppliers overseas customers",
    "results": [
     "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/Japan",
-    "https://japan-forward.com/how-a-harmless-japanese-consumer-technology-found-its-way-to-military-drones-overseas/",
-    "https://www.trade.gov/market-intelligence/japan-drone-market",
-    "https://www.facebook.com/japaninsidehq/posts/japan-just-kicked-chinas-drone-empire-out-of-the-skyand-japanese-manufacturers-a/1258076663161916/",
     "https://www.asianmilitaryreview.com/2026/07/japans-drone-ambitions-face-multiple-impediments-foc/",
+    "https://www.trade.gov/market-intelligence/japan-drone-market",
+    "https://japan-forward.com/how-a-harmless-japanese-consumer-technology-found-its-way-to-military-drones-overseas/",
     "https://www.youtube.com/watch?v=3kldf8MDb5A",
-    "https://www.facebook.com/anewztv/videos/a-japanese-drone-developer-says-it-is-working-with-ukrainian-partners-to-produce/26447368878277419/",
+    "https://www.facebook.com/united24.media/posts/japan-has-signed-a-contract-to-purchase-ukrainian-made-interceptor-drones-from-d/1081046144696686/",
     "https://product.acsl.co.jp/en/",
-    "https://www.6wresearch.com/industry-report/japan-military-drone-market",
-    "https://www.tandfonline.com/doi/full/10.1080/09512748.2026.2726763"
+    "https://www.flightglobal.com/archive/2026/03/japans-terradrone-launches-defence-unit-targeting-military-business/",
+    "https://note.com/hirokimiyano/n/nbe40e805c9ca?hl=en"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 9
   },
   {
    "query": "military drone market share China Japan Korea",
@@ -4956,7 +4997,7 @@
     "https://www.technavio.com/report/military-drone-market-analysis",
     "https://www.fortunebusinessinsights.com/military-drone-market-102181",
     "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
-    "https://www.researchandmarkets.com/report/asia-pacific-military-drone-market?srsltid=AYCX9vJWdH8rhos1y-xH4AbUrxllV6wGJx9gZ1GErUF0Xy2YBGIZm4af",
+    "https://www.researchandmarkets.com/report/asia-pacific-military-drone-market?srsltid=AYCX9vKKgCdW7bF21sqvBQbWAQkJsTa69Uudgp7_KiuDsAIykuiR22oa",
     "https://www.linkedin.com/pulse/military-drones-market-us-japan-korea-europe-pyzdf",
     "https://www.marketsandmarkets.com/Market-Reports/geography/military-drone-market/asia-pacific",
     "https://worldostats.com/country-stats/military-drones-by-country/"
@@ -4974,15 +5015,15 @@
     "https://note.com/drone_snark/n/nc10cf12c3cf1",
     "https://note.com/tender_echium832/n/n8b726ed3232d",
     "https://note.com/sasakitoshinao/n/n6006f55162d8",
+    "https://note.com/tender_echium832/n/ne3db96b950f6",
     "https://note.com/shoji_orihara/n/n7d4aa434921d",
     "https://note.com/tag/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3",
-    "https://note.com/tender_echium832/n/ne3db96b950f6",
     "https://note.com/tasty_yak6599/n/ne05b1b0beafc",
     "https://note.com/takeuchi_kazuto/n/n38e77141f7a9",
     "https://note.com/militaryinfo/n/n9aaf78ff4f12"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -4992,17 +5033,17 @@
    "results": [
     "https://x.com/WSJJapan/status/2105469062130102559",
     "https://x.com/_dronenews",
+    "https://x.com/_dronenews/status/2105471228085772479",
     "https://x.com/iw_toshiki/status/2112257531469070787",
-    "https://x.com/_dronenews/status/2118717467778490661",
-    "https://x.com/jpg2t785/status/1579526930931806209",
     "https://x.com/jpg2t785/status/1463355612583297024",
-    "https://x.com/rockfish31/status/2071368307224236110",
     "https://x.com/jpg2t785/status/1822194099459366940",
     "https://x.com/jpg2t785/status/1846678842859311467",
-    "https://x.com/masatheman/status/2045464167688327399"
+    "https://x.com/takapon_jp/status/2029248046723416470",
+    "https://x.com/jpg2t785/status/2014332846807343435",
+    "https://x.com/FUYOSHOBO/status/2068927693278855232"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -5011,18 +5052,18 @@
    "query": "site:linkedin.com 軍用ドローン",
    "results": [
     "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%84%A1%E4%BA%BA%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-petroflux-research-group-5d3ee",
-    "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E7%9B%A3%E8%A6%96%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%88%86%E6%9E%90%E3%81%A8115%E3%81%AEcagr-axyvor-core-upqhe",
     "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E7%9B%A3%E8%A6%96%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%8F%8E%E7%9B%8A%E3%81%A8%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7-7504883546352951296-ghnae",
     "https://www.linkedin.com/posts/leoneluca_mercedes-benz-set-to-partner-with-drone-defence-activity-7470414623243051008-1cuJ",
-    "https://jp.linkedin.com/pulse/introducing-years-list-10-breakthrough-technologies-?tl=ja",
     "https://www.linkedin.com/posts/leoneluca_indias-military-speeds-up-orders-for-weaponised-activity-7476258092402524162-1NFd",
-    "https://www.linkedin.com/posts/leoneluca_exclusive-us-defence-firm-anduril-in-talks-activity-7475880618761895936--0nd",
     "https://jp.linkedin.com/pulse/%E8%BB%8D%E4%BA%8B%E7%84%A1%E4%BA%BA%E3%81%AE%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%B3%AA%E7%9A%84%E9%87%8F%E7%9A%84%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%882026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%8E%A8-7520561205288214530-bevoe",
-    "https://www.linkedin.com/posts/leoneluca_indra-buys-catalan-radar-startup-dares-to-activity-7511742015173357568-B_Ws",
+    "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E7%9B%A3%E8%A6%96%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%88%86%E6%9E%90%E3%81%A8115%E3%81%AEcagr-axyvor-core-upqhe",
+    "https://jp.linkedin.com/pulse/%E6%97%A0%E4%BA%BA%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E5%B9%B3%E5%9D%87%E3%82%B3%E3%82%B9%E3%83%88%E5%B0%8E%E5%85%A5%E7%8A%B6%E6%B3%81%E6%88%90%E9%95%B7%E5%8F%8E%E7%9B%8A%E5%9C%B0%E5%9F%9F%E5%88%A5%E8%A6%8B%E9%80%9A%E3%81%97%E4%BA%88%E6%B8%ACcagr-106%E3%81%A7%E6%8B%A1%E5%A4%A7-uba9e",
+    "https://jp.linkedin.com/pulse/introducing-years-list-10-breakthrough-technologies-?tl=ja",
+    "https://www.linkedin.com/posts/leoneluca_exclusive-us-defence-firm-anduril-in-talks-activity-7475880618761895936--0nd",
     "https://jp.linkedin.com/pulse/軍用ドローン無人航空機メーカーランキング-petroflux-research-group-5d3ee"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -5034,15 +5075,15 @@
     "https://www.facebook.com/nikkei/posts/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E4%B8%96%E7%95%8C%E3%81%AE%E6%9C%80%E6%96%B0%E4%BA%8B%E6%83%85-%E8%87%AA%E8%A1%9B%E9%9A%8A%E3%81%AF%E6%94%BB%E6%92%83%E5%9E%8B300%E6%A9%9F%E8%A8%88%E7%94%BB/1279882243483175/",
     "https://www.facebook.com/sawada.eng/posts/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AB%E5%AD%A6%E3%81%B6%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E6%88%A6-%E6%88%91%E3%81%8C%E5%9B%BD%E3%81%8C%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E9%80%B2%E3%82%80%E3%81%B9%E3%81%8D%E9%81%93%E7%AD%8B-%E7%8B%AC%E7%AB%8B%E9%96%8B%E6%A5%AD%E6%8A%80%E8%A1%93%E5%A3%AB%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E9%83%A8%E9%96%80%E3%81%AE%E6%BE%A4%E7%94%B0%E9%9B%85%E4%B9%8B%E3%81%A7%E3%81%99note%E3%81%A8%E3%81%84%E3%81%86%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AB%E5%AD%A6%E3%81%B6%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E3%83%89%E3%83%AD/1610140354140009/",
     "https://www.facebook.com/NewsweekJAPAN/posts/%E3%83%AD%E3%82%B7%E3%82%A2%E8%BB%8D%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%8C%E8%BF%AB%E3%82%8A%E5%85%B5%E5%A3%AB%E3%81%9F%E3%81%A1%E3%81%8C%E4%B8%80%E6%96%89%E5%B0%84%E6%92%83%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E6%9C%80%E5%89%8D%E7%B7%9A%E3%81%A7%E7%9B%AE%E6%92%83%E3%81%97%E3%81%9F%E7%84%A1%E4%BA%BA%E6%88%A6%E4%BA%89%E3%81%AE%E7%8F%BE%E5%AE%9F%E6%88%A6%E5%A0%B4%E3%82%92%E9%A3%9B%E3%81%B3%E4%BA%A4%E3%81%86%E8%87%AA%E7%88%86%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E6%A9%9F%E9%96%A2%E9%8A%83%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E7%84%A1%E4%BA%BA%E8%BB%8A%E4%B8%A1%E3%83%AD%E3%82%B7%E3%82%A2%E9%A0%98%E5%86%85%E3%82%92%E6%94%BB%E6%92%83%E3%81%99%E3%82%8B%E9%95%B7%E8%B7%9D%E9%9B%A2%E7%84%A1/1824017223060276/",
+    "https://www.facebook.com/nikkei/videos/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%BB%8D%E6%B0%B4%E4%B8%8A%E8%87%AA%E7%88%86%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E5%88%9D%E3%82%81%E3%81%A6%E5%AE%9F%E6%88%A6%E3%81%AB%E6%8A%95%E5%85%A5-%E3%82%A4%E3%83%A9%E3%83%B3%E6%96%BD%E8%A8%AD%E3%81%AE%E7%A0%B4%E5%A3%8A%E5%8B%95%E7%94%BB%E3%82%92%E5%85%AC%E9%96%8Bhttpswwwnikkeicomarticledgxzqogn13ata0t10c26/27819163711105132/",
     "https://www.facebook.com/mod.japn/posts/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E9%A3%9B%E8%A1%8C%E7%A6%81%E6%AD%A2%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%8C%E6%8B%A1%E5%A4%A7%E6%B3%95%E6%94%B9%E6%AD%A3%E3%81%AB%E3%82%88%E3%82%8A714%E7%81%AB%E3%81%8B%E3%82%89%E8%87%AA%E8%A1%9B%E9%9A%8A%E7%B1%B3%E8%BB%8D%E3%81%AE%E5%9F%BA%E5%9C%B0%E3%81%AA%E3%81%A9%E5%91%A8%E8%BE%BA%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E9%A3%9B%E8%A1%8C%E7%A6%81%E6%AD%A2%E3%82%A8%E3%83%AA%E3%82%A2%E3%81%8C%E5%91%A8%E8%BE%BA%E7%B4%841000%EF%BD%8D%E3%81%AB%E6%8B%A1%E5%A4%A7%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%82%A8%E3%83%AA%E3%82%A2%E5%86%85%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E9%A3%9B%E8%A1%8C%E3%81%AB%E3%81%AF%E4%BA%8B/1503425058490223/",
     "https://www.facebook.com/esquirejapan/posts/%E5%AE%89%E4%BE%A1%E3%81%AA%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%B8%E3%81%AE%E8%AD%A6%E6%88%92%E3%81%8B%E3%82%89%E7%B1%B3%E8%BB%8D%E3%81%AF%E8%8B%B1%E5%9F%BA%E5%9C%B0%E3%81%AB%E5%B1%95%E9%96%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%9Fb-1%E7%88%86%E6%92%83%E6%A9%9F12%E6%A9%9F%E3%82%92%E7%B7%8A%E6%80%A5%E9%80%80%E9%81%BF%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%82%84%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%81%AE%E4%BD%9C%E6%88%A6%E3%81%8C%E7%A4%BA%E3%81%99%E3%82%88%E3%81%86%E3%81%AB%E6%AF%94%E8%BC%83%E7%9A%84%E5%AE%89%E4%BE%A1%E3%81%AA%E6%8A%80%E8%A1%93%E3%81%8C%E5%A4%A7%E5%9B%BD%E3%81%AE%E8%BB%8D%E4%BA%8B%E5%8A%9B%E3%82%92%E6%8F%BA%E3%82%8B%E3%81%8C%E3%81%97/1627640249377140/",
-    "https://www.facebook.com/BusinessInsiderJapan/posts/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E8%BB%8D%E3%81%AF%E5%A4%A7%E5%9E%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E5%8F%B2%E4%B8%8A%E5%88%9D%E3%81%AE%E7%A9%BA%E4%B8%AD%E6%95%91%E5%87%BA%E4%BD%9C%E6%88%A6%E3%81%AB%E6%88%90%E5%8A%9F%E3%81%97%E3%81%9F%E3%81%A8%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E9%96%8B%E7%99%BA%E3%81%AB%E6%90%BA%E3%82%8F%E3%81%A3%E3%81%9F%E5%BD%93%E5%B1%80%E8%80%85%E3%81%AF%E3%81%82%E3%81%BE%E3%82%8A%E3%81%AB%E3%83%AA%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AA%E3%81%9F%E3%82%81%E3%81%82%E3%81%8F%E3%81%BE%E3%81%A7%E6%9C%80%E5%BE%8C%E3%81%AE%E6%89%8B%E6%AE%B5%E3%81%A0%E3%81%A8%E8%AA%9E%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/1731572212302347/",
     "https://www.facebook.com/japanwsj/posts/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B36%E6%A9%9F%E3%81%8C19%E6%97%A5%E3%83%AD%E3%82%B7%E3%82%A2%E5%8D%A0%E9%A0%98%E4%B8%8B%E3%81%AE%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E6%9D%B1%E9%83%A8%E3%81%AB%E3%81%82%E3%82%8B%E3%83%AD%E3%82%B7%E3%82%A2%E8%BB%8D%E5%80%89%E5%BA%AB%E3%81%AB%E5%90%91%E3%81%8B%E3%81%A3%E3%81%A6%E9%A3%9B%E8%A1%8C%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E9%9A%9B%E6%93%8D%E7%B8%A6%E5%A3%AB%E3%81%9F%E3%81%A1%E3%81%AF%E9%80%9A%E4%BF%A1%E3%81%AE%E9%80%94%E7%B5%B6%E3%81%AB%E8%A6%8B%E8%88%9E%E3%82%8F%E3%82%8C%E3%81%9F%E6%99%82%E9%80%9F%E7%B4%84100%E3%83%9E%E3%82%A4%E3%83%AB%E7%B4%8416/1974609063888575/",
-    "https://www.facebook.com/NewsweekJAPAN/posts/20%E6%A9%9F%E3%81%AE%E8%87%AA%E7%88%86%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%8C%E4%B8%80%E6%96%89%E3%81%AB%E8%A5%B2%E3%81%84%E3%81%8B%E3%81%8B%E3%82%8B%E3%83%88%E3%83%AB%E3%82%B3%E8%BB%8D%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%97%E3%81%9F%E7%BE%A4%E3%82%8C%E3%81%A7%E6%94%BB%E6%92%83%E3%81%99%E3%82%8B%E5%85%B5%E5%99%A8%E3%81%AE%E8%A1%9D%E6%92%83%E6%98%A0%E5%83%8F%E3%81%9F%E3%81%A3%E3%81%9F1%E4%BA%BA%E3%81%AE%E6%93%8D%E7%B8%A6%E8%80%85%E3%81%AE%E6%8C%87%E7%A4%BA%E3%81%A720%E6%A9%9F%E3%81%8C%E9%A3%9B%E3%81%B3%E7%AB%8B%E3%81%A12%E3%81%A4%E3%81%AE%E9%9B%86%E5%9B%A3%E3%81%AB%E5%88%86%E3%81%8B%E3%82%8C%E3%81%A6%E6%A8%99%E7%9A%84%E3%82%92%E5%90%8C%E6%99%82%E6%94%BB%E6%92%83/1817944593667539/",
-    "https://www.facebook.com/trafficnews.jp/posts/ついに日本で本格的な軍用ドローンが日本の新興企業が防衛産業に参入迎撃ドローンに出資圧倒的低コストの装備開発へ/1725108492145158/"
+    "https://www.facebook.com/BusinessInsiderJapan/posts/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E8%BB%8D%E3%81%AF%E5%A4%A7%E5%9E%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E5%8F%B2%E4%B8%8A%E5%88%9D%E3%81%AE%E7%A9%BA%E4%B8%AD%E6%95%91%E5%87%BA%E4%BD%9C%E6%88%A6%E3%81%AB%E6%88%90%E5%8A%9F%E3%81%97%E3%81%9F%E3%81%A8%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E9%96%8B%E7%99%BA%E3%81%AB%E6%90%BA%E3%82%8F%E3%81%A3%E3%81%9F%E5%BD%93%E5%B1%80%E8%80%85%E3%81%AF%E3%81%82%E3%81%BE%E3%82%8A%E3%81%AB%E3%83%AA%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AA%E3%81%9F%E3%82%81%E3%81%82%E3%81%8F%E3%81%BE%E3%81%A7%E6%9C%80%E5%BE%8C%E3%81%AE%E6%89%8B%E6%AE%B5%E3%81%A0%E3%81%A8%E8%AA%9E%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/1731572212302347/",
+    "https://www.facebook.com/groups/evtoljapandrones/posts/1295654169266484/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -5051,38 +5092,38 @@
    "query": "軍用ドローン note 社長",
    "results": [
     "https://note.com/tag/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3",
-    "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "https://note.com/tender_echium832/n/ne3db96b950f6",
     "https://note.com/takeuchi_kazuto/n/n38e77141f7a9",
-    "https://note.com/yonahajun/n/n63de64bdb362",
-    "https://note.com/tasty_mimosa163/n/n31001b0534a3",
-    "https://www.nikkei.com/article/DGXZQOGR08DBN0Y5A700C2000000/",
-    "https://www.youtube.com/watch?v=8FMyA56iP0A",
-    "https://toyokeizai.net/articles/-/938835?display=b",
+    "https://note.com/tender_echium832/n/n9d5b6aa671e3",
+    "https://www.nikkei.com/article/DGXZQOGN04BL10U6A900C2000000/",
+    "https://note.com/joyful_broom7890/n/n9b1a6f0b332c",
+    "https://www.youtube.com/watch?v=cSYYRqhMJEs",
     "https://straitsresearch.com/jp/report/military-drone-market",
-    "https://toyokeizai.net/articles/-/922062?display=b"
+    "https://toyokeizai.net/articles/-/922062?display=b",
+    "https://www.gizmodo.jp/article/2610-anduril-bluechip-laptop-national-security/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 13
   },
   {
    "query": "軍用ドローン X 投稿",
    "results": [
+    "https://www.reuters.com/jp/world/ukraine/RRZTZD7S6NJWTONTMX6VASM3GA-2026-10-14/",
     "https://www.bbc.com/japanese/articles/cx7vp77jnml9o",
-    "https://www.reuters.com/jp/markets/world-indices/RCT7PSUEAVJ77ACMLQDQFKCD5U-2026-05-26/",
-    "https://finance.biggo.jp/news/244909bf-db96-4ac9-906f-929e816b18c4",
-    "https://newsdig.tbs.co.jp/articles/-/3012591",
+    "https://www.reuters.com/video/watch/idOWjpvCD32Y25FRT05UJKZ3VTH82Z724/",
     "https://forbesjapan.com/articles/detail/106625",
-    "https://www.youtube.com/watch?v=DevXNpvnL6I",
-    "https://x.com/marshtwins/status/2112489100746055929",
+    "https://newsdig.tbs.co.jp/articles/-/3012591",
+    "https://finance.biggo.jp/news/244909bf-db96-4ac9-906f-929e816b18c4",
+    "https://x.com/_mif5/status/2118002214560219288",
     "https://news.livedoor.com/topics/detail/31536933/",
     "https://x.com/Uraomote_x/status/2115208995590041729",
-    "https://drone-journal.impress.co.jp/docs/special/1188616.html"
+    "https://news.livedoor.com/article/detail/31536933/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -5093,12 +5134,12 @@
     "https://www.linkedin.com/top-content/workplace-trends/trends-in-drone-technology/advances-in-military-drone-technology-in-north-america/",
     "https://www.linkedin.com/top-content/technology/drone-technology-applications/military-drone-technology-explained/",
     "https://www.linkedin.com/top-content/technology/workflow-automation-solutions/workflow-solutions-for-military-drone-operations/",
-    "https://www.linkedin.com/pulse/little-military-drone-could-roey-tzezana",
-    "https://www.linkedin.com/top-content/supply-chain-management/procurement-management-tips/army-drone-procurement-guidelines/",
     "https://www.linkedin.com/top-content/technology/drone-technology-applications/advantages-of-attritable-military-drones/",
-    "https://www.linkedin.com/top-content/technology/drone-technology-applications/integrating-drones-into-military-logistics-operations/",
+    "https://www.linkedin.com/top-content/supply-chain-management/procurement-management-tips/army-drone-procurement-guidelines/",
+    "https://www.linkedin.com/pulse/little-military-drone-could-roey-tzezana",
+    "https://www.linkedin.com/posts/united-states-military-academy-at-west-point_researchsymposium2026-activity-7453093069521907712-YLfY",
     "https://www.linkedin.com/pulse/army-software-enables-quicker-precision-drone-strikes-against-arrue",
-    "https://www.linkedin.com/top-content/technology/drone-technology-applications/military-drone-technology-for-intelligence-gathering/",
+    "https://www.linkedin.com/top-content/technology/drone-technology-applications/integrating-drones-into-military-logistics-operations/",
     "https://www.linkedin.com/pulse/top-military-drone-manufacturers-2026-whos-leading-global-singhania-yn4nc/"
    ],
    "engines": [
@@ -5110,121 +5151,63 @@
  ],
  "missing": {},
  "new_this_run": {
-  "政治（法・予算・規制）": [
+  "自社の競合（商社・代理店・仲介）": [
    {
-    "quote": "ドローン（無人機）メーカー米最大手でウクライナ軍に製品を供給しているスカイディオが、中国政府の制裁対象とされたことでサプライチェーン（供給網）の危機に直面している",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
+    "quote": "総合商社5社がそろって増益､過去最高益も続出…資源高と事業改革が追い風も景気後…",
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "社会（人・担い手）": [
+    "first_seen": "2026-11-09"
+   },
    {
-    "quote": "野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー",
-    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "quote": "総合商社5社がそろって増益､過去最高益も続出…資源高と事業改革が追い風も景気後退に耐える｢本当の稼ぐ力｣が焦点",
+    "url": "https://toyokeizai.net/articles/-/942717?display=b",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Decommissioning Nuclear Sites With UAVs - Use Case Study: Sellafield UK",
+    "url": "https://www.idtechex.com/ja/research-report/drones-market/1142",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "If you are a reseller/distributor please",
+    "url": "https://www.idtechex.com/ja/research-report/drones-market/1142",
+    "pass": 3,
+    "first_seen": "2026-11-09"
    }
   ],
   "技術（新しい技術・実証）": [
    {
-    "quote": "中国、3Dプリンター製の格安迎撃機「ドローンキラー」の輸出に照準",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
+    "quote": "トヨタHV特許出願､5年1000件と突出 中国勢は方式集約",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
    }
   ],
   "顧客の競合（奪いに来る側）": [
    {
-    "quote": "米ドローン大手、中国による制裁で打撃 部品不足に - 日経FTザ・ワールド",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
+    "quote": "トヨタHV特許出願､5年1000件と突出 中国勢は方式集約",
+    "url": "https://www.nikkei.com/article/DGXZQOUC17B9X0X10C24A1000000/",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ドローン（無人機）メーカー米最大手でウクライナ軍に製品を供給しているスカイディオが、中国政府の制裁対象とされたことでサプライチェーン（供給網）の危機に直面している",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "中国企業に同社への重要部品の供給を禁じることが制裁措置に含まれためだ",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "中国、3Dプリンター製の格安迎撃機「ドローンキラー」の輸出に照準",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
-    "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    }
   ],
-  "顧客（金を払う側）": [
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
    {
-    "quote": "ドローン（無人機）メーカー米最大手でウクライナ軍に製品を供給しているスカイディオが、中国政府の制裁対象とされたことでサプライチェーン（供給網）の危機に直面している",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
+    "quote": "Advantages of Attritable Military Drones - LinkedIn Advantages of Attritable Military Drones - LinkedIn LinkedIn https://www.linkedin.com > technology",
+    "url": "https://www.linkedin.com/top-content/technology/drone-technology-applications/advantages-of-attritable-military-drones/",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "中国企業に同社への重要部品の供給を禁じることが制裁措置に含まれためだ",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "事情をよく知る関係者らによると、単一の企業から仕入れていたバッテリーの供給も止められ、スカイディオは代替調達先の確保が急務となっている",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ルノー、車の量産力を軍用ドローンへ 低コストで大量生産",
-    "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB012EO0R01C24A1000000",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "経済（規模・価格・為替）": [
-   {
-    "quote": "プランテーションシャッター市場は2035年に209億6,000万米ドル到達へ｜CAGR 3.49％、住宅の断熱性向上・スマートホーム化・耐久性に優れたインテリア製品への需要拡大が市場成長を促進",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "建設用プラスチック市場、2035年に2億8,293万米ドル規模へ拡大予測｜CAGR 7.95％、軽量化・耐久性・省エネ建材の需要拡大が市場成長を加速",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ヒト生体試料の世界市場（2026年～2032年）、市場規模（ヒト生体液、ヒト組織サンプル、細胞製品、その他）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "マシンビジョン用光源デジタルコントローラーの世界市場（2026年～2032年）、市場規模（ベーシックタイプ、アドバンストタイプ）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ひずみ波ギアボックスの世界市場（2026年～2032年）、市場規模（ハット型、カップ型、パンケーキ型）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "半導体製造装置用シリコン部品の世界市場（2026年～2032年）、市場規模（エッチング用シリコン部品、炉・LPCVD用シリコン部品）・分析レポートを発表",
-    "url": "https://www.atpress.ne.jp/news/1812347",
-    "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    }
   ]
  },
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-04T00:47:46.497284+00:00"
 }
