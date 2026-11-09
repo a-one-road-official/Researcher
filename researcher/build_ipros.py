@@ -125,17 +125,22 @@ def judge(r: dict) -> str:
     return ("対象（" if len(met) >= 2 else "外す（") + f"{len(met)}/3：" + ("・".join(met) or "なし") + "）"
 
 
-def run_checks(deadline: float) -> bool:
+WORKERS = 4  # 2026-11-10 本人：4本同時並行。並べた会社を 1234,1234… と交互に割り振り、同じ会社を2本が触らない
+
+
+def _worker(k: int, end_epoch: float) -> None:
+    """k本目：並べた順で k, k+4, k+8… 番目の会社だけを調べ、自分専用の checked_k.csv に書く。"""
     from researcher.build_award_chain import check_one
     seeds = _read(SEEDS)
-    done = {r["ipros_id"]: r for r in _read(CHECKED)}
-    seeds.sort(key=lambda s: 0 if MFG_FIRST.search(s.get("class_name", "")) else 1)
-    for s in seeds:
-        if s["ipros_id"] in done:
+    seeds.sort(key=lambda s: (0 if MFG_FIRST.search(s.get("class_name", "")) else 1, s["ipros_id"]))
+    done_all = {r["ipros_id"] for r in _read(CHECKED)}
+    mine_p = OUT / f"checked_{k}.csv"
+    mine = {r["ipros_id"]: r for r in _read(mine_p)}
+    for s in seeds[k::WORKERS]:
+        if s["ipros_id"] in done_all or s["ipros_id"] in mine:
             continue
-        if time.monotonic() > deadline:
-            _write(CHECKED, list(done.values()), FIELDS)
-            return False
+        if time.time() > end_epoch:
+            break
         try:
             home = official_from_ipros(s["ipros_id"])
             r = check_one(s["name"], 0, "イプロス", home=home) if home else {"status": "公式サイト見つからず"}
@@ -145,12 +150,38 @@ def run_checks(deadline: float) -> bool:
             r = {"status": f"読み取りエラー:{type(e).__name__}"}
         r.update({"ipros_id": s["ipros_id"], "name": s["name"], "class_name": s.get("class_name", "")})
         r["judge"] = judge(r)
-        done[s["ipros_id"]] = r
-        print(f"ipros {s['name']}: {r['judge']}", flush=True)
-        if len(done) % 10 == 0:
-            _write(CHECKED, list(done.values()), FIELDS)
+        mine[s["ipros_id"]] = r
+        print(f"ipros[{k}] {s['name']}: {r['judge']}", flush=True)
+        if len(mine) % 5 == 0:
+            _write(mine_p, list(mine.values()), FIELDS)
+    _write(mine_p, list(mine.values()), FIELDS)
+
+
+def _merge() -> dict:
+    done = {r["ipros_id"]: r for r in _read(CHECKED)}
+    for k in range(WORKERS):
+        for r in _read(OUT / f"checked_{k}.csv"):
+            done[r["ipros_id"]] = r
     _write(CHECKED, list(done.values()), FIELDS)
-    return len(done) >= len(seeds) > 0
+    for k in range(WORKERS):
+        (OUT / f"checked_{k}.csv").unlink(missing_ok=True)
+    return done
+
+
+def run_checks(deadline: float) -> bool:
+    import multiprocessing as mp
+    _merge()  # 前の回が途中で切れていても、各本の結果を本体に戻してから始める
+    end_epoch = time.time() + max(0.0, deadline - time.monotonic())
+    ctx = mp.get_context("spawn")
+    procs = [ctx.Process(target=_worker, args=(k, end_epoch)) for k in range(WORKERS)]
+    for p in procs:
+        p.start()
+    for p in procs:
+        p.join(timeout=max(60.0, end_epoch - time.time() + 600))
+        if p.is_alive():
+            p.terminate()
+    done = _merge()
+    return len(done) >= len(_read(SEEDS)) > 0
 
 
 def write_outputs(finished: bool) -> None:
