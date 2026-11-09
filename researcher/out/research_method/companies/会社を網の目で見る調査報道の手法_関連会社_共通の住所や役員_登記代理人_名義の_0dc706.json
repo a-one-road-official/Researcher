@@ -8,7 +8,7 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-08T18:53:09.906604+00:00",
+ "researched_at": "2026-11-09T02:26:04.004535+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,22 +24,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/pesu1759/n/n6159593da045",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/zenkigen/n/n58c0bcc8fb33",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
+    "url": "https://note.com/pesu1759/n/n6159593da045",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/fair_hyssop961/n/nf7a14b4890a6",
+    "url": "https://note.com/nhk_pr/n/nab821feff921",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asahi_books/n/nf6d243b011e6",
     "status": "ok",
     "method": "http"
    },
@@ -54,22 +54,22 @@
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/okuyama-t/teaching_experience/36659644",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jobhuntkeyence/n/n2e2df99e9fa7",
+    "url": "https://note.jp/n/n7917dc1cdfe9?gs=0041e455cc46cc2059aafcf7a21d54ed",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/n7917dc1cdfe9?gs=74891f76ae41c413ee2e2a0c3ec9f681",
+    "url": "https://note.com/fujita_masahiro/n/nea05c644f3e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factcheckcenter.jp/jfc-factcheck-course-practice8/",
     "status": "ok",
     "method": "http"
    },
@@ -89,17 +89,17 @@
     "method": "http"
    },
    {
+    "url": "https://researchmap.jp/okuyama-t/teaching_experience/36659644",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://inquire.jp/2021/06/17/lighthouse_reports/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://blogs.ricoh.co.jp/RISB/society/post_750.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.chosakai.gr.jp/project/notification/",
     "status": "ok",
     "method": "http"
    },
@@ -114,14 +114,29 @@
     "method": "http"
    },
    {
-    "url": "https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/features/06-1-2/",
+    "url": "https://www.chosakai.gr.jp/project/mediapage/other_year/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kaz-ogiwara.github.io/digital-journalism-showcase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clean_duck544/n/n5b0d73f0048e",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.cpajournal.com/2016/03/16/using-network-analysis-detect-collusive-fraud/",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.linkedin.com/pulse/when-independent-director-resigns-does-auditor-have-red-yogesh-kumar-zdk1c",
@@ -156,17 +171,17 @@
    "results": [
     "https://note.com/yukafujimura/n/nebb69858a059",
     "https://note.com/yukafujimura/n/n707f48ad1883",
-    "https://note.com/pesu1759/n/n6159593da045",
     "https://note.com/zenkigen/n/n58c0bcc8fb33",
-    "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
-    "https://note.com/fair_hyssop961/n/nf7a14b4890a6",
-    "https://note.com/asahi_books/n/nf6d243b011e6",
+    "https://note.com/pesu1759/n/n6159593da045",
     "https://note.com/nhk_pr/n/nab821feff921",
+    "https://note.com/asahi_books/n/nf6d243b011e6",
+    "https://note.com/fair_hyssop961/n/nf7a14b4890a6",
     "https://note.com/bax36410/n/n20af0a5cc031",
-    "https://note.com/_takumi_inoue_/n/nb1a6c688a16c"
+    "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
+    "https://note.com/bon0404/n/n88553b8c5466"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -177,16 +192,16 @@
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
     "https://note.com/asahi_ictrad/n/n21e94fff2691",
     "https://note.com/yukafujimura/n/nebb69858a059",
-    "https://researchmap.jp/okuyama-t/teaching_experience/36659644",
     "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
-    "https://note.com/jobhuntkeyence/n/n2e2df99e9fa7",
     "https://note.jp/n/n7917dc1cdfe9",
+    "https://www.youtube.com/watch?v=0B60Sc-ExIs",
     "https://note.com/fujita_masahiro/n/nea05c644f3e1",
     "https://www.factcheckcenter.jp/jfc-factcheck-course-practice8/",
+    "https://note.com/good_gnu448/n/n3c2503c74516",
     "https://ja.wikipedia.org/wiki/調査報道"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -206,7 +221,7 @@
     "https://ja.wikipedia.org/wiki/調査報道"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -222,12 +237,14 @@
     "https://www.asahi.com/tips/",
     "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
     "https://blogs.ricoh.co.jp/RISB/society/post_750.html",
-    "https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/features/06-1-2/"
+    "https://www.chosakai.gr.jp/project/mediapage/other_year/",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "investigative journalism company network analysis shared addresses directors red flags auditor resignation",
@@ -252,19 +269,19 @@
   {
    "query": "site:note.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
-    "https://note.com/fair_hyssop961/n/nf7a14b4890a6",
     "https://note.com/zenkigen/n/n58c0bcc8fb33",
-    "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
     "https://note.com/nhk_pr/n/nab821feff921",
+    "https://note.com/fair_hyssop961/n/nf7a14b4890a6",
+    "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
     "https://note.com/_takumi_inoue_/n/nb1a6c688a16c",
-    "https://note.com/hirokimiyano/n/nb4e538628e12",
     "https://note.com/yasuhitoo/n/na1d08a832389",
     "https://note.com/bon0404/n/n88553b8c5466",
+    "https://note.com/hirotsuchida/n/na0ab55d79b1f",
     "https://note.com/hirokimiyano/n/n031a32279643",
-    "https://note.com/ichi_twnovel/n/nc7a804e0096d"
+    "https://note.com/hirokimiyano/n/nb4e538628e12"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -272,15 +289,15 @@
   {
    "query": "site:x.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
-    "https://x.com/shinoken9",
+    "https://x.com/Fuji_spotlight",
     "https://x.com/nikkeivdata",
     "https://x.com/luigi_jpn/status/2113527379352252645",
-    "https://x.com/Fuji_spotlight",
+    "https://x.com/shinoken9",
     "https://x.com/nikkei",
-    "https://x.com/wayama_ryousuke/status/2110908861020524755",
     "https://x.com/luigi_jpn/article/2100528790161989729",
-    "https://x.com/luo_tokyo/status/1886610275509658078",
-    "https://x.com/kidkaido/status/2099508935619490160",
+    "https://x.com/wayama_ryousuke/status/2110908861020524755",
+    "https://x.com/luigi_jpn/status/2094562625690755302",
+    "https://x.com/KagawaTomo/status/2118110762615116249",
     "https://x.com/luigi_jpn/status/2061063695447302347"
    ],
    "engines": [
@@ -293,15 +310,15 @@
    "query": "site:linkedin.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
     "https://jp.linkedin.com/in/%E4%BC%B8-%E5%A4%A7%E9%87%8E-38ab8126a",
-    "https://jp.linkedin.com/pulse/sharing-journey-new-way-network-j-t-o-donnell-myoge?tl=ja",
     "https://jp.linkedin.com/company/pr-newswire-asia",
-    "https://jp.linkedin.com/pulse/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%90%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A52026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A7%8B%E9%80%A0%E7%9A%84%E6%B4%9E%E5%AF%9F%E3%81%A8cagr%E4%BA%88%E6%B8%AC-pharmaaxis-insights-zv2de",
-    "https://www.linkedin.com/",
-    "https://jp.linkedin.com/company/ita-inc",
     "https://www.linkedin.com/company/ntt",
-    "https://ro.linkedin.com/jobs/view/%E3%80%90%E3%83%93%E3%83%87%E3%82%AA%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E3%80%91%E7%AC%AC%EF%BC%92%E6%96%B0%E5%8D%92%E5%A4%A7%E6%AD%93%E8%BF%8E%EF%BC%81%E6%B3%95%E5%8B%99%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%93%E3%83%87%E3%82%AA%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81-4413925853?position=42&pageNum=0&refId=iV1ByazoSaqQWPkMT%2BiUYA%3D%3D&trackingId=lqEHgmNI%2FeMaREA1UfG3rA%3D%3D",
-    "https://www.linkedin.com/in/kohei-yamada-87b3943ba/ja",
-    "https://tw.linkedin.com/company/teamt5"
+    "https://jp.linkedin.com/pulse/sharing-journey-new-way-network-j-t-o-donnell-myoge?tl=ja",
+    "https://www.linkedin.com/",
+    "https://www.linkedin.com/in/shiho-matsuoka-997a2a90",
+    "https://www.linkedin.com/company/ai-square-corp",
+    "https://jp.linkedin.com/pulse/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%90%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A52026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A7%8B%E9%80%A0%E7%9A%84%E6%B4%9E%E5%AF%9F%E3%81%A8cagr%E4%BA%88%E6%B8%AC-pharmaaxis-insights-zv2de",
+    "https://www.linkedin.com/company/fireeye",
+    "https://www.linkedin.com/in/kohei-yamada-87b3943ba/ja"
    ],
    "engines": [
     "ddgs:google",
@@ -313,18 +330,18 @@
    "query": "site:facebook.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
     "https://www.facebook.com/groups/449547035726175/posts/2095737177773811/",
-    "https://www.facebook.com/matsuo.akihito/posts/%E6%97%A5%E7%94%A3%E5%9B%BD%E5%86%85100%E4%B8%87%E5%8F%B0%E4%BD%93%E5%88%B6%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%B8%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E6%A0%83%E6%9C%A8%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%A8%BC%E5%83%8D%E7%8E%87%E3%81%AF15%E4%BB%8A%E6%97%A59%E6%9C%8811%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E7%B5%8C%E5%96%B6%E5%86%8D%E5%BB%BA%E3%82%92%E9%80%B2%E3%82%81%E3%82%8B%E6%97%A5%E7%94%A3%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E5%9B%BD%E5%86%85%E5%B7%A5%E5%A0%B4%E5%86%8D%E7%B7%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E7%94%A3%E3%81%AF%E7%8F%BE/28387827837504047/",
+    "https://www.facebook.com/takaichisanae/posts/%E9%AB%98%E5%B8%82%E5%86%85%E9%96%A3%E3%81%AE%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5%E3%81%AF%E4%B8%80%E9%83%A8%E3%81%AE%E9%83%BD%E5%B8%82%E3%82%84%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%81%A0%E3%81%91%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E4%BC%B8%E3%81%B3%E4%BB%A3%E3%81%AF%E5%9C%B0%E6%96%B9%E3%81%AB%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%90%84%E5%9C%B0%E5%9F%9F%E3%81%AB%E7%94%A3%E6%A5%AD%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%88%A6%E7%95%A5%E7%9A%84%E3%81%AB%E5%BD%A2%E6%88%90%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%9C%B0%E5%9F%9F%E3%81%A7%E3%81%AE%E6%8A%95%E8%B3%87%E3%82%92%E4%BF%83%E9%80%B2/1466825082209807/",
     "https://www.facebook.com/privacy/center/l/?logging_data%5B0%5D=%7B%22falco_event_name%22%3A%22privacy_center%22%2C%22extra_data%22%3A%7B%22content_type%22%3A%22home%22%2C%22logging_element_name%22%3Anull%2C%22logging_element_type%22%3A%22outbound_link%22%2C%22entrypoint%22%3Anull%2C%22logging_element%22%3A%22settings_shortcuts_home_instagram_settings_outbound_link%22%2C%22guide_id%22%3Anull%2C%22parent_screen_element%22%3A%22privacy_center_home%22%2C%22parent_unit_element%22%3A%22settings_shortcuts_home%22%2C%22render_surface%22%3A%22comet%22%2C%22event%22%3A%22server_click%22%2C%22falco_event_name%22%3A%22privacy_center%22%7D%7D&redirect_url=https%3A%2F%2Fwww.instagram.com%2Fprivacy%2Fcenter%2Finterstitial%2F%3Fnext_url%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fprivacy_and_security%252F%26logout_url%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Flogin%252F%253Fforce_authentication%253D1%2526next%253Dhttps%25253A%25252F%25252Fwww.instagram.com%25252Faccounts%25252Fprivacy_and_security%25252F",
-    "https://www.facebook.com/SophiaUniversity/posts/%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E6%8E%A8%E9%80%B2%E5%AE%A4%E4%B8%BB%E5%82%AC%E3%81%AE%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%89%E3%81%97%E3%81%84%E3%82%92%E8%B6%85%E3%81%88%E3%81%A6%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%95%E3%81%B8%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E6%89%80%E5%B1%9E%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC%E7%9B%B4%E5%B7%9D%E8%B2%B4%E5%8D%9A%E6%B0%8F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81%E7%B6%B2/1483041167183112/",
-    "https://www.facebook.com/groups/1448082541873528/posts/30084346011153799/",
-    "https://www.facebook.com/AMIYA.jp/",
-    "https://www.facebook.com/fumiaki.kobayashi0408/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E6%97%A5%E7%94%A3%E5%9B%BD%E5%86%85100%E4%B8%87%E5%8F%B0%E4%BD%93%E5%88%B6%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%B8%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E6%A0%83%E6%9C%A8%E5%B7%A5%E5%A0%B4%E3%81%AE%E7%A8%BC%E5%83%8D%E7%8E%87%E3%81%AF15%E4%BB%8A%E6%97%A59%E6%9C%8811%E6%97%A5%E3%81%AE%E6%97%A5%E7%B5%8C%E6%96%B0%E8%81%9E%E3%81%AB%E7%B5%8C%E5%96%B6%E5%86%8D%E5%BB%BA%E3%82%92%E9%80%B2%E3%82%81%E3%82%8B%E6%97%A5%E7%94%A3%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E5%9B%BD%E5%86%85%E5%B7%A5%E5%A0%B4%E5%86%8D%E7%B7%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E7%94%A3%E3%81%AF%E7%8F%BE/28387827837504047/",
+    "https://www.facebook.com/ecbocloak/",
     "https://www.facebook.com/ichikoaoba.info/posts/%EF%B8%8Fthe-north-face%E5%89%B5%E6%A5%AD60%E5%91%A8%E5%B9%B4%E3%82%92%E8%A8%98%E5%BF%B5%E3%81%97%E3%81%9F%E7%89%B9%E5%88%A5%E5%B1%95%E7%A4%BAnever-stop-exploring-exhibition%E3%81%A8%E9%80%A3%E5%8B%95%E3%81%97%E3%81%A6%E5%88%B6%E4%BD%9C%E3%81%95%E3%82%8C%E3%81%9F%E6%98%A0%E5%83%8F%E4%BD%9C%E5%93%81explo/1467902078482955/",
+    "https://www.facebook.com/AMIYA.jp/",
+    "https://www.facebook.com/SophiaUniversity/posts/%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E6%8E%A8%E9%80%B2%E5%AE%A4%E4%B8%BB%E5%82%AC%E3%81%AE%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%89%E3%81%97%E3%81%84%E3%82%92%E8%B6%85%E3%81%88%E3%81%A6%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%95%E3%81%B8%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E6%89%80%E5%B1%9E%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC%E7%9B%B4%E5%B7%9D%E8%B2%B4%E5%8D%9A%E6%B0%8F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81%E7%B6%B2/1483041167183112/",
     "https://www.facebook.com/maff.shokusan/",
-    "https://www.facebook.com/nied.bosai/posts/%E9%98%B2%E7%81%BD%E7%A7%91%E7%A0%94%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E6%9C%80%E6%96%B0%E5%8F%B7-2026%E5%B9%B4no234%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%89%B9%E9%9B%86%E3%81%AF%E8%83%BD%E7%99%BB%E3%81%8B%E3%82%89%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E3%83%AC%E3%82%B8%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E3%81%AA%E7%A4%BE%E4%BC%9A%E3%81%A7%E3%81%99%E5%86%85%E5%AE%B9%E5%91%BD%E3%81%A8%E6%9A%AE%E3%82%89%E3%81%97%E3%82%92%E5%AE%88%E3%82%8B-%E5%A4%A7%E7%81%BD%E5%AE%B3%E3%81%AE%E7%99%BA%E7%94%9F%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%A7/1080777997896568/"
+    "https://www.facebook.com/p/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E5%8C%97%E6%9D%A1%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1-100057058345803/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -332,19 +349,19 @@
   {
    "query": "会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110） note 社長",
    "results": [
-    "https://note.com/asahi_ictrad/n/n21e94fff2691",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
     "https://www.youtube.com/watch?v=0B60Sc-ExIs",
     "https://biz.note.com/n/n96bd2a2931c2",
     "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
-    "https://biz.note.com/n/n1f1e24306244",
-    "https://note.jp/n/nfa2e6aa41241",
-    "https://note.smd-am.co.jp/n/n894d0ad614a1",
+    "https://note.com/fujita_masahiro/n/nea05c644f3e1",
     "https://www.nikkei.com/article/DGXZQOUA300790Q5A231C2000000/",
+    "https://japan.zdnet.com/article/35252165/",
+    "https://webtan.impress.co.jp/e/2020/06/05/36169",
     "https://note.com/saiyou_dekirukun/all"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -354,12 +371,12 @@
    "results": [
     "https://www.factcheckcenter.jp/jfc-factcheck-course-practice8/",
     "https://www.asahi.com/tips/",
-    "https://help.x.com/ja/rules-and-policies/media-settings",
+    "https://help.x.com/ja/resources/addressing-misleading-info",
+    "https://www.jil.go.jp/about/sns/index.html",
     "https://www.nhk.or.jp/newspost/",
     "https://impact-h.co.jp/news/press250722",
     "https://www.nikkei.com/article/DGXZQOGN243GO0U5A121C2000000/",
     "https://prx.dentsuprc.co.jp/blog/c111",
-    "https://www.interfactory.co.jp/blog/x-marketing/",
     "https://www.tribalmedia.co.jp/note/marketing-1068/",
     "https://x.com/nkinvestigation"
    ],
@@ -384,19 +401,20 @@
     "https://uk.linkedin.com/in/mahendrin-moodley-ca-sa-aca-66227b58"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ27頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ27頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ27頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ27頁・検索12回）",
-  "実例": "記載なし（読んだ27頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-08T18:53:09.906604+00:00"
 }

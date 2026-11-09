@@ -7612,6 +7612,9 @@
 ## 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）（reversible entity merge audit log identifier provenance scope entity resolution）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
+  - 「それでも、元の値と変更内容が残っていれば、復旧方法を判断するための材料を確保できる」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「このように、不足している記録を一つずつ補う方法でも改善できる」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「業務の流れと人が判断すべき部分を整理し、無理のない改善方法を検討することが大切です」（https://note.com/famous_auklet634/n/n2dc0db47a808）
   - 「データ統合技術とは？主要7手法の選び方と導入5ステップを解説 - DATA VIZ LAB｜データビズラボ」（https://data-viz-lab.com/data-integration-technology）
   - 「データ統合の問題とは？よくある7つの課題と解決手順を解説」（https://data-viz-lab.com/data-integration-issues）
   - 「本記事では、データ統合でよくある7つの問題を3領域に分けて整理し、解決までの6ステップや統合方式の判断基準、失敗パターンと回避策を解説します」（https://data-viz-lab.com/data-integration-issues）
@@ -7624,10 +7627,9 @@
   - 「STEP6：統合基盤への連携と運用ルールの策定：更新と監視の仕組み化」（https://data-viz-lab.com/data-integration-issues）
   - 「統合の方法は、大きく分けて物理統合と論理統合の2種類です」（https://data-viz-lab.com/data-integration-issues）
   - 「物理統合はDWHなどの基盤にデータを実際に集めて保持する方法で、分析時の応答速度に優れています」（https://data-viz-lab.com/data-integration-issues）
-  - 「論理統合はデータを元の場所に置いたまま仮想的に結合する方法で、コピーを持たない分だけ鮮度を保ちやすいのが利点です」（https://data-viz-lab.com/data-integration-issues）
-  - 「データ統合とは？統合の目的や初心者向けの進め方を解説」（https://data-viz-lab.com/data-integration-issues）
-  - 「営業部門が独自に契約したMAツールの顧客リストを、他部門の誰も把握していないという状況は典型的です」（https://data-viz-lab.com/data-integration-issues）
 - 突き合わせ・推定：
+  - 「機械的な照合によって候補を一覧化することはできる」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「Excel・CSVを使用したデータ整理や、複数台帳の照合・統合など、日々の業務で繰り返している確認作業を見直したい場合は、Yokoyama Labの公式サイトをご覧ください」（https://note.com/famous_auklet634/n/n2dc0db47a808）
   - 「本当に必要なのは、自社の用途から逆算して手法を組み合わせるための判断軸です」（https://data-viz-lab.com/data-integration-technology）
   - 「基本プロセス：抽出・マッピング・変換・検証・ロード・同期の流れ」（https://data-viz-lab.com/data-integration-technology）
   - 「これをそのまま結合すると「髙」や「﨑」のような機種依存文字が文字化けし、顧客名の照合に失敗します」（https://data-viz-lab.com/data-integration-issues）
@@ -7641,24 +7643,22 @@
   - 「条件を満たしやすい例としては、営業部門と経理部門にまたがる売上と入金データの突き合わせが挙げられます」（https://data-viz-lab.com/data-integration-issues）
   - 「この領域は関係部門が2つで済み、突き合わせの工数を削減時間としてそのまま示せます」（https://data-viz-lab.com/data-integration-issues）
   - 「手作業による集計や突き合わせが月20時間以上発生している」（https://data-viz-lab.com/data-integration-issues）
-  - 「「品質が悪い」という感覚的な評価のままでは改善の優先順位が決められず、対策の効果も検証できません」（https://data-viz-lab.com/data-integration-issues）
-  - 「正確性：マスタとの照合で不一致となったレコードの割合」（https://data-viz-lab.com/data-integration-issues）
 - 一次情報の探し方：
-  - 「対象はSFAや会計システムなどの業務システムに加え、Excelファイル、Webのアクセスログ、外部の統計データまで含まれます」（https://data-viz-lab.com/data-integration-technology）
-  - 「ストリーミングは構築・運用の難易度が7手法の中で最も高いため、秒単位の反応が本当に必要な用途に限定して採用するのが賢明です」（https://data-viz-lab.com/data-integration-technology）
-  - 「採用前に、遅延が発生したときに失われる金額や業務影響を試算してください」（https://data-viz-lab.com/data-integration-technology）
-  - 「画像やPDFなどの非構造化データまで扱うなら、データレイクを併用する構成を検討してください」（https://data-viz-lab.com/data-integration-technology）
-  - 「内製はノウハウが社内に残る一方、採用と育成に1〜2年かかります」（https://data-viz-lab.com/data-integration-technology）
-  - 「1〜2年（採用・育成を含む）」（https://data-viz-lab.com/data-integration-technology）
-  - 「ここでは小売業、製造業、金融・保険業について、統合の対象データ、採用される手法、得られる成果を典型的なパターンとして紹介します」（https://data-viz-lab.com/data-integration-technology）
-  - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「こうした公開情報を集め、特許の請求項と比較し、対応する記載を整理する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「EoU調査では、対象特許のクレームを読み、候補製品を探し、資料を収集し、構成要件ごとに製品との対応関係を整理します」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
+  - 「統合承認・採用値・監査履歴を残す台帳設計｜じゅんき｜Yokoyama Lab」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「「なぜ同じ顧客と判断したのか」「どちらの住所を採用したのか」を、後から説明できるだろうか」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「採用値：統合後の台帳に、どの値を残したか」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「3. 採用値｜どちらの情報を正本に残すか」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「この場合、片方のレコードを丸ごと採用すればよいとは限らない」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「そのため、採用値は項目ごとに管理すると分かりやすい」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「「経理台帳の住所ではなく、営業台帳の住所を採用」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「これなら、後から住所が違うと指摘された場合も、どの情報を根拠に採用したかを調べられる」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「採用値とは、単に片方を消して片方を残すことではない」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「さらに、承認記録と採用値の記録も同じ統合処理IDに関連付ける」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「統合候補・承認者・採用値・元レコードを関連付け、1つの統合処理として追跡できる必要がある」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「採用元と採用理由を残し、正本に反映する内容を明確にする」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「台帳を1つにまとめる場合でも、承認前の情報、確定した採用値、実行済みの変更履歴が区別できるようにしておく」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「候補一覧しか残していないなら、承認結果と採用理由を追加する」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「そのためには、統合するかどうかの判断、統合後に採用する値、統合前後の変更履歴を分けて考える必要がある」（https://note.com/famous_auklet634/n/n2dc0db47a808）
 - 失敗・落とし穴：
   - 「本記事では、データ統合技術の定義と主要7手法の特徴を整理したうえで、選び方の5つの判断軸、導入の5ステップ、陥りやすい失敗パターンまでを実務目線で解説します」（https://data-viz-lab.com/data-integration-technology）
   - 「データ統合で陥りやすい失敗パターンと回避策」（https://data-viz-lab.com/data-integration-technology）
@@ -7676,21 +7676,21 @@
   - 「この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 実例：
+  - 「名寄せでは、重複を見つけることだけでなく、統合の判断と結果を残すことが重要になる」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「例えば、顧客台帳に次の2件が登録されていたとする」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「例えば、以下の項目だ」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「承認前の候補と、承認後の統合結果を混在させないことが大切だ」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「例えば、2件の顧客情報に次の違いがあったとする」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「例えば住所なら、」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「例えば、顧客Aと顧客Bを同一と判断して統合した後、実際には別会社だったと判明したとする」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「例えば、元レコードAと元レコードBが統合レコードCになった場合、A・B・Cの関係を残す」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「そうすれば、統合結果から元データへたどれる」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「例えば、管理対象を4つに分ける」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「候補ID、元レコードID、提案理由、承認者、承認結果を関連付ける」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「候補一覧しか残していないなら、承認結果と採用理由を追加する」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「まとめ｜統合結果だけでなく、判断の経緯を残す」（https://note.com/famous_auklet634/n/n2dc0db47a808）
+  - 「で、元レコードから統合結果まで追跡できるようにする」（https://note.com/famous_auklet634/n/n2dc0db47a808）
   - 「在庫照会のように最新値が求められる用途では、論理統合を採用するケースが多く見られます」（https://data-viz-lab.com/data-integration-issues）
-  - 「部門ごとに最適なシステムを選んできた結果、データが部門の中に閉じて横断的に使えない状態を」（https://data-viz-lab.com/data-integration-issues）
-  - 「現場でよくあるのは、社内で使われているSaaSの数を誰も正確に把握していないケースです」（https://data-viz-lab.com/data-integration-issues）
-  - 「PoCの段階では手作業で整えたデータで精度が出ても、本番で最新データを自動連携した途端に精度が落ちる事例は少なくありません」（https://data-viz-lab.com/data-integration-issues）
-  - 「APIが存在せず、データを取り出す手段が夜間に出力される固定長ファイルだけというケースも珍しくないのが実情です」（https://data-viz-lab.com/data-integration-issues）
-  - 「その結果、「在庫がマイナスになっている」といった実態とかけ離れた数値が出て、データそのものへの信頼が損なわれます」（https://data-viz-lab.com/data-integration-issues）
-  - 「文書には判断の期限と結果の共有方法まで記載しておくと、後から議論が蒸し返される事態を防げます」（https://data-viz-lab.com/data-integration-issues）
-  - 「両方を備えた人材は社内に少なく、結果として特定の1〜2名に作業が集中しがちです」（https://data-viz-lab.com/data-integration-issues）
-  - 「棚卸しでは、各部門の担当者に15〜30分のヒアリングを行い、結果をスプレッドシートの一覧表にまとめます」（https://data-viz-lab.com/data-integration-issues）
-  - 「棚卸しの結果をもとに、統合の目的と対象範囲を決めます」（https://data-viz-lab.com/data-integration-issues）
-  - 「標準化で現場がつまずきやすいのは、全部門の合意を待って作業が止まってしまうケースです」（https://data-viz-lab.com/data-integration-issues）
-  - 「標準化前に名寄せした場合と比べて、候補件数が半分以下に減るケースもあります」（https://data-viz-lab.com/data-integration-issues）
-  - 「成果が見えないまま1年以上が経過すると、経営層の関心が薄れ、プロジェクトが縮小されるケースが少なくありません」（https://data-viz-lab.com/data-integration-issues）
-  - 「現場でよくあるつまずきは、データスチュワードを任命したものの、本来業務との兼任で作業時間が確保されないケースです」（https://data-viz-lab.com/data-integration-issues）
-  - 「指標ごとに目標値と測定方法を決め、誰が測っても同じ結果になる状態にしておくのが前提です」（https://data-viz-lab.com/data-integration-issues）
 
 ## 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）（quote grounding verification extracted citation exists in source text RAG hallucination legal research）
 - 文脈：検証
@@ -11663,7 +11663,7 @@
   - 「- Request data in machine-readable format (CSV, JSON, XML) rather than PDF」（https://journalismauthority.com/data-journalism/）
 - 実例：
   - 「translates findings into charts, maps, tables, or interactive graphics. The Reuters Graphics team and the New York Times's The Upshot are documented examples of in-house units that have published methodologies alongside their data stories, allowing readers to inspect source datasets directly.」（https://journalismauthority.com/data-journalism/）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例（admiralty code source grading practical OSINT analysts mistakes）
 - 文脈：手法
@@ -11746,85 +11746,85 @@
 ## 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）（analysis of competing hypotheses team workflow iterate add hypotheses OSINT report most likely）
 - 文脈：手法
 - 手順・やり方：
+  - 「仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「この方法は、一人でも使えますが、6〜8人で実施すると効果が高まります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「ここまで、インテリジェンス思考術として、分析の進め方を順に見てきました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「今回のシリーズでは、その基本的な考え方と手順を示しました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「この手法は、次の手順で進めます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「私は、この手順に加えて、前提を評価する際にマトリクスを使います」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「私は、相関関係から因果関係を見極める際、次の手順で進めます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「情報を批判的に評価する方法は、大きく外的批判と内的批判の二つに分けられます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「前回は、オシント情報をインターネットなどで集める方法について述べました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「仮想環境の仕組みを「部屋」のたとえで徹底解説！コマンドの使い方からフォルダ構造まで初心者でもわかる完全ガイド」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「マルウェア解析と仮想環境とInetsimの活用方法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「メモリの中を読む無料ツールの使い方と6つの虫めがね」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「Splunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「この記事ではSplunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を、専門用語をかみ砕きながら丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「UTXO、おつり、TXID:vout、Spentの4語だけで追跡方法を整理」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「ACH surfaces disagreements within analytical teams. Bureaucratic pressure to produce unified assessments can push analysts to abandon methodological rigor in favor of consensus」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
-  - 「— adversarial countermeasures against analytical methodology」（https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses）
-  - 「タスクマネージャの使い方・便利な使い方・解析利用方法と分析ポイントを初心者向けに完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「基本の使い方から、サイバーセキュリティのプロが実践する解析手法まで初心者向けに完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「Foundational methodology, investigative pivots, and operational security for digital investigations. This is how investigators structure their work to produce defensible findings · not a list of tools, but a framework for thinking about and executing OSINT systematically.」（https://theosintvault.io/osint-handbook）
-  - 「The OSINT Vault emphasizes a workflow-first approach. Tools are not the work; they support it. Every investigation begins with a defined question, a set of hypotheses, and a plan for validating or disproving those hypotheses. The steps in this handbook align with the workflow tooling on the platform, including the」（https://theosintvault.io/osint-handbook）
-  - 「Throughout this handbook, "identifier" refers to any handle, email, phone number, domain, or image that can be used as a pivot. "Pivot" refers to any new lead derived from that identifier. "Validation" means cross-referencing multiple independent sources to confirm a relationship. These terms are not optional; they define how to avoid false attribution.」（https://theosintvault.io/osint-handbook）
-  - 「Precision search is the next step. Instead of ad-hoc queries, analysts create repeatable search strings that can be run later for verification. The」（https://theosintvault.io/osint-handbook）
-  - 「ログ解析、マルウェア痕跡の検出、IOC抽出、KAPEとの連携など、中級〜上級者向けに実務で役立つRegex活用方法を紹介します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
+  - 「仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「ACHの特徴は、仮説を「裏付ける証拠」ではなく、「否定する証拠」で評価する点にあります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「どの仮説が正しいかを考えるのではなく、「どの仮説が成り立たないか」を消していくのです」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「まず、考えられる仮説を複数用意します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「そのうえで、それぞれの証拠について、各仮説との関係を一つずつ判断します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「強く当てはまる場合はCC、明確に矛盾する場合はIIとします」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「ここで重要なのは、「すべての仮説に当てはまる証拠」や「どの仮説にも影響しない証拠」は捨てることです」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「証拠を整理したら、各仮説について「不整合（IやII）」の数を数えます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「このとき、不整合が最も少ない仮説が、現時点で最も有力な仮説になります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「また、実際の分析で使われる競合仮説分析（ACH: Analysis of Competing Hypotheses）という手法についても紹介します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「認知バイアスを取り除くための手法：競合仮説分析」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「自分の仮説に合致する情報だけを集めてしまうバイアスのこと」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「例えば、「調査中のAPTは中国のグループだ」という仮説を立てた場合、その仮説を裏付ける情報ばかりを重視し、反証となりうる情報を無意識的に無視してしまったりするのがこの例」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「本節では、競合仮説分析の概要とその手法について説明します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
   - 「競合仮説分析は諜報機関で使われていた手法であり、アメリカ国防総省の情報機関CIAの情報分析官リチャーズ・J・ホイヤーによって広く啓蒙されました」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「単一の結論に急いで飛びつくのではなくあらゆる可能性を慎重に検討することで、認知バイアスを除去し特定の仮説へ偏った結論に至るリスクを軽減します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「分析官は自身の直感や先入観に頼るのではなく、証拠に基づいて各仮説を公平に評価することが求められます」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「【イギリスの元スパイが説く】すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」とは？ | イギリス諜報機関の元スパイが教える 最強の知的武装術――残酷な時代を乗り切る10のレッスン | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/290369）
-  - 「説明を検証し、仮説を選択する」（https://diamond.jp/articles/-/290369）
-  - 「アメリカとイギリスの刑事司法制度は、当事者対抗手続きにおいて検察側と弁護側、それぞれが示す事実に関する別の説明がないかを法廷で検証する」（https://diamond.jp/articles/-/290369）
-  - 「仮説が正しいと認められるには、そうしたすべての仮定を満たさなければならないからだ」（https://diamond.jp/articles/-/290369）
-  - 「すべての仮説を競わせて最も妥当な仮説を導き出す「競合仮説分析」」（https://diamond.jp/articles/-/290369）
-  - 「進行中の事態について考えるときには、ほかの仮説が正しいという相対的な確率を意識することが重要だ」（https://diamond.jp/articles/-/290369）
 - 一次情報の探し方：
-  - 「統計データ活用では、経済産業省「商業動態統計」やIPAの各種調査を仮説の裏取りに使うと、経営層への提言の説得力が増します」（https://constep.jp/column/3773）
-  - 「10件中7件以上で同一パターンが観察されて初めて反証データとして採用します」（https://constep.jp/column/3773）
-  - 「経済産業省「商業動態統計」（2025年）」（https://constep.jp/column/3773）
-  - 「http://www.mofa.go.jp/mofaj/press/release/17/pdfs/rls_0913a.pdf、2013年 2月 11日ア」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「の方針』内閣官房、2008年、http://www.kantei.go.jp/jp/singi/zyouhou/080214kettei.pdf、」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「実際の調査では、現場で機能する実践的な方法を採用しています」（https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html）
-  - 「このモデルを採用しているのは、関係性に基づく分析を支えるからです」（https://www.trendmicro.com/ja_jp/research/26/b/threat-attribution-framework-how-trendai-applies-structure-over-speculation.html）
-  - 「「なぜこのIOCを採用したのか」を B2 という2文字で示せれば、レビューする側は根拠の強さを即座に把握でき、半年後の自分も同じ基準で再評価できます」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「採用した仮説、その確度（6章）、そして「どんな証拠が出たら結論を変えるか」を明記する」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「ICD 203: Analytic Standards（米国家情報長官室・確度表現の原典PDF・英語）」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「第二に、数字や統計です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「数値化は有効な手段ですが、統計は操作可能であることを常に意識する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「第一次情報源とは、ある事象について最初に情報が発せられた出所を指します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「第一次情報源から得られた情報を第一次情報と呼びます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「それに対して、第一次情報をもとに編集や解釈が加えられた情報は、数次情報と呼ばれ、一般にはまとめて第二次情報として扱われます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「一般に、第一次情報とは「本人が直接見たもの、聞いたもの」だと言われます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「この説明だけを見ると、第一次情報を得るには、現場に行ったり、当事者に話を聞いたりする必要があるように思えます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「第一次情報か第二次情報かは、情報がどれだけ加工されているかという「距離」の問題です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「公開情報であっても、加工されていない原資料に当たれば、それは第一次情報に近いオシントになります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「つまり、第一次情報＝ヒューミント、オシント＝第二次情報、という対応関係が成り立つわけではありません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「たとえば、新聞記事は記者の判断や編集が加えられた二次情報ですが、記者会見の全文記録、公式声明文、統計の原表などは、公開情報でありながら第一次情報源に位置づけることができます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「書籍そのものは、著者の整理や解釈が加わった情報であり、厳密には一次情報とは言えません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「しかし、書籍には統計資料や公的文書、当時の記録などの引用元が明示されていることが多く、」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「その引用元に当たることで、第一次情報に遡ることが可能」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「第一次情報源に近いからといって、その内容がすべて事実であるとは限りません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
 - 失敗・落とし穴：
+  - 「さらに、9・11同時多発テロやイラク戦争で分析の誤りが問題となり、この手法が改めて注目されました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「とくに、見かけだけの関係には注意が必要です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「しかし、情報分析官としての経験から申し上げれば、情報入力の段階での誤りを減らすために、最低限意識すべき評価の視点は存在します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「いつ書かれた本なのか、どのような立場の著者が、どのような出版社から出しているのかを見ずに、内容だけを鵜呑みにする読者は多くありません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「さらに、情報の成立時期にも注意が必要です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「筆者は、内的批判を行う際、とくに次の点に注意しています」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「とくに極端に高い割合や断定的な数字には注意が必要です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「多くの人の目にさらされ、誤りが修正され続ける、という側面があるためです」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「しかし、観察には落とし穴があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「ここで注意すべき点は、」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「Cognitive Biases in CTI: Structured Techniques for Sharper Analysis」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
   - 「Next: Cognitive Biases in CTI →」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
   - 「よくある失敗3パターンと回避策」（https://constep.jp/column/3773）
   - 「事実と解釈と打ち手を混同する誤りをこの型で防げます」（https://constep.jp/column/3773）
-  - 「この反証条件を書かない検証計画は、確証バイアスの温床になります」（https://constep.jp/column/3773）
-  - 「ピボットは失敗ではなく学習の結果であるという文化的合意が、上流人材が育つ土壌になります」（https://constep.jp/column/3773）
-  - 「仮説思考の失敗は「①仮説を立てずに調べ始める②反証を無視する③検証計画がない」の3つに集約されます」（https://constep.jp/column/3773）
-  - 「競合仮説分析（Analysis of Competing Hypotheses: ACH、以下「ACH」）とは、複数の競合する仮説（説明やシナリオ）を同時に立て、それぞれを検証するための証拠を評価することで、認知バイアスを排除し、最も確からしい結論を導き出す体系的な分析手法である」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「単一の仮説を支持する情報ばかりを集める「確証バイアス」を防ぎ、情報分析の客観性と精度を高めるために、特に諜報活動や戦略策定などで用いられている」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
-  - 「インテリジェンスの歴史は、失敗の歴史ともいわれている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「戦争開戦前の大量破壊兵器に関する見積もりの失敗など、多くの「情報の失敗」」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「そして、こうした「情報の失敗」の原因と」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「2 「情報の失敗」とその対策については多くの先行研究があるが、主要なものとしては以」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「合致する証拠を重視する傾向（確証バイアス）21を持っている」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
 - 実例：
+  - 「ただし、本来であれば、個々の手法は事例とともに説明する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「実際の事例にあてはめながら、「どのように使うのか」を中心に説明していきます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「昨年10月13日からニュースレターを配信してきましたが、読者の広がりという点では十分な結果を得ることができませんでした」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「その結果、2022年に習氏は3選を果たし、現在に至っています」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「しかし、この結果を社長に報告したところ、社長は次のように言いました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「その結果、関連性が高いにもかかわらず立証が不十分な前提に注目します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「さらに、過去の事例から、業績悪化の前には次のような兆候が見られます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「たとえば、「企業の業績が悪化した」という結果があり、「新規参入企業が市場に増えた」とします」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「私はこの関係を、原因と結果の可能性として扱います」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「② 原因が先、結果が後という時間の順序を確認する」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「その結果、政策判断に役立つインテリジェンスを作ることは難しくなります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「分析した結果を統合し、意味を解釈する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
+  - 「対象を誤れば、偏った結果になります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「マッキンゼー・BCGの仮説運用事例とBallista支援事例」（https://constep.jp/column/3773）
   - 「生成AIによって「調べる」「まとめる」の限界コストがゼロに近づいた結果、人間側に残るのは「何を問い、どの仮説を検証するか」という上流の判断です」（https://constep.jp/column/3773）
-  - 「反証を怖がって決めない状態が最悪であり、間違った仮説を24〜48時間で更新できる規律のほうが、結果として正解に近づきます」（https://constep.jp/column/3773）
-  - 「ピボットを許さない組織は「一度決めた方向は変えない」文化が固定化し、結果として炎上プロジェクトを量産します」（https://constep.jp/column/3773）
-  - 「ピボットは失敗ではなく学習の結果であるという文化的合意が、上流人材が育つ土壌になります」（https://constep.jp/column/3773）
-  - 「マッキンゼーの事例：グローバル自動車部品メーカーの新興国展開」（https://constep.jp/column/3773）
-  - 「BCGの事例：日系メガバンクの法人融資審査プロセス改革」（https://constep.jp/column/3773）
-  - 「Ballista支援事例：中堅IT企業の営業BPOのFDE型転換」（https://constep.jp/column/3773）
-  - 「ConStepでは金融・製造・小売・医療の4業界別に業務ケースを組み込んだ演習を提供しています」（https://constep.jp/column/3773）
-  - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
-  - 「たとえば、証拠を検証した結果、サイバー攻撃の背後にいるのは、敵対する国の諜報機関ではなく犯罪グループである可能性が高いということになるかもしれない」（https://diamond.jp/articles/-/290369）
-  - 「1000回、1万回振って同じような結果になるなら、サイコロが疑わしいという結論が正しい可能性はより高まる」（https://diamond.jp/articles/-/290369）
-  - 「仮説（サイコロは適正である）と、別の仮説（サイコロは6の目が出るように細工されている）の結果を比べたデータ分析によって、サイコロは適正でないという仮説を信じるのは理にかなっている」（https://diamond.jp/articles/-/290369）
-  - 「また、観察したデータと比較できる理想的な結果（たとえば適正なサイコロの特徴）を事前に、あるいは原則から知ることもできない」（https://diamond.jp/articles/-/290369）
-  - 「4. ACH結果」（https://qiita.com/seahawk/items/dac052f04656ffc5adb7）
 - 検索結果の抜粋：
   - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -13252,11 +13252,11 @@
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
 - 文脈：手順
@@ -14672,11 +14672,11 @@
 
 ## 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）（investigative journalism company network analysis shared addresses directors red flags auditor resignation）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 非公開の会社を記録で調べる調査報道の手順（IRE・Investigative Reporters and Editors のティップシート・裁判記録・登記の全件データの一括取得・規制当局の処分の頻度を同業と比べる・不動産の記録・4-111）（IRE tipsheet investigating private companies records court filings business registry bulk data regulatory violations）
 - 文脈：探し先

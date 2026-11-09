@@ -8,7 +8,7 @@
  ],
  "context": "手法・突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T18:15:42.233095+00:00",
+ "researched_at": "2026-11-09T02:24:40.557546+00:00",
  "evidence": {
   "実例": [
    {
@@ -673,6 +673,452 @@
    },
    {
     "quote": "他のエビデンスとの関連で結果についての全体的な解釈を示す",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "出力時は「full record」または「include abstract」を選ぶようにとの注意書きがあり、抄録がないとRayyanのAI機能の精度が下がるとされています",
+    "url": "https://japan.editverse.com/rayyan-screening-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2×2表、対象件数、注意点とともに示す",
+    "url": "https://japan.editverse.com/rayyan-screening-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Forest plot作成、異質性評価、出版バイアス評価まで対応します",
+    "url": "https://japan.editverse.com/rayyan-screening-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
+    "url": "https://japan.editverse.com/rayyan-screening-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "学位論文の剽窃チェック｜大学10校の運用例と執筆者の注意点",
+    "url": "https://japan.editverse.com/rayyan-screening-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ": Incomplete reporting may mask a narrow or biased search approach",
+    "url": "https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If you applied a study design filter, language restriction, or date limit, each must be documented and justified. Undocumented limits may appear as hidden bias.",
+    "url": "https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed toward English-language publications with positive results [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Song F, Parekh-Bhurke S, Hooper L, Loke YK, Ryder JJ, Sutton AJ, Hing CB, Harvey I. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S, Smyth R, Williamson PR. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "バイアスを最小限に抑えるよう，頑健かつ再現性が",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いことを理由として，そのレビューにはバイアスが",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "使用した場合，著者特有の検索状況によるバイアス",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "SR 検索に学会抄録を含めると，バイアスを最小限に",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "な限り多くのバイアスを取り除くために開発された",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "が偏って収録されており，バイアスの削減を達成す",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "索方法にバイアスがかかる可能性がある 67, 68） が，",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "DB の絞り込み機能の使用で検索にバイアスがか",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "込み機能は，その誤りの可能性があるため， SR で",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "は公開された検索の誤り 23）または DB の大きな変",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "outcome reporting bias in randomised controlled trials on a",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "publication bias in different categories of research cohorts: a",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Lengeler C, Antes G. Language bias in randomised controlled",
+    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "１つ１つの研究論文に含まれるバイアスリスクをチェッ",
+    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "の方法は明確だが，バイアスリスクの評価など個々の対",
+    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "常に注意する．スコーピングレビューの97%が研究疑問",
+    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "を対象としているため，バイアスチェックを行うとその",
+    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る８）．任意な項目とはバイアスリスクのチェック項目で",
+    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "る様々な種類の情報（例：量的および/または質的研究，専門的意見，政策文書）を包括・言及するため，この用語は項目12，19において， “バイアス",
+    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Specify the methods used to assess risk of bias in the included studies",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Provide a brief summary of the limitations of the evidence included in the review (such as study risk of bias, inconsistency, and imprecision)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Findings: Of 8122 records identified, 21 were eligible and data were available for 15 RCTs, all of which had a low to moderate risk of overall bias. Anxiety (five interventions, 728 participants) showed a greater response to intervention among women reporting intimate partner violence than among those who did not (difference in standardised mean differences [dSMD] 0.31, 95% CI 0.04 to 0.57, I",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ") the study investigators considered most important (such as the study’s primary outcome). It is important to specify the methods that were used to select the results when multiple results were available so that users are able to judge the appropriateness of those methods and whether there is potential for bias in the selection of results.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Reviewers may make changes to the inclusion or definition of the outcome domains or to the importance given to them in the review (for example, an outcome listed as “important” in the protocol is considered “critical” in the review). Providing a rationale for the change allows readers to assess the legitimacy of the change and whether it has potential to introduce bias in the review process.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Study risk of bias assessment",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Item 11. Specify the methods used to assess risk of bias in the included studies, including details of the tool(s) used, how many reviewers assessed each study and whether they worked independently, and, if applicable, details of automation tools used in the process",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Users of reviews need to know the risk of bias in the included studies to appropriately interpret the evidence. Numerous tools have been developed to assess study limitations for various designs.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "However, many tools have been criticised because of their content (which may extend beyond assessing study limitations that have the potential to bias findings) and the way in which the items are combined (such as scales where items are combined to yield a numerical score) (see",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Reporting details of the selected tool enables readers to assess whether the tool focuses solely on items that have the potential to bias findings. Reporting details of how studies were assessed (such as by one or two authors) allows readers to assess the potential for errors in the assessments.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Reporting how risk of bias assessments were incorporated into the analysis is addressed in Items #13e and #13f.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Box 4. Assessment of risk of bias in studies and bias due to missing results.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In PRISMA 2020, we distinguish “quality” from “risk of bias” and have focused the relevant items and elaborations on the latter. Risk of bias refers to the potential for study findings to systematically deviate from the truth due to methodological flaws in the design, conduct or analysis.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Quality is not well defined, but has been shown to encompass constructs beyond those that may bias the findings, including, for example, imprecision, reporting completeness, ethics, and applicability.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In systematic reviews, focus should be given to the design, conduct, and analysis features that may lead to important bias in the findings.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A systematic review aims to review as much of the literature as possible to minimize bias. As such, it is recommended that at least 3 databases are searched for a systematic review.",
+    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "To reduce publication bias in your results",
+    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Finding Grey Literature Evidence and Assessing for Outcome and Analysis Reporting Biases When Comparing Medical Interventions: AHRQ and the Effective Health Care Program",
+    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This document provides guidance on steps that authors of systematic reviews can take to reduce the error in the assessment of the effect of an intervention that arises from biases in the way that studies are published and reported.",
+    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 出版バイアス（Publication Bias）",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "と合わせて、ファネルプロット・Egger検定等による出版バイアス評価を必ず実施し、報告してください",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Editverse Japanのメタアナリシス専門家が、PRISMA 2020全27項目の準拠確認、PRISMAフローダイアグラムの作成、PROSPERO登録サポート、出版バイアス評価の改善提案を提供します",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検索式の記録、除外理由のコード化、バイアスリスク評価——全工程を最初から手順どおりに実施します",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PICOの設定、PROSPERO登録、検索、スクリーニング、バイアスリスク評価、メタアナリシス、GRADE、PRISMA 2020の27項目を満たす原稿まで、定額で対応します",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Forest plot作成、異質性評価、出版バイアス評価まで対応します",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ファンネルプロットとは？出版バイアスとEgger検定を実例解説",
+    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "おけるバイアスリスクを評価するための新しい方法",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "用いた自動化ツールの詳細を含め， 組み入れた研究におけるバイアスリスクを評価するために用いた方法を記載する",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合の結果において欠測した結果によるバイアスリスクを評価するために使用した方法を記載する （報告バイアスから",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用した各研究のバイアスリスクの評価を示す",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合ごとに， 寄与する研究間の特徴とバイアスリスクを簡潔に要約する",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "評価した各統合に対して欠測した結果 （報告バイアスから生じる） によるバイアスリスクの評価を示す",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用した研究におけるバイアスリスクを評 価するために用いた方法を記載する",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "レ ビ ュ ー に 存 在 す る エ ビ デ ン ス の 限 界（例: バイアス リ ス ク， 非一貫性， 不精確） に関する簡潔な要約を記載する",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "究報告， 博士学位論文， 未発表の原稿， 政府報告， または関連情報を提供するその他の文書がある可能性があるこ とに注意を要する",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ユーザーが SR のバイアスリスクと適用可能性を評",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "たが，おもに交絡による高いバイアスリスクが原因",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assessing risk of bias in randomised trials. BMJ 2019; 366: l4898.",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assessing risk of bias in non-randomised studies of interventions.",
+    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "risk of bias in systematic reviews was developed. J Clin Epidemiol",
     "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1924,452 +2370,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "出力時は「full record」または「include abstract」を選ぶようにとの注意書きがあり、抄録がないとRayyanのAI機能の精度が下がるとされています",
-    "url": "https://japan.editverse.com/rayyan-screening-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2×2表、対象件数、注意点とともに示す",
-    "url": "https://japan.editverse.com/rayyan-screening-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Forest plot作成、異質性評価、出版バイアス評価まで対応します",
-    "url": "https://japan.editverse.com/rayyan-screening-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
-    "url": "https://japan.editverse.com/rayyan-screening-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "学位論文の剽窃チェック｜大学10校の運用例と執筆者の注意点",
-    "url": "https://japan.editverse.com/rayyan-screening-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ": Incomplete reporting may mask a narrow or biased search approach",
-    "url": "https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If you applied a study design filter, language restriction, or date limit, each must be documented and justified. Undocumented limits may appear as hidden bias.",
-    "url": "https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed toward English-language publications with positive results [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It is important for transparency and reproducibility that any database limits applied when running the search are reported accurately, as their use has high potential for introducing bias into a search [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Song F, Parekh-Bhurke S, Hooper L, Loke YK, Ryder JJ, Sutton AJ, Hing CB, Harvey I. Extent of publication bias in different categories of research cohorts: a meta-analysis of empirical studies. BMC Med Res Methodol. 2009.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G. Language bias in randomised controlled trials published in English and German. Lancet. 1997.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S, Smyth R, Williamson PR. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "バイアスを最小限に抑えるよう，頑健かつ再現性が",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "いことを理由として，そのレビューにはバイアスが",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "使用した場合，著者特有の検索状況によるバイアス",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "SR 検索に学会抄録を含めると，バイアスを最小限に",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "な限り多くのバイアスを取り除くために開発された",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "が偏って収録されており，バイアスの削減を達成す",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "索方法にバイアスがかかる可能性がある 67, 68） が，",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "DB の絞り込み機能の使用で検索にバイアスがか",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "込み機能は，その誤りの可能性があるため， SR で",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "は公開された検索の誤り 23）または DB の大きな変",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "outcome reporting bias in randomised controlled trials on a",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "publication bias in different categories of research cohorts: a",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Lengeler C, Antes G. Language bias in randomised controlled",
-    "url": "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "１つ１つの研究論文に含まれるバイアスリスクをチェッ",
-    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "の方法は明確だが，バイアスリスクの評価など個々の対",
-    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "常に注意する．スコーピングレビューの97%が研究疑問",
-    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "を対象としているため，バイアスチェックを行うとその",
-    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "る８）．任意な項目とはバイアスリスクのチェック項目で",
-    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "る様々な種類の情報（例：量的および/または質的研究，専門的意見，政策文書）を包括・言及するため，この用語は項目12，19において， “バイアス",
-    "url": "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Specify the methods used to assess risk of bias in the included studies",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Provide a brief summary of the limitations of the evidence included in the review (such as study risk of bias, inconsistency, and imprecision)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Findings: Of 8122 records identified, 21 were eligible and data were available for 15 RCTs, all of which had a low to moderate risk of overall bias. Anxiety (five interventions, 728 participants) showed a greater response to intervention among women reporting intimate partner violence than among those who did not (difference in standardised mean differences [dSMD] 0.31, 95% CI 0.04 to 0.57, I",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") the study investigators considered most important (such as the study’s primary outcome). It is important to specify the methods that were used to select the results when multiple results were available so that users are able to judge the appropriateness of those methods and whether there is potential for bias in the selection of results.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Reviewers may make changes to the inclusion or definition of the outcome domains or to the importance given to them in the review (for example, an outcome listed as “important” in the protocol is considered “critical” in the review). Providing a rationale for the change allows readers to assess the legitimacy of the change and whether it has potential to introduce bias in the review process.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Study risk of bias assessment",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Item 11. Specify the methods used to assess risk of bias in the included studies, including details of the tool(s) used, how many reviewers assessed each study and whether they worked independently, and, if applicable, details of automation tools used in the process",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Users of reviews need to know the risk of bias in the included studies to appropriately interpret the evidence. Numerous tools have been developed to assess study limitations for various designs.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "However, many tools have been criticised because of their content (which may extend beyond assessing study limitations that have the potential to bias findings) and the way in which the items are combined (such as scales where items are combined to yield a numerical score) (see",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Reporting details of the selected tool enables readers to assess whether the tool focuses solely on items that have the potential to bias findings. Reporting details of how studies were assessed (such as by one or two authors) allows readers to assess the potential for errors in the assessments.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Reporting how risk of bias assessments were incorporated into the analysis is addressed in Items #13e and #13f.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Box 4. Assessment of risk of bias in studies and bias due to missing results.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In PRISMA 2020, we distinguish “quality” from “risk of bias” and have focused the relevant items and elaborations on the latter. Risk of bias refers to the potential for study findings to systematically deviate from the truth due to methodological flaws in the design, conduct or analysis.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Quality is not well defined, but has been shown to encompass constructs beyond those that may bias the findings, including, for example, imprecision, reporting completeness, ethics, and applicability.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In systematic reviews, focus should be given to the design, conduct, and analysis features that may lead to important bias in the findings.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A systematic review aims to review as much of the literature as possible to minimize bias. As such, it is recommended that at least 3 databases are searched for a systematic review.",
-    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "To reduce publication bias in your results",
-    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Finding Grey Literature Evidence and Assessing for Outcome and Analysis Reporting Biases When Comparing Medical Interventions: AHRQ and the Effective Health Care Program",
-    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This document provides guidance on steps that authors of systematic reviews can take to reduce the error in the assessment of the effect of an intervention that arises from biases in the way that studies are published and reported.",
-    "url": "https://libraryguides.binghamton.edu/scopingreview/search",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. 出版バイアス（Publication Bias）",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "と合わせて、ファネルプロット・Egger検定等による出版バイアス評価を必ず実施し、報告してください",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Editverse Japanのメタアナリシス専門家が、PRISMA 2020全27項目の準拠確認、PRISMAフローダイアグラムの作成、PROSPERO登録サポート、出版バイアス評価の改善提案を提供します",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検索式の記録、除外理由のコード化、バイアスリスク評価——全工程を最初から手順どおりに実施します",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PICOの設定、PROSPERO登録、検索、スクリーニング、バイアスリスク評価、メタアナリシス、GRADE、PRISMA 2020の27項目を満たす原稿まで、定額で対応します",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Forest plot作成、異質性評価、出版バイアス評価まで対応します",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ファンネルプロットとは？出版バイアスとEgger検定を実例解説",
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "おけるバイアスリスクを評価するための新しい方法",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "用いた自動化ツールの詳細を含め， 組み入れた研究におけるバイアスリスクを評価するために用いた方法を記載する",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統合の結果において欠測した結果によるバイアスリスクを評価するために使用した方法を記載する （報告バイアスから",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用した各研究のバイアスリスクの評価を示す",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統合ごとに， 寄与する研究間の特徴とバイアスリスクを簡潔に要約する",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "評価した各統合に対して欠測した結果 （報告バイアスから生じる） によるバイアスリスクの評価を示す",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用した研究におけるバイアスリスクを評 価するために用いた方法を記載する",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "レ ビ ュ ー に 存 在 す る エ ビ デ ン ス の 限 界（例: バイアス リ ス ク， 非一貫性， 不精確） に関する簡潔な要約を記載する",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "究報告， 博士学位論文， 未発表の原稿， 政府報告， または関連情報を提供するその他の文書がある可能性があるこ とに注意を要する",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ユーザーが SR のバイアスリスクと適用可能性を評",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "たが，おもに交絡による高いバイアスリスクが原因",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assessing risk of bias in randomised trials. BMJ 2019; 366: l4898.",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assessing risk of bias in non-randomised studies of interventions.",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "risk of bias in systematic reviews was developed. J Clin Epidemiol",
-    "url": "https://www.lifescience.co.jp/yk/jpt_online/prisma/j20210831.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "There is a figure that the developers of PRISMA-S use to explain why the guideline was necessary, and it is worth sitting with. Estimates of search reproducibility in published systematic reviews range from",
@@ -2681,12 +2681,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/syutaka/n/n59b0507877d8",
+    "url": "https://note.com/matomechannel/n/ne0bc13c280f1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/matomechannel/n/ne0bc13c280f1",
+    "url": "https://note.com/syutaka/n/n59b0507877d8",
     "status": "ok",
     "method": "http"
    },
@@ -2721,12 +2721,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://knowledge.workspace.google.com/admin/reports/schema-for-gemini-notebook-logs-in-bigquery?hl=ja",
+    "url": "https://note.com/pingue7/n/n86d72aa939a4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://rs.usaco.co.jp/product/endnote/tips/tips-09.html",
+    "url": "https://ai.id-frontier.jp/blog/gemini-notebook-audit-logs/",
     "status": "ok",
     "method": "http"
    },
@@ -2751,14 +2751,14 @@
     "method": "http"
    },
    {
+    "url": "https://www.wantedly.com/companies/jointcrew/post_articles/948594",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.grade-jpn.com/PRISMA_2009_checklist.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://jaohfa.com/wp/wp-content/uploads/news/PRISMA2020%E3%81%AE%E7%95%99%E6%84%8F%E7%82%B9%E7%AC%AC1%E7%89%88%E4%B8%80%E5%BC%8F250317.pdf",
@@ -2771,32 +2771,12 @@
     "method": "http"
    },
    {
-    "url": "https://webview.isho.jp/journal/detail/abs/10.11477/mf.002283700580020194",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://japan.editverse.com/prisma-systematic-review-reporting/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.prisma-statement.org/prisma-search",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202102251954332041",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.mlanet.org/courses/whats-needed-to-make-a-literature-search-reproducible-an-introduction-to-prisma-s/",
     "status": "ok",
     "method": "http"
    },
@@ -2806,19 +2786,19 @@
     "method": "http"
    },
    {
-    "url": "https://libguides.kcl.ac.uk/systematicreview/recording",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://equator-network.org/reporting-guidelines/prisma-s/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://link.springer.com/article/10.1186/s13643-020-01542-z",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://guides.library.kumc.edu/SR-Collaboration/guidelines-standards-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.kcl.ac.uk/systematicreview/recording",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -2828,17 +2808,17 @@
    "results": [
     "https://note.com/pingue7/n/n13a9ba0d96b3",
     "https://note.com/pingue7/n/n79a52519b46e",
-    "https://note.com/syutaka/n/n59b0507877d8",
     "https://note.com/matomechannel/n/ne0bc13c280f1",
+    "https://note.com/syutaka/n/n59b0507877d8",
     "https://note.com/beatrust/n/n2122bb67ff20",
     "https://note.com/hacklog_stealth/n/n18a0a6c718b8",
     "https://note.com/reading_monkey/n/nd7720f76c62a",
     "https://note.com/hmck/n/n45cce0ef743c",
-    "https://note.com/google_gemini/n/n79cdca156d26",
-    "https://note.com/atom_/n/n6ee37241f46f"
+    "https://note.com/okinawaseankim/n/n4538a0e02296",
+    "https://note.com/om10cg72/n/n088000e56ba6"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -2850,40 +2830,38 @@
     "https://note.com/pingue7/n/neccf547aaaaf",
     "https://wellness-news.co.jp/posts/%E3%82%A8%E3%83%93%E3%83%87%E3%83%B3%E3%82%B9%E5%85%A5%E9%96%80%EF%BC%8840%EF%BC%89%E3%80%80prisma-s%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
     "https://www.jaohfa.com/pdf/systematic_review.pdf",
+    "https://note.com/pingue7/n/n86d72aa939a4",
+    "https://ai.id-frontier.jp/blog/gemini-notebook-audit-logs/",
     "https://knowledge.workspace.google.com/admin/reports/schema-for-gemini-notebook-logs-in-bigquery?hl=ja",
     "https://rs.usaco.co.jp/product/endnote/tips/tips-09.html",
-    "https://note.com/pingue7/n/n86d72aa939a4",
     "https://docs.cloud.google.com/generative-ai-app-builder/docs/get-search-summaries?hl=ja",
-    "https://proofreaderpro.ai/ja/blog/ai-prisma-systematic-review",
     "https://editverse.com/システマティックレビューの作成手順：prisma声明2020に/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務） やり方",
    "results": [
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf",
-    "https://wellness-news.co.jp/posts/%E3%82%A8%E3%83%93%E3%83%87%E3%83%B3%E3%82%B9%E5%85%A5%E9%96%80%EF%BC%8840%EF%BC%89%E3%80%80prisma-s%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
     "https://docs.paloaltonetworks.com/content/dam/techdocs/ja_JP/pdf/strata-cloud-manager/strata-cloud-manager-getting-started-ja-jp.pdf",
     "https://www.jaohfa.com/pdf/systematic_review.pdf",
     "https://kenkyuukai.m3.com/journal/FilePreview_Journal.asp?path=sys%5Cjournal%5C20200918110521-4BEF4825C1B6B196355CB7F49AF71FE44A930BA56F256D192A0B5EAA08951FE7.pdf&sid=848&id=3500&sub_id=51719&cid=471",
-    "https://note.com/pingue7/n/neccf547aaaaf",
+    "https://wellness-news.co.jp/posts/%E3%82%A8%E3%83%93%E3%83%87%E3%83%B3%E3%82%B9%E5%85%A5%E9%96%80%EF%BC%8840%EF%BC%89%E3%80%80prisma-s%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
     "https://proofreaderpro.ai/ja/blog/ai-prisma-systematic-review",
+    "https://www.wantedly.com/companies/jointcrew/post_articles/948594",
     "https://www.grade-jpn.com/PRISMA_2009_checklist.pdf",
     "https://editverse.com/システマティックレビューの作成手順：prisma声明2020に/"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務） 事例",
@@ -2896,35 +2874,32 @@
     "https://japan.editverse.com/rayyan-screening-guide/",
     "https://note.com/pingue7/n/neccf547aaaaf",
     "https://www.grade-jpn.com/PRISMA_2009_checklist.pdf",
-    "https://proofreaderpro.ai/ja/blog/ai-prisma-systematic-review",
-    "https://editverse.com/システマティックレビューの作成手順：prisma声明2020に/"
+    "https://proofreaderpro.ai/ja/blog/ai-prisma-systematic-review"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "PRISMA-S search reporting log reproducible search protocol",
    "results": [
     "https://www.prisma-statement.org/prisma-search",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005925/",
-    "https://www.mlanet.org/courses/whats-needed-to-make-a-literature-search-reproducible-an-introduction-to-prisma-s/",
     "https://libraryguides.binghamton.edu/scopingreview/search",
-    "https://libguides.kcl.ac.uk/systematicreview/recording",
     "https://equator-network.org/reporting-guidelines/prisma-s/",
+    "https://guides.library.kumc.edu/SR-Collaboration/guidelines-standards-tools",
+    "https://libguides.kcl.ac.uk/systematicreview/recording",
     "https://link.springer.com/article/10.1186/s13643-020-01542-z",
     "https://uws-uk.libguides.com/c.php?g=710225&p=5308192",
-    "https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires",
+    "https://libguides.wustl.edu/c.php?g=1316625&p=9681274",
     "https://academicfix.com/en/guides/literature-search-log-prisma-s"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 15
   },
   {
    "query": "site:note.com 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）",
@@ -2941,26 +2916,27 @@
     "https://note.com/pingue7/n/n964286dc4b14"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 16
   },
   {
    "query": "site:x.com 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）",
    "results": [
     "https://x.com/prisma",
     "https://x.com/PRISMAStatement",
-    "https://x.com/prisma_ai/status/2116125163389612257",
     "https://x.com/europawire/status/2117247016254505282",
+    "https://x.com/prisma_ai/status/2116125163389612257",
     "https://x.com/PRISMASPhD",
     "https://x.com/TeamMediaocean",
+    "https://x.com/GRDSMN_GLOBAL",
     "https://x.com/BMJOpenSEM",
     "https://x.com/BjsOpen/status/2114087059119861862",
-    "https://x.com/PRISMASPhD/status/1711281903964246025",
-    "https://x.com/Region1DISD/status/2084421546299265439"
+    "https://x.com/PRISMASPhD/status/1711281903964246025"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -2996,8 +2972,8 @@
     "https://www.facebook.com/groups/2214321668/posts/10162590968306669/",
     "https://www.facebook.com/groups/291698212224090/posts/1683123763081521/",
     "https://m.facebook.com/2169359383290601/photos/pcb.3146597415566788/3146596805566849/?type=3&__tn__=HH-R&eid=ARCyBtAmKIVPSFeju1nRDsRZdGgBO7FlJpdpo-zkMBIg-Ab-sU_xGHd_H5JD7rm9A6zxqEKknSm7SoSZ&locale=ms_MY",
-    "https://www.facebook.com/ryota884tokyosketch/posts/%E6%98%A5%E3%81%AE%E9%81%93-%E4%B8%AD%E9%87%8E%E5%8C%BA%E4%B8%8A%E9%B7%BA%E5%AE%AE%E8%89%B2%E9%89%9B%E7%AD%86%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%AB%E3%83%A9%E3%83%BC2012%E5%B9%B44%E6%9C%88a2muse-kmk%E3%82%B1%E3%83%B3%E3%83%88%E7%B4%99%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%81%AE%E9%A2%A8%E6%99%AF-%E3%81%9D%E3%81%AE6%E6%A1%9C%E4%B8%A6%E6%9C%A8%E3%81%AE%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%81%AF%E6%98%A5%E3%81%AE%E5%85%89%E3%81%AB%E6%BA%A2%E3%82%8C%E3%81%A6%E8%89%B2%E9%89%9B%E7%AD%86%E7%94%BB-%E6%9E%97%E4%BA%AE%E5%A4%AA-%E9%A2%A8%E6%99%AF%E7%94%BB/498990875014368/",
-    "https://www.facebook.com/janellepk.7/posts/ani-one-asia-will-stream-re-main-in-select-countriesterritories-on-their-officia/342239384166575/"
+    "https://www.facebook.com/philip.herman/posts/hey-everyone-excited-to-share-the-latest-pre-order-photos-of-the-small-statue-i-/10229170694344784/",
+    "https://www.facebook.com/ryota884tokyosketch/posts/%E6%98%A5%E3%81%AE%E9%81%93-%E4%B8%AD%E9%87%8E%E5%8C%BA%E4%B8%8A%E9%B7%BA%E5%AE%AE%E8%89%B2%E9%89%9B%E7%AD%86%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%AB%E3%83%A9%E3%83%BC2012%E5%B9%B44%E6%9C%88a2muse-kmk%E3%82%B1%E3%83%B3%E3%83%88%E7%B4%99%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%81%AE%E9%A2%A8%E6%99%AF-%E3%81%9D%E3%81%AE6%E6%A1%9C%E4%B8%A6%E6%9C%A8%E3%81%AE%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%E3%81%AF%E6%98%A5%E3%81%AE%E5%85%89%E3%81%AB%E6%BA%A2%E3%82%8C%E3%81%A6%E8%89%B2%E9%89%9B%E7%AD%86%E7%94%BB-%E6%9E%97%E4%BA%AE%E5%A4%AA-%E9%A2%A8%E6%99%AF%E7%94%BB/498990875014368/"
    ],
    "engines": [
     "ddgs:bing",
@@ -3020,11 +2996,10 @@
     "https://editverse.com/システマティックレビューの作成手順：prisma声明2020に/"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務） X 投稿",
@@ -3032,16 +3007,16 @@
     "https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf",
     "https://www.lifescience.co.jp/yk/jpt_online/prisma/list_1.pdf",
     "https://wellness-news.co.jp/posts/%E3%82%A8%E3%83%93%E3%83%87%E3%83%B3%E3%82%B9%E5%85%A5%E9%96%80%EF%BC%8840%EF%BC%89%E3%80%80prisma-s%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
-    "https://www.youtube.com/watch?v=TowrKeRVaI8",
     "https://www.jaohfa.com/pdf/systematic_review.pdf",
     "https://www.r-jc.jp/news-blog/5946/prisma%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9schema%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9migrate%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%82%A8%E3%83%A9%E3%83%BC/",
     "https://github.com/hlxsites/prisma-cloud-docs/blob/main/docs/jp/enterprise-edition/content-collections/governance/create-a-policy.adoc",
     "https://help.salesforce.com/s/articleView?id=data.c360_a_search_index_view_search_index.htm&language=ja&type=5",
+    "https://proofreaderpro.ai/ja/blog/ai-prisma-systematic-review",
     "https://developers.google.com/search/docs/appearance/structured-data?hl=ja",
     "https://editverse.com/システマティックレビューの作成手順：prisma声明2020に/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -3061,7 +3036,7 @@
     "https://www.linkedin.com/posts/drnaureenaleem_phd-student-a-step-by-step-guide-to-developing-activity-7361769830867263488-yENp"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -3069,6 +3044,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-06T15:04:25.868575+00:00"
 }

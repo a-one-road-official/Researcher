@@ -8,9 +8,431 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-08T18:59:05.133598+00:00",
+ "researched_at": "2026-11-09T02:31:22.599033+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "本記事では、データ統合技術の定義と主要7手法の特徴を整理したうえで、選び方の5つの判断軸、導入の5ステップ、陥りやすい失敗パターンまでを実務目線で解説します",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データ統合で陥りやすい失敗パターンと回避策",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どちらを主目的にするかで必要な予算の規模も変わる点に注意してください",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "注意点は、ソースシステムの応答速度に全体の性能が左右されることです",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ハイブリッド構成で注意したいのは、鮮度の異なるデータを結合したときの整合性です",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "拡張判断の目安として、稼働後3か月間でジョブの失敗が月1回以下に収まっていれば、拡張に進んでよい状態と判断できます",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "データ統合プロジェクトの失敗には、業種や規模を問わず共通するパターンがあります",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "最も多い失敗は、ツールの導入そのものがゴールになり、統合後の活用シーンが決まらないまま構築が進むパターンです",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "項目定義やコード体系のずれを「統合後に直せばよい」と後回しにするのも、典型的な失敗パターンです",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "処理の順序を誤り、標準化の前に名寄せを実行してしまう失敗も後を絶ちません",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2. 構成要件一覧（要件ID／原文／分解後の記述／種別／依存要件／否定・限定語／機能的表現／検索・判定時の注意）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "存在しない抜粋は破棄し、当該要件を再抽出するか「抽出失敗」として記録する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "表・図は構造を保持して渡す（表構造の不一致が検索失敗の7割）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "\"required\": [\"bias_assessment\", \"changed_elements\"],",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "\"bias_assessment\": { \"type\": \"string\" },",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本文の読み間違い、漢数字や（）の位置が違うなどによって間違った回答が出ることも多かった",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ロールバックはトランザクションが失敗したときに変更を元に戻す操作です",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データベースにおける一連の操作を一つの単位として扱うことで、すべての操作が成功するか、あるいはすべての操作が失敗して元の状態に戻ることを保証します",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "寮や集合住宅、事業所なども同じ住所を共有するため、住所の一致だけで世帯を判断すると誤りが生じます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データクレンジングとは、データの誤りや欠損、表記のばらつきなどを確認し、決めた基準に沿って修正・整理する作業です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合後は、無作為に選んだ記録や誤りが起きやすいパターンを確認し、誤統合と見落としの両方を検証します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "顧客情報を修正する担当者、統合を承認する責任者、誤りが見つかった場合の戻し方を決めておくと、継続運用が安定します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、名寄せだけでデータが正確になるわけではなく、欠損や入力誤り、集計条件も別途確認する必要があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "名寄せで注意すべきなのは、別の対象を一つにまとめる誤統合です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どちらの誤りが業務に大きな影響を及ぼすのかを検討し、用途に応じた判定基準を設ける必要があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "どのシステムから取得した値か、いつ更新されたか、どのルールで統合したかを追えるようにしておけば、誤りを発見した際に原因を調べやすくなります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入力欄の形式をそろえる、必須項目を適切に設定する、選択肢を用意する、既存顧客の候補を表示するといった工夫で、登録時の誤りや重複を抑えやすくなります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、実際の作業では、照合候補を確認した結果、新たな表記差や誤りが分かり、再度クレンジングが必要になることもあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注記｜解釈：連携方式の選択誤りは、鮮度不足ではなく元システム負荷と再処理不能として現れる",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "加工後に誤りが判明した場合、この層から再処理できることが要件（原本を上書き・削除 しない）",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "保留件数と誤りの発生状 況を定期的に報告する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注記｜解釈：名寄せは精度100%を前提にできないため、誤りを検知 ・訂正する運用込みで設 計する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "注記｜解釈：金融実務での主要リスクは生成内容の誤りより、旧版・権限外文書の参照である",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI出力の誤りを入力データまで遡って検証できる状 態が、業務適用の可否判断を支える",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤りの原因を「データ品質」「モデル」「利用方法」に切り分けて判定する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "誤り事例を評価用データセットに追加し、次回検証に反映する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "バイアス：属性ごとの判定結果の偏りを定期的に検証し、記録する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI出力への異議・誤り申告の受付経路を業務部門に明示する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判断基準：業務効果が測定可能／個人情報の関与が限定的／誤りを人が検証できる／所管部署が明確",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "本記事では、データ統合でよくある7つの問題を3領域に分けて整理し、解決までの6ステップや統合方式の判断基準、失敗パターンと回避策を解説します",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データ統合プロジェクトでよくある失敗パターンと回避策",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これをそのまま結合すると「髙」や「﨑」のような機種依存文字が文字化けし、顧客名の照合に失敗します",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "手作業が減ることで、転記ミスによる報告数値の誤りも同時に減らせます",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "報告数値の誤りは経営判断の誤りに直結するため、工数とは別の効果として稟議書に明記しておくのが効果的です",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "取り込み処理が失敗した場合の連絡先と復旧手順",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "運用負荷では、処理が失敗したときにエラー内容を画面上で確認し、そのまま再実行できるかが判断材料です",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "料金は1年目だけでなく、データ量の増加を見込んだ3年分の総額で比較すると判断を誤りません",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データ統合プロジェクトの失敗には、業種や規模を問わず共通するパターンがあります",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "以下では代表的な5つの失敗と、それぞれの回避策を取り上げます",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "よくある失敗の1つ目は、統合ツールや基盤の導入そのものが目的になってしまうケースです",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "標準化やクレンジングを後回しにして名寄せを先に実行し、誤統合が発生する失敗もよく見られます",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合時にはきれいに整えたデータが、1年後には再び表記ゆれや重複だらけに戻っている失敗も後を絶ちません",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "それでも、元の値と変更内容が残っていれば、復旧方法を判断するための材料を確保できる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このように、不足している記録を一つずつ補う方法でも改善できる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "業務の流れと人が判断すべき部分を整理し、無理のない改善方法を検討することが大切です",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "データ統合技術とは？主要7手法の選び方と導入5ステップを解説 - DATA VIZ LAB｜データビズラボ",
     "url": "https://data-viz-lab.com/data-integration-technology",
@@ -524,6 +946,18 @@
   ],
   "突き合わせ・推定": [
    {
+    "quote": "機械的な照合によって候補を一覧化することはできる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Excel・CSVを使用したデータ整理や、複数台帳の照合・統合など、日々の業務で繰り返している確認作業を見直したい場合は、Yokoyama Labの公式サイトをご覧ください",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
     "quote": "本当に必要なのは、自社の用途から逆算して手法を組み合わせるための判断軸です",
     "url": "https://data-viz-lab.com/data-integration-technology",
     "pass": 3,
@@ -974,7 +1408,513 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "統合承認・採用値・監査履歴を残す台帳設計｜じゅんき｜Yokoyama Lab",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「なぜ同じ顧客と判断したのか」「どちらの住所を採用したのか」を、後から説明できるだろうか",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用値：統合後の台帳に、どの値を残したか",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 採用値｜どちらの情報を正本に残すか",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この場合、片方のレコードを丸ごと採用すればよいとは限らない",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのため、採用値は項目ごとに管理すると分かりやすい",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「経理台帳の住所ではなく、営業台帳の住所を採用",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これなら、後から住所が違うと指摘された場合も、どの情報を根拠に採用したかを調べられる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用値とは、単に片方を消して片方を残すことではない",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、承認記録と採用値の記録も同じ統合処理IDに関連付ける",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統合候補・承認者・採用値・元レコードを関連付け、1つの統合処理として追跡できる必要がある",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用元と採用理由を残し、正本に反映する内容を明確にする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "台帳を1つにまとめる場合でも、承認前の情報、確定した採用値、実行済みの変更履歴が区別できるようにしておく",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "候補一覧しか残していないなら、承認結果と採用理由を追加する",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのためには、統合するかどうかの判断、統合後に採用する値、統合前後の変更履歴を分けて考える必要がある",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "対象はSFAや会計システムなどの業務システムに加え、Excelファイル、Webのアクセスログ、外部の統計データまで含まれます",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ストリーミングは構築・運用の難易度が7手法の中で最も高いため、秒単位の反応が本当に必要な用途に限定して採用するのが賢明です",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "採用前に、遅延が発生したときに失われる金額や業務影響を試算してください",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "画像やPDFなどの非構造化データまで扱うなら、データレイクを併用する構成を検討してください",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "内製はノウハウが社内に残る一方、採用と育成に1〜2年かかります",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1〜2年（採用・育成を含む）",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでは小売業、製造業、金融・保険業について、統合の対象データ、採用される手法、得られる成果を典型的なパターンとして紹介します",
+    "url": "https://data-viz-lab.com/data-integration-technology",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "こうした公開情報を集め、特許の請求項と比較し、対応する記載を整理する",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "EoU調査では、対象特許のクレームを読み、候補製品を探し、資料を収集し、構成要件ごとに製品との対応関係を整理します",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 位置づけ：「生成AIによる特許EoU調査システム — 情報収集報告」（2026年9月17日）の第3章「参照アーキテクチャ（7層）」のうち、LLMが担う工程を実行するためのプロンプト群",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3. **逐語引用のない判定は採用しない",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）",
+    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "業務プロセスで取り扱う大量のデータを、統計的手法やAI手法などを用いて分析し、データ間の相関関係や隠れたパターンなどを見いだすため",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "入力データと出力データから、その因果関係を統計的に推定する手法である",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは回帰分析などの統計的手法に関する記述です",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "機械学習や統計などの手法を用いてビッグデータを解析することによって、ビジネスに活用するための新たな知見を獲得する",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ア (機械学習や統計などの手法を用いてビッグデータを解析することによって、ビジネスに活用するための新たな知見を獲得する)",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "変数間の関係をモデル化し、予測や推定を行う統計手法を指します",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特許と異なり、新規性や進歩性の実体審査を行わず、形式審査のみで登録されます",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "スマートフォンなどのタッチパネルで広く採用されている方式であり、指がタッチパネルの表面に近づいたときに、その位置を検出する方式はどれか",
+    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ただし、統計上のばらつきは上昇と下落の両方を含みます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です",
+    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "企業情報、決算、業界統計、ニュース",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "通話録音、メール、チャット、帳票PDF",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "構造化データの抽出結果、PDF・画像・音声・メールなど非構造化データの原本を無加工で保持する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "／提案：物理構成（レイクハウス採用の有無）に関わらず、3層の論理区分は維持する",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "約書、面談記録、帳票PDF、通話録音",
+    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "在庫照会のように最新値が求められる用途では、論理統合を採用するケースが多く見られます",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統合基盤には、Snowflake、Google BigQuery、Amazon Redshiftなどのクラウド型DWHを採用する企業が増えています",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "データスチュワードとは？仕事内容から採用・育成するメリットまで徹底解説",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "経営陣が予測を信用できず、採用や投資の判断が後手に回っていたのが課題です",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "予測の精度が上がったことで、経営陣が四半期の途中で採用計画を前倒しする判断も下せるようになった形です",
+    "url": "https://data-viz-lab.com/data-integration-issues",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
+   {
+    "quote": "名寄せでは、重複を見つけることだけでなく、統合の判断と結果を残すことが重要になる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、顧客台帳に次の2件が登録されていたとする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、以下の項目だ",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "承認前の候補と、承認後の統合結果を混在させないことが大切だ",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、2件の顧客情報に次の違いがあったとする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば住所なら、",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、顧客Aと顧客Bを同一と判断して統合した後、実際には別会社だったと判明したとする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、元レコードAと元レコードBが統合レコードCになった場合、A・B・Cの関係を残す",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そうすれば、統合結果から元データへたどれる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、管理対象を4つに分ける",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "候補ID、元レコードID、提案理由、承認者、承認結果を関連付ける",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "候補一覧しか残していないなら、承認結果と採用理由を追加する",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まとめ｜統合結果だけでなく、判断の経緯を残す",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "で、元レコードから統合結果まで追跡できるようにする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "在庫照会のように最新値が求められる用途では、論理統合を採用するケースが多く見られます",
     "url": "https://data-viz-lab.com/data-integration-issues",
@@ -1491,854 +2431,38 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "対象はSFAや会計システムなどの業務システムに加え、Excelファイル、Webのアクセスログ、外部の統計データまで含まれます",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ストリーミングは構築・運用の難易度が7手法の中で最も高いため、秒単位の反応が本当に必要な用途に限定して採用するのが賢明です",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "採用前に、遅延が発生したときに失われる金額や業務影響を試算してください",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "画像やPDFなどの非構造化データまで扱うなら、データレイクを併用する構成を検討してください",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "内製はノウハウが社内に残る一方、採用と育成に1〜2年かかります",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1〜2年（採用・育成を含む）",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでは小売業、製造業、金融・保険業について、統合の対象データ、採用される手法、得られる成果を典型的なパターンとして紹介します",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "「Web上の製品情報を生成AIで調べれば、自社の特許が使われている可能性のある製品を見つけられるのではないか？」",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "こうした公開情報を集め、特許の請求項と比較し、対応する記載を整理する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "EoU調査では、対象特許のクレームを読み、候補製品を探し、資料を収集し、構成要件ごとに製品との対応関係を整理します",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許と製品資料を丸ごと渡して「侵害していますか」と聞くよりも、構成要件ごとに必要な証拠を探し、それぞれの対応を確認する形を基本にしたいと考えました",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許の新規性判断を対象として、クレームを構成要件に分けて個別に分析する方法を評価し、新規性に寄与する要素の特定が改善したと報告しています",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、こうした検証モデルを追加することと、特許上の評価が正しいことは別です",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 位置づけ：「生成AIによる特許EoU調査システム — 情報収集報告」（2026年9月17日）の第3章「参照アーキテクチャ（7層）」のうち、LLMが担う工程を実行するためのプロンプト群",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3. **逐語引用のない判定は採用しない",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【対象法域】{{JURISDICTION}}（JP: 日本特許 / US: 米国特許 / BOTH: 両方）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "業務プロセスで取り扱う大量のデータを、統計的手法やAI手法などを用いて分析し、データ間の相関関係や隠れたパターンなどを見いだすため",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入力データと出力データから、その因果関係を統計的に推定する手法である",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これは回帰分析などの統計的手法に関する記述です",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "機械学習や統計などの手法を用いてビッグデータを解析することによって、ビジネスに活用するための新たな知見を獲得する",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ア (機械学習や統計などの手法を用いてビッグデータを解析することによって、ビジネスに活用するための新たな知見を獲得する)",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "変数間の関係をモデル化し、予測や推定を行う統計手法を指します",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許と異なり、新規性や進歩性の実体審査を行わず、形式審査のみで登録されます",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "スマートフォンなどのタッチパネルで広く採用されている方式であり、指がタッチパネルの表面に近づいたときに、その位置を検出する方式はどれか",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "資料の用途と限界を理解し、登記事項証明書など他の情報と組み合わせることが大切です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、統計上のばらつきは上昇と下落の両方を含みます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "分布の形が分析手法の前提に関わる場合は、ヒストグラムや統計的な確認を行い、目的に応じた方法を選びます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2020年末から2025年末までなら5年ですが、2020年度と2025年度の決算値を比較するときは、各値がどの時点を表すかを確かめます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "年度のラベルだけで機械的に判断せず、決算期、対象期間、データの基準日をそろえるのが基本です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "企業情報、決算、業界統計、ニュース",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "通話録音、メール、チャット、帳票PDF",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "構造化データの抽出結果、PDF・画像・音声・メールなど非構造化データの原本を無加工で保持する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "／提案：物理構成（レイクハウス採用の有無）に関わらず、3層の論理区分は維持する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "約書、面談記録、帳票PDF、通話録音",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "在庫照会のように最新値が求められる用途では、論理統合を採用するケースが多く見られます",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統合基盤には、Snowflake、Google BigQuery、Amazon Redshiftなどのクラウド型DWHを採用する企業が増えています",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データスチュワードとは？仕事内容から採用・育成するメリットまで徹底解説",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "経営陣が予測を信用できず、採用や投資の判断が後手に回っていたのが課題です",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "予測の精度が上がったことで、経営陣が四半期の途中で採用計画を前倒しする判断も下せるようになった形です",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "本記事では、データ統合技術の定義と主要7手法の特徴を整理したうえで、選び方の5つの判断軸、導入の5ステップ、陥りやすい失敗パターンまでを実務目線で解説します",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ統合で陥りやすい失敗パターンと回避策",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どちらを主目的にするかで必要な予算の規模も変わる点に注意してください",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "注意点は、ソースシステムの応答速度に全体の性能が左右されることです",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ハイブリッド構成で注意したいのは、鮮度の異なるデータを結合したときの整合性です",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "拡張判断の目安として、稼働後3か月間でジョブの失敗が月1回以下に収まっていれば、拡張に進んでよい状態と判断できます",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "データ統合プロジェクトの失敗には、業種や規模を問わず共通するパターンがあります",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "最も多い失敗は、ツールの導入そのものがゴールになり、統合後の活用シーンが決まらないまま構築が進むパターンです",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "項目定義やコード体系のずれを「統合後に直せばよい」と後回しにするのも、典型的な失敗パターンです",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "処理の順序を誤り、標準化の前に名寄せを実行してしまう失敗も後を絶ちません",
-    "url": "https://data-viz-lab.com/data-integration-technology",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "生成AIの誤りというと、存在しない文献やURLをつくることを想像しがちです",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これはEoU調査の誤り率でも、現在の各サービスの性能を示す数値でもありませんが、「引用付きなら安全」とはいえないことを示す事例です",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この役割分担を、注意書きではなく、検索・引用・保全・承認の仕組みとして実装する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "(g) 検索・判定時の注意（例：マーケティング資料では別名で呼ばれる可能性、数値は仕様表を見る等）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2. 構成要件一覧（要件ID／原文／分解後の記述／種別／依存要件／否定・限定語／機能的表現／検索・判定時の注意）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "特許側と製品側の語彙シフトで検索性能が3〜6倍落ちる（PatenTEB）ことと、黙示的開示・上位下位概念の対応がLLM判定の主要な失敗類型である（Ikoma & Mitamura）ことへの対策",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "存在しない抜粋は破棄し、当該要件を再抽出するか「抽出失敗」として記録する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "表・図は構造を保持して渡す（表構造の不一致が検索失敗の7割）",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "\"required\": [\"bias_assessment\", \"changed_elements\"],",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "\"bias_assessment\": { \"type\": \"string\" },",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "| 要件ID | 原文 | 種別 | 依存 | 否定・限定語 | 機能的表現 | 検索・判定時の注意 |",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "| 1D | 前記筐体の装着状態を検出するセンサと、 | STRUCTURE/FUNCTION | 1A | — | はい | 「装着検出」「着脱検知」「近接センサー」「光学センサー」等の別名に注意 |",
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本文の読み間違い、漢数字や（）の位置が違うなどによって間違った回答が出ることも多かった",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ロールバックはトランザクションが失敗したときに変更を元に戻す操作です",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データベースにおける一連の操作を一つの単位として扱うことで、すべての操作が成功するか、あるいはすべての操作が失敗して元の状態に戻ることを保証します",
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説｜グロービス経営大学院 ナノ単科",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【基礎から実務まで】名寄せとは？意味・進め方・注意点をわかりやすく解説",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "寮や集合住宅、事業所なども同じ住所を共有するため、住所の一致だけで世帯を判断すると誤りが生じます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データクレンジングとは、データの誤りや欠損、表記のばらつきなどを確認し、決めた基準に沿って修正・整理する作業です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "小さな範囲で試行し、結果を業務担当者が確認してから全体に適用すると、影響の大きい誤りを抑えられます",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どの程度の誤りを許容できるかは業務によって異なるため、試行結果を確認しながら調整します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統合後は、無作為に選んだ記録や誤りが起きやすいパターンを確認し、誤統合と見落としの両方を検証します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "顧客情報を修正する担当者、統合を承認する責任者、誤りが見つかった場合の戻し方を決めておくと、継続運用が安定します",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、名寄せだけでデータが正確になるわけではなく、欠損や入力誤り、集計条件も別途確認する必要があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "名寄せで注意すべきなのは、別の対象を一つにまとめる誤統合です",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どちらの誤りが業務に大きな影響を及ぼすのかを検討し、用途に応じた判定基準を設ける必要があります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "どのシステムから取得した値か、いつ更新されたか、どのルールで統合したかを追えるようにしておけば、誤りを発見した際に原因を調べやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "入力欄の形式をそろえる、必須項目を適切に設定する、選択肢を用意する、既存顧客の候補を表示するといった工夫で、登録時の誤りや重複を抑えやすくなります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ただし、実際の作業では、照合候補を確認した結果、新たな表記差や誤りが分かり、再度クレンジングが必要になることもあります",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点",
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注記｜解釈：連携方式の選択誤りは、鮮度不足ではなく元システム負荷と再処理不能として現れる",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "加工後に誤りが判明した場合、この層から再処理できることが要件（原本を上書き・削除 しない）",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "保留件数と誤りの発生状 況を定期的に報告する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注記｜解釈：名寄せは精度100%を前提にできないため、誤りを検知 ・訂正する運用込みで設 計する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "注記｜解釈：金融実務での主要リスクは生成内容の誤りより、旧版・権限外文書の参照である",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI出力の誤りを入力データまで遡って検証できる状 態が、業務適用の可否判断を支える",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤りの原因を「データ品質」「モデル」「利用方法」に切り分けて判定する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "誤り事例を評価用データセットに追加し、次回検証に反映する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "バイアス：属性ごとの判定結果の偏りを定期的に検証し、記録する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI出力への異議・誤り申告の受付経路を業務部門に明示する",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判断基準：業務効果が測定可能／個人情報の関与が限定的／誤りを人が検証できる／所管部署が明確",
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "本記事では、データ統合でよくある7つの問題を3領域に分けて整理し、解決までの6ステップや統合方式の判断基準、失敗パターンと回避策を解説します",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データ統合プロジェクトでよくある失敗パターンと回避策",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これをそのまま結合すると「髙」や「﨑」のような機種依存文字が文字化けし、顧客名の照合に失敗します",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "手作業が減ることで、転記ミスによる報告数値の誤りも同時に減らせます",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "報告数値の誤りは経営判断の誤りに直結するため、工数とは別の効果として稟議書に明記しておくのが効果的です",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "取り込み処理が失敗した場合の連絡先と復旧手順",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "運用負荷では、処理が失敗したときにエラー内容を画面上で確認し、そのまま再実行できるかが判断材料です",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "料金は1年目だけでなく、データ量の増加を見込んだ3年分の総額で比較すると判断を誤りません",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "データ統合プロジェクトの失敗には、業種や規模を問わず共通するパターンがあります",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "以下では代表的な5つの失敗と、それぞれの回避策を取り上げます",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "よくある失敗の1つ目は、統合ツールや基盤の導入そのものが目的になってしまうケースです",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "標準化やクレンジングを後回しにして名寄せを先に実行し、誤統合が発生する失敗もよく見られます",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統合時にはきれいに整えたデータが、1年後には再び表記ゆれや重複だらけに戻っている失敗も後を絶ちません",
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/tsunobuchi/n/nb8ca80cd6249",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "url": "https://note.com/ai_scout_jp/n/n91cff96707e1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
+    "url": "https://note.com/ai_scout_jp/n/na264a18ce645",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/n6451222506bb",
+    "url": "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/ncabf83a88dd4",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://ltv-lab.jp/ec%E9%A1%A7%E5%AE%A2%E3%83%87%E3%83%BC%E3%82%BF%E7%AE%A1%E7%90%86%E3%81%AE%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F50%E9%81%B8/",
+    "url": "https://note.com/fourglobe_uz/n/n00a211ac5084",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://otsumu.co.jp/knowledge/glossary/terms/nayose.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/data-integration-issues",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://support.google.com/phoneapp/answer/2811854?hl=ja",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.zenrin-ms.co.jp/blog/articles/what-is-data-merging/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://usonar.co.jp/blog/6065.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://support.apple.com/ja-jp/guide/iphone/iph9b90d0aba/ios",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://data-viz-lab.com/inquiry-data",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://dekiru.net/article/13786/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.b-merit.jp/magazine/customerdatadeduplication/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://dps.intra-mart.jp/blog/category_business/name_identification",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
+    "url": "https://note.com/michibikugroup/n/n138dc00939ca",
     "status": "ok",
     "method": "http"
    },
@@ -2348,32 +2472,67 @@
     "method": "http"
    },
    {
-    "url": "https://getclaro.ai/resources/comparisons/fuzzy-matching-vs-entity-resolution/",
+    "url": "https://gene-kokyaku-note.hatenablog.com/entry/customer-data-deduplication-faq",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sanity.io/glossary/entity-resolution",
+    "url": "https://data-viz-lab.com/crm-name-identification",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/html/2607.26298v1",
+    "url": "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://matchdatapro.com/audit-log-compliance/",
+    "url": "https://claudecode-cases.com/cases/vendor-master-deduplication-claude-code-2026/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tigergraph.com/blog/preventing-entity-resolution-merges-that-ignore-lifecycle-evolution/",
+    "url": "https://www.datasango.ai/guide/data-matching-steps-crm",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.getgalaxy.io/articles/identity-resolution-entity-mastering-enterprise-context-layer",
+    "url": "https://data.bfts.co.jp/blog/data-cleansing-nayose-basics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.bfts.co.jp/blog/master-data-deduplication",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agents-wiki.com/wiki/preparing-reversible-entity-link-proposals-with-jev-bb6ebc63",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inferensys.com/prompts/data-extraction-and-normalization-prompts/cross-document-entity-resolution/cross-document-entity-resolution-audit-trail-prompt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logiciel.io/blog/entity-resolution-under-audit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuzzy.direct/entity-resolution-pipeline-checklist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/Limes-Labs/limes-axis/issues/457",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.oracle.com/en/industries/financial-services/ofs-analytical-applications/crime-compliance-studio-application-pack/8.1.2.9.0/csadc/entity-resolution.html",
     "status": "ok",
     "method": "http"
    }
@@ -2383,104 +2542,12 @@
   {
    "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） site:note.com",
    "results": [
-    "https://note.com/tsunobuchi/n/nb8ca80cd6249",
-    "https://note.com/konkon4192/n/nc04b0ed3a10f",
-    "https://note.com/cheeky_orchid948/n/n3ad25d39e7e0",
-    "https://note.com/ichi_twnovel/n/n6451222506bb",
-    "https://note.com/jack4manastalk/n/ncabf83a88dd4"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 5
-  },
-  {
-   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） note",
-   "results": [
-    "https://ltv-lab.jp/ec%E9%A1%A7%E5%AE%A2%E3%83%87%E3%83%BC%E3%82%BF%E7%AE%A1%E7%90%86%E3%81%AE%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F50%E9%81%B8/",
-    "https://otsumu.co.jp/knowledge/glossary/terms/nayose.html",
-    "https://data-viz-lab.com/data-integration-issues",
-    "https://support.google.com/phoneapp/answer/2811854?hl=ja",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-data-merging/",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "https://mazrica.com/product/businesslab/dx/data-cleansing-practice/",
-    "https://news.mynavi.jp/article/20251024-iphone_why/",
-    "https://support.apple.com/ja-jp/guide/iphone/iph9b90d0aba/ios",
-    "https://note.com/famous_auklet634/n/n2dc0db47a808"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） やり方",
-   "results": [
-    "https://data-viz-lab.com/data-integration-issues",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-data-merging/",
-    "https://usonar.co.jp/blog/6065.html",
-    "https://support.apple.com/ja-jp/guide/iphone/iph9b90d0aba/ios",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "https://www.startchg.com/wp-content/uploads/2026/08/%E9%87%91%E8%9E%8DAI%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A8%E6%A7%8B%E7%AF%89_20260821103646-1_compressed.pdf",
-    "https://data-viz-lab.com/inquiry-data",
-    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
-    "https://dekiru.net/article/13786/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） 事例",
-   "results": [
-    "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
-    "https://data-viz-lab.com/data-integration-issues",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://www.b-merit.jp/magazine/customerdatadeduplication/",
-    "https://dps.intra-mart.jp/blog/category_business/name_identification",
-    "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-data-merging/",
-    "https://usonar.co.jp/blog/6065.html",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "reversible entity merge audit log identifier provenance scope entity resolution",
-   "results": [
-    "https://getclaro.ai/resources/comparisons/fuzzy-matching-vs-entity-resolution/",
-    "https://www.sanity.io/glossary/entity-resolution",
-    "https://arxiv.org/html/2607.26298v1",
-    "https://matchdatapro.com/audit-log-compliance/",
-    "https://www.tigergraph.com/blog/preventing-entity-resolution-merges-that-ignore-lifecycle-evolution/",
-    "https://www.getgalaxy.io/articles/identity-resolution-entity-mastering-enterprise-context-layer",
-    "https://scalestack.ai/platform/entity-resolution",
-    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "https://www.rudderstack.com/blog/what-is-entity-resolution/",
-    "https://agents-wiki.com/wiki/preparing-reversible-entity-link-proposals-with-jev-bb6ebc63"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:note.com 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）",
-   "results": [
     "https://note.com/famous_auklet634/n/n2dc0db47a808",
     "https://note.com/ai_scout_jp/n/n91cff96707e1",
     "https://note.com/ai_scout_jp/n/na264a18ce645",
-    "https://note.com/michibikugroup/n/n138dc00939ca",
-    "https://note.com/syunsaku_asada/n/n82bed9c2f7df",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/fourglobe_uz/n/n00a211ac5084",
+    "https://note.com/michibikugroup/n/n138dc00939ca",
     "https://note.com/loots/n/n2908c356d1d4"
    ],
    "engines": [
@@ -2489,41 +2556,111 @@
    "n_hits": 7
   },
   {
-   "query": "site:x.com 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）",
+   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） note",
    "results": [
-    "https://x.com/KagawaTomo/status/2117512280791527638",
-    "https://x.com/fujikawa/status/2119193377531204076",
-    "https://x.com/PR_Connecty",
-    "https://x.com/Qe0LHa2uI3LFM7B",
-    "https://x.com/ai_scout_jp/status/2086566451947917691",
-    "https://x.com/HagaSatoshi1/status/2091672370314662346",
-    "https://x.com/Massu15/status/2118115969092714602",
-    "https://x.com/gyomu_rakulab/status/2113103058246988066",
-    "https://x.com/ai_migite_log/status/2094988532494553560",
-    "https://x.com/YuukokuGifu1/status/2107192929374912802"
+    "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://gene-kokyaku-note.hatenablog.com/entry/customer-data-deduplication-faq",
+    "https://data-viz-lab.com/crm-name-identification",
+    "https://geniee.co.jp/media/cdp/whatis-nameidentification/",
+    "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "https://claudecode-cases.com/cases/vendor-master-deduplication-claude-code-2026/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 11
+   "n_hits": 7
+  },
+  {
+   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） やり方",
+   "results": [
+    "https://data-viz-lab.com/crm-name-identification",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://www.datasango.ai/guide/data-matching-steps-crm",
+    "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "https://data.bfts.co.jp/blog/data-cleansing-nayose-basics",
+    "https://gene-kokyaku-note.hatenablog.com/entry/customer-data-deduplication-faq",
+    "https://geniee.co.jp/media/cdp/whatis-nameidentification/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） 事例",
+   "results": [
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "https://data-viz-lab.com/crm-name-identification",
+    "https://gene-kokyaku-note.hatenablog.com/entry/customer-data-deduplication-faq",
+    "https://data.bfts.co.jp/blog/data-cleansing-nayose-basics",
+    "https://claudecode-cases.com/cases/vendor-master-deduplication-claude-code-2026/",
+    "https://data.bfts.co.jp/blog/master-data-deduplication"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "reversible entity merge audit log identifier provenance scope entity resolution",
+   "results": [
+    "https://agents-wiki.com/wiki/preparing-reversible-entity-link-proposals-with-jev-bb6ebc63",
+    "https://inferensys.com/prompts/data-extraction-and-normalization-prompts/cross-document-entity-resolution/cross-document-entity-resolution-audit-trail-prompt",
+    "https://logiciel.io/blog/entity-resolution-under-audit",
+    "https://fuzzy.direct/entity-resolution-pipeline-checklist",
+    "https://github.com/Limes-Labs/limes-axis/issues/457",
+    "https://docs.oracle.com/en/industries/financial-services/ofs-analytical-applications/crime-compliance-studio-application-pack/8.1.2.9.0/csadc/entity-resolution.html",
+    "https://www.granveo.com/blog/resolve-entities-without-corrupting-knowledge-graph"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）",
+   "results": [
+    "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "https://note.com/ai_scout_jp/n/n91cff96707e1",
+    "https://note.com/ai_scout_jp/n/na264a18ce645",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8",
+    "https://note.com/michibikugroup/n/n138dc00939ca",
+    "https://note.com/syunsaku_asada/n/n82bed9c2f7df",
+    "https://note.com/loots/n/n2908c356d1d4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）",
+   "results": [
+    "https://x.com/ai_scout_jp/status/2086566451947917691",
+    "https://x.com/HagaSatoshi1/status/2091672370314662346",
+    "https://x.com/gyomu_rakulab/status/2113103058246988066",
+    "https://x.com/Massu15/status/2118115969092714602",
+    "https://x.com/ai_migite_log/status/2094988532494553560",
+    "https://x.com/YuukokuGifu1/status/2107192929374912802",
+    "https://x.com/hama_higurashi/status/1660943849676742657"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "site:facebook.com 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）",
    "results": [
-    "https://www.facebook.com/PablosOldTown/",
-    "https://www.facebook.com/100069742365985/posts/昨日首帳の名寄せ個人別台帳が作成されていたとおぼしき記述が清良記内閣本14上05に記述されている旨報吿した今朝さらにネットで首帳を検索すると下記関原首帳福嶋家-/1350208483980551/",
-    "https://www.facebook.com/mynumber.funsan/posts/分散化でなく名寄せキーロガー盗用画面同期も国が大丈夫ですと言うのは詭弁です一体どういう言い訳をしているのでしょうかシリアル番号だけでは個人の情報にアクセスできま/588864446795501/",
-    "https://www.facebook.com/riplus/posts/インターネットの履歴を削除したとき消去された履歴は戻せる皆様も利用しているインターネットの検索履歴などがもし消えた消された時復元ができるかどうかをご紹介しており/4035091029851161/",
-    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
-    "https://www.facebook.com/net.bizs/videos/セルフ名寄せサービスb-plusビープラスの紹介動画/2548219398804230/",
-    "https://www.facebook.com/miyamoto.sr.jp/photos/20210223ねんきんネットの未統合記録検索機能-ネット上で公的年金に関する加入履歴閲覧や受給見込額試算ができるねんきんネットその中に未統合記録と呼ばれる持ち/836212990584250/"
+    "https://www.linkedin.com/posts/activity-7459773093646057472-GvX7",
+    "https://jp.linkedin.com/posts/fourglobe_line通知メッセージの電話番号名寄せと誤配信同一人物の重複登録番号再利用に備-activity-7521772571638366208-BJVI",
+    "https://jp.linkedin.com/posts/takahiko-nishida-35899838_取引先の一覧を2つのシステムで突き合わせる前に確かめる4点を公開する-claude-activity-7493199656081096705-zUpz",
+    "https://www.linkedin.com/pulse/一人社長とai従業員ai従業員が失敗しても元に戻せる仕組みを作る変更履歴とバックアップ-耕治-小田島-6phdc/",
+    "https://jp.linkedin.com/pulse/breaking-infinite-loop-solution-shivakumar-avadhani-atyhc?tl=ja",
+    "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
+    "https://jp.linkedin.com/posts/makoto-hattori_o3すごい-企業名住所だけのリストを渡して-法人番号-企業概要-を調査してという-activity-7321403477140692993-TNvN"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -2531,67 +2668,285 @@
    "n_hits": 7
   },
   {
-   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） note 社長",
+   "query": "site:facebook.com 名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲）",
    "results": [
-    "https://data-viz-lab.com/data-integration-issues",
-    "https://dps.intra-mart.jp/blog/category_business/name_identification",
-    "https://otsumu.co.jp/knowledge/glossary/terms/nayose.html",
-    "https://ltv-lab.jp/ec%E9%A1%A7%E5%AE%A2%E3%83%87%E3%83%BC%E3%82%BF%E7%AE%A1%E7%90%86%E3%81%AE%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F50%E9%81%B8/",
-    "https://note.com/atstream/n/n15ddcade7e85",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-data-merging/",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/248",
-    "https://mazrica.com/product/businesslab/dx/data-cleansing-practice/",
-    "https://usonar.co.jp/blog/6065.html",
-    "https://note.com/famous_auklet634/n/n2dc0db47a808"
+    "https://www.facebook.com/100069742365985/posts/昨日首帳の名寄せ個人別台帳が作成されていたとおぼしき記述が清良記内閣本14上05に記述されている旨報吿した今朝さらにネットで首帳を検索すると下記関原首帳福嶋家-/1350208483980551/",
+    "https://www.facebook.com/mynumber.funsan/posts/分散化でなく名寄せキーロガー盗用画面同期も国が大丈夫ですと言うのは詭弁です一体どういう言い訳をしているのでしょうかシリアル番号だけでは個人の情報にアクセスできま/588864446795501/",
+    "https://www.facebook.com/Rena:+本当の自分に繋がるエネルギーワーク/videos/306594761718912/",
+    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
+    "https://www.facebook.com/riplus/posts/インターネットの履歴を削除したとき消去された履歴は戻せる皆様も利用しているインターネットの検索履歴などがもし消えた消された時復元ができるかどうかをご紹介しており/4035091029851161/",
+    "https://www.facebook.com/net.bizs/videos/セルフ名寄せサービスb-plusビープラスの紹介動画/2548219398804230/",
+    "https://www.facebook.com/miyamoto.sr.jp/photos/20210223ねんきんネットの未統合記録検索機能-ネット上で公的年金に関する加入履歴閲覧や受給見込額試算ができるねんきんネットその中に未統合記録と呼ばれる持ち/836212990584250/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
+  },
+  {
+   "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） note 社長",
+   "results": [
+    "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
+    "https://gene-kokyaku-note.hatenablog.com/entry/customer-data-deduplication-faq",
+    "https://data-viz-lab.com/crm-name-identification",
+    "https://saireco.jp/hr-system-nav/1758/",
+    "https://mazrica.com/product/businesslab/sfa/deduplication-record-matching/",
+    "https://data-viz-lab.com/name-collection"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "名寄せで誤統合を防ぐ戻せる統合の記録（統合の履歴・番号の出どころ・番号の効く範囲） X 投稿",
    "results": [
-    "https://x.com/usapiyo_gorilla/status/1987518743183004017",
-    "https://www.zenrin-ms.co.jp/blog/articles/what-is-data-merging/",
-    "https://www.agrex.co.jp/column/detail/name-identification_01.html",
-    "https://discussionsjapan.apple.com/thread/10173181",
-    "https://eic.law/itlaw/x-twitter_kaiji/",
-    "https://help.extlink.co.jp/books/a02ff/page/d947b/revisions/727",
-    "https://www.murc.jp/wp-json/wp/v2/column_reports/93337",
-    "https://www.kalanchoe-law.com/post/%E7%99%BA%E4%BF%A1%E8%80%85%E6%83%85%E5%A0%B1%E9%96%8B%E7%A4%BA%E8%AB%8B%E6%B1%82%E3%81%AE%E6%89%8B%E9%A0%86%EF%BC%88twitter%E3%81%AE%E5%A0%B4%E5%90%88%EF%BC%89",
     "https://kizuna-salesflow.com/blog/sfa-duplicate-merge/",
-    "https://gene-kokyaku-note.hatenablog.com/entry/customer-data-deduplication-faq"
+    "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "https://gene-kokyaku-note.hatenablog.com/entry/customer-data-deduplication-faq",
+    "https://data-viz-lab.com/crm-name-identification",
+    "https://claudecode-cases.com/cases/vendor-master-deduplication-claude-code-2026/",
+    "https://saireco.jp/hr-system-nav/1758/",
+    "https://nir-official.jp/blog/20261009-071708-crm-nir/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "reversible entity merge audit log identifier provenance scope entity resolution site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/gallevin",
-    "https://uk.linkedin.com/in/gracerose-uk",
     "https://www.linkedin.com/pulse/from-audit-log-provenance-chain-solving-healthcares-data-meganathan-8dmec",
     "https://www.linkedin.com/posts/cyberintglobal_investigation-data-fusion-activity-7491827178368757760-yk-S",
     "https://www.linkedin.com/pulse/designing-id-resolution-from-data-out-provenance-system-hiratsuka-fvkpc",
     "https://www.linkedin.com/posts/rubeshkumar-meganathan-54536564_from-audit-log-to-provenance-chain-solving-activity-7515615999455334400-XsyM",
     "https://www.linkedin.com/pulse/identity-provenance-context-when-same-entity-fact-haranadh-wkxxe",
-    "https://www.linkedin.com/posts/ioblend_entity-resolution-at-scale-merge-duplicates-activity-7502621669367324672-LDB3",
-    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac"
+    "https://www.linkedin.com/pulse/addressing-unified-namespace-entity-resolution-ensuring-kathpal-kqeac",
+    "https://www.linkedin.com/posts/ioblend_entity-resolution-at-scale-merge-duplicates-activity-7502621669367324672-LDB3"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 11,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "それでも、元の値と変更内容が残っていれば、復旧方法を判断するための材料を確保できる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このように、不足している記録を一つずつ補う方法でも改善できる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "業務の流れと人が判断すべき部分を整理し、無理のない改善方法を検討することが大切です",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "機械的な照合によって候補を一覧化することはできる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Excel・CSVを使用したデータ整理や、複数台帳の照合・統合など、日々の業務で繰り返している確認作業を見直したい場合は、Yokoyama Labの公式サイトをご覧ください",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統合承認・採用値・監査履歴を残す台帳設計｜じゅんき｜Yokoyama Lab",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「なぜ同じ顧客と判断したのか」「どちらの住所を採用したのか」を、後から説明できるだろうか",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用値：統合後の台帳に、どの値を残したか",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 採用値｜どちらの情報を正本に残すか",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この場合、片方のレコードを丸ごと採用すればよいとは限らない",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのため、採用値は項目ごとに管理すると分かりやすい",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「経理台帳の住所ではなく、営業台帳の住所を採用",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これなら、後から住所が違うと指摘された場合も、どの情報を根拠に採用したかを調べられる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用値とは、単に片方を消して片方を残すことではない",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、承認記録と採用値の記録も同じ統合処理IDに関連付ける",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統合候補・承認者・採用値・元レコードを関連付け、1つの統合処理として追跡できる必要がある",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用元と採用理由を残し、正本に反映する内容を明確にする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "台帳を1つにまとめる場合でも、承認前の情報、確定した採用値、実行済みの変更履歴が区別できるようにしておく",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "候補一覧しか残していないなら、承認結果と採用理由を追加する",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのためには、統合するかどうかの判断、統合後に採用する値、統合前後の変更履歴を分けて考える必要がある",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "名寄せでは、重複を見つけることだけでなく、統合の判断と結果を残すことが重要になる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、顧客台帳に次の2件が登録されていたとする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、以下の項目だ",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "承認前の候補と、承認後の統合結果を混在させないことが大切だ",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、2件の顧客情報に次の違いがあったとする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば住所なら、",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、顧客Aと顧客Bを同一と判断して統合した後、実際には別会社だったと判明したとする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、元レコードAと元レコードBが統合レコードCになった場合、A・B・Cの関係を残す",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そうすれば、統合結果から元データへたどれる",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、管理対象を4つに分ける",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "候補ID、元レコードID、提案理由、承認者、承認結果を関連付ける",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "候補一覧しか残していないなら、承認結果と採用理由を追加する",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まとめ｜統合結果だけでなく、判断の経緯を残す",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "で、元レコードから統合結果まで追跡できるようにする",
+    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 12,
  "first_researched_at": "2026-11-06T11:12:38.920006+00:00"
 }
