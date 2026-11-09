@@ -3640,6 +3640,47 @@ def scan(topic):
                f"- 引用に「過大・急増」などの評価語と、手法・基準・定義の変更の語が並ぶ行：{len(_evalc)}件。連続性の切れた系列の増減には評価語を付けず、新旧の両方式で出した重なりの年（併記・参考値）があるときだけつなぐ（4-26・4-125）",
                ""]
     except Exception: pass
+    # 2026-11-09 4-126（TextQL「Beyond Guesswork」2025：推定の失敗の主な型は、どこにも無い数字を作ること（幻覚）で、精度は桁のずれで測る。
+    # Tetlock「Ten Commandments」・CAS Actuarial Review の書評：難しい問いを易しい問いにすり替えない・基準率から出て小刻みに直す。
+    # GIJN「Expert Tips for Following Ships, Smugglers and Supply Chains」：輸入と相手国の輸出を突き合わせ、季節に合わない跳びを手がかりにする）
+    # ①人の書いた scan.md の数字（3桁以上か小数つき、年・章番号を除く）で、scan_auto.md・cross.csv・calc.md・facts.md・METHOD.md のどこにも無いもの
+    #   ＝出どころの無い数字の疑い（Claude が頭で計算した値か写し違い）。次の走査で消すか、scan.py に計算を足して出させる
+    # ②2つの値を並べる欄（【食い違い】の印がある行）で、最大÷最小が10倍以上＝桁のずれ（単位の読み違いを先に疑う・4-31）
+    try:
+        _sm = os.path.join(OUT, topic, "scan.md")
+        if os.path.exists(_sm):
+            _ref = "\n".join(md)
+            for _f in ("cross.csv", "calc.md", "facts.md", "summary.csv"):
+                _p = os.path.join(OUT, topic, _f)
+                if os.path.exists(_p): _ref += "\n" + open(_p, encoding="utf-8-sig", errors="ignore").read()
+            for _f in ("METHOD.md", "HYPOTHESES.md"):
+                _p = os.path.join(os.path.dirname(os.path.abspath(__file__)), _f)
+                if os.path.exists(_p): _ref += "\n" + open(_p, encoding="utf-8", errors="ignore").read()
+            import unicodedata as _ud2
+            _refn = _ud2.normalize("NFKC", _ref).replace(",", "")
+            _NUM = re.compile(r"(?<![\d\-\.A-Za-z])(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+\.\d+|\d{3,})(?![\d\-])")
+            _orph = []
+            for _ln in open(_sm, encoding="utf-8", errors="ignore"):
+                _l = _ud2.normalize("NFKC", _ln)
+                for _m in _NUM.finditer(_l):
+                    _v = _m.group(1).replace(",", "")
+                    if re.fullmatch(r"(19|20)\d\d", _v): continue  # 年
+                    if re.search(r"\d-\d", _l[max(0, _m.start() - 3):_m.end() + 3]) and "." not in _v: continue  # 章番号 4-12 など
+                    if _v not in _refn and _v not in _orph: _orph.append(_v)
+            md += ["## 出どころの無い数字・桁のずれ（4-126・機械）",
+                   f"- scan.md の数字（3桁以上か小数つき、年・章番号を除く）で、scan_auto.md・cross.csv・calc.md・facts.md・METHOD.md のどこにも無いもの：{len(_orph)}個。"
+                   "頭で計算した値か写し違いの疑い。次の走査で scan.md から外すか、その計算を scan.py に足して出させる（0. 動き方・4-126）",
+                   *(f"  - {v}" for v in _orph[:8]), ""]
+    except Exception: pass
+    try:
+        _grp = {}
+        for r in rows:
+            if isinstance(r.get("値"), (int, float)) and r["値"] > 0 and r.get("単位"):
+                _grp.setdefault((r.get("品目", ""), r.get("区分", ""), r.get("単位")), []).append(r["値"])
+        _mag = sorted(((k, min(v), max(v)) for k, v in _grp.items() if len(v) >= 2 and max(v) >= 10 * min(v)), key=lambda x: -(x[2] / x[1]))
+        md += [f"- 同じ品目・区分・単位で、最大が最小の10倍以上の欄（桁のずれ）：{len(_mag)}欄。平均・中央値で丸めず、先に単位（千円・万円・百万円）と範囲（全社・1事業所・1人）の読み違いを元の表で確かめる（4-31・4-126）",
+               *(f"  - {k[0][:30]}／{k[1][:15]}：{lo:g}〜{hi:g}{k[2]}" for k, lo, hi in _mag[:5]), ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
