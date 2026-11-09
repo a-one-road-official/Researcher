@@ -1,0 +1,1509 @@
+{
+ "name": "Sapia",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T21:33:02.247080+00:00",
+ "official_url": "https://sapia.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "有料 無料枠 なし（有料のみ）",
+    "url": "https://aipicks.jp/tool/sapia-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Sapia.ai: AI Interview Platform for Enterprise Hiring",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Candidates, need help or support?",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational interviewing",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smarter retail hiring",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Better hiring for contact centres",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient aviation hiring",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient rail hiring",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality hiring for F&B roles",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fair, inclusive hiring",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your employer brand",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire people who stay longer.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire real people with real skills.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire people who belong.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Interviews built on the science of structured assessment. Loved by 10m+ candidates.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering brilliant hiring results for leading global brands",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“89% reduction in early churn | 47% reduction in time to hire”",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Former Head of Recruitment at Holland & Barrett",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“$179k saved in manual interview costs | 13 hours saved per recruiter weekly”",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Talent Acquisition at David Jones",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“70% reduction in time to hire | 33% reduction in cost to hire",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get to know every candidate at scale.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn any job into a structured interview built around what truly predicts success. Define the right competencies and questions, with every decision documented and defensible. Deploy direct to your ATS.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview every candidate",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give every candidate the chance to interview in their own words. Structured chat helps you assess everyone consistently, identify stronger candidates and give personalised feedback at scale.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See who stands out and understand why. Explore every score and candidate response with your Talent Intelligence Agent, so you can dig deeper and make confident decisions.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Graduate Recruitment Software | Sapia.ai",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Candidates, need help or support?",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational interviewing",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Smarter retail hiring",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Better hiring for contact centres",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient aviation hiring",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient rail hiring",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality hiring for F&B roles",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Fair, inclusive hiring",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your employer brand",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire for potential. Not a CV that doesn’t exist yet.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Graduates rarely have the experience to stand out on paper. Sapia.ai assesses the traits and competencies that actually predict future leaders — fairly, and at any volume.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview completion rate.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate satisfaction rating.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading graduate programs.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "“Sapia.ai has been a valuable tool for improving diversity, accessibility and efficiency in our hiring process.”",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "– Michael Eizenberg, Head of Qantas Group Talent Acquisition & Benefits",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Differentiate candidates without a CV.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "With limited work experience, graduate CVs rarely reveal meaningful differences. Sapia.ai’s chat interview asks five open-ended, competency-based questions — giving every graduate the chance to show potential a CV never could.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "One global telco interviewed 3,880 engineering graduates in just 37 days. Sapia.ai’s AI Smart Interviewer scores every candidate consistently, using a rules-based rubric built with your talent team — not a black box, and not “hire people who look like our best guy.”",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Sapia.ai integrates with your ATS for a seamless hiring experience.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to uplift your graduate hiring?",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing Agreement",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment Success Stories |Case Studies | Sapia",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Candidates, need help or support?",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational interviewing",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Smarter retail hiring",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Better hiring for contact centres",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient aviation hiring",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient rail hiring",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality hiring for F&B roles",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Fair, inclusive hiring",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your employer brand",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Former Head of Recruitment at Holland & Barrett",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Talent Acquisition at David Jones",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "– Michael Eizenberg, Head of Qantas Group Talent Acquisition & Benefits",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Finding cabin attendants who carry the culture",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Filling positions in retail can feel relentless. Dealing with open roles and constant churn means lost revenue and unhappy customers. With our automated interview process, Sapia can have you hiring and backfilled in less than 24 hours. And with a fair and inclusive interview process, your business diversity objectives are sorted.",
+    "url": "https://sapia.ai/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Finding cabin attendants who carry the culture",
+    "url": "https://sapia.ai/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Holland & Barrett Story",
+    "url": "https://sapia.ai/solutions/industry/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "– Ben Roberts, Head of Talent Acquisition, David Jones",
+    "url": "https://sapia.ai/solutions/industry/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/industry/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "“I think it is a far better way of interviewing. Some people being interviewed are highly anxious and this is a way of being kind to their potential employees.” –",
+    "url": "https://sapia.ai/solutions/industry/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/industry/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Build airline teams that carry your culture from cabin crew to ground staff with structured, fair hiring that scales.",
+    "url": "https://sapia.ai/solutions/industry/airline/",
+    "pass": 1
+   },
+   {
+    "quote": "– Robb Hart, Manager, Talent Acquisition, Lynx Air",
+    "url": "https://sapia.ai/solutions/industry/airline/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/industry/airline/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/airline/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/industry/rail/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/rail/",
+    "pass": 1
+   },
+   {
+    "quote": "Olivia Sarson, Global Head of Talent Acquisition, Costa Coffee",
+    "url": "https://sapia.ai/solutions/industry/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Store managers are running busy retail environments and hiring is one small part of a big job. Sapia.ai screens every candidate automatically, freeing up hours each week that used to go to reading CVs and running first interviews.",
+    "url": "https://sapia.ai/solutions/industry/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/industry/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/industry/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/use-case/volume-hiring/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/use-case/volume-hiring/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/use-case/professional-hiring/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/use-case/professional-hiring/",
+    "pass": 1
+   },
+   {
+    "quote": "Our data helps your company learn and improve. After using our Smart Interviewer, we can help hiring managers learn what good looks like, and help employees discover more about themselves with personalized insights and coaching tips. That’s a win for everyone.",
+    "url": "https://sapia.ai/solutions/use-case/internal-mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Simply invite existing employees to a Chat Interview, and instantly curate a shortlist of those aligned to your culture and values. No extra work from your team, and your talent pool is profiled, ready to shine.",
+    "url": "https://sapia.ai/solutions/use-case/internal-mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/use-case/internal-mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/use-case/internal-mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/use-case/diversity-hiring/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/use-case/diversity-hiring/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/solutions/use-case/candidate-experience-strategy-ai-recruitment-software/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/solutions/use-case/candidate-experience-strategy-ai-recruitment-software/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Sapia.ai is proud of its diverse and globally distributed team in Australia, UK and US. We are super passionate about building a talented workforce of individuals from different backgrounds, cultures and ethnicities. By building a strong remote workforce, we empower our employees to work their own hours and focus on outcomes.",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The chance to be part of a mission that could change the world!",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Being part of a team of hustlers",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "When I joined the company, I was able to see that Sapia.ai was on a mission to change the world, and I was excited to be part of it. Joining a start-up opened up so many doors for me and I’m exposed to so much more than my job role.",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The ability to engage auditors and engineers alike and influence teams to prioritise remediation, with AI tools as part of how you work every day",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't see your role listed here?",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Sapia.ai Unveils Phai™: A Mobile-First AI Career Coach for Job Seekers and Employees, Accessible via API (",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/sapia-press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "– Sapia.ai appoints Jarrod Magee as Chief Financial Officer (",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/sapia-press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Sapia.ai raises $17 million Series A funding round led by Macquarie Capital and W23, part of Woolworths Group (",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/sapia-press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/sapia-press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/sapia-press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "The Qantas Talent Acquisition team receive a ranked shortlist of the most promising candidates, who then progress to Assessment Centres.",
+    "url": "https://sapia.ai/resources/case-study/finding-future-leaders-at-qantas-fairly-brilliantly/qantas-finding-future-leaders-fairly-brilliantly/",
+    "pass": 1
+   },
+   {
+    "quote": "Michael Eizenberg, Head of Qantas Group Talent Acquisition & Benefits",
+    "url": "https://sapia.ai/resources/case-study/finding-future-leaders-at-qantas-fairly-brilliantly/qantas-finding-future-leaders-fairly-brilliantly/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading graduate programs.",
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by organizations around the world",
+    "url": "https://sapia.ai/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading retail brands.",
+    "url": "https://sapia.ai/solutions/industry/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s cashiers, warehouse team members, or store managers, our AI models match candidates perfectly to your ideal attributes and values. We create a structured chat interview with the questions needed to get that talent. You simply post a link to it in your job ad or insert into your ATS application.",
+    "url": "https://sapia.ai/solutions/industry/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading care organisations.",
+    "url": "https://sapia.ai/solutions/industry/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading airlines.",
+    "url": "https://sapia.ai/solutions/industry/airline/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading rail operators.",
+    "url": "https://sapia.ai/solutions/industry/rail/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by organisations and candidates",
+    "url": "https://sapia.ai/solutions/industry/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "See our Wolt case study here",
+    "url": "https://sapia.ai/solutions/use-case/candidate-experience-strategy-ai-recruitment-software/",
+    "pass": 1
+   },
+   {
+    "quote": "At Sapia.ai, we’re pioneering the future of ethical, AI-powered hiring. With millions of candidates engaging with our Chat Interview every year, we are redefining how talent is discovered, assessed, and nurtured. Our products are trusted by some of the world’s most innovative companies, and we’re just getting started.",
+    "url": "https://sapia.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Sapia Labs to Present World-Leading Research at Society for Industrial-Organisational Psychology (SIOP) Conference (",
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/sapia-press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/sapiaai/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "In retail, every potential applicant is a potential customer. So give them a positive experience and they’ll feel positive about your brand – even if they’re not hired.",
+    "url": "https://sapia.ai/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "A first-class experience to match your brand",
+    "url": "https://sapia.ai/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Every passenger has already met your brand. When cabin crew don’t fit, passengers notice. Sapia.ai identifies the soft skills and values that make great crew, so you hire based on what actually matters, not what looks good on a CV.",
+    "url": "https://sapia.ai/solutions/industry/airline/",
+    "pass": 1
+   },
+   {
+    "quote": "Your staff are your brand. Hire like it.",
+    "url": "https://sapia.ai/solutions/industry/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "When you’re hiring in high volumes, it’s all too easy to miss talent and ghost applicants. That’s not a good look for your brand. With Sapia.ai, every person is engaged, heard, and receives personalized insights. In a world of ghosting and poor candidate experience, you’re one of the few setting a shining example.",
+    "url": "https://sapia.ai/solutions/use-case/volume-hiring/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated, and personalized to your brand",
+    "url": "https://sapia.ai/solutions/use-case/candidate-experience-strategy-ai-recruitment-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything candidate-facing is personalized to your brand and your voice, so the whole experience is seamless.",
+    "url": "https://sapia.ai/solutions/use-case/candidate-experience-strategy-ai-recruitment-software/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "チャット面接の対応言語に日本語は含まれていません",
+    "url": "https://aipicks.jp/tool/sapia-ai",
+    "pass": 3
+   },
+   {
+    "quote": "一方で料金は非公開で、チャット面接の対応言語に日本語はありません",
+    "url": "https://aipicks.jp/tool/sapia-ai",
+    "pass": 3
+   },
+   {
+    "quote": "チャット面接の対応言語に日本語が含まれていない",
+    "url": "https://aipicks.jp/tool/sapia-ai",
+    "pass": 3
+   },
+   {
+    "quote": "チャット面接の対応言語に日本語は含まれないため、英語などで選考する企業が対象です",
+    "url": "https://aipicks.jp/tool/sapia-ai",
+    "pass": 3
+   },
+   {
+    "quote": "7-12 1-chome, Marunouchi, Chiyoda Ward, Tokyo [",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "2min Walk from Tokyo Station, 5min Walk from Otemachi Station",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "7-12 1-chome, Marunouchi, Chiyoda Ward, Tokyo",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "Find offices for lease in Marunouchi, Chiyoda Ward, Tokyo",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "2min Walk from “Tokyo“station",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "Office listings in Tokyo Station",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "17F Sapia Tower, 1-7-12 Marunouchi, Chiyoda-ku, Tokyo, 100-0005, Japan",
+    "url": "https://www.globallogic.com/about/locations/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Access MAP | Japan Bioindustry Association",
+    "url": "https://www.jba.or.jp/en/access.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia Tower 8F, 1-7-12, marunouchi Chiyoda-ku, Tokyo 100-0005 JAPAN",
+    "url": "https://www.jba.or.jp/en/access.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia Tower is north-east, right next to JR Tokyo Station.",
+    "url": "https://www.jba.or.jp/en/access.html",
+    "pass": 3
+   },
+   {
+    "quote": "- 1 min. walk from Nihonbashi Gate of Shinkansen or 2 min. walk from Yaesu North Gate of JR Tokyo Station",
+    "url": "https://www.jba.or.jp/en/access.html",
+    "pass": 3
+   },
+   {
+    "quote": "- Direct connection from B7 Exit of Otemachi Station, Tokyo Metro Tozai Line",
+    "url": "https://www.jba.or.jp/en/access.html",
+    "pass": 3
+   },
+   {
+    "quote": "A 35-story, approximately 166-meter tower completed in March 2007 and directly connected to JR Tokyo Station's Nihombashi Exit. The first building completed under JR East's Tokyo Station City redevelopment project, integrating offices, a conference center, and Hotel Metropolitan Marunouchi in a single stack.",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "East Japan Railway Company (JR East)",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "JR East Tokyo Construction Office / JR East Architectural Design Office",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "The First Building of Tokyo Station City",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "The name Sapia derives from the English word “sapience” — wisdom or knowledge. This reflects the guiding vision of Tokyo Station City, JR East’s ambitious programme to remake the station precinct into a hub of intellect, culture, and industry. During planning it was simply called the JR East Tokyo Station Nihombashi Exit Building.",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Station Marunouchi Building",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Building (TOKIA)",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "For hotels near Tokyo Station,",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "Books on Tokyo architecture & redevelopment",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都環境局「サピアタワー建物諸元（2020年11月現在）」所在地・用途・延床81,752㎡ https://www.kankyo.metro.tokyo.lg.jp/documents/d/kankyo/toplevel-certification-files-r2_sapiatower",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "JR東日本プレスリリース「東京ステーションシティ開発計画第一弾",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "日経不動産マーケット情報「東京駅前でサピアタワーが竣工、オフィスフロアは12社で満室に」2007年 https://nfm.nikkeibp.co.jp/atcl/fa/free/news/20070308/505185/",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "高さ166.18mは東京都環境局資料に基づく",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Station Marunouchi Building (Tokyo): The Truth Behind the Mysterious Mark｜坂口陽 建築家",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Station Marunouchi Building (Tokyo): The Truth Behind the Mysterious Mark",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At the time of its construction, it was not called Tokyo Station, but the 'Central Station'.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In 2000, a 'Specific Floor Area Ratio Application District' was established, allowing the unused floor area ratio at Tokyo Station to be",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "One of Japan's largest 'seismic isolation retrofits' has also been adopted.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can learn about the traces of an era when Japanese history was in turmoil in a place like this.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you visit Tokyo Station, it might be nice to take a little detour and try to feel the atmosphere of that time.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sapia.ai（サピアAI）とは？評判・料金・機能 — Oct 1, 2026 · Sapia.ai（サピアAI）の評判・料金・代替ツールを比較。 Sapia.aiは、応募者全員にテキストチャット形式の構造化面接を行い、回答からスキルや適性を評価して候補者を順位付けするオーストラリア発のAI面接プラットフォームです。",
+    "url": "https://aipicks.jp/tool/sapia-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia.ai: AI Interview Platform for Enterprise Hiring — Sapia.ai is a science-based AI chat interview platform designed for faster, more efficient, and fairer hiring.",
+    "url": "https://sapia.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI採用の未来を体験しよう！Sapia.aiの特徴と活用方法 — Feb 19, 2024 · Sapia.aiの創設者兼CEOであるボブ・ハイマンさんとのインタビューを通じて、AIの採用プロセスにおける倫理的な問題や課題について学びましょう。 無料トライアルやプラットフォームの導入方法も紹介します。",
+    "url": "https://www.toolify.ai/ja/ai-news-jp/ai採用未来体験sapiaai特徴活用方法-1349624",
+    "pass": 3
+   },
+   {
+    "quote": "Building information of SAPIA TOWER(Marunouchi, Chiyoda Ward ... — Sapia Tower is a skyscraper located in Marunouchi, Chiyoda-ku, Tokyo, and is only a 2-minute walk from JR Tokyo Station. 35 floors above ground and 4 floors below ground, the building was completed in 2007. The building has a café, a bank, and a clinic, providing an excellent office environment.",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "Access MAP | Japan Bioindustry Association — Jan 7, 2012 · Please take the lift or escalator up to the front desk on the 3rd floor of Sapia Tower to receive the entrance card. Sapia Tower is north-east, right next to JR Tokyo Station.",
+    "url": "https://www.jba.or.jp/en/access.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia Tower | Completed 2007, 166m | Chiyoda City office tower — The name Sapia derives from the English word “sapience” — wisdom or knowledge. This reflects the guiding vision of Tokyo Station City, JR East’s ambitious programme to remake the station precinct into a hub of intellect, culture, and industry.",
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories Archives | Sapia.ai — Oct 15, 2025 · See how brands improve speed, quality, and candidate love with Sapia.ai—complete with metrics, playbooks, and lessons you can copy tomorrow. Customer results with Sapia.ai—faster hiring, higher quality, happier candidates.",
+    "url": "https://sapia.ai/category/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Recruitment Success Stories |Case Studies | Sapia — Discover how AI simplifies recruitment and boosts quality of hire with Sapia.ai's case studies. See how Sapia helped the global enterprise brands hire faster and fairer.",
+    "url": "https://sapia.ai/resources/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia.ai B2B Case Studies & Customer Successes — See how Sapia.ai solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/sapiaai",
+    "pass": 3
+   },
+   {
+    "quote": "18 Sapia.ai Case Studies, Success Stories, & Customer StoriesMarch Case Study Download - Sapia.aiCase Study: Starbucks Australia doubles recruitment capacity ...AI Customer Stories and Examples | SAP Business AI — Narrow down 16 case studies by company size & industry to find out how Sapia.ai works for a business like yours. Which case studies are you interested in reading ? Find better people, fa",
+    "url": "https://www.featuredcustomers.com/vendor/sapiaai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "March Case Study Download - Sapia.ai — Which case studies are you interested in reading ? Find better people, faster.",
+    "url": "https://content.sapia.ai/casestudydownload",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please note: If you contact us after business hours, we will respond on the next business day.",
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/sapiaai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/sapiaai/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Tokyo Station Marunouchi Building (Tokyo): The Truth Behind ... Mar 5, 2021 · In 2007, the Sapia Tower was built at the Nihonbashi Exit. Restoration work began in the same year, and in 2012, it was restored to its original appearance at the time of its founding.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Tokyo Station Marunouchi Building (Tokyo): The Truth Behind the Mysterious Mark｜坂口陽 建築家",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Station Marunouchi Building (Tokyo): The Truth Behind the Mysterious Mark",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was planned to be a monument to the Meiji state on December 20, 1914.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The architect was Kingo Tatsuno, and the construction was carried out by Obayashi Corporation.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At the time of its construction, it was not called Tokyo Station, but the 'Central Station'.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The facade, with its red brick color and horizontal and vertical white stone lines, is also known as the Tatsuno style.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It has been used while undergoing changes, such as being partially destroyed by air raids during World War II.",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In 2000, a 'Specific Floor Area Ratio Application District' was established, allowing the unused floor area ratio at Tokyo Station to be",
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Michael Sapia (@sapiascience) / X Jul 7, 2014 · Oct 18, 2024 Me getting ready to watch Alabama Football every Saturday: 68 Michael Sapia @sapiascience Oct 19, 2024",
+    "url": "https://x.com/sapiascience",
+    "pass": 3
+   },
+   {
+    "quote": "Marina Sapia (@msapia24) / X \"No deal with Iran better than a bad deal\" says #ElliottAbrams former #US #Iran envoy for @ realDonaldTrump - interview by Marina Sapia youtu.be/XEwEqlrabOw?si… via @ YouTube @ Tg1Rai",
+    "url": "https://x.com/msapia24",
+    "pass": 3
+   },
+   {
+    "quote": "sapia (@sapia22) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia sapia @sapia22 Dec 14, 2014 イングレス誘われてやってみたけど周りになにもなかった (･ω･)",
+    "url": "https://x.com/sapia22",
+    "pass": 3
+   },
+   {
+    "quote": "Fabrizio Sapia (@FabrizioSapia) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned Fabrizio Sapia @FabrizioSapia Dec 21, 2025",
+    "url": "https://x.com/FabrizioSapia",
+    "pass": 3
+   },
+   {
+    "quote": "紗pia さぴあ (@rozesapia) / Posts / X Jul 8, 2016 · 紗pia🐰さぴあ (@rozesapia) - Posts - うさぎの水彩画や絵本を描いています🐰 宝石・植物・ゴスロリ・お菓子モチーフが好き💕制作過程や新作、展示会情報を投稿しています ★リンク集 potofu.me/sapia | X (formerly Twitter)",
+    "url": "https://x.com/rozesapia",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sapia Group | Bagheria - FacebookSapia.ai | Melbourne VIC - FacebookSapia | Clearwater FL - FacebookSapia Profiles - FacebookSAPIAmachine macchine panifici forni e attrezzature - FacebookSapia Builders | Old Lyme CT - FacebookSapia Wedding | Hanoi - Facebook Oct 29, 2026 · Benvenuti nel mondo Sapia Da oltre 50 anni siamo al vostro fianco per offrirvi il meglio della moda multibrand. Jun 11, 2026 ·",
+    "url": "https://www.facebook.com/GROUPSAPIA/",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia.ai | Melbourne VIC - FacebookSapia | Clearwater FL - FacebookSapia Profiles - FacebookSAPIAmachine macchine panifici forni e attrezzature - FacebookSapia Builders | Old Lyme CT - FacebookSapia Wedding | Hanoi - Facebook Jun 11, 2026 · Sapia.ai, Melbourne. 635 likes · 5 talking about this. Sapia.ai is your co-pilot in hiring. Making interviews fast, effective, and fairer. Jun 9, 2026 · Sapia,",
+    "url": "https://www.facebook.com/SapiaAi/",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia | Clearwater FL - FacebookSapia Profiles - FacebookSAPIAmachine macchine panifici forni e attrezzature - FacebookSapia Builders | Old Lyme CT - FacebookSapia Wedding | Hanoi - Facebook Jun 9, 2026 · Sapia, Clearwater. 4,223 followers · 2 talking about this · 13 were here. Sapia the Barber ! Owner of Sapia's Barbershop View the profiles of people named Sapia. Join Facebook to connect with Sap",
+    "url": "https://www.facebook.com/tinasapia/",
+    "pass": 3
+   },
+   {
+    "quote": "Sapia Profiles - Facebook View the profiles of people named Sapia. Join Facebook to connect with Sapia and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/public/Sapia/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sapia.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/industry/graduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/resources/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/industry/retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/industry/healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/industry/airline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/industry/rail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/industry/food-and-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/use-case/volume-hiring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/use-case/professional-hiring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/use-case/internal-mobility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/use-case/diversity-hiring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/solutions/use-case/candidate-experience-strategy-ai-recruitment-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/about-sapia-ai-recruitment-software/sapia-press-releases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/resources/case-study/finding-future-leaders-at-qantas-fairly-brilliantly/qantas-finding-future-leaders-fairly-brilliantly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/resources/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sapia.ai/resources/case-study/woolworths/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aipicks.jp/tool/sapia-ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toolify.ai/ja/ai-news-jp/ai%E6%8E%A1%E7%94%A8%E6%9C%AA%E6%9D%A5%E4%BD%93%E9%A8%93sapiaai%E7%89%B9%E5%BE%B4%E6%B4%BB%E7%94%A8%E6%96%B9%E6%B3%95-1349624",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://global.honda/jp/news/2026/4260305b.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAP%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.office-navi.jp/building/02035289/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globallogic.com/about/locations/japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jba.or.jp/en/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtjapan.com/en/buildings/sapia-tower/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sapiaai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/sapiaai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sap.com/partners/partner-program.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sapiascience",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/msapia24",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sapia22",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FabrizioSapia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GROUPSAPIA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SapiaAi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tinasapia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Sapia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sapia22",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rozesapia",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sapia 日本 導入",
+   "results": [
+    "https://aipicks.jp/tool/sapia-ai",
+    "https://sapia.ai/",
+    "https://www.toolify.ai/ja/ai-news-jp/ai採用未来体験sapiaai特徴活用方法-1349624",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://www.nomura-system.co.jp/contents/sap-dounyukigyou/",
+    "https://news.sap.com/japan/2026/09/29800/",
+    "https://spaia.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sapia 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SAPジャパン",
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.sap.com/japan/about.html",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Sapia Japan",
+   "results": [
+    "https://en.office-navi.jp/building/02035289/",
+    "https://www.globallogic.com/about/locations/japan/",
+    "https://www.jba.or.jp/en/access.html",
+    "https://builtjapan.com/en/buildings/sapia-tower/",
+    "https://www.japex.co.jp/en/company/organization/offices/",
+    "https://www.japex.co.jp/en/company/overview/access/",
+    "https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2836.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sapia manufacturing customer case study",
+   "results": [
+    "https://sapia.ai/category/customer-stories/",
+    "https://sapia.ai/resources/case-study/",
+    "https://www.casestudies.com/company/sapiaai",
+    "https://www.featuredcustomers.com/vendor/sapiaai/case-studies",
+    "https://content.sapia.ai/casestudydownload",
+    "https://www.casestudies.com/company/sapiaai/case-study/starbucks-australia-customer-case-study",
+    "https://www.sap.com/products/artificial-intelligence/customer-stories.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sapia white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.nextiva.com/company/partners",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sapia founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Sapia",
+   "results": [
+    "https://note.com/ars_sapia/n/n3347b79d5eff?hl=en",
+    "https://note.com/ars_sapia",
+    "https://note.com/ars_sapia/n/n3347b79d5eff",
+    "https://note.com/yosaka_arch/n/n99a3f5291fba?hl=en",
+    "https://note.com/emilai_inc/n/n98968cd03ef3?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sapia",
+   "results": [
+    "https://x.com/sapiascience",
+    "https://x.com/msapia24",
+    "https://x.com/sapia22",
+    "https://x.com/FabrizioSapia",
+    "https://x.com/sapianetworks",
+    "https://x.com/SapiaMKIII",
+    "https://x.com/otisal"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sapia",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Sapia",
+   "results": [
+    "https://www.facebook.com/GROUPSAPIA/",
+    "https://www.facebook.com/SapiaAi/",
+    "https://www.facebook.com/tinasapia/",
+    "https://www.facebook.com/public/Sapia/",
+    "https://www.facebook.com/sapiaforni/",
+    "https://www.facebook.com/sapiabuilders/",
+    "https://www.facebook.com/sapiawedding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sapia note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.com/sadaaki",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sapia X 投稿",
+   "results": [
+    "https://x.com/sapia22",
+    "https://x.com/rozesapia",
+    "https://sapocia.com/",
+    "https://vtuber-matomeruyon.blog.jp/archives/30671253.html",
+    "https://www.syakouba.com/album/?c=all",
+    "https://www.xvideos.com/tags/素人-投稿",
+    "https://note.com/jazzywada/n/n4caf3c587ecc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

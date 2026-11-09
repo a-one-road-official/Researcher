@@ -1,0 +1,1432 @@
+{
+ "name": "Richpanel",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T21:47:05.025170+00:00",
+ "official_url": "https://richpanel.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$7M",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Sep-2020 $2.5M $2.5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Without hiring a single agent.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The implementation was pretty immediate, which actually shocked me. It just went off without a hitch.”",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The preferred platform for",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We test AI on your past tickets and policies before it replies to customers. Your team can approve replies and actions first. When you’re ready, let AI handle the tasks you choose on its own.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You choose which actions need approval. Sensitive replies get an extra check. If AI has no instructions, it asks a person for help. AI checks every closed conversation and flags repeat problems. You approve changes before they go live.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We move your data, connect your tools, write your support steps and train your team. You share your policies, review the setup and approve the launch. Your current helpdesk stays live until you’re ready.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How do you protect our customer data?",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Independent experts check Richpanel against SOC 2 Type II, HIPAA and GDPR standards. Your data is encrypted when stored and sent. You control who can access it. See our audit reports and security details in the Trust Center.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery, subscriptions, returns and product questions close end to end, with no human touch.",
+    "url": "https://www.richpanel.com/case-studies/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "The first miss was tagging, not a reply. An approved tag list fixed it, and reporting came back clean.",
+    "url": "https://www.richpanel.com/case-studies/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery, subscriptions, returns and product questions. 63% of conversations need no human touch.",
+    "url": "https://www.richpanel.com/case-studies/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "From Aeons’ live Richpanel reporting, a 42-day window ending May 26, 2026. Reviewed and approved by Aeons.",
+    "url": "https://www.richpanel.com/case-studies/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Protect the experience.",
+    "url": "https://www.richpanel.com/case-studies/ridge",
+    "pass": 1
+   },
+   {
+    "quote": "Exceptions and premium conversations stay with the team.",
+    "url": "https://www.richpanel.com/case-studies/ridge",
+    "pass": 1
+   },
+   {
+    "quote": "Plateful expected months of training. It went live on July 1 and closed 49% by July 3.",
+    "url": "https://www.richpanel.com/case-studies/plateful",
+    "pass": 1
+   },
+   {
+    "quote": "Product questions & issues",
+    "url": "https://www.richpanel.com/case-studies/plateful",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your support without hiring more agents.",
+    "url": "https://www.richpanel.com/case-studies/plateful",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel Pricing | Customer Service Software for E-Commerce",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Select the product to view pricing",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that works for you. Pay only for what you use.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus:",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, and:",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro Max, and:",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All features, automations & AI with a fair price.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise efficiency.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Try our pricing calculator",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Help Desk Pricing feature table",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Social Media Moderator AI",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize agent productivity by automating all the redundant, repetitive tasks.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create custom ticket fields and customer profile fields depending on your specific use case.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Portal Pricing feature table",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Product recommendations",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customer profile fields",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contract buyout program",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly hides brand damaging content, and engages buyers by responding to comments 24x7. Works on organic and paid posts.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Always on, protect your brand even when you're offline",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt AI to draft contextual responses within seconds",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Summarizes conversations for easy thread comprehension",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your plan and get an instant price estimate",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "on hiring costs saved",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "It's now automatically handling over half of all customer support requests that previously required manual attention.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel transformed our customer support across Paleovalley and Wild Pastures —consolidating multiple channels, reducing response times, and improving CSAT.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel Partner Program | Build an AI support practice",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI Manager reads the business and builds the agent. That build is your margin.",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Every path protects the deal and pays for as long as the account runs.",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Make the introduction. We prove it, close it and support it. You earn every month.",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Live proof on their real tickets, the migration, and the security call. All ours.",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "They approve, then we switch",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "About Richpanel | AI You Can Trust in Production",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Any frontier model can produce polished language. Production AI needs the right context, test cases, policies, permissions, tools, quality review, and a clear boundary for human judgment.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Test. Act within bounds. Review. Improve. Escalate.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel turns a general-purpose model into an operational CX agent your team can inspect, control, and improve.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "A second AI reviews every closed conversation, finds knowledge and tool-call gaps, and turns misses into specific improvements.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "When a request falls outside the rules or needs judgment, Richpanel stops and hands it to the team instead of improvising.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "No responsible vendor should promise that a generative model will never be wrong. Our objective is to drive mistakes toward zero and prevent uncertain answers from reaching customers.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel was founded in 2020, is profitable, and is backed by Sequoia Capital. Our product team works directly with the operators responsible for customer experience.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "You can showcase different questions and provide different replies if the order contains a specific SKU, a specific tag, if the order is fulfilled/unfulfilled, and so much more….",
+    "url": "https://www.richpanel.com/self-service",
+    "pass": 1
+   },
+   {
+    "quote": "Book a demo and see how easy it is to reduce costs, improve CSAT, and love your Helpdesk again. Remember, if we don’t deliver results, you get a full refund!",
+    "url": "https://www.richpanel.com/self-service",
+    "pass": 1
+   },
+   {
+    "quote": "At Richpanel, we pride ourselves on assembling an incredibly talented team, dedicated to crafting outstanding products and upholding an exceptional work ethic.",
+    "url": "https://www.richpanel.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel Pricing Calculator | Customer Service Software for E-Commerce",
+    "url": "https://www.richpanel.com/pricing/calculator",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Richpanel AI sounds like your brand.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Always on, protect your brand even when you're offline",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customizable AI personality to best resonate with your brand",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel Partner Program | Build an AI support practice",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email, chat, SMS, WhatsApp, Instagram, Facebook and TikTok.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Both. Your team and AI agents share one platform, with the same customer details, rules and tools. It covers email, chat, social and phone, and AI answers on every one.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, chat, SMS, WhatsApp, Instagram, Facebook, TikTok and phone, all in one inbox. The AI answers on every one, phone calls included. Keeping Aircall, Dialpad or JustCall? They connect too.",
+    "url": "https://www.richpanel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Routine email runs alone.",
+    "url": "https://www.richpanel.com/case-studies/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Email, Social and Chat from one app.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Chat & Social channels",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Manage email, live chat, SMS, phone, Facebook, Instagram and reviews from one inbox.",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Live chat",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Social, Live chat",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Website and email updates to increase self-service adoption",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, chat, SMS, social and the phone tools they already pay for.",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "partnerships@richpanel.com",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "*Average self-service rate on live chat, help center and SMS. Excluding email and phone tickets.",
+    "url": "https://www.richpanel.com/self-service",
+    "pass": 1
+   },
+   {
+    "quote": "Website and email updates to increase self-service adoption",
+    "url": "https://www.richpanel.com/self-service",
+    "pass": 1
+   },
+   {
+    "quote": "One channel at a time. Chat went first, then email, watched at every step.",
+    "url": "https://www.richpanel.com/case-studies/pique",
+    "pass": 1
+   },
+   {
+    "quote": "Routine chat and email moved to AI. People kept the exceptions.",
+    "url": "https://www.richpanel.com/case-studies/pique",
+    "pass": 1
+   },
+   {
+    "quote": "web, SMS, email, and Facebook",
+    "url": "https://www.richpanel.com/customers/z-natural-foods",
+    "pass": 1
+   },
+   {
+    "quote": "email, web, SMS (via Attentive), and Facebook",
+    "url": "https://www.richpanel.com/customers/z-natural-foods",
+    "pass": 1
+   },
+   {
+    "quote": "support emails flooded in",
+    "url": "https://www.richpanel.com/customers/bumpboxx",
+    "pass": 1
+   },
+   {
+    "quote": "—whether customers reach out via email, chat, or social.",
+    "url": "https://www.richpanel.com/customers/bumpboxx",
+    "pass": 1
+   },
+   {
+    "quote": "Presence across multiple channels: email, phone, SMS, Facebook & Instagram",
+    "url": "https://www.richpanel.com/customers/thinx",
+    "pass": 1
+   },
+   {
+    "quote": "Unified inbox for SMS, email, Facebook, Instagram & phone",
+    "url": "https://www.richpanel.com/customers/thinx",
+    "pass": 1
+   },
+   {
+    "quote": "Facebook, Instagram, SMS, email, and phone queries now flow into one Richpanel inbox. No more tab-hopping. No more “sorry, someone else said something different.”",
+    "url": "https://www.richpanel.com/customers/thinx",
+    "pass": 1
+   },
+   {
+    "quote": "One unified inbox brought together SMS, email, Instagram, Facebook, and phone—eliminating channel silos and confusion",
+    "url": "https://www.richpanel.com/customers/thinx",
+    "pass": 1
+   },
+   {
+    "quote": "`analytics.identify(&#39;userId123&#39;, { email: &#39;john.doe@example.com&#39;, firstName: &#39;John&#39; });` この`identify`コールはRichpanel内で顧客プロファイルを作成または更新します",
+    "url": "https://skywork.ai/skypage/ja/richpanel-ai-customer-support/1984157071663505408",
+    "pass": 3
+   },
+   {
+    "quote": "AppLovin vs. Meta | TikTok's Prime Day Killer | Seguno: Make Emails in Sidekick",
+    "url": "https://www.toolmage.com/ja/tool/richpanel/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage customer conversations from Facebook, Instagram, email, and live chat from one place.",
+    "url": "https://apps.apple.com/jp/app/richpanel/id1612931297",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/richpanel/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/richpanel/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "One cancel request at Plateful touches its CRM, Shopify and the warehouse. The AI checks all 3, offers 30% back and keeps the order.",
+    "url": "https://www.richpanel.com/case-studies/plateful",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel was founded in 2020, is profitable, and is backed by Sequoia Capital. Our product team works directly with the operators responsible for customer experience.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel started in 2020, is used by over 2,000+ brands and is funded by Sequoia.",
+    "url": "https://www.richpanel.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce Customer Service Case Study | Richpanel",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "From Siloed Tools to Full CX Control: Bicycle Warehouse Cut First Response Times to 7 Minutes",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Richpanel | Customer Case Study",
+    "url": "https://www.factors.ai/customers/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/richpanel/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Plastics Manufacturing",
+    "url": "https://www.casestudies.com/company/richpanel",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue & CSAT Reporting",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue from Agents Reports",
+    "url": "https://www.richpanel.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The opportunity stays yours. Recurring revenue for as long as the account is live.",
+    "url": "https://www.richpanel.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Support-driven revenue",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Ridge Scaled Support, Boosted Revenue by $2.1M, and Saved $500K — While Lowering Headcount",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue generated from Support",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Jones Road Beauty Automated 46% of Support & Added $1.5M in Revenue — Without Hiring More Agents",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations to Revenue",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations To Revenue",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Z Natural Foods Automated 70% of Support & Drove 12% of Conversations to Revenue",
+    "url": "https://www.richpanel.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations to Revenue",
+    "url": "https://www.richpanel.com/customers/alaskan-king-crab",
+    "pass": 1
+   },
+   {
+    "quote": "Z Natural Foods Automated 70% of Support & Drove 12% of Conversations to Revenue",
+    "url": "https://www.richpanel.com/customers/z-natural-foods",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations To Revenue",
+    "url": "https://www.richpanel.com/customers/z-natural-foods",
+    "pass": 1
+   },
+   {
+    "quote": "Repeat buyers made up the majority of revenue",
+    "url": "https://www.richpanel.com/customers/z-natural-foods",
+    "pass": 1
+   },
+   {
+    "quote": "12% of support conversations now drive revenue",
+    "url": "https://www.richpanel.com/customers/z-natural-foods",
+    "pass": 1
+   },
+   {
+    "quote": "AI Employees: 定型的な問い合わせを最初から最後まで自律的に処理するために設計されたAIエージェント",
+    "url": "https://skywork.ai/skypage/ja/richpanel-ai-customer-support/1984157071663505408",
+    "pass": 3
+   },
+   {
+    "quote": "現在の「AI Sidekick」は、より自律的な「AI Employees」へと進化し、将来的には顧客が問題を認識する前に解決策を提示する「プロアクティブ（予見的）サポート」の実現も視野に入ってくるでしょう",
+    "url": "https://skywork.ai/skypage/ja/richpanel-ai-customer-support/1984157071663505408",
+    "pass": 3
+   },
+   {
+    "quote": "TUMI・UGG・Crate & Barrelなどのプレミアムなリテールブランドが、高関与・関係重視のサポートに活用しています",
+    "url": "https://www.eesel.ai/ja/blog/richpanel-daian",
+    "pass": 3
+   },
+   {
+    "quote": "The LinkedIn Revenue Engine: 850+ B2B companies and 50,000 closed-deals analyzed",
+    "url": "https://www.factors.ai/customers/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/richpanel/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel Revenue 2024: $4M, $7M Raised",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel is a usage-based customer support software company serving ecommerce brands, founded in December 2019 and headquartered with its first customer acquired in March 2020.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel's annual revenue was $4M in November 2024 (starterstory.com), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": ", level with 12 others. The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "All 7 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "How Richpanel Reached $2M Revenue and 200 Customers by End of 2022 (Interview with CEO Amit RG)",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel competes most directly with Intercom, Gorgias and Help Scout. It is the smallest of the four by revenue.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel CEO, founders & employees",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Amit RG founded Richpanel in 2019 and runs it as CEO. Richpanel had 32 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "What is Richpanel's revenue?",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel's annual revenue was",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Richpanel have?",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel has 32 total employees.",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   },
+   {
+    "quote": "What is Richpanel’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Richpanel is",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Richpanel — AI support + helpdesk for ecommerce — Your current helpdesk stays live until Richpanel is ready. What if we use custom tools or need help with SOPs? We handle that too. Your implementation manager writes your support steps (SOPs) and connects your tools, including custom ones. We use your past tickets and policies, then test everything with your team before launch.",
+    "url": "https://www.richpanel.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel徹底解説：AI時代の顧客サポートを革新するツール — Nov 3, 2025 · 主要ヘルプデスクツール機能比較 Richpanel vs. Gorgias Richpanel vs. Zendesk Richpanel実践活用ガイド：導入からAI活用までの5ステップ ステップ1：スムーズな移行とセットアップ ステップ2：1時間以内のチームトレーニング ステップ3：セルフサービス・ポータルの構築",
+    "url": "https://skywork.ai/skypage/ja/richpanel-ai-customer-support/1984157071663505408",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のRichpanel代替ツール8選（実測・料金比較付き） | eesel AI — Jun 23, 2026 · 2026年のRichpanel代替ツールを価格・AI課金・ECへの適合性で比較。既存ヘルプデスクにAIを追加する方法も解説します。",
+    "url": "https://www.eesel.ai/ja/blog/richpanel-daian",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel：Eコマース向けAI搭載カスタマーサービスプラットフォーム ... — Aug 14, 2025 · Richpanelは、Eコマースブランド向けに設計されたAIファーストのカスタマーサービスプラットフォームです。 自律型AIエージェント、包括的なセルフサービスポータル、統合受信トレイを活用し、サポートコストとチケット数を30%削減することを保証します。",
+    "url": "https://www.toolmage.com/ja/tool/richpanel/",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel - toolin.ai — Richpanelが対応するECプラットフォーム連携は？ Shopify、Magento、WooCommerce、TikTok Shopなどの主要ストアフロントと深く統合され、Klaviyo、Loop Returns、AfterShipなどのマーケティング・物流システムともシームレスに接続できます。",
+    "url": "https://toolin.ai/ja/tools/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "About Richpanel | AI You Can Trust in Production — Richpanel was founded in 2020, is profitable, and is backed by Sequoia Capital. Our product team works directly with the operators responsible for customer experience.",
+    "url": "https://www.richpanel.com/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel - LinkedIn — AI First CX Platform trusted by over 3,000 brands. Richpanel is a customer support platform built for ecommerce. We power customer support for 2,000+ teams, including many 9-figure brands, and...",
+    "url": "https://www.linkedin.com/company/richpanel/",
+    "pass": 3
+   },
+   {
+    "quote": "「Richpanel」をApp StoreでRichpanelRichpanel - 2026 Company Profile & Team - TracxnRichpanel AI｜EC向け統合型カスタマーサポートプラットフォーム — Richpanel helps brands like Thinx, Pawz, Protein Works, and 1500+ DTC brands deliver stellar customer service with tools like Live Chat, Multichannel Inbox & powerful Self-Service widget. It looks like you've been inactive for a while so we exited you from the Richpanel app. You c",
+    "url": "https://apps.apple.com/jp/app/richpanel/id1612931297",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel — It looks like you've been inactive for a while so we exited you from the Richpanel app. You can resume at any time.",
+    "url": "https://app.richpanel.com/user/login",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: AI Support Results | Richpanel — Customer stories. Measurable results. See how brands cut support costs and reduce ticket volume with Richpanel.",
+    "url": "https://www.richpanel.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel | Customer Case Study - Factors — Richpanel helps D2C merchants build an Amazon-like self-service portal in minutes and help resolve 50% of customer queries without involving agents. Over 1500 eCommerce businesses use Richpanel to deliver world-class customer experience effortlessly by making customer service easy for both the agents and customers.",
+    "url": "https://www.factors.ai/customers/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "5 Richpanel Case Studies, Success Stories, & Customer Stories — Narrow down 5 case studies by company size & industry to find out how Richpanel works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/richpanel/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel B2B Case Studies & Customer Successes — See how Richpanel solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Pique achieves 37% AI support closure with Richpanel — To address this, Pique implemented Richpanel, an AI-native customer service platform. The solution was implemented by Richpanel in three stages: manual training, a copilot phase for review, and finally autonomous handling of routine chat and email.",
+    "url": "https://www.casestudies.com/company/richpanel/case-study/pique-closes-about-37-of-support-with-richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel – Overview – Funding, Revenue & Growth – 2026 — Discover Richpanel's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel Revenue 2024: $4M, $7M Raised - LATKA — Oct 7, 2026 · Richpanel 2024 revenue: $4M. Valuation (2023): $35M. Total funding: $7M across 2 rounds. 200 customers, 32 employees. Founded 2019. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel - 2026 Company Profile, Team, Funding & Competitors ... — Jan 21, 2026 · Richpanel - About the company Richpanel is a seed company based in San Jose (United States), founded in 2018 by Amit R G and G D J Dorai. It operates as a Live chat and help desk software for e-commerce. Richpanel has raised an undisclosed amount in funding from Surge.",
+    "url": "https://tracxn.com/d/companies/richpanel/__zjfBCqOxnwgT0oCx9p_TOHeFNWD_Sz4gkB-x9z2CzTY",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel 2026 Company Profile: Valuation, Funding ...Richpanel - Crunchbase Company Profile & FundingRichpanel - Overview, News & Similar companies | ZoomInfo.comRichpanel — Company Profile, Funding & Investors — Information on valuation, funding, cap tables, investors, and executives for Richpanel. Use the PitchBook Platform to explore the full profile. Richpanel is an Ecommerce Customer Support",
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel - Crunchbase Company Profile & FundingRichpanel - Overview, News & Similar companies | ZoomInfo.comRichpanel — Company Profile, Funding & Investors — Richpanel is an Ecommerce Customer Support and Experience Platform that helps data-first enterprises to deliver richer, more personalized experiences. Richpanel is a support CRM that integrates deeply with your ecommerce store to create sea",
+    "url": "https://www.crunchbase.com/organization/richpanel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Richpanel (@Richpanel) / Posts / X Introducing Richpanel Sidekick: A powerful AI assistant that learns from past interactions and mimics the best agents, ensuring everyone responds with the same expertise as your top agent.",
+    "url": "https://x.com/richpanel",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Richpanel (@Richpanel) / X It's here! 🤩 Check out the BFCM playbook for #ecommerce CX teams to help you level up your #customerexperience without burning out, ft. expert advice from our team plus our partners at @Richpanel, @LTVplus and @GetOkendo. 👇",
+    "url": "https://x.com/richpanel/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Richpanel (@Richpanel) / X Make Richpanel the company every CX leader knows before they need us.Richpanel is the AI-native helpdesk. We replace the old helpdesk and the next few support hires.We are profitable, backed by...",
+    "url": "https://x.com/Richpanel/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "The best ecommerce insights don’t come from webinars. They ... Richpanel (@Richpanel). 38 views. The best ecommerce insights don’t come from webinars. They come from operators comparing notes. Hear from CXOs at Ridge, HexClad, Jones Road, Pela, Simple Modern, Common Thread, and more to do exactly that. June 25.",
+    "url": "https://x.com/Richpanel/status/2064090066159558696",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel (@Richpanel) / Posts / X Richpanel is a podcast sponsor, but this is not a sponsored post. I appreciate anyone willing to fly to meet customers in person and Amit and team have been incredible supporting JRB as partners.",
+    "url": "https://x.com/richpanel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Richpanel - FacebookRichpanel | customer | Richpanel's Robust Self-service flows ...I'm having trouble with my Richpanel integration due to Meta ...Richpanel - \"U.S. companies lose an average of $62 billion ...Richpanel - And now, we have finally heard your product...Richpanel - Richpanel.com is shortlisted for YC W2020 ...Moda AI Club | I didn't want to pay the price Richpanel ... May 18, 2022 · ",
+    "url": "https://www.facebook.com/RichpanelCompany/",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel | customer | Richpanel's Robust Self-service flows ... Richpanel's Robust Self-service flows and Macros helps you provide faster resolutions. Manage all your support channel in one place & improve overall customer experience.",
+    "url": "https://www.facebook.com/RichpanelCompany/videos/richpanel/519272213285366/",
+    "pass": 3
+   },
+   {
+    "quote": "I'm having trouble with my Richpanel integration due to Meta ... I have Richpanel set as the default routing app but I have been having some trouble getting this fully set up where \"Meta Biz AI\" is no longer set as the thread owner on your Facebook Page but Richpanel is instead.",
+    "url": "https://developers.facebook.com/community/threads/27694720283503161/",
+    "pass": 3
+   },
+   {
+    "quote": "Richpanel - \"U.S. companies lose an average of $62 billion ... Jul 29, 2019 · \"U.S. companies lose an average of $62 billion annually due to poor customer service.\" 😱😱 https://richpanel.com/ecommerce-customer-service #ecommerce...",
+    "url": "https://www.facebook.com/RichpanelCompany/posts/us-companies-lose-an-average-of-62-billion-annually-due-to-poor-customer-service/570369356827555/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "I'm having trouble with my Richpanel integration due to Meta Biz AI. Can you help me set them as the thread owner for my page? - 開発者コミュニティフォーラム - Meta for Developers",
+    "url": "https://developers.facebook.com/community/threads/27694720283503161/",
+    "pass": 3
+   },
+   {
+    "quote": "I'm having trouble with my Richpanel integration due to Meta Biz AI. Can you help me set them as the thread owner for my page?",
+    "url": "https://developers.facebook.com/community/threads/27694720283503161/",
+    "pass": 3
+   },
+   {
+    "quote": "I have Richpanel set as the default routing app but I have been having some trouble getting this fully set up where \"Meta Biz AI\" is no longer set as the thread owner on your Facebook Page but Richpanel is instead. Richpanel told me to get in touch with Meta Support and the team pointed me here.",
+    "url": "https://developers.facebook.com/community/threads/27694720283503161/",
+    "pass": 3
+   },
+   {
+    "quote": "Just wanted to follow up and see if anyone can help with this?",
+    "url": "https://developers.facebook.com/community/threads/27694720283503161/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Richpanel - LinkedIn Richpanel is a customer support platform built for ecommerce. We power customer support for 2,000+ teams, including many 9-figure brands, and we’re backed by Sequoia.",
+    "url": "https://www.linkedin.com/company/richpanel/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.richpanel.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/case-studies/wellness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/case-studies/ridge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/case-studies/plateful",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/self-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/pricing/calculator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/case-studies/pique",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/customers/alaskan-king-crab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/customers/z-natural-foods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/customers/bumpboxx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/customers/thinx",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.richpanel.com/marketing/logos/aeons.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.richpanel.com/marketing/logos/g2.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.richpanel.com/marketing/logos/shopify.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.richpanel.com/marketing/logos/ridge.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.richpanel.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skywork.ai/skypage/ja/richpanel-ai-customer-support/1984157071663505408",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/richpanel-daian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/richpanel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/richpanel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apps.apple.com/jp/app/richpanel/id1612931297",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richpanel.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factors.ai/customers/richpanel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/richpanel/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/richpanel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/richpanel",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/richpanel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/richpanel/__zjfBCqOxnwgT0oCx9p_TOHeFNWD_Sz4gkB-x9z2CzTY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/242569-09",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/richpanel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/richpanel/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Richpanel/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Richpanel/status/2064090066159558696",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RichpanelCompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RichpanelCompany/videos/richpanel/519272213285366/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/community/threads/27694720283503161/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/RichpanelCompany/posts/us-companies-lose-an-average-of-62-billion-annually-due-to-poor-customer-service/570369356827555/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/richpanel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/richpanel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/richpanel/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Richpanel 日本 導入",
+   "results": [
+    "https://www.richpanel.com/",
+    "https://skywork.ai/skypage/ja/richpanel-ai-customer-support/1984157071663505408",
+    "https://www.eesel.ai/ja/blog/richpanel-daian",
+    "https://www.toolmage.com/ja/tool/richpanel/",
+    "https://toolin.ai/ja/tools/richpanel",
+    "https://claude-media.com/articles/claude-richpanel-connector",
+    "https://www.eesel.ai/ja/blog/richpanel-ryokin"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Richpanel 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://www.rix.co.jp/en/",
+    "https://jpmktg.winbond.com/",
+    "https://www.houjin.info/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Richpanel Japan",
+   "results": [
+    "https://www.richpanel.com/",
+    "https://www.richpanel.com/company/about",
+    "https://www.linkedin.com/company/richpanel/",
+    "https://apps.apple.com/jp/app/richpanel/id1612931297",
+    "https://app.richpanel.com/user/login",
+    "https://tracxn.com/d/companies/richpanel/__zjfBCqOxnwgT0oCx9p_TOHeFNWD_Sz4gkB-x9z2CzTY",
+    "https://aitools.aiting.com/ja/ai/richpanel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Richpanel manufacturing customer case study",
+   "results": [
+    "https://www.richpanel.com/case-studies",
+    "https://www.factors.ai/customers/richpanel",
+    "https://www.featuredcustomers.com/vendor/richpanel/case-studies",
+    "https://www.casestudies.com/company/richpanel",
+    "https://www.casestudies.com/company/richpanel/case-study/pique-closes-about-37-of-support-with-richpanel",
+    "https://www.appsruntheworld.com/customers-database/products/view/richpanel",
+    "https://bloomberry.com/data/richpanel/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Richpanel white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.extremenetworks.com/partners",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Richpanel founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/richpanel",
+    "https://getlatka.com/companies/richpanel",
+    "https://tracxn.com/d/companies/richpanel/__zjfBCqOxnwgT0oCx9p_TOHeFNWD_Sz4gkB-x9z2CzTY",
+    "https://pitchbook.com/profiles/company/242569-09",
+    "https://www.crunchbase.com/organization/richpanel",
+    "https://www.zoominfo.com/c/richpanel/451030971",
+    "https://acquirezy.com/organization/richpanel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Richpanel",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/sunwood_ai_labs/n/n37d45947cb64?hl=en",
+    "https://note.com/earl_grey_y/n/n7bd56a40a1de",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kurashi_bouei/n/n6bcf6aecdfe3",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Richpanel",
+   "results": [
+    "https://x.com/richpanel",
+    "https://x.com/richpanel/with_replies",
+    "https://x.com/Richpanel/reposts",
+    "https://x.com/Richpanel/status/2064090066159558696",
+    "https://x.com/karri_tweets/status/2097682439552266485",
+    "https://x.com/realamitrg",
+    "https://x.com/realamitrg/status/2085488967663968481"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Richpanel",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Richpanel",
+   "results": [
+    "https://www.facebook.com/RichpanelCompany/",
+    "https://www.facebook.com/RichpanelCompany/videos/richpanel/519272213285366/",
+    "https://developers.facebook.com/community/threads/27694720283503161/",
+    "https://www.facebook.com/RichpanelCompany/posts/us-companies-lose-an-average-of-62-billion-annually-due-to-poor-customer-service/570369356827555/",
+    "https://www.facebook.com/RichpanelCompany/posts/and-now-we-have-finally-heard-your-product-prayerswere-excited-to-announce-our-i/860820847782403/",
+    "https://www.facebook.com/RichpanelCompany/posts/richpanelcom-is-shortlisted-for-yc-w2020-interviews-/629990914198732/",
+    "https://www.facebook.com/groups/modaai/posts/1035009829053732/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Richpanel note 社長",
+   "results": [
+    "https://www.richpanel.com/company/about",
+    "https://tracxn.com/d/companies/richpanel/__zjfBCqOxnwgT0oCx9p_TOHeFNWD_Sz4gkB-x9z2CzTY",
+    "https://www.linkedin.com/company/richpanel/",
+    "https://www.richpanel.com/company/contact",
+    "https://x.com/realamitrg",
+    "https://meetmagentofl.com/speakers/2025/amit-rg/",
+    "https://www.stackforce.co/talent/691b239469244d45dd255592"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Richpanel X 投稿",
+   "results": [
+    "https://x.com/richpanel",
+    "https://x.com/richpanel/with_replies",
+    "https://www.richpanel.com/",
+    "https://app.richpanel.com/home",
+    "https://www.richpanel.com/company/contact",
+    "https://www.instagram.com/richpanelofficial/",
+    "https://www.cxgn.cn/richpanel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

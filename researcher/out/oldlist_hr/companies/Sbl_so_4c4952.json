@@ -1,0 +1,2137 @@
+{
+ "name": "Sbl.so",
+ "aliases": [],
+ "context": "旧営業リスト｜Standalone AI SDR — Full-cycle / Multichannel｜リマイン1",
+ "researched_at": "2026-11-09T21:27:47.285227+00:00",
+ "official_url": "https://sbl.so/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "ICP-matched leads/mo",
+    "value": "1,000 2,000 500 (hyper-curated)",
+    "url": "https://sbl.so/pricing/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Intent Based Lead Generation",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "The autonomous AI SDR that finds high-intent leads, runs personalized outreach, and books qualified meetings for you - from ready-to-use LinkedIn profiles, at scale.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "We also provide dedicated experts on demand to help you.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified leads and booked meetings with our customers",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Runs on vetted SDR profiles, never yours",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a full outbound motion without hiring an SDR.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Book meetings while you build the product",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "A separate workspace and profile per client",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited SDR profiles included",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "AI runs outreach from SDR profiles",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "AI opens in your voice from dedicated sender profiles, chats like a human, and flags hot leads. Your account stays untouched.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Your LinkedIn stays yours. Outreach runs on dedicated SDR profiles.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Most tools send from your account. One mistake and your network is at risk. Sbl.so gives you fully managed sender profiles: warmed up, compliant, and rotated automatically. You keep your personal brand clean while running outreach at scale.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-warmed with real activity history",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Find leads. Run AI outreach. Send from safe profiles. All in one platform.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Three products under one roof, plus the inbox and CRM that hold it together. 18 tools in a single subscription.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Send at scale from dedicated profiles, not your account.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited managed sender profiles",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy 1, 10, or 100+ fractional SDR profiles instantly. Scale without hiring, training, or managing human teams.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach prospects on LinkedIn, WhatsApp, email, or phone. AI handles every channel, persuasively.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Send images, videos, and files",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Share PDFs, videos, images, and voice notes. AI picks what fits the chat and the intent.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt your perfect customer and AI finds high-quality matches, straight into your campaign in minutes.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Profiles switch automatically. When one hits its limit the next takes over, 75 requests and 200 messages per profile per day, safely.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Nurture before you pitch with auto-likes, profile visits, connection requests, and comments, all on autopilot.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Intent Based Lead Generation",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "REPORTED RESULTS. PRACTICAL PLAYBOOKS.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Reported across five campaigns for one tech-education creator. See the messages and follow-up approach, then find a playbook for your industry.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment & Careers",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Property & Real Estate",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Communities & Nonprofits",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "A warm-audience campaign offering a practical “14 Prompts” resource.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "282 inbound leads became 233 qualified conversations",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Consultation-ready leads",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "3 enrollments. $7,497 in reported revenue. An education-led LinkedIn approach",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Separate workshop, awareness and paid-program campaigns for QA professionals.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "An initial pilot for a private investment club; the article also reports $3,000 in tracked pipeline.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "An authority-led leadership-consulting campaign aimed at HR professionals and training managers.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Reported across multiple LinkedIn campaigns promoting the same free sleep-performance webinar.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "$60,000 in reported monthly pipeline from six LinkedIn profiles",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Primary workshop pipeline",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn and WhatsApp campaigns promoted a free AI-and-psychology workshop to an existing lead base.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Find B2B Leads Based on Tech Stack in 2026",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Sender As A Service (Hire LinkedIn Accounts)",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "MAGILLABS TECHNOLOGY PRIVATE LIMITED",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Intent Based Lead Generation",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Every seat comes with its own LinkedIn profile — warmed up and ready to send.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Prefer to talk it through first?",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Rented LinkedIn profiles we can get you",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Estimates based on Sbl.so customer averages (40% aggregate reply rate). New profiles typically ramp up to that rate as they warm. Your results will vary by industry and offer.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified leads and booked meetings with our customers",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "No more asking clients for their LinkedIn password. Attach a ready-to-send profile and launch the same day — not after a week of warm-up.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "AI drafts every reply using that client's own conversations — so it sounds like your rep, not a bot. Approve it, or let it send on its own.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "0 bans across 50M+ messages sent. We manage safety, limits, and rotation — even across dozens of client profiles.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "See lead generation in action",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "No onboarding call required. Most agencies have their first campaign running the same afternoon.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Attach a seat + profile",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "The lowest per-seat price for a full outreach platform, inbox, and CRM combined.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by teams in 10+ countries",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Industrial",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Each story describes a specific campaign, audience and offer. Metrics use each case study’s stated source and scope. Replies, positive responses, connection acceptances, booked calls, pipeline and revenue are different measures. Counts are not added across case studies.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams in 10+ countries",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "> Automate LinkedIn outreach with an AI SDR that finds buyers, personalizes messages, and books meetings for you. Used by 5,000+ B2B teams. Start free.",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [99 contacts replied from 248 reached: used bourbon and finishing barrel supply LinkedIn case study](https://sbl.so/case-study/linkedin-used-bourbon-and-finishing-barrel-supply-linkedin-case-study-cs300/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [74 contacts replied from 440 reached: confidential utilities leadership recruitment LinkedIn case study](https://sbl.so/case-study/linkedin-confidential-utilities-leadership-recruitment-linkedin-case-study-cs299/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [60 contacts replied from 207 reached: employee transport services with tracking LinkedIn case study](https://sbl.so/case-study/linkedin-employee-transport-services-with-tracking-linkedin-case-study-cs298/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [290 contacts replied from 954 reached: corporate car rentals employee transport and travel desk services LinkedIn case study](https://sbl.so/case-study/linkedin-corporate-car-rentals-employee-transport-and-travel-desk-services-linkedin-case-study-cs297/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [25 contacts replied from 114 reached: corporate ground transport and fleet automation software LinkedIn case study](https://sbl.so/case-study/linkedin-corporate-ground-transport-and-fleet-automation-software-linkedin-case-study-cs296/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [18 contacts replied from 83 reached: payment gateway services LinkedIn case study](https://sbl.so/case-study/linkedin-payment-gateway-services-linkedin-case-study-cs295/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [22 contacts replied from 135 reached: structured cabling and fiber network installation LinkedIn case study](https://sbl.so/case-study/linkedin-structured-cabling-and-fiber-network-installation-linkedin-case-study-cs294/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [45 contacts replied from 251 reached: fintech recruitment and candidate sourcing LinkedIn case study](https://sbl.so/case-study/linkedin-fintech-recruitment-and-candidate-sourcing-linkedin-case-study-cs293/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [37 contacts replied from 63 reached: ai job search tools and job alerts LinkedIn case study](https://sbl.so/case-study/linkedin-ai-job-search-tools-and-job-alerts-linkedin-case-study-cs292/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [13 contacts replied from 62 reached: clinical staffing and healthcare executive recruitment LinkedIn case study](https://sbl.so/case-study/linkedin-clinical-staffing-and-healthcare-executive-recruitment-linkedin-case-study-cs291/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [54 contacts replied from 321 reached: confidential direct-hire opportunities LinkedIn case study](https://sbl.so/case-study/linkedin-confidential-direct-hire-opportunities-linkedin-case-study-cs290/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [56 contacts replied from 125 reached: media exposure and brand visibility services LinkedIn case study](https://sbl.so/case-study/linkedin-media-exposure-and-brand-visibility-services-linkedin-case-study-cs289/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [26 contacts replied from 93 reached: executive recruitment and search services LinkedIn case study](https://sbl.so/case-study/linkedin-executive-recruitment-and-search-services-linkedin-case-study-cs288/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [53 contacts replied from 323 reached: executive search services LinkedIn case study](https://sbl.so/case-study/linkedin-executive-search-services-linkedin-case-study-cs287/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [16 contacts replied from 80 reached: ai-assisted sourcing and screening with human recruiting support LinkedIn case study](https://sbl.so/case-study/linkedin-ai-assisted-sourcing-and-screening-with-human-recruiting-support-linkedin-case-study-cs286/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [42 contacts replied from 197 reached: free course directory listings LinkedIn case study](https://sbl.so/case-study/linkedin-free-course-directory-listings-linkedin-case-study-cs285/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [104 contacts replied from 209 reached: restaurant franchise ownership opportunities LinkedIn case study](https://sbl.so/case-study/linkedin-restaurant-franchise-ownership-opportunities-linkedin-case-study-cs284/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [26 contacts replied from 120 reached: auction-based buying selling and scrap procurement services LinkedIn case study](https://sbl.so/case-study/linkedin-auction-based-buying-selling-and-scrap-procurement-services-linkedin-case-study-cs283/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [39 contacts replied from 144 reached: property investment education and consultation LinkedIn case study](https://sbl.so/case-study/linkedin-property-investment-education-and-consultation-linkedin-case-study-cs282/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [18 contacts replied from 71 reached: a practical ai guide review copy LinkedIn case study](https://sbl.so/case-study/linkedin-a-practical-ai-guide-review-copy-linkedin-case-study-cs281/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [55 contacts replied from 124 reached: public relations services LinkedIn case study](https://sbl.so/case-study/linkedin-public-relations-services-linkedin-case-study-cs280/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [28 contacts replied from 68 reached: an ai business membership community LinkedIn case study](https://sbl.so/case-study/linkedin-an-ai-business-membership-community-linkedin-case-study-cs279/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [20 contacts replied from 60 reached: entrepreneur networking and exploratory coaching conversations LinkedIn case study](https://sbl.so/case-study/linkedin-entrepreneur-networking-and-exploratory-coaching-conversations-linkedin-case-study-cs278/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [24 contacts replied from 91 reached: real estate buyer lead generation and appointment qualification LinkedIn case study](https://sbl.so/case-study/linkedin-real-estate-buyer-lead-generation-and-appointment-qualification-linkedin-case-study-cs277/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The source does not quantify positive replies, booked meetings or qualified contact shares; those counts are not inferred. Figures are reported in the published case study; they are not independently re-audited here or guarantees of future results.",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that effective outbound doesn’t always require complex funnels or aggressive persuasion. For the right audience, a clear CTA, respectful messaging, and consistent execution can drive exceptional engagement.",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Cold Outreach Case Study: How We Built a High-Intent Lead Engine for a Topmate Creator Helping Professionals Move to Europe (Germany-Focused)",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Cold Outreach Case Study: How We Drove High-Intent Trading Conversations and Meeting Requests for a Topmate Creator Targeting High-Income Professionals",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Outreach Case Study: How We Helped a Creator on Topmate Generate $13,098 in Pipeline and Drive Hundreds of High-Intent Registrations via Cold Outreach ?",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Outreach Case Study: How We Built a Meeting-Driven Outbound Engine for an Electronics Company and Then Scaled It for Their AI Product Launch",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "WhatsApp Outreach Case Study: How We Helped a Healthcare Company Generate Lakhs in Pipeline by Targeting Pharmacy Owners at Scale",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "Omnichannel Outreach Case Study: How We Drove High-Volume Workshop Registrations for a Global Influence Education Brand Using LinkedIn + WhatsApp Outreach",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Cold Outreach Case Study: How We Built a Two-Stage Nurture & Re-Engagement Engine for a Healthcare Brand to Drive Consistent Conversations",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Outreach Case Study: How We Validated Demand and Booked High-Intent Demo Conversations Through a Successful Pilot Campaign",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "WhatsApp Outreach Case Study: How We Helped a Hospital Drive High-Intent Health Screenings Using Data-Led Outreach and Smart Re-Engagement",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "Positive responses indicate interest in the giveaway; they are not booked meetings or customers. Figures are reported in the published case study; they are not independently re-audited here or guarantees of future results.",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that giveaways don’t need to be noisy or unfocused. When paired with targeted outreach, they can become a powerful tool for",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "WhatsApp Inbound Lead Qualification Case Study: How We Helped an Immigration Firm Turn High-Volume Meta Leads into Qualified Visitor Visa Conversations",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Outreach Case Study: How We Helped a Leadership Consulting Firm Activate HR Decision-Makers Using a Thought-Leadership Offer",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Outreach Case Study: How We Helped a Creator on Topmate Generate $13,098 in Pipeline and Drive Hundreds of High-Intent Registrations via Cold Outreach ?",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Cold Outreach Case Study: How We Built a High-Intent Lead Engine for a Topmate Creator Helping Professionals Move to Europe (Germany-Focused)",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Cold Outreach Case Study: How We Drove Hundreds of High-Intent Responses from Mid-to-Senior Engineers for a Topmate Creator Using Cold Outreach",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Cold Outreach Case Study: How We Drove High-Intent Trading Conversations and Meeting Requests for a Topmate Creator Targeting High-Income Professionals",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Outreach Case Study: How We Built a Meeting-Driven Outbound Engine for an Electronics Company and Then Scaled It for Their AI Product Launch",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "WhatsApp Outreach Case Study: How We Helped a Healthcare Company Generate Lakhs in Pipeline by Targeting Pharmacy Owners at Scale",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "Omnichannel Outreach Case Study: How We Drove High-Volume Workshop Registrations for a Global Influence Education Brand Using LinkedIn + WhatsApp Outreach",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Cold Outreach Case Study: How We Built a Two-Stage Nurture & Re-Engagement Engine for a Healthcare Brand to Drive Consistent Conversations",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn Outreach Case Study: How We Validated Demand and Booked High-Intent Demo Conversations Through a Successful Pilot Campaign",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "This case study wasn’t about a single viral message or a lucky campaign. It was about building a repeatable outbound engine that consistently starts conversations, warms up students, and drives sign-ups in a predictable way, all without relying on paid ads.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that effective outbound doesn’t always require complex funnels or aggressive persuasion. For the right audience, a clear CTA, respectful messaging, and consistent execution can drive exceptional engagement.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that giveaways don’t need to be noisy or unfocused. When paired with targeted outreach, they can become a powerful tool for engagement validation and audience warming.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This case study demonstrates that outbound can work even in highly skeptical markets like trading, if it’s executed with restraint, clarity, and respect for the audience.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that growth doesn’t always come from more leads, sometimes it comes from better handling of the leads you already have.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that outbound works exceptionally well for education and career upskilling, when it’s treated as a funnel, not a pitch.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that outbound doesn’t need scale to work. For premium consulting offers, one right conversation can be worth more than hundreds of low-intent leads.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "A separate workspace per client or team. Control who sees what. Built for agencies running multiple brands.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "From solo founders to agencies in 10+ countries, teams use Sbl.so to turn LinkedIn into a predictable meeting engine.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies running outreach across a full client roster",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Real results agencies can show clients.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Why agencies switch to Sbl",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "No onboarding call required. Most agencies have their first campaign running the same afternoon.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "The 8 things agencies ask for most. Everything else is one click away.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Most agencies start here",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Questions agencies ask",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the agencies behind $38.5M in pipeline created this year. Give your agency a seat and a profile that's ready to send from day one — start free, no credit card.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry: Marketing & Agencies",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Private aviation marketplace partnership to Luxury travel agencies. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "1. Choose a specific audience: Luxury travel agencies.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign was configured around Private aviation marketplace partnership. Its intended audience was Luxury travel agencies.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Choose a specific audience: Luxury travel agencies.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering White-label private aviation marketplace partnership to Corporate travel management companies and travel platforms. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "2. Make one offer easy to understand: White-label private aviation marketplace partnership.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign was configured around White-label private aviation marketplace partnership. Its intended audience was Corporate travel management companies and travel platforms.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Make one offer easy to understand: White-label private aviation marketplace partnership.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Hi [First name], thought this might be relevant to your work: White-label private aviation marketplace partnership. Would a short overview be useful?Replace the greeting and add only context you can verify. If the offer needs explanation, keep that explanation relevant to the recipient’s work rather than adding a long list of features.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "## 20 contacts replied from 74 reached: LinkedIn lead generation for automotive marketing agencies",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "URL: https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-automotive-marketing-agencies-cs012/",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "## 165 contacts replied from 596 reached: LinkedIn outreach for landing page design agencies",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "URL: https://sbl.so/case-study/linkedin-linkedin-outreach-for-landing-page-design-agencies-cs038/",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "## 31 contacts replied from 183 reached: LinkedIn lead generation for startup growth agencies",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "URL: https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "## 62 contacts replied from 216 reached: LinkedIn outreach for white label forex platforms",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "URL: https://sbl.so/case-study/linkedin-linkedin-outreach-for-white-label-forex-platforms-cs064/",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering White-label currency-exchange and remittance platform to Banks, nonbank lenders and fintech decision-makers in India. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "2. Make one offer easy to understand: White-label currency-exchange and remittance platform.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign was configured around White-label currency-exchange and remittance platform. Its intended audience was Banks, nonbank lenders and fintech decision-makers in India.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Make one offer easy to understand: White-label currency-exchange and remittance platform.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Hi [First name], thought this might be relevant to your work: White-label currency-exchange and remittance platform. Would a short overview be useful?Replace the greeting and add only context you can verify. If the offer needs explanation, keep that explanation relevant to the recipient’s work rather than adding a long list of features.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "## 44 contacts replied from 148 reached: LinkedIn lead generation for recruitment agencies",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "URL: https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-recruitment-agencies-cs078/",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "20 contacts replied from 74 reached: LinkedIn lead generation for automotive marketing agencies",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "165 contacts replied from 596 reached: LinkedIn outreach for landing page design agencies",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "31 contacts replied from 183 reached: LinkedIn lead generation for startup growth agencies",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "44 contacts replied from 148 reached: LinkedIn lead generation for recruitment agencies",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/?industry=recruitment-careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/?industry=manufacturing-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/linkedin-outreach-case-study-how-we-built-a-meeting-driven-outbound-engine-for-an-electronics-company-and-then-scaled-it-for-their-ai-product-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry: Marketing & Agencies",
+    "url": "https://sbl.so/success-stories.txt?story=cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-saas-explainer-videos-cs011/",
+    "pass": 1
+   },
+   {
+    "quote": "20 contacts replied from 74 reached: LinkedIn lead generation for automotive marketing agencies",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-saas-explainer-videos-cs011/",
+    "pass": 1
+   },
+   {
+    "quote": "20 contacts replied from 74 reached: LinkedIn lead generation for automotive marketing agencies | Sbl.so",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-automotive-marketing-agencies-cs012/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-automotive-marketing-agencies-cs012/",
+    "pass": 1
+   },
+   {
+    "quote": "20 contacts replied from 74 reached: LinkedIn lead generation for automotive marketing agencies",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-automotive-marketing-agencies-cs012/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-personal-branding-services-cs035/",
+    "pass": 1
+   },
+   {
+    "quote": "165 contacts replied from 596 reached: LinkedIn outreach for landing page design agencies | Sbl.so",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-landing-page-design-agencies-cs038/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Automation for Agencies",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-landing-page-design-agencies-cs038/",
+    "pass": 1
+   },
+   {
+    "quote": "165 contacts replied from 596 reached: LinkedIn outreach for landing page design agencies",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-landing-page-design-agencies-cs038/",
+    "pass": 1
+   },
+   {
+    "quote": "31 contacts replied from 183 reached: LinkedIn lead generation for startup growth agencies | Sbl.so",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Reach prospects on LinkedIn, WhatsApp, email, or phone. AI handles every channel, persuasively.",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "- [Email](https://sbl.so/email/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [How to Scale Cold Email Volume Safely to 5,000 Sends a Day](https://sbl.so/email/scale-cold-email-volume-safely/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [Private SMTP vs Google Workspace: Cold Email Guide 2026](https://sbl.so/email/smtp-vs-google-workspace-cold-email/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [Best Email Warmup Tools Alternative in 2026](https://sbl.so/email/best-email-warmup-tools-alternative/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://sbl.so/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You are unable to access this email address",
+    "url": "https://sbl.so/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://sbl.so/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You must enable Javascript in your browser in order to decode the e-mail address",
+    "url": "https://sbl.so/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://sbl.so/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow-ups defaulted to links that looked like cold emails",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "All from cold LinkedIn outreach. No ads. No cold emails.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Email alone wasn’t activating enough people",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Email and LinkedIn marketing services to UK automotive remarketing and dealership suppliers. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "2. Make one offer easy to understand: Email and LinkedIn marketing services.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign was configured around Email and LinkedIn marketing services. Its intended audience was UK automotive remarketing and dealership suppliers.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Make one offer easy to understand: Email and LinkedIn marketing services.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Hi [First name], thought this might be relevant to your work: Email and LinkedIn marketing services. Would a short overview be useful?Replace the greeting and add only context you can verify. If the offer needs explanation, keep that explanation relevant to the recipient’s work rather than adding a long list of features.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering B2B contact data and email campaign support to UK automotive supply-chain sales and marketing leaders. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "2. Make one offer easy to understand: B2B contact data and email campaign support.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign was configured around B2B contact data and email campaign support. Its intended audience was UK automotive supply-chain sales and marketing leaders.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Make one offer easy to understand: B2B contact data and email campaign support.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Hi [First name], thought this might be relevant to your work: B2B contact data and email campaign support. Would a short overview be useful?Replace the greeting and add only context you can verify. If the offer needs explanation, keep that explanation relevant to the recipient’s work rather than adding a long list of features.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Early access to a voice-first email, calendar and task assistant to Solo founders and independent consultants. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "2. Make one offer easy to understand: Early access to a voice-first email, calendar and task assistant.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign was configured around Early access to a voice-first email, calendar and task assistant. Its intended audience was Solo founders and independent consultants.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Make one offer easy to understand: Early access to a voice-first email, calendar and task assistant.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Hi [First name], thought this might be relevant to your work: Early access to a voice-first email, calendar and task assistant. Would a short overview be useful?Replace the greeting and add only context you can verify. If the offer needs explanation, keep that explanation relevant to the recipient’s work rather than adding a long list of features.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "## 54 contacts replied from 102 reached: LinkedIn business email services for agencies",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "URL: https://sbl.so/case-study/linkedin-linkedin-business-email-services-for-agencies-cs200/",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Business email account sourcing to B2B agency founders. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "2. Make one offer easy to understand: Business email account sourcing.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign was configured around Business email account sourcing. Its intended audience was B2B agency founders.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Make one offer easy to understand: Business email account sourcing.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Hi [First name], thought this might be relevant to your work: Business email account sourcing. Would a short overview be useful?Replace the greeting and add only context you can verify. If the offer needs explanation, keep that explanation relevant to the recipient’s work rather than adding a long list of features.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Email and LinkedIn marketing services to UK automotive remarketing and dealership suppliers. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering B2B contact data and email campaign support to UK automotive supply-chain sales and marketing leaders. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/case-study/?industry=recruitment-careers",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/case-study/?industry=recruitment-careers",
+    "pass": 1
+   },
+   {
+    "quote": "How to Scale Cold Email Volume Safely to 5,000 Sends a Day",
+    "url": "https://sbl.so/case-study/?industry=manufacturing-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Private SMTP vs Google Workspace: Cold Email Guide 2026",
+    "url": "https://sbl.so/case-study/?industry=manufacturing-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://sbl.so/case-study/linkedin-outreach-case-study-how-we-built-a-meeting-driven-outbound-engine-for-an-electronics-company-and-then-scaled-it-for-their-ai-product-launch/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "3 enrollments. $7,497 in reported revenue. An education-led LinkedIn approach",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Each story describes a specific campaign, audience and offer. Metrics use each case study’s stated source and scope. Replies, positive responses, connection acceptances, booked calls, pipeline and revenue are different measures. Counts are not added across case studies.",
+    "url": "https://sbl.so/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Spin up as many sending profiles as a client's campaign needs — each one arrives ready to send, ban risk managed on our side.",
+    "url": "https://sbl.so/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "- [99 contacts replied from 248 reached: used bourbon and finishing barrel supply LinkedIn case study](https://sbl.so/case-study/linkedin-used-bourbon-and-finishing-barrel-supply-linkedin-case-study-cs300/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [41 contacts replied from 162 reached: immersive brand experiences and narrative-led creative services LinkedIn case study](https://sbl.so/case-study/linkedin-immersive-brand-experiences-and-narrative-led-creative-services-linkedin-case-study-cs258/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [11 contacts replied from 53 reached: client acquisition systems and diagnostic consultations LinkedIn case study](https://sbl.so/case-study/linkedin-client-acquisition-systems-and-diagnostic-consultations-linkedin-case-study-cs251/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- [34 contacts replied from 67 reached: digital client acquisition audits for law firms LinkedIn case study](https://sbl.so/case-study/linkedin-digital-client-acquisition-audits-for-law-firms-linkedin-case-study-cs237/)",
+    "url": "https://sbl.so/llms.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Reading the numbers: The source also reports $13,098 in pipeline and 59 likely conversions. Those are not confirmed revenue or 59 completed sales. Figures are reported in the published story, not independently re-audited here.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond direct revenue, the campaigns also redirected hundreds of students to WhatsApp, created a significant spike in webinar attendance, and resulted in a reusable outbound framework that could be applied to future launches and creators on the platform.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "## 3 enrollments. $7,497 in reported revenue. An education-led LinkedIn approach",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- $7,497 Reported revenue",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Reading the numbers: Workshop registrations and paid enrollments belong to different campaign phases. The separately reported $2,250 pipeline is not added to revenue. Figures are reported in the published story, not independently re-audited here.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This campaign resulted in 3 confirmed enrollments, generating $7,497 in revenue from a highly targeted audience.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "$9,747+ in combined pipeline and revenue, driven entirely through outbound",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "By combining value-led workshops, problem-aware messaging, and timely enrollment outreach, we helped Engenious University turn professional uncertainty into decisive action and measurable revenue.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "- $7,500 Reported revenue",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "That single conversion produced $7,500 in revenue, validating outbound as a viable acquisition channel for high-ticket consulting when executed with precision.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Reading the numbers: High-intent responses and tracked pipeline are not evidence of closed revenue. Figures are reported in the published story, not independently re-audited here.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Unita Capital was launching the first version of its private investment club, an exclusive offering designed for a narrow group of qualified investors. Unlike mass-market financial products, this was a trust-heavy, high-consideration offer where volume alone meant nothing. The real challenge was attracting the right people, not more people.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Each campaign carried the same core CTA, “Thanks for showing interest, here’s the link to our free webinar: Sleep Your Way to Success”, but the framing was subtly adjusted to match the audience’s context.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Reading the numbers: Pipeline is opportunity value, not realized revenue. Reply and booked-meeting counts are not published in this article. Figures are reported in the published story, not independently re-audited here.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Reading the numbers: The source separately reports $30,600 from re-engagement. These pipeline figures are not summed here, and neither is treated as revenue. Figures are reported in the published story, not independently re-audited here.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "We treated this as a distribution and re-engagement problem, not a cold acquisition problem. Instead of blasting one message everywhere, we designed a layered outreach strategy that combined LinkedIn for context and WhatsApp for conversion.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "By combining platforms, refining messaging in real time, and focusing on activation rather than acquisition, the system delivered predictable registrations at scale.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The goal was not awareness alone. The objective was clear: identify verified pharmacy owners, start conversations, and drive bookings and product adoption, ultimately translating outreach into real revenue.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "The result was a significant increase in engagement volume, with hundreds of replies and a steady stream of likely conversions. At this stage, outreach transitioned from experimentation into a repeatable acquisition channel.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "Phase 4: Iteration, Re-Engagement, and Revenue Focus",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This phase directly translated outreach into revenue, proving that even in a traditionally offline segment like pharmacy ownership, outbound could drive real business outcomes when executed with discipline.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This campaign worked because it respected the audience. Pharmacy owners respond to relevance, practicality, and trust, not buzzwords. By narrowing the ICP, refining messaging around real-world utility, and scaling only after early validation, the outreach remained effective even at higher volumes.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows that outbound is not limited to SaaS or tech founders. Even in healthcare and offline-heavy markets, a well-executed outbound system can drive conversations, bookings, and real revenue.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "By combining precise targeting, trust-first messaging, and disciplined scaling, we helped Bharat TeleClinic turn a complex product into a predictable acquisition engine.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "KloudBean provides cloud server deployment and infrastructure services for developers and businesses. While the technical offering was solid, the team wanted to explore whether outbound could work as a scalable acquisition channel for this type of service.",
+    "url": "https://sbl.so/success-stories.txt",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Customer-acquisition and growth marketing support to Venture-backed startup founders and marketing leaders. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Hiring-company lead data and outbound client-acquisition support to Recruitment business owners looking for hiring clients. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Each story describes a specific campaign, audience and offer. Metrics use each case study’s stated source and scope. Replies, positive responses, connection acceptances, booked calls, pipeline and revenue are different measures. Counts are not added across case studies.",
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Each story describes a specific campaign, audience and offer. Metrics use each case study’s stated source and scope. Replies, positive responses, connection acceptances, booked calls, pipeline and revenue are different measures. Counts are not added across case studies.",
+    "url": "https://sbl.so/case-study/?industry=recruitment-careers",
+    "pass": 1
+   },
+   {
+    "quote": "99 contacts replied from 248 reached: used bourbon and finishing barrel supply LinkedIn case study",
+    "url": "https://sbl.so/case-study/?industry=manufacturing-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Used bourbon and finishing barrel supply to North American distillers and beverage producers. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/case-study/?industry=manufacturing-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Each story describes a specific campaign, audience and offer. Metrics use each case study’s stated source and scope. Replies, positive responses, connection acceptances, booked calls, pipeline and revenue are different measures. Counts are not added across case studies.",
+    "url": "https://sbl.so/case-study/?industry=manufacturing-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Counts come from the reconciled SBL LinkedIn snapshot dated 15 October 2026. They are observational results, not guarantees.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-saas-explainer-videos-cs011/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Later activity and contacts outside this cohort are not included. Names, account identifiers and private conversation text are omitted.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-saas-explainer-videos-cs011/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Counts come from the reconciled SBL LinkedIn snapshot dated 15 October 2026. They are observational results, not guarantees.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-automotive-marketing-agencies-cs012/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Later activity and contacts outside this cohort are not included. Names, account identifiers and private conversation text are omitted.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-automotive-marketing-agencies-cs012/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Counts come from the reconciled SBL LinkedIn snapshot dated 15 October 2026. They are observational results, not guarantees.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-personal-branding-services-cs035/",
+    "pass": 1
+   },
+   {
+    "quote": "Have a clear next response ready from the first day; many of the recorded replies arrived quickly.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-personal-branding-services-cs035/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Later activity and contacts outside this cohort are not included. Names, account identifiers and private conversation text are omitted.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-personal-branding-services-cs035/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Counts come from the reconciled SBL LinkedIn snapshot dated 15 October 2026. They are observational results, not guarantees.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-landing-page-design-agencies-cs038/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Later activity and contacts outside this cohort are not included. Names, account identifiers and private conversation text are omitted.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-landing-page-design-agencies-cs038/",
+    "pass": 1
+   },
+   {
+    "quote": "An anonymized LinkedIn campaign offering Customer-acquisition and growth marketing support to Venture-backed startup founders and marketing leaders. Replies are measured within 14 days of the first qualifying outreach.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Make one offer easy to understand: Customer-acquisition and growth marketing support.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Counts come from the reconciled SBL LinkedIn snapshot dated 15 October 2026. They are observational results, not guarantees.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer-acquisition and growth marketing support",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Begin a relationship around the acquisition challenges of funded startup teams",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Have a clear next response ready from the first day; many of the recorded replies arrived quickly.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Hi [First name], thought this might be relevant to your work: Customer-acquisition and growth marketing support. Would a short overview be useful?",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Replies are any recorded replies, not verified positive interest. Connection acceptances, meetings, sales and revenue are not established for this campaign. Counts use unique contact records in the defined 14-day cohort. Later activity and contacts outside this cohort are not included. Names, account identifiers and private conversation text are omitted.",
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "pass": 1
+   },
+   {
+    "quote": "Sbl revenue: $13,177 in the last 30 days | TrustMRR",
+    "url": "https://trustmrr.com/startup/sbl",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue is verified with",
+    "url": "https://trustmrr.com/startup/sbl",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (30d)",
+    "url": "https://trustmrr.com/startup/sbl",
+    "pass": 3
+   },
+   {
+    "quote": "A travel planning app that relies entirely on organic distribution through a network of travel Instagram pages with over 400,000 combined followers, growing by approximately 45,000 followers per month and generating up to 400 app downloads per day. The Instagram pages are also included in the sale. The instagram pages are the only source of marketing for the app no paid acquisition/ads",
+    "url": "https://trustmrr.com/startup/sbl",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Sbl.so エスビーエルドットエスオーとは LinkedInでの新規開拓のAI｜使い方・料金・日本語対応",
+    "url": "https://eeai.tv/tools/sbl-so",
+    "pass": 3
+   },
+   {
+    "quote": "Sbl.soの日本語対応は確認できていません",
+    "url": "https://eeai.tv/tools/sbl-so",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内のBtoB営業が中心で、LinkedInがまだ普及していない業種の方には、どれだけ機能が充実していても、業務フローに入る場所がありません",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "日本語メッセージの生成自体は技術的に可能と推測されますが、敬語表現や日本の商習慣に沿った自然なビジネス会話が出力されるかどうかは、現時点で検証情報がありません",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "日本語コンテンツをメインに使いたい方にとって、ここは最も大きな確認ポイントになります",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIの状況、日本語での会話品質、そして自分が想定する使用量とクレジット設計の相性——この3点を保証期間内に確かめながら判断するのが、後悔のない選び方になると思います",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sbl.so | ええAI.TV — Sbl.soは、LinkedInやWhatsAppを使った営業活動をAIに任せられるツール。 運営元のSecond Brain Labsが開発した「AI-Persona」が、あらかじめ訓練されたセールス担当のように振る舞い、見込み客の発掘からメッセージ送信、商談設定までを代行する。",
+    "url": "https://eeai.tv/tools/sbl-so",
+    "pass": 3
+   },
+   {
+    "quote": "AI SDR for LinkedIn Outreach & Meetings | Sbl.so — Automate LinkedIn outreach with an AI SDR that finds buyers, personalizes messages, and books meetings for you. Used by 5,000+ teams.",
+    "url": "https://sbl.so/",
+    "pass": 3
+   },
+   {
+    "quote": "Agency - LinkedIn Outreach Automation & AI SDR | Sbl.so — Every seat comes with its own LinkedIn profile — warmed up and ready to send. Start free and launch your first client campaign today.",
+    "url": "https://sbl.so/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "海外B2Bを自動化したい人のための、まだ知られていないLinkedIn営業ツ... — Apr 23, 2026 · この問題に正面から向き合おうとしているツールが、 Sbl.so（セカンドブレインラボ） です。 Sbl so ウェブサイト 開発元はインド・バンガロールのSecond Brain Labs。 2023年の創業から静かにプロダクトを積み上げてきたチームが、2026年にAppSumoに登場しました。",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "Sbl .so - LinkedIn — Sbl .so | 4,399 followers on LinkedIn. AI that chats with your leads – and Converts them to your pipeline $$$ | Since 2023, we’ve been quietly working to bring this idea to reality. The result ...",
+    "url": "https://www.linkedin.com/company/sales-automation-sbl",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories — Outreach Campaign Case Studies | Sbl.so — Explore real outreach campaigns, messaging approaches and lessons by industry. Browse SBL’s published LinkedIn and WhatsApp case studies.",
+    "url": "https://sbl.so/category/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Sbl .so - LinkedIn — Sbl .so | 4,399 followers on LinkedIn. AI that chats with your leads – and Converts them to your pipeline $$$ | Since 2023, we’ve been quietly working to bring this idea to reality.",
+    "url": "https://www.linkedin.com/company/sales-automation-sbl",
+    "pass": 3
+   },
+   {
+    "quote": "Sbl.so - Crunchbase Company Profile & Funding — Sbl.so provides AI-powered LinkedIn and WhatsApp outreach automation for lead generation and meeting booking.",
+    "url": "https://www.crunchbase.com/organization/sbl-so",
+    "pass": 3
+   },
+   {
+    "quote": "SBL - 2026 Company Profile, Team, Competitors & Financials ...SBL Number of Employees 2026 | Employee Count & Headcount ...Sbl.so (Second Brain Labs) Information - RocketReach — Mar 11, 2026 · SBL - About the company SBL is an unfunded company based in Bengaluru (India), founded in 2005. It operates as a Provider of software development, data management, IT staffing, and other services. SBL has no",
+    "url": "https://tracxn.com/d/companies/sbl/__baFZgIKfctSoJOtArpnegvteI-w0V3PqWwdOlBcVdSU",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "海外B2Bを自動化したい人のための、まだ知られていないLinkedIn営業ツ... Apr 23, 2026 · この問題に正面から向き合おうとしているツールが、 Sbl.so（セカンドブレインラボ） です。 Sbl so ウェブサイト 開発元はインド・バンガロールのSecond Brain Labs。 2023年の創業から静かにプロダクトを積み上げてきたチームが、2026年にAppSumoに登場しました。",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "海外B2Bを自動化したい人のための、まだ知られていないLinkedIn営業ツール｜Komatu | 選んで残すもの",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "海外B2Bを自動化したい人のための、まだ知られていないLinkedIn営業ツール",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedInでコネクションリクエストを送り、つながって、最初のメッセージも届けた。",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "でも、相手から返信が来た瞬間に手が止まる。何を返せばいいか考えているうちに、相手の熱が少しずつ冷めていく。",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "その繰り返しが、ある時点からB2B営業の「詰め」を確実に鈍らせていきます。",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "この問題に正面から向き合おうとしているツールが、",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "開発元はインド・バンガロールのSecond Brain Labs。2023年の創業から静かにプロダクトを積み上げてきたチームが、2026年にAppSumoに登場しました。",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   },
+   {
+    "quote": "私がこのツールに目を留めたのは、「LinkedIn自動化」という言葉が持つ意味を、少し違う場所に設定しているからです。",
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sbl .so | LinkedIn Sbl .so | 4,408 followers on LinkedIn. AI that chats with your leads – and Converts them to your pipeline $$$ | Since 2023, we’ve been quietly working to bring this idea to reality. The result? Unlike traditional outreach tools that stop at sending messages – Our Sales Campaign goes beyond automation—it persuades, nurtures, and converts leads at scale.",
+    "url": "https://in.linkedin.com/company/sales-automation-sbl",
+    "pass": 3
+   },
+   {
+    "quote": "Shubham Kumar - Sbl .so | LinkedInSbl .so Automates Outreach and Booking for Businesses - LinkedInMost of our users come for Lead Generation, and then they try ...md karim - | so at sbl LinkedInAyush Singh - Sbl .so | LinkedInShreyash Chavan - building at sbl.so (AI RevOps generating ... 3x Founder; Currently building Sbl.so - AI sales agent that finds, engages, and… · Experience: Sbl .so · Educat",
+    "url": "https://in.linkedin.com/in/shubhamkr-in",
+    "pass": 3
+   },
+   {
+    "quote": "Sbl .so Automates Outreach and Booking for Businesses - LinkedIn We've been building Sbl .so for the last 3 yrs & we worked on the FOUNDATION. Customers' giving validation is the best feeling any founder could get. 3 things Sbl .so does differently. 1. Most ...",
+    "url": "https://www.linkedin.com/posts/shubhamkr-in_b2b-outreach-activity-7450825358981029888-YYA7",
+    "pass": 3
+   },
+   {
+    "quote": "Most of our users come for Lead Generation, and then they try ... This was the insight that changed our whole onboarding flow last week. On our dashboard onboarding at Sbl .so, we landed every user on the \"Campaigns\" page by default.",
+    "url": "https://www.linkedin.com/posts/shubhamkr-in_most-of-our-users-come-for-lead-generation-activity-7492162294953607169-D4Ac",
+    "pass": 3
+   },
+   {
+    "quote": "Sbl .so - LinkedIn Sbl .so | 4,399 followers on LinkedIn. AI that chats with your leads – and Converts them to your pipeline $$$ | Since 2023, we’ve been quietly working to bring this idea to reality. The result ...",
+    "url": "https://www.linkedin.com/company/sales-automation-sbl",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sbl.so/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/llms.txt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/cdn-cgi/l/email-protection",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/success-stories.txt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/?industry=marketing-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/?industry=recruitment-careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/?industry=manufacturing-industrial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/success-stories.txt?story=linkedin-cold-outreach-case-study-how-we-drove-hundreds-of-high-intent-responses-from-mid-to-senior-engineers-for-a-topmate-creator-using-cold-outreach",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/linkedin-outreach-case-study-how-we-built-a-meeting-driven-outbound-engine-for-an-electronics-company-and-then-scaled-it-for-their-ai-product-launch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/success-stories.txt?story=cold-outreach-case-study-how-we-used-a-giveaway-based-outreach-campaign-to-rapidly-activate-and-qualify-a-warm-audience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-saas-explainer-videos-cs011/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-automotive-marketing-agencies-cs012/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-personal-branding-services-cs035/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/linkedin-linkedin-outreach-for-landing-page-design-agencies-cs038/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.so/case-study/linkedin-linkedin-lead-generation-for-startup-growth-agencies-cs042/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://eeai.tv/tools/sbl-so",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terugfin.hatenablog.com/entry/2026/08/28/183953",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.buyer-zemi.jp/2026/07/12/sole-distributor-vs-sales-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbtjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sbl.jsb-basketball.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SB19SBLJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sales-automation-sbl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.scribd.com/document/1000956250/SBL-Case-Study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sales-automation-sbl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sblcorp.us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/best-saas-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sbl",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sbl-so",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://trustmrr.com/startup/sbl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sbl/__baFZgIKfctSoJOtArpnegvteI-w0V3PqWwdOlBcVdSU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/komatu_note/n/n780efff82ced",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/sales-automation-sbl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/shubhamkr-in",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/shubhamkr-in_b2b-outreach-activity-7450825358981029888-YYA7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/shubhamkr-in_most-of-our-users-come-for-lead-generation-activity-7492162294953607169-D4Ac",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sales-automation-sbl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sales-automation-sbl",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sbl.so 日本 導入",
+   "results": [
+    "https://eeai.tv/tools/sbl-so",
+    "https://terugfin.hatenablog.com/entry/2026/08/28/183953",
+    "https://sbl.so/",
+    "https://sbl.so/agency/",
+    "https://note.com/komatu_note/n/n780efff82ced",
+    "https://skywork.ai/skypage/ja/ai-sales-automation-future/1985543853416828928",
+    "https://www.itmedia.co.jp/smartjapan/articles/2212/15/news069_5.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sbl.so 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://blog.buyer-zemi.jp/2026/07/12/sole-distributor-vs-sales-agent/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://office-tree.jp/blog/legal-documents/sales-agency-agreement-writing/",
+    "https://www.mkikuchi-law.com/17785461217883"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Sbl.so Japan",
+   "results": [
+    "https://www.sbtjapan.com/",
+    "https://sbl.jsb-basketball.or.jp/",
+    "https://x.com/SB19SBLJapan",
+    "https://www.linkedin.com/company/sales-automation-sbl",
+    "https://sbl.so/",
+    "https://sbl.so/agency/",
+    "https://sbl.so/linkedin/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sbl.so manufacturing customer case study",
+   "results": [
+    "https://sbl.so/category/case-study/",
+    "https://www.scribd.com/document/1000956250/SBL-Case-Study",
+    "https://www.linkedin.com/company/sales-automation-sbl",
+    "https://sblcorp.us/",
+    "https://www.studocu.com/my/document/universiti-teknologi-mara/professional-account-acca/strategic-business-leader-sbl-pre-seen-case-study-yexmarine-overview/135704062",
+    "https://www.renascence.io/journal/customer-experience-cx-design-in-manufacturing-examples-case-studies",
+    "https://sbl.so/case-study/linkedin-linkedin-outreach-for-manufacturing-automation-partners-cs090/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sbl.so white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://botpenguin.com/blogs/best-saas-reseller-programs",
+    "https://www.salesforce.com/partners/become-a-partner/",
+    "https://www.fatbit.com/partner-program-engagement-models.html",
+    "https://buildfire.com/white-label-software-services-resell-make-money/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sbl.so founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/sbl",
+    "https://www.crunchbase.com/organization/sbl-so",
+    "https://trustmrr.com/startup/sbl",
+    "https://tracxn.com/d/companies/sbl/__baFZgIKfctSoJOtArpnegvteI-w0V3PqWwdOlBcVdSU",
+    "https://www.reveliolabs.com/companies/sbl/employees",
+    "https://rocketreach.co/sblso-second-brain-labs-profile_b693d7dbc92e95f4",
+    "https://sbl.so/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sbl.so",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/komatu_note/n/n780efff82ced",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/ikedanob/n/nf9fd1f265432"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sbl.so",
+   "results": [
+    "https://x.com/sblsite",
+    "https://x.com/sbl_dot_so",
+    "https://x.com/SBLsite/status/2044740146956767578",
+    "https://x.com/shubham_sbl",
+    "https://x.com/Sblbattleleague",
+    "https://x.com/Sbl_dot_so/with_replies",
+    "https://x.com/EleganceSBL"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sbl.so",
+   "results": [
+    "https://in.linkedin.com/company/sales-automation-sbl",
+    "https://in.linkedin.com/in/shubhamkr-in",
+    "https://www.linkedin.com/posts/shubhamkr-in_b2b-outreach-activity-7450825358981029888-YYA7",
+    "https://www.linkedin.com/posts/shubhamkr-in_most-of-our-users-come-for-lead-generation-activity-7492162294953607169-D4Ac",
+    "https://bd.linkedin.com/in/md-karim-b2572487",
+    "https://in.linkedin.com/in/ayush-singh488/en",
+    "https://in.linkedin.com/in/shreyashchavan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sbl.so",
+   "results": [
+    "https://www.facebook.com/p/SBL-61555937318758/",
+    "https://business.facebook.com/groups/188862517975164/",
+    "https://business.facebook.com/groups/684787623072183/",
+    "https://www.facebook.com/sblsolution/",
+    "https://www.facebook.com/sbaltsports/",
+    "https://www.facebook.com/SBLYouthFootball/",
+    "https://www.facebook.com/SoBrooklynLifestyle/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sbl.so note 社長",
+   "results": [
+    "https://www.linkedin.com/company/sales-automation-sbl",
+    "https://studylib.net/doc/25347318/acca-sbl-mj20-notes",
+    "https://note.com/saiyou_dekirukun/all",
+    "http://shacho.info/",
+    "http://sbl.so/",
+    "https://www.sbl-official.jp/大会役員-スタッフ/",
+    "https://sbl.so/linkedin/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sbl.so X 投稿",
+   "results": [
+    "https://x.com/sbl_dot_so",
+    "https://www.linkedin.com/company/sales-automation-sbl",
+    "https://best-ai.org/tool/sblso",
+    "https://sbl.so/",
+    "https://x.com/sbl0680/with_replies",
+    "https://sbl.so/agency/",
+    "https://www.youtube.com/@ai-sales-automation"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

@@ -1,0 +1,500 @@
+{
+ "name": "Dai-ichi Ceramo Co. — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramic-filament;ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T21:35:35.681307+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookDai-ichi Ceramo Co... - Metal Additive Manufacturing magazine ...UltiMakerで金属3Dプリントが可能に！ このたび、第一セラモ株式会社...Ultimaker Japan | Kobe-shi Hyogo - FacebookUltiMakerで金属3Dプリントが可能に ... - Facebook3DPrint.com - In #3DPrinting News Briefs, 3dpbm has... | FacebookNicole Loehr Rivero (@nloehr1) • Facebook, Connect with friends Full breakdown, only on VoxelMatters 🍒 #AdditiveManufacturing ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "UltiMakerで金属3Dプリントが可能に！ このたび、第一セラモ株式会社...Ultimaker Japan | Kobe-shi Hyogo - FacebookUltiMakerで金属3Dプリントが可能に ... - Facebook3DPrint.com - In #3DPrinting News Briefs, 3dpbm has... | FacebookNicole Loehr Rivero (@nloehr1) • Facebook, Connect with friends Jun 16, 2025 · 🚨 UltiMakerで金属3Dプリントが可能に！ 🚨 このたび、第一セラモ株式会社（Dai-ichi Ceramo Co., Ltd.）のCeraFila SUS316 ステンレス鋼フィラメントがUltiMaker Material Allianceに追加され、Ult",
+    "url": "https://www.facebook.com/UltimakerJP/videos/-ultimakerで金属3dプリントが可能にこのたび第一セラモ株式会社dai-ichi-ceramo-co-ltdのcerafila-sus316-ステンレス/1040358058181925/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimaker Japan | Kobe-shi Hyogo - FacebookUltiMakerで金属3Dプリントが可能に ... - Facebook3DPrint.com - In #3DPrinting News Briefs, 3dpbm has... | FacebookNicole Loehr Rivero (@nloehr1) • Facebook, Connect with friends Feb 3, 2026 · 🚨 UltiMakerで金属3Dプリントが可能に！ 🚨 このたび、第一セラモ株式会社（Dai-ichi Ceramo Co., Ltd.）のCeraFila SUS316 ステンレス鋼フィラメントがUltiMaker Material Allianceに追加され、UltiMaker Marketplaceにて公開されました！ 🚨 UltiMakerで金",
+    "url": "https://www.facebook.com/UltimakerJP/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/business/pellet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/dai-ichi-ceramo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/invitation/HNnpOyTWmRo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.designresearchframework.com/?p=4231",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.energyfixgroup.com/?goods/details/L002025885.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://d-hub.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/dai-ichi-ceramo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000214.000073630.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/daiichiceramo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/business/pellet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/en/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/en/business/pellet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polyarmglobal.com/3d-material/dai-ichi-ceramo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%B8%E3%82%A7%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%94%E3%83%A5%E3%82%A2%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB-1-8L-%E3%83%9A%E3%83%83%E3%83%88%E7%94%A8%E8%87%AA%E5%8B%95%E7%B5%A6%E6%B0%B4%E5%99%A8-%E9%9D%99%E9%9F%B3%E3%83%9D%E3%83%B3%E3%83%97/dp/B0DVGW3VSB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Crystal-Ceramo-Ceramic-Automatic-Dispenser/dp/B0DVGW3VSB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://music.amazon.co.jp/podcasts/8d428ae1-b49f-44a8-bf80-cc1b41e5b26b/episodes/bcda329d-74a5-4372-94e4-9b47202f66b4/beautiful-tragedy-episode-1-how-to-%E2%80%9Cbe-the-light%E2%80%9D-with-ceramo-love-season-2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01409697/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00696859/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3953/7924/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dai-ichi-ceramo.co.jp/en/business/pellet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UltimakerJP/videos/-ultimakerで金属3dプリントが可能にこのたび第一セラモ株式会社dai-ichi-ceramo-co-ltdのcerafila-sus316-ステンレス/1040358058181925/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UltimakerJP/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters 代理店",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/business/pellet/",
+    "https://sharelab.jp/company/dai-ichi-ceramo/",
+    "https://www.dai-ichi-ceramo.co.jp/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/invitation/HNnpOyTWmRo",
+    "https://www.dks-web.co.jp/news/news_file/file/20250707_9601.pdf",
+    "https://eigyo-mfg.com/service/navi/company/ipnM3rZZw8Zw",
+    "https://prtimes.jp/main/html/rd/p/000000151.000073630.html",
+    "https://www.djk.co.jp/news/detail.html?itemid=673&dispmid=3878&TabModule3873=0",
+    "https://x.com/daiichiceramo"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://designresearchframework.com/?p=4231",
+    "https://www.energyfixgroup.com/?goods/details/L002025885.html",
+    "https://www.msh-systems.com/partners/",
+    "https://d-hub.jp/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://valorholdings.co.jp/corporate/officers.html",
+    "https://www.koaglobal.com/corporate/offices/distributors1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/",
+    "https://sharelab.jp/company/dai-ichi-ceramo/",
+    "https://prtimes.jp/main/html/rd/p/000000214.000073630.html",
+    "https://x.com/daiichiceramo",
+    "https://www.dai-ichi-ceramo.co.jp/news/",
+    "https://www.brule.co.jp/daiichi-ceramo/daiichi-ceramo-alumina.html?srsltid=AYCX9vIgaAl5XDN5C0Q4-OxPCQOvGNbc7zVsrdN80pB6QgkFdelgrQFj",
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "https://i-maker.jp/?srsltid=AYCX9vJUyjVJN2Kkfnp6zd_93t0WVYLKMVE4jMXN3x40YymVlTuNLkAh",
+    "https://prtimes.jp/main/html/rd/p/000000151.000073630.html",
+    "https://www.voxelmatters.directory/company/dai-ichi-ceramo-co/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/",
+    "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "https://www.dai-ichi-ceramo.co.jp/business/pellet/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E9%80%A0%E5%BD%A2%E6%9D%90%E6%96%99-A1-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%80%903300%E5%86%86%E4%BB%A5%E4%B8%8A%E3%81%A7%E5%85%A8%E5%9B%BD%E9%80%81%E6%96%99%E7%84%A1%E6%96%99%E3%80%91%E2%80%BB%E4%B8%80%E9%83%A8%E9%80%81%E6%96%99%E7%84%A1%E6%96%99%E3%82%82%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BB%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A/s?rh=n%3A2680373051%2Cp_6%3AA3NIKCTAX8545C",
+    "https://www.brule.co.jp/parts-accessories.html?srsltid=AYCX9vL9TGWhXYvcUkrqhmpcQ9Qsx2RNI7ggx0wJcYG9ws0sbeYShUMI",
+    "https://b2b.nanoegg.co.jp/products/8",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://shop.exmatelab.com/categories/5848171",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/en/technology/",
+    "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.dai-ichi-ceramo.co.jp/en/",
+    "https://www.polyarmglobal.com/3d-material/dai-ichi-ceramo",
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://www.voxelmatters.directory/company-category/ceramics-material-manufacturer/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/en/business/pellet/",
+    "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "https://www.polyarmglobal.com/3d-material/dai-ichi-ceramo",
+    "https://www.dai-ichi-ceramo.co.jp/en/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "https://sharelab.jp/company/dai-ichi-ceramo/",
+    "https://www.lithoz.com/en/all-about-us/salespartner/",
+    "https://steamcommunity.com/search/users/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Dai-ichi Ceramo Co. — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/ジェックス-ピュアクリスタル-1-8L-ペット用自動給水器-静音ポンプ/dp/B0DVGW3VSB",
+    "https://www.amazon.co.jp/-/en/Crystal-Ceramo-Ceramic-Automatic-Dispenser/dp/B0DVGW3VSB",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://music.amazon.co.jp/podcasts/8d428ae1-b49f-44a8-bf80-cc1b41e5b26b/episodes/bcda329d-74a5-4372-94e4-9b47202f66b4/beautiful-tragedy-episode-1-how-to-“be-the-light”-with-ceramo-love-season-2",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://www.amazon.co.jp/-/en/Crystal-Ceramo-Ceramic-Automatic-Dispenser/dp/B0DVGSBM9Y",
+    "https://www.amazon.co.jp/Blu-Sleep-Products-CERAMO/dp/B086P6H6JX"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Dai-ichi Ceramo Co. — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/01409697/",
+    "https://www.monotaro.com/g/00696859/",
+    "https://www.monotaro.com/p/3953/7924/",
+    "https://www.monotaro.com/g/01398396/",
+    "https://www.monotaro.com/g/00011105/",
+    "https://www.monotaro.com/g/00010501/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/en/business/pellet/",
+    "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "https://www.voxelmatters.report/database/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/category/money/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.dai-ichi-ceramo.co.jp/en/",
+    "https://revenuebase.ai/companies/browse/additive-manufacturing-materials-companies",
+    "https://www.dai-ichi-ceramo.co.jp/en/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Dai-ichi Ceramo Co. — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Dai-ichi Ceramo Co. — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/Prusa3D/status/2031054780668252591",
+    "https://x.com/daiichiceramo",
+    "https://x.com/VoxelMatters/status/2110656132385575001",
+    "https://x.com/VoxelMatters/status/2036387917493416329",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Dai-ichi Ceramo Co. — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Dai-ichi Ceramo Co. — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/metalAMmag/posts/dai-ichi-ceramo-co-ltd-has-joined-the-ultimaker-marketplace-making-its-cerafila-/1299636485503527/",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimakerで金属3dプリントが可能にこのたび第一セラモ株式会社dai-ichi-ceramo-co-ltdのcerafila-sus316-ステンレス/1040358058181925/",
+    "https://www.facebook.com/UltimakerJP/",
+    "https://www.facebook.com/UltimakerJP/posts/-ultimakerで金属3dプリントが可能にこのたび第一セラモ株式会社dai-ichi-ceramo-co-ltdのcerafila-sus316-ステンレス/748536961014526/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-3dpbm-has-rebranded-to-voxelmatters-and-xaba-closed-a-/2229888943849297/",
+    "https://www.facebook.com/nloehr1/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters note 社長",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/",
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/jp/invitation/HNnpOyTWmRo",
+    "https://sharelab.jp/company/dai-ichi-ceramo/",
+    "https://prtimes.jp/main/html/rd/p/000000214.000073630.html",
+    "https://www.dks-web.co.jp/news/news_file/file/20250707_9601.pdf",
+    "https://eigyo-mfg.com/service/navi/company/ipnM3rZZw8Zw",
+    "https://zen-global.co/pages/ceramo-dai-ichi?srsltid=AYCX9vJ2PtfvaH6O8y9v_yWu9l3eCKEQ8Ff6pzKNcYXIxkd7ghAZnzex",
+    "https://x.com/daiichiceramo"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Dai-ichi Ceramo Co. — VoxelMatters X 投稿",
+   "results": [
+    "https://www.dai-ichi-ceramo.co.jp/technology/",
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/watch?v=tjaUnqye14Q",
+    "https://www.facebook.com/UltimakerJP/videos/-ultimaker%E3%81%A7%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E7%AC%AC%E4%B8%80%E3%82%BB%E3%83%A9%E3%83%A2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdai-ichi-ceramo-co-ltd%E3%81%AEcerafila-sus316-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9/1040358058181925/",
+    "https://x.com/daiichiceramo",
+    "https://www.dai-ichi-ceramo.co.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000214.000073630.html",
+    "https://sharelab.jp/company/dai-ichi-ceramo/",
+    "https://www.voxelmatters.com/category/marketing/video/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

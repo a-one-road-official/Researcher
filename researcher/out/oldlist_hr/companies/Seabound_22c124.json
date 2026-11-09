@@ -1,0 +1,1669 @@
+{
+ "name": "Seabound",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T21:34:47.914137+00:00",
+ "official_url": "https://seabound.co",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$5,900,000",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "London, England, United Kingdom",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "CO₂ sequestered or sold for fuel production",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Shipowners face mounting pressure to reduce greenhouse gas emissions from new global regulations, customers, and shareholders, but have limited viable options. Future fuels are decades away, efficiency solutions insufficient, and slow steaming just pushes off the inevitable.",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Seabound’s onboard carbon capture system is proven and ready today. Shipping drives 90% of the world's economy. Shipowners who want to capture a competitive edge and lead the industry’s decarbonization now have an ocean-ready option with Seabound.",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Development",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic Projects Lead",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Seabound’s Alisha Fredriksson wins Nor-Shipping 2025 Young Entrepreneur Award",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Forbes: Climate Takes The Stage Among This Year's 30 Under 30 Europe Social Impact Entrepreneurs",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Insider: How Y Combinator-backed Seabound is using carbon-capture tech to tackle the shipping industry's problematic emissions",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "For all press inquiries, please send an email to",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Tokyo, Hakone and Fuji, Kyoto, Hiroshima and Osaka, mostly by bullet train while your big bag is shipped ahead. Who runs the trip, when to go, what 2027 tours cost and why the spring dates go first.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan rewards a tour more than most places, for practical reasons, not romantic ones. The language, the trains and the luggage are what a good operator takes off your hands.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "A hot-springs ryokan; your big bag goes ahead by truck and you carry an overnight bag.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nijo Castle, Kinkaku-ji and Kiyomizu-dera, plus a private home visit with a tea ceremony.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO puts Tokyo’s best viewing in late March and early April",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hokkaido follows in late April to early May, so a northern tour stretches the season",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO notes hotel prices skew higher in spring with demand",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO says the rainy season begins in May to June. It’s a quieter time for both foreign and domestic travel, and hotel prices are “a lot more reasonable” than at the peaks.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Warm, less humid days and lighter crowds than spring, by Intrepid’s account",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Our pick for a first tour if spring is booked",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "An online pre-travel authorization, JESTA, is reported to be planned for fiscal 2028. Nothing is needed for 2027 trips yet; we’ll recheck before you fly.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The State Department rates Japan Level 1, “exercise normal precautions,” the lowest level.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "From-prices per person, sharing, land only, from each operator’s own page unless marked. * marks a price from an agency listing of 2027 departures, because the operator’s page didn’t show one. ~ marks an Intrepid price that isn’t tied to a year. “Coach” means no group figure was published for that tour.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The split is sharper in Japan than in Europe. At one end, Intrepid’s groups of 12 ride public trains and carry an overnight bag. At the other, Tauck and Abercrombie & Kent handle every transfer for two to five times the daily price.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The middle is crowded. Globus, Trafalgar, Collette and Cosmos all sell 11- to 15-day escorted tours on the same core line from Tokyo to Kyoto. Trafalgar’s Wonders of Japan sits in its Premium tier, the range that used to sell as Insight.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Every tour here leaves in March, April, September and October: blossom and autumn color. Only Intrepid lists December and January dates, and Trafalgar’s Classic Japan is the one escorted tour with a February start.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "April: 3 departures",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "April: 4 departures",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "April: 1 departure",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dates as published by each operator or a reseller listing that tour, checked October 27, 2026. Departures sell out and new dates get added, so we confirm the exact date when we price it. Sources:",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pick fall if spring is sold out",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Add a pre-tour night in Tokyo",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Spring dates price highest",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Roam by Tauck is the premium active option",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The tours in our table are adult itineraries; Contiki and Solo-ish Japan are 18-plus. Family departures are a separate product, and we’ll compare them for you.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Best late March–April and November · book spring 9–12 months out",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "One ryokan night in a hot-spring town on Tauck's route.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hot-spring town in the Fuji foothills, the first night out of Tokyo.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Best late March–April and November · book spring 9–12 months out. JNTO says blossoms open March to May from south to north, and fall color runs late September to early December, best in November. The rainy season starts May–June, summer is hot and humid, and August–September can bring typhoons.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "for ships to improve air quality in port communities, while the International Maritime Organization is pushing for a",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "With few viable solutions available for emissions reductions in ports, STAX and Seabound are providing the first comprehensive, cost-effective emissions solution for the maritime industry, without requiring vessels or ports to undergo retrofits and costly structural changes.",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "“Our partnership demonstrates that effective, scalable emissions solutions are a reality that we can implement now,” said Alisha Fredriksson, co-founder and CEO of Seabound. “Our collaboration with STAX proves that by leveraging innovative onboard carbon capture, we can make a tangible difference on a global scale and provide the maritime industry with the tools vital for a sustainable future.\"",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "The Carbon Capture Showcase marked the culmination of months spent trialing the system where Fredriksson, Walker, and STAX Founder and CTO Bob Sharp presented the integrated system during a live demonstration. Funded by CARB and South Coast AQMD as part of their",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Technology Demonstration and Pilot Projects",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Since its launch in early 2024, STAX has established itself as the only emissions solution servicing all major vessel classes in California. To date, STAX has provided a critical pathway to CARB compliance in five major ports, captured more than 126 tons of pollutants, and will deploy its eighth barge this month. STAX recently",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "For all press inquiries, please send an email to",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "prototypes,",
+    "url": "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "property,",
+    "url": "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "projects),",
+    "url": "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Propulsion & Alternative Fuels",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid & Green Propulsion",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Wind-Assisted Propulsion",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Wind Propulsion Guide",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Crew Training & Careers",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive interview with CEO Alisha Fredriksson reveals how the London-based startup is turning ship emissions into limestone revenue streams",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "is equipping the UBC Cork, a 5,700 gross tonne cement-carrying vessel, with their innovative calcium looping technology. The captured carbon, converted into limestone, will be offloaded at Heidelberg Materials’ pioneering Brevik cement plant in Norway for use in net-zero concrete production – marking the first time captured marine CO₂ has been transformed into limestone for industrial use.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "From Prototype to Commercial Reality",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "This regulatory shift transforms what was previously a compliance cost into a potential revenue opportunity through Seabound’s unique waste-to-resource approach.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound’s technology uses calcium hydroxide (slaked lime) to absorb CO₂ from ship exhaust, converting it into limestone that’s stored onboard until the vessel returns to port. This calcium looping approach offers several advantages over traditional carbon capture systems that produce liquefied CO₂, and represents the first commercial application of this technology in marine environments.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "“Shipping cement is emissions-intensive, and Seabound’s system gives us a clear path to reduce those Scope 3 emissions while enhancing our circular use of captured CO₂,” said Lars Erik Marcussen, Project Manager, Logistics at Heidelberg Materials Northern Europe.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "For Hartmann Group, the partnership provides crucial operational expertise while positioning the company to meet evolving regulatory demands. “Hartmann is committed to embracing and investing in environmentally friendly technologies that reduce our maritime carbon footprint,” said Captain Jayant Singh, Director, Pool Manager Operations at Hartmann Group.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The Maritime Executive: Seabound Lands a Novel Carbon-Capture Partnership With a Cement Plant",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The operators plan accordingly. InsideJapan was already selling its spring small-group tours more than a year out after a record 2023 blossom season. Trafalgar’s Classic Japan already shows several 2027 departures sold out.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Where to go from here: Japan’s operators and ports",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "No fee to compare operators",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Spring and fall are short peaks, hotel prices rise in spring with demand, and small-group trips have few rooms to sell. Some operators can’t offer single rooms at all. We suggest booking spring dates nine to twelve months ahead.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Maritime Executive: Seabound Lands a Novel Carbon-Capture Partnership With a Cement Plant",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "is equipping the UBC Cork, a 5,700 gross tonne cement-carrying vessel, with their innovative calcium looping technology. The captured carbon, converted into limestone, will be offloaded at Heidelberg Materials’ pioneering Brevik cement plant in Norway for use in net-zero concrete production – marking the first time captured marine CO₂ has been transformed into limestone for industrial use.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "“If we’re going to do 10% of the industry’s emissions, we definitely can’t do that alone,” she emphasizes. “It’s really about manufacturing partnerships, shipyards, ports, our customers, and charterers themselves.”",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Shipowners face mounting pressure to reduce greenhouse gas emissions from new global regulations, customers, and shareholders, but have limited viable options. Future fuels are decades away, efficiency solutions insufficient, and slow steaming just pushes off the inevitable.",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Seabound’s onboard carbon capture system is proven and ready today. Shipping drives 90% of the world's economy. Shipowners who want to capture a competitive edge and lead the industry’s decarbonization now have an ocean-ready option with Seabound.",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "A ferry on Lake Ashi with views of Mt. Fuji, an open-air museum and a flower-arranging class.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "A hot-springs ryokan; your big bag goes ahead by truck and you carry an overnight bag.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The paperwork is the easy part of Japan. Jet lag and cash habits take more planning.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Carry some yen for small shops, shrines and rural stops. JNTO names Japan Post Bank and Seven Bank ATMs for withdrawals, and suggests a Suica or Pasmo card for transit and convenience stores.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The split is sharper in Japan than in Europe. At one end, Intrepid’s groups of 12 ride public trains and carry an overnight bag. At the other, Tauck and Abercrombie & Kent handle every transfer for two to five times the daily price.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "December: none listed",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "February: none listed",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "November: none listed",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "You carry an overnight bag on travel days",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Arriving a day early gives you a buffer if a flight runs late, and most people add a night when the tour ends.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ministry of Foreign Affairs of Japan: Visa exemption arrangements",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Carbon Capture Showcase marked the culmination of months spent trialing the system where Fredriksson, Walker, and STAX Founder and CTO Bob Sharp presented the integrated system during a live demonstration. Funded by CARB and South Coast AQMD as part of their",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "carriers,",
+    "url": "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shipowners,",
+    "url": "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The UBC Cork, a 5,700 gross tonne cement-carrying vessel, is the world's first commercial ship equipped with Seabound's calcium looping marine carbon capture system",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive interview with CEO Alisha Fredriksson reveals how the London-based startup is turning ship emissions into limestone revenue streams",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "is equipping the UBC Cork, a 5,700 gross tonne cement-carrying vessel, with their innovative calcium looping technology. The captured carbon, converted into limestone, will be offloaded at Heidelberg Materials’ pioneering Brevik cement plant in Norway for use in net-zero concrete production – marking the first time captured marine CO₂ has been transformed into limestone for industrial use.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "This regulatory shift transforms what was previously a compliance cost into a potential revenue opportunity through Seabound’s unique waste-to-resource approach.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "The containerized design allows for easy installation with minimal vessel modification and suits all vessel types. The modular system offers flexibility, shipowners can start with one module to meet basic regulatory requirements and scale up as thresholds increase or customer demands grow.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "For shipowners considering the technology, Seabound has designed with operational simplicity in mind. The system requires no crew training, uses non-toxic materials, and operates with full automation. The current lead time is six to nine months, which the company aims to accelerate significantly.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "“The upfront capex is very low, really trying to lower the barrier to entry,” Fredriksson notes. “Unlike something like ammonia, we don’t need to take the same extent of safety precautions. It’s not as complicated when you’re dealing with a simpler technology like this.”",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Joachim Rosenoegger is the founder of ROBIN Business Information Pte Ltd (Singapore) and publisher of Maritime Innovations (maritime-innovations.com). He reports on maritime innovation, sustainability, and maritime cybersecurity with a focus on operator-relevant implementation details (retrofit constraints, compliance workflows, and practical adoption barriers).",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Expertise: maritime innovation storytelling, compliance and operations narratives, maritime cybersecurity communication",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "The Oldest Part of the Ship Gets a Rethink: Wärtsilä’s Gate Rudder",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Seabound",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Seabound?",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Seabound have?",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "pass": 3
+   },
+   {
+    "quote": "What is Seabound’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Seabound is",
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Revenue 2024: $2.7M Est.",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound has not published its revenue. GetLatka estimates it at about $2.7M a year (December 2024).",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound CEO, founders & employees",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "Alisha Fredriksson founded Seabound in 2021 and runs it as CEO. Seabound had 18 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "What is Seabound's revenue?",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Seabound's revenue at about",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Seabound have?",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "For information on how Seabound can bring value to your business please contact sales@seabound.co.",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "For all press inquiries, please send an email to",
+    "url": "https://www.seabound.co/",
+    "pass": 1
+   },
+   {
+    "quote": "For all press inquiries, please send an email to",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "COP31開幕、連載「COP31デイリー」の見どころ 6条・気候資金・CDR・日本のJCM",
+    "url": "https://carboncredits.jp/global/kbzezpku/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンクレジット.jp編集部｜2023年末に当時日本初かつ唯一のカーボンクレジット専門情報メディアを立ち上げ",
+    "url": "https://carboncredits.jp/global/kbzezpku/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン製造業への参入に遅れた日本企業にとって、DAC・CCUS は可能性を秘めた分野であ",
+    "url": "https://londonresearchinternational.com/wp-content/uploads/2024/03/LRIEC130224.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "COP31開幕、連載「COP31デイリー」の見どころ 6条・気候資金・CDR・日本のJCM",
+    "url": "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "日本はIMO規制強化の直接的な影響を受ける海運大国であり、邦船大手（日本郵船、商船三井、川崎汽船）にとって、船上CCSはLNG燃料転換やアンモニア燃料と並ぶ現実的な移行オプションとして注視すべき技術である",
+    "url": "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "特にシーバウンドのモジュラー型アプローチは既存船舶への後付けを前提としており、新造船投資を待たずに排出削減を開始できる点で、GX-ETSにおけるScope1対応やCORSIA Phase-1へのコンプライアンスを検討する日本の荷主・船主双方にとって実務的な選択肢となり得る",
+    "url": "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "）バリューチェーン構築を模索する日本企業にとって示唆に富む事例である",
+    "url": "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンクレジット.jp編集部｜2023年末に当時日本初かつ唯一のカーボンクレジット専門情報メディアを立ち上げ",
+    "url": "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Tours (2027): Seasons, Costs, Who Runs Them | Seabound",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, your suitcase takes a different",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Hakone and Fuji, Kyoto, Hiroshima and Osaka, mostly by bullet train while your big bag is shipped ahead. Who runs the trip, when to go, what 2027 tours cost and why the spring dates go first.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "days to cover Tokyo to Osaka on Intrepid’s Highlights of Japan",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "travelers at most on Intrepid’s Japan trips",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "when Tokyo’s 2026 cherry blossoms opened, per Japan’s weather agency",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Six things that shape a Japan tour",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan rewards a tour more than most places, for practical reasons, not romantic ones. The language, the trains and the luggage are what a good operator takes off your hands.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nine for the classic Tokyo-to-Osaka line; 11–13 adds Hakone, Takayama, Kanazawa or Hokkaido.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Intrepid caps Japan trips at 12; Trafalgar’s Wonders of Japan averages 16.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The shinkansen links Tokyo, Kyoto and Hiroshima on most itineraries.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s tourism board says so; tour leaders are the exception to ask about.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tauck’s Essence of Japan, Tokyo to Kyoto in 13 days",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tauck Essence of Japan, 13 days, from $11,990 per person (2026–2028 departures). Stops, nights and experiences from Tauck’s itinerary page.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Blossoms, rain, heat, leaves: Japan’s touring calendar",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO says the blossoms open between March and May, starting in the south. In 2026 the Japan Meteorological Agency declared Tokyo’s first bloom on March 19 and Kyoto’s on March 23.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO puts Tokyo’s best viewing in late March and early April",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO calls summer “stiflingly hot and intensely humid” across Japan, and warns that August and September may bring typhoons that disrupt travel.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Intrepid suggests the Japanese Alps or Hokkaido for this season",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO says the color starts in Hokkaido in late September and works south into early December, and calls November the best month in most of Japan. Intrepid says it “rivals cherry blossom season.”",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO calls November the best month for color in most of Japan",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "JNTO says winter weather varies by region but brings many sunny days. Intrepid calls it the cheapest season for Tokyo and Kyoto and points to onsen in the snow and the Sapporo Snow Festival in February.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Blossom and leaf dates are forecasts and vary year to year. Season descriptions are JNTO’s (Japan National Tourism Organization) and Intrepid’s; the 2026 bloom dates are the Japan Meteorological Agency’s, as reported by Nippon.com and Time Out.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The paperwork is the easy part of Japan. Jet lag and cash habits take more planning.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Americans don’t need a visa to tour Japan. The Ministry of Foreign Affairs lists the US as visa-exempt for stays of up to 90 days.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Land Tour Map: Routes, Stops and Season | Seabound",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan land tours,",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo to Kyoto by bullet train while your big bag is shipped ahead; the blossom and fall-color dates sell first. 9 places on our Land-tour Atlas, grouped the way the itineraries run.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Every Japan place we map",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hiroshima, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nara, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gero Onsen, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hakone, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hot-spring town in the Fuji foothills, the first night out of Tokyo.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kanazawa, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kyoto, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "The temple city, and the longest stay on most Japan tours.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Takayama, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Where most Japan tours begin, before the first bullet train west.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo to Kyoto, the grand-hotel way",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo → Hakone → Gero Onsen → Kanazawa → Kyoto · 13 days",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo → Kyoto → Hiroshima → Osaka · 9 days",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo → Hakone → Takayama · 12 days",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "The escorted Tokyo-to-Kyoto tour",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo → Kyoto · 11 to 15 days",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "How many land-tour stops are on the Japan map?",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "When is the Japan season?",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "Who runs tours in Japan?",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "STAXとSeabound、船舶向けの画期的なCO2回収システムを実用へ | カー... — Apr 21, 2025 · 2025年4月16日、米カリフォルニア州の STAX Engineering と英国の気候テックスタートアップ Seabound は、船舶の排出ガスとCO2を一体的に処理する 統合型カーボンキャプチャー・システムのライブデモンストレーション を成功裏に実施した。",
+    "url": "https://carboncredits.jp/global/kbzezpku/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound — Alisha co-founded and leads the team at Seabound. Previously, she helped build the leading maritime electro-fuel startup, Liquid Wind, and managed global partnerships and launched a climate program at Generation, a global non-profit founded by McKinsey & Company.",
+    "url": "https://www.seabound.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound による 船上での CCS(Carbon Capture & Storage) — その一つが英国の Seabound Carbon Ltd.[4]である。 同社のテクノロジーの特徴は、 船の排気ガスに含まれるカーボンを石灰岩に� �離固定する装置を船に設置することである。 カーボンを吸収した石灰岩は港で下ろし、 ビル建設の材",
+    "url": "https://londonresearchinternational.com/wp-content/uploads/2024/03/LRIEC130224.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "英海運カーボンキャプチャーのSeabound、初の商用フルスケール船上CCS... — Mar 6, 2026 · 日本はIMO規制強化の直接的な影響を受ける海運大国であり、邦船大手（日本郵船、商船三井、川崎汽船）にとって、船上CCSはLNG燃料転換やアンモニア燃料と並ぶ現実的な移行オプションとして注視すべき技術である。",
+    "url": "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "船上のCO2回収装置で「海の脱炭素化」目指す | Forbes JAPAN 公式サイ... — Jul 5, 2023 · 共同設立者のルージア・ウェンとともにSeaboundを設立した彼女は、大型船舶に搭載し最大95％のCO2排出を抑制するCO2回収装置を開発している。 この装置は、既存の船にも搭載可能で、海運業界におけるCO2排出量削減に向けた費用対効果の高い解決策だ。",
+    "url": "https://forbesjapan.com/articles/detail/64225",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Tours (2027): Seasons, Costs, Who Runs Them | Seabound — Oct 26, 2026 · Japan tours compared: real 2027 itineraries and prices, cherry blossom and fall color timing, bullet trains, luggage forwarding, tipping and days needed.",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Land Tour Map: Routes, Stops and Season | Seabound — Oct 28, 2026 · Every Japan place we map 9 land-tour stops, grouped as the itineraries use them. Places with a full Seabound guide link straight to it.",
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "pass": 3
+   },
+   {
+    "quote": "STAX Engineering and Seabound Successfully Demonstrate First ... — Apr 15, 2025 · Seabound is an award-winning climate tech startup developing modular carbon capture systems for ships. Founded in late 2021, Seabound recently completed a world-first pilot with Lomar Shipping and Hapag-Lloyd, capturing CO2 at ~80% efficiency onboard a 3200 TEU container ship.",
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Sea Trial Results - lomarlabs Website News Page — This successful sea trial represents a pivotal moment for Seabound, Lomar, and lomarlabs, together with the broader maritime industry. We are proud to have collaborated with Seabound to pioneer this sustainable solution in our efforts to support maritime innovation and cleaner, safer oceans.”",
+    "url": "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Launches World’s First Commercial Calcium Looping ... — Jul 16, 2025 · While decarbonization debates continue, London-based Seabound has moved beyond discussion to deployment, launching the world’s first commercial onboard marine carbon capture system using calcium looping technology at full scale.",
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "pass": 3
+   },
+   {
+    "quote": "STAX Engineering and Seabound Successfully Demonstrate First ... — Apr 16, 2025 · Each trial serviced an existing STAX customer, including WWL and NYK. All results were independently verified by Yorke Engineering, an environmental consultancy.",
+    "url": "https://www.staxengineering.com/stax-hub/stax-engineering-seabound-first-integrated-emissions-carbon-capture-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Revenue, Funding & Valuation - prospeo.ioSeabound 2026 Company Profile: Valuation, Funding & Investors ...Seabound - 2026 Company Profile, Team, Funding, Competitors ...Seabound Revenue 2024: $2.7M Est. - getlatka.comSeabound — Company Profile & Funding | Indexed.vcSeabound: Funding, Team & Investors | Startup IntrosSeabound: Funding, Investors & Team (Oct 2026) | FundedIQ — Seabound has ",
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound 2026 Company Profile: Valuation, Funding & Investors ...Seabound - 2026 Company Profile, Team, Funding, Competitors ...Seabound Revenue 2024: $2.7M Est. - getlatka.comSeabound — Company Profile & Funding | Indexed.vcSeabound: Funding, Team & Investors | Startup IntrosSeabound: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and e",
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound - 2026 Company Profile, Team, Funding, Competitors ...Seabound Revenue 2024: $2.7M Est. - getlatka.comSeabound — Company Profile & Funding | Indexed.vcSeabound: Funding, Team & Investors | Startup IntrosSeabound: Funding, Investors & Team (Oct 2026) | FundedIQ — Mar 22, 2026 · Seabound is a seed company based in London (United Kingdom), founded in 2021 by Roujia Wen and Alisha Fredriksson",
+    "url": "https://tracxn.com/d/companies/seabound/__hmR2kSQlwxbeI82U585xH_8aQbbwitL_FaZvZenLXzA",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Revenue 2024: $2.7M Est. - getlatka.com — Sep 2, 2026 · Who is the CEO of Seabound? Alisha Fredriksson is the CEO of Seabound and founded the company in 2021.",
+    "url": "https://getlatka.com/companies/seabound.co",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound — Company Profile & Funding | Indexed.vc — Sep 17, 2026 · Seabound is a Climate Tech company based in London, United Kingdom, founded in 2021. It has raised $5.9M in total across 5 rounds, most recently a $1.5M Grant round in Aug 2025. Investors include UK Government (CMDC), Lowercarbon Capital and Y Combinator Continuity Fund.",
+    "url": "https://indexed.vc/companies/seabound",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "11 days · reseller listing",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "15 days · reseller listing",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dates as published by each operator or a reseller listing that tour, checked October 27, 2026. Departures sell out and new dates get added, so we confirm the exact date when we price it. Sources:",
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "「船がCO₂を食べてセメントを作る時代」──脱炭素×物流×建設の未来が動... Jul 17, 2025 · ロンドン拠点のクライメートテック企業「Seabound」が開発したのは、 走行中に排出されるCO₂をその場で“石灰石”に変換する装置を積んだセメント運搬船。 2025年、UBC社の貨物船「UBC Cork」は、この装置を搭載して運航を開始した。",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "航海中にセメント原料を生成する輸送船が登場！｜Suzuken0331 Aug 17, 2025 · 英国の脱炭素/CO2回収加工を手掛けるSeabound社が航海中にセメント原料を製造するセメント輸送船をローンチしました。 海運/セメント業界はCO2排出量の大きい業界とされ、今回の船で両業界の課題を一気に解決することを目指します。",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「船がCO₂を食べてセメントを作る時代」──脱炭素×物流×建設の未来が動き出した｜じょーみの",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "「船がCO₂を食べてセメントを作る時代」──脱炭素×物流×建設の未来が動き出した",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "船が走るたび、CO₂を“資源”に変えるという発想",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "そんなSFのようなプロジェクトが、いま現実になっている。ロンドン拠点のクライメートテック企業「Seabound」が開発したのは、",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "走行中に排出されるCO₂をその場で“石灰石”に変換する装置を積んだセメント運搬船",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、UBC社の貨物船「UBC Cork」は、この装置を搭載して運航を開始した。単なる運搬役に留まらず、",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "海上でリアルタイムにCO₂を回収・固定し、それをセメント原料として再利用可能な形に変換する",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "。このプロセス自体が、物流・建材・環境の3領域を横断する革新的なモデルになっている。",
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "pass": 3
+   },
+   {
+    "quote": "航海中にセメント原料を生成する輸送船が登場！｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   },
+   {
+    "quote": "航海中にセメント原料を生成する輸送船が登場！",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   },
+   {
+    "quote": "英国の脱炭素/CO2回収加工を手掛けるSeabound社が航海中にセメント原料を製造するセメント輸送船をローンチしました。海運/セメント業界はCO2排出量の大きい業界とされ、今回の船で両業界の課題を一気に解決することを目指します。",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   },
+   {
+    "quote": "ロンドン拠点で船舶向けCO2回収機能を開発するSeabound社がエンジンから排出されるCO2をセメントの主原料である石灰石に変換する機能を開発したと発表。",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   },
+   {
+    "quote": "Seaboundは新システムを現在地中海を航行中のセメント運搬船;UBCコークに搭載、船がノルウェーに入港すると航海中に生成された石灰石が降ろされてHeidelbergMaterial社の工場でセメント製造に使用される",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   },
+   {
+    "quote": "世界のCO2排出量に占める割合は海運;3%/セメント;8%で、脱炭素の実現に向けては両業界の汚染度を低下させる打ち手が必要。排出ガス対策も課題で、海運業界で使うバッテリーのエネルギー密度が現状では不十分でCO2排出量が抑えきれていない。",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   },
+   {
+    "quote": "IMOが船主に対し、今後10年での船舶からの温室効果ガス排出量30%削減及び2040年までの65%削減を義務付けていることもあり、海運業界では対応が急務。",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   },
+   {
+    "quote": "船舶業界の脱炭素化に向けては多くの企業が手掛け、Seabound以外にもアンモニア分解技術を用いたゼロエミッション発電を船舶で行うAmogyが最近は脚光を浴びている。",
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SeaBound (@ThisSeaBound) / Posts / X ThisSeaBound - Twitch Hi, I'm SeaBound and I'm obsessed with Blood on the Clocktower (and Metal). www.twitch.tv",
+    "url": "https://x.com/ThisSeaBound",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Supply (@SeaboundSupply) / Posts / X Seabound Supply (@SeaboundSupply) - Posts - We love where you're going! | X (formerly Twitter)",
+    "url": "https://x.com/SeaboundSupply",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound (@PlaySeabound) / X 21 followers · 3 following. Joined Jan 2023. See the latest conversations with @PlaySeabound",
+    "url": "https://x.com/PlaySeabound",
+    "pass": 3
+   },
+   {
+    "quote": "Roblox Underrated Games. on X: \"=Game Recommendation ... =Game Recommendation= Seabound by CyberBuild Studios SeaBound is a Nullscape-like game with a twist of a rising sea. Manage your oxygen levels while collecting shards underwater.",
+    "url": "https://x.com/Roblox_UGs/status/2078633817150271727",
+    "pass": 3
+   },
+   {
+    "quote": "SeaBound (@ThisSeaBound) / Posts / X SeaBound (@ThisSeaBound) - Posts - I like metal and board games. || I am not the German electronic duo coincidentally also called Seabo... | X (formerly Twitter)",
+    "url": "https://x.com/ThisSeaBound",
+    "pass": 3
+   },
+   {
+    "quote": "\"#seabound\" - Results on X | Live Posts & Updates Results for \"#seabound\" on X (Twitter). Find the latest posts, discussions, and updates about #seabound. 19 results found.",
+    "url": "https://x.com/hashtag/seabound",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Seabound - LinkedIn Seabound builds carbon capture equipment for large cargo ships. The equipment sits adjacent to a ship's funnel and traps up to 95% of the CO2 from its exhaust, using patent-pending technology.",
+    "url": "https://www.linkedin.com/company/seabound/",
+    "pass": 3
+   },
+   {
+    "quote": "Alisha Fredriksson - Co-Founder & CEO at Seabound | LinkedInJosie Leung - Seabound | LinkedInRoujia Wen - Tracebit | LinkedInSeabound captures carbon from ships while they’re still at seaHow Seabound Captures Carbon on the Sea, FRDM's ... - LinkedInSeabound Containers Launched for Shipping Industry - LinkedIn Co-Founder & CEO at Seabound · I’m on a mission to tackle the climate crisis by decarboni",
+    "url": "https://uk.linkedin.com/in/alishafredriksson",
+    "pass": 3
+   },
+   {
+    "quote": "Josie Leung - Seabound | LinkedIn Building ScubaSeason, an ocean data platform trying to bridge the gap between ocean… · Experience: Seabound · Education: Wellesley College · Location: New York · 500+ connections on LinkedIn ...",
+    "url": "https://www.linkedin.com/in/josietyleung",
+    "pass": 3
+   },
+   {
+    "quote": "Roujia Wen - Tracebit | LinkedInSeabound captures carbon from ships while they’re still at seaHow Seabound Captures Carbon on the Sea, FRDM's ... - LinkedInSeabound Containers Launched for Shipping Industry - LinkedIn • Software engineer, previously CTO at a YC-backed startup Seabound ($8M raised) •… · Experience: Tracebit · Education: University of Cambridge · Location: London · 500+ connections ",
+    "url": "https://uk.linkedin.com/in/roujia-wen",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Seabound - FacebookSeabound Siberians - FacebookSeabound Engineering | Greencastle - FacebookSeabound - FacebookSeabound Farm - FacebookSeabound (OFFICIAL) - FacebookSeabound - While you haven't heard much from Seabound in... Jun 13, 2020 · Radioaktivists announce long-awaited debut album \"Radioakt One\" Radioaktivists, the all-star project of Daniel Myer (Haujobb, Architect), Krischan Jan-Eric Wes",
+    "url": "https://www.facebook.com/seaboundofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Siberians - Facebook Oct 19, 2026 · ONE WEEK OLD! Our Seabound babies are growing a little more every day, and we’re soaking up every precious moment of these early days. Here’s to many more weeks of puppy breath, full bellies, and tiny milestones. 🐺",
+    "url": "https://www.facebook.com/seaboundsiberians/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound Engineering | Greencastle - Facebook Jun 5, 2026 · Seabound stock built Poleson 8 mtr cat pleasure boat performed amazingly on her first sea-trials in Greencastle. With a top speed of 28.4 knots, she feels very comfortable and stable on the water.",
+    "url": "https://www.facebook.com/Seaboundboats/",
+    "pass": 3
+   },
+   {
+    "quote": "Seabound - Facebook @_out_of_office_nz gliding under Mauao 🧚🏻 For those of you who are new here this post is a bit about me and my small business Seabound ️🔥 How many lanes are you in? 🫣 How many lanes are you in? 🫣",
+    "url": "https://www.facebook.com/61553271222041/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seabound.co/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.sanity.io/images/jano46oq/production/a3ceb766fd0efede927334397232ea12862c9530-554x274.png?auto=format",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://carboncredits.jp/global/kbzezpku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seabound.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://londonresearchinternational.com/wp-content/uploads/2024/03/LRIEC130224.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seabourn.com/en/us/cruise-destinations/asia-cruises/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seaboundjourneys.com/land-tours-japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cruisecritic.com/find-a-cruise/destination-japan/cruise-line-seabourn",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seabound.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guru99.com/iptv-reseller-panel.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/seabound-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/489189-70",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/seabound/__hmR2kSQlwxbeI82U585xH_8aQbbwitL_FaZvZenLXzA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/seabound.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/great_bear1694/n/n32022143c94f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ThisSeaBound",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SeaboundSupply",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PlaySeabound",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Roblox_UGs/status/2078633817150271727",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/seabound/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/alishafredriksson",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/josietyleung",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/roujia-wen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/seaboundofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/seaboundsiberians/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Seaboundboats/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61553271222041/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PlaySeabound",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ThisSeaBound",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/seabound",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Seabound 日本 導入",
+   "results": [
+    "https://carboncredits.jp/global/kbzezpku/",
+    "https://www.seabound.co/",
+    "https://londonresearchinternational.com/wp-content/uploads/2024/03/LRIEC130224.pdf",
+    "https://carboncredits.jp/global/seabound-first-full-scale-maritime-ccs-system-esa-funding/",
+    "https://forbesjapan.com/articles/detail/64225",
+    "https://jp.globalccsinstitute.com/ccs-in-the-news-日本語版-2025年7月23日版1/",
+    "https://note.com/yaandyu0423/n/nccc2c4e0ab67"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seabound 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://chigai-hikaku.com/?p=36920"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seabound Japan",
+   "results": [
+    "https://www.seabourn.com/en/us/cruise-destinations/asia-cruises/japan",
+    "https://seaboundjourneys.com/land-tours-japan.html",
+    "https://www.cruisecritic.com/find-a-cruise/destination-japan/cruise-line-seabourn",
+    "https://seaboundjourneys.com/japan-land-tour-map.html",
+    "https://www.seabound.co/",
+    "https://port-of-japan.com/ships/seabourn-encore/",
+    "https://www.seabourn.com/en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seabound manufacturing customer case study",
+   "results": [
+    "https://www.seabound.co/",
+    "https://www.seabound.co/news/stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions",
+    "https://lomarlabs.com/wp-content/uploads/2024/02/Seabound-Sea-Trial-Results-Press-Release.pdf",
+    "https://maritime-innovations.com/seabound-commercial-marine-carbon-capture-system/",
+    "https://www.staxengineering.com/stax-hub/stax-engineering-seabound-first-integrated-emissions-carbon-capture-solution/",
+    "https://www.internationalmanufacturingupdate.com/article/803960492-stax-engineering-and-seabound-successfully-demonstrate-first-of-its-kind-integrated-emissions-and-carbon-capture-solution",
+    "https://iuk-business-connect.org.uk/casestudy/clean-maritime-capturing-and-reusing-carbon-emissions/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seabound white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.seoreseller.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.guru99.com/iptv-reseller-panel.html",
+    "https://www.20i.com/us/reseller-hosting",
+    "https://www.namesilo.com/reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seabound founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/seabound-revenue",
+    "https://pitchbook.com/profiles/company/489189-70",
+    "https://tracxn.com/d/companies/seabound/__hmR2kSQlwxbeI82U585xH_8aQbbwitL_FaZvZenLXzA",
+    "https://getlatka.com/companies/seabound.co",
+    "https://indexed.vc/companies/seabound",
+    "https://startupintros.com/orgs/seabound",
+    "https://fundediq.co/seabound-seabound-co-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Seabound",
+   "results": [
+    "https://note.com/",
+    "https://note.com/great_bear1694/n/n32022143c94f",
+    "https://note.com/suzuken0331/n/n79d0cb2c25ea",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Seabound",
+   "results": [
+    "https://x.com/ThisSeaBound",
+    "https://x.com/SeaboundSupply",
+    "https://x.com/PlaySeabound",
+    "https://x.com/Roblox_UGs/status/2078633817150271727",
+    "https://x.com/SurgeOnRoblox/status/2049203064075125152",
+    "https://x.com/Tawffii/status/2052056261512909115",
+    "https://x.com/musicbynortsan/status/2116245039609417953"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Seabound",
+   "results": [
+    "https://www.linkedin.com/company/seabound/",
+    "https://uk.linkedin.com/in/alishafredriksson",
+    "https://www.linkedin.com/in/josietyleung",
+    "https://uk.linkedin.com/in/roujia-wen",
+    "https://www.linkedin.com/pulse/seabound-captures-carbon-from-ships-while-theyre-still-bhcpe",
+    "https://www.linkedin.com/pulse/how-seabound-captures-carbon-sea-frdms-fight-against-modern-jones-huljc",
+    "https://www.linkedin.com/posts/seabound_from-concept-to-commercial-last-week-activity-7407053193093922817-T_Ew"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Seabound",
+   "results": [
+    "https://www.facebook.com/seaboundofficial/",
+    "https://www.facebook.com/seaboundsiberians/",
+    "https://www.facebook.com/Seaboundboats/",
+    "https://www.facebook.com/61553271222041/",
+    "https://www.facebook.com/seaboundfarm/",
+    "https://www.facebook.com/Seaboundaus/",
+    "https://www.facebook.com/seaboundofficial/posts/while-you-havent-heard-much-from-seabound-in-the-last-year-we-finally-have-some-/176013799102573/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seabound note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seabound X 投稿",
+   "results": [
+    "https://x.com/PlaySeabound",
+    "https://x.com/ThisSeaBound",
+    "https://x.com/hashtag/seabound",
+    "https://www.instagram.com/seaboundpages/",
+    "https://x.com/seabound_sailor",
+    "https://www.instagram.com/seabound/",
+    "https://x.com/seAsobi4rt/status/2119043421688177031"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）"
+ }
+}

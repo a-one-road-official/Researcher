@@ -1,0 +1,1897 @@
+{
+ "name": "RightHand Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T21:47:24.764100+00:00",
+ "official_url": "https://www.righthandrobotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "07-Oct-2015    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "735,049 $0.000100 6% $0.52 $0.52  $0.52 1.05%",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "4,329,936 $0.000100 6% $0.65 $0.65  $0.65 6.2%",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Best-In-Class Predictable Order Fulfillment",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The best-in-class piece-picking solution for reliable and autonomous order fulfillment, driven by machine learning and AI, using proprietary industrial hardware.",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventative maintenance",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frequent software improvements",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Systems level approach",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready for production use",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Mobile Robots (AMRs) are a nimble and easily scalable option for a goods-to-picker workflow. AMRs can work around the clock and adapt to changing environments, unlocking a faster and more flexible order fulfillment process.",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic integration partners are advancing warehouse automation around the globe. When you choose a RightHand Robotics partner you have access to solutions experts who can help you further automate your operations for predictability, resiliency, and cost effectiveness, making it easier to adopt robotic piece-picking.",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easy and reliable automation is the promise we fulfill to our customers. But don't just take our word for it, hear directly from the folks who use our robots every day.",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best-In-Class Predictable Order Fulfillment",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "The best-in-class piece-picking solution for reliable and autonomous order fulfillment, driven by machine learning and AI, using proprietary industrial hardware.",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Preventative maintenance",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Frequent software improvements",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Systems level approach",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Ready for production use",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Mobile Robots (AMRs) are a nimble and easily scalable option for a goods-to-picker workflow. AMRs can work around the clock and adapt to changing environments, unlocking a faster and more flexible order fulfillment process.",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic integration partners are advancing warehouse automation around the globe. When you choose a RightHand Robotics partner you have access to solutions experts who can help you further automate your operations for predictability, resiliency, and cost effectiveness, making it easier to adopt robotic piece-picking.",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Easy and reliable automation is the promise we fulfill to our customers. But don't just take our word for it, hear directly from the folks who use our robots every day.",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Software Provider",
+    "url": "https://righthandrobotics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We're inspired by innovation, and energized to solve problems.",
+    "url": "https://righthandrobotics.com/partners/element-logic",
+    "pass": 1
+   },
+   {
+    "quote": "As we continue expanding around the globe, we’re looking to staff our organization with bright, hard-working professionals who share our passion for creating robots that solve real-world problems.",
+    "url": "https://righthandrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“We recognize that as a robotics startup, we are in a position to make a difference in the way we hire, educate and create an inclusive work environment for our employees.”",
+    "url": "https://righthandrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system is perfect for a wide range of industries, with its ability to pick and place thousands of SKUs and move items through the order fulfillment process consistently at a high rate.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system is scalable to keep up with demand, handling new items without any training whether your product catalog includes millions of items or a changing assortment.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Configured with a wide array of continually improving skills and features, our AI-powered robots can handle your electronics with model-free picking, gentle grasping, and precise placements.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Innovation never goes out of fashion. The RightPick item-handling system provides fast and predictable handling for packaged apparel, whether for a small percentage of your order volume or nearly all of it.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Whether in a traditional warehouse or a micro-fulfillment facility, our piece-picking system has the smallest footprint, and can gently handle grocery items while accelerating delivery times.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system works collaboratively around the world with logistics facility employees and existing manual or automated systems, providing businesses with a vital productivity boost.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Start your journey to installing robotic piece-picking in your facilities with a step-by-step process on how to assess your inventory, or discover how the RightPick system can integrate with new and existing workflows, whether they are manual or automated.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous mobile robots (AMRs) offer a flexible material handling option, reducing the need for human travel across the warehouse with minimal disruption to your existing operation. Add RightPick robots to the solution and you are on the fast track to best in class productivity for your fulfillment operation.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Automated bagging is a great application for single-line order workflows and low SKU count, high-volume kitting processes. The RightPick system turns these historically low productivity workflows into efficient and predictable capacity, providing accurate order completion and staffing flexibility.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Put walls offer a simple, cost-effective approach enabling increased productivity in your upstream picking process without compromising order accuracy. A RightPick integration automates this traditionally manual process by picking items from mixed-SKU totes, reading the barcodes, and placing items into the appropriate order cubby for packout.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Kitting is ideal for repeatedly fulfilling identical or slightly varied orders from a limited set of products. Leverage RightPick systems to create a fully automated or hybrid model with your staff to get the ultimate in productivity, quality and flexibility to accommodate personalized offers, seasonality or sales.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "We're inspired by innovation, and energized to solve problems.",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "The RightCare service and support plan provides exceptional customer experience in conjunction with your RightPick AI software annual license agreement. The comprehensive program delivers the operational peace of mind of an all-inclusive hardware and software maintenance and support program with a predictable, cost-effective annual expense.",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive \"bumper-to-bumper\" maintenance program",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "Preventative maintenance and scheduled service",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "Software updates with machine learning based picking performance improvements",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "Additional training as needed",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "RightHand Robotics builds a data-driven intelligent picking platform, providing flexible and scalable automation for predictable order fulfillment. RightPick, our robotic piece-picking solution, enables retailers to rise up to the new realities of online commerce.",
+    "url": "https://righthandrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "RightHand Robotics was founded in 2015 by a DARPA challenge-winning team from the Harvard Biorobotics Lab, the Yale GRAB Lab, and MIT. Our founders learned from that competition that you can make a capable robotic gripper by combining a compliant smart mechanism and sensing that could improve through practical experience.",
+    "url": "https://righthandrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "In just a few short years, our company has assembled a world class team that’s committed to our mission and vision. We launched our autonomous robotic piece-picking product in 2017, developed key partnerships in Europe, Japan, and the U.S. and deployed fleets of robots for customers around the world.",
+    "url": "https://righthandrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "RightHand Robotics is funded by top venture capital firms actively investing in the robotics sector in response to booming e-commerce growth, including Menlo Ventures, Playground Global, GV, Matrix Partners, F-Prime Capital, and Dream Incubator.",
+    "url": "https://righthandrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "RightHand Robotics™ | Products",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system provides businesses with a vital productivity boost as part of a lean and efficient material handling process. The system learns as it picks, and has been building a database of knowledge that allows our customers to benefit from fleet learning. Each new robot benefits from 100% of our previous experience creating better AI with better analytics, metrics, and training data.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced sensing capabilities helps inform fleet learning and improve AI",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "With AI that is always learning, improvements are seamless for customers",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Smart model-free item recognition ensures system is providing value on day one",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system provides customers with AI-based software algorithms, a fine-tuned sensor suite, and proprietary industrial hardware that enables a highly autonomous solution, capable of picking a wide SKU range with minimal need for human intervention.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Smart exception handling tackles unexpected scenarios during the picking process to minimize human interventions.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Our systems level approach combined with the RightPick™ 4 solution unlocks production environment apparel picking.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "successful picks in production per month",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "years of production picking",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Fleets of robots have been picking for 5 years in production on multiple continents, making us the most industrial solution on market.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "With the power of RightPick AI, and our focus on the overall solution rather than individual components, the RightPick system is the easiest robotic piece-picking system to integrate, and is picking and providing value within days. Through a well-defined API, system integrators can easily incorporate the RightPick system into their offered workflows and bring immediate value to customers.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "The best-in-class piece-picking solution for reliable and autonomous order fulfillment, driven by machine learning and AI, using proprietary industrial hardware.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Preventative maintenance",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Frequent software improvements",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "E-commerce revenues have grown steadily since the early 2000s with projections to surpass $1 trillion in the US alone this year. On top of that growth, COVID-19 disruptions and a shrinking overall labor force are compounding order fulfillment problems. Many companies are",
+    "url": "https://righthandrobotics.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "to keep up with demand. The RightHand Robotics RightPick™ robotic piece-picking system offers one solution to meet demand, with the ability to transfer products quickly and reliably from inventory storage bins directly to outbound orders.",
+    "url": "https://righthandrobotics.com/industries/e-commerce",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The best-in-class piece-picking solution for reliable and autonomous order fulfillment, driven by machine learning and AI, using proprietary industrial hardware.",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our technology and AutoStore combined with the RightPick system creates a new future for warehouse automation\"",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic integration partners are advancing warehouse automation around the globe. When you choose a RightHand Robotics partner you have access to solutions experts who can help you further automate your operations for predictability, resiliency, and cost effectiveness, making it easier to adopt robotic piece-picking.",
+    "url": "https://righthandrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The best-in-class piece-picking solution for reliable and autonomous order fulfillment, driven by machine learning and AI, using proprietary industrial hardware.",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "“Our technology and AutoStore combined with the RightPick system creates a new future for warehouse automation\"",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic integration partners are advancing warehouse automation around the globe. When you choose a RightHand Robotics partner you have access to solutions experts who can help you further automate your operations for predictability, resiliency, and cost effectiveness, making it easier to adopt robotic piece-picking.",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Software Provider",
+    "url": "https://righthandrobotics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Born from the partnership of three warehouse automation technologies, Element Logic software, the AutoStore™ automated storage and retrieval system (ASRS), and the RightPick™ system, a new, integrated fulfillment solution is enabling customers to flexibly scale operations, and decrease operational costs.",
+    "url": "https://righthandrobotics.com/partners/element-logic",
+    "pass": 1
+   },
+   {
+    "quote": "Whether in a traditional warehouse or a micro-fulfillment facility, our piece-picking system has the smallest footprint, and can gently handle grocery items while accelerating delivery times.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous mobile robots (AMRs) offer a flexible material handling option, reducing the need for human travel across the warehouse with minimal disruption to your existing operation. Add RightPick robots to the solution and you are on the fast track to best in class productivity for your fulfillment operation.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "RightCare is managed by our account team leaders and administered by certified technicians to maximize the performance and availability of assets that are critical to customer operations.",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "Managed by account team leaders, administered by certified technicians",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system provides customers with AI-based software algorithms, a fine-tuned sensor suite, and proprietary industrial hardware that enables a highly autonomous solution, capable of picking a wide SKU range with minimal need for human intervention.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Faster, higher-resolution industrial cameras, designed specifically for piece-picking, enable greater range and flexibility in physical workspaces.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "Fleets of robots have been picking for 5 years in production on multiple continents, making us the most industrial solution on market.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "The best-in-class piece-picking solution for reliable and autonomous order fulfillment, driven by machine learning and AI, using proprietary industrial hardware.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "investing in their warehouses",
+    "url": "https://righthandrobotics.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Adding RightPick industrial picking robots into existing sorter induction workflows will allow the system to handle a vast range of mixed SKUs, batch-picked totes, or subdivided single-SKU totes, picking and placing to traditional or robotic unit sorters while allowing your team to focus on other high-value tasks on the warehouse floor.",
+    "url": "https://righthandrobotics.com/industries/pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick™ system is ready to go to work for fulfillment center operators in multiple industries, designed for easy integration with standard APIs, documentation, and the flexibility to handle different workflows and workspaces. Powered by RightPick AI, the system is capable of handling thousands of products without ever missing a pick.",
+    "url": "https://righthandrobotics.com/applications",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous mobile robots (AMRs) offer a flexible material handling option, reducing the need for human travel across the warehouse with minimal disruption to your existing operation. Add RightPick robots to the solution and you are on the fast track to best in class productivity for your fulfillment operation.",
+    "url": "https://righthandrobotics.com/applications",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Software Provider",
+    "url": "https://righthandrobotics.com/jp/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Born from the partnership of three warehouse automation technologies, Element Logic software, the AutoStore™ automated storage and retrieval system (ASRS), and the RightPick™ system, a new, integrated fulfillment solution is enabling customers to flexibly scale operations, and decrease operational costs.",
+    "url": "https://righthandrobotics.com/jp/partners/element-logic",
+    "pass": 1
+   },
+   {
+    "quote": "Whether in a traditional warehouse or a micro-fulfillment facility, our piece-picking system has the smallest footprint, and can gently handle grocery items while accelerating delivery times.",
+    "url": "https://righthandrobotics.com/jp/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous mobile robots (AMRs) offer a flexible material handling option, reducing the need for human travel across the warehouse with minimal disruption to your existing operation. Add RightPick robots to the solution and you are on the fast track to best in class productivity for your fulfillment operation.",
+    "url": "https://righthandrobotics.com/jp/industries",
+    "pass": 1
+   },
+   {
+    "quote": "investing in their warehouses",
+    "url": "https://righthandrobotics.com/jp/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "installation to be unveiled at PALTAC CORPORATION warehouse",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "As the world’s second-largest retail sector as well as the second-largest industrial robotics market, Japan represents a significant market opportunity for supply chain automation. RightHand’s first deployment in the country is with",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan’s largest wholesaler of consumer packaged goods. PALTAC will introduce RightHand’s piece-picking solution to the Japanese market at the launch of its newest facility, RDC Saitama, on October 10, 2019. The warehouse, located in Sugito, Saitama Prefecture, stocks over 20,000 SKUs every year and is equipped with multiple",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "installation to be unveiled at PALTAC CORPORATION warehouse",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "As the world’s second-largest retail sector as well as the second-largest industrial robotics market, Japan represents a significant market opportunity for supply chain automation. RightHand’s first deployment in the country is with",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan’s largest wholesaler of consumer packaged goods. PALTAC will introduce RightHand’s piece-picking solution to the Japanese market at the launch of its newest facility, RDC Saitama, on October 10, 2019. The warehouse, located in Sugito, Saitama Prefecture, stocks over 20,000 SKUs every year and is equipped with multiple",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Warehouse Research Reports",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", the second generation of its piece-picking solution. It includes several hardware and software updates, including a fifth-generation industrial gripper, new depth-sensing cameras from Intel, and an improved cobot arm from Universal Robots. RightPick2 also includes new features such as bar-code scanning and the ability to work with put-wall sortation systems.",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "“I think of the grasping problem as an extension of the Kiva system,” said Mountz. “We wiped out the wasted walking throughout the warehouse, while RightHand takes out the next level in the operation of picking and packing.”",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "How Plastic Storage Bins Improve Manufacturing Floor Efficiency",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how large plastic bins and color-coded visual management systems help manufacturers...",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "Why Standardizing Warehouse Labels and Signage Improves Multi-Site Operations",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "Standardizing warehouse labels and signage across multiple facilities improves safety, reduces training...",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "6 Warehouse Safety Tips to Prevent Injuries and Improve Operations",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "Learn six essential warehouse safety tips to reduce injuries, improve compliance, and...",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by RightHand Robotics",
+    "url": "https://www.casestudies.com/customer/righthand-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "How RightHand Robotics is using RealSense™ computer vision technology to revolutionize automated warehouse order fulfillment",
+    "url": "https://www.casestudies.com/customer/righthand-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "RealSense Case Study: RightHand Robotics – How RightHand Robotics is using RealSense™ computer vision technology to revolutionize automated warehouse order fulfillment | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "pass": 3
+   },
+   {
+    "quote": "How RightHand Robotics is using RealSense™ computer vision technology to revolutionize automated warehouse order fulfillment",
+    "url": "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how RightHand Robotics used RealSense",
+    "url": "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics | Warehouse Automation Case Study - YouTube",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics | Warehouse Automation Case Study",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how RightHand Robotics is helping transform warehouse automation and order fulfillment through advanced robotic",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how RightHand Robotics is helping transform warehouse automation and order fulfillment through advanced robotic picking technology.",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "In this case study, we explore how robotic automation is being integrated into fulfillment operations to improve efficiency, streamline workflows, and address the evolving challenges of modern supply chains.",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "Featuring interviews and real-world demonstrations, this video offers an inside look at the technology behind automated piece picking and its potential to reshape the future of warehouse operations.",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics develops AI-powered robotic piece-picking solutions designed to help businesses automate warehouse and fulfillment operations.",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of robotic piece-picking systems designed to help clients manage supply chain logistics.",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of robotic piece-picking systems designed to help clients manage supply chain logistics. The company's syst",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: AI Picking Robots That Grasp Diverse Warehouse Items One by One｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: AI Picking Robots That Grasp Diverse Warehouse Items One by One",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.forbes.com/sites/amyfeldman/2022/02/23/as-competition-to-automate-warehouses-heats-up-righthand-robotics-raises-66-million/",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Become part of a passionate team",
+    "url": "https://righthandrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“We recognize that as a robotics startup, we are in a position to make a difference in the way we hire, educate and create an inclusive work environment for our employees.”",
+    "url": "https://righthandrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Configured with a wide array of continually improving skills and features, our AI-powered robots can handle your electronics with model-free picking, gentle grasping, and precise placements.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system works collaboratively around the world with logistics facility employees and existing manual or automated systems, providing businesses with a vital productivity boost.",
+    "url": "https://righthandrobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty on parts and accessories",
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system provides businesses with a vital productivity boost as part of a lean and efficient material handling process. The system learns as it picks, and has been building a database of knowledge that allows our customers to benefit from fleet learning. Each new robot benefits from 100% of our previous experience creating better AI with better analytics, metrics, and training data.",
+    "url": "https://righthandrobotics.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "E-commerce revenues have grown steadily since the early 2000s with projections to surpass $1 trillion in the US alone this year. On top of that growth, COVID-19 disruptions and a shrinking overall labor force are compounding order fulfillment problems. Many companies are",
+    "url": "https://righthandrobotics.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Keeping pace with online order growth requires a robotic system that is fast enough to match your throughput needs. The RightPick system transfers up to 1,200 products per hour in raw speed tests, and can quickly scan barcodes as part of more complex workflows.",
+    "url": "https://righthandrobotics.com/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick robotic piece-picking system provides comprehensive accountability for all key performance metrics, and “owns the pick” by generating useful data that helps to further optimize performance over time. This includes built-in barcode-reading capabilities, allowing the system to scan and verify items for product traceability and order validation as part of a quality management process.",
+    "url": "https://righthandrobotics.com/industries/pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to 1D barcodes, the RightPick system can handle 2D codes, which are an important part of the drug safety infrastructure in the United States. Using 2D barcodes helps the FDA accurately track product identifiers and helps health care providers capture complete, error-free data about vaccine inventory and administration,",
+    "url": "https://righthandrobotics.com/industries/pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "Configured with a wide array of continually improving skills and features, our AI-powered robots can handle your electronics with model-free picking, gentle grasping, and precise placements.",
+    "url": "https://righthandrobotics.com/jp/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The RightPick system works collaboratively around the world with logistics facility employees and existing manual or automated systems, providing businesses with a vital productivity boost.",
+    "url": "https://righthandrobotics.com/jp/industries",
+    "pass": 1
+   },
+   {
+    "quote": "E-commerce revenues have grown steadily since the early 2000s with projections to surpass $1 trillion in the US alone this year. On top of that growth, COVID-19 disruptions and a shrinking overall labor force are compounding order fulfillment problems. Many companies are",
+    "url": "https://righthandrobotics.com/jp/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Keeping pace with online order growth requires a robotic system that is fast enough to match your throughput needs. The RightPick system transfers up to 1,200 products per hour in raw speed tests, and can quickly scan barcodes as part of more complex workflows.",
+    "url": "https://righthandrobotics.com/jp/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition will combine Symbotic's supply chain robotics solutions with software-driven sortation systems.",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics has 97 total employees.",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "What is RightHand Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for RightHand Robotics is",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics works with integrators—companies that build warehouses by combining various types of equipment—to implement its solutions. Among the partners listed on its official website, Element Logic in Europe and Okamura in Japan have both built systems in their respective regions that combine RightPick with AutoStore as a core component. (Source:",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "6. Revenue and Revenue Growth",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics does not officially disclose revenue or ARR (Annual Recurring Revenue). Even in funding announcements, these figures remain consistently undisclosed (no official information).",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For reference, as a third-party estimate, CB Insights lists 2022 revenue at $10M.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than automating the entire warehouse, by narrowing the focus to the most difficult picking process, they have deeply developed grippers and AI capable of handling a wide range of products. Their position as a specialist that can be retrofitted to existing facilities lowers the hurdle for adoption.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While major picking competitors are being acquired by large corporations, RightHand Robotics maintains its position as an independent vendor capable of neutral integration. While having industry giants like SoftBank and Rockwell as shareholders, it retains the flexibility of not being tied to any specific warehouse system.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Roboticsは、売上高やARR（年間経常収益）を公式には開示していません",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics는 매출액이나 ARR(연간 경상 수익)을 공식적으로 공개하지 않고 있습니다. 자금 조달 발표에서도 이러한 수치는 일관되게 비공개입니다(공식 정보 없음).",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "In just a few short years, our company has assembled a world class team that’s committed to our mission and vision. We launched our autonomous robotic piece-picking product in 2017, developed key partnerships in Europe, Japan, and the U.S. and deployed fleets of robots for customers around the world.",
+    "url": "https://righthandrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "2017年に自律型ロボットによるピース・ピッキング製品を発売し、ヨーロッパ、日本、米国での重要なパートナーシップを発展させ、世界中のお客様のためにロボットを展開してきました",
+    "url": "https://righthandrobotics.com/jp/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Righthand Robotics | RightHand Robotics Establishes Japan Entity",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics Establishes Japan Entity",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics has announced the establishment of a new corporate entity in Japan, RightHand Robotics GK.",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": ", a leader in providing autonomous robotic piece-picking solutions, has announced the establishment of a new corporate entity in Japan, RightHand Robotics GK. The subsidiary will enable RightHand to better serve the fast-growing demand for robotic piece-picking in Japan and the rest of Asia Pacific.",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "As the world’s second-largest retail sector as well as the second-largest industrial robotics market, Japan represents a significant market opportunity for supply chain automation. RightHand’s first deployment in the country is with",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan’s largest wholesaler of consumer packaged goods. PALTAC will introduce RightHand’s piece-picking solution to the Japanese market at the launch of its newest facility, RDC Saitama, on October 10, 2019. The warehouse, located in Sugito, Saitama Prefecture, stocks over 20,000 SKUs every year and is equipped with multiple",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "With over 20 years of experience introducing innovative US-based technologies into the Japanese market, Kensaburo Tamura has been named to lead RightHand Robotics GK, serving as Regional Head of Asia Pacific. Previously, he served as the Country Manager at Cloudera, Inc., a provider of Big Data and AI/ML software platforms.",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "“Expanding into the Japanese market with the establishment of RightHand Robotics GK is a major accomplishment for our team,” said Leif Jentoft, co-founder of RightHand Robotics. “Japan is a huge and expanding market for robotic piece-picking and having a presence there, under Mr. Tamura’s leadership, will increase our opportunities in Asia Pacific and play a pivotal role in our global growth.”",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Righthand Robotics | PALTAC Corporation, Japan",
+    "url": "https://righthandrobotics.com/jp/resources/paltac-corporation-japan",
+    "pass": 3
+   },
+   {
+    "quote": "PALTAC Corporation, Japan",
+    "url": "https://righthandrobotics.com/jp/resources/paltac-corporation-japan",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics, a leader in providing robotic piece-picking solutions, is partnered with PALTAC Corporation, Japan’s largest wholesaler of consumer packaged goods. The collaboration introduces RightHand’s newest piece-picking solution to the Japanese market, with multiple workstations installed in PALTAC’s newest facility, RDC Saitama, which opened in 2019 in Sugito, Saitama Prefecture, Japan.",
+    "url": "https://righthandrobotics.com/jp/resources/paltac-corporation-japan",
+    "pass": 3
+   },
+   {
+    "quote": "アジア・太平洋地域への進出に向け日本法人を設⽴",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〜 株式会社 PALTAC の物流センターにロボットを導入 〜",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドリームインキュベータ（以下 DI）の投資先であり、ピッキングロボットの世界的なパ",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イオニア企業である RightHand Robotics（以下 RHR）が、日本を含むアジア・太平洋地域への",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "進出に向け日本法⼈を設⽴しましたのでお知らせいたします",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「世界第二位の卸売及び産業ロボット市場である日本では、ピッキングロボットの需要拡大が期",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "待され、日本法⼈設⽴は RHR にとって大きな一歩であります",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、日本を含めたアジア・",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、RHR は、化粧品・日用品・一般用医薬品卸業界のトップ企業である株式会社 PALTAC に対",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で、日本初の導入実績となっております",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "release/2019/10/10/1928074/0/en/RightHand-Robotics-Establishes-Japan-",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■株式会社ドリームインキュベータ（DI）について （http://www.dreamincubator.co.jp/）",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドリームインキュベータ インキュベーション部門 李 ／ 経営管理グループ 上村・岩佐",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics™ | RightHand Robotics Establishes Japan Entity",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics Establishes Japan Entity",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics has announced the establishment of a new corporate entity in Japan, RightHand Robotics GK.",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": ", a leader in providing autonomous robotic piece-picking solutions, has announced the establishment of a new corporate entity in Japan, RightHand Robotics GK. The subsidiary will enable RightHand to better serve the fast-growing demand for robotic piece-picking in Japan and the rest of Asia Pacific.",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "As the world’s second-largest retail sector as well as the second-largest industrial robotics market, Japan represents a significant market opportunity for supply chain automation. RightHand’s first deployment in the country is with",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan’s largest wholesaler of consumer packaged goods. PALTAC will introduce RightHand’s piece-picking solution to the Japanese market at the launch of its newest facility, RDC Saitama, on October 10, 2019. The warehouse, located in Sugito, Saitama Prefecture, stocks over 20,000 SKUs every year and is equipped with multiple",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "With over 20 years of experience introducing innovative US-based technologies into the Japanese market, Kensaburo Tamura has been named to lead RightHand Robotics GK, serving as Regional Head of Asia Pacific. Previously, he served as the Country Manager at Cloudera, Inc., a provider of Big Data and AI/ML software platforms.",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "“Expanding into the Japanese market with the establishment of RightHand Robotics GK is a major accomplishment for our team,” said Leif Jentoft, co-founder of RightHand Robotics. “Japan is a huge and expanding market for robotic piece-picking and having a presence there, under Mr. Tamura’s leadership, will increase our opportunities in Asia Pacific and play a pivotal role in our global growth.”",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics GK subsidiary opens in Japan",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", a robotic piece-picking company headquartered in Somerville, Mass., opened a corporate entity in Tokyo called RightHand Robotics GK. The subsidiary will help RightHand better meet demand for robotic piece-picking in Japan and all of Asia-Pacific.",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics GK will be led by Kensaburo Tamura, who was named regional head of Asia-Pacific. He previously served as the country manager at Cloudera, a provider of big data and AI/machine learning platforms. Tamura has 20-plus years of experience introducing U.S.-based technologies into Japan.",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "“Expanding into the Japanese market with the establishment of RightHand Robotics GK is a major accomplishment for our team,” said Leif Jentoft, co-founder of",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ". “Japan is a huge and expanding market for robotic piece-picking and having a presence there, under Mr. Tamura’s leadership, will increase our opportunities in Asia Pacific and play a pivotal role in our global growth.”",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics establishes Japan entity - Material Handling 24/7",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics establishes Japan entity",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "The subsidiary will enable RightHand to better serve the fast-growing demand for robotic piece-picking in Japan and the rest of Asia Pacific.",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": ", a leader in providing autonomous robotic piece-picking solutions, has announced the establishment of a new corporate entity in Japan, RightHand Robotics GK. The subsidiary will enable RightHand to better serve the fast-growing demand for robotic piece-picking in Japan and the rest of Asia Pacific.",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "With over 20 years of experience introducing innovative US-based technologies into the Japanese market, Kensaburo Tamura has been named to lead RightHand Robotics GK, serving as Regional Head of Asia Pacific. Previously, he served as the Country Manager at Cloudera, Inc., a provider of Big Data and AI/ML software platforms.",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "“Expanding into the Japanese market with the establishment of RightHand Robotics GK is a major accomplishment for our team,” said Leif Jentoft, co-founder of RightHand Robotics. “Japan is a huge and expanding market for robotic piece-picking and having a presence there, under Mr. Tamura’s leadership, will increase our opportunities in Asia Pacific and play a pivotal role in our global growth.”",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics works with integrators—companies that build warehouses by combining various types of equipment—to implement its solutions. Among the partners listed on its official website, Element Logic in Europe and Okamura in Japan have both built systems in their respective regions that combine RightPick with AutoStore as a core component. (Source:",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Okamura (Japan, Asian AutoStore Integrator)",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Okamura is a Japanese company known for its office furniture and products for educational and commercial facilities, and it also handles logistics systems. RightHand Robotics introduces the company as a major Japanese firm that provides high-quality products and services for offices, educational and commercial facilities, and logistics centers.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Unveiling to the Japanese market",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": The integrated system was unveiled in Japan for the first time at the International Logistics Exhibition held at Tokyo Big Sight from February 19 to 21, 2020.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトが挙げるパートナーのうち、欧州のElement Logicと日本のオカムラは、いずれもAutoStoreの取り扱いを軸に、RightPickと組み合わせた仕組みをそれぞれの地域で形にしてきました",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "オカムラ（日本、アジアのAutoStoreインテグレーター）",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "オカムラは、オフィス家具や教育・商業施設向けの製品で知られる日本企業で、物流システムも手がけています",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Roboticsは同社を、オフィス、教育、商業施設、物流センター向けに高品質な製品とサービスを提供する日本の主要企業と紹介しています",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": ": 統合したシステムは、2020年2月19日から21日に東京ビッグサイトで開催された国際物流総合展の場で、日本で初めて公開されました",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "オカムラを含むインテグレーターとの協業を通じて、RightHand Roboticsの顧客には日本最大の消費財卸売業者であるPALTACが名を連ねています",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "日本の倉庫は多品種を扱う現場が多く、掴む工程の自動化が課題になります",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "TEL︓ 03–5532–3200 ／ Email︓ info@dreamincubator.co.j p",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "hello@velocityglobal.com | +1 (303) 309-2894 | velocityglobal.com",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_Study_Right_Hand_Robotics.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RightHand Robotics Establishes Japan Entity — RightHand’s first deployment in the country is with PALTAC CORPORATION, Japan’s largest wholesaler of consumer packaged goods. PALTAC will introduce RightHand’s piece-picking solution to the Japanese market at the launch of its newest facility, RDC Saitama, on October 10, 2019.",
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Righthand Robotics | PALTAC Corporation, Japan — The collaboration introduces RightHand’s newest piece-picking solution to the Japanese market, with multiple workstations installed in PALTAC’s newest facility, RDC Saitama, which opened in 2019 in Sugito, Saitama Prefecture, Japan.",
+    "url": "https://righthandrobotics.com/jp/resources/paltac-corporation-japan",
+    "pass": 3
+   },
+   {
+    "quote": "地雷撤去から倉庫内物流へ ライトハンド・ロボティクスが日本初上陸、... — Oct 31, 2019 · RightHand Robotics, Inc. co-founder Leif Jentoft氏。 RDC埼玉竣工式にて 会社設立は2014年。 設立者はYaro Tenzer氏、Leif Jentoft氏の2人。",
+    "url": "https://www.sbbit.jp/article/cont1/37222",
+    "pass": 3
+   },
+   {
+    "quote": "Press Release - ドリームインキュベータ — 株式会社ドリームインキュベータ(以下DI)の投資先であり、ピッキングロボットの世界的なパイオニア企業であるRightHand Robotics(以下RHR)が、日本を含むアジア・太平洋地域への進出に向け日本法人を設立しましたのでお知らせいたします。",
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Careers - RightHand Robotics™ — Become part of a passionate team As we continue expanding around the globe, we’re looking to staff our organization with bright, hard-working professionals who share our passion for creating robots that solve real-world problems.",
+    "url": "https://righthandrobotics.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "Righthand Robotics | Home — RightHand Robotics has met all our requirements and expectations for advancing the capabilities of automation innovation as well as our high standards for speed, quality, and uptime.",
+    "url": "https://righthandrobotics.com/jp",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics Establishes Japan Entity — Oct 10, 2019 · BOSTON, October 10, 2019 - RightHand Robotics, a leader in providing autonomous robotic piece-picking solutions, has announced the establishment of a new corporate entity in Japan, RightHand Robotics GK.",
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics GK subsidiary opens in Japan — Oct 10, 2019 · RightHand Robotics, a robotic piece-picking company headquartered in Somerville, Mass., opened a corporate entity in Tokyo called RightHand Robotics GK. The subsidiary will help RightHand better meet demand for robotic piece-picking in Japan and all of Asia-Pacific.",
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics establishes Japan entity - Material ... — RightHand Robotics, a leader in providing autonomous robotic piece-picking solutions, has announced the establishment of a new corporate entity in Japan, RightHand Robotics GK.",
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics Establishes Japan Entity to Better Serve ... — RightHand Robotics (RHR), one of Dream Incubator’s (DI) invested companies in the U.S. and a leader in providing autonomous robotic piece-picking solutions, established a new corporate entity in Japan.",
+    "url": "https://www.dreamincubator.co.jp/en/news/2019/16012/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring RightHand Robotics as the Customer — Explore case studies featuring RightHand Robotics as the customer — learn how vendors and partners helped RightHand Robotics solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/righthand-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "RealSense Case Study: RightHand Robotics – How RightHand ... — \"How RightHand Robotics is using RealSense™ computer vision technology to revolutionize automated warehouse order fulfillment\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics — RightHand Robotics needed to relocate an essential employee to meet growing demand for its e-commerce order fulfillment solutions in Europe. With no prior experience in German employment law or the market, RHR sought a solution designed for compliance and expediency to meet its strict deadline.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_Study_Right_Hand_Robotics.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics | Warehouse Automation Case Study — RightHand Robotics | Warehouse Automation Case StudyDiscover how RightHand Robotics is helping transform warehouse automation and order fulfillment through a...",
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics™ | AI Powered Piece-Picking — Don't just take our word for it Easy and reliable automation is the promise we fulfill to our customers. But don't just take our word for it, hear directly from the folks who use our robots every day. View Case Studies",
+    "url": "https://righthandrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics - 2026 Company Profile, Team, Funding ... — Mar 12, 2026 · RightHand Robotics is a series C company based in Cambridge (United States), founded in 2014 by Lael Odhner and Yaro Tenzer. It operates as a Developer of robotic piece-picking solutions for order fulfillment and warehouse automation. RightHand Robotics has raised $125M in funding from Menlo Ventures and Safar Partners.",
+    "url": "https://tracxn.com/d/companies/righthandrobotics/__lXOk7jXH2TpUjUS1_yggjWBmfktzo_eVJKdDf2Aiu10",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics - 2026 Company Profile, Funding | The ... — Oct 15, 2026 · RightHand Robotics has raised $125.32 million across 9 funding rounds from investors including Zebra, Rockwell Automation and Epson. The company has 57 employees. Its focus areas include High Tech, Industrial Robotics, Tech Enablers and Hardware. Its legal entity is RIGHTHAND ROBOTICS, INC.",
+    "url": "https://www.thecompanycheck.com/company/b/righthand-robotics/7uwgluzkytiyxo9sl",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics 2026 Company Profile: Valuation, Funding ...RightHand Robotics - Overview, News & Similar companies ...RightHand Robotics: Funding, Investors & Team (Nov 2026)RightHand Robotics Secures $66 Million in Series C FundingRightHand Robotics – Competitor List & Expansion Signals – 2026 — Information on valuation, funding, cap tables, investors, and executives for RightHand Robotics. U",
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics - Overview, News & Similar companies ... — Gather financial insights about RightHand Robotics, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/righthand-robotics/363520159",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: Funding, Investors & Team (Nov 2026) — RightHand Robotics is an Artificial Intelligence company in Somerville, United States. Raised $66.0M across 2 rounds; latest round Mar 2025.",
+    "url": "https://fundediq.co/righthand-robotics-righthandrobotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "RightHand Robotics: AI Picking Robots That Grasp Diverse ... Oct 27, 2026 · RightHand Robotics integrates suction cups and three flexible fingers into a single gripper, allowing it to pick everything from rigid boxes to soft polybags with one device without tool changes.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: 倉庫の多様な商品を1点ずつ掴み分けるAIピッキン... RightHand Roboticsは、この課題に対して「Autonomous robotic piece-picking」を掲げ、システムを「手・目・協調（the hand, eye, coordination）」の3要素で説明しています。",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: 창고 내 다양한 상품을 하나씩 집어내는 AI 피킹... RightHand Robotics가 공식적으로 제시하는 과제는 다음 3가지로 정리할 수 있습니다. 다품종·다형상 피킹의 어려움 창고에서는 수백만 가지에 이르는 서로 다른 SKU (Stock Keeping Unit, 재고 관리상의 상품 종류)를 다뤄야 합니다.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "RightHand Robotics: AI Picking Robots That Grasp Diverse Warehouse Items One by One｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: AI Picking Robots That Grasp Diverse Warehouse Items One by One",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse automation has advanced significantly over the last decade. Transport robots that move goods from shelves to workers, cube-based storage systems that automatically store and retrieve ordered items, and high-speed sorters—many processes have been replaced by machines. However, one task has remained in human hands until the very end: the task of \"grasping\" items that are piled haphazardly ",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Specializing in this \"piece-picking\" is RightHand Robotics, based in Massachusetts, USA. Founded in 2014, the company was started by three individuals from the Harvard Biorobotics Lab and Yale GRAB Lab who won a competition for robot hand technology held by DARPA (the Defense Advanced Research Projects Agency, the agency responsible for research and development of advanced technologies for the U.S",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.forbes.com/sites/amyfeldman/2022/02/23/as-competition-to-automate-warehouses-heats-up-righthand-robotics-raises-66-million/",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Co-founder Odhner describes the difficulty of warehouses as follows: \"The warehouse is a surprisingly diverse environment.\" Unlike factories that continue to produce the same products, warehouses contain a mix of hundreds to millions of different types of items.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://thetechtribune.com/lael-odhner-of-righthand-robotics/",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company's flagship product, \"RightPick,\" combines a proprietary gripper (a device for grasping items) with industrial cameras and AI software, and is said to handle over 1.2 million picks per month in production environments.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: 倉庫の多様な商品を1点ずつ掴み分けるAIピッキングロボット｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: 倉庫の多様な商品を1点ずつ掴み分けるAIピッキングロボット",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫の自動化はこの10年で大きく進みました。商品を棚から作業者のもとへ運ぶ搬送ロボット、注文品を自動で保管・取り出すキューブ型倉庫、高速で仕分けるソーター。多くの工程が機械に置き換わりました。しかし最後まで人の手に残った作業があります。棚やコンテナに雑多に積まれた商品を、1点ずつ「掴んで」次の工程へ渡す作業です。",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "この「掴む（piece-picking、ピース単位ピッキング）」に特化しているのが、米国マサチューセッツ州のRightHand Roboticsです。創業は2014年。DARPA（米国防高等研究計画局。米国防総省で先端技術の研究開発を担う機関）が開催した、ロボットハンドの技術を競う大会を勝ち抜いた、Harvard Biorobotics LabとYale GRAB Lab出身の3名が立ち上げました。共同創業者はYaro Tenzer氏、Lael Odhner氏、Leif Jentoft氏で、研究室で磨いた「掴む」技術をそのまま倉庫の現場に持ち込んだ会社です。",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.forbes.com/sites/amyfeldman/2022/02/23/as-competition-to-automate-warehouses-heats-up-righthand-robotics-raises-66-million/",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "共同創業者のOdhner氏は倉庫の難しさをこう表現しています。「The warehouse is a surprisingly diverse environment.」（倉庫は驚くほど多様な環境だ）。同じ製品を作り続ける工場と違い、倉庫には数百から数百万種類の商品が混在します。",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "https://thetechtribune.com/lael-odhner-of-righthand-robotics/",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "同社の主力製品「RightPick」は、独自のグリッパー（商品を掴む装置）と産業用カメラ、AIソフトウェアを組み合わせ、本番環境で月間120万回超のピッキングをこなしているとしています。",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: 창고 내 다양한 상품을 하나씩 집어내는 AI 피킹 로봇｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics: 창고 내 다양한 상품을 하나씩 집어내는 AI 피킹 로봇",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "창고 자동화는 지난 10년간 크게 발전했습니다. 상품을 선반에서 작업자에게 운반하는 이송 로봇, 주문 상품을 자동으로 보관하고 꺼내는 큐브형 창고, 고속으로 분류하는 소터까지 많은 공정이 기계로 대체되었습니다. 하지만 끝까지 사람의 손에 남은 작업이 있습니다. 선반이나 컨테이너에 무작위로 쌓인 상품을 하나씩 '집어서' 다음 공정으로 넘기는 작업입니다.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "이 '집기(piece-picking, 피스 단위 피킹)'에 특화된 기업이 미국 매사추세츠주의 RightHand Robotics입니다. 2014년에 설립되었으며, DARPA(미국 국방고등연구계획국, 미 국방부 산하 첨단 기술 연구개발 기관)가 주최한 로봇 핸드 기술 경연대회에서 우승한 하버드 바이오로보틱스 연구소(Harvard Biorobotics Lab)와 예일 GRAB 연구소(Yale GRAB Lab) 출신 3명이 창업했습니다. 공동 창업자는 Yaro Tenzer, Lael Odhner, Leif Jentoft이며, 연구실에서 갈고닦은 '집기' 기술을 창고 현장에 그대로 도입한 회사입니다.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.forbes.com/sites/amyfeldman/2022/02/23/as-competition-to-automate-warehouses-heats-up-righthand-robotics-raises-66-million/",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "공동 창업자인 Odhner는 창고의 어려움을 이렇게 표현합니다. \"The warehouse is a surprisingly diverse environment.\"(창고는 놀라울 정도로 다양한 환경이다). 동일한 제품을 계속 만드는 공장과 달리, 창고에는 수백에서 수백만 종류의 상품이 혼재합니다.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "https://thetechtribune.com/lael-odhner-of-righthand-robotics/",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "동사의 주력 제품인 'RightPick'은 독자적인 그리퍼(상품을 집는 장치)와 산업용 카메라, AI 소프트웨어를 결합하여 실제 운영 환경에서 월간 120만 회 이상의 피킹을 처리하고 있다고 합니다.",
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RightHand Robotics, Inc - LinkedIn RightHand Robotics (RHR) is a leader in providing end-to-end solutions that reduce the cost of e-commerce order-fulfillment of electronics, apparel, grocery, pharmaceuticals, and countless...",
+    "url": "https://www.linkedin.com/company/righthand-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Lael Odhner - RightHand Robotics, Inc | LinkedInRightHand Robotics Appoints Brian D. Owen as New CEO to Drive ...Yaro Tenzer - RightHand Robotics, Inc | LinkedInBrian D. Owen - Executive Chairman at Binalyze and ... - LinkedInMichael Yeh - Head of Partner Services at RightHand Robotics ...Annie Bowlby - RightHand Robotics, Inc | LinkedIn My training at MIT was primarily in robotics and control sys",
+    "url": "https://www.linkedin.com/in/lael-odhner-52b12585",
+    "pass": 3
+   },
+   {
+    "quote": "RightHand Robotics Appoints Brian D. Owen as New CEO to Drive ... “I am thrilled to be joining RightHand Robotics as the next CEO and incredibly proud for the opportunity to build on eight years of progress that the team has accomplished.",
+    "url": "https://in.linkedin.com/posts/righthand-robotics-inc_righthand-robotics-appoints-brian-d-owen-activity-7039309303509340161-qM6O",
+    "pass": 3
+   },
+   {
+    "quote": "Yaro Tenzer - RightHand Robotics, Inc | LinkedInBrian D. Owen - Executive Chairman at Binalyze and ... - LinkedInMichael Yeh - Head of Partner Services at RightHand Robotics ...Annie Bowlby - RightHand Robotics, Inc | LinkedIn Experience: RightHand Robotics, Inc · Education: Imperial College London · Location: Cambridge · 500+ connections on LinkedIn. RightHand Robotics™ is the leading provider of",
+    "url": "https://www.linkedin.com/in/yaro-tenzer-3832248",
+    "pass": 3
+   },
+   {
+    "quote": "Brian D. Owen - Executive Chairman at Binalyze and ... - LinkedInRightHand Robotics™ | RightHand Robotics, Inc. Secures New ...RightHand Robotics, Inc Management Team | Org ChartRightHand Robotics Executive Team and Leadership - exa.aiYaro Tenzer - Co-Founder & CEO @ RightHand Robotics ...RightHand Robotics Org Chart + Executive Team RightHand Robotics™ is the leading provider of robotic piece-pic",
+    "url": "https://www.linkedin.com/in/brianowen1",
+    "pass": 3
+   },
+   {
+    "quote": "Yaro Tenzer - RightHand Robotics, Inc | LinkedIn Experience: RightHand Robotics, Inc · Education: Imperial College London · Location: Cambridge · 500+ connections on LinkedIn.",
+    "url": "https://www.linkedin.com/in/yaro-tenzer-3832248",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SVT Robotics - RightHand Robotics, a leader in autonomous... Jun 17, 2021 · RightHand Robotics, a leader in autonomous robotic picking solutions, is connected to the SOFTBOT™ Platform! RightHand's RightPick™ 3 item-handling robot system can rapidly pick and place thousands of SKUs of varying-sized products.",
+    "url": "https://www.facebook.com/svtrobotics/posts/righthand-robotics-a-leader-in-autonomous-robotic-picking-solutions-is-connected/968350320579536/",
+    "pass": 3
+   },
+   {
+    "quote": "Righthand Robotics at Logimat 2022 | Robot1 | Facebook May 2, 2026 · Righthand Robotics at Logimat 2022 Righthand Robotics at Logimat 2022 Last viewed on: May 2, 2026",
+    "url": "https://www.facebook.com/reel/26609299495422335/",
+    "pass": 3
+   },
+   {
+    "quote": "Congratulations to RightHand... - Universal Field Robots Feb 27, 2022 · Congratulations to RightHand Robotics, a startup developing autonomous robotic picking solutions for order fulfillment, on securing $66 million in a Series C financing.",
+    "url": "https://www.facebook.com/universalfieldrobots/posts/congratulations-to-righthand-robotics-a-startup-developing-autonomous-robotic-pi/1159705528115252/",
+    "pass": 3
+   },
+   {
+    "quote": "Check out our latest video collab with RightHand Robotics for ... Jan 27, 2026 · SureSort system. RightHand allows us to keep the machine running, um, even with staggered breaks. Uh, we've also done test waves where we've ran a single individual with just RightHand, uh, to pick, and it showed really, really good promising that we're able to, through controlled methods, still keep our automation ma",
+    "url": "https://www.facebook.com/OPEXCorp/videos/check-out-our-latest-video-collab-with-righthand-robotics-for-lr-distributors-th/3902707490029222/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://righthandrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/partners/element-logic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/products/rightcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/industries/e-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/industries/pharmaceutical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/applications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/partners/element-logic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/products/rightcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/industries/e-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/the-latest/asetec-joins-righthand-robotics-partner-integrator-network",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://rh-robotics.files.svdcdn.com/production/assets/img/logos/rhr-logo-tm.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rh-robotics.files.svdcdn.com/production/assets/img/logos/white-claw.svg?dm=1704909391",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rh-robotics.files.svdcdn.com/production/assets/img/logos/white-plus.svg?dm=1704909392",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rh-robotics.transforms.svdcdn.com/production/assets/img/logos/element-cropped.png?w=4000&h=1283&auto=compress%2Cformat&fit=crop&dm=1707245894&s=7172b5d2739db5d3d63bab8c55266df1",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp/resources/paltac-corporation-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbbit.jp/article/cont1/37222",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/righthand-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_Study_Right_Hand_Robotics.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/righthandrobotics/__lXOk7jXH2TpUjUS1_yggjWBmfktzo_eVJKdDf2Aiu10",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/righthand-robotics/7uwgluzkytiyxo9sl",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/117401-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/righthand-robotics/363520159",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/righthand-robotics-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lael-odhner-52b12585",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/righthand-robotics-inc_righthand-robotics-appoints-brian-d-owen-activity-7039309303509340161-qM6O",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yaro-tenzer-3832248",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/svtrobotics/posts/righthand-robotics-a-leader-in-autonomous-robotic-picking-solutions-is-connected/968350320579536/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/26609299495422335/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/universalfieldrobots/posts/congratulations-to-righthand-robotics-a-startup-developing-autonomous-robotic-pi/1159705528115252/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OPEXCorp/videos/check-out-our-latest-video-collab-with-righthand-robotics-for-lr-distributors-th/3902707490029222/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brianowen1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yaro-tenzer-3832248",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "RightHand Robotics 日本 導入",
+   "results": [
+    "https://righthandrobotics.com/jp/the-latest/righthand-robotics-establishes-japan-entity",
+    "https://righthandrobotics.com/jp/resources/paltac-corporation-japan",
+    "https://www.sbbit.jp/article/cont1/37222",
+    "https://www.dreamincubator.co.jp/wp-content/uploads/2019/10/topic-191021-RHR_PALTAC_JP.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000001.000050109.html",
+    "https://factory-dx-center.com/robot-hand-manufacturers/",
+    "https://news.3rd-in.co.jp/article/31341332-761b-11ef-80d7-9ca3ba083d71"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RightHand Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://righthandrobotics.com/careers",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.thinker-robotics.co.jp/",
+    "https://www.leybold-kk.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RightHand Robotics Japan",
+   "results": [
+    "https://righthandrobotics.com/jp",
+    "https://righthandrobotics.com/the-latest/righthand-robotics-establishes-japan-entity",
+    "https://www.therobotreport.com/righthand-robotics-gk-opens-japan/",
+    "https://www.materialhandling247.com/article/righthand_robotics_establishes_japan_entity/ch_distributors",
+    "https://www.dreamincubator.co.jp/en/news/2019/16012/",
+    "https://www.logisticsmgmt.com/article/righthand_robotics_establishes_japan_entity",
+    "https://exa.ai/websets/directory/righthand-robotics-offices"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RightHand Robotics manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/righthand-robotics",
+    "https://www.casestudies.com/company/realsense/case-study/how-righthand-robotics-is-using-realsensetm-computer-vision-technology-to-revolutionize-automated-warehouse-order-fulfillment",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Case_Study_Right_Hand_Robotics.pdf",
+    "https://www.youtube.com/watch?v=Xf7s3dcMPCw",
+    "https://righthandrobotics.com/",
+    "https://righthandrobotics.com/the-latest",
+    "https://resources.righthandrobotics.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RightHand Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.iqreseller.com/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RightHand Robotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/righthandrobotics/__lXOk7jXH2TpUjUS1_yggjWBmfktzo_eVJKdDf2Aiu10",
+    "https://www.thecompanycheck.com/company/b/righthand-robotics/7uwgluzkytiyxo9sl",
+    "https://pitchbook.com/profiles/company/117401-59",
+    "https://www.zoominfo.com/c/righthand-robotics/363520159",
+    "https://fundediq.co/righthand-robotics-righthandrobotics-com-funding/",
+    "https://righthandrobotics.com/the-latest/righthand-robotics-secures-66-million-in-series-c-funding",
+    "https://compworth.com/company/righthand-robotics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com RightHand Robotics",
+   "results": [
+    "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "https://note.com/gen_ai/n/n6e9bf5c154b2",
+    "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=ko",
+    "https://note.com/ko_heihe_i/n/n2b3564f5ffcd",
+    "https://note.com/insideir/n/n1625d23fb47d",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com RightHand Robotics",
+   "results": [
+    "https://x.com/righthanddotai",
+    "https://x.com/RightHandAgent",
+    "https://x.com/RighthandDex",
+    "https://x.com/_righthand_man_",
+    "https://x.com/Tape_Vector/status/2073727851912737067",
+    "https://x.com/RHRobotics/status/2114848112715997451",
+    "https://x.com/shibataism"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com RightHand Robotics",
+   "results": [
+    "https://www.linkedin.com/company/righthand-robotics-inc",
+    "https://www.linkedin.com/in/lael-odhner-52b12585",
+    "https://in.linkedin.com/posts/righthand-robotics-inc_righthand-robotics-appoints-brian-d-owen-activity-7039309303509340161-qM6O",
+    "https://www.linkedin.com/in/yaro-tenzer-3832248",
+    "https://www.linkedin.com/in/brianowen1",
+    "https://www.linkedin.com/in/michaelkyeh",
+    "https://www.linkedin.com/in/anniebowlby"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com RightHand Robotics",
+   "results": [
+    "https://www.facebook.com/svtrobotics/posts/righthand-robotics-a-leader-in-autonomous-robotic-picking-solutions-is-connected/968350320579536/",
+    "https://www.facebook.com/reel/26609299495422335/",
+    "https://www.facebook.com/universalfieldrobots/posts/congratulations-to-righthand-robotics-a-startup-developing-autonomous-robotic-pi/1159705528115252/",
+    "https://www.facebook.com/OPEXCorp/videos/check-out-our-latest-video-collab-with-righthand-robotics-for-lr-distributors-th/3902707490029222/",
+    "https://www.facebook.com/OlinCollege/posts/congrats-to-righthand-robotics-an-olin-alumni-co-founded-company-for-recently-ma/10157502144121858/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/groceryshop/videos/groceryshop-360-robotics-sneak-peek-righthand-robotics/421500142055251/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RightHand Robotics note 社長",
+   "results": [
+    "https://righthandrobotics.com/jp/the-latest/righthand-robotics-appoints-brian-d-owen-as-new-ceo-to-drive-the-next-level-of-growth-for-the-company",
+    "https://www.linkedin.com/in/brianowen1",
+    "https://righthandrobotics.com/the-latest/righthand-robotics-inc-secures-new-funding-as-yaro-tenzer-is-appointed-ceo-2",
+    "https://rocketreach.co/righthand-robotics-inc-management_b564213bf695de86",
+    "https://exa.ai/websets/directory/righthand-robotics-executives",
+    "https://www.crunchbase.com/person/yaro-tenzer",
+    "https://www.theofficialboard.com/org-chart/righthand-robotics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RightHand Robotics X 投稿",
+   "results": [
+    "https://x.com/jaefanged/status/2119600075462824418",
+    "https://righthandrobotics.com/",
+    "https://righthandrobotics.com/jp",
+    "https://www.linkedin.com/in/yaro-tenzer-3832248",
+    "https://righthandrobotics.wikidot.com/landing",
+    "https://x.com/roughrobotics/status/2119062791181234261",
+    "https://note.com/munou_ac/n/n3489f9572885"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

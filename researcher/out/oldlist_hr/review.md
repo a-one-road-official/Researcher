@@ -398,3 +398,106 @@
 - 「実際に送受信するメール本文は日本語で作成・管理できます」（https://aitool-eye.com/smartlead-kanzen-guide/）
 - 「日本語でコールドメールのシーケンスを組み、日本語でリードを管理することに支障はありません」（https://aitool-eye.com/smartlead-kanzen-guide/）
 - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/smartlead/case-studies）
+
+## Singuli（https://www.singuli.co）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/singuli?locale=ja）
+
+## Sigopt（https://sigopt.com）
+- 「―SigOptを使っている日本企業が既にあると伺いました」（https://techblitz.com/startup-interview/sigopt/）
+- 「当社は、米国外ではヨーロッパおよびアジア太平洋地域で事業展開を進めており、ヨーロッパやオーストラリアにも顧客がいますし、日本では分散投資型の資産運用サービスを提供している企業にご利用いただいています」（https://techblitz.com/startup-interview/sigopt/）
+- 「日本に限らず、海外で事業展開する際は、SigOptで解決可能な問題に直面している企業の把握と、その企業の意思決定者に紹介してもらうことが重要だと考えています」（https://techblitz.com/startup-interview/sigopt/）
+
+## Signifyd（https://www.signifyd.com）
+- 「26のメディアとAIアドテクを組み合わせたTNL Mediagene、日本事業の売却で再編へ」（https://earthkey.blog/global/signifyd/）
+- 「JTBは1912年に設立した日本最大手の旅行会社です*1」（https://www.accertify.com/case-study/jtb-2/）
+- 「JTBの最新導入事例では、日本国内パッケージ旅行商品のクレジットカード不正利用*3をわずか1ヶ月で75％以上*4削減するなど、大きな成果を上げています」（https://www.accertify.com/case-study/jtb-2/）
+
+## Shopgenie（https://shopgenie.io）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/shop-genie-1?locale=ja）
+
+## Serra（https://www.serra.io）
+- 「SNSにて「#SERRA拡散計画」として”アカペラ動画”を投稿し、その歌声は日本にとどまらずアジア諸国にも広がり続けている」（https://se-r-ra.com/）
+- 「※応募は日本国内在住の方に限らせていただきます」（https://se-r-ra.com/）
+- 「※応募は日本国内在住の方に限らせて頂きます」（https://se-r-ra.com/）
+
+## Sensei（https://www.sensei.tech/）
+- 「トップページ - Sensei Japan | Life Assistance & Japanese Lessons」（https://www.kgmjp.com/japanese/）
+- 「日本での暮らしに必要なすべてを、ひとつに」（https://www.kgmjp.com/japanese/）
+- 「日本での生活や仕事に必要な日本語力を身につけます」（https://www.kgmjp.com/japanese/）
+
+## Sendlane（https://www.sendlane.com）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/sendlane-app?locale=ja）
+
+## Sellforte（https://www.sellforte.com）
+- 「MMMモデルの導入事例｜花王・DMM・DeNAなど日本企業11社を分析 | MMM Lab」（https://mmm-lab.vercel.app/blog/mmm-japan-case-studies）
+- 「日本企業のMMM導入最前線 — 花王・DMM・DeNAから学ぶ実務パターン」（https://mmm-lab.vercel.app/blog/mmm-japan-case-studies）
+- 「はじめに — なぜ今、日本でMMMが注目されているのか」（https://mmm-lab.vercel.app/blog/mmm-japan-case-studies）
+
+## Seegrid（https://seegrid.com/）
+- 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/40349）
+- 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/40349）
+- 「【新兆候】日本の95％が、「新AI格差」に気づいていない」（https://newspicks.com/news/5700703/）
+- 「また、Berkshire GreyはSPAC上場の計画を明らかにしており、同社の評価額は27億ドルに達する見込みだ」（https://forbesjapan.com/articles/detail/40349）
+
+## Secondnature（https://secondnature.ai/）
+- 「手持ちの研修資料を読み込ませてシナリオを作れ、日本語を含む25以上の言語に対応します」（https://aipicks.jp/tool/second-nature）
+- 「日本語を含む25以上です」（https://aipicks.jp/tool/second-nature）
+- 「で返り、日本語を含む25以上の言語で練習できます」（https://aipicks.jp/tool/second-nature）
+- 「The same Swift models run on iPad, iPhone and Mini, so QA engineers debug once, deploy everywhere. Watch notifications arrive via the Apple Push Gateway already whitelisted on corporate firewalls.」（https://www.secondnaturemanufacturing.com/）
+
+## Seabound（https://seabound.co）
+- 「COP31開幕、連載「COP31デイリー」の見どころ 6条・気候資金・CDR・日本のJCM」（https://carboncredits.jp/global/kbzezpku/）
+- 「カーボンクレジット.jp編集部｜2023年末に当時日本初かつ唯一のカーボンクレジット専門情報メディアを立ち上げ」（https://carboncredits.jp/global/kbzezpku/）
+- 「グリーン製造業への参入に遅れた日本企業にとって、DAC・CCUS は可能性を秘めた分野であ」（https://londonresearchinternational.com/wp-content/uploads/2024/03/LRIEC130224.pdf）
+
+## Sbl.so（https://sbl.so/）
+- 「Sbl.so エスビーエルドットエスオーとは LinkedInでの新規開拓のAI｜使い方・料金・日本語対応」（https://eeai.tv/tools/sbl-so）
+- 「Sbl.soの日本語対応は確認できていません」（https://eeai.tv/tools/sbl-so）
+- 「日本国内のBtoB営業が中心で、LinkedInがまだ普及していない業種の方には、どれだけ機能が充実していても、業務フローに入る場所がありません」（https://note.com/komatu_note/n/n780efff82ced）
+
+## Sapia（https://sapia.ai）
+- 「チャット面接の対応言語に日本語は含まれていません」（https://aipicks.jp/tool/sapia-ai）
+- 「一方で料金は非公開で、チャット面接の対応言語に日本語はありません」（https://aipicks.jp/tool/sapia-ai）
+- 「チャット面接の対応言語に日本語が含まれていない」（https://aipicks.jp/tool/sapia-ai）
+
+## Rocketrip（https://www.rocketrip.com）
+- 「本記事は2016年6月9日報道の下記のTechcrunch記事の日本語要約メモです」（https://note.com/yuichikuro/n/nb1ac441cb1b4）
+
+## Retorio（https://www.retorio.com/）
+- 「Retorio is headquartered in Munich, Germany, with offices in Vienna, Austria and Calgary, Canada. The platform serves enterprise clients globally, across the European Union, the United States, Canada, Latin America, India, the Middle East, and East Asia including Singapore, Hong Kong, and Japan. Ser」（https://www.retorio.com/）
+- 「Retorio レトリオとは 営業ロールプレイ練習のAI｜使い方・料金・日本語対応」（https://eeai.tv/tools/retorio）
+- 「Retorioの日本語対応は確認できていません」（https://eeai.tv/tools/retorio）
+
+## Replo（https://replo.app）
+- 「【Shopify最新ニュース2026】Shopify Japan が10月の国内販売動向を発表、寝具とアウトドア用品が伸長」（https://kikushiru.net/2026/06/11/%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8C%E5%BC%B7%E3%81%BF%EF%BC%81replo-%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+- 「【Shopify最新ニュース2026】Track with Shop が日本とシンガポールへ、Shop も日本語に」（https://kikushiru.net/2026/06/11/%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8C%E5%BC%B7%E3%81%BF%EF%BC%81replo-%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/replo/case-studies）
+
+## Rebellyous（https://rebellyous.com/）
+- 「米国、カナダ、日本で独自技術の特許を取得しており、その他の地域でも申請中です」（https://framtiden.earth/2024/10/01/rebellyous-foods/）
+
+## Realitydefender（https://www.realitydefender.com）
+- 「が本格的に日本市場に参入したら、私たちの情報環境は劇的に改善されるでしょう」（https://note.com/uri_future/n/n2056100e3ec5）
+- 「U.S.-Japan Global Innovation Challenge」（https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge）
+- 「Colman says the partnership is particularly timely for Japan, which data from Sumsub shows experiencing a whopping 243 percent year-over-year increase in」（https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/reality-defender）
+
+## Readme（https://readme.com）
+- 「日本語テンプレートをダウンロード（Word）」（https://techenglishlab9999.com/readme-template-english/）
+- 「ReadMeJapan | A Reader’s Field Guide to Japan」（https://readmejapan.com/）
+- 「· A Reader’s Field Guide to Japan」（https://readmejapan.com/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/readme/case-studies）
+
+## Rdash（https://www.rdash.io）
+- 「, Japan in June」（https://en.wikipedia.org/wiki/DoorDash）
+- 「"DoorDash launches in Japan as food delivery war heats up"」（https://en.wikipedia.org/wiki/DoorDash）
+- 「RDASH to JPY: DoorDash Tokenized Stock (Reality) Price in Japanese Yen | CoinGecko」（https://www.coingecko.com/en/coins/doordash-rstock/jpy）
+- 「Nasdaq-100」（https://en.wikipedia.org/wiki/DoorDash）
+
+## Rapid Robotics（https://www.rapidrobotics.com/）
+- 「ラピッドロボティクス | 日本フィジカルAI新聞」（https://physicalainews.jp/companies/rapid-robotics）
+- 「世界のフィジカルAIを、日本語で」（https://physicalainews.jp/companies/rapid-robotics）
+
+## rankscale.ai（https://rankscale.ai）
+- 「日本語UIや日本語ドキュメントは限定的な可能性があります」（https://saasmap.jp/tools/rankscale）
+- 「日本円請求書や支払い条件は導入前に確認したい」（https://saasmap.jp/tools/rankscale）

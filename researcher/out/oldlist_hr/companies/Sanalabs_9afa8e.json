@@ -1,0 +1,1244 @@
+{
+ "name": "Sanalabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:41:06.784411+00:00",
+ "official_url": "https://www.sanalabs.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区六本木\n六本木ヒルズ森タワー２０階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000038.000141802.html",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Stockholm , Stockholms län , SE",
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$137M",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Beautiful content, 10x faster",
+    "url": "https://sanalabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your enterprise AI platform for real work. A seamless, beautiful way to bring AI into your company’s apps, knowledge, and culture.",
+    "url": "https://sanalabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate deal sourcing and prospecting",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "With integrations to your data platforms and CRM, your AI agents can identify potential companies, update prospect data, and help you identify potential deals by synthesizing research and competitor analysis.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your financial data.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Full enterprise-grade security and support.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Security and data privacy",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your data",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated success team, priority support, and SLA",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored onboarding and change management support",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Sana Agents is single tenant, SOC2 and ISO 27001 certified, and GDPR compliant. All data is encrypted at rest with AES 256 and in transit with TLS 1.2+. The platform follows data privacy regulations and guidelines to protect each individual user. Enterprise users can be authenticated with Single-Sign-On (SSO). Integrated systems can mirror the underlying system permissions.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise customers can use a wide range of off-the-shelf connectors. New connectors are added and included in the offering. Enterprise customers can also build custom integrations to Sana Agents. Sana Agents supports meeting recordings in Zoom, Microsoft Teams, and Google Meet.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Sana Agents excels in reading documents (e.g. PDF, Powerpoint, Word, Docs), structured files (e.g. Excel, Sheets, CSV), and videos (e.g. MP4). Sana also connects to third-party systems such as CRMs with additional data types. Additional data types are added continuously.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Data added through integrations and/or through upload to Sana Agents is indexed and stored in a cloud instance. Sana Agents performs logical data isolation to keep customer data isolated. Enterprise organizations can get their own single-tenant deployment. Data at rest is encrypted with AES 256 and data in transit is encrypted with TLS 1.2+.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "There are three ways documents can be added to Sana Agents, (i) through direct upload, (ii) through a private integration, and (iii) with a shared integration. The accessibility depends on how the document has been added and what admin settings are configured.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "For direct uploads, access management is handled directly in Sana Agents through individual document access management or through collections. Admins can set up which users can do what.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "For private integrations, each user is self-authenticating and can see results only from the scope they have access to. For example, a user can see the same results from Google Drive that they could see if searching directly from their authenticated Google Drive.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate every phase of your engagements with AI agents grounded in your firm's expertise and proven methodologies.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Global consulting firm accelerates manual search and proposal drafting",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Pull insights from past projects, market analyses, and competitor reports to craft compelling pitch materials. Generate proposal-ready decks in seconds. Rooted in data, not guesswork.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Capture, summarize, and analyze expert calls automatically. Aggregate insights across interviews to uncover patterns, quantify trends, and generate synthesis at scale.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Match expertise to every project",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Match consultants to upcoming projects automatically by scanning profiles, CVs, and experience data. Optimize staffing decisions and find the right expertise every time.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Generate day-one materials instantly. Think expert interview guides, launch decks, and key hypotheses. All using proven templates and project context. Get your teams ramped up and ready to deliver from day one.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your client data.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Full enterprise-grade security and support.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Security and data privacy",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your data",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated success team, priority support, and SLA",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored onboarding and change management support",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Sana Agents is single tenant, SOC2 and ISO 27001 certified, and GDPR compliant. All data is encrypted at rest with AES 256 and in transit with TLS 1.2+. The platform follows data privacy regulations and guidelines to protect each individual user. Enterprise users can be authenticated with Single-Sign-On (SSO). Integrated systems can mirror the underlying system permissions.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise customers can use a wide range of off-the-shelf connectors. New connectors are added and included in the offering. Enterprise customers can also build custom integrations to Sana Agents. Sana Agents supports meeting recordings in Zoom, Microsoft Teams, and Google Meet.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Sana Agents excels in reading documents (e.g. PDF, Powerpoint, Word, Docs), structured files (e.g. Excel, Sheets, CSV), and videos (e.g. MP4). Sana also connects to third-party systems such as CRMs with additional data types. Additional data types are added continuously.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Data added through integrations and/or through upload to Sana Agents is indexed and stored in a cloud instance. Sana Agents performs logical data isolation to keep customer data isolated. Enterprise organizations can get their own single-tenant deployment. Data at rest is encrypted with AES 256 and data in transit is encrypted with TLS 1.2+.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "There are three ways documents can be added to Sana Agents, (i) through direct upload, (ii) through a private integration, and (iii) with a shared integration. The accessibility depends on how the document has been added and what admin settings are configured.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "For direct uploads, access management is handled directly in Sana Agents through individual document access management or through collections. Admins can set up which users can do what.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "For private integrations, each user is self-authenticating and can see results only from the scope they have access to. For example, a user can see the same results from Google Drive that they could see if searching directly from their authenticated Google Drive.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Increase productivity across the end-to-end legal process with AI agents grounded in your firm’s proprietary knowledge.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "With Sana, you can create an AI legal assistant that fetches relevant case law, distills complicated court rulings and regulations into briefs, and even predicts outcomes based on existing case parameters.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Go from reviewing documents to identifying risk in minutes. Your legal assistant can instantly analyze vast amounts of data to surface provisions and highlight potential liabilities.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your legal data.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Full enterprise-grade security and support.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Security and data privacy",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your data",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated success team, priority support, and SLA",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored onboarding and change management support",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Sana Agents is single tenant, SOC2 and ISO 27001 certified, and GDPR compliant. All data is encrypted at rest with AES 256 and in transit with TLS 1.2+. The platform follows data privacy regulations and guidelines to protect each individual user. Enterprise users can be authenticated with Single-Sign-On (SSO). Integrated systems can mirror the underlying system permissions.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise customers can use a wide range of off-the-shelf connectors. New connectors are added and included in the offering. Enterprise customers can also build custom integrations to Sana Agents. Sana Agents supports meeting recordings in Zoom, Microsoft Teams, and Google Meet.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Sana Agents excels in reading documents (e.g. PDF, Powerpoint, Word, Docs), structured files (e.g. Excel, Sheets, CSV), and videos (e.g. MP4). Sana also connects to third-party systems such as CRMs with additional data types. Additional data types are added continuously.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Data added through integrations and/or through upload to Sana Agents is indexed and stored in a cloud instance. Sana Agents performs logical data isolation to keep customer data isolated. Enterprise organizations can get their own single-tenant deployment. Data at rest is encrypted with AES 256 and data in transit is encrypted with TLS 1.2+.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "There are three ways documents can be added to Sana Agents, (i) through direct upload, (ii) through a private integration, and (iii) with a shared integration. The accessibility depends on how the document has been added and what admin settings are configured.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "For direct uploads, access management is handled directly in Sana Agents through individual document access management or through collections. Admins can set up which users can do what.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "For private integrations, each user is self-authenticating and can see results only from the scope they have access to. For example, a user can see the same results from Google Drive that they could see if searching directly from their authenticated Google Drive.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "pass": 1
+   },
+   {
+    "quote": "“Asking Sana in Slack for someone’s actions from the last meeting, or our definition of retention—it’s a game-changer.”",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Fintech scaleup rolls out AI agent for company onboarding",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "pass": 1
+   },
+   {
+    "quote": "The value of enteprise AI is directly proportional to the quality of knowledge it can access. Create expert assistants grounded on specific data and tasks, and deploy them to your teams in minutes.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Next gen enterprise search",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your company data.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Full enterprise-grade security and support.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Security and data privacy",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Sana is now part of Workday.",
+    "url": "https://sanalabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sana is now part of Workday.",
+    "url": "https://sanalabs.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sana is now part of Workday.",
+    "url": "https://sanalabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "I think one of the most important things when it came to choosing Sana as a partner was definitely the partnership and the collaboration—and the way that's carried out.",
+    "url": "https://sanalabs.com/customers/learning/spotify?autoplay=1",
+    "pass": 1
+   },
+   {
+    "quote": "Doctolib makes learning part of every day",
+    "url": "https://sanalabs.com/products/sana-learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Lucanet made learning part of its culture of growth",
+    "url": "https://sanalabs.com/products/sana-learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "foodora automates onboarding for 7,000 employees",
+    "url": "https://sanalabs.com/products/sana-learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve gone from just a few people creating content to 75 employees across 18 countries. Sana’s platform has improved collaboration and knowledge-sharing inside Polygon, making us more efficient and connected globally.”",
+    "url": "https://sanalabs.com/products/sana-learn/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Sana Learn isn’t just a training tool—it’s a key part of transforming our company”",
+    "url": "https://sanalabs.com/products/sana-learn/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A user is anyone you give access to your Sana Learn instance. This includes internal employees and/or any external learners like customers or partners you choose to include. You pay for the users you provision.",
+    "url": "https://sanalabs.com/products/sana-learn/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. A dedicated deployment team handles configuration, integrations, and content migration as part of getting you live, and stays with you well past go-live.",
+    "url": "https://sanalabs.com/products/sana-learn/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2021年のARR（年間経常収益）が前年同期比で７倍に増加",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail036.html",
+    "pass": 3
+   },
+   {
+    "quote": "中規模企業から Fortune 500 企業に選出される企業の 65% 以上に至るまで、11,000 社以上の世界中にあるさまざまな業界の企業・組織が Workday を導入しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000038.000141802.html",
+    "pass": 3
+   },
+   {
+    "quote": "Workday Completes Acquisition of Sana",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs Revenue 2024: $52.1M Est., $1.1B Valuation",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs has not published its revenue. GetLatka estimates it at about $52.1M a year (October 2024).",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs CEO, founders & employees",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Joel Hellermark founded Sana Labs in 2016 and runs it as CEO. Sana Labs had 286 employees (December 2024, LinkedIn), up from 152 a year earlier.",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sana Labs' revenue?",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Sana Labs' revenue at about",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sana Labs have?",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Sana: Employees, Funding, HQ & Competitors | Enrich Layer",
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "As part of Workday, the company is committed to building AI that augments humans.",
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Ctrl (acquired by Sana)",
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sana have?",
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2026-10-29, Sana has 349 employees, based on the Enrich Layer count of person profiles that list Sana as their current employer. Its listed company size band is 201 to 500.",
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sana for industrial companies | Sana",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial firms using Sana to create custom AI agents average 50% time savings, from commercial headquarters all the way to the front line.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "for industrial companies",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial market leader uses AI agent to augment customer support",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturer uses AI agent to answer product questions",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Swedish mining manufacturer augments R&D team with custom AI agents",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "No more time-wasting on the front line. When your AI field assistant understands every product manual, it can identify the right tools and spare parts in seconds, wherever your technicians are.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturer uses AI agent to answer product questions",
+    "url": "https://sanalabs.com/products/sana/solutions/teams/sales-gtm",
+    "pass": 1
+   },
+   {
+    "quote": "AI agent helps accessibility manufacturer resolve support queries",
+    "url": "https://sanalabs.com/products/sana/solutions/teams/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial & automotive",
+    "url": "https://sanalabs.com/products/sana-learn/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Volkswagen Group Middle East brings AI into hands-on automotive training",
+    "url": "https://sanalabs.com/products/sana-learn/customer-stories",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Close more tickets faster. Thanks to Sana’s knowledge graph, your AI support assistant can visualize and compare product data, answer customer emails, synthesize feedback, and more.",
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "pass": 1
+   },
+   {
+    "quote": "When every meeting is summarized and transcribed, reps can focus properly on qualification. Their AI agent will suggest follow-up emails based on prospect information and update CRM fields automatically.",
+    "url": "https://sanalabs.com/products/sana/solutions/teams/sales-gtm",
+    "pass": 1
+   },
+   {
+    "quote": "No more manual time spent individualizing emails and other content. Your assistant can leverage data from CRMs and other tools to personalize messages with speed and precision. At scale.",
+    "url": "https://sanalabs.com/products/sana/solutions/teams/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "2FA with email codes",
+    "url": "https://sanalabs.com/products/sana-learn/pricing",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-labeled, customizable, multilingual",
+    "url": "https://sanalabs.com/products/sana-learn/pricing",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Workday、Sana買収に関する最終契約を締結 | ワークデイ株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000038.000141802.html",
+    "pass": 3
+   },
+   {
+    "quote": "この調達金額は、日本円で40億円規模の調達となります",
+    "url": "https://note.com/shinya_0213/n/ne693d0340efa",
+    "pass": 3
+   },
+   {
+    "quote": "Workday「Sana」全世界リリース｜40日で導入率90%の人事AI ｜ 株式会社Uravation",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日立製作所・ファーストリテイリングなど日本の大手企業もWorkday導入済み",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Sanaの全貌を、日本企業への影響まで含めて徹底解説します",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への影響：Workday導入済み企業にとってのチャンス",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の人事部門が直面する課題とSanaの適合性",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "消費財メーカーのBerner社は、Sanaの最も印象的な導入事例です",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Workdayは日本市場を「Tier 1カントリー」に位置付けており、日本固有の要件への対応を強化しています（出典: Workday Japan 2026年度事業戦略発表、参照日: 2026-03-18）",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Workdayの2025年3月のグローバル調査では、日本の管理職の60%が将来の人材不足に懸念を示し、自社が長期的な成功に必要なスキルを持っていると確信しているのはわずか26%でした（出典: Workday調査、参照日: 2026-03-18）",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この数字が示すのは、日本の人事部門は「戦略的な仕事に時間を使いたいのに、定型業務に追われている」という構造的な問題です",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Workday Japan 2026年度事業戦略",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Uravation 代表取締役CEO／生成AIエバンジェリスト",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "〒113-0033 東京都文京区本郷6丁目25番14号",
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "注目のAI新興企業「Sana Labs」 ─ AIで個別最適な学びやナレッジの共... — Nov 16, 2023 · 企業はこれを解決するために、学習やナレッジマネジメントのシステムを導入している。 その中から、1つのシステムで従業員が効率的に学習やナレッジの収集・共有を行えるプラットフォームを提供する「Sana Labs」について紹介する。 Sana Labsとは",
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail036.html",
+    "pass": 3
+   },
+   {
+    "quote": "スウェーデンのAIスタートアップ『Sana Labs』が約40億円の調達!!｜社...Workday「Sana」全世界リリース｜40日で導入率90%の人事AI ｜ 株式会...安保へのAI導入、小泉防衛相が本腰 思わず称賛した米人工知能人事/財務/エージェントを一元管理するAIプラットフォームを提供するW...Superintelligence for work | Sana — 2023年5月末、スウェーデンのストックホルムに拠点を置き、「社内向けAIベースのナレッジマネジメントとeラーニング・プラットフォーム」を手掛けるスタートアップ企業であるSana Labsが、2,800 万ドルの追加投資によるシリーズ B 資金調達ラウンドが無事完了したと発表しました。 この調達金額は、日本円で40億円規模の調達となります。 このラウンドはDoorDash、UberUber、Roninhoodなど",
+    "url": "https://note.com/shinya_0213/n/ne693d0340efa",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs Customers - CB Insights — The platform enables the creation, management, and delivery of educational content, including employee training, partner onboarding, and customer education. It also includes options for compliance and cybersecurity training. It was founded in 2012 and is based in San Francisco, California.",
+    "url": "https://www.cbinsights.com/company/sana-labs/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs Revenue 2024: $52.1M Est., $1.1B Valuation - LATKA — Oct 7, 2026 · Sana Labs 2024 estimated revenue: $52.1M (up from $25M in 2023). Valuation: $1.1B. Total funding: $137M across 6 rounds. Founded 2016. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/sana-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Sanalabs - 2026 Company Profile, Team, Funding, Competitors ...Sana Labs – Industry Ranking & Company Valuation – 2026Sana Labs Profile 2026: Financials, AI Strategy & ComparisonSana Labs - Overview, News & Similar companies | ZoomInfo.comSana Labs - $31.5 M Revenue, Employees & Growth | Kona EquitySana: Employees, Funding, HQ & Competitors | Enrich Layer — Mar 19, 2026 · Sanalabs is an acquired c",
+    "url": "https://tracxn.com/d/companies/sanalabs/__C7mWGl7WBpjTRaITkIfLsRLk2eLLXb9gl5RTRGYKYxA",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs - $31.5 M Revenue, Employees & Growth | Kona Equity — Sana Labs, has an estimated annual revenue of $31.5 M, with approximately 150 employees, headquartered in Stockholm, Stockholm, operating in the Software company industry, founded in 2016.",
+    "url": "https://www.konaequity.com/company/sana-labs-10400797987/",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs – Industry Ranking & Company Valuation – 2026 — At Sana Labs, each employee is estimated to contribute about $149.3K in annual revenue. Sana Labs has secured approximately $140M through various funding rounds.",
+    "url": "https://compworth.com/company/sana-labs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sana (@sanalabs) / X The Godfather of AI returns to Sana AI Summit, this time in person. Waitlist closes soon: sanalabs.com/events/sana-ai…",
+    "url": "https://x.com/sanalabs",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing our first Sana AI Summit 2026 speaker ... So influential, in fact, that one of OpenClaw's AI agents emailed him last week asking for a job. Tyler said he was delighted to receive the message. Sana AI Summit will take place at the New York Public Library on May 21. Seats are limited, register now: sanalabs.com/events/sana-ai…",
+    "url": "https://x.com/sanalabs/status/2022318153900958022",
+    "pass": 3
+   },
+   {
+    "quote": "Talabat chose Sana Learn and proved that AI-first learning ... Sana (@sanalabs). 686 views. Talabat chose Sana Learn and proved that AI-first learning doesn't just scale knowledge, it transforms how fast your business moves.",
+    "url": "https://x.com/sanalabs/status/2013900235508977781",
+    "pass": 3
+   },
+   {
+    "quote": "When AI can do most of what we call work, what’s the work we ... Sana (@sanalabs). 8 likes. When AI can do most of what we call work, what’s the work we still need and want humans to do? @anuatluru has written some of the internet’s most thought-provoking essays on this central question.",
+    "url": "https://x.com/sanalabs/status/2046604741166133711",
+    "pass": 3
+   },
+   {
+    "quote": "Sana on X: \"Last but not least. Sana's founder and CEO ... May 7, 2024 · Sana on X: \"Last but not least. Sana's founder and CEO @joelhellermark will be speaking at next week's Sana AI Summit to share the story of building Sana AI—what we've learned so far, and where we're going next. Sana AI Summit has a waitlist for physical seats. All registered guests will receive recordings: https://t.co/CRsVx",
+    "url": "https://x.com/sanalabs/status/1787801390175162682",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sana - LinkedIn Website http://www.sanalabs.com Industry Software Development Company size 201-500 employees Headquarters Stockholm, Stockholm County",
+    "url": "https://www.linkedin.com/company/sana-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Joel Hellermark – CEO at Sana | LinkedIn AI research and product lab. Acquired by Workday for $1.1B in 2025. Come and do your life's work in New York, London, or Stockholm: sanalabs.com/careers",
+    "url": "https://se.linkedin.com/in/joel-hellermark",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Lexa - Sana Labs | LinkedInAndré Bouzid - Unlocking knowledge through AI @ Sana | LinkedInSana Agents - LinkedInThe next chapter in our story. Sana has entered into a ...Sanalab - LinkedIn Experience: Sana Labs · Education: INSEAD · Location: United States · 500+ connections on LinkedIn. View Jon Lexa’s profile on LinkedIn, a professional community of 1 billion members. If you'd like to know m",
+    "url": "https://www.linkedin.com/in/jonlexa",
+    "pass": 3
+   },
+   {
+    "quote": "André Bouzid - Unlocking knowledge through AI @ Sana | LinkedInSana Agents - LinkedInThe next chapter in our story. Sana has entered into a ...Sanalab - LinkedIn If you'd like to know more about how Sana can transform learning and knowledge, please book a meeting using the link below: https://calendly.com/andre-bouzid-sanalabs/30min Sana Agents | Sana is the all-in-one AI platform for real work—co",
+    "url": "https://uk.linkedin.com/in/andrebouzid",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "www.sanalabs.com - Facebook www.sanalabs.com",
+    "url": "https://www.facebook.com/wwwsanalabscom-506281256536084/",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs - Facebook Sana Labs. 594 likes · 241 talking about this. Sana Labs reimagines the way people learn. We provide the world’s leading personalized learning pl",
+    "url": "https://www.facebook.com/p/Sana-Labs-100063832632266/",
+    "pass": 3
+   },
+   {
+    "quote": "Sana Labs - Facebook Sana Labs. 576 likes · 1,272 talking about this. Sana Labs reimagines the way people learn. We provide the world’s leading personalized learning pl",
+    "url": "https://www.facebook.com/100063832632266/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sanalabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/industries/consulting-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/industries/law-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/industries/tech-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/industries/private-equity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/industries/industrial-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/customers/learning/spotify?autoplay=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/teams/sales-gtm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/teams/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/teams/in-house-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/solutions/teams/customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana-learn/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana-learn/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana-learn/solutions/sales-enablement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/products/sana-learn/solutions/compliance-training",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sanalabs.com/img/careers/careers-logos-01.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sanalabs.com/img/careers/careers-logos-02.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sanalabs.com/img/careers/careers-logos-03.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sanalabs.com/img/careers/careers-logos-04.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.works-i.com/research/labour/column/roundup/detail036.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000038.000141802.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shinya_0213/n/ne693d0340efa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thorlabs.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sanalabs.com/customers/learning/unifonic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/smartlabs/case-study/sana-biotechnology-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanalabs.com/customers/learning/polestar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1390590848697838/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/2356868454775088/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/sana-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sanalabs/__C7mWGl7WBpjTRaITkIfLsRLk2eLLXb9gl5RTRGYKYxA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.konaequity.com/company/sana-labs-10400797987/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://enrichlayer.com/company/sana-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sanalabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanalabs/status/2022318153900958022",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanalabs/status/2013900235508977781",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanalabs/status/2046604741166133711",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sana-labs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/joel-hellermark",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jonlexa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/andrebouzid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wwwsanalabscom-506281256536084/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sana-Labs-100063832632266/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100063832632266/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanalabs/status/1787801390175162682",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/joel-hellermark",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sanalabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sanalabs 日本 導入",
+   "results": [
+    "https://www.works-i.com/research/labour/column/roundup/detail036.html",
+    "https://prtimes.jp/main/html/rd/p/000000038.000141802.html",
+    "https://note.com/shinya_0213/n/ne693d0340efa",
+    "https://uravation.com/media/workday-sana-ai-hr-finance-agent-2026/",
+    "https://mainichi.jp/articles/20261031/k00/00m/010/262000c",
+    "https://startuplog.com/n/n32f53e81501e",
+    "https://sanalabs.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sanalabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.thorlabs.co.jp/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.synlab-sd.com/en/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sanalabs Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Sanalabs manufacturing customer case study",
+   "results": [
+    "https://sanalabs.com/customers/learning/unifonic",
+    "https://www.casestudies.com/company/smartlabs/case-study/sana-biotechnology-customer-case-study",
+    "https://sanalabs.com/customers/learning/polestar",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.cbinsights.com/company/sana-labs/customers",
+    "https://www.productforlearning.com/p/case-study-sana-labs",
+    "https://www.glassdoor.com/Interview/Sana-Labs-Interview-Questions-E8049249.htm"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sanalabs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://www.guru99.com/iptv-reseller-panel.html",
+    "https://www.youtube.com/shorts/mfASoocezg8",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sanalabs founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sana-labs",
+    "https://tracxn.com/d/companies/sanalabs/__C7mWGl7WBpjTRaITkIfLsRLk2eLLXb9gl5RTRGYKYxA",
+    "https://www.konaequity.com/company/sana-labs-10400797987/",
+    "https://enrichlayer.com/company/sana-labs",
+    "https://compworth.com/company/sana-labs",
+    "https://dexteragent.ai/companies/sana-labs-1771746392",
+    "https://www.zoominfo.com/c/sana-labs-ab/355916068"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sanalabs",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Sanalabs",
+   "results": [
+    "https://x.com/sanalabs",
+    "https://x.com/sanalabs/status/2022318153900958022",
+    "https://x.com/sanalabs/status/2013900235508977781",
+    "https://x.com/sanalabs/status/2046604741166133711",
+    "https://x.com/sanalabs/status/2066508635648192751",
+    "https://x.com/sanalabs/status/2052359216304685395",
+    "https://x.com/sanalabs/status/2062470739475722441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sanalabs",
+   "results": [
+    "https://www.linkedin.com/company/sana-labs/",
+    "https://se.linkedin.com/in/joel-hellermark",
+    "https://www.linkedin.com/in/jonlexa",
+    "https://uk.linkedin.com/in/andrebouzid",
+    "https://www.linkedin.com/products/sana-labs-sana-ai/",
+    "https://www.linkedin.com/company/sanalab",
+    "https://www.linkedin.com/posts/sana-labs_the-next-chapter-in-our-story-sana-has-entered-activity-7373716453176279041-eF2_"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sanalabs",
+   "results": [
+    "https://www.facebook.com/wwwsanalabscom-506281256536084/",
+    "https://www.facebook.com/p/Sana-Labs-100063832632266/",
+    "https://www.facebook.com/100063832632266/",
+    "https://www.facebook.com/100063832632266/videos/1596675568773647/",
+    "https://www.facebook.com/100063832632266/posts/inside-talabats-journey-to-an-ai-first-learning-culture-with-sana-learns-platfor/1602633111874428/",
+    "https://www.facebook.com/100063832632266/videos/1631934428600234/",
+    "https://www.facebook.com/100063832632266/videos/1295057085698503/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sanalabs note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://sanalabs.com/our-next-chapter",
+    "https://x.com/sanalabs/status/1787801390175162682",
+    "https://se.linkedin.com/in/joel-hellermark",
+    "https://craft.co/sana-labs/executives",
+    "https://www.techinasia.com/news/swedish-ai-firm-sana-labs-plans-us-ipo-in-coming-years",
+    "https://sanalabs.com/products/sana/stories"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sanalabs X 投稿",
+   "results": [
+    "https://x.com/sanalabs",
+    "https://www.instagram.com/sanalabs/",
+    "https://sanalabs.com/",
+    "https://booth.pm/ja/items/5236548",
+    "https://nan-net.com/confession/",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

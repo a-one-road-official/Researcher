@@ -1,0 +1,507 @@
+{
+ "name": "neoshapes — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T21:51:55.507281+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Bioprinter/Bioink Reseller",
+    "url": "https://www.voxelmatters.directory/company/neoshapes/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/neoshapes/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "neoshapes — VoxelMatters - The largest database of additive ... — At neoshapes we empower specialists in alloying, metallurgy, and engineering to unleash the potential of 3D printing for the luxury metals industry. Our leadership brings years of experience in luxury goods with a special focus on metallurgy and manufacturing. We are located in the Plan-les-Ouates industrial park in Geneva Switzerla",
+    "url": "https://www.voxelmatters.directory/company/neoshapes/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters on Reels - FacebookVoxelMatters - For his final-year project at Central Saint ...Thrilled to unveil the... - Mavonorm Exhibits Sp Z.o.o | FacebookFacebookVoxelMatters spent two months... - Prusa Research 3D printers ...Additive manufacturing is creating new solutions for hard-to ... VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Stéphane Vigié – CEO @Neoshapes | Strategic Advisor | LinkedIn加藤貞顕 - WikipediaDavide Sher - Co-founder and CEO at VoxelMatters | LinkedInAbout | VoxelMatters - The heart of additive manufacturingNeoshapes - LinkedIn CEO @Neoshapes | Strategic Advisor · I leverage my 25+ years of experience in managing companies and organizations, leading new industrial and commercial strategies in complex technica",
+    "url": "https://ch.linkedin.com/in/stéphane-vigié-59b165203",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/neoshapes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/neoshapes-and-incus-bring-lmm-3d-printing-to-luxury-watch-and-jewelry-sectors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://scratch.mit.edu/projects/1403399301/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soudesune.jp/ja/collections/hats/neoshapes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neoshapes.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://soudesune.jp/ja/collections/collections/neoshapes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.croccha.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fantist.com/articles/1092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best-item.co.jp/resin-liquid-osusume",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-green-ocean.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neoshapes.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=JLlSJnVhZZk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%B0%E3%83%AD%E3%83%A1%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3366/3246/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/neoshapes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/stéphane-vigié-59b165203",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "neoshapes — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/neoshapes/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.com/neoshapes-and-incus-bring-lmm-3d-printing-to-luxury-watch-and-jewelry-sectors/",
+    "https://neoshapes.com/",
+    "https://www.voxelmatters.directory/",
+    "https://nextshapes.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.instagram.com/antenna_ts/",
+    "https://scratch.mit.edu/projects/1403399301/",
+    "https://neokyo.com/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://soudesune.jp/ja/collections/hats/neoshapes",
+    "https://neoshapes.com/",
+    "https://soudesune.jp/ja/collections/collections/neoshapes",
+    "https://soudesune.jp/ja/collections/tech-devices/neoshapes",
+    "https://soudesune.jp/ja/products/neoshapes-move-visor",
+    "https://www.voxelmatters.report/database/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://shop.croccha.com/",
+    "https://fantist.com/articles/1092",
+    "https://best-item.co.jp/resin-liquid-osusume",
+    "https://shop-green-ocean.com/",
+    "https://fantist.com/articles/1017",
+    "https://jp.daisonet.com/collections/handmade0243",
+    "https://www.youtube.com/@nyandako"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://neoshapes.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.europesays.com/japan/79430/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.youtube.com/watch?v=JLlSJnVhZZk",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.marinelink.com/news/demosath-floating-wind-project-enters-new-543787"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp neoshapes — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://music.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://www.amazon.co.jp/ベイシア-血行促進ルームウェア-ストレッチ生地-リラックスウェア-ポケット付き/dp/B0FVW5SLDY",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com neoshapes — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/k/store/グロメット/",
+    "https://www.monotaro.com/p/3366/3246/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/1112/1442/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/01460545/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.linkedin.com/company/neoshapes",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/about/",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.foundry-planet.com/de/d/exone-announces-swiss-startup-neoshapes-has-purchased-the-first-of-several-innoventpro-systems-to-3d-print-gold/",
+    "https://neoshapes.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com neoshapes — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/fit_fowl5469/n/nf925eca3208b?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nobukume/n/n7ebd4f0e96a3",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com neoshapes — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/neoshapes3d",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/DemocraticWins/status/2117994783016685719"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com neoshapes — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/neoshapes",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/gabriele-crivelli-ab564a60_neoshapes-preciousmetalprinting-binderjetting-activity-7498995621949796352-N-T8",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-jewelry-metal3dprinting-activity-7501669509376868352-VNc_",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7338097629962153986/",
+    "https://www.linkedin.com/posts/davide-sher_additivemanufacturing-additivemanufacturing-activity-7274746053185200128-MgiW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com neoshapes — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/61556878421144/posts/thrilled-to-unveil-the-exhibition-stand-we-created-for-neoshapes-at-formnext-202/122319045086229280/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/",
+    "https://ch.linkedin.com/in/stéphane-vigié-59b165203",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/about/",
+    "https://www.linkedin.com/company/neoshapes",
+    "https://neoshapes.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "neoshapes — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/neoshapes_3d/",
+    "https://x.com/neoshapes3d",
+    "https://neoshapes.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/VoxelMatters/status/2117922030947614944"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

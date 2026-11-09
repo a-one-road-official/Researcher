@@ -1,0 +1,1339 @@
+{
+ "name": "Reflaunt",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T21:53:42.626261+00:00",
+ "official_url": "https://www.reflaunt.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$75,000",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$11,000,000",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Arroios, Lisbon, Portugal",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Looking to resell a private wardrobe?",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover Folio by Reflaunt — our white-glove resale service for individuals and fashion professionals.",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We enable your pre-loved offering",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Assortment of luxury second-hand products",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WWD - April 27, 2023",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Balenciaga Presses Go On Resale Following Successful Pilot",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Financial Times - April 9, 2022",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Peak - April 11, 2022",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reflaunt is a leading circularity technology platform transforming how fashion brands participate in the resale economy. We power premium and luxury brands — including NET-A-PORTE…",
+    "url": "https://join.com/companies/reflauntcom",
+    "pass": 1
+   },
+   {
+    "quote": "Reflaunt is a leading circularity technology platform transforming how fashion brands participate in the resale economy. We power premium and luxury brands — including NET-A-PORTER, Balenciaga and Level Shoes — with embedded resale infrastructure, enabling seamless resale, donation, and recycling directly from their ecommerce environment.",
+    "url": "https://join.com/companies/reflauntcom",
+    "pass": 1
+   },
+   {
+    "quote": "また、ファッションの循環を前向きに捉える文化が根付いており、「Pre-loved（大切に使われた）」という表現も普及しています",
+    "url": "https://liberont.com/liberont-media/about-06",
+    "pass": 3
+   },
+   {
+    "quote": "Loading your content... Please wait a moment.",
+    "url": "https://resell.reflaunt.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt is a fashion tech innovation leader providing resale-as-a-service (RaaS) to luxury brands. By enabling circular economy fashion, Reflaunt helps brands enter the growing luxury resale market and build sustainable fashion business models that retain customer loyalty and drive revenue.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "is an innovative resale-as-a-service (RaaS) platform that empowers luxury and fashion brands to launch and manage their resale marketplaces. By seamlessly integrating with established e-commerce websites, Reflaunt drives sustainability initiatives and promotes a circular economy within the fashion industry.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B, Two-sided, Product & Service",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Luxury and fashion brands seeking to enter or expand in the resale market, enhance customer loyalty, attract eco-conscious consumers, and promote sustainability. This includes brands that value brand control and seamless customer experience.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "), logistics providers (e.g.,",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt provides the infrastructure and tools for brands to manage their resale marketplaces, much like Shopify enables businesses to create their online stores.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopify primarily offers e-commerce platform services, while Reflaunt provides a resale-as-a-service (RaaS) model, managing key aspects like authentication, pricing, and logistics.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Consumers are increasingly interested in sustainable consumption practices, including buying and selling pre-owned luxury items.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "The fashion industry faces growing scrutiny for its environmental footprint, and brands are seeking ways to reduce waste and promote circularity.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Brands were missing out on potential revenue streams by not participating in the secondary market for their products.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Managing the complexities of authentication, pricing, and logistics for pre-owned luxury goods can be daunting for brands.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Features & Value Proposition",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt handles the entire resale process, from authentication and pricing to shipping and customer service.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Data Retention:",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Founders’ Problem Experience:",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "While scaling her previous luxury resale marketplace,",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "began her career at Procter & Gamble, managing brand portfolios like",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "brings over 17 years of experience in technology, consulting, and entrepreneurship. Early in his career, he worked on large-scale IT and digital transformation projects in Europe. He later co-founded",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": ", platforms focused on social polling and civic engagement. At Reflaunt, he oversees commercial strategy and brand partnerships, helping major fashion houses integrate resale into their digital ecosystems. His unique mix of legal, tech, and fashion experience helps him navigate the complexities of circular commerce and scale Reflaunt’s global presence in both luxury and premium fashion sectors.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Problem-Solving Approach:",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt decided to facilitate resale directly through retailers’ websites, enabling consumers to easily resell past purchases and providing brands with a streamlined solution for entering the resale market.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt leverages technology to streamline the resale process, including white-label resale interfaces, a global network of resale marketplaces, pricing recommendations, quality checking, professional photography, and logistics management. They have also integrated digital blockchain traceability certification for enhanced security and transparency.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt primarily targets businesses within the fashion industry, with a significant focus on luxury brands and retailers. They aim to partner with brands seeking to enter or expand their presence in the resale market, enhance customer loyalty, attract new customer segments interested in sustainability, and drive their sustainability initiatives.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt provides resale marketplaces with a curated inventory of pre-loved luxury and fashion items.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "projected to reach US$60.55 billion by 2029",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt needed a mechanism that automatically decides whether to accept integrated products from partners, then routes them through the right chain: publish, push to the Reflaunt channel, quarantine for manual review, or delist.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "The foundation is standard Shopify Flow triggers plus custom actions through a connector app — no bespoke ops spreadsheets, no guessing on every SKU update.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Accept/reject decisions combine product tags, metafields, and policy matrices:",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafields: qa.required_filled (bool), qa.images_count (int), compliance.authenticity (enum), pricing.vat_included (bool)",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand whitelist/blacklist, pre-owned grade, logistics constraints, minimum photo/field sets",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "duplicate SKU or brand+title+image fingerprint match → quarantine tagged duplicate",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Flow 1 — Product Intake: on product create/update, if partner:* tag exists, a custom action computes qa.score, images_count, and required_filled. Blocked items → rejected. Score ≥ 80 with ≥ 3 images and condition A/B on a whitelisted brand → eligible, added to collection, webhook push_to_reflaunt. Everything else → quarantine with Ops notification.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Flow 2 — Inventory/Price Drift: quantity or price changes that violate policy (minimum photos, brand price floor, regional VAT) return the item to quarantine with a remediation task.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "After fixes, Flow recalculates status and promotes eligible items automatically. Variant-level decisions aggregate to product level — partial publish is supported when at least one variant qualifies.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Dashboards track eligible/quarantine/rejected ratios, rejection reasons, and processing time. Alerts fire on duplicate spikes, policy_mismatch clusters, or falling quarantine → eligible conversion.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Automatic accept/reject for integrated SKUs without manual triage. Transparent quarantine with reasons and a short remediation path. Reliable order routing in Reflaunt dropship scenarios. New partners mean new rule profiles — not rewrites of core logic.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Full process automation",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Shipping evals before prompts",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Fastlane, staged rollouts and feature flags — a practical playbook from eighteen App Store submissions without a Friday-night rollback.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "We rebuilt data flows, updated deprecated endpoints, and clarified status UX so experts, sellers and buyers follow one transparent path from verification to digital passport.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "A major apparel producer had no single source of truth: Amazon, Zalando, own D2C and wholesale channels each spoke different schemas. We built a governed data layer so finance and ops finally know what came from where.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "A high-volume pre-owned luxury reseller needed floor staff to photograph, authenticate and publish items without switching between five tools. We shipped a focused mobile app tied to their warehouse ERP.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask anything about a project, a sprint, or how we work.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Thirty-minute discovery call. No deck, no sales pressure — engineers and your roadmap.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt’s mission is to build a world of positive consumption allowing luxury brands to enter with efficient circular models and motivate consumers to see fashion’s long-lasting value, thereby extending the life of a product and providing invaluable opportunities to re-engage with their customers.",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt has approximately",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "that matches your brand identity and ambitions.",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Resale Platform:",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt offers brands a customizable white-label platform to integrate resale into their existing e-commerce websites seamlessly.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt leverages technology to streamline the resale process, including white-label resale interfaces, a global network of resale marketplaces, pricing recommendations, quality checking, professional photography, and logistics management. They have also integrated digital blockchain traceability certification for enhanced security and transparency.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Solution:",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt’s white-label solution allows brands to offer resale without disrupting their existing branding and customer experience.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Luxury reseller · NDA",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "A high-volume pre-owned luxury reseller needed floor staff to photograph, authenticate and publish items without switching between five tools. We shipped a focused mobile app tied to their warehouse ERP.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Altuzarra to Launch Resale Offering This Summer: Altuzarra Archive",
+    "url": "https://www.reflaunt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "11-50 employees",
+    "url": "https://join.com/companies/reflauntcom",
+    "pass": 1
+   },
+   {
+    "quote": "Reflaunt is a fashion tech innovation leader providing resale-as-a-service (RaaS) to luxury brands. By enabling circular economy fashion, Reflaunt helps brands enter the growing luxury resale market and build sustainable fashion business models that retain customer loyalty and drive revenue.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Missed Revenue Opportunities:",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Brands were missing out on potential revenue streams by not participating in the secondary market for their products.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Functions as a B2B platform for facilitating the sale and acquisition of second-hand luxury goods.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Altuzarra’s launch of its resale",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt’s core acquisition strategy involves partnering with luxury and fashion brands and retailers, integrating directly into their e-commerce ecosystems. For example,",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "A commission is earned on each sale, aligning Reflaunt’s revenue with the volume of resold items.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Potential Additional Revenue Streams:",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "As of January 31, 2022, Reflaunt reported annual revenue of 842K Singapore dollars (SGD), which is about 626K USD.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Varies between 11 and 55 employees based on different sources, including LinkedIn, Pitchbook, and Growjo.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Altuzarra, Level Shoes, and",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "By tackling sustainability, missed revenue, and logistical hurdles, Reflaunt positioned itself as a multifaceted solution.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Your site is arranged by your profession, not your buyer's situation",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "what kind of people arrive here. You can change this any time from the",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Flow 1 — Product Intake: on product create/update, if partner:* tag exists, a custom action computes qa.score, images_count, and required_filled. Blocked items → rejected. Score ≥ 80 with ≥ 3 images and condition A/B on a whitelisted brand → eligible, added to collection, webhook push_to_reflaunt. Everything else → quarantine with Ops notification.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Arroios, Lisbon, Portugal",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Reflaunt",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Durango & Silverton Narrow Gauge Railroad",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt is located in Arroios, Lisbon, PT.",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Reflaunt?",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Reflaunt have?",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "handle the buyback/trade-in of products owned by users",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "those products are listed on platforms around the world.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "・欧州と日本で分かれる高級ブランドリセール",
+    "url": "https://liberont.com/liberont-media/about-06",
+    "pass": 3
+   },
+   {
+    "quote": "欧州では慎重ながらも着実に進む一方、日本においてはただの中古販売ではなく、「公式チャネルからの出品」や「正規のクレジット還元」などブランド体験の延長としての安心感が普及の鍵となりうる",
+    "url": "https://liberont.com/liberont-media/about-06",
+    "pass": 3
+   },
+   {
+    "quote": "日本でReflauntのような仕組みが普及するには？",
+    "url": "https://liberont.com/liberont-media/about-06",
+    "pass": 3
+   },
+   {
+    "quote": "欧米では高級ブランドのリセールが慎重ながら進む一方で、日本における高級ブランド品のリセールには、まだハードルがあります",
+    "url": "https://liberont.com/liberont-media/about-06",
+    "pass": 3
+   },
+   {
+    "quote": "「高級品はプロに任せるもの」という意識が強い日本でも高級ブランドがリセールを進めるには、",
+    "url": "https://liberont.com/liberont-media/about-06",
+    "pass": 3
+   },
+   {
+    "quote": "ファッション業界にもサーキュラーエコノミーを！Reflauntの取り組みとは？｜ブログ｜スターフィールド株式会社",
+    "url": "https://sterfield.co.jp/blog/ec-reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "日本と台湾、働き方の違いを理解してより良い協力関係へ",
+    "url": "https://sterfield.co.jp/blog/ec-reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "11月から日本の免税制度が変わる！日本での買い物額No.1の台湾人旅行者、買い方はどう変わる？",
+    "url": "https://sterfield.co.jp/blog/ec-reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, too, manufacturers and retailers are actively engaged in purchasing/reselling.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本でもメーカー・小売企業様による買取/再販が積極的に行われています",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界で広がる資源循環の波：Reflaunt編 - Liberont - 「信頼という価... — 日本でReflauntのような仕組みが普及するには？ 欧米では高級ブランドのリセールが慎重ながら進む一方で、日本における高級ブランド品のリセールには、まだハードルがあります。",
+    "url": "https://liberont.com/liberont-media/about-06",
+    "pass": 3
+   },
+   {
+    "quote": "「Folio」のローンチに続き、Reflauntは新たに「Folio Capsule」を発... — 5 days ago · この夏、Reflauntが立ち上げた高級リセールサービス「Folio」に続き、今回からは、あるスタイリストによるパーソナルなセレクトを、定期的により深く掘り下げて紹介していきます。",
+    "url": "https://jp.fashionnetwork.com/news/-folio-のローンチに続き-reflauntは新たに-folio-capsule-を発表しました,1881713.html",
+    "pass": 3
+   },
+   {
+    "quote": "Reflauntの「Folio」は、パーソナルスタイリストを中核に据え、富裕層... — Jun 23, 2026 · 私たちはそのニーズに応えるために『Folio』を構築しました」。 Reflauntは、常に独自のアプローチでブランドと緊密に協働し、顧客がブランド独自のプラットフォーム上で商品を再販できるよう支援してきた確かな実績があります。",
+    "url": "https://jp.fashionnetwork.com/news/Reflauntの-folio-は-パーソナルスタイリストを中核に据え-富裕層-hnw-顧客のワードローブを対象とする新たなリセールサービスです-,1842352.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファッション業界にもサーキュラーエコノミーを！Reflauntの取り組み... — Apr 25, 2024 · 商品の認証が完了すると、Reflauntが提携する複数の中古ECプラットフォームに商品が掲載され、商品が売れればその購入者（中古品販売者）は、そのブランドの公式ECサイトで使えるクレジットや現金を得ることができます。",
+    "url": "https://sterfield.co.jp/blog/ec-reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt Resell Service | Empowering brands with circular fashion — Reflaunt empowers brands with the technology to embrace circular fashion. The allows brand's customers to put back on sale their past purchases without ever leaving the brand ecosystem rewards them with brand shopping credits",
+    "url": "https://www.reflaunt.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt Resell Service | Empowering brands with circular fashion — Reflaunt empowers brands with the technology to embrace circular fashion. The allows brand's customers to put back on sale their past purchases without ever leaving the brand ecosystem rewards them with brand shopping credits.",
+    "url": "https://www.reflaunt.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are Reflaunt | Reflaunt Resell Service | Empowering brands ... — Our technology connects brands to the secondhand market. Thanks to our Reflaunt Button logged in the account of the customer, any past purchases can be pushed for resale in a click on of marketplaces simultaneously.",
+    "url": "https://www.reflaunt.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt - Resell your wardrobe and get rewarded — This platform also allows you to submit new resale requests for both womenswear and menswear, manage your collections, and benefit from the Reflaunt’s global marketplace network for faster sales and stronger payouts.",
+    "url": "https://resell.reflaunt.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt - LinkedIn — Reflaunt is a technology company that brings Resale-as-a-Service to fashion brands and multi-brand retailers. With Reflaunt’s leading technology solutions, fashion retailers can empower their...",
+    "url": "https://www.linkedin.com/company/reflaunt-official",
+    "pass": 3
+   },
+   {
+    "quote": "Curated Pre-Loved Luxury by Reflaunt — Shop curated pre-loved designer fashion, handbags and accessories - sourced, authenticated and vetted by professional stylists at Folio, powered by Reflaunt.",
+    "url": "https://shop.reflaunt.com/blogs/about-reflaunt",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Case Study - Reflaunt - Eightception — Nov 17, 2025 · Clients: Luxury and fashion brands seeking to enter or expand in the resale market, enhance customer loyalty, attract eco-conscious consumers, and promote sustainability. This includes brands that value brand control and seamless customer experience.",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt dropship routing on Shopify Flow — ZNN case — The problem Reflaunt needed a mechanism that automatically decides whether to accept integrated products from partners, then routes them through the right chain: publish, push to the Reflaunt channel, quarantine for manual review, or delist.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt - Knowledge Hub | Circle Economy Foundation — The Knowledge Hub is the online library for circular economy case studies where everyone can contribute. Find and add a case study today!",
+    "url": "https://knowledge-hub.circle-economy.com/business/organization/5308",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt Scaled CX Without Local Asian Presence - Penbrothers — Built a reliable offshore team for Reflaunt without the need for local infrastructure, addressing talent, compliance, and operational gaps. Delivered substantial cost savings while improving customer experience and team performance.",
+    "url": "https://penbrothers.com/success-story/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt Revenue, Funding & Valuation - prospeo.io — Reflaunt has revenue of $3,200,000, estimated valuation of $10,300,000, $11,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt 2026 Company Profile: Valuation, Funding & Investors ...Reflaunt - 2026 Company Profile, Team, Funding, Competitors ...Reflaunt: Revenue, Worth, Valuation & Competitors 2026Reflaunt — Company Profile | The Company CheckReflaunt Information - RocketReachReflaunt: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for R",
+    "url": "https://pitchbook.com/profiles/company/432861-40",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt - 2026 Company Profile, Team, Funding, Competitors ... — Mar 20, 2026 · Reflaunt has raised $19.9M in funding from investors like Ventech China, Bombyx and Yellow Octopus. The company has 1113 active competitors, including 124 funded and 113 that have exited.",
+    "url": "https://tracxn.com/d/companies/reflaunt/__LQNtjeegsC-sjKGqvCb4UeAJOJhX6Hmya573yKQ8BkM",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt: Revenue, Worth, Valuation & Competitors 2026 — Reflaunt Revenue & Valuation Reflaunt's estimated annual revenue is currently $11.5M per year. Reflaunt's estimated revenue per employee stands at $198.4K. Reflaunt has raised a total of $2.7M in funding.",
+    "url": "https://compworth.com/company/reflaunt",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt — Company Profile | The Company Check — Reflaunt is a company based in Singapore (Singapore) founded in 2017. Reflaunt has raised $18.9 million across 3 funding rounds from investors including Global Blue, Deal Street Asia and Fashion For Good.",
+    "url": "https://www.thecompanycheck.com/company/b/reflaunt/t6jwchj5f2c8vn2th",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Startup Case Study - Reflaunt - Eightception",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt: A Startup Case Study – Enabling Luxury Fashion Resale with a Sustainable Twist",
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "pass": 3
+   },
+   {
+    "quote": "Global fashion manufacturer",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "A high-volume pre-owned luxury reseller needed floor staff to photograph, authenticate and publish items without switching between five tools. We shipped a focused mobile app tied to their warehouse ERP.",
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "In Western countries, manufacturers and retailers (brands) are entering the reuse business",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If the user agrees to the price, they ship the product to the warehouse.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, too, manufacturers and retailers are actively engaged in purchasing/reselling.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "If you have any interest or questions about entering the reuse business, please feel free to contact us via the",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What is \"Reflaunt,\" the company that led the reuse business ... May 10, 2024 · The user experience provided by Reflaunt increases sales speed by listing the same clothes on dozens of resale sites, achieving reach to over 30 million potential customers worldwide.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーの心理に着目してリユース事業を成功へ導いた企業「Ref... May 10, 2024 · 今回は、RaaS企業の中でも 『すべてのエンドユーザーが 1 つのブランドで買い物をしたいと思っているわけではない』 という点に着目し、成功を収めた 「Reflaunt」 をご紹介します！",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "엔드 유저의 심리에 주목하여 리유스 사업을 성공으로 이끈 기업 'Ref... 이번에는 RaaS 기업 중에서도 '모든 엔드 유저가 한 브랜드에서만 쇼핑하고 싶어 하는 것은 아니다 '라는 점에 주목하여 성공을 거둔 \" Reflaunt \" 를 소개합니다!",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "What is \"Reflaunt,\" the company that led the reuse business to success by focusing on end-user psychology?｜Selloop | 二次流通で、顧客とのつながりをつくる。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is \"Reflaunt,\" the company that led the reuse business to success by focusing on end-user psychology?",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Selloop | 二次流通で、顧客とのつながりをつくる。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is Maruyama from \"",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ",\" where we build connections with customers through secondary distribution.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Western countries, manufacturers and retailers (brands) are entering the reuse business",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "increasing sales by buying back and reselling their own products.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Supporting this entry and growth in the reuse business are",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーの心理に着目してリユース事業を成功へ導いた企業「Reflaunt」とは？｜Selloop | 二次流通で、顧客とのつながりをつくる。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーの心理に着目してリユース事業を成功へ導いた企業「Reflaunt」とは？",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "Selloop | 二次流通で、顧客とのつながりをつくる。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "欧米では、メーカー・小売企業（ブランド）がリユース事業に参入",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "自社商品の買取/再販で売上を伸ばしています。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "新たなユーザーへのユーズド品再販を代行支援",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "(Resale-as-a-Service)企業です。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "1 つのブランドで買い物をしたいと思っているわけではない",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "pass": 3
+   },
+   {
+    "quote": "엔드 유저의 심리에 주목하여 리유스 사업을 성공으로 이끈 기업 'Reflaunt'란?｜Selloop | 二次流通で、顧客とのつながりをつくる。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "엔드 유저의 심리에 주목하여 리유스 사업을 성공으로 이끈 기업 'Reflaunt'란?",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Selloop | 二次流通で、顧客とのつながりをつくる。",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "이차 유통으로 고객과의 연결을 만드는 '",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "유럽과 미국에서는 제조사 및 소매 기업(브랜드)이 리유스 사업에 진출",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "자사 상품의 매입/재판매로 매출을 늘리고 있습니다.",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "그 리유스 사업 진출과 성장을 뒷받침하는 것은",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "사용자가 보유한 상품의 매입/보상 판매",
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CEVA Logistics on X: \" #CEVAInsights In this interview ... 💡 #CEVAInsights In this interview, Stephanie Crespin, Founder and CEO of the start-up Reflaunt shares her vision of the second-hand luxury fashion market and #supplychain & #logistics implications. ️ cevalogistics.com/en/ceva-insigh…",
+    "url": "https://x.com/cevalogistics/status/1532341024642715651",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Reflaunt - LinkedIn With Reflaunt’s leading technology solutions, fashion retailers can empower their own customers to resell or recycle their past purchases in a click, directly on their e-commerce platform.",
+    "url": "https://www.linkedin.com/company/reflaunt-official",
+    "pass": 3
+   },
+   {
+    "quote": "Stephanie Crespin - Reflaunt Pte Ltd | LinkedInReflaunt and Chalhoub Group set a new standard in luxury ...Reflaunt has officially landed in Milan I am excited to ...Reflaunt on LinkedIn: Reflaunt is proud to announce the ...Marco Gonçalves - Sales Operations Analyst at Reflaunt | LinkedInReflaunt is excited to announce our new partnership with ... · Expérience : Reflaunt Pte Ltd · Formation : Lou",
+    "url": "https://fr.linkedin.com/in/stephaniecrespin",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt and Chalhoub Group set a new standard in luxury ... The service will follow Reflaunt’s Concierge model, which has been instrumental in shaping our leadership in luxury resale.",
+    "url": "https://www.linkedin.com/posts/reflaunt-official_reflaunt-and-chalhoub-group-set-a-new-standard-activity-7295725360942342144--ADU",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt has officially landed in Milan I am excited to ... Reflaunt has officially landed in Milan 👋 I am excited to build up our commercial powerhouse team here and deepen our relationships within the Italian fashion ecosystem.",
+    "url": "https://www.linkedin.com/posts/msofiagazzotti_reflaunt-has-officially-landed-in-milan-activity-7184255875501477889-jM6a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ReFlaunt - Facebook Sep 17, 2015 · ReFlaunt. 329 likes. ReFlaunt makes buying and selling of used furniture happen without any hassle. Quality Assurance, Payment Collection and Home Delivery!",
+    "url": "https://www.facebook.com/ReFlaunt/",
+    "pass": 3
+   },
+   {
+    "quote": "Re.flaunt - Facebook Jan 29, 2022 · A fabulous & relevant revolution! 🌱 . . #reflaunt #sustainablefashion #chiq #trendy #reuse #recycle #create #design #curate #biodegradable #khadi #cotton #trendy #dress #croptop #thrift #women #onlineshopping #timeless #evergreen #printed #beauty #instavibes #love #mulmul #soft #saree #sareelover #sareecollection #coordset #stripes",
+    "url": "https://www.facebook.com/Re.Flauntt/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt, the resale technology... - Apparel Resources | Facebook Nov 21, 2023 · Reflaunt, the resale technology solution used by Altazurra, Balenciaga and Net-A-Porter among others, will join forces with fashion textile recycling...",
+    "url": "https://www.facebook.com/apparelresources/posts/reflaunt-the-resale-technology-solution-used-by-altazurra-balenciaga-and-net-a-p/843659301093745/",
+    "pass": 3
+   },
+   {
+    "quote": "Reflaunt by Megs | Sydney NSW - Facebook Mar 14, 2022 · Reflaunt by Megs, Sydney. 7 likes. Reflaunt By Megs is a vision to create a shared platform to promote unique, single hand made items. Every piece you...",
+    "url": "https://www.facebook.com/reflauntbymegs/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.reflaunt.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reflaunt.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://join.com/companies/reflauntcom",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://liberont.com/liberont-media/about-06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.fashionnetwork.com/news/-folio-%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%81%E3%81%AB%E7%B6%9A%E3%81%8D-reflaunt%E3%81%AF%E6%96%B0%E3%81%9F%E3%81%AB-folio-capsule-%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F,1881713.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.fashionnetwork.com/news/Reflaunt%E3%81%AE-folio-%E3%81%AF-%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E3%82%92%E4%B8%AD%E6%A0%B8%E3%81%AB%E6%8D%AE%E3%81%88-%E5%AF%8C%E8%A3%95%E5%B1%A4-hnw-%E9%A1%A7%E5%AE%A2%E3%81%AE%E3%83%AF%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%96%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%AA%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A7%E3%81%99-,1842352.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sterfield.co.jp/blog/ec-reflaunt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resell.reflaunt.com/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/reflaunt-official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://eightception.com/reflaunt-resale-as-a-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://znn.agency/en/case-studies/reflaunt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowledge-hub.circle-economy.com/business/organization/5308",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/reflaunt-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/432861-40",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/reflaunt/__LQNtjeegsC-sjKGqvCb4UeAJOJhX6Hmya573yKQ8BkM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/reflaunt",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cevalogistics/status/1532341024642715651",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/reflaunt-official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/stephaniecrespin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/reflaunt-official_reflaunt-and-chalhoub-group-set-a-new-standard-activity-7295725360942342144--ADU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/msofiagazzotti_reflaunt-has-officially-landed-in-milan-activity-7184255875501477889-jM6a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReFlaunt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Re.Flauntt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/apparelresources/posts/reflaunt-the-resale-technology-solution-used-by-altazurra-balenciaga-and-net-a-p/843659301093745/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reflauntbymegs/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Reflaunt 日本 導入",
+   "results": [
+    "https://liberont.com/liberont-media/about-06",
+    "https://jp.fashionnetwork.com/news/-folio-のローンチに続き-reflauntは新たに-folio-capsule-を発表しました,1881713.html",
+    "https://jp.fashionnetwork.com/news/Reflauntの-folio-は-パーソナルスタイリストを中核に据え-富裕層-hnw-顧客のワードローブを対象とする新たなリセールサービスです-,1842352.html",
+    "https://sterfield.co.jp/blog/ec-reflaunt/",
+    "https://www.reflaunt.com/",
+    "https://www.globalblue.com/ja/about-us/media/global-blue-acquires-stake-in-reflaunt-an-innovative-new-re-commerce-platform",
+    "https://biz-journal.jp/company/post_395463.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reflaunt 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.mtg.gr.jp/en/",
+    "https://appexchangejp.salesforce.com/learn/japan-resellers",
+    "https://www.rafra-japan.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reflaunt Japan",
+   "results": [
+    "https://www.reflaunt.com/",
+    "https://www.reflaunt.com/about",
+    "https://resell.reflaunt.com/faq",
+    "https://www.linkedin.com/company/reflaunt-official",
+    "https://shop.reflaunt.com/blogs/about-reflaunt",
+    "https://www.globalblue.com/ja/about-us/media/global-blue-acquires-stake-in-reflaunt-an-innovative-new-re-commerce-platform",
+    "https://www.globalblue.com/ja/business/newsroom/Reflaunt"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reflaunt manufacturing customer case study",
+   "results": [
+    "https://eightception.com/reflaunt-resale-as-a-service/",
+    "https://www.reflaunt.com/",
+    "https://znn.agency/en/case-studies/reflaunt/",
+    "https://knowledge-hub.circle-economy.com/business/organization/5308",
+    "https://penbrothers.com/success-story/reflaunt/",
+    "https://rebekahneal.design/case-study-reflaunt-concierge-resale",
+    "https://rebekahneal.design/case-study-reflaunt-take-back"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reflaunt white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reflaunt founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/reflaunt-revenue",
+    "https://pitchbook.com/profiles/company/432861-40",
+    "https://tracxn.com/d/companies/reflaunt/__LQNtjeegsC-sjKGqvCb4UeAJOJhX6Hmya573yKQ8BkM",
+    "https://compworth.com/company/reflaunt",
+    "https://www.thecompanycheck.com/company/b/reflaunt/t6jwchj5f2c8vn2th",
+    "https://rocketreach.co/reflaunt-profile_b4502fd8fc7abe7b",
+    "https://fundediq.co/reflaunt-reflaunt-com-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Reflaunt",
+   "results": [
+    "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=en",
+    "https://note.com/denso_26/n/n755f2b31e22a",
+    "https://note.com/jolly_beetle845/n/nc9d46240a246",
+    "https://note.com/jolly_beetle845/n/nc9d46240a246?hl=ko",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Reflaunt",
+   "results": [
+    "https://x.com/cevalogistics/status/1532341024642715651",
+    "https://help.x.com/en",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/tamaescence/status/2116905153932804375"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Reflaunt",
+   "results": [
+    "https://www.linkedin.com/company/reflaunt-official",
+    "https://fr.linkedin.com/in/stephaniecrespin",
+    "https://www.linkedin.com/posts/reflaunt-official_reflaunt-and-chalhoub-group-set-a-new-standard-activity-7295725360942342144--ADU",
+    "https://www.linkedin.com/posts/msofiagazzotti_reflaunt-has-officially-landed-in-milan-activity-7184255875501477889-jM6a",
+    "https://np.linkedin.com/posts/reflaunt-official_reflaunt-is-proud-to-announce-the-launch-activity-6978274515579494400-vZ6c",
+    "https://pt.linkedin.com/in/marcogoncalvesgg",
+    "https://uk.linkedin.com/posts/reflaunt-official_reflaunt-is-excited-to-announce-our-new-partnership-activity-6988059082536423424-eWY1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Reflaunt",
+   "results": [
+    "https://www.facebook.com/ReFlaunt/",
+    "https://www.facebook.com/Re.Flauntt/",
+    "https://www.facebook.com/apparelresources/posts/reflaunt-the-resale-technology-solution-used-by-altazurra-balenciaga-and-net-a-p/843659301093745/",
+    "https://www.facebook.com/reflauntbymegs/",
+    "https://www.facebook.com/luxuryventuregroup/posts/reflaunt_official-igniting-the-growth-of-the-fashion-industry-through-brand-powe/1723067621418911/",
+    "https://www.facebook.com/TheMillsFabrica/posts/congratulations-to-reflaunt-reflaunt-was-featured-in-the-business-of-fashion-as-/2943601459296052/",
+    "https://www.facebook.com/ecotextile/posts/lisbon-circular-solutions-provider-reflaunt-has-secured-us11-million-via-a-serie/10160271476366031/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reflaunt note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.reflaunt.com/about",
+    "https://www.reflaunt.com/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://pitchbook.com/profiles/company/432861-40",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reflaunt X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

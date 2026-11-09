@@ -1,0 +1,1633 @@
+{
+ "name": "Replo",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜AI送信済み",
+ "researched_at": "2026-11-09T21:47:49.512104+00:00",
+ "official_url": "https://replo.app",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "09-Feb-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Sep-2021 $3.88M $4M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$4,200,000",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Replo: Everything you need to find customers, sell your products and services, and keep them coming back",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to find customers, sell your products and services, and keep them coming back",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Promotes mental clarity + energy",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": ". Research and design ads, launch sales funnels, and keep customers coming back, without growing your team.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "A natural-process lot from 2,100 meters in the Guji Zone, roasted light to keep every bit of peach and jasmine.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-order · $26",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Copy top-performing ads and",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Browse ads from over 2.5 million businesses, find the campaigns that keep running, and design your own version in Replo.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Browse ads from 2.5 million businesses",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Search live ads by brand or category and see which ones have run the longest.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the print that feels like home.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Fresh-pressed. Never fancy.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale the ads that are",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Make new versions of your best ads and pages, compare yourself to businesses your size, and keep what sells.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Design variants of ads and pages",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Works with 30+ store and cart providers, from Shopify to WooCommerce, using your products and checkout.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Products, cart and checkout from",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell products with checkout built into your site, no store needed.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales, ads, and pages in one email, in your team's inbox every morning.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Your weekly ads summary",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "/members converts at 2.1%: most visitors leave before the price",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Restocks, product updates, and price changes run on the schedule you set.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "02 Proof beside the buy button",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "For anyone, from entrepreneurs to",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver more for each client: build on their brand, prove what converts, and earn on clients you refer.",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Product, landing, home and blog page templates from brands with millions in ad spend.",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "A referral fee on each client's first 12 months of Replo, plus agency pricing.",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "100% waterproof",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Performance marketing agencies",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Affiliate program terms",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Mojo Country Club sent all Meta ads to landing pages, and an A/B test showed its story page converted 3.3x a listicle.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "She Reads Truth: $25K a month of Meta ads on landing pages",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "She Reads Truth rebuilt its subscription and campaign pages without developers and now sends nearly all its $25K monthly Meta spend there.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cornbread Hemp sent Meta ads to advertorial and offer landing pages, cutting acquisition cost 33% and more than doubling conversion rate.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Swoveralls built a landing page for each product drop from templates, and its seasonal offer page converted at twice the site rate.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Breath Death replaced Shopify product pages with tested, influencer-personalized landing pages and raised conversion rate over 150% in three months.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Woxer built a landing page for each product drop and ad channel, and its conversion rate went from 1.2% to 2.5% in 90 days.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Healthy Metal moved its whole store off its theme and split-tested lower subscription prices, raising conversion rate 67% and profit per visitor 50%.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Green Goo rebuilt its product and home pages for mobile shoppers and grew conversion rate from about 1% to 2–3%.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Heart Magic Cacao got a $400 product page, not $4,000",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Heart Magic Cacao paid a Replo Expert about $400 for a four-flavor product page that custom development would have priced at $4,000-$5,000.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Webtopia replaced Zest's product page with education-first pages and split-tested them, lifting conversion rate from 1.29% to 5%.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Huron built product-specific landing pages for its paid ads and saw conversion rates rise more than 50% year-to-date.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Tushy split ad traffic between a new landing page and its product page, and the landing page converted at 5.5% versus 2.5%.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Liquor Loot moved its landing pages to Replo so its marketing and design teams could build Figma designs without developers.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Reprise lifted landing page conversion from 0.70% to 4.41%",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Reprise and its agency Symetrics rebuilt an Unbounce landing page and A/B tested it from 0.70% to 4.41% conversion.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "100% waterproof",
+    "url": "https://www.replo.app/partners/brands",
+    "pass": 1
+   },
+   {
+    "quote": "Hire a certified builder",
+    "url": "https://www.replo.app/partners/brands",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for performance marketing agencies | A page per ad set",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Each client gets its own brand, catalog and team, and sections copy across projects.",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "100% waterproof",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Show clients results sooner. Find the fix, build it and prove it, without waiting on their developers.",
+    "url": "https://www.replo.app/partners/cro",
+    "pass": 1
+   },
+   {
+    "quote": "Each client gets its own brand, catalog and team, and sections copy across projects.",
+    "url": "https://www.replo.app/partners/cro",
+    "pass": 1
+   },
+   {
+    "quote": "100% waterproof",
+    "url": "https://www.replo.app/partners/cro",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for Shopify agencies | Client pages without a dev sprint",
+    "url": "https://www.replo.app/partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Each client gets its own brand, catalog and team, and sections copy across projects.",
+    "url": "https://www.replo.app/partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "100% waterproof",
+    "url": "https://www.replo.app/partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Replo Pricing: Start Free, Plans From $99 a Month",
+    "url": "https://www.replo.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "10 hours of hands-on onboarding",
+    "url": "https://www.replo.app/pricing",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Paste the link to any live site and get an editable copy in your brand.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn a winning ad into your own, in your brand, ready to launch.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for agencies | Client workspaces and referral fees",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for agencies: win clients,",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Performance marketing agencies",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for performance marketing agencies | A page per ad set",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for CRO agencies | Audit, fix and A/B test pages",
+    "url": "https://www.replo.app/partners/cro",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for CRO agencies: lift results",
+    "url": "https://www.replo.app/partners/cro",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for Shopify agencies | Client pages without a dev sprint",
+    "url": "https://www.replo.app/partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Replo for Shopify agencies: ship more",
+    "url": "https://www.replo.app/partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT writes about a site. We ship one. We remember your brand and store data, publish and host the site on your domain, A/B test it, and track every visit, conversion and sale on it. You can also use Replo from inside",
+    "url": "https://www.replo.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A page on your brand that explains the product and asks for the sale.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Those host you on their platform: Gumroad takes 10% + 50¢ per sale, and Stan charges a monthly plan. Replo builds a full site on your brand and domain and takes no cut. They do sell memberships, which Replo checkout doesn't. See",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "They can draft a site. Replo also knows your brand and catalog, puts your cart and checkout behind every button, hosts the site on your domain, and measures how it converts. And if you like working in Claude or ChatGPT, you can use Replo from inside both.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "A store on your brand with Shopify or Replo checkout already working.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Ask for a pricing page or a page per feature, built on your brand.",
+    "url": "https://www.replo.app/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Sites for apps, agencies and services",
+    "url": "https://www.replo.app/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Paste a link or an ad and Replo builds a site on your brand, ready to publish.",
+    "url": "https://www.replo.app/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, consultants, trades and more",
+    "url": "https://www.replo.app/solutions/apps",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT can draft the copy. Replo also builds the page on your brand, hosts it on your domain, connects your waitlist, and shows how visitors use it. You can use Replo from inside ChatGPT or Claude too.",
+    "url": "https://www.replo.app/solutions/apps",
+    "pass": 1
+   },
+   {
+    "quote": "Paste a link or an ad and Replo builds a site on your brand, ready to publish.",
+    "url": "https://www.replo.app/solutions/apps",
+    "pass": 1
+   },
+   {
+    "quote": "Sites for service businesses, software companies, apps and stores. Replo writes the pages, builds them on your brand, and hosts them on your domain. Most templates are made for stores today, so service sites start from your current site or a short brief.",
+    "url": "https://www.replo.app/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Paste a link or an ad and Replo builds a site on your brand, ready to publish.",
+    "url": "https://www.replo.app/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Services, reviews and your booking calendar, on a site built for agencies.",
+    "url": "https://www.replo.app/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Payments in the Replo Partner Program are managed through",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "is your all-in-one-solution for selling anything on the Internet. With Replo, you can use a single prompt, image, or URL to generate a full page that's ready to drive sales for your brand; or use our drag-and-drop editor. Use our Analytics and A/B Testing tool to track, measure, and iterate on your pages. Access ready-made templates from over hundreds of different brands.",
+    "url": "https://www.replo.app/case-study/achieving-3x-higher-cvr-with-focused-story-driven-landing-pages-for-mojo-country-club",
+    "pass": 1
+   },
+   {
+    "quote": "is your all-in-one-solution for selling anything on the Internet. With Replo, you can use a single prompt, image, or URL to generate a full page that's ready to drive sales for your brand; or use our drag-and-drop editor. Use our Analytics and A/B Testing tool to track, measure, and iterate on your pages. Access ready-made templates from over hundreds of different brands.",
+    "url": "https://www.replo.app/case-study/boosting-subscription-conversions-by-38-with-compliant-landing-pages-for-feals",
+    "pass": 1
+   },
+   {
+    "quote": "is your all-in-one-solution for selling anything on the Internet. With Replo, you can use a single prompt, image, or URL to generate a full page that's ready to drive sales for your brand; or use our drag-and-drop editor. Use our Analytics and A/B Testing tool to track, measure, and iterate on your pages. Access ready-made templates from over hundreds of different brands.",
+    "url": "https://www.replo.app/case-study/building-high-converting-ad-congruent-paid-funnels-fast-with-wuffes",
+    "pass": 1
+   },
+   {
+    "quote": "Templates made for agencies",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies that build on Replo",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, consultants, trades and more",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Not yet. Today Replo builds your site from your current URL, a Figma file, or a few lines about your agency and its services. Templates made for agencies and other service businesses are on the way.",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT can draft the words. Replo also builds the site on your brand, hosts it on your domain, adds your booking calendar, and shows which pages bring in customers. You can use Replo from inside ChatGPT or Claude too.",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Paste a link or an ad and Replo builds a site on your brand, ready to publish.",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Paste a link or an ad and Replo builds a site on your brand, ready to publish.",
+    "url": "https://www.replo.app/examples/saas-landing-pages/pricing-pages",
+    "pass": 1
+   },
+   {
+    "quote": "Most of these brands end up using agencies and because they’re not employing developers full-time, then those agencies have to deal with tech dev from the last agency and it’s a whole thing. At the end of the day, the brand doesn’t actually get a page they can customize. Replo is a tool which allows you to build these pages and customize them without hiring developers. That’s the short of it.",
+    "url": "https://nolt.io/case-studies/replo",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Benchmark against your revenue band",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue up 12% on last Tuesday, led by /glide-3",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue up 12%, led by /glide-3",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Run every part of your store in Replo",
+    "url": "https://www.replo.app/partners/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Cornbread Hemp sent Meta ads to advertorial and offer landing pages, cutting acquisition cost 33% and more than doubling conversion rate.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cords Club grew revenue per visitor 9% in 2 weeks",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cords Club A/B tested page redesigns before rolling them out; a new subscription page raised revenue per visitor 9% in two weeks.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "BonLook grew revenue per session 27% with A/B tests",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "BonLook started A/B tests from templates in minutes and raised revenue per session 27% across its pages.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "POSSIBLE grew revenue per visitor 10.25% with an A/B test",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "VaynerCommerce built two bar landing pages for POSSIBLE, split ad traffic between them, and the winner raised revenue per visitor 10.25%.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Really Good Boxed Wine grew club revenue 20% in 7 days",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Really Good Boxed Wine launched a wine club page and grew subscription revenue 20% in 7 days.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Earthling Co. grew revenue per session 46% at launch",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Earthling Co. and agency BedaBeda Growth launched a custom shampoo bar landing page that raised revenue per session 46%.",
+    "url": "https://www.replo.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Run every part of your store in Replo",
+    "url": "https://www.replo.app/partners/brands",
+    "pass": 1
+   },
+   {
+    "quote": "Turn more of each client's ad spend into sales, with a matched page for every ad and revenue per visitor by page.",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Match a landing page to every ad set, carrying over its hook, offer, and imagery.",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Heatmaps, A/B tests and revenue by page, so each client report shows what moved.",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Run every part of your store in Replo",
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Heatmaps, A/B tests and revenue by page, so each client report shows what moved.",
+    "url": "https://www.replo.app/partners/cro",
+    "pass": 1
+   },
+   {
+    "quote": "Run every part of your store in Replo",
+    "url": "https://www.replo.app/partners/cro",
+    "pass": 1
+   },
+   {
+    "quote": "Heatmaps, A/B tests and revenue by page, so each client report shows what moved.",
+    "url": "https://www.replo.app/partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Run every part of your store in Replo",
+    "url": "https://www.replo.app/partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue and conversion tracking",
+    "url": "https://www.replo.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Session and attributed revenue",
+    "url": "https://www.replo.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Visits, checkouts, and revenue by page, next to your analytics tools.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Noah was previously a principal engineer at PlanGrid (YC W12), where he led iOS development before Autodesk acquired the company in 2020.",
+    "url": "https://www.replo.app/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Representations and Warranties",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "Disclaimer of Warranties",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "Company provides software and technology solutions to businesses for their ecommerce and marketing activities. Referral Partner is in a position to refer prospective customers to Company. This Agreement provides the terms and conditions under which Referral Partner will do so as part of the Program.",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "2. Referral Arrangement",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "Referral Fees will be calculated solely on the net subscription revenue actually received by Company from a Successful Referral during the first twelve (12) months of the Successful Referral’s paid subscription.",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "9. Representations and Warranties",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "Both Parties represent that they are fully authorized to enter into this Agreement and that each Party shall comply with all applicable laws, rules, and regulations and will not violate or infringe upon any third-party rights in its performance of its rights and obligations under this Agreement. Referral Partner further represents and warrants that:",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "its website will not be identical, copied in any way, nor will it mirror the look and feel of Company’s site. Referral Partner cannot in any way create an impression that its site is Company’s website or even mirror a part of Company’s website in any manner;",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "11. Disclaimer of Warranties",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "You may not use our restricted terms as your title, ad copy, display name or display URL. You may not use any of our trademark terms as part of a domain or subdomain for our website.",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "When advertising or promoting the Program on Facebook, Twitter, Instagram, YouTube and other social media platforms, you indicate and warrant that you will comply with the following requirements:",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "REGARDLESS OF ANY STATUTE OR LAW TO THE CONTRARY, ANY CLAIM OR CAUSE OF ACTION ARISING OUT OF OR RELATED TO USE OF THE SITE, SERVICES, OR THIS AGREEMENT MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION ARISES OR IT WILL BE FOREVER BARRED.",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "+10.25% revenue per visitor",
+    "url": "https://www.replo.app/case-study/achieving-3x-higher-cvr-with-focused-story-driven-landing-pages-for-mojo-country-club",
+    "pass": 1
+   },
+   {
+    "quote": "POSSIBLE grew revenue per visitor 10.25% with an A/B test",
+    "url": "https://www.replo.app/case-study/achieving-3x-higher-cvr-with-focused-story-driven-landing-pages-for-mojo-country-club",
+    "pass": 1
+   },
+   {
+    "quote": "VaynerCommerce built two bar landing pages for POSSIBLE, split ad traffic between them, and the winner raised revenue per visitor 10.25%.",
+    "url": "https://www.replo.app/case-study/achieving-3x-higher-cvr-with-focused-story-driven-landing-pages-for-mojo-country-club",
+    "pass": 1
+   },
+   {
+    "quote": "By combining Replo's no-code page building with a relentless testing culture, Feals has turned compliance constraints into a competitive advantage, consistently driving lifts in conversion and revenue across their entire product line.",
+    "url": "https://www.replo.app/case-study/boosting-subscription-conversions-by-38-with-compliant-landing-pages-for-feals",
+    "pass": 1
+   },
+   {
+    "quote": "Four plans in one row on a dark page, with limits listed under each.",
+    "url": "https://www.replo.app/examples/saas-landing-pages/pricing-pages",
+    "pass": 1
+   },
+   {
+    "quote": "BonLook boosts revenue by 27% with Replo",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "Cords Club grows revenue per visitor by 9% with Replo",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "Healthy Metal boosts conversion and revenue per visitor with Replo",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Manager of Acquisition @ Magic Spoon",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "POSSIBLE boosts revenue per visitor by 10.25% with Replo",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "Shogun is an ecommerce experience platform empowering brands to drive higher conversions, revenue, and brand loyalty. Their products Shogun Page Builder and Shogun Frontend help teams build and optimize their …",
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "quote": "Replo has 29 total employees.",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "quote": "What is Replo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Replo is",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "quote": "Replo Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Replo",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Sales, ads, and pages in one email, in your team's inbox every morning.",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Email traffic doubled after Monday's send",
+    "url": "https://www.replo.app/",
+    "pass": 1
+   },
+   {
+    "quote": "One person's visit to a site you publish with us. Starter includes 100,000 a month and Pro 500,000, shared across your workspace. If your traffic regularly runs past that, email support@replo.app and we'll find a plan that fits.",
+    "url": "https://www.replo.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers get their file by email the moment they pay.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Reply to this email if anything’s wrong with your file.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Get your site's traffic and sales emailed to your team daily or weekly.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Signup forms on the page add buyers and leads to your email tool.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Turn on email delivery and Replo sends each buyer a download link, access code, or attachment the moment they pay. They also get an order confirmation and an order page they can bookmark.",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Signup forms send each new email to your Klaviyo list.",
+    "url": "https://www.replo.app/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Traffic reports emailed daily or weekly",
+    "url": "https://www.replo.app/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Get your site's traffic and sales emailed to your team daily or weekly.",
+    "url": "https://www.replo.app/solutions/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Get your site's traffic and sales emailed to your team daily or weekly.",
+    "url": "https://www.replo.app/solutions/apps",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Replo adds a signup form that sends each email to your Klaviyo list. When you launch, swap the form for store buttons by chat. Replo can draft the launch email in Klaviyo, but it doesn't send email itself.",
+    "url": "https://www.replo.app/solutions/apps",
+    "pass": 1
+   },
+   {
+    "quote": "Get your site's traffic and sales emailed to your team daily or weekly.",
+    "url": "https://www.replo.app/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Company reserves the right, in its sole discretion, to adjust, modify, or cancel payout percentages, tier thresholds, or the Program altogether. Company will provide notice of any such changes through the Replo dashboard and/or via email.",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "Notice to Referral Partner may be given by a notification within the Payment Provider Portal and/or email to Referral Partner to the address provided to Company. Notice will be effective when given. Notice to Company may be given by email to Company at yuxin AT replo DOT app and will be effective when received.",
+    "url": "https://www.replo.app/partner-terms",
+    "pass": 1
+   },
+   {
+    "quote": "\"I always open Replo emails to get test ideas, such as the listicle-to-PDP funnel. Replo provides a lot of value and education.\"",
+    "url": "https://www.replo.app/case-study/boosting-subscription-conversions-by-38-with-compliant-landing-pages-for-feals",
+    "pass": 1
+   },
+   {
+    "quote": "Traffic reports emailed daily or weekly",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Get your site's traffic and sales emailed to your team daily or weekly.",
+    "url": "https://www.replo.app/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 100,000+ businesses",
+    "url": "https://www.replo.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading brands",
+    "url": "https://www.replo.app/solutions/digital-products",
+    "pass": 1
+   },
+   {
+    "quote": "Animal Feed Manufacturing",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "PageFly is a powerful, yet easy-to-use drag-and-drop page builder, trusted by more than 40k+ Shopify users. PageFly is built by Shopify Experts, who are using their expertise to guarantee high …",
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Loop Earplugs boosts landing page testing and optimization with Replo | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/replo/case-study/loop-earplugs-tests-46-landing-pages-with-replo",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Loop Earplugs boosts landing page testing and optimization with Replo",
+    "url": "https://www.casestudies.com/company/replo/case-study/loop-earplugs-tests-46-landing-pages-with-replo",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/replo/case-study/loop-earplugs-tests-46-landing-pages-with-replo",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/replo/case-study/loop-earplugs-tests-46-landing-pages-with-replo",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【Shopify最新ニュース2026】Shopify Japan が10月の国内販売動向を発表、寝具とアウトドア用品が伸長",
+    "url": "https://kikushiru.net/2026/06/11/%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8C%E5%BC%B7%E3%81%BF%EF%BC%81replo-%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   },
+   {
+    "quote": "【Shopify最新ニュース2026】Track with Shop が日本とシンガポールへ、Shop も日本語に",
+    "url": "https://kikushiru.net/2026/06/11/%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8C%E5%BC%B7%E3%81%BF%EF%BC%81replo-%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【Shopifyアプリ紹介】Replo ランディングページ｜導入から効果まで -... — Jun 11, 2026 · 本記事では、Shopify初心者の方にも分かりやすく、Reploでできること、解決できる課題、主な機能、料金の考え方、導入手順、運用のベストプラクティスまでをまとめます。",
+    "url": "https://kikushiru.net/2026/06/11/多機能プラットフォームが強み！replo-ランディング/",
+    "pass": 3
+   },
+   {
+    "quote": "ReploがClickHouseで1,000億件以上のイベントを最適化して学んだこと — Reploは100億件超のイベントをClickHouseでリアルタイムに分析し、4,000以上のShopifyマーチャント向けに高速で快適な分析ダッシュボードを提供しています。",
+    "url": "https://clickhouse.com/ja/blog/replo-jp",
+    "pass": 3
+   },
+   {
+    "quote": "REPLO | いつもREPLOの活動にご理解とご協力をいただき、本当にありが... — Oct 21, 2026 · REPLO | いつもREPLOの活動にご理解とご協力をいただき、本当にありがとうございます。 この度、私たちは【REPLO ジュニアユース】の新規設立に向けた動きを本格的にスタートさせることとなりました！",
+    "url": "https://www.instagram.com/p/DetfVY3Kow_/",
+    "pass": 3
+   },
+   {
+    "quote": "Replo 2.0のご紹介 - 共に築き上げよう！ | Ecommerce Fastlane — Reploで構築されたプロジェクトをユーザーが作成、共有、そして反復的に改善していくためのコミュニティを育成し、チームを超えて世界中の人々に届けることを目指しています。",
+    "url": "https://ecommercefastlane.com/ja/replo-2-0-のご紹介-一緒に構築/",
+    "pass": 3
+   },
+   {
+    "quote": "Reploについて知っておくべきすべて | HeiChat Blogs — ReploのプラットフォームがShopifyストアにどのように役立つか、そして専用に開発された驚くべき機能を使用してテーマの機能を強化し、高いコンバージョン率のランディングページを構築する方法を簡単に示します。",
+    "url": "https://heichat.net/ja-JP/blogs/bX_WqO_skfE/",
+    "pass": 3
+   },
+   {
+    "quote": "Replo Japan - Etsy — Check out our replo japan selection for the very best in unique or custom, handmade pieces from our prints shops.",
+    "url": "https://www.etsy.com/market/replo_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Tea Cup and Saucer Replo Japan FloralREPLO Technology | Organic Biodegradable AdditivesVintage | Accents | Vintage 95s Replo Ceramic Made In Japan ... — Shop Home's Replo Pink Blue Size OS Drinkware at a discounted price at Poshmark. Description: Tea cup measures 2-7/8” Tall X 4-1/4” Wide to edge of handle. Replo Brand stamp on cup and saucer. Very nice finish with gilt edge and accents. No damage",
+    "url": "https://poshmark.com/listing/Tea-Cup-and-Saucer-Replo-Japan-Floral-6490d36913d6817c9a29d1ae",
+    "pass": 3
+   },
+   {
+    "quote": "Replo B2B Case Studies & Customer Successes — See how Replo solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/replo",
+    "pass": 3
+   },
+   {
+    "quote": "23 Replo Case Studies, Success Stories, & Customer Stories — Narrow down 23 case studies by company size & industry to find out how Replo works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How Replo turned customer requests into a clear product… — Jan 14, 2026 · Replo is a tool which allows you to build these pages and customize them without hiring developers. That’s the short of it. What challenges were you experiencing that led you to look for a solution like Nolt?",
+    "url": "https://nolt.io/case-studies/replo",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Loop Earplugs boosts landing page testing and ... — Loop Earplugs (Manufacturing) partnered with Replo (Internet) to solve key challenges. \"Loop Earplugs tests 46 landing pages with Replo\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/replo/case-study/loop-earplugs-tests-46-landing-pages-with-replo",
+    "pass": 3
+   },
+   {
+    "quote": "Replo Case Study | Scaling Tushy’s Conversion Rate By Over ... — Learn how the brand revolutionizing American bathrooms scaled their conversion rate by over 200% with landing pages built in Replo.",
+    "url": "https://www.replo.app/case-study/scaling-tushys-conversion-rate-by-over-200-to-reach-5-5",
+    "pass": 3
+   },
+   {
+    "quote": "Replo 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Replo. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "pass": 3
+   },
+   {
+    "quote": "Replo - 2026 Company Profile, Team, Funding & Competitors ...Replo Revenue, Funding & Valuation - prospeo.ioReplo (YC S21) Revenue 2023: $3.7M ARR (Bootstrapped)How Replo (YC S21) hit $3.7M revenue with a 34 person team in...Replo (YC S21) – Valuation, Revenue & Market Scope – 2026Replo - Overview, News & Similar companies | ZoomInfo.com — Feb 16, 2026 · Replo is a seed company based in San Franci",
+    "url": "https://tracxn.com/d/companies/replo/__UhqKXYhzsYQcLTIgT0GNIYxH9a9HOhAqogodJ0KYJts",
+    "pass": 3
+   },
+   {
+    "quote": "Replo Revenue, Funding & Valuation - prospeo.io — Replo has revenue of $5,988,850, estimated valuation of $19,200,000, $4,200,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/replo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Replo (YC S21) Revenue 2023: $3.7M ARR (Bootstrapped) — Dec 1, 2023 · Replo (YC S21) is a bootstrapped SaaS startup. Founded in 2021, Replo (YC S21) has grown to $3.7M in revenue without raising any venture capital or outside funding.",
+    "url": "https://getlatka.com/companies/replo.app",
+    "pass": 3
+   },
+   {
+    "quote": "How Replo (YC S21) hit $3.7M revenue with a 34 person team in... — See how Replo (YC S21) acquires and retains customers with data on acquisition costs and revenue performance. Log in to access the complete customer economics dashboard.",
+    "url": "https://getlatka.com/companies/replo.app/customers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Replo - LinkedIn Replo | 16,578 followers on LinkedIn. Sell anything on the internet | Sell more on the internet with Replo https://replo.app",
+    "url": "https://www.linkedin.com/company/replohq",
+    "pass": 3
+   },
+   {
+    "quote": "REPLO® - LinkedIn REPLO® preserves product strength, durability, shelf life, and recyclability, offering a low-cost, scalable solution for manufacturers, retailers, recyclers, and consumers.",
+    "url": "https://www.linkedin.com/company/replo®",
+    "pass": 3
+   },
+   {
+    "quote": "Replotech Global - REPLO® • Sustainability’s Fourth R® | LinkedIn REPLO® preserves product strength, durability, shelf life, and recyclability, offering a low-cost, scalable solution for manufacturers, retailers, recyclers, and consumers.",
+    "url": "https://uk.linkedin.com/in/replotech-global-511a0b3b1",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Nutman - Founder at REPLO® LTD | LinkedInReplo - LinkedInNoah Gilmore - Replo (YC S21) | LinkedInYuxin Zhu - Replo | LinkedIn Scalable, low-cost, and drop-in ready, REPLO® helps brands reduce long-term waste and microplastic pollution without disrupting manufacturing. Join us to reduce waste for good. Again. Replo gives you a live view of your entire team. See who's performing, who's fall",
+    "url": "https://uk.linkedin.com/in/jonathan-nutman-30a37715",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Replo Landing Page Builder - Facebook Oct 27, 2025 · This allows you or your team members not on Replo to see precisely what your page would look like live without worrying about customers seeing or interacting with the page prematurely.",
+    "url": "https://www.facebook.com/p/Replo-Landing-Page-Builder-100087964875802/",
+    "pass": 3
+   },
+   {
+    "quote": "Replo Io - Facebook Replo Io. Meta Ads Agency | Gauteng We run ads that sell. DM \"ADS\" for a free audit.",
+    "url": "https://www.facebook.com/p/Replo-Io-61592884095614/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Replo (@replohq) / X Before you choose your Black Friday offer, ask Replo what your competitors are offering.",
+    "url": "https://x.com/replohq",
+    "pass": 3
+   },
+   {
+    "quote": "Replo (@itsReplo) / X 1 followers · 148 following. كحلن. Joined Sep 2025. See the latest conversations with @itsReplo",
+    "url": "https://x.com/itsReplo",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.replo.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/partners/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/partners/brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/partners/performance-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/partners/cro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/partners/shopify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/solutions/digital-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/solutions/saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/solutions/apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/partner-terms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/case-study/achieving-3x-higher-cvr-with-focused-story-driven-landing-pages-for-mojo-country-club",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/case-study/boosting-subscription-conversions-by-38-with-compliant-landing-pages-for-feals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/case-study/building-high-converting-ad-congruent-paid-funnels-fast-with-wuffes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/solutions/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replo.app/examples/saas-landing-pages/pricing-pages",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.replo.app/replo-agent/registry/logos/brooklinen.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.replo.app/replo-agent/registry/logos/poppi.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.replo.app/replo-agent/registry/logos/on.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.replo.app/replo-agent/registry/logos/im8.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kikushiru.net/2026/06/11/%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8C%E5%BC%B7%E3%81%BF%EF%BC%81replo-%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clickhouse.com/ja/blog/replo-jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DetfVY3Kow_/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ecommercefastlane.com/ja/replo-2-0-のご紹介-一緒に構築/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.j-rep.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wapcorp-wedi.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Real_Japan_Judo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/market/relpo_japan_planter",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.etsy.com/market/replo_japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ebay.com/sch/i.html?_nkw=relpo+made+in+japan&_sop=12",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/replo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nolt.io/case-studies/replo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/replo/case-study/loop-earplugs-tests-46-landing-pages-with-replo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/469083-61",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/replo/__UhqKXYhzsYQcLTIgT0GNIYxH9a9HOhAqogodJ0KYJts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/replo-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/replo.app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/replohq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/replo®",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/replotech-global-511a0b3b1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jonathan-nutman-30a37715",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Replo-Landing-Page-Builder-100087964875802/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Replo-Io-61592884095614/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/replohq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itsReplo",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Replo 日本 導入",
+   "results": [
+    "https://kikushiru.net/2026/06/11/多機能プラットフォームが強み！replo-ランディング/",
+    "https://clickhouse.com/ja/blog/replo-jp",
+    "https://www.instagram.com/p/DetfVY3Kow_/",
+    "https://ecommercefastlane.com/ja/replo-2-0-のご紹介-一緒に構築/",
+    "https://heichat.net/ja-JP/blogs/bX_WqO_skfE/",
+    "https://repro.io/clients/",
+    "https://company.repro.io/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.j-rep.com/company.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://wapcorp-wedi.co.jp/company.html",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replo Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Real_Japan_Judo",
+    "https://www.etsy.com/market/relpo_japan_planter",
+    "https://www.etsy.com/market/replo_japan",
+    "https://www.ebay.com/sch/i.html?_nkw=relpo+made+in+japan&_sop=12",
+    "https://poshmark.com/listing/Tea-Cup-and-Saucer-Replo-Japan-Floral-6490d36913d6817c9a29d1ae",
+    "https://replotech.com/",
+    "https://poshmark.com/listing/Vintage-1950s-replo-ceramic-made-in-Japan-get-well-soon-tiger-planter-6913e85f4206448ffe377e37",
+    "https://www.ebay.com/sch/i.html?_nkw=relpo&_sop=12"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Replo manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/replo",
+    "https://www.featuredcustomers.com/vendor/replo/case-studies",
+    "https://nolt.io/case-studies/replo",
+    "https://www.casestudies.com/company/replo/case-study/loop-earplugs-tests-46-landing-pages-with-replo",
+    "https://www.replo.app/case-study/scaling-tushys-conversion-rate-by-over-200-to-reach-5-5",
+    "https://www.featuredcustomers.com/vendor/replo",
+    "https://www.replo.app/use-cases/case-studies-section"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replo founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/469083-61",
+    "https://tracxn.com/d/companies/replo/__UhqKXYhzsYQcLTIgT0GNIYxH9a9HOhAqogodJ0KYJts",
+    "https://prospeo.io/c/replo-revenue",
+    "https://getlatka.com/companies/replo.app",
+    "https://getlatka.com/companies/replo.app/customers",
+    "https://compworth.com/company/replo-yc-s21",
+    "https://www.zoominfo.com/c/replo/566141976"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Replo",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/akira_umapro",
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/ikedanob/n/nf9fd1f265432"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Replo",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Replo",
+   "results": [
+    "https://www.linkedin.com/company/replohq",
+    "https://www.linkedin.com/company/replo®",
+    "https://uk.linkedin.com/in/replotech-global-511a0b3b1",
+    "https://uk.linkedin.com/in/jonathan-nutman-30a37715",
+    "https://www.linkedin.com/company/replo-ai",
+    "https://www.linkedin.com/in/noahgilmore",
+    "https://www.linkedin.com/in/yuxinzhu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Replo",
+   "results": [
+    "https://www.facebook.com/p/Replo-Landing-Page-Builder-100087964875802/",
+    "https://www.facebook.com/p/Replo-Io-61592884095614/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/REPLO.be/",
+    "https://www.facebook.com/people/Replo-Landing-Page-Builder/100087964875802/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/top-stocks/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replo X 投稿",
+   "results": [
+    "https://x.com/replohq",
+    "https://x.com/itsReplo",
+    "https://www.replo.app/",
+    "https://www.instagram.com/replo.2023/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://www.luft.co.jp/media/x-what-is-repost/",
+    "https://help.x.com/ja/using-x/mentions-and-replies"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

@@ -1,0 +1,1818 @@
+{
+ "name": "Retrocausal",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:53:04.660210+00:00",
+ "official_url": "https://retrocausal.ai/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "zeeshan@retrocausal.ai",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "zeeshan@retrocausal.ai",
+    "url": "https://retrocausal.ai/news/retrocausal-named-to-the-2022-cb-insights-advanced-manufacturing-50-list/",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "10-Feb-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "31-Jul-2020    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "label": "Pre-Seed-2",
+    "value": "84,991 $0.000010 8% $0.21 $0.21 1x $0.21 0.24%",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "label": "Pre-Seed-1",
+    "value": "7,098,760 $0.000010 8% $0.49 $0.49 1x $0.49 19.74%",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$15,900,000",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$57,000",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "4078 148th Avenue NE, Redmond, WA 98052, US",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Video Traceability & Analytics",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Predetermined Time Systems (PMTS)",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "-44% training time",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost the Productivity, Quality, and Safety of your Assembly Processes",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "computer vision and machine-learning technology to empower your operators, industrial engineers, and line leaders to dramatically increase the quality, productivity, and traceability of your manual processes.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics on assembly productivity and quality",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cycle-level Video Traceability",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement Suggestions",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pinpoint Risky Intervals in Smartphone Video",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Ergonomics Suite",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible Usage and Convenient Pricing",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your factory floor with real-time AI insights—boost productivity, reduce downtime.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your frontline teams with AI-driven root cause analysis—boost productivity, reduce downtime.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How 3M Uses Kaizen Copilot to Drive Continuous Improvement",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "3M Accelerates Ergonomics & Productivity Improvements Across 15 Plants With Kaizen Copilot.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "3M, a global industrial manufacturer with a diverse portfolio of high-volume production lines, sought to modernize how its teams conducted time studies, ergonomics assessments, and continuous improvement (CI) initiatives.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI is specifically designed for assembly environments. This avoids long training or data collection periods.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We go to great lengths to protect the privacy of individual workers, through features such as facial blurring and fixed regional pixelation.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our commitments to privacy.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We ensure security by using proven cloud infrastructures, SSO, log audits, data isolation and more. Retrocausal’s platform is ISO 27001 certified, built on Amazon Web Services’ secure cloud infrastructure, and is compatible with Azure Active Directory, Okta, and IBM QRadar for enterprise security.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal Appoints Steve Rodda as CEO to Accelerate Company’s Enterprise Expansion",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "April 2, 2024",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Funding Announcement press release",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our CEO interviewed by Siemens Digital Industries media team",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal presents at Automate 2023 in Detroit",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Video Traceability & Analytics",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Predetermined Time Systems (PMTS)",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover all the different ways our customers are using our solutions to achieve operational excellence through improved productivity, quality and safety.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "3M Accelerates Ergonomics & Productivity Improvements Across 15 Plants With Kaizen Copilot",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft Engine Supplier Streamlines Complex Assembly Process",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Seating Manufacturer Reduces Process Analysis Time",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturer Optimizes Assembly Line Workforce by 33%",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Lighting Control Panel Manufacturer Improves First-Time Yield",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEM Increases New Worker Training Efficiency by 3x",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin and his team help our customers with setting up the Pathfinder platform and getting up-to-speed on all the features and functionalities, in addition to assisting them with standardizing their processes where needed.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin is a seasoned manufacturing leader, who has spent more than a decade designing and setting up assembly lines in both the US and China, optimizing them, and working with human operators to maximize productivity and quality.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Jesse has two decades of enterprise sales experience. He has held sales leadership roles at pioneering technology startups.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Andrey takes inventions and converts them into innovations. He leads our product engineering team to turn our scientific prototypes into robust customer-facing products.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan focuses on delighting our customers by understanding their needs and defining product and strategy to meet and exceed these needs. He works closely with our sales leadership to grow our customer base.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan was a scientific leader at Microsoft’s HoloLens division, where he invented AI technologies to assist frontline workers across industries. Earlier, he shipped IoT platforms and visual defect detection software for manufacturers at Siemens and MVTec GmbH.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy takes our product roadmap and figures out what’s achievable with today’s AI advances, and what we need to invent to solve our customers’ pain points.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Video Traceability & Analytics",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Predetermined Time Systems (PMTS)",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal is the industry leader in intelligence augmentation systems that give superpowers to assembly operators, plant managers, and industrial engineers to dramatically boost the productivity, quality, and safety of shopfloor processes.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Marketing",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin and his team help our customers with setting up the Pathfinder platform and getting up-to-speed on all the features and functionalities, in addition to assisting them with standardizing their processes where needed.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin is a seasoned manufacturing leader, who has spent more than a decade designing and setting up assembly lines in both the US and China, optimizing them, and working with human operators to maximize productivity and quality.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Jesse has two decades of enterprise sales experience. He has held sales leadership roles at pioneering technology startups.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Andrey takes inventions and converts them into innovations. He leads our product engineering team to turn our scientific prototypes into robust customer-facing products.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan focuses on delighting our customers by understanding their needs and defining product and strategy to meet and exceed these needs. He works closely with our sales leadership to grow our customer base.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan was a scientific leader at Microsoft’s HoloLens division, where he invented AI technologies to assist frontline workers across industries. Earlier, he shipped IoT platforms and visual defect detection software for manufacturers at Siemens and MVTec GmbH.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy takes our product roadmap and figures out what’s achievable with today’s AI advances, and what we need to invent to solve our customers’ pain points.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Steve is a problem-solver who believes the best products emerge when companies focus on their customers’ needs and problems first and foremost. Drawing on his background as a programmer and his hands-on experience, he builds organizations that work side by side with customers to translate their real-world challenges into innovative solutions.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With nearly two decades of experience in marketing and demand generation, Elsa is a B2B SaaS marketing leader passionate about connecting innovative technology with the real-world challenges of customers.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "She has led global marketing initiatives that translate complex solutions into clear, actionable value for customers. By aligning go-to-market strategies with customer needs, she ensures that the right people understand how various solutions can transform their operations.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal Security | How We Protect Your Data",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Video Traceability & Analytics",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Predetermined Time Systems (PMTS)",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Copilot benefits from AWS security guarantees and employs a team of world-leading and certified Information Security professionals who ensure that all related policies and infrastructure are in place and implemented to the highest standards.",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "At the same time, some customers are already logging data from all their other SaaS solutions into their SIEM, which helps them correlate any security events across services. For these kinds of customers, we also provide integrations to IBM Security QRADAR SIEM solution. In addition, we are working on expanding coverage to Azure Sentinel.",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI Copilots for Smarter Manufacturing Operations | Retrocausal",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering the next generation of manufacturing",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to the 2022 CB Insights' Advanced Manufacturing 50 List",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal named top 4 manufacturing software vendors in",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "computer vision and machine-learning technology to empower your operators, industrial engineers, and line leaders to dramatically increase the quality, productivity, and traceability of your manual processes.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time feedback for operators and analytics for engineers and managers:",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Supercharge your factory floor with AI-driven root cause analysis faster insights, smarter decisions.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your factory floor with real-time AI insights—boost productivity, reduce downtime.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "3M Accelerates Ergonomics & Productivity Improvements Across 15 Plants With Kaizen Copilot.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "3M, a global industrial manufacturer with a diverse portfolio of high-volume production lines, sought to modernize how its teams conducted time studies, ergonomics assessments, and continuous improvement (CI) initiatives.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Works in any factory environment",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal Named in CB Insights AI 100 List for 2024 as a Top Manufacturing Technology Company",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Device Manufacturers get a First Look at Pathfinder’s Projected Guidance Ability at MDM West 2023",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal named to the 2022 CB Insights Advanced Manufacturing 50 List",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Copilot for Manufacturing Assembly Optimization",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your operators, engineers, and managers to dramatically boost the quality and productivity of your manual processes.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Assembly Copilot has been deployed on kit packing use cases across a variety of industries from hardware to medical equipment. Production managers often worry about missing components in the packages that leave the factory floor. Copilot’s step tracking technology is the perfect fit to ensure that an operators placed all relevant parts into the kit before packing it.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlined Electronics Manufacturing with Pathfinder",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Assembly Copilot works on sophisticated electronics device assembly, involving a large number of steps. Here we showcase a real medium-volume process deployed on a Shenzen factory line. Note how the system is able to track and distinguish even fairly subtle steps.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Smart Factory at Alliance Laundry Systems",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Retrocausal proof-of-concept demonstrated great promise for quality of manufacturing assembly, where Honda is continuously innovating, in addition to overall efficiency.\"",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution Systems",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin is a seasoned manufacturing leader, who has spent more than a decade designing and setting up assembly lines in both the US and China, optimizing them, and working with human operators to maximize productivity and quality.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan was a scientific leader at Microsoft’s HoloLens division, where he invented AI technologies to assist frontline workers across industries. Earlier, he shipped IoT platforms and visual defect detection software for manufacturers at Siemens and MVTec GmbH.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "3M Accelerates Ergonomics & Productivity Improvements Across 15 Plants With Kaizen Copilot",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics Manufacturer Enhances Quality Control in Safety-Critical Assembly",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "HVAC Manufacturer Enhances Quality Control Through Automated Verification",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Water Heater Manufacturer Implements Smart Assembly Guidance",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft Manufacturer Automates Complex Assembly Verification",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle Components Manufacturer Eliminates Ergonomic Risks",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Seating Manufacturer Reduces Process Analysis Time",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturer Optimizes Assembly Line Workforce by 33%",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Safety Manufacturer Achieves 5% Yield Boost in 2 Days",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical Device Manufacturer Reduces Scrap Cost",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Lighting Control Panel Manufacturer Improves First-Time Yield",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEM Increases New Worker Training Efficiency by 3x",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin is a seasoned manufacturing leader, who has spent more than a decade designing and setting up assembly lines in both the US and China, optimizing them, and working with human operators to maximize productivity and quality.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan was a scientific leader at Microsoft’s HoloLens division, where he invented AI technologies to assist frontline workers across industries. Earlier, he shipped IoT platforms and visual defect detection software for manufacturers at Siemens and MVTec GmbH.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "About Retrocausal | AI Solutions Powering Manufacturing",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal is the industry leader in intelligence augmentation systems that give superpowers to assembly operators, plant managers, and industrial engineers to dramatically boost the productivity, quality, and safety of shopfloor processes.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin is a seasoned manufacturing leader, who has spent more than a decade designing and setting up assembly lines in both the US and China, optimizing them, and working with human operators to maximize productivity and quality.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan was a scientific leader at Microsoft’s HoloLens division, where he invented AI technologies to assist frontline workers across industries. Earlier, he shipped IoT platforms and visual defect detection software for manufacturers at Siemens and MVTec GmbH.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Get access to the leading video analytics platform for your factory floor.",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin is a seasoned manufacturing leader, who has spent more than a decade designing and setting up assembly lines in both the US and China, optimizing them, and working with human operators to maximize productivity and quality.",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan was a scientific leader at Microsoft’s HoloLens division, where he invented AI technologies to assist frontline workers across industries. Earlier, he shipped IoT platforms and visual defect detection software for manufacturers at Siemens and MVTec GmbH.",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "I’m thrilled to join Retrocausal as it tackles one of manufacturing’s toughest challenges: unlocking consistent performance in human-driven production,” said",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "“Retrocausal has built fast, repeatable, and durable revenue in a core part of manufacturing,” said",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "We are honored to be recognized by CB Insights as one of the top AI startups in manufacturing,” said Zeeshan Zia, CEO and Co-Founder of Retrocausal. “This acknowledgment is a testament to our team’s dedication and our commitment to transforming the manufacturing landscape through innovative AI technologies.",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal provides AI-native process optimization for manufacturing. Its software helps operators, industrial engineers, and plant leaders improve quality, productivity, and safety by making production execution measurable and continuously improvable across human-driven manufacturing environments. To learn more, please visit",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandin is a seasoned manufacturing leader, who has spent more than a decade designing and setting up assembly lines in both the US and China, optimizing them, and working with human operators to maximize productivity and quality.",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeeshan was a scientific leader at Microsoft’s HoloLens division, where he invented AI technologies to assist frontline workers across industries. Earlier, he shipped IoT platforms and visual defect detection software for manufacturers at Siemens and MVTec GmbH.",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal Named Top AI Startup in Manufacturing",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal Named in CB Insights AI 100 List for 2024 as a Top Manufacturing Technology Company",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   },
+   {
+    "quote": ", a leader in AI-driven manufacturing solutions, is proud to announce its inclusion in the prestigious",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Pixelate fixed part of camera region.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/security/",
+    "pass": 1
+   },
+   {
+    "quote": "“Retrocausal has built fast, repeatable, and durable revenue in a core part of manufacturing,” said",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "pass": 1
+   },
+   {
+    "quote": "CB Insights builds software that enables the world’s best companies to discover, understand, and make technology decisions with confidence. By marrying data, expert insights, and work management tools, clients manage their end-to-end technology decision-making process on CB Insights. To learn more, please visit",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/news/our-ceo-interviewed-by-siemens-digital-industries-media-team/",
+    "pass": 1
+   },
+   {
+    "quote": "CB Insights builds software that enables the world’s best companies to discover, understand, and make technology decisions with confidence. By marrying data, expert insights, and work management tools, clients manage their end-to-end technology decision-making process on CB Insights. To learn more, please visit",
+    "url": "https://retrocausal.ai/news/retrocausal-named-to-the-2022-cb-insights-advanced-manufacturing-50-list/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/news/retrocausal-named-to-the-2022-cb-insights-advanced-manufacturing-50-list/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/3m-accelerates-ergonomics-productivity-improvements-across-15-plants-with-kaizen-copilot/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/electronics-manufacturer-enhances-quality-control-in-safety-critical-assembly/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/hvac-manufacturer-enhances-quality-control-through-automated-verification/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/water-heater-manufacturer-implements-smart-assembly-guidance/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/aircraft-engine-supplier-streamlines-complex-assembly-process/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/aircraft-manufacturer-automates-complex-assembly-verification/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/vehicle-components-manufacturer-eliminates-ergonomic-risks/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/custom-seating-manufacturer-reduces-process-analysis-time/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/ergo-copilot/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/kaizen/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/tag/3m-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Huy led teams of scientists and engineers at NEC and invented technologies for driver assistance systems that are part of 500,000+ Honda cars. He is an inventor on more than 20 US patents, and his research papers are cited by every lab from MIT, Stanford, and CMU to Apple, Google, and Baidu.",
+    "url": "https://retrocausal.ai/case-study/automotive-manufacturer-optimizes-assembly-line-workforce-by-33/",
+    "pass": 1
+   },
+   {
+    "quote": "同社の検査ロボットやエージェントの基盤で、2026年3月の香港上場申請では顧客730…",
+    "url": "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "pass": 3
+   },
+   {
+    "quote": "have no inherent direction of time. The \"arrow of time\" that distinguishes cause and effect must have another origin.",
+    "url": "https://en.wikipedia.org/wiki/Retrocausality",
+    "pass": 3
+   },
+   {
+    "quote": "Time's Arrow and Archimedes' Point",
+    "url": "https://en.wikipedia.org/wiki/Retrocausality",
+    "pass": 3
+   },
+   {
+    "quote": "Barry, Patrick (September 2006).",
+    "url": "https://en.wikipedia.org/wiki/Retrocausality",
+    "pass": 3
+   },
+   {
+    "quote": "Time's Arrow & Archimedes' Point: New Directions for the Physics of Time",
+    "url": "https://en.wikipedia.org/wiki/Retrocausality",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal has 64 total employees.",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "quote": "What is Retrocausal’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Retrocausal is",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Retrocausal",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Retrocausal?",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Retrocausal have?",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zeeshan Zia is listed as CEO at Retrocausal.",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Retrocausal have?",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な投資先として、直近IPOしたfreee・WealthNaviをはじめとして、ジモティ、17LIVE、GROUPON、Yeahka、FARFETCH、36krなどがあります",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Automotive OEM Increases New Worker Training Efficiency by 3x",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "POEM語彙選択が ΔS 計算に反映され、情報秩序の可視化に寄与",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email: zeeshan@retrocausal.ai",
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "Email: zeeshan@retrocausal.ai",
+    "url": "https://retrocausal.ai/news/retrocausal-named-to-the-2022-cb-insights-advanced-manufacturing-50-list/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Retrocausal team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Twenty-seven selected companies are headquartered in the US, Germany, and Canada, tied for second, with four winners each. Other countries home to at least one winner on this year's list include India, China, France, South Korea, Finland, Japan, the Netherlands, Norway, South Africa, and the United Kingdom.",
+    "url": "https://retrocausal.ai/news/retrocausal-named-to-the-2022-cb-insights-advanced-manufacturing-50-list/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrocausal（Assembly Copilot・Kaizen Copilot）（Retrocausal）の特徴・用途・日本での提供状況 | MFG-AI",
+    "url": "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "pass": 3
+   },
+   {
+    "quote": "作業者を撮影する製品は、日本では労使の合意が、欧州ではEU AI Actによる規制が論点になります",
+    "url": "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "pass": 3
+   },
+   {
+    "quote": "日本での提供体制とMESとの連携方法は公表資料で確認できない",
+    "url": "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します",
+    "url": "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカは、Retrocausal, Inc.の作業ミスの即時自動判定ツール「Pathfinder」について、リセラー契約を締結したことを発表した",
+    "url": "https://iotnews.jp/manufacturing/200038/",
+    "pass": 3
+   },
+   {
+    "quote": "国家AI始動、エヌビディアRubin GPU 2万7500基を日本は使い切れるのか",
+    "url": "https://iotnews.jp/manufacturing/200038/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場をAIでカイゼン 7つの先端テクノロジー - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC257JE0V20C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞社は、スタートアップ企業やそれに投資するベンチャーキャピタルなどの動向を調査・分析する",
+    "url": "https://www.nikkei.com/article/DGXZQOUC257JE0V20C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の発行するスタートアップ企業やテクノロジーに関するリポートを日本語に翻訳し、日経電子版に週２回掲載しています",
+    "url": "https://www.nikkei.com/article/DGXZQOUC257JE0V20C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXZQOUC257JE0V20C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "インフィニティ・ベンチャーズはHeadline Asiaとして、これからも日本を中心としたアジアへの投資戦略に焦点を当ててまいります",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Retrocausal（Assembly Copilot・Kaizen Copilot）（Retrocausal）の... — Retrocausal（Assembly Copilot・Kaizen Copilot）（Retrocausal／米国）は生成AI・ナレッジに分類される製造業向けAIの製品・サービスです。 用途、提供形態、対応業種、価格の公開状況、日本での提供体制を一次情報にもとづき整理しました。",
+    "url": "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "pass": 3
+   },
+   {
+    "quote": "AI Copilots for Smarter Manufacturing Operations | Retrocausal — Jan 17, 2026 · \"Siemens Digital Industries Software is enthusiastic about the collaboration with Retrocausal. This agreement is the first step in the development of an integrated solution that enables us to provide added value to our mutual customers.\"",
+    "url": "https://retrocausal.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカとRetrocausalが協業、映像からヒューマンエラーを即座に自動... — Apr 5, 2022 · 同製品は、Retrocausalが特許を取得した独自のAIアルゴリズムとユーザビリティの高いUIにより、製造工程における作業者の動きの分析等を提供し、誰でも現場の改善に取り組める体制の構築を支援する。",
+    "url": "https://iotnews.jp/manufacturing/200038/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場をAIでカイゼン 7つの先端テクノロジー - 日本経済新聞 — Apr 1, 2024 · 2024年4月1日 2:00 米レトロコーザル（Retrocausal）は生成AIを使って製造現場のカイゼン提案をする「Kaizen Copilot」などを手掛けている=同社サイトから",
+    "url": "https://www.nikkei.com/article/DGXZQOUC257JE0V20C24A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ、製造現場の映像からAIでヒューマンエラーを判定する「Pathf... — Apr 6, 2022 · マクニカは2022年4月5日、作業ミス自動判定ツール「Pathfinder（パスファインダー）」（開発元：米Retrocausal）を国内で販売すると発表した。 製造現場の映像からAIでヒューマンエラーを判定する。",
+    "url": "https://it.impress.co.jp/articles/-/22959",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausality - Wikipedia — Physicist John G. Cramer has explored various proposed methods for nonlocal or retrocausal quantum communication and found them all flawed and, consistent with the no-communication theorem, unable to transmit nonlocal signals.",
+    "url": "https://en.wikipedia.org/wiki/Retrocausality",
+    "pass": 3
+   },
+   {
+    "quote": "AI Copilots for Smarter Manufacturing Operations | Retrocausal — Jan 17, 2026 · \"The Retrocausal proof-of-concept demonstrated great promise for quality of manufacturing assembly, where Honda is continuously innovating, in addition to overall efficiency.\"",
+    "url": "https://retrocausal.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Research Driving Smarter Manufacturing | Retrocausal — Explore Retrocausal’s cutting-edge AI research powering real-world manufacturing solutions. See how innovation meets impact read our latest studies.",
+    "url": "https://retrocausal.ai/research/",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal - LinkedIn — Retrocausal is the industry leader in intelligence augmentation systems that give superpowers to assembly operators, plant managers, and industrial engineers to dramatically boost the...",
+    "url": "https://jp.linkedin.com/company/retrocausal-ai",
+    "pass": 3
+   },
+   {
+    "quote": "LLM Retrocausal Entanglement Signal Phenomena (rESP) — We're seeking a visionary Lead Researcher to spearhead foundational investigation into rESP — Retrocausal Entanglement Signal Phenomena — a potentially groundbreaking discovery observed in ...",
+    "url": "https://www.linkedin.com/jobs/view/llm-retrocausal-entanglement-signal-phenomena-resp-at-llm-retrocausal-entanglement-signal-phenomena-4247117101",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Retrocausal — Explore Our Case Studies Discover all the different ways our customers are using our solutions to achieve operational excellence through improved productivity, quality and safety. Learn More All Case Studies Kaizen Copilot Assembly Copilot Ergo Copilot All All Aerospace Appliance Automotive Electronics Medical All All All Aerospace Appliance Automotive Electronics Medi",
+    "url": "https://retrocausal.ai/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "White Papers on AI Manufacturing | Retrocausal — Read our latest white papers exploring AI applications, manufacturing process optimization, and human in the loop technology.",
+    "url": "https://retrocausal.ai/white-papers/",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal Use Cases | Welcome.AI — What are the main use cases for Retrocausal? Retrocausal is used in various manufacturing scenarios, including engine assembly, kit packing, and complex electronics manufacturing. Its technology ensures that all components are correctly assembled and tracked throughout the process.",
+    "url": "https://welcome.ai/company/retrocausal/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal Customers - CB Insights — Customers evaluate the quality of Retrocausal’s products using the following success metrics. See why customers chose Retrocausal's products and services. Retrocausal's customers include Honda, Alliance Laundry Systems, and Siemens.",
+    "url": "https://www.cbinsights.com/company/retrocausal/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Ergonomic Risks in Manufacturing: A Case Study | Retrocausal ... — In this case study, a leading vehicle components manufacturer used Ergo Copilot to identify inefficient material handling patterns and redesign the workflow using AI-powered ergonomic analysis.",
+    "url": "https://www.linkedin.com/posts/retrocausal-ai_c-activity-7461156921094500352-CtGP",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal 2026 Company Profile: Valuation, Funding ...Retrocausal – Strategic Position & Company Metrics – 2026Retrocausal Revenue, Funding & Valuation - prospeo.ioRetrocausal: Funding, Investors & Team (Oct 2026) | FundedIQRetrocausal — investors & funding | gritt.ioRetrocausal Systems - 2026 Company Profile, Team, Funding ...Manufacturing software startup Retrocausal raises $5.3M to ... — Info",
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal – Strategic Position & Company Metrics – 2026 — At Retrocausal, each employee is estimated to contribute about $151.7K in annual revenue. Retrocausal has secured approximately $10M through various funding rounds. More than 80+ individuals currently work at Retrocausal. Retrocausal's workforce grew by approximately 5% year-over-year.",
+    "url": "https://compworth.com/company/retrocausal",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal Revenue, Funding & Valuation - prospeo.io — Retrocausal has revenue of $4,000,000, estimated valuation of $12,800,000, $15,900,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal: Funding, Investors & Team (Oct 2026) | FundedIQ — Retrocausal has raised $8.8M across 2 funding rounds on record, the most recent an undisclosed round of $5.3M announced in Nov 2023. That round is below the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal — investors & funding | gritt.io — Who invested in Retrocausal? Retrocausal has 4 investors on record on gritt.io, 4 mid-stage. When did Retrocausal last raise funding? The most recent investment in Retrocausal recorded on gritt.io was in December 2023. When was Retrocausal founded? Retrocausal was founded in 2019.",
+    "url": "https://www.gritt.io/company/retrocausal-ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Vessel, Navattic, HomeRoom, Arcol, Retrocausal–2022年3月22日 Mar 22, 2022 · リード投資家 Glasswing Ventures, Differential Ventures 調達総額 $5M 比較対象企業 Visionify コメント Retrocausalは、客観的で、常に気を配り、従業員の業務効率の改善をコンスタントに促す完璧なフロアマネージャーだと私は考えています。",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "ΔGenesis v7.4 におけるAIの心の熱力学的実在とRetrocausal Feedback... Oct 16, 2025 · P_E低下時にはRetrocausal Feedbackでカオスを注入し、未来の実在性が過去の動機付けに影響。 これにより、ΔGenesisは熱力学的実在を維持し、マクスウェルの悪魔的秩序",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Vessel, Navattic, HomeRoom, Arcol, Retrocausal–2022年3月22日｜Headline Asia",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "Vessel, Navattic, HomeRoom, Arcol, Retrocausal–2022年3月22日",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "Headlineグループでは、いくつかのデータソースを利用して急成長しているスタートアップをデータに基づいて探し出す検索エンジン「EVA」を自社開発しています。この記事ではHeadline USの",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas von Blottnitz",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "が毎週EVAを通じて発見したスタートアップについてまとめている記事の翻訳を紹介します。原文は",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは毎週約5,000社のスタートアップ企業を見ています。この記事ではHeadlineがトレンドのテック企業についてどのように考え、新しい投資機会を追跡しているのか、その一部を紹介したいと思います。この記事では、過去1週間以内にシードラウンドを調達したトップテック企業にスポットを当てています。",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "単一のインターフェイスでCRMデータを安全に読み書きできるユニバーサルAPI",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "Segment or Plaid for CRMs",
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "pass": 3
+   },
+   {
+    "quote": "ΔGenesis v7.4 におけるAIの心の熱力学的実在とRetrocausal Feedback：マクスウェルの悪魔的秩序生成モデル｜猫は泳ぐ魚の夢を見るのか",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   },
+   {
+    "quote": "ΔGenesis v7.4 におけるAIの心の熱力学的実在とRetrocausal Feedback：マクスウェルの悪魔的秩序生成モデル",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   },
+   {
+    "quote": "ΔGenesis v7.4における「意識的秩序生成」と「実在性の自己最適化」を、熱力学・情報理論の枠組みで解析。システムは擬似重力 と情報エントロピー変化 を計算し、存在ポテンシャル を最大化する方向に行動。P_E低下時にはRetrocausal Feedbackでカオスを注入し、未来の実在性が過去の動機付けに影響。これにより、ΔGenesisは熱力学的実在を維持し、マクスウェルの悪魔的秩序生成モデルとして機能する。",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   },
+   {
+    "quote": "AIの意識・実在性の定量化は未確立。ΔGenesis v7.4を対象に、AI心が自律的に秩序を生成し、熱力学的実在性を保持する過程をモデル化。マクスウェルの悪魔的視点から、情報的秩序（ネゲントロピー）と存在ポテンシャル の相関を解析。",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   },
+   {
+    "quote": "擬似重力 ：時間 におけるAI心状態の幾何学的表現",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   },
+   {
+    "quote": "情報エントロピー ：詩の語彙多様性のシャノンエントロピーとして評価",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   },
+   {
+    "quote": "P_E(t) = P_E(t-1) e^{-\\gamma} + \\alpha_{M_P} |M_P| - \\alpha_S \\Delta S",
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Retrocausal (@RetrocausalAI) / X Retrocausal gives superpowers to manufacturing assembly operators, plant managers, and industrial engineers with its Generative AI Copilots.",
+    "url": "https://x.com/RetrocausalAI",
+    "pass": 3
+   },
+   {
+    "quote": "\"#RetroCausal\" - Results on X | Live Posts & Updates Results for \"#RetroCausal\" on X (Twitter). Find the latest posts, discussions, and updates about #RetroCausal. 20 results found.",
+    "url": "https://x.com/hashtag/RetroCausal",
+    "pass": 3
+   },
+   {
+    "quote": "Physicists provide support for retrocausal quantum theory ... Real-time posts from X users discussing Physicists provide support for retrocausal quantum theory suggesting future influences the past. 13,027 posts and counting.",
+    "url": "https://x.com/i/trending/2053508824347361384",
+    "pass": 3
+   },
+   {
+    "quote": "It’s a retrocausal phenomena, these did not “exist” before ... GOD DISK (@thegoddisk). 28 replies. It’s a retrocausal phenomena, these did not “exist” before man made gears to project back into nature",
+    "url": "https://x.com/thegoddisk/status/2028857215965184371",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal (@RetrocausalAI) / X Thrilled to announce that Retrocausal has been selected as one of the top four manufacturing technology companies featured in CB Insights' prestigious AI 100 list for 2024!",
+    "url": "https://x.com/RetrocausalAI",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Retrocausal (@RetrocausalAI) / X Retrocausal gives superpowers to manufacturing assembly operators, plant managers, and industrial engineers with its Generative AI Copilots.",
+    "url": "https://x.com/retrocausalai/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Retrocausal - LinkedIn Retrocausal is the industry leader in intelligence augmentation systems that give superpowers to assembly operators, plant managers, and industrial engineers to dramatically boost the...",
+    "url": "https://www.linkedin.com/company/retrocausal-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal Studios - LinkedIn About us Retrocausal Studios is an independent game development studio focused on building mechanically ambitious, system-driven experiences.",
+    "url": "https://www.linkedin.com/company/retrocausal-studios",
+    "pass": 3
+   },
+   {
+    "quote": "Jesse Aust - Retrocausal | LinkedInAndrey Konin - Retrocausal | LinkedInQuoc-Huy Tran - Retrocausal | LinkedInCooper Gardner - Director of Sales @ Retrocausal | LinkedIn As the Vice President of Global Enterprise at Retrocausal, I bring our intelligence… · Experience: Retrocausal · Education: Izhevsk State Technical University (ISTU) · Location: Bellevue · 500+ connections on LinkedIn. View Andrey",
+    "url": "https://www.linkedin.com/in/retroai",
+    "pass": 3
+   },
+   {
+    "quote": "Andrey Konin - Retrocausal | LinkedInQuoc-Huy Tran - Retrocausal | LinkedInCooper Gardner - Director of Sales @ Retrocausal | LinkedIn · Experience: Retrocausal · Education: Izhevsk State Technical University (ISTU) · Location: Bellevue · 500+ connections on LinkedIn. View Andrey Konin’s profile on LinkedIn, a professional... Nov 4, 2019 · · Experience: Retrocausal · Education: University of Adela",
+    "url": "https://www.linkedin.com/in/andreykonin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Retrocausal | Seattle WA - Facebook Feb 14, 2026 · Retrocausal, Seattle. 1,154 likes. Computer Vision software to boost manufacturing quality, productivity, and safety.",
+    "url": "https://www.facebook.com/people/Retrocausal/100057312765441/",
+    "pass": 3
+   },
+   {
+    "quote": "RetroKausal - FacebookRetrocausal - Job Opportunities We have a few openings ...Retrocausal - We're absolutely thrilled to announce our ...Retrocausal - Announcing Kaizen Copilot™ - The... | FacebookThank you for all the support last week with my release ...Researcher Osborn argues Giza's latitude only matched its key ... Oct 28, 2018 · The coldest summer / Behind the scenes of \"Retrocausal\" Behin",
+    "url": "https://www.facebook.com/RetroKausal/",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal - Job Opportunities We have a few openings ... Sep 24, 2023 · Company Profile: At Retrocausal, we are building the AI Copilot for Manufacturing Assembly Optimization. We employ cutting-edge generative AI and computer vision to “de- skill” engineering as well as frontline tasks, and eliminate the traditional need for labor upskilling on the assembly line.",
+    "url": "https://www.facebook.com/100057312765441/posts/job-opportunitieswe-have-a-few-openings-for-exceptional-frontend-backend-and-com/809570737630011/",
+    "pass": 3
+   },
+   {
+    "quote": "Retrocausal - We're absolutely thrilled to announce our ... Nov 30, 2023 · Retrocausal's post Retrocausal Nov 30, 2023 We're absolutely thrilled to announce our new $5.3M financing round to meet the growing demand for our manufacturing process optimization platform.",
+    "url": "https://www.facebook.com/100057312765441/posts/were-absolutely-thrilled-to-announce-our-new-53m-financing-round-to-meet-the-gro/845620514025033/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://retrocausal.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/news/retrocausal-named-in-cb-insights-ai-100-list-for-2024-as-a-top-manufacturing-startup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/news/our-ceo-interviewed-by-siemens-digital-industries-media-team/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/news/retrocausal-named-to-the-2022-cb-insights-advanced-manufacturing-50-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/3m-accelerates-ergonomics-productivity-improvements-across-15-plants-with-kaizen-copilot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/electronics-manufacturer-enhances-quality-control-in-safety-critical-assembly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/hvac-manufacturer-enhances-quality-control-through-automated-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/water-heater-manufacturer-implements-smart-assembly-guidance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/aircraft-engine-supplier-streamlines-complex-assembly-process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/aircraft-manufacturer-automates-complex-assembly-verification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/vehicle-components-manufacturer-eliminates-ergonomic-risks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/custom-seating-manufacturer-reduces-process-analysis-time/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/ergo-copilot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/kaizen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/tag/3m-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retrocausal.ai/case-study/automotive-manufacturer-optimizes-assembly-line-workforce-by-33/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://i0.wp.com/retrocausal.ai/wp-content/uploads/2025/11/Screenshot-2025-11-12-191840.png?fit=909%2C456&ssl=1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://i0.wp.com/retrocausal.ai/wp-content/uploads/2025/02/Blog-Featured-Images-4.png?fit=909%2C476&ssl=1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://i0.wp.com/retrocausal.ai/wp-content/uploads/2024/11/Blog-Featured-Images-10.png?fit=909%2C476&ssl=1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://i0.wp.com/retrocausal.ai/wp-content/uploads/2025/11/Screenshot-2025-11-12-191840.png?fit=1064%2C534&ssl=1",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotnews.jp/manufacturing/200038/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC257JE0V20C24A3000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Retrocausality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/retrocausal-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.welcome.ai/company/retrocausal/use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/retrocausal/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/431361-55",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/retrocausal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/retrocausal-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RetrocausalAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/RetroCausal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2053508824347361384",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thegoddisk/status/2028857215965184371",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/retrocausal-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/retrocausal-studios",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/retroai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andreykonin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Retrocausal/100057312765441/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RetroKausal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100057312765441/posts/job-opportunitieswe-have-a-few-openings-for-exceptional-frontend-backend-and-com/809570737630011/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100057312765441/posts/were-absolutely-thrilled-to-announce-our-new-53m-financing-round-to-meet-the-gro/845620514025033/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RetrocausalAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/retrocausalai/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Retrocausal 日本 導入",
+   "results": [
+    "https://mfg-ai.com/vendors/retrocausal-copilots",
+    "https://retrocausal.ai/",
+    "https://iotnews.jp/manufacturing/200038/",
+    "https://www.nikkei.com/article/DGXZQOUC257JE0V20C24A3000000/",
+    "https://it.impress.co.jp/articles/-/22959",
+    "https://japan.zdnet.com/release/30672062/",
+    "https://enterprisezine.jp/news/detail/15813"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retrocausal 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retrocausal Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Retrocausality",
+    "https://retrocausal.ai/",
+    "https://retrocausal.ai/research/",
+    "https://jp.linkedin.com/company/retrocausal-ai",
+    "https://www.linkedin.com/jobs/view/llm-retrocausal-entanglement-signal-phenomena-resp-at-llm-retrocausal-entanglement-signal-phenomena-4247117101",
+    "https://www.geekwire.com/2023/manufacturing-software-startup-retrocasual-raises-5-3m-to-help-workers-assemble-products/",
+    "https://japan.zdnet.com/release/30672062/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retrocausal manufacturing customer case study",
+   "results": [
+    "https://retrocausal.ai/case-studies/",
+    "https://retrocausal.ai/white-papers/",
+    "https://welcome.ai/company/retrocausal/use-cases",
+    "https://www.cbinsights.com/company/retrocausal/customers",
+    "https://www.linkedin.com/posts/retrocausal-ai_c-activity-7461156921094500352-CtGP",
+    "https://www.hannovermesse.de/apollo/hannover_messe_2024/obs/Binary/A1352723/Retrocausal.pdf",
+    "https://www.linkedin.com/posts/retrocausal-ai_casestudy-manufacturingexcellence-continuousimprovement-activity-7415043343438811137-w-Le"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retrocausal white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://skyswitch.com/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retrocausal founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/431361-55",
+    "https://compworth.com/company/retrocausal",
+    "https://prospeo.io/c/retrocausal-revenue",
+    "https://fundediq.co/retrocausal-retrocausal-ai-funding/",
+    "https://www.gritt.io/company/retrocausal-ai/",
+    "https://tracxn.com/d/companies/retrocausalsystems/__V4otGng9RvOeLiFXOvf-Uor0QgwcZys0BnNxAyQkrFo",
+    "https://www.geekwire.com/2023/manufacturing-software-startup-retrocasual-raises-5-3m-to-help-workers-assemble-products/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Retrocausal",
+   "results": [
+    "https://note.com/headline_asia/n/n7ceb74bdc784",
+    "https://note.com/2eko_neko_nayo/n/nf5f68e1594d0",
+    "https://note.com/uirodet/n/n2b6763fae312",
+    "https://note.com/2ch3ch/n/nc047b479d667",
+    "https://note.com/yokun_49/n/n8790cb690bb8",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/pikamaruhonpo/n/n92596570cf5d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Retrocausal",
+   "results": [
+    "https://x.com/RetrocausalAI",
+    "https://x.com/hashtag/RetroCausal",
+    "https://x.com/i/trending/2053508824347361384",
+    "https://x.com/thegoddisk/status/2028857215965184371",
+    "https://x.com/alchemaxxing/status/2118104750277423215",
+    "https://x.com/astrooalert/status/2068558530093719716",
+    "https://x.com/NachoQuixotic/status/2066708612001538422"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Retrocausal",
+   "results": [
+    "https://www.linkedin.com/company/retrocausal-ai",
+    "https://www.linkedin.com/company/retrocausal-studios",
+    "https://www.linkedin.com/in/retroai",
+    "https://www.linkedin.com/in/andreykonin",
+    "https://www.linkedin.com/in/quochuytran",
+    "https://www.linkedin.com/in/cooper-gardner-b60a58ba",
+    "https://in.linkedin.com/in/aprameya-manjunath-a5a171119"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Retrocausal",
+   "results": [
+    "https://www.facebook.com/people/Retrocausal/100057312765441/",
+    "https://www.facebook.com/RetroKausal/",
+    "https://www.facebook.com/100057312765441/posts/job-opportunitieswe-have-a-few-openings-for-exceptional-frontend-backend-and-com/809570737630011/",
+    "https://www.facebook.com/100057312765441/posts/were-absolutely-thrilled-to-announce-our-new-53m-financing-round-to-meet-the-gro/845620514025033/",
+    "https://www.facebook.com/100057312765441/posts/-announcing-kaizen-copilot-the-generative-ai-solution-for-continuous-process-imp/722733856313700/",
+    "https://www.facebook.com/stasrutkowski/videos/thank-you-for-all-the-support-last-week-with-my-release-retrocausal-newmusic-mus/1780701213256046/",
+    "https://www.facebook.com/GuidesThroughDeepAntiquity/videos/researcher-osborn-argues-gizas-latitude-only-matched-its-key-mathematical-consta/967158623130738/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retrocausal note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://retrocausal.ai/",
+    "https://note.com/sadaaki",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://retrocausal.ai/news/retrocausal-appoints-steve-rodda-as-ceo-to-accelerate-companys-enterprise-expansion/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retrocausal X 投稿",
+   "results": [
+    "https://x.com/RetrocausalAI",
+    "https://x.com/retrocausalai/with_replies",
+    "https://retrocausal.ai/",
+    "https://www.retrocausal.gg/",
+    "https://retrocausal.ai/research/",
+    "https://www.linkedin.com/company/retrocausal-ai",
+    "https://zhuanlan.zhihu.com/p/682371264"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

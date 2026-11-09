@@ -1,0 +1,503 @@
+{
+ "name": "Işık Teknoloji Seramik Metalurji ve Kompozit",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service;ceramics-material-manufacturer;materials",
+ "researched_at": "2026-11-09T21:54:00.395524+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Işık Teknoloji Seramik Metalurji ve Kompozit — VoxelMatters ... — Based in İzmir, the company manufactures oxide ceramics, including zirconia, alumina, MMC, CMC, ATZ, ZTA and aluminum titanate, from raw-material preparation through to finished parts at its own facility. Within its additive manufacturing line, it formulates and produces photopolymer resins specifically for DLP/SLA 3D printers, offe",
+    "url": "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Omer Gokoglan - Türkiye | Profesyonel Profil | LinkedIn2 \"Ömer Gökoğlan\" profiles | LinkedInOmer Gokoglan on LinkedIn: #defence #armour #ceramics # ...Yüksek sertlik ve saflıkta ürettiğimiz seramik plakalar ...Ceramics-composites-metallurgy | Omer GokoglanIşık Teknoloji - LinkedInCeramics-composites-metallurgy | Omer Gokoglan - LinkedIn Deneyim Isık Teknoloji seramik,metalurji ve kompozit Işık Tek",
+    "url": "https://tr.linkedin.com/in/omer-gokoglan-750b7624",
+    "pass": 3
+   },
+   {
+    "quote": "2 \"Ömer Gökoğlan\" profiles | LinkedIn Işıktech şirketinde Isık Teknoloji seramik,metalurji ve kompozit Türkiye Işık Teknoloji, +1 more Istanbul University, +2 more",
+    "url": "https://www.linkedin.com/pub/dir/Ömer/Gökoğlan",
+    "pass": 3
+   },
+   {
+    "quote": "Omer Gokoglan on LinkedIn: #defence #armour #ceramics # ... Omer Gokoglan Işıktech şirketinde Isık Teknoloji seramik,metalurji ve kompozit 11mo",
+    "url": "https://www.linkedin.com/posts/omer-gokoglan-750b7624_defence-armour-ceramics-activity-6919238542351065088--C3S",
+    "pass": 3
+   },
+   {
+    "quote": "Omer Gokoglan - Türkiye | Profesyonel Profil | LinkedInIşık TeknolojiIşık Teknoloji Seramik Metalurji ve Kompozit — VoxelMatters ...2 \"Omer Gokoglan\" profiles | LinkedIn2023-2024 Dönemi İlk Yönetim Kurulu Toplantısı - Kompozit Deneyim Isık Teknoloji seramik,metalurji ve kompozit Işık Teknoloji Nis 2020 - Ara 2021 1 yıl 9 ay İzmir, Türkiye Uluslararası projelerde Endüstri, ticari, kamu ve bina tekn",
+    "url": "https://tr.linkedin.com/in/omer-gokoglan-750b7624",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "IŞIK Teknoloji | Istanbul - FacebookSeramik ve Kompozit Malzemelerde Uzmanlaşan Üniversite ...IŞIK Teknoloji - Işık Teknoloji olarak, müşterilerimiz ve...IŞIK Teknoloji - IŞIK Teknoloji added a new photo. - FacebookIŞIK Teknoloji - Victaulic ürünlerinin sunduğu dayanıklı ...METALURJİ VE MALZEME MÜHENDİSLİĞİ - FORUM - FacebookIŞIK Teknoloji - Işık Teknoloji Kurucu Ortaklarımızdan ... Oct 8, 2026 · ",
+    "url": "https://www.facebook.com/isikteknoloji/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.isiktech.com/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://isikteknoloji.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://isikteknoloji.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://turkishship.com/company/i-k-teknoloji-seramik-metalurji",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isiktech.com/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isiktech.com/urunler/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.isiktech.com/urunler/savunma-sanayi/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.isiktech.com/iletisim/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.isiktech.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://isikteknoloji.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isiktech.com/en/homepage/",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B8%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isiktech.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://inviting.jp/knowledge/glossary/resin-plastic-difference-types-uses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nukumori-pellet.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isiktech.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://isikteknoloji.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanese-tile.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.isiktech.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isiktech.com/urunler/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%80%90%E3%82%BB%E3%83%83%E3%83%88%E8%B2%B7%E3%81%84%E3%80%91Amazon-Kindle-Colorsoft%E3%80%90%E7%B4%94%E6%AD%A3-%E6%A4%8D%E7%89%A9%E6%80%A7%E3%83%AC%E3%82%B6%E3%83%BC%E3%82%AB%E3%83%90%E3%83%BC-%E4%BF%9D%E8%AD%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0/dp/B0FX81K9HN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%80%90%E3%82%BB%E3%83%83%E3%83%88%E8%B2%B7%E3%81%84%E3%80%91Amazon-Kindle-Colorsoft%E3%80%90%E8%83%8C%E9%9D%A2%E3%82%AF%E3%83%AA%E3%82%A2-%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%82%AB%E3%83%90%E3%83%BC-%E4%BF%9D%E8%AD%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0/dp/B0FX89DRPK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00205607/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3902/8071/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0248/1446/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04187925/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tr.linkedin.com/in/omer-gokoglan-750b7624",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Ömer/Gökoğlan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/omer-gokoglan-750b7624_defence-armour-ceramics-activity-6919238542351065088--C3S",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/isikteknoloji/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tr.linkedin.com/in/omer-gokoglan-750b7624",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit 代理店",
+   "results": [
+    "https://www.isiktech.com/",
+    "https://isikteknoloji.com/",
+    "https://isikteknoloji.com/company/about-us",
+    "https://turkishship.com/company/i-k-teknoloji-seramik-metalurji",
+    "https://www.isiktech.com/en/homepage/",
+    "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/",
+    "https://isikgroup.com/tr/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.isiktech.com/",
+    "https://www.isiktech.com/urunler/",
+    "https://www.isiktech.com/urunler/savunma-sanayi/",
+    "https://www.isiktech.com/iletisim/",
+    "https://www.isiktech.com/urunler/eklemeli-imalat-3d-yazicilar/",
+    "https://www.isiktech.com/en/products/medical-dental-products/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.turkishexporter.com.tr/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit 日本 販売",
+   "results": [
+    "https://www.isiktech.com/",
+    "https://isikteknoloji.com/",
+    "https://www.isiktech.com/en/homepage/",
+    "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/",
+    "https://www.niterragroup.com/business/industry/",
+    "https://www.isvea.com.tr/",
+    "https://nishimuratougyou.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://ja.wikipedia.org/wiki/レジン",
+    "https://www.isiktech.com/",
+    "https://inviting.jp/knowledge/glossary/resin-plastic-difference-types-uses/",
+    "http://www.nukumori-pellet.com/",
+    "https://fantist.com/articles/1092",
+    "https://www.isiktech.com/iletisim/",
+    "https://www.filamentmarketim.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit Japan distributor",
+   "results": [
+    "https://www.isiktech.com/",
+    "https://isikteknoloji.com/",
+    "https://japanesedistributors.com/",
+    "https://japanese-tile.com/",
+    "https://www.isiktech.com/en/homepage/",
+    "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/",
+    "https://www.isvea.com.tr/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.isiktech.com/",
+    "https://japanesedistributors.com/",
+    "https://www.isiktech.com/urunler/",
+    "https://www.japan-partner.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://www.isiktech.com/iletisim/",
+    "https://www.isiktech.com/urunler/eklemeli-imalat-3d-yazicilar/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Işık Teknoloji Seramik Metalurji ve Kompozit",
+   "results": [
+    "https://www.amazon.co.jp/【セット買い】Amazon-Kindle-Colorsoft【純正-植物性レザーカバー-保護フィルム/dp/B0FX81K9HN",
+    "https://www.amazon.co.jp/【セット買い】Amazon-Kindle-Colorsoft【背面クリア-ファブリックカバー-保護フィルム/dp/B0FX89DRPK",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://kdp.amazon.co.jp/",
+    "https://music.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Işık Teknoloji Seramik Metalurji ve Kompozit",
+   "results": [
+    "https://www.monotaro.com/g/00205607/",
+    "https://www.monotaro.com/p/3902/8071/",
+    "https://www.monotaro.com/p/0248/1446/",
+    "https://www.monotaro.com/g/04187925/",
+    "https://www.monotaro.com/g/00263786/",
+    "https://www.monotaro.com/p/0673/7604/",
+    "https://www.monotaro.com/p/0661/3975/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit employees revenue parent company",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Işık Teknoloji Seramik Metalurji ve Kompozit",
+   "results": [
+    "https://note.com/ikedanob",
+    "https://note.com/tag/生徒会",
+    "https://note.com/wise_turtle184",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nice_pony7618/n/ne7ca5e10ec57",
+    "https://note.com/mobileprince/n/n0cfda029a334",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Işık Teknoloji Seramik Metalurji ve Kompozit",
+   "results": [
+    "https://x.com/lima_teknoloji",
+    "https://x.com/",
+    "https://x.com/subumem",
+    "https://x.com/yesilhabernet/status/2076999979617419566",
+    "https://x.com/itummmk",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://help.x.com/zh-tw/using-x"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Işık Teknoloji Seramik Metalurji ve Kompozit",
+   "results": [
+    "https://tr.linkedin.com/in/omer-gokoglan-750b7624",
+    "https://www.linkedin.com/pub/dir/Ömer/Gökoğlan",
+    "https://www.linkedin.com/posts/omer-gokoglan-750b7624_defence-armour-ceramics-activity-6919238542351065088--C3S",
+    "https://tr.linkedin.com/posts/omer-gokoglan-750b7624_yüksek-sertlik-ve-saflıkta-ürettiğimiz-seramik-activity-7339720711739006976-IEc2",
+    "https://it.linkedin.com/posts/omer-gokoglan-750b7624_ceramics-composites-metallurgy-activity-6875739834447667200-1NM2",
+    "https://www.linkedin.com/company/isiktechnology",
+    "https://www.linkedin.com/posts/omer-gokoglan-750b7624_ceramics-composites-metallurgy-activity-6856576591716249601-6L7-"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Işık Teknoloji Seramik Metalurji ve Kompozit",
+   "results": [
+    "https://www.facebook.com/isikteknoloji/",
+    "https://www.facebook.com/eskisehirteknikuniv/videos/-seramik-ve-kompozit-malzemelerde-uzmanlaşan-üniversite-eskişehir-teknik-ünivers/1667038927329673/",
+    "https://www.facebook.com/isikteknoloji/posts/işık-teknoloji-olarak-müşterilerimiz-ve-servis-ağımızla-mükemmel-hizmet-için-yan/617020460545779/",
+    "https://www.facebook.com/isikteknoloji/photos/d41d8cd9/1253898223524663/",
+    "https://www.facebook.com/isikteknoloji/posts/victaulic-ürünlerinin-sunduğu-dayanıklı-malzeme-yapısı-mekanik-tesisat-sistemler/1320812253499926/",
+    "https://www.facebook.com/isikteknoloji/posts/işık-teknoloji-kurucu-ortaklarımızdan-alaattin-dağlı-aquamatch-kurucularından-bü/1250514033863082/",
+    "https://www.facebook.com/groups/metalurjivemalzeme/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit note 社長",
+   "results": [
+    "https://www.isiktech.com/",
+    "https://tr.linkedin.com/in/omer-gokoglan-750b7624",
+    "https://isikteknoloji.com/",
+    "https://kompozit.org.tr/tr/2023-2024-donemi-yonetim-ve-denetim-kurulu-gorev-dagilimlari/",
+    "https://www.isiktech.com/en/about-us/",
+    "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/",
+    "https://www.linkedin.com/pub/dir/Omer/Gokoglan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Işık Teknoloji Seramik Metalurji ve Kompozit X 投稿",
+   "results": [
+    "https://www.isiktech.com/",
+    "https://x.com/seksologkerami/status/2117909306808959096",
+    "https://turkishship.com/company/i-k-teknoloji-seramik-metalurji",
+    "https://seramikdergisi.org/",
+    "https://www.seramikturkiye.org/",
+    "https://www.isiktech.com/en/homepage/",
+    "https://www.voxelmatters.directory/company/isik-teknoloji-seramik-metalurji-ve-kompozit/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

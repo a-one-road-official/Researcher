@@ -1,0 +1,552 @@
+{
+ "name": "Additive Plus — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:25:32.076789+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramics 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   },
+   {
+    "quote": "Used 3D printer reseller",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "3D Print eShop",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Print Shop",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Additive Plus — VoxelMatters - The largest database of ... — Additive Plus — VoxelMatters - The largest database of ... voxelmatters.directory https://www.voxelmatters.directory > ...",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Plus — VoxelMatters - The largest database of ... — Additive Plus is a leader in 3D printing and additive manufacturing services. Since our founding, we’ve been dedicated to helping businesses unlock the full potential of 3D printing. Our expertise spans multiple technologies, including FFF, SLA, LPBF, and SLS, to provide solutions for prototyping, industrial applications, and advanced re",
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/about-us/?srsltid=AYCX9vIZIup2_SRSmJ1AY73qA93JCUX3doahoHxytGoNqSP9zBWocG0k",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/additive-plus-launches-ao-3d-printer-family-for-affordable-lpbf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-plus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vplus.tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/?srsltid=AYCX9vJtxsdWhI8hggFYh1COGTTa7kedO2Ji_j3VnqHiuo6P_7tJlXmf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ptc.com/ja/store/products/creo/creo-additive-manufacturing-extension?srsltid=AYCX9vKurNBp0Uln8UtB8qJMT8BZRMjYlaeuZjjjcMa6l3vHxOn5P-Y2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/webstore/?srsltid=AYCX9vICLFsmiTvhpsES00XYRjDn8cLAi83RDQIg0UNaw7bEn7i9ZUfO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/?srsltid=AYCX9vLOvckzlt0D4LzC9tCp_4i0V-cCsVHELjI8EIxyUc4IPxK3EpG-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/about-us/?srsltid=AYCX9vLwgprVMR7WCyUmwd3gYOKcAgZvkgYQyBI94q_A1gHI7e3aSY2C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Additive-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%A8%B9%E8%84%82-%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB-%E3%83%95%E3%82%A9%E3%83%88%E3%83%9D%E3%83%AA%E3%83%9E%E3%83%BC-1000ml/dp/B0D39X997Z",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E5%86%8D%E9%9D%A9%E6%96%B04K%E9%80%B2%E5%8C%96%E5%88%86%E9%9B%A2%E5%BC%8F-%E3%83%9F%E3%83%A9%E3%83%BC%E5%9E%8B%E3%83%BB%E9%99%8D%E5%9C%A7%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%80%91VANBAR-BSD%E9%81%8B%E8%BB%A2%E8%A3%9C%E5%8A%A9%E3%83%BB%E5%B7%A6%E5%8F%B3%E4%B8%8A%E4%B8%8B%E5%8F%8D%E8%BB%A2%E5%8F%AF%E3%83%BB128GB%E3%82%AB%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D-IMX415%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC-800%E4%B8%87%E7%94%BB%E7%B4%A0%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%9F%E3%83%A9%E3%83%BC/dp/B0FS66WJVM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00428364/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0848/7202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-printing-directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/about-us/?srsltid=AYCX9vJKxTjAVtffuytwPiqqgb4grgiksG5Cyc13JI5QmRc0AF4TiIty",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Additive Plus — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/additive-plus/",
+    "https://additiveplus.com/about-us/?srsltid=AYCX9vIZIup2_SRSmJ1AY73qA93JCUX3doahoHxytGoNqSP9zBWocG0k",
+    "https://www.voxelmatters.com/additive-plus-launches-ao-3d-printer-family-for-affordable-lpbf/",
+    "https://www.3dnatives.com/en/3d-printing-directory/additive-plus-3d-printing-solutions/",
+    "https://www.voxelmatters.report/product/additive-manufacturing-market-report-2025/",
+    "https://additiveplus.com/privacy-policy/?srsltid=AYCX9vLX8UcCjizyt9pRI-xz4qN0EkxWLue8YUA68QyImSXzRRu0mN0O",
+    "https://www.voxelmatters.directory/",
+    "https://clutch.co/profile/additive-plus-3d-printing-solutions",
+    "https://additiveplus.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Additive Plus — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/additive-plus/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://vplus.tokyo/",
+    "https://xplus.co.jp/en/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Additive Plus — VoxelMatters 日本 販売",
+   "results": [
+    "https://additiveplus.com/?srsltid=AYCX9vJtxsdWhI8hggFYh1COGTTa7kedO2Ji_j3VnqHiuo6P_7tJlXmf",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.ptc.com/ja/store/products/creo/creo-additive-manufacturing-extension?srsltid=AYCX9vKurNBp0Uln8UtB8qJMT8BZRMjYlaeuZjjjcMa6l3vHxOn5P-Y2",
+    "https://www.additivejapan.com/",
+    "https://be-full.jp/vda001/",
+    "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/?srsltid=AYCX9vJMbf2Yg1vSNvfSkfd-xJfqL3vUBSUso9WWVVWYExLW0f2PI967",
+    "https://intamsys.jp/",
+    "https://www.3ds.com/ja/products/delmia/industrial-engineering/additive-manufacturing",
+    "https://additiveplus.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Additive Plus — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://additiveplus.com/webstore/?srsltid=AYCX9vICLFsmiTvhpsES00XYRjDn8cLAi83RDQIg0UNaw7bEn7i9ZUfO",
+    "https://www.poly-maker.jp/",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://skhonpo.com/collections/filament",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vJL2kPvYeKwkQwc9v746ksZns6pP5GaKn92pfaODKJHgiBsljNR",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Additive Plus — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://additiveplus.com/?srsltid=AYCX9vLOvckzlt0D4LzC9tCp_4i0V-cCsVHELjI8EIxyUc4IPxK3EpG-",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/",
+    "https://www.3dnatives.com/en/3d-printing-directory/additive-plus-3d-printing-solutions/",
+    "https://wurthadditive.com/password?srsltid=AYCX9vLxaSz_JUteXffpDoFNU8G4mX2WsU-cEFy0ZT7Rho7sBpjcafUK",
+    "https://www.additive-x.com/?srsltid=AYCX9vJAa3xZPKt3jR-P9DiF_LkvEQ29uvobtghRqGffNKuNtNZemfVx",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://additiveplus.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Additive Plus — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://additiveplus.com/about-us/?srsltid=AYCX9vLwgprVMR7WCyUmwd3gYOKcAgZvkgYQyBI94q_A1gHI7e3aSY2C",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.linkedin.com/pulse/comprehending-rapid-growth-global-japan-additive-oq4me",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Additive Plus — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/Additive-3Dプリント樹脂-フレキシブル-フォトポリマー-1000ml/dp/B0D39X997Z",
+    "https://www.amazon.co.jp/再革新4K進化分離式-ミラー型・降圧ケーブル】VANBAR-BSD運転補助・左右上下反転可・128GBカード付き-IMX415センサー-800万画素デジタルインナーミラー/dp/B0FS66WJVM",
+    "https://r.amazon.co.jp/",
+    "https://relay.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Additive Plus — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/g/00428364/",
+    "https://www.monotaro.com/p/0848/7202/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/g/01406943/",
+    "https://www.monotaro.com/s/c-59413/",
+    "https://www.monotaro.com/g/00391784/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Additive Plus — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-directory/",
+    "https://additiveplus.com/about-us/?srsltid=AYCX9vJKxTjAVtffuytwPiqqgb4grgiksG5Cyc13JI5QmRc0AF4TiIty",
+    "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://manufacturingdigital.com/top10/top-10-additive-manufacturing-companies",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://growjo.com/company/Additive_Industries",
+    "https://additiveplus.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Additive Plus — VoxelMatters",
+   "results": [
+    "https://note.com/_takumi_inoue_/n/n32e12ae3216b",
+    "https://note.com/pei_umapro",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/lithe_human7725/n/n08070d1456de"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Additive Plus — VoxelMatters",
+   "results": [
+    "https://x.com/AirtechOfficial",
+    "https://x.com/voxelmatters",
+    "https://x.com/PlusAdditive",
+    "https://x.com/faveda12/status/2118266963164303828",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/gdun/status/2116607993295118542",
+    "https://x.com/sealulu_/status/2116491782410154480",
+    "https://x.com/drgfromnyc/status/2117850084365025391"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Additive Plus — VoxelMatters",
+   "results": [
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ceramicam-activity-7495110218633179136-e-_9",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalpowders-metalam-activity-7506607206176436224-9mF3",
+    "https://www.linkedin.com/in/jason-miller-b6bb6559",
+    "https://www.linkedin.com/in/josephcrabtree",
+    "https://ca.linkedin.com/in/yvon-leduc-43b855180",
+    "https://www.linkedin.com/in/pattersonclark",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Additive Plus — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/DiscoverRAPID/posts/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1581052767402713/",
+    "https://www.facebook.com/brent.goudie/posts/this-weeks-3d-printing-news-a-resin-printer-that-washes-and-dries-itself-1-milli/10244741739383633/",
+    "https://www.facebook.com/oqtonai/posts/formnext-is-three-weeks-away-bring-your-toughest-am-problem-to-hall-120-booth-b7/1530989359050236/",
+    "https://www.facebook.com/nota3d/",
+    "https://www.facebook.com/WevolverApp/posts/formnext-2026-takes-place-in-frankfurt-from-november-1720-bringing-together-the-/1539621764858595/",
+    "https://www.facebook.com/DiscoverRAPID/videos/am-in-focus-series-3d-systems-mjp-300w-plus-3d-for-printing-jewelry/1493218068425245/",
+    "https://www.facebook.com/formnext/posts/formnext-2026-more-than-an-expoa-comprehensive-supporting-program-allows-visitor/1572360594919092/",
+    "https://www.facebook.com/aerospacenow/posts/in-aerospace-marketing-metal-3d-printing-is-often-framed-as-the-undisputed-futur/122141766993226855/",
+    "https://www.facebook.com/DiscoverRAPID/videos/executive-perspectives-keynote-series-scaling-am-for-aerospace-and-defense-rapid/981292681238294/",
+    "https://www.facebook.com/VoxelMatters/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Additive Plus — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://additiveplus.com/about-us/?srsltid=AYCX9vKkmXmdxtN5FCy3imTivaGTBREiZwhksN-6gP-K6BY9FrTmtS46",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/additive-manufacturing-of-consumer-products-is-booming/",
+    "https://www.voxelmatters.directory/company-category/association/",
+    "https://www.scribd.com/document/801980104/VoxelMatters-VMFocus2024-eBook-AM-Services",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Additive Plus — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://additiveplus.com/?srsltid=AYCX9vLjO1OWfKjaZ9K7fr34uKQYgdOl4Zh7lpOBpc1fkO6VYI3pM4ee",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/datasets/",
+    "https://www.youtube.com/watch?v=nUYvPgZiVMY",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

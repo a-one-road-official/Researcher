@@ -1,0 +1,1784 @@
+{
+ "name": "Sensei",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T21:29:49.509163+00:00",
+ "official_url": "https://www.sensei.tech/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$21.5M",
+    "url": "https://getlatka.com/companies/sensei",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Run a labor-light operation with real-time shelf inventory visibility, enabling proactive replenishment and eliminating theft.",
+    "url": "https://www.sensei.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, no queues. Customers shop seamlessly while our system handles all the processing in the background.",
+    "url": "https://www.sensei.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove frustrations while enhancing human presence where and when it really matters.",
+    "url": "https://www.sensei.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Our tech is GDPR-compliant, which means cameras don’t collect or store biometric data points.",
+    "url": "https://www.sensei.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Partner program",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A proven business case for AI in grocery retail",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sensei delivers Retail AI that boosts store efficiency and enables hybrid and autonomous retail. Partners can bundle proven capabilities, unlock new revenue, and deliver measurable impact across the whole value chain.",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Across all settings, we’re seeing improved customer satisfaction, as well as operational efficiencies from automated stock and product monitoring, which streamlines inventory management.”",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“We believe in the team led by Vasco Portugal to consolidate Sensei's growth and presence in the autonomous retail sector, as well as to expand the technological solution developed by the company in Latin America, strengthening its influence in the sector.\"",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Our Trento store showcases our commitment to innovation, blending Sensei’s technology with our expertise. This project empowered our team and proved the value of synergy in achieving results we aim to replicate in the future.\"",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Is the Sensei Partner Program right for you?",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A technology provider,",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "convenience enterprises",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create new revenue streams through high-impact projects",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Differentiate your portfolio with proven Retail AI",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-ready scale",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Roll out faster with proven implementation playbooks",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fit seamlessly into existing retailer programs and operations",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We’re builders, not theorists. We've assembled a team that combines practical expertise in distributed systems infrastructure, big data processing, computer vision, machine learning, and sensor technology. Whatever their role, each Sensei combines an uncompromising engineering mindset with an unwavering focus and passion on executing in service of the retail mission.",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Retail technology, particularly when embedded in physical environments, must safeguard consumer privacy.",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "This is where we develop autonomous retail experiences designed for humans. A place of work, prototyping, and potential, it’s the home of our team and all our wildest dreams.",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Success Project Manager",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Entrepreneurs of the year",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "João Vasconcelos | Prize by Startup Lisboa",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "“Across all settings, we’re seeing improved customer satisfaction, as well as operational efficiencies from automated stock and product monitoring, which streamlines inventory management.”",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "“We believe in the team led by Vasco Portugal to consolidate Sensei's growth and presence in the autonomous retail sector, as well as to expand the technological solution developed by the company in Latin America, strengthening its influence in the sector.\"",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "“Our Trento store showcases our commitment to innovation, blending Sensei’s technology with our expertise. This project empowered our team and proved the value of synergy in achieving results we aim to replicate in the future.\"",
+    "url": "https://www.sensei.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Define and improve layouts and planograms.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "But there’s cutting-edge hardware, proprietary software, AI algorithms, and computer vision technology, all seamlessly integrated and meticulously designed to blend into any environment.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "in the ceiling identify products and track people anonymously.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "process data on-prem for maximum security and reliability.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary AI software",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Means no limits; our system accurately detects and registers all products that go into the basket automatically.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to accurate basket building and GDPR-compliant technology that guarantees shoppers' privacy.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Offer innovative, healthier product assortments",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "and provide customers with an experience that will improve their day.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Improve profitability",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Our reliable technology is GDPR-compliant",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "and guarantees the privacy of customers and visitors.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Segment product offerings",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "based on specific locations, age and income profiles.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "The product offering is tailored",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor product offerings",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "to specific locations, age groups, and profiles better to meet the unique needs of students and staff.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage regulations and institutional preferences",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "to provide more attractive, healthy, fresh options outside class hours.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "The product offering can be tailored",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Offer more services without hiring more staff",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Customise product offerings",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to the actual products,",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "and guarantees guests’ privacy.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Product offerings can be quickly adapted",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Define and improve layouts and planograms.",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "<olive-txt-20>Want to capitalise on empty common areas? Our <olive-txt-20>autonomous indoor<olive-txt-20> pods can be adapted into small unmanned stores without additional staff expenses, delivering a highly tailored product range.<olive-txt-20>",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "The experience can be personalised <olive-txt-20>to fit any brand and each location's needs, streamline inventory replenishment, and better answer workforce routines.<olive-txt-20>",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "But there’s cutting-edge hardware, proprietary software, AI algorithms, and computer vision technology, all seamlessly integrated and meticulously designed to blend into any environment.",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "in the ceiling identify products and track people anonymously.",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "process data on-prem for maximum security and reliability.",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary AI software",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Means no limits; our system accurately detects and registers all products that go into the basket automatically.",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Open for longer, with or without staff, and wherever works best to unlock new revenue opportunities.",
+    "url": "https://www.sensei.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensei delivers Retail AI that boosts store efficiency and enables hybrid and autonomous retail. Partners can bundle proven capabilities, unlock new revenue, and deliver measurable impact across the whole value chain.",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create new revenue streams through high-impact projects",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers or check-ins.",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers,",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new opportunities to generate revenue",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues:",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new ways to generate revenue",
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers or check-ins.",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers,",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new opportunities to generate revenue",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues:",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new ways to generate revenue",
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers or check-ins.",
+    "url": "https://www.sensei.tech/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers,",
+    "url": "https://www.sensei.tech/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues",
+    "url": "https://www.sensei.tech/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new opportunities to generate revenue",
+    "url": "https://www.sensei.tech/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues:",
+    "url": "https://www.sensei.tech/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new ways to generate revenue",
+    "url": "https://www.sensei.tech/industries/mobility",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers or check-ins.",
+    "url": "https://www.sensei.tech/industries/education",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers,",
+    "url": "https://www.sensei.tech/industries/education",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues",
+    "url": "https://www.sensei.tech/industries/education",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new opportunities to generate revenue",
+    "url": "https://www.sensei.tech/industries/education",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues:",
+    "url": "https://www.sensei.tech/industries/education",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new ways to generate revenue",
+    "url": "https://www.sensei.tech/industries/education",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers or check-ins.",
+    "url": "https://www.sensei.tech/industries/hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers,",
+    "url": "https://www.sensei.tech/industries/hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues",
+    "url": "https://www.sensei.tech/industries/hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new opportunities to generate revenue",
+    "url": "https://www.sensei.tech/industries/hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues:",
+    "url": "https://www.sensei.tech/industries/hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new ways to generate revenue",
+    "url": "https://www.sensei.tech/industries/hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers or check-ins.",
+    "url": "https://www.sensei.tech/industries/leisure",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers,",
+    "url": "https://www.sensei.tech/industries/leisure",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues",
+    "url": "https://www.sensei.tech/industries/leisure",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new opportunities to generate revenue",
+    "url": "https://www.sensei.tech/industries/leisure",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues:",
+    "url": "https://www.sensei.tech/industries/leisure",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new ways to generate revenue",
+    "url": "https://www.sensei.tech/industries/leisure",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers or check-ins.",
+    "url": "https://www.sensei.tech/industries/health-and-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "No barriers,",
+    "url": "https://www.sensei.tech/industries/health-and-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues",
+    "url": "https://www.sensei.tech/industries/health-and-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new opportunities to generate revenue",
+    "url": "https://www.sensei.tech/industries/health-and-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "No scanning, barriers, or queues:",
+    "url": "https://www.sensei.tech/industries/health-and-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new ways to generate revenue",
+    "url": "https://www.sensei.tech/industries/health-and-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Build new customer touchpoints and unlock additional revenue streams without hefty upfront investments.",
+    "url": "https://www.sensei.tech/solutions/pod",
+    "pass": 1
+   },
+   {
+    "quote": "The following data may be used to track you across apps and websites owned by other companies:",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese flower-arranging",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "The single word \"sports\" covers all kinds of athletic activities, but let's talk about traditional Japanese sports first: martial arts, including sumō, jūdō, karate, aikidō, kendō, and kyudō. They are still very popular, and etiquette (礼儀) is a big part of them, so it's important to pay respect to your teacher by calling them 先生.",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese sports are still very popular, and etiquette (礼儀) is a big part of them, so it's important to pay respect to your teacher by calling them 先生.",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "used as a second-person pronoun or honorific, but only in work-related discussions between employees.",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "And yet… in the case of authors, I think part of the reason for this practice may be simply to flatter them. There's a saying in Japanese:",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "In Japanese society, where modesty has value, folks might use 先生 to sarcastically refer to someone who is pretentious or arrogant.",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "Though 先生 is a polite and respectful word, it can also be used with irony. In Japanese society, where modesty has value, folks might use 先生 to sarcastically refer to someone who is pretentious or arrogant. This kind of sarcasm works with those who are actually",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "The company rolled out Microsoft 365 to reduce the number of internal apps and better connect systems for easier collaboration. This helped make employees more efficient and reduced routine tasks.",
+    "url": "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei cut its third-party tools from 15 to 6, saving more than $60,000 annually. This not only improved data security and made it easier to automate workflows, but it also freed up employees to focus on the strategic work they were hired to do.",
+    "url": "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "pass": 3
+   },
+   {
+    "quote": "With roughly 160 employees around the globe and a lean IT department, Sensei wanted to automate and streamline. Logging into 15 IT solutions was cumbersome, and it was difficult to connect data and keep it updated across systems. Storing information in multiple tools posed security and data management concerns.",
+    "url": "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "pass": 3
+   },
+   {
+    "quote": "DeMarco says, “Microsoft 365 helps us scale with finite staff and budget while protecting customers’ data and our IT environment. The integration enables us to get more value from existing solutions, and Microsoft apps are the language that employees speak.”",
+    "url": "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "pass": 3
+   },
+   {
+    "quote": "50-999 employees",
+    "url": "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei Revenue 2024: $14.3M Est., $21.5M Raised",
+    "url": "https://getlatka.com/companies/sensei",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Join our Partner program",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to become a partner",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Is the Sensei Partner Program right for you?",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Individual freelancers or one-person agencies",
+    "url": "https://www.sensei.tech/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Cold Mountain Poems (Hanshan)",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash Sensei Kickstart :: SuiteDash :: White Label Client Portal Software, CRM, File Sharing, Project Management, & Invoicing",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Put your brand across the entire experience.",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Assess learning and gather feedback in your brand.",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Prepare to gather and manage reviews in your brand.",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire an Agency Partner",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei Certified Agency Partners",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Complete White Label Branding",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": ", you’ll receive a basic workflow to onboard Contacts into your white labeled Portal, and a basic understanding of how the workflow was built. From there, you can continue to layer in more functionality & content yourself, or you can choose to continue working with your",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei Certified Agency Partner",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital & Website Agencies",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing & SEO Agencies",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Insurance Agencies & Agents",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Travel Agencies & Travel Advisors",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "トップページ - Sensei Japan | Life Assistance & Japanese Lessons",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での暮らしに必要なすべてを、ひとつに",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での生活や仕事に必要な日本語力を身につけます",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたに合った学校を見つけ、日本でのスタートを支えます",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "N.F. (Italy) — Came to Japan for work",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "A.L (U.S.) — Came to Japan for work",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ito Sensei is both consistent and flexible with her teaching plans. The mix of conversation and grammar helped me use Japanese in real life.\"",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "D.R. (New Zealand) — Came to Japan for work",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "\"A great way to learn Japanese, great teachers, and fun lessons. Flexible content to meet your learning needs. Highly recommended.\"",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "A.K. (Turkey) — Came to Japan for study",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks to her, my Japanese improved far more than I expected.",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "E.F. (Poland) — Came to Japan for study",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "\"This service helped me improve my Japanese very quickly.",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "N.B. (U.S.) — Came to Japan for work",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "and I can confidently say she is the best Japanese teacher I’ve ever had.",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "I highly recommend her to anyone serious about learning Japanese.\"",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での暮らしを、安心して始めるために",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "「Sensei（先生）」とは、教師・指導者・案内人を意味する日本語です",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本においてSenseiは、単なる教師ではありません",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での暮らしを築いていく道のりを支える存在です",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、来日前の準備から日本での日々の生活まで、",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で新しい生活を始めると、最初は不安に感じることもあります",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、安全で美しく、とても暮らしやすい国です",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "難しいのは日本そのものではなく、この国での「仕組み」や「進め方」を理解することなのです",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "手続きは複雑で、日本語のみの場合も多い",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "‎Sensei: Learn Japanese JLPT App - App Store",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei: Learn Japanese JLPT",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Featured on Top Education Charts – the definitive all-in-one Japanese learning solution powered by advanced AI technology.",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Master Japanese smarter, faster, and more enjoyably. Sensei Japanese replaces the hassle of juggling traditional grammar books, vocabulary flashcards, and news reader apps. Whether you’re a total beginner starting with Hiragana or an advanced student preparing for the JLPT exam, get a personalized, guided path to fluency.",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Why learners choose Sensei Japanese:",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "• Anime, Manga, and J-culture fans who want to read and understand real Japanese.",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Download Sensei Japanese today and take your first definitive step toward complete Japanese fluency!",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Tadoku: Learn to Read Japanese",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Learn Japanese: Watch & Speak",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Goi: Japanese Vocabulary Kanji",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Learn Japanese, AI Flashcards",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Moji - Learn Japanese & Kanji",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Kaeru - Learn Japanese & Kanji",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Nihondex: Learn Japanese",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "JLPT Plus: Japanese Vocabulary",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Learn Japanese Words & Kanji",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Shinobi: Read & Learn Japanese",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Story Reader",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Bunpro - Simplifying Japanese",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": ". In Japanese, the term literally means \"person born before another\" or \"one who comes before\".",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": ", where it still has the meaning \"teacher\" or \"doctor\". In Japanese,",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "is still used to address people of both genders. It is likely both the current Southern Chinese and Japanese usages are more reflective of its Middle Chinese",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": ", whether they are ethnically Japanese or not. In the",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "is much like the Japanese title \"sensei\".",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese martial arts titles",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Kōjien Japanese Dictionary",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Kenkyusha's New Japanese-English Dictionary",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "\"Aikido Information: Language: Sensei/Shihan as \"Teacher\" in Japanese\"",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Buddhist architecture",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese social concepts and",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese political values",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Light skin in Japanese culture",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese street fashion",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese blue collar workers",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese business terms",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "- Attach images and email when sending feedback",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": ": Includes adding your colors, logos, and brand name to the portal, emails, and login page. Your Sensei will make your Portal look super PRO!",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/sensei-sensei-tech-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Japanese blue collar workers",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: edgeRX -Transforming Elevator Maintenance with Edge AI – SensEI by TDK",
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: edgeRX -Transforming Elevator Maintenance with Edge AI",
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "edgeRX represents a significant leap forward in industrial maintenance by leveraging advanced AI algorithms and edge computing technologies. Key features include:",
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Immediate alerts are sent to technicians, enabling rapid response to potential issues.",
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The transition from traditional maintenance methods to an AI-powered solution like edgeRX highlights several important considerations for manufacturers:",
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "> Smart Manufacturing",
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI in Manufacturing: Where to Start | Presidio x TDK SensEI",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Industrial",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Presidio’s Rajavel Sekaran and Roger Sherwood join Jason Schick of our client and partner TDK SensEI on Embedded Insiders to talk data silos, retrofits and where manufacturers should start with AI.",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers are putting more into AI and automation than ever, yet most plants still find out about a problem only when something breaks.",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "On this episode of Embedded Insiders, Rajavel, Roger and Jason dig into why. Where does plant data get stuck? Do you need new machines to use AI? And what’s the right first project?",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Why most plants are still stuck in reactive mode",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "What the factory of the future looks like",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トップページ - Sensei Japan | Life Assistance & Japanese ... — トップページ - Sensei Japan | Life Assistance & Japanese ... kgmjp.com https://www.kgmjp.com > japanese",
+    "url": "https://www.kgmjp.com/japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei : Learn Japanese JLPT - App Store - Apple — Sensei : Learn Japanese JLPT - App Store - Apple Apple https://apps.apple.com > app > sensei-...",
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei - Wikipedia — Sensei - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Sensei",
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "pass": 3
+   },
+   {
+    "quote": "The Meaning of Sensei : More Than Just \"Teacher\" — The Meaning of Sensei : More Than Just \"Teacher\" Tofugu https://www.tofugu.com > japanese > sensei",
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei : Learn Japanese JLPT - Apps on Google Play — Sensei : Learn Japanese JLPT - Apps on Google Play Google Play https://play.google.com > apps > details",
+    "url": "https://play.google.com/store/apps/details?id=com.meophe.memosensei",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study : edgeRX -Transforming Elevator Maintenance ... — Case Study : edgeRX -Transforming Elevator Maintenance ... SensEI by TDK https://sensei.tdk.com > case-study-ed...",
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI in Manufacturing : Where to Start | Presidio x TDK SensEI — AI in Manufacturing : Where to Start | Presidio x TDK SensEI Presidio https://www.presidio.com > case-studies",
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei consolidates solutions, automates workflows, and ... — Sensei consolidates solutions, automates workflows, and ... Microsoft https://www.microsoft.com > story",
+    "url": "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies - Conductor by Sensei Labs — Customer Case Studies - Conductor by Sensei Labs Conductor by Sensei Labs https://getconductor.com > category",
+    "url": "https://getconductor.com/resources/category/customer-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Sensei Way — Case Studies - Sensei Way Sensei Way http://www.senseiway.com > case-stu...",
+    "url": "http://www.senseiway.com/case-studies.php",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash Sensei Kickstart — SuiteDash Sensei Kickstart SuiteDash https://suitedash.com > suitedash-sens...",
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei – Financial Footprint & Growth Factors – 2026 — Discover Sensei's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei Revenue 2024: $14.3M Est., $21.5M Raised - LATKA — Oct 30, 2026 · Sensei 2024 estimated revenue: $14.3M (up from $2.1M in 2023). Total funding: $21.5M across 2 rounds. 116 employees. Founded 2017. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei Ag – Financial Footprint & Growth Factors – 2026 — With 114 employees generating $145K in revenue per person, the company shows strong productivity metrics. Founded 6 years ago, Sensei Ag is past the early startup phase.",
+    "url": "https://compworth.com/company/sensei-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei: Funding, Investors & Team (Oct 2026) | FundedIQ — Sensei is changing the way the world shops through custom retail experiences designed for humans that generate unique knowledge for businesses. We combine AI, computer vision, and machine learning to build a full-service system that is scalable across multiple formats.",
+    "url": "https://fundediq.co/sensei-sensei-tech-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei 2026 Company Profile: Valuation, Funding & Investors ...Sensei (Educational Software) 2026 Company Profile: Valuation ...Sensei, LLC Information - RocketReach — Information on valuation, funding, cap tables, investors, and executives for Sensei. Use the PitchBook Platform to explore the full profile. Jan 1, 2023 · Information on valuation, funding, cap tables, investors, and executives for ",
+    "url": "https://pitchbook.com/profiles/company/185298-67",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SENSEI (@Sensei_Youtube) / X SENSEI @Sensei_Youtube Youtube - SENSEI (536K) | Use Code SENSEIYT Entertainment & Recreation",
+    "url": "https://x.com/Sensei_Youtube",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei (@sensei) / X Find your flow. Whether you join in small group classes led by practitioners, or move freely on your own, stay healthy and energized with mindful movement. Try breath-linking practices like yoga and tai chi, or nature-inspired practices unique to Sensei like forest bathing.",
+    "url": "https://x.com/sensei",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei_RBX (@Sensei_RBX) / X im not a rivals dev, this account is so u can use his codes in his games. if sensei wants the @ back, let me know. p: @dustbinrat ran by @Vuzarre",
+    "url": "https://x.com/sensei_rbx",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei (@YozakuraSensei) / X Sensei @YozakuraSensei 25 | FFXIV | Eve - Raison D’Etre | YouTuber | Watch/Read World Trigger | Email: YozakuraSensei@gmail.com Georgia, USA youtube.com/@YozakuraSensei",
+    "url": "https://x.com/YozakuraSensei",
+    "pass": 3
+   },
+   {
+    "quote": "先生 (@sensei__) / X 【通販のお知らせ】 10/3 (金) 21時 在庫反映予定 ┈┈┈┈┈┈┈┈┈┈ 🅰️イメージ 硬質ケースデコ sensei-19.booth.pm/items/8889647 ┈┈┈┈┈┈┈┈┈┈ 「入荷お知らせリクエスト」を制作数の参考にさせていただきますので押していただけると嬉しいです！",
+    "url": "https://x.com/sensei__",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 先生 (@sensei__) / X 先生 @sensei__ Show translation enst🪷🐍🔪・🏐🦉・🌈🕒・多趣味・日常・成人済・無断転載禁止・たまにグッズ・アクセサークル【次回→未定】 4階席",
+    "url": "https://x.com/sensei__/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sensei - LinkedIn Guiding the world toward greater wellbeing | Sensei is an evidenced-based company that develops technology and offers healthier living programs and services to help people find greater wellbeing.",
+    "url": "https://www.linkedin.com/company/hellosensei/",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Sensei? - LinkedIn May 30, 2023 · A sensei is not merely a teacher in the traditional sense, but rather a mentor and guide who plays a vital role in the development of their students.",
+    "url": "https://www.linkedin.com/pulse/what-sensei-steven-johnson",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei | LinkedIn At Sensei, we’re not just building a platform; we’re shaping the future of education. Join us in transforming the way students learn, grow, and succeed in life.",
+    "url": "https://in.linkedin.com/company/teamsensei",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei College - LinkedIn Recipient of the MSME Champion of Cause Award 2024 Sensei College: Empowering youth with skills that build wealth and transform industry. We are a leading skills institution dedicated to...",
+    "url": "https://ke.linkedin.com/company/senseicollege",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sensei - FacebookSensei College - FacebookSENSEI - FacebookKI-SENSHI Martial Arts | Tolleson AZ - FacebookSensei | Parañaque - Facebooksensei - Facebook先生sensei手作千層 - Facebook Jul 9, 2026 · At Sensei, our three interconnected paths— Move, Nourish, and Rest— are enriched by one another, forming an essential balance that requires commitment, calibration and consistency to one’s self. Oct 23, 2026 · ",
+    "url": "https://www.facebook.com/sensei/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensei College - FacebookSENSEI - FacebookKI-SENSHI Martial Arts | Tolleson AZ - FacebookSensei | Parañaque - Facebooksensei - Facebook先生sensei手作千層 - Facebook Oct 23, 2026 · Sensei College to the World! 🌍 From Congo to Ethiopia, Liberia to the USA, Sudan, Somalia, Uganda, Tanzania, Nigeria and beyond, we’re transforming industries through practical skills that cross borders. Oct 22, 2026 · 𝗠𝗮𝗸𝗲 𝗲𝘃",
+    "url": "https://www.facebook.com/SenseiCollege/",
+    "pass": 3
+   },
+   {
+    "quote": "SENSEI - Facebook Oct 22, 2026 · 𝗠𝗮𝗸𝗲 𝗲𝘃𝗲𝗿𝘆 𝗺𝗼𝗺𝗲𝗻𝘁 𝗼𝗳 𝗿𝗲𝘀𝘁 𝗳𝗲𝗲𝗹 𝗮 𝗹𝗶𝘁𝘁𝗹𝗲 𝗺𝗼𝗿𝗲 𝗹𝘂𝘅𝘂𝗿𝗶𝗼𝘂𝘀. Discover the 𝗣𝗿𝗼 𝗟𝘂𝘅𝗲 𝗗𝗠𝗘 by SENSEI, featuring customizable massage programs, dedicated calf and foot care, and Zero Gravity ...",
+    "url": "https://www.facebook.com/senseiwellness/",
+    "pass": 3
+   },
+   {
+    "quote": "KI-SENSHI Martial Arts | Tolleson AZ - FacebookSensei | Parañaque - Facebooksensei - Facebook先生sensei手作千層 - Facebook Happy Kick Birthday, Sensei Guillermo! Thank you for your leadership, dedication, and warrior spirit. Your passion and commitment continue to inspire the entire Ki-Senshi family every day. 👊💪🎉 Nov 2, 2026 · Let Sensei handle the food. 🍣 Pre-order your favorites, choose your preferre",
+    "url": "https://www.facebook.com/KISENSHI/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sensei.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/workplaces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/leisure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/health-and-wellness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/solutions/pod",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/solutions/cabinet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/solutions/lane",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/industries/supermarkets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensei.tech/clients",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/66e149c6cc996f98df500d28/6968fcc8cda13ccb3fb53b6f_logos-Website_Digi.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/66e149c6cc996f98df500d28/6968fcb4840bc8294169d207_logos-Website_Jordao.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/66e149c6cc996f98df500d28/6968fc9efeea36c4a1c01d2e_logos-Website_AlmaScience.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/66e149c6cc996f98df500d28/6968fc78fe2197590d5e3ad9_logos-Website_INESC%20ID.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boke-orz.com/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kgmjp.com/japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sensei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tofugu.com/japanese/sensei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getconductor.com/resources/category/customer-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/suitedash-sensei-kickstart/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sensei",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sensei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sensei-ag",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/sensei-sensei-tech-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Sensei_Youtube",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sensei",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sensei_rbx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YozakuraSensei",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hellosensei/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/what-sensei-steven-johnson",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/teamsensei",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ke.linkedin.com/company/senseicollege",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sensei/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SenseiCollege/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/senseiwellness/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KISENSHI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sensei__",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sensei__/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sensei 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "https://www.nikkei.com/article/DGXZQOUC047AA0U6A101C2000000/",
+    "https://exbridge.jp/ai-system/sensei/",
+    "https://game.watch.impress.co.jp/docs/news/2144786.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sensei 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://boke-orz.com/agency/",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.youtube.com/watch?v=jNmmMo1EQkE",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://kuchikomisensei.jp/",
+    "https://b-seeds.com/column/agency-types",
+    "https://www.provej.jp/column/distributor-vs-agent-2026/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensei Japan",
+   "results": [
+    "https://www.kgmjp.com/japanese/",
+    "https://apps.apple.com/us/app/sensei-learn-japanese-jlpt/id6467135284",
+    "https://en.wikipedia.org/wiki/Sensei",
+    "https://www.tofugu.com/japanese/sensei/",
+    "https://play.google.com/store/apps/details?id=com.meophe.memosensei",
+    "https://senseijapanesecenter.com/",
+    "https://theculturetrip.com/asia/japan/articles/whats-the-difference-between-sensei-and-senpai",
+    "https://www.stepupjapanese.com/blog/2019/02/whats-difference-between-sensei-kyoshi",
+    "https://japandaily.jp/the-meaning-of-sensei-and-how-to-use-it-properly-in-japanese/",
+    "https://jlptsensei.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sensei manufacturing customer case study",
+   "results": [
+    "https://sensei.tdk.com/case-study-edgerx-transforming-elevator-maintenance-with-edge-ai/",
+    "https://www.presidio.com/learn-from-us/case-studies/tdk-sensei-predictive-maintenance/",
+    "https://www.microsoft.com/en/customers/story/20297-sensei-microsoft-365",
+    "https://getconductor.com/resources/category/customer-case-studies",
+    "http://www.senseiway.com/case-studies.php",
+    "https://safetychain.com/resources/case-studies",
+    "https://shinkamanagement.com/asksensei-lectures/",
+    "https://searchsensei.ai/casestudies/",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.casestudies.com/company/sensei-labs/case-study/leading-industrial-products-manufacturing-company-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensei white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/suitedash-sensei-kickstart/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://webinone.com/reseller-program",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://senseimarketing.com/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://learn.g2.com/what-is-a-partner-program"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensei founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/sensei",
+    "https://getlatka.com/companies/sensei",
+    "https://compworth.com/company/sensei-ag",
+    "https://fundediq.co/sensei-sensei-tech-funding/",
+    "https://pitchbook.com/profiles/company/185298-67",
+    "https://pitchbook.com/profiles/company/897253-66",
+    "https://rocketreach.co/sensei-llc-profile_b5c5392cf42e0dd8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sensei",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Sensei",
+   "results": [
+    "https://x.com/Sensei_Youtube",
+    "https://x.com/sensei",
+    "https://x.com/sensei_rbx",
+    "https://x.com/YozakuraSensei",
+    "https://x.com/Namaashi_Sensei",
+    "https://x.com/SenseiWarrior",
+    "https://x.com/FGC_Sensei/status/2119826254727655643"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sensei",
+   "results": [
+    "https://www.linkedin.com/company/hellosensei/",
+    "https://www.linkedin.com/pulse/what-sensei-steven-johnson",
+    "https://in.linkedin.com/company/teamsensei",
+    "https://ke.linkedin.com/company/senseicollege",
+    "https://ke.linkedin.com/in/kang-ethe-john-2aaa652b9",
+    "https://ca.linkedin.com/company/sensei-ag",
+    "https://ee.linkedin.com/in/illimar-paul-6050129"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sensei",
+   "results": [
+    "https://www.facebook.com/sensei/",
+    "https://www.facebook.com/SenseiCollege/",
+    "https://www.facebook.com/senseiwellness/",
+    "https://www.facebook.com/KISENSHI/",
+    "https://www.facebook.com/senseiph/",
+    "https://www.facebook.com/senseiarg/",
+    "https://www.facebook.com/senseicakeofficial/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensei note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://senseinote.com/background",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://senseinote.com/",
+    "https://project.nikkeibp.co.jp/pc/atcl/column/15/012100013/011400021/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sensei X 投稿",
+   "results": [
+    "https://x.com/sensei__",
+    "https://x.com/sensei__/with_replies",
+    "https://x-sou.com/ja/u/KEMONO_SENSEI",
+    "https://sunkoi.fanbox.cc/posts/12117554",
+    "https://www.instagram.com/_sensei._x/",
+    "https://sunkoi.fanbox.cc/posts/11806029",
+    "https://sensei087026.fanbox.cc/posts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

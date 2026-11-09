@@ -1,0 +1,1587 @@
+{
+ "name": "Sift",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T21:30:37.286004+00:00",
+ "official_url": "https://sift.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2011年6月",
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2025年4月",
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fraud Prevention Platform for Digital Business | Sift",
+    "url": "https://sift.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud prevention at the speed of AI",
+    "url": "https://sift.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Sift's model performance enables us to skip review queues that would otherwise slow down real-time food ordering, keeping approval and conversion rates high.”",
+    "url": "https://sift.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Sift is fantastic because it accurately prevents fraud losses, increases our efficiency, and lets our customers use our platform without friction.”",
+    "url": "https://sift.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud Prevention Case Studies & Customer Stories | Sift",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Approve more transactions with real-time fraud decisions.",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Approve more and decline fewer legit orders.",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Trade stories and strategies with 1,500+ fraud pros.",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Practical playbooks for building and scaling fraud operations.",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Training and certification for fraud and trust professionals.",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Link Money Spearheads Secure Open Banking and Better User Experiences in the U.S. with Sift",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Turo Improves Customer Experience and Efficiency with Sift",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartproxy Created a Better User Experience and Reduced Customer Friction with Sift",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How an email marketing platform reduced manual review time by over 90%",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Website Privacy Notice",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "ROI with Sift Payment Protection",
+    "url": "https://sift.com/resources/case-studies/paulas-choice-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Among the many things that Paula’s Choice missed while using the competitor product, was the predictive power of the Sift Score. The wealth of data and ability for automation would have been too difficult to replicate on their own. Paula’s Choice also came to rely on Sift Workflows, specifically their ease of use and the ability to quickly adapt to new fraud trends.",
+    "url": "https://sift.com/resources/case-studies/paulas-choice-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift is fantastic because it accurately prevents fraud losses, increases our efficiency, and lets our customers use our platform without friction.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision-Driven Fraud Prevention with Sift",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift emerged as the ideal solution, offering a flexible model where Tutory could control decision-making through customizable automation that consider a wide range of events and rules while maximizing legitimate sales. The implementation process went smoothly due to the close support and guidance that Sift provided, with regular check-ins, thorough documentation, and speedy and accurate support.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift’s payment fraud solutions enable Tutory to identify fraudulent transactions with a highly accurate, tailored approach. The platform excels in filtering out actual fraud while minimizing false positives, ensuring only legitimate transactions are approved.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift allows our business to leverage state-of-the-art artificial intelligence for fraud protection, all with just a single backend developer handling the integration and no additional data science support needed.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Tutory saw a marked improvement in performance since switching from their previous provider to Sift, resulting in an 83% reduction in transactions needing manual review. The time saved was substantial—while analysts previously spent entire days on reviews, their only analyst needed just 30 minutes daily to complete all reviews, following minimal training.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Tutory also successfully mitigated its first detected organized fraud attack, thanks to Sift’s ability to identify common fraud indicators such as multiple emails and IP addresses associated with the same fraudster or group of fraudsters. This marked a significant improvement over past experiences, where similar attempts led to substantial losses and disruptions with payment processors.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "I highly recommend Sift for its exceptional flexibility, providing businesses with models that can be quickly customized to meet specific needs in a very short time.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "About Sift: Fraud Prevention Company Trusted by 700+ Brands",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Presenting our legacy of AI-driven decisioning at enterprise scale.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Customer Experience",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Raj Jain is Sift's Chief Product Officer. As a seasoned technology executive, he brings more than two decades of leadership across high-growth companies and venture-backed environments.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Johannes Hoech is Sift's Chief Marketing Officer. As a Silicon Valley executive and entrepreneur, he boasts over three decades of experience designing, building, and scaling high-growth tech ventures.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "As Sift's Chief People Officer, Tina Liu leads talent strategy, culture, and organizational development to support growth and employee success, with a strong commitment to diversity and inclusion.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Ajay Gopal is Sift's Chief Strategy Officer. As a technologist and PhD, he connects cutting-edge research with commercial innovation in enterprise software.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Jason Fama is Sift's SVP of Engineering, overseeing platform development and technical innovation. As a founder and CTO of companies like TrampolineAI, he brings startup-scale products to life.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Kevin helps customers implement strategies that cross-functionally align risk and revenue programs. Prior to Sift, he spent over 14 years leading various risk, chargeback, spam/scams, and trust and safety organizations at Facebook, Square, and Google.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "A Customer Success executive with roots at Intuit and Nokia, Brittany specializes in building scalable CS operating systems that drive retention, expansion, and long-term customer value. She has repeatedly built teams, engagement models, and support frameworks from the ground up in high-growth environments, translating customer outcomes into durable revenue growth.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to help everyone trust the internet. Meet the investors driving the future of AI-powered fraud prevention forward and defining how digital businesses grow fearlessly.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Products in the Leader quadrant in the Grid®️ Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "G2 Enterprise Leader",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Products in the Leader quadrant in the Enterprise Grid®️ Report are rated highly by G2 users and have substantial Satisfaction and Market Presence scores.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Products in the Leader tier in the Momentum Grid®️ rank in the top 25% of their category's products by their users.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our goal is to foster a diverse, equitable, and inclusive workplace where every team member feels empowered to share their unique perspectives. We believe diversity drives innovation, equity is essential, and inclusion is a basic human need. Our vision is to create an environment where every member of our team can freely express themselves.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Open the door to your next professional opportunity, and let’s build a safer internet together.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore stories, press releases, and other company announcements.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift Maintains #1 Position Across All Fraud Prevention Categories in G2’s Fall 2025 Reports",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sift Score API integrates with in-house risk engines fluently and without friction. When your internal risk engine submits real-time data via API calls (e.g., IP address, email, device fingerprint, transaction details), Sift cross-references that input against our Global Data Network.",
+    "url": "https://sift.com/solutions/sift-score-api/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether your team is running multiple custom machine learning models or relying on a rules-based risk engine, our API delivers data-driven precision directly within your existing fraud stack.",
+    "url": "https://sift.com/solutions/sift-score-api/",
+    "pass": 1
+   },
+   {
+    "quote": "Online Payment Fraud Prevention Solutions | Sift",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform Payment Fraud Prevention into a",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift analyzes every transaction in milliseconds using global data, real fraud patterns, and expert insight. Stop unauthorized transactions, card testing, and payment abuse with explainable decisions that approve more legitimate customers, protect margins, and drive growth.",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Payment Fraud is a Growth Problem, Not Just a Risk Problem",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Payment fraud spans stolen cards, card testing, alternative payment abuse, and costly disputes. As attacks evolve, broad, one-size-fits-all solutions may cut fraud losses, but often at the cost of lower approval rates, added friction, and lost legitimate revenue. Businesses end up paying twice: once for the fraud that gets through, and again for the real customers they turn away.",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "in projected global e-commerce fraud losses annually by 2029",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "A no-code decision engine, workflow simulation, and block and accept lists let teams test policy changes on historical traffic and launch them without a developer. Turnkey integrations with IDV, 3DS, KYC, and AML providers extend coverage without added complexity.",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Approve More, Question Less",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "False declines can cost businesses as much as fraud itself. Highly accurate risk scoring gives teams the confidence to approve more legitimate transactions instead of defaulting to caution.",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift helps fraud programs grow without adding headcount at the same pace. Routine decisions run automatically, so teams spend less time in queues and more time on strategy.",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "with Sift Payment Protection",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "A Tactical Guide to Payment Fraud Prevention",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how real fraud teams use Sift to stop risk and secure revenue.",
+    "url": "https://sift.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop account takeover before it turns into revenue loss.",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Kevin helps customers implement strategies that cross-functionally align risk and revenue programs. Prior to Sift, he spent over 14 years leading various risk, chargeback, spam/scams, and trust and safety organizations at Facebook, Square, and Google.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "A Customer Success executive with roots at Intuit and Nokia, Brittany specializes in building scalable CS operating systems that drive retention, expansion, and long-term customer value. She has repeatedly built teams, engagement models, and support frameworks from the ground up in high-growth environments, translating customer outcomes into durable revenue growth.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Brent Sapiro is Sift’s Chief Revenue Officer. He brings an established track record of driving revenue, scaling operations, building high-performing teams, and delivering exceptional customer experiences.",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": ". But limitations in data diversity and scope create security blind spots affecting every digital interaction. Fraud tactics like card testing and credential stuffing stay hidden until they cause significant revenue loss—or break the hard-earned trust your customers have in your business.",
+    "url": "https://sift.com/solutions/sift-score-api/",
+    "pass": 1
+   },
+   {
+    "quote": "Payment fraud spans stolen cards, card testing, alternative payment abuse, and costly disputes. As attacks evolve, broad, one-size-fits-all solutions may cut fraud losses, but often at the cost of lower approval rates, added friction, and lost legitimate revenue. Businesses end up paying twice: once for the fraud that gets through, and again for the real customers they turn away.",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Before It Costs Trust and Revenue",
+    "url": "https://sift.com/solutions/account-takeover-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Bot detection can identify automated traffic, but not whether the person behind a login belongs there. Using stolen or phished credentials, attackers can quietly maintain access for weeks before draining stored value or stealing data. By then, the damage extends beyond the account to customer trust, retention, and revenue.",
+    "url": "https://sift.com/solutions/account-takeover-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Staying one step ahead of ATO and scams while growing revenue",
+    "url": "https://sift.com/solutions/account-takeover-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s subscriptions, digital content, or in-app items, Sift’s platform enables internet & software businesses to protect revenue while delivering standout, seamless customer experiences.",
+    "url": "https://sift.com/solutions/internet-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Where Revenue Grows, Fraudsters Follow",
+    "url": "https://sift.com/solutions/internet-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Safeguard revenue by preventing fraud with instant detection and risk decisioning at every stage of the digital user journey.",
+    "url": "https://sift.com/solutions/internet-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift enables businesses to refocus resources on growth by automating fraud decisioning to guard trusted user accounts. With Sift, businesses can win disputes and prevent fraudulent transactions without compromising the user experience or limiting opportunities to drive revenue.",
+    "url": "https://sift.com/solutions/internet-software/",
+    "pass": 1
+   },
+   {
+    "quote": "in vendor revenue secured",
+    "url": "https://sift.com/solutions/internet-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Create Deeper Customer Trust to Drive Higher Revenue",
+    "url": "https://sift.com/solutions/digital-commerce/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop wasting revenue on review.",
+    "url": "https://sift.com/solutions/digital-commerce/",
+    "pass": 1
+   },
+   {
+    "quote": "When we started using Sift, Harry’s chargeback rate decreased by about 85%, which is great because it helps us continue to be a company that people can trust shopping with.",
+    "url": "https://sift.com/solutions/digital-commerce/",
+    "pass": 1
+   },
+   {
+    "quote": "Trust and Safety Senior Associate at Harry’s",
+    "url": "https://sift.com/solutions/digital-commerce/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent revenue leakage by stopping malicious chargeback activity at the source.",
+    "url": "https://sift.com/solutions/digital-commerce/",
+    "pass": 1
+   },
+   {
+    "quote": "VIP players account for 70% of online gaming & gambling revenue. Ensure they remain your biggest fans with white glove treatment and seamless payouts using AI-based tools built by digital gaming leaders.",
+    "url": "https://sift.com/solutions/online-gambling/",
+    "pass": 1
+   },
+   {
+    "quote": "Of total revenue for travel and tourism will be generated through online sales by 2028",
+    "url": "https://sift.com/solutions/travel-transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading travel and transportation businesses rely on Sift’s AI-fueled platform as the ultimate revenue generation center.",
+    "url": "https://sift.com/solutions/travel-transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "With convenient options like mobile ordering, self-service kiosks, and online promotions, businesses that cater to customers’ changing habits are seeing explosive growth. But with that growth and revenue comes a side of risk—and fraudsters are hungry.",
+    "url": "https://sift.com/solutions/food-delivery/",
+    "pass": 1
+   },
+   {
+    "quote": "Projected revenue in the online food delivery market for 2024.",
+    "url": "https://sift.com/solutions/food-delivery/",
+    "pass": 1
+   },
+   {
+    "quote": "In annual revenue lost to fraud for the average fintech company*",
+    "url": "https://sift.com/solutions/fintech-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Sifters is open to Sift Customers, Partners, and Employees",
+    "url": "https://sift.com/community/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customer community isn’t just for customers, but it’s built with their needs front and center. Get direct insights and input from Sift employees, including our dedicated team of fraud analysts and Console experts.",
+    "url": "https://sift.com/community/",
+    "pass": 1
+   },
+   {
+    "quote": "As the pioneers of Digital Trust & Safety, we help more than 34,000 sites and apps navigate the fine balance between growing revenue and protecting their business.",
+    "url": "https://sift.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "放牧・ケージフリーを核に 2020年IPO、上場初日に株価+60%",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Principal Revenue Accountant, Sift",
+    "url": "https://www.m3ter.com/customers/sift",
+    "pass": 3
+   },
+   {
+    "quote": "Shelly Glassic, Principal Revenue Accountant, Sift",
+    "url": "https://www.m3ter.com/customers/sift",
+    "pass": 3
+   },
+   {
+    "quote": "So far, Sift has reduced its billing period by 2 days without additional time or effort from its employees.",
+    "url": "https://www.m3ter.com/customers/sift",
+    "pass": 3
+   },
+   {
+    "quote": "Nicole Agriesti, Senior Revenue Accountant",
+    "url": "https://www.m3ter.com/customers/sift",
+    "pass": 3
+   },
+   {
+    "quote": "But, perhaps most importantly, the company is now confident that it will be able to keep growing and scaling without fears of more manual processes or overtime for employees.",
+    "url": "https://www.m3ter.com/customers/sift",
+    "pass": 3
+   },
+   {
+    "quote": "The scalability of m3ter will support our growth into the future. We've gained so much efficiency and time, and we can trust the data. m3ter has made our revenue process cleaner, quicker, and more efficient. We don't have the stress during month end that we had previously. The whole team feels better.",
+    "url": "https://www.m3ter.com/customers/sift",
+    "pass": 3
+   },
+   {
+    "quote": "to reflect the complex challenges of business fraud. This month, Sift created multiple partnership tiers based on technical capabilities, product certifications, and revenue goals, and also expanded the avenues for partners to work with vendors.",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "MSSPs and other channel partners will need these features to grow their capabilities and tap into revenue opportunities in a global fraud detection and prevention market that is projected to grow from $28.8 billion last year to",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Sift: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   },
+   {
+    "quote": "Sift Healthcare delivers advanced AI-driven solutions that optimize the healthcare revenue cycle.",
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Founder and CEO of Sift Healthcare. \"With the support of B Capital, Sift is well-positioned to scale our Payments Intelligence Platform in new and existing markets and expand our impact within the revenue cycle, transforming how providers use their data to optimize payment outcomes.\"",
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Our investment underscores our confidence in Sift's AI-based platform to reshape revenue cycle processes and drive significant advancements in healthcare financial operations, and we are excited to support Sift Healthcare in this next phase of growth,\" added",
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "pass": 3
+   },
+   {
+    "quote": "RevTrack, a process improvement engine that tracks KPIs and payment trends and delivers actionable insights for revenue cycle optimization.",
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2017, Sift Healthcare is a Milwaukee-based healthcare payments analytics and data science company. Sift's Payments Intelligence Platform, AI solutions and advanced analytics enable healthcare providers to fully leverage their payments data to reduce write-offs, accelerate insurance reimbursement, improve patient payment strategies and optimize revenue cycle efficiency.",
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sift Healthcare, a healthcare payments intelligence company leveraging data science and AI to improve healthcare reimbursement and revenue cycle...",
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "pass": 3
+   },
+   {
+    "quote": "The new dimension 'The Sift' appearing in 'Minecraft Dungeons 2' is scheduled to arrive in the main Minecraft game next year!",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "How an email marketing platform reduced manual review time by over 90%",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Tutory also successfully mitigated its first detected organized fraud attack, thanks to Sift’s ability to identify common fraud indicators such as multiple emails and IP addresses associated with the same fraudster or group of fraudsters. This marked a significant improvement over past experiences, where similar attempts led to substantial losses and disruptions with payment processors.",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sift Score API integrates with in-house risk engines fluently and without friction. When your internal risk engine submits real-time data via API calls (e.g., IP address, email, device fingerprint, transaction details), Sift cross-references that input against our Global Data Network.",
+    "url": "https://sift.com/solutions/sift-score-api/",
+    "pass": 1
+   },
+   {
+    "quote": "Built-in email and SMS verification deploy quickly and can be branded as your own. Teams can configure step-up experiences without a heavy engineering lift while keeping authentication, decisioning, and investigation in one place.",
+    "url": "https://sift.com/solutions/account-takeover-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer customer support emails",
+    "url": "https://sift.com/solutions/internet-software/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Cutting False Positives and Review 83%: Tutory Case Study",
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "About Sift: Fraud Prevention Company Trusted by 700+ Brands",
+    "url": "https://sift.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading businesses",
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading businesses",
+    "url": "https://sift.com/solutions/account-takeover-fraud/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading businesses",
+    "url": "https://sift.com/solutions/fake-account-creation/",
+    "pass": 1
+   },
+   {
+    "quote": "Online gaming holds immense growth potential, but also comes with a high risk of loss. Operators must contend with high player churn rates, fierce competition, complex multi-account abuse, and regulatory hurdles as they strive to seize new growth opportunities.",
+    "url": "https://sift.com/solutions/online-gambling/",
+    "pass": 1
+   },
+   {
+    "quote": "Player trust ranks as one of the highest factors determining player retention. Sift enables operators to embed trust in their brand by quickly and consistently meeting SLAs and protecting against account takeovers. Reduce manual reviews by 60% and leverage AI-driven player behavior tracking to spot and prevent account hijacking from doing damage.",
+    "url": "https://sift.com/solutions/online-gambling/",
+    "pass": 1
+   },
+   {
+    "quote": "19x ROI on Creator Platform Fraud: Patreon Case Study | Sift",
+    "url": "https://sift.com/resources/case-studies/patreon/",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting Chargebacks 99% in Food Delivery: ChowNow Case Study",
+    "url": "https://sift.com/resources/case-studies/chownow/",
+    "pass": 1
+   },
+   {
+    "quote": "With daily management from a small, dedicated fraud team, ChowNow has held a stable average block rate below 2% and an average fraud rate below 0.03%. Keeping fraud losses minimal lets ChowNow keep covering chargeback and fraud costs for its restaurant partners, so operators can spend their time running their business instead of managing fraud.",
+    "url": "https://sift.com/resources/case-studies/chownow/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading teams across every industry.",
+    "url": "https://www.siftstack.com/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": ". Protect customers and your brand by proactively preventing attacks on trusted accounts and automatically surfacing suspicious logins for verification.",
+    "url": "https://sift.com/solutions/travel-transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your users and your brand by defending against account takeover attacks. Automatically surface suspicious sessions for additional levels of verification at risky value extraction points.",
+    "url": "https://sift.com/solutions/fintech-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Sift Expands Partner Program to Address Evolving AI-Driven Fraud | news | MSSP Alert",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Sift Expands Partner Program to Address Evolving AI-Driven Fraud",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "updated its partner program",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership program includes three categories: service providers such as MSSPs and MSPs that assist with platform implementation, influence partners who refer customers to Sift, and authorized resellers who directly sell Sift products.",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits include dedicated partner support with direct access to partner managers and sales engineers, marketing tools like co-branded collateral and market development funds, technical training and certification programs, access to product demos and sandbox technologies, and deal registration and referral programs.",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "MSSPs and other channel partners will need these features to grow their capabilities and tap into revenue opportunities in a global fraud detection and prevention market that is projected to grow from $28.8 billion last year to",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SIFT Japan 持続可能な食料システム転換のための投資イニシアチブ – 持続可能で動物にやさしい食の未来への転換を見極め推進する",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "日本を対象にした調査で、レストランで動物福祉対応商品を扱った際の消費者反応や付加価値を調べた結果、商品のアニマルウェルフェアの経歴情報を提供すると、",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "日本総合研究所によると国内のアニマルウェルフェア付加価値総額",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月、持続可能な食料サプライチェーンを実現し、アニマルウェルフェアアを向上させるためのイニシアチブを日本で設立",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "日本獣医生命科学大博士前期課程修了（応用生命科学専攻）",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "認定NPO法人アニマルライツセンター代表理事、日本エシカル推進協議会副会長",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ホクリヨウ（1384）に対する株主提案の実施について",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "― SIFT Japanによるアニマルウェルフェアおよびケージフリーへの移行提案 ― 認定NPO法人アニマルラ…",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "13日に東京都港区のマクニカ品川オフィスで行われた記者発表会で第3営業統括部長兼カスタマーサービス統括部長の真野大治郎氏は、「キャッシュレス取引が伸びているが、同時に不正利用によるEC加盟店の被害の拡大も増えている」と説明した",
+    "url": "https://www.risktaisaku.com/articles/-/19844",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、「令和元年東日本台風」と命名された2019年10月の台風第19号をとりあげる",
+    "url": "https://www.risktaisaku.com/articles/-/19844",
+    "pass": 3
+   },
+   {
+    "quote": "Siftに関するお問い合わせは、Siftの代理店として、日本での提供・サポートを",
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "pass": 3
+   },
+   {
+    "quote": "行っている株式会社DGビジネステクノロジー（旧：株式会社スクデット）が対応いたします",
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "pass": 3
+   },
+   {
+    "quote": "Siftのソリューションは、代理店である株式会社DGビジネステクノロジー（旧：株式会社スクデット）が",
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区銀座3-9-11 紙パルプ会館10階",
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "pass": 3
+   },
+   {
+    "quote": "これを日本の授業に応用する際には、以下のワークシートを使うと効果的です",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SIFT Japan 持続可能な食料システム転換のための投資 ... — SIFT Japan 持続可能な食料システム転換のための投資 ... SIFT Japan https://siftjapan.org",
+    "url": "https://siftjapan.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift （シフト）：AIオンライン不正検知ソリューション — Sift （シフト）：AIオンライン不正検知ソリューション 株式会社DGビジネステクノロジー https://frauddetection.dgbt.jp > 不正検知 / 決済最適化",
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift (@get_sift) • Instagram photos and videos — Sift (@get_sift) • Instagram photos and videos Instagram https://www.instagram.com > get_sift",
+    "url": "https://www.instagram.com/get_sift/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift | Observability Platform for Mission-Critical Hardware — Sift | Observability Platform for Mission-Critical Hardware siftstack.com https://www.siftstack.com",
+    "url": "https://www.siftstack.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift Customer Success Story - m3ter — Sift Customer Success Story - m3ter m3ter https://www.m3ter.com > sift",
+    "url": "https://www.m3ter.com/customers/sift",
+    "pass": 3
+   },
+   {
+    "quote": "Sift - LinkedIn — Sift - LinkedIn LinkedIn https://www.linkedin.com > sift-stack",
+    "url": "https://www.linkedin.com/company/sift-stack",
+    "pass": 3
+   },
+   {
+    "quote": "Fraud Prevention Case Studies & Customer Stories | Sift — Fraud Prevention Case Studies & Customer Stories | Sift Sift https://sift.com > case-studies",
+    "url": "https://sift.com/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift (company) - Wikipedia — Sift (company) - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Sift_...",
+    "url": "https://en.wikipedia.org/wiki/Sift_(company)",
+    "pass": 3
+   },
+   {
+    "quote": "Blocking 50,000 Fake Partners: PartnerStack Case Study — Blocking 50,000 Fake Partners: PartnerStack Case Study Sift https://sift.com > case-studies > partne...",
+    "url": "https://sift.com/resources/case-studies/partnerstack-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift Expands Partner Program to Address Evolving AI-Driven ... — Sift Expands Partner Program to Address Evolving AI-Driven ... MSSP Alert https://www.msspalert.com > news > s...",
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "pass": 3
+   },
+   {
+    "quote": "Sift : Revenue , Competitors, Alternatives - Growjo — Sift : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Sift",
+    "url": "https://growjo.com/company/Sift",
+    "pass": 3
+   },
+   {
+    "quote": "Sift Series E: $50M Raised at $1B+ Valuation - Sift Science — Sift Series E: $50M Raised at $1B+ Valuation - Sift Science Sift https://sift.com > Blog > Digital Trust",
+    "url": "https://sift.com/blog/sift-series-e-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift - 2026 Company Profile, Team, Funding & Competitors — Sift - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/sift/__iwifeH7dppV2HinBKbwt574GZJW-HvO2cfIpImwXOkY",
+    "pass": 3
+   },
+   {
+    "quote": "SIFT HEALTHCARE RAISES $20M SERIES B FUNDING ... — SIFT HEALTHCARE RAISES $20M SERIES B FUNDING ... PR Newswire https://www.prnewswire.com > sift-he...",
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sift's Competitors, Revenue , Number of Employees ... - Owler — Sift's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > ianrhill",
+    "url": "https://www.owler.com/company/ianrhill",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Minecraft News] New Dimension 'The Sift ' Unlocked!? A ... - note [Minecraft News] New Dimension 'The Sift ' Unlocked!? A ... - note note https://note.com > dolightmishiyu",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "第4回 SIFT 法と授業設計 - 台湾に学ぶメディアリテラシー教育 第4回 SIFT 法と授業設計 - 台湾に学ぶメディアリテラシー教育 note https://note.com > 教育・学び > 教育・学び",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Minecraft News] New Dimension 'The Sift' Unlocked!? A Summary of the Latest Update Featuring Ice Caves and New Mobs｜ドライト",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Minecraft News] New Dimension 'The Sift' Unlocked!? A Summary of the Latest Update Featuring Ice Caves and New Mobs",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At the recently streamed 'Minecraft Live,' a series of major announcements that will shake up the future of Minecraft were revealed one after another!",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this video, based on my commentary, I will deliver a condensed look at the hot topics buzzing in the community, including",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "new elements in the official Minecraft winter update",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the evolution of Dungeons 2",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", and even the surprise announcement of the",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "first 'fourth dimension' in 14 years",
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "第4回 SIFT法と授業設計 - 台湾に学ぶメディアリテラシー教育｜富永道也｜テクノロジスト",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   },
+   {
+    "quote": "第4回 SIFT法と授業設計 - 台湾に学ぶメディアリテラシー教育",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は先生だけでなく一般の方にも役立ちます。",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   },
+   {
+    "quote": "先生のためのメディアリテラシー授業: 信頼できる情報を見抜く「SIFT法」を体験する",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   },
+   {
+    "quote": "導入：スピードが正義の情報社会で「立ち止まる」勇気",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   },
+   {
+    "quote": "SNSで流れてくる情報は、真偽が不確かなものでも、瞬く間に拡散します。そのスピードについていこうとするあまり、私たちは**「立ち止まって確認する」",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   },
+   {
+    "quote": "という最も重要なプロセスを怠りがちです。台湾では、この「立ち止まって確認する」ための具体的な",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   },
+   {
+    "quote": "「SIFT法」**が広く教員向け研修で取り入れられています。",
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Minecraft Unveils The Sift , First New Dimension in 14 Years - X Minecraft Unveils The Sift , First New Dimension in 14 Years - X X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2103900875102040321",
+    "pass": 3
+   },
+   {
+    "quote": "Lesson 2 The Sift has a new type of liquid named Ichor ... - X Lesson 2 The Sift has a new type of liquid named Ichor ... - X X https://x.com > @harristic_",
+    "url": "https://x.com/harristic_/status/2104579943623807264",
+    "pass": 3
+   },
+   {
+    "quote": "silentwosperer     on X: \"Full sift breakdown here! https://t.co ... silentwosperer     on X: \"Full sift breakdown here! https://t.co ... X https://x.com > @silentwisperer_",
+    "url": "https://x.com/silentwisperer_/status/2104606387116609580",
+    "pass": 3
+   },
+   {
+    "quote": "harri on X: \"Everything added to Minecraft while the Sift has ... harri on X: \"Everything added to Minecraft while the Sift has ... X https://x.com > @harristic_",
+    "url": "https://x.com/harristic_/status/2107487482937831794",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sift - LinkedIn Sift - LinkedIn LinkedIn https://www.linkedin.com > getsift",
+    "url": "https://www.linkedin.com/company/getsift",
+    "pass": 3
+   },
+   {
+    "quote": "Sift - LinkedIn Sift - LinkedIn LinkedIn https://www.linkedin.com > sift-stack",
+    "url": "https://www.linkedin.com/company/sift-stack",
+    "pass": 3
+   },
+   {
+    "quote": "Sift - LinkedIn Sift - LinkedIn LinkedIn https://www.linkedin.com > sift-creative",
+    "url": "https://www.linkedin.com/company/sift-creative",
+    "pass": 3
+   },
+   {
+    "quote": "The Sift Platform | LinkedIn The Sift Platform | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/getsift-sift-digital-trust-and-safety-suite/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sift | San Francisco CA - Facebook Sift | San Francisco CA - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/GetSift/",
+    "pass": 3
+   },
+   {
+    "quote": "Alright so I'm gonna try and break down The Sift , from what we ... Alright so I'm gonna try and break down The Sift , from what we ... Facebook https://www.facebook.com > ... > Minecraft | Facebook",
+    "url": "https://www.facebook.com/groups/896903071347545/posts/1821191395585370/",
+    "pass": 3
+   },
+   {
+    "quote": "Sift Gluten Free | Minneapolis MN - Facebook Sift Gluten Free | Minneapolis MN - Facebook Facebook https://www.facebook.com > ... > Bakery",
+    "url": "https://www.facebook.com/SiftGlutenFree/",
+    "pass": 3
+   },
+   {
+    "quote": "What does 'sifted' mean in baking recipes? - Facebook What does 'sifted' mean in baking recipes? - Facebook Facebook https://www.facebook.com > appalachianfoods > posts",
+    "url": "https://www.facebook.com/groups/appalachianfoods/posts/3969699103263435/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sift.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/resources/case-studies/paulas-choice-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/resources/case-studies/tutory-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/sift-score-api/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/payment-fraud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/account-takeover-fraud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/fake-account-creation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/internet-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/digital-commerce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/online-gambling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/travel-transportation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/food-delivery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/solutions/fintech-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/community/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/resources/case-studies/patreon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/resources/case-studies/chownow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sift.com/company/brand-center/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20546%20484'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20200'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20972%20576'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://siftjapan.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shift-technology.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shiftinc.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-shift.jp/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.risktaisaku.com/articles/-/19844",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shift-web.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://frauddetection.dgbt.jp/products/sift/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siftjapan.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.shiftinc.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nippon-food-shift.maff.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Shift_Inc.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siftstack.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m3ter.com/customers/sift",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sift-stack",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Sift",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sift/__iwifeH7dppV2HinBKbwt574GZJW-HvO2cfIpImwXOkY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/4989er/n/n705556b14678",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/i/trending/2103900875102040321",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/harristic_/status/2104579943623807264",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/silentwisperer_/status/2104606387116609580",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/harristic_/status/2107487482937831794",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getsift",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sift-stack",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sift-creative",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/getsift-sift-digital-trust-and-safety-suite/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GetSift/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/896903071347545/posts/1821191395585370/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SiftGlutenFree/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/appalachianfoods/posts/3969699103263435/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sift 日本 導入",
+   "results": [
+    "https://siftjapan.org/",
+    "https://www.shift-technology.com/ja/",
+    "https://www.shiftinc.jp/",
+    "https://www.stellantis.jp/",
+    "https://frauddetection.dgbt.jp/products/sift/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://shiftplus.inc/",
+    "https://www.jqa.jp/service_list/environment/service/asset/",
+    "https://ejje.weblio.jp/content/sift",
+    "https://www.macnica.co.jp/business/security/manufacturers/sift/case/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sift 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.i-shift.jp/",
+    "https://www.risktaisaku.com/articles/-/19844",
+    "https://shift-web.co.jp/",
+    "https://frauddetection.dgbt.jp/products/sift/",
+    "https://www.shiftinc.jp/company/outline/",
+    "https://www.nikkei.com/article/DGXLRSP519111_T10C19A9000000/",
+    "https://www.partnersuccess.co.jp/info/20231128",
+    "https://shift-inc.net/",
+    "https://www.form2.shop/fuse-sift?srsltid=AYCX9vLJmvA5ztjMzSX4N5owthMJLhymBqH92omGNMrxN2BiL2GvQSQ0",
+    "https://ja.wikipedia.org/wiki/SHIFT_(企業)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sift Japan",
+   "results": [
+    "https://siftjapan.org/",
+    "https://en.shiftinc.jp/",
+    "https://nippon-food-shift.maff.go.jp/",
+    "https://en.wikipedia.org/wiki/Shift_Inc.",
+    "https://www.instagram.com/get_sift/",
+    "https://siftjapan.org/news/",
+    "https://sift-research.com/",
+    "https://syft.co.jp/en/company/",
+    "https://shiftc.jp/",
+    "https://ja.wikipedia.org/wiki/SIN_JAPAN"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sift manufacturing customer case study",
+   "results": [
+    "https://www.siftstack.com/",
+    "https://www.m3ter.com/customers/sift",
+    "https://www.linkedin.com/company/sift-stack",
+    "https://sift.com/resources/case-studies/",
+    "https://en.wikipedia.org/wiki/Sift_(company)",
+    "https://siftstack.webflow.io/mission-critical/sift-raises-series-a-to-propel-the-future-of-machine-innovation",
+    "https://www.siftcreative.com/case-studies",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.siftstack.com/about",
+    "https://sift.com/resources/case-studies?type=CASE_STUDIES"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sift white label OR reseller OR partner program",
+   "results": [
+    "https://sift.com/resources/case-studies/partnerstack-case-study/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.msspalert.com/news/sift-expands-partner-program-to-address-evolving-ai-driven-fraud",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://www.reddit.com/r/swift/comments/1lf796k/has_anyone_built_a_successful_white_label_ios_app/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://zift.io/white-label-payment-gateway-reseller/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sift founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Sift",
+    "https://sift.com/blog/sift-series-e-funding/",
+    "https://tracxn.com/d/companies/sift/__iwifeH7dppV2HinBKbwt574GZJW-HvO2cfIpImwXOkY",
+    "https://www.prnewswire.com/news-releases/sift-healthcare-raises-20m-series-b-funding-round-to-enhance-ai-powered-payment-solutions-302140400.html",
+    "https://www.owler.com/company/ianrhill",
+    "https://getlatka.com/companies/sift",
+    "https://www.facebook.com/SpaceNewsInc/posts/sift-raises-42-million-in-series-b-roundwashington-sift-a-southern-california-st/1360277989462270/",
+    "https://www.siftstack.com/mission-critical/we-raised-42m-to-replace-the-legacy-tooling-hardware-engineers-still-depend-on",
+    "https://www.crunchbase.com/organization/sift-science",
+    "https://pitchbook.com/profiles/company/56367-64"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Sift",
+   "results": [
+    "https://note.com/dolightmishiyu/n/n204a2feefbf1?hl=en",
+    "https://note.com/skymatix/n/nf14e1fbff1fa?hl=en",
+    "https://note.com/iu_bimstudio_n/n/na312aa7ec3e4?hl=en",
+    "https://note.com/4989er/n/n705556b14678",
+    "https://note.com/terueshinkawa/n/n07d8a2cd53a7",
+    "https://note.com/stoyofuku/n/n0d855067122a?hl=en",
+    "https://note.com/jony_note/n/n60e7dc6d6c1c",
+    "https://note.com/nkawam/n/n8bff7a2f447c",
+    "https://note.com/kaketani/n/ned1f2fc2719f?hl=en",
+    "https://note.com/wagounote/n/na31f77e193fc?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Sift",
+   "results": [
+    "https://x.com/i/trending/2103900875102040321",
+    "https://x.com/harristic_/status/2104579943623807264",
+    "https://x.com/silentwisperer_/status/2104606387116609580",
+    "https://x.com/harristic_/status/2107487482937831794",
+    "https://x.com/harristic_/status/2104542085588111786",
+    "https://x.com/MintRefresh_MC/status/2104200892329185384",
+    "https://x.com/Reuters/status/2118671027706233042",
+    "https://x.com/kingbdogz/status/2104169234540503282",
+    "https://x.com/harristic_/status/2083625417789853790",
+    "https://x.com/kingbdogz/status/2103902900770513188"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Sift",
+   "results": [
+    "https://www.linkedin.com/company/getsift",
+    "https://www.linkedin.com/company/sift-stack",
+    "https://www.linkedin.com/company/sift-creative",
+    "https://www.linkedin.com/products/getsift-sift-digital-trust-and-safety-suite/",
+    "https://www.linkedin.com/company/sift-healthcare",
+    "https://www.linkedin.com/in/marcfriend",
+    "https://www.linkedin.com/safety/go/?url=http%3A%2F%2Ffindevil%2Edevpost%2Ecom&urlhash=L3TK&mt=0bby1BnxWZTR2HYhJ6FOsnP75VedAXLldulM9byz9chABxYN6B-twqZM5jfdvOnCxO63GytDH0k1lIjiLWK7gfxWA9IKkC34blajVCKbnmIglbuMrOu2_XI&isSdui=true",
+    "https://www.linkedin.com/company/smart-information-flow-technologies-sift-",
+    "https://www.linkedin.com/company/sift-biosciences",
+    "https://www.linkedin.com/company/siftsearch"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Sift",
+   "results": [
+    "https://www.facebook.com/GetSift/",
+    "https://www.facebook.com/groups/896903071347545/posts/1821191395585370/",
+    "https://www.facebook.com/SiftGlutenFree/",
+    "https://www.facebook.com/groups/appalachianfoods/posts/3969699103263435/",
+    "https://www.facebook.com/drdansiegel/posts/in-this-free-video-i-went-through-my-sift-acronym-with-michelle-gale-for-her-upc/10156645340587208/",
+    "https://www.facebook.com/mclsnj/posts/our-tech-trainers-kelsey-and-sarah-are-full-of-great-tips-when-you-encounter-new/1591674046327282/",
+    "https://www.facebook.com/groups/ala.lirt/posts/10160456148936803/",
+    "https://www.facebook.com/groups/woftcentral/posts/25624632323886722/",
+    "https://www.facebook.com/groups/bestchristmascookieandcandyrecipes/posts/1286074902840157/",
+    "https://www.facebook.com/groups/472214123968902/posts/1123007858889522/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sift note 社長",
+   "results": [
+    "https://note.com/shift_tanges001/n/n844d3b5b5989",
+    "https://note.com/shift_tanges001",
+    "https://note.com/shift_tanges001/n/n163c73fb1ea3",
+    "https://dimension-note.jp/articles/interview/5522/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.shiftinc.jp/n/n83f158d7664e",
+    "https://note.com/airitech/n/ncbef48002e64",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sift X 投稿",
+   "results": [
+    "https://console.sift.com/login?_gl=1*n9rhag*_gcl_au*MTU1MjA1MDc5Ny4xNzI5MDEwMTg3*_ga*NDU5MTA0MjYwLjE3MjkwMTAxODc.*_ga_R8SV2EK5NZ*MTczMzc3NjI0NC4xMTcuMC4xNzMzNzc2MjQ0LjYwLjAuMA..",
+    "https://www.getsift.ai/integrations/x/",
+    "https://www.silx.org/doc/silx/2.0.0/Tutorials/Sift/sift.html",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://github.com/Stratus-Security/Sift",
+    "https://docs.siftstack.com/tutorials/overview",
+    "https://bio.tools/sift",
+    "https://sift-tool.org/",
+    "https://www.sift.co/",
+    "https://x.com/siftx__"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

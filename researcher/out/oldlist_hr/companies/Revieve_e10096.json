@@ -1,0 +1,1632 @@
+{
+ "name": "Revieve",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T21:41:37.035243+00:00",
+ "official_url": "https://www.revieve.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://www.revieve.com/about",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年07月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年6月1日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年6月1日",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Helsinki, Finland",
+    "url": "https://www.revieve.com/about",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "0\n0",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区赤坂4-2-11 エスセナーリオ赤坂EAST201",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "Helsinki, Finland",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区赤坂4-2-11 エスセナーリオ赤坂EAST201",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "Helsinki, Finland",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "300 N Lasalle Street, Suite 4925, Chicago, IL 60654, US",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$280,000",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$1,500,000",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "26-Apr-2017    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Beauty speaks many languages — consumers, products, ingredients, formulations, science, expertise, services, commerce and markets, each with its own perspective and context. Beauty Intelligence translates them into a universal language that connects people, businesses and technology — and powers the entire beauty ecosystem.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beauty is experienced across an expanding, connected ecosystem of journeys, relationships and intelligent touchpoints. A connected activation layer transforms Beauty Intelligence into intelligent experiences, partnerships and commerce through proprietary Beauty Technologies — so you own your presence wherever beauty happens.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What matters most becomes visible when intelligence is connected. A continuously evolving competitive intelligence layer reasons across products, audiences, experiences and markets to reveal opportunities, expose gaps, anticipate change and strengthen competitive advantage.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligence creates value only when it drives action. An actionable layer turns Beauty Intelligence, consumer engagement and Competitive Intelligence into recommended actions across marketing, merchandising, assortment, innovation and growth — moving from insight to execution with speed and confidence.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maria Galland Paris and Revieve Launch [SKIN]ALYZE PRO Across Seven European Markets",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Building on Maria Galland Paris' longstanding Skin Intelligence and professional skincare expertise, the AI-powered Skin Advisor takes this signature approach further, translating individual skin analysis into personalized product recommendations and tailored skincare rituals.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New suite brings together a decade of specialized beauty intelligence across skin, ingredients, products, routines, lifestyle and brand expertise—powering BeautyCatalyst™ and opening new possibilities across beauty, personal care and holistic wellness",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revieve and palplat Inc. Bring AI-Powered Skin Diagnostics Into Professional Makeup Consultations at MakeMe Salon in Japan",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The MakeMe Salon x Revieve experience enhances professional makeup lesson appointments with AI-powered skin analysis, personalized diagnostic reporting, and more informed beauty counseling.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2030 Beauty Trends Report: What Evolves. What Endures. What Leads.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary Technologies",
+    "url": "https://www.revieve.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized routines and product recommendations",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Primary experience for onboarding, discovery, and conversion",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "AI Skincare Advisor Pro",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Extends the journey beyond a single interaction—enabling persistent, evolving relationships with consumers through Beauty Profiles and skin tracking.",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Creation of Beauty Profiles tied to authenticated users",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Skin tracking and progress monitoring over time",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Context-aware across products, concerns, and content",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "The zero- and first-party skincare data you own — captured from every diagnosis, routine, and recommendation — becomes the foundation for continuously evolving competitive intelligence: revealing opportunities, exposing gaps, and anticipating what's next across products, audiences, and markets.",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "No. Brands can start with foundational experiences like the AI Skincare Advisor and expand over time based on their strategy and priorities.",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Each stage represents a layer of capability—from core personalization to conversational engagement and channel expansion. Brands can activate them independently or together.",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "The platform adapts to your priorities—supporting conversion through guided discovery, loyalty through persistent profiles, monetization through campaigns, and expansion through new channels.",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Is this approach linear, or can brands activate multiple capabilities at once?",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Construct and communicate your skincare philosophy in a unique way, seamlessly align skin analysis and product recommendations with your mission and values, and deepen engagement and loyalty through personalized digital experiences.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our approach",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "AI Product Recommendations",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Use fully automated AI to turn selfie-based skin diagnostics and user data into best-in-class, personalized product recommendations matched directly to your product inventory.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Build evolving beauty profiles and skin tracking into a continuously personalized path to purchase — delivering adaptive insights, routines, and product recommendations that stay aligned with each user's changing skin needs and drive higher conversion and basket size.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Omnichannel and Global Enterprise Commerce",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "User Personal Preference and Skin Goal Input",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Let users easily select their individual concerns and preferences.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Provide users with education on their skin based on a real-time analysis.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Recommend configurable routines that best match each user's needs and preferences.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Goals and progress tracking, dynamic routine recommendations, personalized user profiles, and more.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Maria Galland Paris and Revieve Launch [SKIN]ALYZE PRO Across Seven European Markets",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Building on Maria Galland Paris' longstanding Skin Intelligence and professional skincare expertise, the AI-powered Skin Advisor takes this signature approach further, translating individual skin analysis into personalized product recommendations and tailored skincare rituals.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "New suite brings together a decade of specialized beauty intelligence across skin, ingredients, products, routines, lifestyle and brand expertise—powering BeautyCatalyst™ and opening new possibilities across beauty, personal care and holistic wellness",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike static skin analysis tools or quiz-based solutions, Revieve's AI Skincare Advisor offers real-time diagnostics based on computer vision and Full-Spectrum AI. It evaluates actual skin conditions from an image or live camera and provides actionable skincare routine recommendations—all personalized to user goals and brand logic.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "How does the AI Skincare Advisor connect to product detail pages?",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Revieve connects diagnostics directly to your catalog by enriching product data and mapping it to skin concerns. Personalized results link to relevant SKUs and PDPs—making the experience actionable and shoppable in real time.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "How does Revieve handle data privacy and compliance?",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Revieve is fully compliant with GDPR, CCPA, and industry best practices for ethical AI. No biometric data is stored, and each brand's data is securely isolated and never used to train shared models.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "The Advisor is used by global beauty brands, pharmacies, department stores, direct selling companies, and marketplaces. It's flexible for any brand or retailer looking to provide deep skincare personalization at scale.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "AI Skin Advisor Pro — Evolving Beauty Profiles, Skin Tracking & Continuous Personalization | Revieve",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Why Choose Revieve's AI Skin Advisor Pro?",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize customer engagement and loyalty with AI Skin Advisor Pro's AI-driven insights and personalized strategies.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Beauty Profile Management",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "A living beauty profile that powers every personalized interaction. Users create and continuously update their profile with skin needs, preferences, and goals, enabling highly relevant product recommendations and routines that stay accurate as their skin and lifestyle evolve.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "An ongoing view of skin health over time. Users track key skin metrics and changes, unlocking evolving insights and recommendations that adapt to real progress, helping routines stay aligned with their skin's current condition and goals.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized experiences at every step of the journey. Recommendations dynamically adjust based on the user's beauty profile and real-time session data, delivering consistent, relevant guidance that boosts confidence, conversion rates, and basket size.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Skin Advisor Pro Journey",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously updated custom routines and guidance based on changing goals, progress, seasonality, and more.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Maria Galland Paris and Revieve Launch [SKIN]ALYZE PRO Across Seven European Markets",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Building on Maria Galland Paris' longstanding Skin Intelligence and professional skincare expertise, the AI-powered Skin Advisor takes this signature approach further, translating individual skin analysis into personalized product recommendations and tailored skincare rituals.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "New suite brings together a decade of specialized beauty intelligence across skin, ingredients, products, routines, lifestyle and brand expertise—powering BeautyCatalyst™ and opening new possibilities across beauty, personal care and holistic wellness",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Questions about Skin Advisor Pro? Read the FAQs",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Not just presence — control.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the world's leading beauty brands and retailers",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", used by leading beauty brands and retailers around the world.",
+    "url": "https://www.revieve.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The Advisor is used by global beauty brands, pharmacies, department stores, direct selling companies, and marketplaces. It's flexible for any brand or retailer looking to provide deep skincare personalization at scale.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading beauty brands & retailers worldwide",
+    "url": "https://www.revieve.com/solutions/fragrance-finder",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, we go over the typical challenges our beauty and retail partners come to us with, how our offering is the most complete beauty technology option, and how it has helped them achieve their business goals.",
+    "url": "https://www.revieve.com/insider/case-studies",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revieve and palplat Inc. Bring AI-Powered Skin Diagnostics Into Professional Makeup Consultations at MakeMe Salon in Japan",
+    "url": "https://www.revieve.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/solutions/suncare-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/solutions/nutrition-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Revieve社とpalplat社、日本の「メイクミー」サロンにおけるプロのメイクレッスンにAI肌解析を導入 | Revieve.Oyのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve社とpalplat社、日本の「メイクミー」サロンにおけるプロのメイクレッスンにAI肌解析を導入",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月17日 @東京 ― ビューティー&ウェルネスコマース領域のインテリジェンスプラットフォームを提供する Revieve® は本日、日本のビューティーテック企業である palplat株式会社 とのパートナーシップのもと、AI搭載ソリューション「スキンケアアドバイザー(Skincare Advisor)」を日本で本格導入したことを発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "palplat株式会社 代表取締役 / CEO 松田 拓也",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "本導入は、Revieveの日本市場展開の一環として始まった両社のパートナーシップを基盤とするものです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "palplat株式会社は、東京を拠点とするビューティーテック企業として、化粧品・美容業界に特化した2つのプラットフォームを運営しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社所在地 : 東京都港区赤坂4-2-11 エスセナーリオ赤坂EAST201",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "RevieveとpalplatがAI肌解析ソリューションを日本で本格導入 | Dellows News（デロウズニュース）",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "RevieveとpalplatがAI肌解析ソリューションを日本で本格導入",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "ビューティー&ウェルネスコマース領域のプラットフォームを提供するRevieve®は2026年9月17日、ビューティーテック企業のpalplat株式会社とのパートナーシップのもと、AI搭載ソリューション「スキンケアアドバイザー(Skincare Advisor)」を日本で本格導入したと発表しました",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "palplat株式会社の代表取締役 / CEOである松田 拓也氏は、メイクレッスンは顧客の肌を深く理解することから始まってこそ意味のあるものになるとし、スキンケアアドバイザーの導入によって明確な解析結果をもとにした提案が可能になったと述べています",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "本社所在地 : 東京都港区赤坂4-2-11 エスセナーリオ赤坂EAST201",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事はRevieve®およびpalplat株式会社の発表をもとに作成しました",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "オリエンタルホテル 東京ベイでハロウィーン装飾と宿泊者限定撮影イベント開催へ",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "フィンランド発ビューティーテック、リヴィーブ Revieve インタビュー｜ノルディックイノベーションハウス東京",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "ノルディックイノベーションハウス東京(NIH 東京) Meet our Members",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、今年春に日本での活動を始めたフィンランドのビューティーテックスタートアップ、",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "同社の日本リージョン責任者、森悠祐氏にお話を伺いました",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、美容リテラシーが高い",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "日本進出はどのような経緯で実現したのでしょうか？",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "今はフィンランドに本社、スペインに研究開発拠点を起き、今年2021年、日本そして台湾で活動をはじめました",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "日本のブランドとは創業当初からグローバル市場で取引があったことから、Sampoも特別な思い入れがあります",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "実際、リヴィーブのビジョンと日本の消費者のマインドは、親和性が高いと感じています",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "というのは、日本では一般的に、スキンケアの基本は素肌で、メイクもナチュラルメイクが重視されます",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットによっては、ビューティーテックと言うと、まずバーチャルメイキャップの話になるところもありますが、日本では素肌をより良い状態にするために最新テクノロジーを使う、という意識が浸透しているのだと思います",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本のステークホルダーと商談をしていると、どのような情報を元に肌を「健康」と判断しているのか、栄養学的な知見はどのように蓄積するのか、など、技術的な質問を大変よく受けます",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "もともと、日本の化粧品業界はR&Dに大変力を入れており、ライフサイエンスにかなり近いという素地が、リヴィーブにとっても大変興味深く魅力的なマーケットを形成しています",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "NIH：日本での現在の主な活動を教えてください",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "と、日本におけるサービスの向上を図るため",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Current openings are listed below and on our",
+    "url": "https://www.revieve.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Turn personalization into performance—revenue, engagement, and reach",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Create new entry points for discovery and acquisition",
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the AI Skincare ecosystem",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the AI Skincare ecosystem",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the AI Skincare ecosystem",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Turn personalization into performance—revenue, engagement, and reach",
+    "url": "https://www.revieve.com/solutions/categories/makeup",
+    "pass": 1
+   },
+   {
+    "quote": "New entry points for discovery and acquisition",
+    "url": "https://www.revieve.com/solutions/categories/makeup",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the AI Makeup ecosystem",
+    "url": "https://www.revieve.com/solutions/makeup-artist",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the AI Makeup ecosystem",
+    "url": "https://www.revieve.com/solutions/makeup-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Virtual try-on is one part of it. The Makeup Advisor guides the full journey — understanding each consumer's preferences and features, personalizing recommendations from your catalog, and letting consumers try and shop complete looks.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the AI Makeup ecosystem",
+    "url": "https://www.revieve.com/solutions/foundation-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the AI Makeup ecosystem",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Fragrance is the most challenging beauty category to translate into digital environments — and brands are leaving significant revenue on the table as a result.",
+    "url": "https://www.revieve.com/solutions/fragrance-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Lost Revenue & Returns",
+    "url": "https://www.revieve.com/solutions/fragrance-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Revieve Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Revieve",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Revieve?",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Revieve have?",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve has 62 total employees.",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   },
+   {
+    "quote": "What is Revieve’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Revieve is",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI platforms are becoming where beauty decisions begin. Revieve's AI Skin Advisor for ChatGPT gives brands and retailers a branded, white-labeled micro-experience inside ChatGPT — so your voice, your products, and your intelligence shape the consumer's journey from the very first question.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "When someone else's AI speaks for your brand, you lose the conversation",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Without deliberate participation in these platforms, your brand is still present — just not in control. Someone else's AI will reference your products, suggest routines, and shape preferences without your voice, your catalog logic, or your expertise.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Generic AI responses flatten what makes your brand distinct. Expertise, positioning, and differentiation become invisible at the most formative stage of the consumer journey.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Without a structured presence, AI platforms may surface competitor products alongside yours — or recommend your products in ways that contradict your brand strategy entirely.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "A fully white-labeled solution built on Revieve's proven beauty intelligence platform — now deployed inside ChatGPT. Your catalog, your voice, your logic, connected to your commerce stack.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "The Revieve App SDK reads intent and applies your brand's specific configurations, tone, and rules.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Three interconnected capabilities that move consumers from curiosity to consideration to conversion, entirely within your brand's intelligence layer.",
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Extend personalized makeup experiences beyond owned channels into AI-native environments — your branded advisor inside ChatGPT, where makeup discovery now begins.",
+    "url": "https://www.revieve.com/solutions/categories/makeup",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Your Brand's Makeup Artistry to Every Consumer",
+    "url": "https://www.revieve.com/solutions/makeup-artist",
+    "pass": 1
+   },
+   {
+    "quote": "Application, shapes and placement reflect your brand's intent and essence — products experienced exactly as they were designed.",
+    "url": "https://www.revieve.com/solutions/makeup-artist",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Makeup Artist is designed to capture your brand's unique intent and essence — consumers experience your products exactly as they were intended to be worn, doing justice to what makes each of them distinctive.",
+    "url": "https://www.revieve.com/solutions/makeup-artist",
+    "pass": 1
+   },
+   {
+    "quote": "Curated seasonal and campaign collections, your own brand imagery, or the consumer's own upload — fresh, on-brand, personal.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/makeup-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The experience draws on a library of looks — curated seasonal, trend and campaign collections, looks built from your own brand imagery, and looks consumers bring themselves. Your team controls which looks and collections consumers see through Revieve's management tools.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/foundation-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Beauty decisions increasingly begin upstream — in AI conversations, before consumers ever reach your site or store. Revieve's Makeup Advisor for ChatGPT gives brands and retailers a branded, white-labeled makeup experience inside ChatGPT — so your voice, your products, and your artistry shape the journey from the very first question.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "When someone else's AI speaks for your brand, you lose the conversation",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Generic AI responses flatten what makes your brand distinct. Your artistry, your expertise, your positioning — reduced to interchangeable suggestions.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Meet makeup intent where it now begins — upstream. A fully white-labeled experience built on Revieve's beauty intelligence platform, deploying your artistry at the source of discovery. Makeup Advisor for ChatGPT puts your brand in control of the interpretation — your artistry decides what 'date night' looks like, not a generic model.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Revieve interprets intent & applies your brand logic",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Vague, visual, or precise — the Revieve App SDK reads what the consumer is really looking for and applies your brand's configurations, tone, and rules.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Three interconnected capabilities that move consumers from inspiration to consideration to conversion, entirely within your brand's intelligence layer.",
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/haircare-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/hair-color-artist",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/suncare-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Real Results for Your Brand",
+    "url": "https://www.revieve.com/solutions/nutrition-advisor",
+    "pass": 1
+   },
+   {
+    "quote": "connects what makes your brand unique with a deeper understanding of each consumer, helping your story resonate personally while preserving what makes it distinctly yours. Every interaction builds intelligence that strengthens consumer relationships and helps your brand discover what comes next.",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "How is your brand being understood and discovered?",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "One platform. Across your brand.",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your brand expertise to life through personalized experiences across the consumer journey. Help consumers understand their needs, discover relevant products, visualize outcomes, build routines and get answers through guided, conversational and AI-native experiences.",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Your brand understands it",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Make your brand understandable in an AI-driven world",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Because the next consumer discovering your brand may not start on your website.",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "See your brand differently",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Who is engaging with your brand that you aren’t speaking to today?",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "What could your brand do next?",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "BeautyCatalyst turns consumer interactions into a continuously learning system that helps your brand grow today and stay ahead tomorrow.",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "BeautyCatalyst connects what too often lives apart — beauty and product expertise, consumer experience, audience understanding, market intelligence and business decisions. So personalization doesn’t end with a recommendation. It becomes a way to understand your consumers more deeply, strengthen what makes your brand different and continuously discover where to go next.",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s Talk About Your Brand",
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Living Proof increases conversions, average order value, longer sessions, and was able to capture over 25 thousand emails with an AI Haircare Advisor experience powered by Revieve.",
+    "url": "https://www.revieve.com/insider/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Revieve社とpalplat社、日本の「メイクミー」サロンにおけるプロのメ... — Sep 17, 2026 · Revieveのスキンケアアドバイザーをメイクミーサロンのカウンセリングに導入することで、お客様にはご自身の肌について学びながら ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve Announces Strategic Expansion to Japan — Jun 20, 2024 · Revieve® has officially expanded into the Japanese market, launching a new office and dedicated team in Tokyo.",
+    "url": "https://www.revieve.com/insider/news/revieve-announces-strategic-expansion-to-japan",
+    "pass": 3
+   },
+   {
+    "quote": "RevieveとpalplatがAI肌解析ソリューションを日本で本格導入 | Dellow... — ビューティー&ウェルネスコマース領域のプラットフォームを提供するRevieve®は2026年9月17日、ビューティーテック企業のpalplat株式会社とのパートナーシップのもと、AI搭載ソリューション「スキンケアアドバイザー (Skincare Advisor)」を日本で本格導入したと ...",
+    "url": "https://news.dellows.jp/360966/",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve and palplat Inc. Bring AI-Powered Skin Diagnostics ... — Sep 17, 2026 · Revieve and palplat Inc. bring AI-powered skin diagnostics to MakeMe Salon in Japan, enhancing professional makeup consultations with personalized insights.",
+    "url": "https://www.revieve.com/insider/news/revieve-palplat-ai-skin-diagnostics-makeme-salon-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve、Generative AIディスカバリープラットフォームへの展開を拡... — Apr 2, 2026 · Revieveは、肌に関する診断からGenerative AIに至るまで、AIの全領域を活用して顧客一人一人にパーソナル化された体験を提供する、ビューティー ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000089131.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve | BeautyCatalyst — The Beauty Commerce Intelligence ... — Rohto Beauty Skin Analyzer brings together Rohto's long-standing heritage in Japanese skincare science with Revieve's advanced AI technology, helping Indonesian consumers better understand their skin and discover more relevant products and routines.",
+    "url": "https://www.revieve.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve Announces Strategic Expansion to Japan — Jun 20, 2024 · With the launch of a new office and a dedicated team, Revieve is set to revolutionize the beauty and retail industries in Japan by delivering cutting-edge solutions tailored to the unique needs and preferences of Japanese consumers.",
+    "url": "https://www.revieve.com/insider/news/revieve-announces-strategic-expansion-to-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Official Revieve Website — In this case study, we go over the typical challenges our beauty and retail partners come to us with, how our offering is the most complete beauty technology option, and how it has helped them achieve their business goals.",
+    "url": "https://www.revieve.com/insider/case-studies/revieve-boosts-business-growth-for-the-leading-beauty-brands-and-retailers-through-personalization",
+    "pass": 3
+   },
+   {
+    "quote": "Official Revieve Website — The deployment has significantly enhanced user engagement, increased marketing ROI, and consumer confidence. Furthermore, Revieve’s platform opened up new avenues for monetization and facilitated the collection of valuable zero-party and first-party consumer data.",
+    "url": "https://www.revieve.com/insider/case-studies/super-pharms-digital-transformation-with-revieves-enterprise-beauty-platform-drives-increased-sales-enhanced-marketing-roi-and-data-driven-informed-business-decisions",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve Revenue, Funding & Valuation - prospeo.ioRevieve 2026 Company Profile: Valuation, Funding & Investors ...Revieve – Revenue, Valuation & Top Competitors – 2026Revieve - Overview, News & Similar companies | ZoomInfo.comRevieve — investors & funding | gritt.iorevyve Revenue, Funding & ValuationRevieve - Crunchbase Company Profile & Funding — Revieve unlocks the revenue potential of beauty bra",
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve 2026 Company Profile: Valuation, Funding & Investors ...Revieve – Revenue, Valuation & Top Competitors – 2026Revieve - Overview, News & Similar companies | ZoomInfo.comRevieve — investors & funding | gritt.iorevyve Revenue, Funding & ValuationRevieve - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Revieve. Use the PitchB",
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve – Revenue, Valuation & Top Competitors – 2026 — Revieve is driven by estimated revenue of $12.6M, team of around 80+ employees, active in Chicago, with a strong focus on scaling operations.",
+    "url": "https://compworth.com/company/revieve",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve - Overview, News & Similar companies | ZoomInfo.com — Compare insights from companies similar to Revieve, focusing on performance, financial data, growth rates, and unique benchmarks to identify key industry trends and opportunities.",
+    "url": "https://www.zoominfo.com/c/revieve-inc/403048908",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve — investors & funding | gritt.io — Revieve unlocks the revenue potential of beauty brands and retailers by enabling their teams to offer profoundly tailored customer experiences, acquire exceptional zero- and first-party data, and seamlessly integrate it into their business strategies and operations.",
+    "url": "https://www.gritt.io/company/revieve/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "フィンランド発ビューティーテック、リヴィーブ Revieve インタビュー Nov 18, 2021 · ノルディックイノベーションハウス東京 (NIH 東京) Meet our Members。 今回は、今年春に日本での活動を始めたフィンランドのビューティーテックスタートアップ、リヴィーブ（Revieve）です。",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フィンランド発ビューティーテック、リヴィーブ Revieve インタビュー｜ノルディックイノベーションハウス東京",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "フィンランド発ビューティーテック、リヴィーブ Revieve インタビュー",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "ノルディックイノベーションハウス東京(NIH 東京) Meet our Members。今回は、今年春に日本での活動を始めたフィンランドのビューティーテックスタートアップ、",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "ステイホームや非接触型販売の追い風も受け、急速に広がりを見せるビューティーテックですが、その種類は大別すると２つに分けることができます。",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "一つは、高性能ヘアドライヤーやフェイス用スチーマーなどの美容家電で、それ自体が消費者向け商品のもの。もう一つは、AIやビッグデータ、ARなどの技術をベースとした、自分に合うビューティー商品をデバイス上で選んだり試したり購入できたりするアプリやツール。",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "リヴィーブのソリューションは後者にあたり、スキンケアやメイクアップ、さらにはヘルスケアやウェルネスの分野において、よりパーソナライズされた消費体験を提供することを目指してます。",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "同社の日本リージョン責任者、森悠祐氏にお話を伺いました。",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   },
+   {
+    "quote": "美容、パーソナライズ消費、プラットフォーム",
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#revieve\" - Results on X | Live Posts & Updates Results for \"#revieve\" on X (Twitter). Find the latest posts, discussions, and updates about #revieve. 20 results found.",
+    "url": "https://x.com/hashtag/revieve",
+    "pass": 3
+   },
+   {
+    "quote": "Anime Revieve (@AnimeRevieve) / X Youtuber ️ Living On Anime 😌 Anime Explained Anime Review Anime talks Anime Revieve - Channel 1 Anime Revieve Shorts - Channel 2 youtube.com/@animerevieve",
+    "url": "https://x.com/AnimeRevieve",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Revieve - LinkedIn Enterprise-grade AI/AR-powered Personalization Platform for Beauty Brands and Retailers | Revieve unlocks the revenue potential of beauty brands and retailers by enabling their teams to offer ...",
+    "url": "https://www.linkedin.com/company/revieve",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve - LinkedIn Revieve unlocks the revenue potential of beauty brands and retailers by enabling their teams to offer profoundly tailored customer experiences, acquire exceptional zero- and first-party data, and...",
+    "url": "https://ca.linkedin.com/company/revieve",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve | LinkedIn Revieve unlocks the revenue potential of beauty brands and retailers by enabling their teams to offer profoundly tailored customer experiences, acquire exceptional zero- and first-party data, and...",
+    "url": "https://br.linkedin.com/company/revieve",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve Beauty and Wellness Technology Platform | LinkedIn Revieve's unmatched Beauty and Wellness Technology Platform includes a comprehensive suite of personalized AI and AR-powered solutions and enterprise services for brands and retailers.",
+    "url": "https://www.linkedin.com/products/revieve-digital-healthbeautywellness-platform/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Revieve | Helsinki - FacebookRevive Church | San Antonio TX - FacebookFacebookRevieve - Exciting news! Our CEO, Sampo ... - FacebookRevieve - We are delighted to share that our esteemed ...Revive - FacebookRevieve - Dive into the beauty consumer journey of 2023! ... Nov 5, 2025 · Overall, Revieve’s enterprise platform provides a seamless and personalized experience for shoppers, and helps brands a",
+    "url": "https://www.facebook.com/Revieve/",
+    "pass": 3
+   },
+   {
+    "quote": "Revive Church | San Antonio TX - FacebookFacebookRevieve - Exciting news! Our CEO, Sampo ... - FacebookRevieve - We are delighted to share that our esteemed ...Revive - FacebookRevieve - Dive into the beauty consumer journey of 2023! ... Revive Church, San Antonio. 3,982 likes · 4 talking about this · 948 were here. Revive Church exists to lead people to encounter God, His presence, & His power. F",
+    "url": "https://www.facebook.com/revivechurchsa/",
+    "pass": 3
+   },
+   {
+    "quote": "Revieve - Exciting news! Our CEO, Sampo ... - Facebook Apr 26, 2023 · We’re thrilled to announce that @DR's Secret (Best World International) has expanded its groundbreaking Skin Studio AI experience — powered by Revieve’s AI technology — to Malaysia and Indonesia 🇲🇾🇮🇩 After a successful debut, this expansion marks a major step in revolutionising how millions of consumers experience ...",
+    "url": "https://www.facebook.com/Revieve/posts/exciting-news-our-ceo-sampo-parkkinen-recently-shared-his-insights-on-the-latest/792920042196626/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.revieve.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/categories/skincare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/skin-advisor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/skin-advisor-pro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/skin-advisor-chatgpt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/categories/makeup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/makeup-artist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/makeup-advisor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/foundation-finder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/makeup-advisor-chatgpt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/haircare-advisor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/hair-color-artist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/suncare-advisor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/fragrance-finder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/solutions/nutrition-advisor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/industries/beauty-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/industries/beauty-retailers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/insider/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revieve.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.revieve.com/_next/image?url=%2Fmedia%2FFrame-64.avif&w=3840&q=75&dpl=dpl_6E1YRSLAKpUgC1LZuyEBdYbV7b5i",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.revieve.com/logos/kiko.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.revieve.com/logos/boots.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.revieve.com/logos/kate-somerville.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.dellows.jp/360966/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/REVIVEJAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newrevivejapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/berman-design/case-study/revive-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifourtechnolab.com/portfolio/manufacturing-erp-software-development-revive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/revieve-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/171438-40",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/revieve",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/revieve-inc/403048908",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/revieve",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AnimeRevieve",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/revieve",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/revieve",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/revieve",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/revieve-digital-healthbeautywellness-platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Revieve/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/revivechurchsa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Revieve/posts/exciting-news-our-ceo-sampo-parkkinen-recently-shared-his-insights-on-the-latest/792920042196626/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Revieve 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000014.000089131.html",
+    "https://www.revieve.com/insider/news/revieve-announces-strategic-expansion-to-japan",
+    "https://news.dellows.jp/360966/",
+    "https://www.revieve.com/insider/news/revieve-palplat-ai-skin-diagnostics-makeme-salon-japan",
+    "https://prtimes.jp/main/html/rd/p/000000012.000089131.html",
+    "https://www.revievebeautytech.jp/",
+    "https://www.revievebeautytech.jp/resources/+revieve-expands-business-in-japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revieve 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://kaisharesearch.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revieve Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/REVIVEJAPAN",
+    "https://www.revieve.com/",
+    "https://www.revieve.com/insider/news/revieve-announces-strategic-expansion-to-japan",
+    "https://newrevivejapan.com/",
+    "https://japanreview.jp/",
+    "https://www.jpnrevive.com/",
+    "https://taiza.revivejapan.com/ja",
+    "https://reviveskincare.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Revieve manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/berman-design/case-study/revive-customer-case-study",
+    "https://www.revieve.com/insider/case-studies/revieve-boosts-business-growth-for-the-leading-beauty-brands-and-retailers-through-personalization",
+    "https://www.ifourtechnolab.com/portfolio/manufacturing-erp-software-development-revive",
+    "https://www.revieve.com/insider/case-studies/super-pharms-digital-transformation-with-revieves-enterprise-beauty-platform-drives-increased-sales-enhanced-marketing-roi-and-data-driven-informed-business-decisions",
+    "http://revivemfg.com/",
+    "https://www.casestudies.com/company/gavin-willis-creative-marketing/case-study/revive-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/revive/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revieve white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revieve founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/revieve-revenue",
+    "https://pitchbook.com/profiles/company/171438-40",
+    "https://compworth.com/company/revieve",
+    "https://www.zoominfo.com/c/revieve-inc/403048908",
+    "https://www.gritt.io/company/revieve/",
+    "https://prospeo.io/c/revyve-revenue",
+    "https://www.crunchbase.com/organization/revieve"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Revieve",
+   "results": [
+    "https://note.com/nordicinnovation/n/n6c2f586ed0c9",
+    "https://note.com/seigo77",
+    "https://note.com/rushinglycat1/n/n990476fffe77?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/gororia/n/ne0896ed65f46?hl=en",
+    "https://note.com/jun1s/n/n2442643a2851"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Revieve",
+   "results": [
+    "https://x.com:2096/RevieveInc",
+    "https://x.com/hashtag/revieve",
+    "https://x.com:2096/RevieveInc/with_replies",
+    "https://x.com/AnimeRevieve",
+    "https://help.x.com/en/managing-your-account/log-in-issues",
+    "https://x.com/hashtag/REvive",
+    "https://help.x.com/en/managing-your-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Revieve",
+   "results": [
+    "https://www.linkedin.com/company/revieve",
+    "https://ca.linkedin.com/company/revieve",
+    "https://br.linkedin.com/company/revieve",
+    "https://www.linkedin.com/products/revieve-digital-healthbeautywellness-platform/",
+    "https://cn.linkedin.com/company/revieve",
+    "https://ca.linkedin.com/in/genevievemartins"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:facebook.com Revieve",
+   "results": [
+    "https://www.facebook.com/Revieve/",
+    "https://www.facebook.com/revivechurchsa/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/Revieve/posts/exciting-news-our-ceo-sampo-parkkinen-recently-shared-his-insights-on-the-latest/792920042196626/",
+    "https://www.facebook.com/Revieve/posts/we-are-delighted-to-share-that-our-esteemed-partner-jcpenney-has-introduced-a-re/853342849487678/",
+    "https://www.facebook.com/ReviveIsotonic/",
+    "https://www.facebook.com/Revieve/posts/dive-into-the-beauty-consumer-journey-of-2023-check-out-our-reports-now-discover/802712387884058/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revieve note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Revieve X 投稿",
+   "results": [
+    "https://journals.aps.org/prx/authors",
+    "https://www.revieve.com/",
+    "https://www.instagram.com/revieve_official/",
+    "https://x.com/alifeismine33/status/2119036982991225179",
+    "https://x.com/revive",
+    "https://www.aspicjapan.org/asu/article/48686",
+    "https://note.com/noteebook/n/n3ac56569138e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

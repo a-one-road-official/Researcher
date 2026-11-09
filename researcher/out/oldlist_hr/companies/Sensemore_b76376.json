@@ -1,0 +1,1237 @@
+{
+ "name": "Sensemore",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:25:34.581295+00:00",
+ "official_url": "https://sensemore.io/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "By proactively identifying and addressing potential issues before they lead to equipment failure.",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We help you to apply more effective maintenance strategies to avoid losses of downtime and decrease carbon footprint. According to data comes from our clients, Sensemore end-users can achieve.",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Costs of production outcomes are taken under control by monitoring the equipment’s health status and predicting possible future failures. Sustainable production is provided by reducing the consumption of non-renewable resources in both production and maintenance.",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Choose a Predictive Maintenance System: The Seven Criteria That Decide",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Seven criteria that separate predictive maintenance systems: measurement architecture, transients, current and energy, AI depth, work orders and integration.",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Oil Analysis Training and Certification: MLA, MLT, OMA and ISO 18436-4",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Infrared Thermography Training: ISO 18436-7 and the Category Levels",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Studies on Predictive Maintenance | Sensemore",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Sensemore's team of experts optimized a sugar grinder, leading to increased productivity, reduced downtime, and cost savings.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for drying fan, uncovering efficient strategies for operational excellence.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover a case study on predictive maintenance for press machine, revealing effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a predictive maintenance case study for an LPG storage facility, revealing efficient operational strategies",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for circulation pumps, revealing effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Reciprocating Compressor",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for industrial compressors, revealing efficient strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover a case study on predictive maintenance for pump motors, uncovering effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for centrifugal fan, revealing effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for dust collector fan, revealing efficient strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing comprehensive solutions for optimizing the performance and reliability of our clients’ machinery through the implementation of our user-friendly, end-to-end, and plug-and-play products and services.",
+    "url": "https://sensemore.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "At Sensemore, we are a technology company that specializes in providing machine health solutions through the IoT devices and platform that we have developed. Our team is made up of dedicated professionals who are committed to using cutting-edge technology and AI-backed solutions to help our customers optimize the performance and reliability of their machinery.",
+    "url": "https://sensemore.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We Prevent Unplanned Downtime",
+    "url": "https://sensemore.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We help companies around the world optimize the performance and reliability of their machinery through innovative, AI-backed solutions, reducing downtime and carbon emissions. We continue to develop our products, solutions, and processes regularly through intensive R&D and business development operations. You can follow us or contact us directly!",
+    "url": "https://sensemore.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Partner Program",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with systems integrators to provide manufacturers with local expertise in the successful field implementation of our AI-powered end-to-end Predictive Maintenance solutions. We encourage our system integrators we work with to develop our partnership as channel partners.",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Primary customer segment",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to provide my personal details and confirm I have read and agreed to the",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensemore Privacy Policy.",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "A Sensemore Wired sensor on the fan bearing housing of a powdered sugar mill at one of Turkey's largest food producers, reporting over a field-installed LTE modem.",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to provide my personal details and confirm I have read and agreed to the",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensemore Privacy Policy.",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "Drying Fan Predictive Maintenance Case Study | Sensemore",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Unplanned downtime was prevented and equipment and bearing life increased by 20%.",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to provide my personal details and confirm I have read and agreed to the",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensemore Privacy Policy.",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Press Machine Predictive Maintenance Case Study | Sensemore",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation on Press Machine",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "A condition monitoring system has been integrated on the mechanical press motor, which is the most critical equipment of press machine in automotive OEE company. Motor must operate regularly in order to excite press machine.",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Press Machine' Case Study",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "A Sensemore Wired sensor on the motor of the press at the heart of an automotive parts line; the motor drives the flywheel through a belt and pulley.",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Unplanned downtime was prevented and equipment lifetime increased by 12%.",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to provide my personal details and confirm I have read and agreed to the",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensemore Privacy Policy.",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance: LPG Storage | Sensemore",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "Unplanned downtime was prevented, bearing lifetime increased by 25% and equipment lifetime by 5%.",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to provide my personal details and confirm I have read and agreed to the",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensemore Privacy Policy.",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance: Circulation Pump | Sensemore",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "The pump must operate continuously in order to run Chiller. A failure and downtime in the pump or motor will cause disruption of the entire production line. The pump is driven by an induction motor and the movement is transmitted by a coupling.",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "The machine went into planned maintenance: unplanned downtime was prevented and equipment and bearing life increased by 9%.",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to provide my personal details and confirm I have read and agreed to the",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensemore Privacy Policy.",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance: Compressor | Sensemore",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-pump-motor/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition Devices",
+    "url": "https://sensemore.io/case-study-centrifugal-fan/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We share our knowledge with the community, please check our blog pages. If you need further information feel free to contact us.",
+    "url": "https://sensemore.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We help companies around the world optimize the performance and reliability of their machinery through innovative, AI-backed solutions, reducing downtime and carbon emissions. We continue to develop our products, solutions, and processes regularly through intensive R&D and business development operations. You can follow us or contact us directly!",
+    "url": "https://sensemore.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-pump-motor/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your business email and we will send the download link straight to your inbox.",
+    "url": "https://sensemore.io/case-study-centrifugal-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Emails, phones & LinkedIn · 41,000+ verified contacts",
+    "url": "https://www.vcbacked.co/company/sensemore",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Explore a case study on predictive maintenance for drying fan, uncovering efficient strategies for operational excellence.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover a case study on predictive maintenance for press machine, revealing effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a predictive maintenance case study for an LPG storage facility, revealing efficient operational strategies",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for circulation pumps, revealing effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Reciprocating Compressor",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for industrial compressors, revealing efficient strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover a case study on predictive maintenance for pump motors, uncovering effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for centrifugal fan, revealing effective strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a case study on predictive maintenance for dust collector fan, revealing efficient strategies for operational reliability.",
+    "url": "https://sensemore.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with systems integrators to provide manufacturers with local expertise in the successful field implementation of our AI-powered end-to-end Predictive Maintenance solutions. We encourage our system integrators we work with to develop our partnership as channel partners.",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Sugar Grinder Case Study | Sensemore",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Sugar Grinder' Case Study",
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "pass": 1
+   },
+   {
+    "quote": "Drying Fan Predictive Maintenance Case Study | Sensemore",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Drying Fan' Case Study",
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Press Machine Predictive Maintenance Case Study | Sensemore",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "A condition monitoring system has been integrated on the mechanical press motor, which is the most critical equipment of press machine in automotive OEE company. Motor must operate regularly in order to excite press machine.",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Condition Monitoring in Automotive Industry",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Press Machine' Case Study",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "A Sensemore Wired sensor on the motor of the press at the heart of an automotive parts line; the motor drives the flywheel through a belt and pulley.",
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation on LPG Storage Plant",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'LPG Storage Plant' Case Study",
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "pass": 1
+   },
+   {
+    "quote": "The pump must operate continuously in order to run Chiller. A failure and downtime in the pump or motor will cause disruption of the entire production line. The pump is driven by an induction motor and the movement is transmitted by a coupling.",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Circulation Pump' Case Study",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "A Sensemore Wired sensor on the bearing of the pump that keeps a pharmaceutical plant's chiller circulating.",
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Reciprocating Compressor",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation on Industrial Reciprocating Compressor",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "Condition Monitoring in R&D and Automotive Testing Facility",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Industrial Reciprocating Compressor' Case Study",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "A Sensemore Wired sensor on the main bearing of a reciprocating compressor driven by a 110 kW induction motor, the machine behind the HVAC system of an automotive test facility.",
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "pass": 1
+   },
+   {
+    "quote": "Pump Motor Predictive Maintenance Case Study | Sensemore",
+    "url": "https://sensemore.io/case-study-pump-motor/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Pump Motor' Case Study",
+    "url": "https://sensemore.io/case-study-pump-motor/",
+    "pass": 1
+   },
+   {
+    "quote": "A Sensemore Wired sensor on the motor's drive-end bearing measured triaxial vibration and surface temperature, reporting to the cloud over the plant network.",
+    "url": "https://sensemore.io/case-study-pump-motor/",
+    "pass": 1
+   },
+   {
+    "quote": "Condition Monitoring in Tobacco Manufacturing Facility",
+    "url": "https://sensemore.io/case-study-centrifugal-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the 'Centrifugal Fan' Case Study",
+    "url": "https://sensemore.io/case-study-centrifugal-fan/",
+    "pass": 1
+   },
+   {
+    "quote": "Sensemore is an end-to-end machine health platform for industrial machinery that offers IoT and AI-based products and solutions.",
+    "url": "https://www.vcbacked.co/company/sensemore",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.vcbacked.co/company/sensemore",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial Intelligence Factory",
+    "url": "https://www.vcbacked.co/company/sensemore",
+    "pass": 3
+   },
+   {
+    "quote": "Sensemore's investors include TT Ventures, Artificial Intelligence Factory, Turkish Employers' Association of Metal Industries.",
+    "url": "https://www.vcbacked.co/company/sensemore",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a Partner of Sensemore Machine Health Ecosystem",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Partner Program",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration is the cornerstone of our success. We develop technologies every day and deliver them to users to ensure a sustainable future. We partner with system integrators, OEMs, and Channel Partners to ensure our technology is applied across a wide range of industries and regions.",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with systems integrators to provide manufacturers with local expertise in the successful field implementation of our AI-powered end-to-end Predictive Maintenance solutions. We encourage our system integrators we work with to develop our partnership as channel partners.",
+    "url": "https://sensemore.io/become-a-partner/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "クリエイティブメディア、ワイヤレスイヤホン「Creative Sensemore Air」を直販限定発売 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "PC用サウンドカード「Sound Blaster」シリーズや様々なスピーカーやヘッドホン等を開発し、ワールドワイドで展開をしているCreative Technology Ltdの日本法人であるクリエイティブメディア株式会社（東京都千代田区外神田4-7-7、略称:クリエイティブメディア）から以下の発表を行います",
+    "url": "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘッドフォン - Creative Technology (日本)",
+    "url": "https://online.stereosound.co.jp/_ct/17585339",
+    "pass": 3
+   },
+   {
+    "quote": "PC用サウンドカード「Sound Blaster」シリーズや様々なスピーカーやヘッドホン等を開発し、ワールドワイドで展開をしているCreative Technology Ltdの日本法人であるクリエイティブメディア株式会社（東京都千代田区外神田4-7-7、略称：クリエイティブメディア）から以下の発表を行います",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロソフトが日本の警察庁と連携、中国系の詐欺インフラを無力化",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "・マイクロソフトが日本の警察庁と連携、中国系の詐欺インフラを無力化",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "軽くて頑丈な1kgパソコンが誕生！ 日本起点、世界基準で開発した新世代のノートパソコン「HP EliteBook 8 G2iW 14」とは？",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "【会場レポート】スポーツエンターテインメントの観戦体験をより楽しくする、アルバルク東京とZoom AIの取り組み",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "「学生フォーミュラ日本大会2026」で総合3位の快挙！",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年には東名阪ルートの容量拡大と冗長化、大阪－福岡間の西日本ルートも完成へ",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "国内バックボーンNWを大幅増強したColt 東京－大阪間の低遅延サービスも提供へ",
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "pass": 3
+   },
+   {
+    "quote": "PC用サウンドカード「Sound Blaster」シリーズや様々なスピーカーやヘッドホン等を開発し、ワールドワイドで展開をしているCreative Technology Ltdの日本法人であるクリエイティブメディア株式会社（東京都千代田区外神田4-7-7、略称： クリエイティブメディア）から以下の発表を行います",
+    "url": "https://jp.creative.com/corporate/pressroom?id=13770",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む多言語版クイックスタートガイドはダウンロード提供となります",
+    "url": "https://jp.creative.com/corporate/pressroom?id=13770",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ワイヤレスイヤホン「Creative Sensemore Air」を直販限定発売 — ワイヤレスイヤホン「Creative Sensemore Air」を直販限定発売 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Support - Creative Sensemore Air — Customer Support - Creative Sensemore Air jp.creative.com https://jp.creative.com > support",
+    "url": "https://jp.creative.com/support/kb/welcome.asp?catid=437&pid=23950",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Sensemore Air ［直販限定］ 発売のお知らせ — Creative Sensemore Air ［直販限定］ 発売のお知らせ jp.creative.com https://jp.creative.com > corporate > pressroom",
+    "url": "https://jp.creative.com/corporate/pressroom?id=13770",
+    "pass": 3
+   },
+   {
+    "quote": "Sensemore | Healthy Machines, Sustainable Business — Sensemore | Healthy Machines, Sustainable Business Sensemore https://sensemore.io",
+    "url": "https://sensemore.io/?srsltid=AYCX9vIKGyVtyjeX8In_ZgH3prHsEHH7xo8t32fEX1jFAEWvmcOp1EeK",
+    "pass": 3
+   },
+   {
+    "quote": "Sensemore Smart Machine Health Predicts Problems Before ... — Sensemore Smart Machine Health Predicts Problems Before ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/interestingengineering/videos/sensemore-launched-the-smart-machine-health-platform-to-save-your-machines/530194998569665/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensemore .io - LinkedIn — Sensemore .io - LinkedIn LinkedIn https://tr.linkedin.com > sensemore-io",
+    "url": "https://tr.linkedin.com/company/sensemore-io",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Sensemore Air: All Controls and Gestures Explained — Creative Sensemore Air: All Controls and Gestures Explained YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Xz7KZy0FCpE",
+    "pass": 3
+   },
+   {
+    "quote": "Sensemore Funding : $50K Seed (Aug 2023) & Investors — Sensemore Funding : $50K Seed (Aug 2023) & Investors VCBacked https://www.vcbacked.co > sensemore",
+    "url": "https://www.vcbacked.co/company/sensemore",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sensemore .io - LinkedIn Sensemore .io - LinkedIn LinkedIn https://tr.linkedin.com > sensemore-io",
+    "url": "https://tr.linkedin.com/company/sensemore-io",
+    "pass": 3
+   },
+   {
+    "quote": "SENSEMORE MUTERO - Bookkeeper - LinkedIn Zimbabwe SENSEMORE MUTERO - Bookkeeper - LinkedIn Zimbabwe LinkedIn Zimbabwe https://zw.linkedin.com > sensemore-...",
+    "url": "https://zw.linkedin.com/in/sensemore-mutero-685596288",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sensemore (@sensemoreio) - Facebook Sensemore (@sensemoreio) - Facebook Facebook https://www.facebook.com > sensemoreio",
+    "url": "https://www.facebook.com/sensemoreio/",
+    "pass": 3
+   },
+   {
+    "quote": "Sensemore Nyasha | Facebook Sensemore Nyasha | Facebook Facebook https://www.facebook.com > Sensemore-Nyasha-1000876...",
+    "url": "https://www.facebook.com/p/Sensemore-Nyasha-100087683411679/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet MicroSense AI BOX — See More. Sense More . Tiandy ... Meet MicroSense AI BOX — See More. Sense More . Tiandy ... Facebook https://www.facebook.com > tiandyoverseas > posts",
+    "url": "https://www.facebook.com/tiandyoverseas/posts/-meet-microsense-ai-box-see-more-sense-more-tiandy-large-scale-ai-model-powerful/1969353071119491/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sensemore.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-sugar-grinder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-drying-fan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-press-machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-lpg-storage-plant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-circulation-pump/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-industrial-reciprocating-compressor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-pump-motor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sensemore.io/case-study-centrifugal-fan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.creative.com/support/kb/welcome.asp?catid=437&pid=23950",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.stereosound.co.jp/_ct/17585339",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ascii.jp/elem/000/004/113/4113424/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8338",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.creative.com/corporate/pressroom?id=13770",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.creative.com/support/kb/welcome.asp?catid=437&pid=23950",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/interestingengineering/videos/sensemore-launched-the-smart-machine-health-platform-to-save-your-machines/530194998569665/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tr.linkedin.com/company/sensemore-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKawzamKBuS40hrSjOda9BHlBQio8AIhHs1ovPsKmVAe2rK2fnI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seosamba.com/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensmore.ai/press/funding-announcement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Sense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vcbacked.co/company/sensemore",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tr.linkedin.com/company/sensemore-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zw.linkedin.com/in/sensemore-mutero-685596288",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sensemoreio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sensemore-Nyasha-100087683411679/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tiandyoverseas/posts/-meet-microsense-ai-box-see-more-sense-more-tiandy-large-scale-ai-model-powerful/1969353071119491/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sensemore 日本 導入",
+   "results": [
+    "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "https://jp.creative.com/support/kb/welcome.asp?catid=437&pid=23950",
+    "https://online.stereosound.co.jp/_ct/17585339",
+    "https://ascii.jp/elem/000/004/113/4113424/",
+    "https://response.jp/",
+    "https://www.genelec.jp/",
+    "https://www.sensetime.com/jp",
+    "https://kakaku.com/item/K0001492907/",
+    "https://www.reachjapan.co.jp/business-intelligence/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Sensemore 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8338",
+    "https://jp.creative.com/corporate/pressroom?id=13770",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://impact-h.co.jp/service/advertising-agency",
+    "https://tono-sama.net/partner/",
+    "https://www.valuecommerce.co.jp/news/c_press/3982/",
+    "https://nextmode.co.jp/saas-lp_b/",
+    "https://ftsafe.co.jp/contactpartners/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensemore Japan",
+   "results": [
+    "https://sensemore.io/?srsltid=AYCX9vIKGyVtyjeX8In_ZgH3prHsEHH7xo8t32fEX1jFAEWvmcOp1EeK",
+    "https://jp.creative.com/support/kb/welcome.asp?catid=437&pid=23950",
+    "https://www.facebook.com/interestingengineering/videos/sensemore-launched-the-smart-machine-health-platform-to-save-your-machines/530194998569665/",
+    "https://tr.linkedin.com/company/sensemore-io",
+    "https://www.youtube.com/watch?v=Xz7KZy0FCpE",
+    "https://www.nikkei.com/article/DGXZRSP644136_W2A111C2000000/",
+    "https://www.sensmore.ai/",
+    "https://interestingengineering.com/videos/sensemore-factory-machine-health",
+    "https://online.stereosound.co.jp/_ct/17585339",
+    "https://jp.creative.com/corporate/pressroom?id=13770"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sensemore manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKawzamKBuS40hrSjOda9BHlBQio8AIhHs1ovPsKmVAe2rK2fnI",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://c3.ai/customers",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.epicor.com/en-us/blog/technology-and-data/manufacturing-case-study/",
+    "https://6sense.com/customer-stories/global-industrial-manufacturing-company-generated-181m-in-pipeline-using-6sense/",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://sensemore.io/case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensemore white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.seosamba.com/white-label/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensemore founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sense",
+    "https://www.sensmore.ai/press/funding-announcement",
+    "https://growjo.com/company/Sense",
+    "https://www.vcbacked.co/company/sensemore",
+    "https://tracxn.com/d/companies/sense-ai/__kdXpjdxWMTI8D2IEa0Z7RV__12BNfEIO9LVojgXzwLw",
+    "https://www.cbinsights.com/company/sensmore/financials",
+    "https://www.crunchbase.com/organization/sense-ai",
+    "https://techcrunch.com/2021/12/05/hr-tech-startup-sense-valued-at-500-million-in-softbank-vision-fund-2-led-funding/",
+    "https://leadiq.com/c/sense/5a1d8a72240000240063e1a8",
+    "https://tracxn.com/d/companies/sensemore/__Re_CYXhtRcKnN2wh36xL1HTcT8C2LL6JKKDG__vc9Fo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Sensemore",
+   "results": [
+    "https://note.com/jpss4691/n/nbf942491c89a?hl=en",
+    "https://note.com/prime_vole9638/n/n192b9e36c742?hl=en",
+    "https://note.com/kabutom/n/nf22ae4980570?hl=en",
+    "https://note.com/jolly_moraea6752/n/n470dc5ae5845?hl=en",
+    "https://note.com/ideal_yucca4506/n/n3a8431a47931",
+    "https://note.com/kengaku_showby/n/n52871fe6d607?hl=en",
+    "https://note.com/vasenoir/n/nb628f0020bec?hl=en",
+    "https://note.com/eak_vlrt/n/nbca65927d28b?hl=en",
+    "https://note.com/vow0805/n/n3f2836d5b40d?hl=en",
+    "https://note.com/88gold88/n/n63d3f1a331d1"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Sensemore",
+   "results": [
+    "https://x.com/JasonGregor/status/2118808359252242824",
+    "https://x.com/aarondmiller2/status/2092982029134491970",
+    "https://x.com/_FaridKhan/status/2081843432553861556",
+    "https://x.com/davidsenra/status/2109690622076682598",
+    "https://x.com/AlasdairGold/status/2102063809594544552",
+    "https://x.com/JamesPearceLFC/status/1816813519167217907",
+    "https://x.com/JoeJHoyt/status/2086514691048923377",
+    "https://x.com/FelixComicArt/status/1804588714464833721",
+    "https://x.com/Gazerr67/status/2117343637121995121"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Sensemore",
+   "results": [
+    "https://tr.linkedin.com/company/sensemore-io",
+    "https://www.linkedin.com/pulse/predictive-maintenance-electrical-signature-analysis-sensemore-io",
+    "https://de.linkedin.com/company/sensmore",
+    "https://zw.linkedin.com/in/sensemore-mutero-685596288",
+    "https://de.linkedin.com/in/ekremb",
+    "https://tr.linkedin.com/in/caglaraksu1",
+    "https://tr.linkedin.com/in/canaksu",
+    "https://tr.linkedin.com/in/oerturk",
+    "https://www.linkedin.com/posts/sensemore-io_sensemore-itu-conditionmonitoring-activity-7056599944941441024-XZoI?trk=public_profile_like_view",
+    "https://www.linkedin.com/company/sensemore-io"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Sensemore",
+   "results": [
+    "https://www.facebook.com/sensemoreio/",
+    "https://www.facebook.com/p/Sensemore-Nyasha-100087683411679/",
+    "https://www.facebook.com/SenJonHusted/posts/requiring-an-id-to-vote-is-just-common-sense-more-than-80-of-americans-agreeyet-/1470025781390590/",
+    "https://www.facebook.com/tiandyoverseas/posts/-meet-microsense-ai-box-see-more-sense-more-tiandy-large-scale-ai-model-powerful/1969353071119491/",
+    "https://www.facebook.com/61558487524884/videos/for-a-long-time-more-space-made-sensemore-bedroomsmore-storage-more-yard-more-ro/2210315019880328/",
+    "https://www.facebook.com/mobilecityphonesparadisezambia/posts/good-sound-makes-sense-more-especially-on-a-sunday-visit-any-store-and-enjoy-our/1357443156604680/",
+    "https://www.facebook.com/ramsey.mills.5/posts/these-make-sense-more-and-more-each-day/10232107857292424/",
+    "https://www.facebook.com/sensemore/",
+    "https://www.facebook.com/p/Sensemore-Manyavira-100089425407542/",
+    "https://www.facebook.com/sensemoreio/posts/-vibration-measurements-were-never-this-easy-plugplay-sensemore-infinity-can-be-/686473815320122/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sensemore note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://diamond.jp/articles/-/388572",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensemore X 投稿",
+   "results": [
+    "https://sensemore.io/?srsltid=AYCX9vI0R3r3c4Fc6GgbWLYxHU5dlx2StkHe3JgqiOa55-ZgxjGb6cuH",
+    "https://www.youtube.com/watch?v=Xz7KZy0FCpE",
+    "https://www.sensmore.ai/",
+    "https://www.instagram.com/sensemoreio/",
+    "https://x.com/sammyo_official/status/2042208691437596805",
+    "https://www.reddit.com/r/AI_Agents/comments/1l2ea6q/built_an_x_twitter_ai_agent_that_posts_sarcastic/?tl=ja",
+    "https://note.com/rlhwbs_office/n/n795e14f2fb73",
+    "https://sinis-x.tetemarche.co.jp/blog/2023-january",
+    "https://help-creator.ci-en.net/hc/ja/articles/8564348283033-X%E3%81%A7%E8%A8%98%E4%BA%8B%E6%8A%95%E7%A8%BF%E3%82%92%E8%87%AA%E5%8B%95%E3%83%9D%E3%82%B9%E3%83%88%E3%81%97%E3%81%9F%E3%81%84",
+    "https://x.com/sensemoreio"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

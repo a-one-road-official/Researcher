@@ -1,0 +1,2022 @@
+{
+ "name": "Remote",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜日本進出済",
+ "researched_at": "2026-11-09T21:53:26.966376+00:00",
+ "official_url": "https://remote.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Fully remote",
+    "url": "https://remote.com/blog/partnerships/remote-gomada",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Grünwald, Germany",
+    "url": "https://remote.com/blog/partnerships/remote-simpleclub",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区恵比寿\n四丁目3番5号704号室 アークアウトソーシング株式会社內",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://remote.com/blog/partnerships/remote-gomada",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://remote.com/blog/partnerships/remote-simpleclub",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "問い合わせ",
+    "value": "japan@remote.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "ARR",
+    "value": "$300M",
+    "url": "https://getlatka.com/companies/Remote",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$300M",
+    "url": "https://getlatka.com/companies/Remote",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The financial operating system for the global workforce.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Local compliance, global protection",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire and pay your global workforce through EOR, direct employment, or contractors.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce intelligence powered by AI",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every way to hire and pay your workforce.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pay people on Remote's global employment platform, whether they are employed through your own legal entities, hired with Remote’s employer of record, or engaged as contractors.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire employees worldwide, even in countries where you don’t have entities. We handle contracts, payroll, benefits, and compliance.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring everything together for contractor invoices, approvals, payouts, spend visibility, and compliance protection.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises run Remote global payroll natively inside",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Companies hire global teams without ever leaving",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for your global team, one hire at a time.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make your first hires and run payroll globally, no entity or legal team required.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get owned entity compliance, enterprise security, and local expertise.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We went from a team based solely in Stockholm to hiring across the world in a matter of months. Remote gave us the support to build an international organization without slowing down how we operate and build our product.”",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Previously we had a lot of entities on various different systems, doing a lot of manual uploads. Now everything is in one platform and up to 80% of our time has been saved. We can grow internationally without payroll being a constraint.”",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best global payroll providers (2026): Top services compared",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare the best global payroll providers for 2026. See country coverage, compliance features, pricing approach, and an at-a-glance table.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how a professional employment organization can benefit your company’s HR department — and when you’re better off with an employer of record instead.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A global employment platform lets you hire, pay and manage people in other countries from one system. Remote's",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "cover employer of record (EOR), global payroll, PEO for US teams, contractor management and contractor of record, so your whole global workforce runs on one system of record. G2 ranks Remote the #1 Leader in Global Employment Platforms.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", we run payroll, tax filings, benefits and workers' compensation across all 50 states, while you keep hiring decisions and day-to-day management. Our guide on",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "follow local rules, and you review calculations and exceptions before every approval. Remote is a regulated payments institution in Canada, the UK and the EEA, and holds SOC 2 Type II and ISO 27001 certifications.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The frontline workforce makes up a significant portion of the world’s workforce. But despite the fact that laborers, call center workers, medical assistants, and other hourly employees are the backbone of the global economy, most applicant tracking systems (ATSs) weren’t designed for them. That is, until Fountain changed the game.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "With more than $200 million in funding and a presence in more than 75 countries, Fountain is the leading platform for helping recruiters and talent acquisition teams hire hourly workers at scale. It helps enterprises process tens of millions of job applications, and hire millions of team members every year.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "With such a strong international presence, Fountain needs a global HR partner that can support its cross-border hiring efforts — which is why it partnered with Remote. Here’s how the partnership allows Fountain to achieve its recruitment goals, and continue its rapid growth.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring with Remote in:",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "When Fountain was founded in 2014, the company’s mission was simple: to empower recruiters to efficiently hire hourly workers. Having realized that this process was a different one to hiring salaried employees, Fountain was able to provide a solution for hiring organizations — and for workers themselves, too.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“We identified this as a really unique business opportunity,” says Luke McKinlay, Fountain’s VP of Finance. “Not only to help companies modernize their HR technology stack, but to help people discover new job opportunities more easily, move through the application process quicker, and choose the right job for them.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "As an early hire, McKinlay has seen much of Fountain’s growth firsthand.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“I started as the first hire in finance, as employee number 25,” he says. “Since then, we’ve scaled to over 200 people worldwide, raised series B Funding and two rounds of Series C funding. The journey has been incredibly rewarding thus far.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "The company secured Series A funding relatively quickly, allowing it to build out a sizable international presence. But to continue to scale and support more growth, Fountain needed to grow its internal headcount.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "The company had previously been working with Velocity Global to hire internationally. However, according to McKinlay, the provider’s slow processes and country limitations were hindering Fountain’s own growth ambitions.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "McKinlay searched the market for an alternative that would allow Fountain to hire broadly while continuing to grow quickly.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“We assessed Remote and one of its competitors,” he says, “and the level of service we received during the evaluation process gave us a great sense of Remote and how it operates.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "As it raised Series B and Series C funding, Fountain also needed to impress investors.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership with Remote allowed Fountain to do all these things. It was able to hire abroad quickly and easily and, as a result, investors were able to see the foundation the company was building. Fountain raised $23 million in Series B funding in 2019, $85 million in Series C funding in 2021, and $100 million in further Series C funding in 2022.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“Our investors were really excited about Fountain’s global presence,” McKinlay says. “Having a global brand is very beneficial, and one of the key reasons we secured investment.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“Our product supports multiple languages, and we have customers and employees all over the world. It just makes us more attractive.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance is always vital for an international company, but especially so during a fundraising process. Therefore, Fountain wanted to make sure it was dotting every ‘i’ and crossing every ‘t’.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“If we had to coordinate everything in-house, I’d have to hire an extra four people to manage entities, local solicitors, tax firms, accountants, payroll, and translation services,” McKinlay says. “It would cost upwards of an extra $500,000 per year.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s a wonderful partnership,” he says. “It prevents these issues from ever even happening. We’re compliant from the get-go.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "The freedom to hire globally",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership has opened up new markets for Fountain, giving the company the ability to hire all over the world.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“Working with Remote has helped us unlock new talent markets in Europe, India, and the Philippines,” McKinlay explains. “This means we’re able to focus on customer-facing hires in Europe, and offer 24/7 support to our key enterprise clients — which is what’s required from a B2B software company like Fountain.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "Remote’s local experts help the company offer competitive salaries, benefits, and compensation packages when hiring in these countries. It also ensures that the company benefits from a wide range of international backgrounds.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“Having a diverse range of voices and experiences across all our decision-making processes is crucial,” McKinlay says. “Making sure those voices are represented and heard is so important to our success as a global company.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "As a startup, it’s important for Fountain to be able to easily test new markets. Ordinarily, this would be an expensive, time-consuming, and risky process, but Remote’s country coverage makes it simple to test the waters in new regions.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Remote partner programs | Remote",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to help shape the future of remote work and grow your business? Explore our partner programs, find the one that’s right for you, and let’s make the future happen faster together.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our programs are designed to help you drive conversations, create new revenue streams, and grow your business.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Together, we can put your brand and your products front and center with thousands of growing companies. Accelerate your business growth and power a new revenue engine for your sales team today!",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We make things easy by allowing you to join one of our standard partner programs for quick onboarding or work with our team to build a custom partnership model for your business, with options like revenue sharing, referral bonuses, discounts for your customers, and more.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Find the program that’s right for you",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No matter your goal, we’ve got a program designed to power shared growth.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "With Remote Embedded, you can add the leading EOR and Global Payroll solution directly in your platform to future-proof your product strategy and drive new revenue instantly.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Offer a special discount on your products to Remote’s customers and promote deals on Remote for your customers to drive a stream of hot new leads for both sales teams.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join Remote’s integration ecosystem where collaboration powers mutual success. Connect your platform to Remote to fill critical product requirements for your customers and grow your business.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "International hiring solved",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Hire anywhere in the world and pay your global workforce on time in their local currencies from Remote's easy-to-use platform.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Get flat, transparent pricing with no hidden fees or unexpected commitments.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Hire employees worldwide, even in countries where you don’t have entities. We handle contracts, payroll, benefits, and compliance.",
+    "url": "https://remote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The frontline workforce makes up a significant portion of the world’s workforce. But despite the fact that laborers, call center workers, medical assistants, and other hourly employees are the backbone of the global economy, most applicant tracking systems (ATSs) weren’t designed for them. That is, until Fountain changed the game.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "With more than $200 million in funding and a presence in more than 75 countries, Fountain is the leading platform for helping recruiters and talent acquisition teams hire hourly workers at scale. It helps enterprises process tens of millions of job applications, and hire millions of team members every year.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "When Fountain was founded in 2014, the company’s mission was simple: to empower recruiters to efficiently hire hourly workers. Having realized that this process was a different one to hiring salaried employees, Fountain was able to provide a solution for hiring organizations — and for workers themselves, too.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“We were able to operate more efficiently, make quicker decisions, and get people started in new countries so much faster than before,” he says. “Remote is easier for our people to navigate. It’s very user-friendly, and our employees are much happier since the switch.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "To support its growing client base, Fountain needed employees in every region where it had customers. And it needed to onboard those team members quickly.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "“Our product supports multiple languages, and we have customers and employees all over the world. It just makes us more attractive.”",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "With employees in multiple countries, this had the potential to be a costly, time-consuming, and frustrating challenge.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "As Fountain has expanded, the company has also started to acquire other businesses. Remote has provided key stopgap support during these acquisitions, especially for employees who are transitioning across to Fountain.",
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "pass": 1
+   },
+   {
+    "quote": "Our programs are designed to help you drive conversations, create new revenue streams, and grow your business.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Together, we can put your brand and your products front and center with thousands of growing companies. Accelerate your business growth and power a new revenue engine for your sales team today!",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We make things easy by allowing you to join one of our standard partner programs for quick onboarding or work with our team to build a custom partnership model for your business, with options like revenue sharing, referral bonuses, discounts for your customers, and more.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "With Remote Embedded, you can add the leading EOR and Global Payroll solution directly in your platform to future-proof your product strategy and drive new revenue instantly.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help your clients reduce the compliance risks of international growth with a trusted partner and take advantage of special discounts for your customers or revenue sharing.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Augment your services with global employment solutions your clients need to scale and take advantage of special discounts for your customers or revenue sharing.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Give your clients a way to compliantly and cost-effectively build a global team via a revenue share or discount partnership.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Place and compliantly engage talent for your clients anywhere in the world with a trusted EOR and contractor management partner — and earn revenue share or unlock special discounts for your customers.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For hiring employees in countries where you don't have an entity yet.",
+    "url": "https://remote.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For paying employees in countries where you own the entity.",
+    "url": "https://remote.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For companies that need to hire and manage employees across the United States, without establishing separate legal entities in each state.",
+    "url": "https://remote.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hire and manage employees across the U.S.",
+    "url": "https://remote.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Employees and contractors manage everything in one place",
+    "url": "https://remote.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Compliant growth through acquisition: Supreme Group’s global hiring journey with Remote",
+    "url": "https://remote.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Mimo manages a global team of employees and contractors with Remote",
+    "url": "https://remote.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With Remote in place across EOR, payroll, and HR systems, the results show up differently in each part of the business.",
+    "url": "https://remote.com/resources/case-studies/how-zapier-hires-globally-without-the-compliance-guesswork",
+    "pass": 1
+   },
+   {
+    "quote": "Remote eliminates barriers to international hiring so great companies can work with great people, no matter where those people are.",
+    "url": "https://remote.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At Remote, we invest in our people. Our country-specific benefits and company perks help employees feel valued, respected, and cared for:",
+    "url": "https://remote.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Remote expands its global employment infrastructure with acquisition of Bravas",
+    "url": "https://remote.com/blog/tag/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "How Mimo manages a global team of employees and contractors with Remote",
+    "url": "https://remote.com/blog/tag/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Remote helps Talon.One take care of employees to take care of customers",
+    "url": "https://remote.com/blog/tag/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We were using another platform to manage our employees and contractors, but we needed a better solution. With Remote, we are making sure we are in full legal compliance.",
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "pass": 1
+   },
+   {
+    "quote": "The support provided by Remote's team was crucial the ensure a smooth transition from the previous EOR and Contractor Management provider. At this time, a full workforce compliance audit was carried out to uncover potential misclassification risks. Reverse Tech valued Remote’s responsiveness and expertise, viewing them as an extension of their own team.",
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "pass": 1
+   },
+   {
+    "quote": "Having all employees and contractors on a single platform allowed for better management and coordination. Remote’s in-house expertise in different locales was particularly beneficial, allowing the company to handle employment regulations and requirements in various countries effectively.",
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "pass": 1
+   },
+   {
+    "quote": "Clear insights into global payroll activities for employees and contractors",
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "pass": 1
+   },
+   {
+    "quote": "In the case of Reverse Tech, the partnership with Remote payroll significantly enhanced the finance manager's ability to efficiently manage and run payroll for employees and contractors across multiple countries.",
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "pass": 1
+   },
+   {
+    "quote": "The simplification of payroll processes for both contractors and employees streamlined operations, reducing the administrative burden and allowing for better resource allocation toward strategic initiatives.",
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "pass": 1
+   },
+   {
+    "quote": "How Mimo manages a global team of employees and contractors with Remote | Remote",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "How Mimo manages a global team of employees and contractors with Remote",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "Number of Employees with Remote:",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "Under the country’s RTT (Réduction du temps de travail, or Reduction of working time) provisions, employees are able to trade overtime for more paid leave. And French team members who work more than an average of 44 hours a week for 12 consecutive weeks are entitled to additional time off.",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to Remote’s contractor management platform, that process has been made much simpler. Having a global platform that covers both employees and contractors has allowed Mimo to easily onboard, pay, and manage global contractors.",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "The Remote contract management platform makes it super easy to manage contractors, pay in multiple currencies, and arrange everything in one place.",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "Because Remote’s platform handles both employees and contractors, Mimo is able to offer a rare benefit: team members can choose their type of employment based on their personal situation.",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "“The Remote platform enables us to provide support to team members, whether they choose to be full-time employees or work as independent contractors,” Herzog explains. “We ensure that they receive all the necessary benefits and address any concerns they may have, so there are no disadvantages regardless of the type of employment.\"",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "It wasn’t just new talent that needed to be onboarded, either. As the COVID-19 pandemic tailed off, many of Tablevibe’s existing employees were relocating across the globe — including Rutten himself. To keep the business in stride, the company transitioned to a remote work model.",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "Tablevibe’s search was very much in keeping with the company’s “learning loops” formula: try, learn, and then either keep or discard. As a result, the choice was quickly narrowed down to two providers: Remote and Deel. Rutten decided to test both simultaneously.",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "Having evaluated the full spectrum of services offered by Remote, the results were unequivocal. However, Tablevibe’s employees now needed to be consolidated into one HR system to reduce complexity and scale the team with ease. Normally, such a migration would be an HR nightmare, but with Remote, this wasn’t the case.",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "Remote offers a flat pricing structure and no hidden fees when hiring new employees",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "Since partnering exclusively with Remote, Rutten knows his people are receiving the best benefits. Feedback has been overwhelmingly positive, with the company’s employees pointing towards an efficient onboarding process, clear contracts, and expertly-handled tax claims. To put it simply, Tablevibe’s hiring and onboarding processes have been",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "According to Rutten, the partnership has also positively impacted the company’s bottom line. “Remote’s EOR service has helped us reduce our operational costs and uncertainties when it comes to hiring overseas employees,” he adds.",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "This applies to the company’s Singapore-based employees, too. “Remote provides these benefits even in countries where you have your own legal entity. It’s great to see one provider catering to both needs.”",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "By having all employees on a centralized Global Payroll system, our team is able to handle any salary and benefits issues with just a few clicks of a button, as well as address other needs that they may have.",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "20+ employees",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "Seaplane’s founders hail from Ireland, Scotland, South Africa, and the American Midwest (and their employees live everywhere in between). According to CEO and co-founder Niall Dalton, Seaplane’s distributed team strengthens its business.",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted to have employees in every time zone, which requires juggling many different countries, laws, and languages. It wasn’t really a matter of “if” our international hiring would get too complicated — it was a matter of when.",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "Seaplane’s HR team no longer struggles managing international employees.",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "Before partnering with Remote, one of Seaplane’s biggest challenges was hiring internationally while navigating through the red tape of employment regulations. Added to that was the crucial need to ensure an equitable experience for all of its employees — not an easy task when compliance and benefits packages",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "We also considered Pilot, Deel, and Oyster, but ultimately Remote’s approach suited us best: from the clean and simple interface, to the focus on employee experience, to transparency in billing and benefits. There’s also excellent support for both employees and for admins.",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "Seaplane’s employees are also seeing a noticeable financial impact from the partnership with Remote.",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "and begin onboarding employees and contractors around the world in minutes.",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Explore Remote partner programs | Remote",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to help shape the future of remote work and grow your business? Explore our partner programs, find the one that’s right for you, and let’s make the future happen faster together.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Together, we can put your brand and your products front and center with thousands of growing companies. Accelerate your business growth and power a new revenue engine for your sales team today!",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We make things easy by allowing you to join one of our standard partner programs for quick onboarding or work with our team to build a custom partnership model for your business, with options like revenue sharing, referral bonuses, discounts for your customers, and more.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Please submit the form below. Then our team will reach out to talk about our partner programs and find the one that’s right for you.",
+    "url": "https://remote.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-End Obsolescence Controller Solution for a Semiconductor OEM",
+    "url": "https://orbitskyline.com/semiconductor-customer-case-studies-at-orbit-skyline/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 30,000+ companies · ★ 4.8 G2",
+    "url": "https://remote.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "), commonly known as JR Propo, was a Japanese manufacturer specializing in radio control (RC) equipment for hobbyist models, including transmitters, receivers, servos, and related electronics for aircraft, helicopters, and programmable robots.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "During the 1990s, Japan Remote Control diversified its portfolio by introducing programmable robots and advanced electronic components, such as high-performance servos tailored for robotic applications, broadening its appeal in both hobby and industrial sectors.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "By the 2010s, Japan Remote Control Co., Ltd. (JR Propo) encountered significant economic pressures from intensifying competition with established rivals like Futaba in the radio control (RC) market, alongside global shifts toward lower-cost manufacturing overseas that eroded the profitability of Japanese producers.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "Payments to suppliers delayed, planned factory constructions stalled despite bank loans exceeding 2 billion yen secured in 2015 for drone and industrial product development, and by late 2016, most employees were laid off as operations effectively halted.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "The United Kingdom's distribution was managed by MacGregor Industries, which served as the exclusive importer and maintained repair services for JR equipment until the manufacturer's closure.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "During its peak decades, JR commanded a strong foothold in the Asia-Pacific RC hobby market, where Japanese brands led the sector due to technological innovation and local manufacturing advantages. This regional dominance positioned JR as a preferred choice for professional and enthusiast pilots seeking reliable control systems.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "technology solutions, the manufacturer manages vast research & development and business",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "with a business continuity plan enabled for all manufacturing locations.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "As a result of COVID-19’s business impacts, the manufacturer successfully transitioned to a",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In a specialized manufacturing environment like this one, maintaining infrastructure operations",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Enhanced manufacturing device monitoring",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Enhanced reliability of remote manufacturing",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Improving Remote Manufacturing",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "l CASE STUDY l Improving Remote Manufacturing Operations With NETSCOUT Visibility as a Service",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "into overall remote manufacturing site",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "As a result, the manufacturer has reduced",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Networks with NETSCOUT",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "netscout.com/solutions/manufacturing",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "their abilities to assure manufacturing",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing devices operating across these",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Semiconductor Case Studies",
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "See how other manufacturers use AWS to improve security and speed time to market with cloud product/production design, realize Industry 4.0 smart manufacturing benefits like improved OEE and lower cost, and provide enhanced customer value by offering unique smart product offerings.",
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how global manufacturer 3M Company migrated critical ERP workloads at large scale to SAP on AWS.",
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Get started with AWS - Leading manufacturing companies are already using AWS. Contact our experts and start your own AWS Cloud journey today.",
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote FAB Operations & Tool Qualification for Semiconductor Manufacturing",
+    "url": "https://orbitskyline.com/semiconductor-customer-case-studies-at-orbit-skyline/",
+    "pass": 3
+   },
+   {
+    "quote": "A structured remote FAB model supporting tool qualification, production monitoring, failure investigation, and recovery while maintaining manufacturing continuity.",
+    "url": "https://orbitskyline.com/semiconductor-customer-case-studies-at-orbit-skyline/",
+    "pass": 3
+   },
+   {
+    "quote": "Check if updates are provided by the manufacturer.",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "email addresses, LinkedIn, application systems, scheduling tools, and other approved hiring platforms. We may also work with approved recruitment partners.",
+    "url": "https://remote.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to start growing your international team? Contact us today to",
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "pass": 1
+   },
+   {
+    "quote": "Want to take the stress out of managing an international team? Contact us today to",
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "pass": 1
+   },
+   {
+    "quote": "Want to take the stress and ambiguity out of international hiring? Contact us today to",
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "pass": 1
+   },
+   {
+    "quote": "Do you want to enjoy stress-free international hiring like Seaplane? Contact us today to",
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "pass": 1
+   },
+   {
+    "quote": "Do you want to enjoy stress-free international hiring like Gomada? Contact us today to schedule a consultation with one of Remote’s global hiring experts. If you’re ready to get started, you can set up your profile now and begin onboarding employees and contractors around the world in minutes.",
+    "url": "https://remote.com/blog/partnerships/remote-gomada",
+    "pass": 1
+   },
+   {
+    "quote": "Want to take the stress and ambiguity out of international hiring? Contact us today to",
+    "url": "https://remote.com/blog/partnerships/remote-simpleclub",
+    "pass": 1
+   },
+   {
+    "quote": "You can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "pass": 3
+   },
+   {
+    "quote": "Achieve \"user synchronization + cloud email usage\" in a hybrid configuration",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This creates a user object in the on-premises AD and assigns the RemoteMailbox attribute.",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "New-RemoteMailbox -Name \"山田 太郎\" `",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Enable-RemoteMailbox -Identity \"yamada.taro\" -RemoteRoutingAddress yamada.taro@tenant.mail.onmicrosoft.com",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The created remote mailbox can be verified using the Get-RemoteMailbox command.",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "グローバルHRプラットフォーム「Remote」日本市場向けサービス開始 | Remote Japan 株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルHRプラットフォーム「Remote」日本市場向けサービス開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "現地法人の有無にかかわらず、日本企業のグローバル展開を支援",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルHRプラットフォーム「Remote」を運営するRemote（本社：米国カリフォルニア州サンフランシスコ）は、11月13日（水）より日本でのサービスを開始したことをお知らせします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後、世界各国の人事業務をワンストップで提供することで、現地法人の有無にかかわらず、日本企業が新市場へ効率的に進出することをサポートします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の労働人口は今後減少を続け、2040年には1,100万人の労働力不足が想定されるとの予測があります（※1）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "実際、日本のスタートアップの82%が海外展開できていない現状があり、その主要な要因の一つとして人材確保の問題が挙げられています（※3）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "IDCの調査によると、日本企業の85%が今後12-18ヶ月以内に海外人材をリモートワークで正社員として採用する計画があり、これはアジア太平洋地域の中でも最も高い水準となっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業では、みずほ証券株式会社、株式会社グロービス、JCRファーマ株式会社、スマートニュース株式会社といった企業にすでに利用いただいています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジョンの実現に向けて、日本でサービス提供を開始できることを嬉しく思っています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「グローバル化促進のための日本企業及び外国企業の実態調査報告書」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社のプラットフォームは、コンプライアンスに準拠した円滑な運用を実現し、日本企業の国際競争力強化を支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、Remoteの日本への進出が、国境を超えた人材による分散型ワークモデルの普及を加速させ、日本がDXを加速させることに大きく貢献するものと確信しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済が転換期を迎える中、Remoteのプラットフォームは、日本企業に画期的な解決策を提供します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "それは、従来の「日本だけでの採用活動」という枠組みから脱却し、世界中から優秀な人材を集められる新しい採用戦略への転換です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "Remoteは、海外での給与支払いや採用に伴う複雑な手続きを簡素化することで、日本企業のグローバル競争力の強化を支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は他の多くの国と同様に、労働人口の課題や専門的なスキルへの需要増大に直面しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "Remoteの日本でのサービス開始により、企業は所在地を問わず優秀な人材を確保し、事業規模を拡大することが可能になります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "Remoteのプラットフォームは、グローバルに展開する日本企業が抱える重要な課題に対応しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外での採用に伴う複雑な手続きを解消することで、日本企業は新しい市場へスムーズに進出できるようになります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "Remoteは日本企業のグローバル展開を後押しする重要な役割を果たすと考えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせ：japan@remote.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "四丁目3番5号704号室 アークアウトソーシング株式会社內",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Remote Control — Grokipedia",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Remote Control Co., Ltd. (日本遠隔制御株式会社,",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "), commonly known as JR Propo, was a Japanese manufacturer specializing in radio control (RC) equipment for hobbyist models, including transmitters, receivers, servos, and related electronics for aircraft, helicopters, and programmable robots.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1976 in Higashi-Osaka, Osaka Prefecture, the company established itself as a key player in the RC industry by developing high-quality, reliable control systems that catered to enthusiasts worldwide, particularly through its popular JR Propo brand launched in the 1990s for RC helicopters and model aircraft.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "In 2013, Japan Remote Control partnered with U.S.-based Horizon Hobby to expand its market presence via the JR Americas office, enhancing distribution of its RC transmitters and accessories in North America.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "Commonly abbreviated as JR and branded under names like JR Propo or JR Racing, the firm quickly built a reputation among Japanese modelers for its foundational hardware, laying the groundwork for future expansions in RC technology.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "In the late 1970s and 1980s, Japan Remote Control expanded its operations beyond domestic markets, entering international arenas including North America through product distribution and partnerships, which helped solidify its position as a prominent player in the global radio control industry.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "During the 1990s, Japan Remote Control diversified its portfolio by introducing programmable robots and advanced electronic components, such as high-performance servos tailored for robotic applications, broadening its appeal in both hobby and industrial sectors.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "By the 2010s, Japan Remote Control Co., Ltd. (JR Propo) encountered significant economic pressures from intensifying competition with established rivals like Futaba in the radio control (RC) market, alongside global shifts toward lower-cost manufacturing overseas that eroded the profitability of Japanese producers.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "On December 26, 2017, the Osaka District Court issued a bankruptcy commencement order, with liabilities estimated at approximately 4 billion yen.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "In the aftermath, the company's assets—including trademarks, intellectual properties, and engineering drawings—were acquired by RC Depot (a partner firm) in April 2018, though a court order from the Osaka District prohibited further use of the JR Propo brand name.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "While new products under the DFA label continue development with updated specifications, the original JR Propo lineage as a distinct Japanese brand effectively ended, marking the close of an era in high-performance RC technology.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Remote Control Co., Ltd. (JR) pioneered the integration of Pulse Code Modulation (PCM) in RC systems during the 1980s, providing enhanced noise resistance over traditional Pulse Position Modulation (PPM) by encoding control signals digitally for improved reliability in electromagnetic interference-prone environments.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "During its peak decades, JR commanded a strong foothold in the Asia-Pacific RC hobby market, where Japanese brands led the sector due to technological innovation and local manufacturing advantages. This regional dominance positioned JR as a preferred choice for professional and enthusiast pilots seeking reliable control systems.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "The company's contributions reinforced Japan's prominence in the global RC hobby sector, alongside brands like Futaba.",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "flyrc.com/japan-radio-jr-announces-jr-americas-usa-office/",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "vrhc.co.uk/images/RC_Helicopters/Japan/JR/1997%20JR%20Heli%20Catalogue.pdf",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Jobs in Japan | Japan Dev",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Work from home, for a top-tier tech company in Japan.",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "🇯🇵 No Japanese Required",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Anywhere = accepting applicants from anywhere on earth (the company will sponsor your Japan visa).",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Only = you must be a resident of Japan to apply.",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Minimum Japanese skill level required to apply",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Not required = OK to apply even if you don't speak Japanese.",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Anywhere in Japan = OK to work fully remotely; you can live anywhere in Japan",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Moneytree・Japanese fintech startup",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Software Engineer - New Markets Japan (JLPT N1 Fluent)",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Staff Software Engineer - New Markets Japan (JLPT N1 Fluent)",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Dev・Modern tech jobs in Japan",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "PayPay Securities・Top Japan investi...",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "to get hand-picked tech jobs in Japan – straight to your inbox.",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グローバルHRプラットフォーム「Remote」日本市場向けサービス開始 | ... — Nov 13, 2024 · グローバルHRプラットフォーム「Remote」を運営するRemote（本社：米国カリフォルニア州サンフランシスコ）は、11月13日（水）より日本での ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "pass": 3
+   },
+   {
+    "quote": "雇用代行サービス「Remote」を日本市場向けに展開を開始—Remote Japan... — Remote Japanは、同社の雇用代行（EOR）サービス「Remote」を日本市場向けに展開を開始したことを発表した。 雇用代行サービスとは、顧客企業に代わり海外で人材を雇用し、給与支払いなどを行ってくれるもの。",
+    "url": "https://hrzine.jp/news/detail/6189",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Remote Control — Japan Remote Control Co., Ltd. (日本遠隔制御株式会社, Nihon Enkaku Seigyo Kabushiki-gaisha), commonly known as JR Propo, was a Japanese manufacturer specializing in radio control (RC) equipment for hobbyist models, including transmitters,…",
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Jobs in Japan — 5 days ago · Explore fully remote tech jobs in Japan. Work from home, for a top-tier tech company in Japan. Hand-picked tech jobs in Japan on Japan Dev.",
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Employer of Record & Payroll Services | Japan | Remote — Companies hiring in Japan are typically required to either own a local legal entity or work with a global employment platform like Remote that can legally provide employment services in the country. Remote can employ team members in Japan and keep you compliant.",
+    "url": "https://remote.com/country-explorer/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Japanese Jobs Online - Work From Home | Remote.co — Discover the flexibility of remote japanese jobs, which offer full-time, part-time, freelance, and work from anywhere opportunities. Check out the latest online japanese jobs and companies hiring!",
+    "url": "https://remote.co/remote-jobs/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Work in Japan: The Ultimate Guide for Foreigners — Mar 5, 2026 · How remote work in Japan really works for foreigners — from visa requirements and taxes to top remote jobs, best cities to live, and how to find and land flexible roles in Japan.",
+    "url": "https://joyn.tokyo/work/job/remote-work-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Improving Remote Manufacturing Operations With NETSCOUT ... — The cross-IT team has improved visualization and monitoring of their remote business operations and the mission-critical manufacturing devices operating across these locations by selecting NETSCOUT to design a single-vendor solution for network visibility, device monitoring, and synthetic testing.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Semiconductor Case Studies - aws.amazon.com — Learn how global medical technology company Siemens Healthineers Ultrasound secured remote device access and improved customer support using AWS.",
+    "url": "https://aws.amazon.com/manufacturing/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Revenue 2026: $300M ARR, $300M Raised - LATKA — Oct 7, 2026 · Remote is a global employment platform founded in 2019 by Job van der Voort and Marcelo Lebre that enables companies to hire workers in any country by managing payroll, benefits, compliance, taxes, stock options, and visas. Remote's annual recurring revenue passed $300M in May 2026 (TechCrunch).",
+    "url": "https://getlatka.com/companies/Remote",
+    "pass": 3
+   },
+   {
+    "quote": "Remote – Financial Footprint & Growth Factors – 2026 — Discover Remote's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/remote",
+    "pass": 3
+   },
+   {
+    "quote": "Remote - 2026 Company Profile, Team, Funding, Competitors ...Payroll startup Remote says it grew revenue 50% per employee ...Remote Revenue, Funding & Valuation - prospeo.ioRemote - Revenue, Funding, Valuation, Employees, Emails, PhonesRemote Technology 2026 Company Profile: Valuation, Funding ... — May 21, 2026 · Remote has raised $506M in funding from investors like Accel, Sequoia Capital and In",
+    "url": "https://tracxn.com/d/companies/remote/__G9a_iB-tkLD4i6M27U3GsIb3i0WSL6B872-d51NWz1Y",
+    "pass": 3
+   },
+   {
+    "quote": "Payroll startup Remote says it grew revenue 50% per employee ... — May 27, 2026 · But the real story, it insists, is what happened behind the scenes: a 50% increase in revenue per employee after the startup adopted AI at every level of the organization.",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Revenue, Funding & Valuation - prospeo.io — Remote has raised a total of $300,000,000 across 1 funding rounds. This investment has helped the company grow and expand its operations. Remote has revenue of $12,700,000, estimated valuation of $40,700,000, $300,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/remote-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Can I operate my home computer while away? The convenience of ... Oct 31, 2026 · In this article, I will introduce the mechanism of remote connection and how to use it safely, so that even those who are not familiar with IT or computers can understand it.",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Agent Feature Allows Antigravity to Run on Smartphones ... November 2, 2026 Remote Agent released Introduced on August 19, 2026 (v2.9.1), “Antigravity Remote Control” allowed users to remotely operate agents running on home or office PCs from browsers or smartphones while on the go. However, since the execution environment was strictly the local PC, there was a constraint that the computer ",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Desktop? About the equivalent VNC functionality Remote Desktop? About the equivalent VNC functionality しま Apr 17, 2023 17:07 Good work today as well. In a closed network environment limited to local use, you can respond to PC failures quickly and easily by connecting remotely instead of having to go to the site.",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Exchange Server] How to create a remote mailbox using GUI ... Jul 4, 2025 · A Remote Mailbox is an object required in a **hybrid environment (on-premises Exchange + Exchange Online)** to create a user account in on-premises Active Directory while placing the mailbox on the Exchange Online side.",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Can I operate my home computer while away? The convenience of remote connection and how to protect yourself from cyberattacks｜井上じゅん",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Can I operate my home computer while away? The convenience of remote connection and how to protect yourself from cyberattacks",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"It would be convenient if I could operate my home computer while I'm out.\"",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever thought about that?",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, there is now technology that allows you to operate your own computer from a remote location using the internet.",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, you can connect to your home computer while traveling to check photos or documents saved on it, or continue working on tasks you started at home.",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a very convenient technology, but security is a concern here.",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The fact that you can operate your home computer from the outside means that if the settings are incorrect, there is a risk of unauthorized access by third parties.",
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Agent Feature Allows Antigravity to Run on Smartphones | Google Antigravity｜岩崎修",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Agent Feature Allows Antigravity to Run on Smartphones | Google Antigravity",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "November 2, 2026 Remote Agent Released",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introduced on August 19, 2026 (v2.9.1),",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Antigravity Remote Control",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "made it possible to remotely operate agents running on home or office PCs from browsers or smartphones while on the go. However, since the execution environment was strictly the local PC, there was a constraint that the computer had to be left powered on (and awake).",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Amidst this, the update on November 2, 2026 (v2.29.0) added the long-awaited",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Antigravity Remote Agent",
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Desktop? About the equivalent VNC functionality｜しま",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Desktop? About the equivalent VNC functionality",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Good work today as well.",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a closed network environment limited to local use, you can respond to PC failures quickly and easily by connecting remotely instead of having to go to the site.",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While Remote Desktop is fine, it can be troublesome as it often requires changing PC firewall settings or encounters issues.",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With that in mind, I would like to introduce VNC, which has been used for a long time.",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The original VNC has ended development and updates, and many derivative applications exist. The application to download and use this time is 'UltraVNC'. Despite being free to use, its functionality is generally no different from Remote Desktop, and if you have used that application before, you should be able to get used to it immediately.",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Simply download the software from the following URL (either one is fine) and install it.",
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Exchange Server] How to create a remote mailbox using GUI and PowerShell｜sho2391",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Exchange Server] How to create a remote mailbox using GUI and PowerShell",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is an object required in a **hybrid environment (on-premises Exchange + Exchange Online)** to create a user account in on-premises Active Directory while placing the mailbox on the Exchange Online side.",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will explain how to",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "create a remote mailbox",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "in an Exchange Server environment using:",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GUI (Exchange Admin Center)",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PowerShell (Exchange Management Shell)",
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Remote (@remote) / X That’s what we built at Remote: a financial operating system for the global workforce, bringing the pay behind global work into one system of record. That’s what makes us different.",
+    "url": "https://x.com/remote",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Jobs Station (@Remotejobsst) / X Welcome to Remote Job Station! 📌 Remote job openings 💼 Multiple career fields 🔗 Direct application links 🔔 Regular job updates Your next opportunity starts with one click.",
+    "url": "https://x.com/Remotejobsst",
+    "pass": 3
+   },
+   {
+    "quote": "remote jobs hub (@remotejobs_hub) / X 🌍 YOUR NEXT WORK-FROM-HOME OPPORTUNITY STARTS HERE! 💻 We're welcoming applications for remote freelance and project-based opportunities worldwide. 📌 Available Roles: • Data Entry • Retyping • Writing & Rewriting • Translation • Virtual Assistance • Graphic & Logo Show more",
+    "url": "https://x.com/remotejobs_hub",
+    "pass": 3
+   },
+   {
+    "quote": "ZeusTHEgreat (@remotemondays) / X As a remote AI trainer on contract, you should have plan A to Z lol, and if you follow me steady I have made that environment possible for you.",
+    "url": "https://x.com/remotemondays",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Remote - LinkedIn We help pay the world. Remote brings workforce data, local expertise, payroll, payments, and multiple employment models together through one financial system of record.",
+    "url": "https://www.linkedin.com/company/remote.com",
+    "pass": 3
+   },
+   {
+    "quote": "Remote - LinkedIn Remote brings workforce data, local expertise, payroll, payments, and multiple employment models together through one financial system of record. Explore ways to hire and pay your global...",
+    "url": "https://na.linkedin.com/company/remote.com",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Jobs in Worldwide (34,000+ Open Roles) | LinkedIn Today’s top 34,000+ Remote jobs in Worldwide. Leverage your professional network, and get hired. New Remote jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/remote-jobs-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Work From Home Jobs in Remote (27,000+ Open Roles) | LinkedIn Today’s top 27,000+ Work From Home jobs in Remote. Leverage your professional network, and get hired. New Work From Home jobs added daily.",
+    "url": "https://in.linkedin.com/jobs/work-from-home-jobs-remote",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Remote - FacebookRemote.co - FacebookThe Remote Job Plug - FacebookRemote Life ( Bringing REAL Work From Home Jobs To YOU ...VRJ | Verified Remote Jobs - FacebookDigital Nomad Jobs: Remote Job Opportunities ... - FacebookRemote Jobs - Facebook Oct 21, 2026 · Remote CLI is a text-based way to run repeatable Remote work. Run it directly in a terminal, or tell a compatible AI agent what you want and ",
+    "url": "https://www.facebook.com/remote/",
+    "pass": 3
+   },
+   {
+    "quote": "Remote.co - FacebookThe Remote Job Plug - FacebookRemote Life ( Bringing REAL Work From Home Jobs To YOU ...VRJ | Verified Remote Jobs - FacebookDigital Nomad Jobs: Remote Job Opportunities ... - FacebookRemote Jobs - Facebook Oct 14, 2026 · High- paying, 100% remote positions are active and hiring right now across tech, operations, customer success, finance, and more. Swipe through to check out t",
+    "url": "https://www.facebook.com/remote.co/",
+    "pass": 3
+   },
+   {
+    "quote": "The Remote Job Plug - Facebook Oct 22, 2026 · The Remote Job Plug. 21,254 followers · 1,319 talking about this. Your plug for remote jobs, side hustles & online income opportunities. Daily leads •...",
+    "url": "https://www.facebook.com/profile.php/?id=61588821603271",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Life ( Bringing REAL Work From Home Jobs To YOU ... I’m currently looking for a remote work from home job and I’m really open to anything! I have experience in sales, customer service, e- commerce, eBay, administrative work, and running my own business.",
+    "url": "https://www.facebook.com/groups/rmtlife/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://remote.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/remote-fountain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/resources/case-studies/how-zapier-hires-globally-without-the-compliance-guesswork",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/global-hr/integrations-for-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/tag/company-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/tag/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/resources/case-studies/remote-reverse-tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/remote-mimo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/remote-tablevibe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/seaplane-remote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/resources/case-studies/qdrant-solutions-streamlines-global-operations-with-integrated-eor-and-contractor-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/remote-semrush",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/remote-talonone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/remote-gomada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/blog/partnerships/remote-simpleclub",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://eu-images.contentstack.com/v3/assets/bltbf56d62bc360c2d8/blt533f18a8bf58d813/6ac78cf61c4190b54ff42adc/integration-logos-grid-remote-logo@2x.webp?branch=production&width=3840&quality=90&auto=webp&disable=upscale",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrzine.jp/news/detail/6189",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hi-elcc.jp/remote-work/japan-remote-work-legal-compliance-points",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maniac-news.info/remote-work-companies-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/japan_remote_control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-dev.com/remote-jobs-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.co/remote-jobs/japanese",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbitskyline.com/semiconductor-customer-case-studies-at-orbit-skyline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/Remote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/remote",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/remote/__G9a_iB-tkLD4i6M27U3GsIb3i0WSL6B872-d51NWz1Y",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/remote",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Remotejobsst",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/remotejobs_hub",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/remotemondays",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/remote.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/remote.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/remote-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/jobs/work-from-home-jobs-remote",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/remote/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/remote.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61588821603271",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/rmtlife/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Remote 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000151645.html",
+    "https://hrzine.jp/news/detail/6189",
+    "https://hi-elcc.jp/remote-work/japan-remote-work-legal-compliance-points",
+    "https://maniac-news.info/remote-work-companies-japan/",
+    "https://note.com/m_watanabe_ccd/n/n45207fd4bac2",
+    "https://zisedaimedia.com/remote/remote-work-implementation",
+    "https://notepm.jp/blog/3357"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Remote 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://biz.moneyforward.com/contract/templates/990/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Remote Japan",
+   "results": [
+    "https://grokipedia.com/page/japan_remote_control",
+    "https://japan-dev.com/remote-jobs-in-japan",
+    "https://remote.com/country-explorer/japan",
+    "https://remote.co/remote-jobs/japanese",
+    "https://joyn.tokyo/work/job/remote-work-in-japan",
+    "https://japanlivinglife.com/articles/remote-work-japan-guide",
+    "https://remotefirstjobs.com/jobs/locations/japan",
+    "https://www.indeed.com/q-Japanese-Work-Remote-jobs.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Remote manufacturing customer case study",
+   "results": [
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/improving-remote-manufacturing-operations-with-netscout-vaas.pdf",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://orbitskyline.com/semiconductor-customer-case-studies-at-orbit-skyline/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.hcltech.com/case-studies/manufacturing",
+    "https://www.mitsubishielectric.com/fa/solutions/digital-manufacturing/en/casestudy/5/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Remote white label OR reseller OR partner program",
+   "results": [
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.seoreseller.com/",
+    "https://www.namesilo.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Remote founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/Remote",
+    "https://compworth.com/company/remote",
+    "https://tracxn.com/d/companies/remote/__G9a_iB-tkLD4i6M27U3GsIb3i0WSL6B872-d51NWz1Y",
+    "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "https://prospeo.io/c/remote-revenue",
+    "https://loice.ai/company-search/human-resources-services/remote-revenue/",
+    "https://pitchbook.com/profiles/company/169763-05"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Remote",
+   "results": [
+    "https://note.com/toyotainoue/n/n9a9337060971?hl=en",
+    "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f?hl=en",
+    "https://note.com/selfmemo/n/n99a6c8dcf49b?hl=en",
+    "https://note.com/sho879123/n/n8726688ee1ea?hl=en",
+    "https://note.com/hatsuuta/n/nca9421aba613?hl=en",
+    "https://note.com/pcubik/n/na04b03234169",
+    "https://note.com/_osamu_iwasaki_/n/n8c28e4fa224f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Remote",
+   "results": [
+    "https://x.com/remote",
+    "https://x.com/Remotejobsst",
+    "https://x.com/remotejobs_hub",
+    "https://x.com/remotemondays",
+    "https://x.com/MrP_remotejobs/status/2119784460937773375",
+    "https://x.com/remotejobs",
+    "https://x.com/applyremoteco"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Remote",
+   "results": [
+    "https://www.linkedin.com/company/remote.com",
+    "https://na.linkedin.com/company/remote.com",
+    "https://www.linkedin.com/jobs/remote-jobs-worldwide",
+    "https://in.linkedin.com/jobs/work-from-home-jobs-remote",
+    "https://opportunity.linkedin.com/jobs",
+    "https://ke.linkedin.com/jobs/view/data-entry-specialist-remote-at-better-jobs-group-4488193942",
+    "https://za.linkedin.com/jobs/view/executive-client-liaison-real-estate-remote-at-re-nvent-4485908335"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Remote",
+   "results": [
+    "https://www.facebook.com/remote/",
+    "https://www.facebook.com/remote.co/",
+    "https://www.facebook.com/profile.php/?id=61588821603271",
+    "https://www.facebook.com/groups/rmtlife/",
+    "https://www.facebook.com/groups/1729107011616662/",
+    "https://www.facebook.com/groups/remotejobsfordigitalnomads/",
+    "https://www.facebook.com/groups/901954586546769/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Remote note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Remote X 投稿",
+   "results": [
+    "https://www.rimini-protokoll.de/website/en/project/remote-x",
+    "https://github.com/dsanpang/RemoteX",
+    "https://par.npac-ntch.org/article/tag/15601",
+    "https://tieba.baidu.com/p/8536105589",
+    "https://github.com/xiaoliang-yang/remotex/blob/main/docs/manual.md",
+    "https://www.rimini-protokoll.de/website/en/text/remote-x",
+    "https://x.com/OpenAI/status/2113766354386084338"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部39頁・検索12回）"
+ }
+}

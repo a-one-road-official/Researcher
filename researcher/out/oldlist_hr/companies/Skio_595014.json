@@ -1,0 +1,1795 @@
+{
+ "name": "Skio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜NG",
+ "researched_at": "2026-11-09T21:24:32.652695+00:00",
+ "official_url": "https://skio.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "run their subscription program on Skio. Acquire more customers, increase LTV, and free your team to focus on growth.",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Skio team's responsiveness goes far beyond anything I've experienced with other SaaS vendors, especially in terms of onboarding processes. They provide us comfort and security in knowing we have a great tech stack in place to handle such a critical element of our business.\"",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We’ve gone through three different subscription software migrations, and Skio has been by far the best. From onboarding to launch, the process was incredibly well-managed and efficient. Post migration, we’ve been really impressed. Compared to other platforms we evaluated, Skio stood out as the most robust, agile, and forward-thinking.\"",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Director of Marketing, Just Ingredients",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Trigger offers, discounts, gifts, or product swaps based on cancel reasons, order milestones, or segments.",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive the right subscriber behavior with perks like volume discounts, surprise gifts. Everyone wins.",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Shopify experts rebuild your flows, selling plans, and storefront using best practices from hundreds of migrations",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our competitors invested in ads",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously: Klaviyo, Hubspot",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously: Pinterest, Amazon, Pivotal Labs, UToronto.",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Product",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously: Shopify Plus (Enterprise Accounts), Sprout Social, Tapcart, Clearpath Robotics.",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to reduce churn, boost retention, and actually scale.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Just Ingredients Turned Their Cancel Button Into a Retention Engine with Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pure TheraPro Rx and ISACC Media Quadrupled Save Rate on Skio's Cancel Flow",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "After ISACC Media rebuilt Pure TheraPro Rx's Cancel Flow on Skio, save rate climbed from 1.90% to 7.10% in one quarter. The Splash Screen alone saves 37.93%.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent Labs Scaled Retention into a Compounding Growth Engine with Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Wellbel migrated to Skio without losing a single subscriber record, preserving years of retention history that previous platform moves had wiped out. With HAM layered on top, the team replaced 10+ spreadsheets with automated forecasting and surfaces retention drivers 90% faster.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "When the funnel leak is at the top, retention tools can only do so much. \"I and love and you\" brought in Softlimit to trace the real problem to the product detail page, then used Skio to fix the full funnel from first click to cancel flow. The result: 25.6% more revenue, 20.7% more GMV, and 8,846 additional orders year over year.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "LIVFRESH was pushing serious volume but losing subscribers before they could stick. After migrating to Skio, they flipped their landing page default to subscription overnight, patched their cancel flow with founder video, and went from 8,500 to 55,000 active subscribers in eight months.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With a product designed for daily consumption and creator-led traffic pouring in, subscriptions weren't optional. They were the foundation for sustainable growth",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cornbread Hemp migrated from Stay.AI to Skio after their old platform couldn't deliver on promised features, then more than doubled their cancel save rate, recovered more failed payments, and grew their subscriber base 88%.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ALOHA Protects Ongoing Subscription Orders and Unlocks New Revenue with Skio × SavedBy",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ALOHA runs subscriptions on Skio and shipping protection through SavedBy. Together, they built the first FTC-compliant solution for protecting recurring subscription orders.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Omni Pet's team burned entire afternoons manually updating prices across thousands of subscriptions whenever costs shifted or discounts expired. Skio Journeys automated the whole pricing workflow, instantly updating rates post-checkout based on product type and order number—freeing the team to focus on growth while revenue climbed 66%.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Everyday Dose was losing revenue through prior platform's data loss bugs and broken login links that buried their team in support tickets. Skio put their subscriptions on autopilot, eliminated the technical chaos, and freed them to focus on growth instead of firefighting.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Bev's prior platform's clunky UI buried the team under support tickets and required 5 people to manage basic subscription problems. Skio's self-service portal cut support load 80%, dropped churn 10%, and freed the team to focus on building community.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "KraveBeauty's prior platform forced them to juggle split payments and duplicate SKUs that turned month-end into a nightmare. Skio unified everything in Shopify, killed the accounting chaos, and hit 5% of total revenue from subscriptions in 30 days.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Magic Mind's previous broken portal forced customers to email support just to cancel, burying the team in tickets as they scaled. Skio's self-service portal slashed support volume and boosted conversions through a three-week migration with zero downtime.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "SIMULATE's lean team was buried in login failures and duplicate order chaos that pulled focus from building products. Skio's passwordless login killed the support tickets and let them get back to scaling NUGGS.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Mìlà's prior setup drowned the support team in manual subscription fixes and login chaos. Skio's intuitive portal cut support tickets 80% and unlocked 5x subscription growth through passwordless login and self-service tools.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "OneBlade's prior setup blocked discount codes on subscriptions and turned a free-trial campaign into a fraud disaster that bled tens of thousands. Skio's Shopify-native checkout unlocked promotions, doubled conversions, and drove 49% AOV growth.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Waterboy's upsell process forced subscribers through multi-step checkout flows that killed conversions at the last click. Skio's Quick Actions embedded two-click add-ons directly into billing emails and 4x'd add-on revenue.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Skio's Surprise and Delight gifting program and multi-step cancel flow saved $30K monthly in cancelled revenue and 4x'd active subscribers in six months.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into Skio's partner ecosystem of exceptional agencies and tech partners to grow your subscription program.",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Exclusive partner pricing",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing & events",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "together to grow your clients' subscription programs.",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Skio has been an incredible partner to Prismfly and our clients alike! They represent the difference between a good & exceptional partnership, with quick response times, tailored solutions, and a can-do attitude. Also, each member is armed with substantial prior eCommerce experience.”",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Managing Partner at Prismfly",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Partnering with the Skio team has been nothing less than an absolute pleasure. They have one of the most impressive teams in ecomm right now, which is why to no surprise they have achieved Klaviyo Elite Partner status so quickly! They care, move with purpose, and always do whats right for their customers.”",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Shopify Subscription Software: Transparent Pricing, All Features Included | Skio",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "to reduce churn, boost retention, and actually scale.",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Surprise & Delight Gifting (with anti-fraud protection)",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Migration",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-On Onboarding & Training",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Direct Input on the Product Roadmap",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rewards that drive LTV and prevent churn",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Credits, tiers, and referrals built right into the portal. Subscribers see their progress, unlock better perks, and earn rewards for the behavior you actually want: staying active, spending more, and telling their friends.",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you charge for migration or onboarding?",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We focus on companies that have a \"pay money to make money\" mentality. This typically means product-market fit (or just wanting the best for your customers).",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We invest this money into hiring the best people so we can build you and your customers the best product possible.",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do transaction fees replace our payment processor fees?",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What results should we expect from payment recovery and churn prevention?",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How do discounts, bundles, and prepaid plans fit into pricing?",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Just Ingredients Turned Their Cancel Button Into a Retention Engine with Skio - skio: subscriptions for shopify",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Just Ingredients Turned Their Cancel Button Into a Retention Engine with Skio",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "- Sierra Hemmert, Sr. Director of Marketing @ Just Ingredients",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": ", Sr. Director of Marketing,",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Tweak Subscriptions via Text or Email",
+    "url": "https://skio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bold's clunky interface forced Ugmonk subscribers to email support for basic changes, burying the team in hundreds of tickets. Skio's self-service portal eliminated the support flood and helped them 4x subscribers while maintaining their polished brand aesthetic.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Magic Mind's previous broken portal forced customers to email support just to cancel, burying the team in tickets as they scaled. Skio's self-service portal slashed support volume and boosted conversions through a three-week migration with zero downtime.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Waterboy's upsell process forced subscribers through multi-step checkout flows that killed conversions at the last click. Skio's Quick Actions embedded two-click add-ons directly into billing emails and 4x'd add-on revenue.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "And their Technical Account Manager meant no ticket queue. No 48-hour email waits. A person who knew their business, answered questions fast, and solved issues immediately. Julie's CX team got context-aware guidance, dynamic recommendations, immediate troubleshooting, and workflow improvements tailored to their multi-SKU reality.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Quick Actions Embedded in Email",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Quick Action links in billing reminder emails let subscribers add products without portal logins. Click, add, done. This drove significant add-on revenue growth while giving subscribers frictionless control.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Add-on revenue grew 121% over five months through above-the-fold portal placement, Quick Actions in emails, and upsell logic that made expanding orders effortless.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable performance eliminated the bizarre bugs completely. Payments processed reliably, customer data stayed secure, and the subscriber portal simply worked. Panicked emails from customers about login failures or duplicate charges virtually disappeared.",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "\"Push subscriptions to customers without worrying the product will break, explore new landing pages and A/B test other growth channels like SMS and email, invest in product development to upsell happy and loyal customers.\"",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Stage 2: Code replacement without tears. Magic Mind's previous setup was a rat's nest of custom code. Skio engineers replaced it seamlessly. When deleting the old app nuked the entire purchase box, Magic Mind fired off a panicked email. Skio fixed it in 15 minutes.",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "The bigger shift was philosophical. Retention stopped being a single cancel-flow problem and became a multi-surface strategy spanning storefront experience, conversion paths, email, SMS, and the subscriber portal. Each layer reduced friction and gave subscribers better options before they churned.",
+    "url": "https://skio.com/case-studies/transparent-labs-scaled-retention-into-a-compounding-growth-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "from constant flood to \"email or two tops\"",
+    "url": "https://skio.com/case-studies/matchabar-eliminated-support-blockers-and-built-partnership-for-growth-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "After watching emails flood in from struggling subscribers, Audrey knew it was time to switch away from Recharge. Geoffrey Miles, advisor to MatchaBar and VP of Marketing at Bev, made initial Skio recommendation due to his team's success with platform.",
+    "url": "https://skio.com/case-studies/matchabar-eliminated-support-blockers-and-built-partnership-for-growth-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "MatchaBar chose complete subscriber migration since current subscribers would retain total access to previous account info and order history. Communications to subscription holders about update that would improve experiences received maybe \"email or two tops\" in response.",
+    "url": "https://skio.com/case-studies/matchabar-eliminated-support-blockers-and-built-partnership-for-growth-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Cost center of employees previously sifting through emails and struggling with platform controls became unblocked, enabling focus on strategic initiatives rather than troubleshooting.",
+    "url": "https://skio.com/case-studies/matchabar-eliminated-support-blockers-and-built-partnership-for-growth-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Platform flexibility and instant responsiveness enable confident pursuit of growth initiatives including family subscription plans, SMS and email notifications, and brand ambassador relationships that drive sustained subscription growth.",
+    "url": "https://skio.com/case-studies/matchabar-eliminated-support-blockers-and-built-partnership-for-growth-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "DTCPG implemented the changes within the first month after migration, getting discount messaging live on-site and in emails within days while the team started testing multi-month supply options to improve retention. They could iterate because the platform let them make changes.",
+    "url": "https://skio.com/case-studies/how-dtcpg-quadrupled-absorption-companys-subscription-opt-in-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Email Lists & e-Newsletter",
+    "url": "https://orienteeringusa.org/2026/03/us-skio-team-arrives-in-japan-for-the-2026-world-ski-orienteering-championships/",
+    "pass": 3
+   },
+   {
+    "quote": "Get verified emails, company info, funding data and more with Clay",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Use Clay to find other emails",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "to get anyone's work email in seconds.",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Marie Claire Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Aveanna Healthcare Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Bitsight Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Wilmington Trust Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Avis Budget Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Cash App Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Bio-rad Laboratories Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Iheartmedia Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Coca-Cola Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "British GAS Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Sotheby's Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago White SOX Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Keller Williams Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Valley Bank Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Racetrac Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Arvest Bank Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Advocate Health Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Fortress Investment Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Anduril Industries Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Hudson River Trading Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Cytokinetics Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Portfolio Email Format",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Built the way Shopify intended. Trusted by DTC brands like",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Built the way Shopify intended. Trusted by DTC brands like",
+    "url": "https://skio.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", Director of Customer Experience at Just Ingredients, run subscription operations for this Orem-based wellness brand making real food products trusted by over 1 million followers. Since migrating from Yotpo to Skio in June 2025, they've transformed their cancel flow into a retention engine that saves thousands of subscribers monthly.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Airgas is a leading U.S. supplier of industrial, medical, and specialty gases, safety products, ammonia products, and process chemicals serving over one million customers nationwide.",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Sonova is a Swiss medical equipment company that develops and manufactures hearing aids, cochlear implants, and wireless communication systems for people with hearing loss worldwide.",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Mapei is a global chemical manufacturing company specializing in adhesives, sealants, and chemical products for the building industry across 59 countries.",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Shure is a global audio electronics manufacturer specializing in microphones, wireless systems, conferencing solutions, and headphones for professional and consumer markets worldwide.",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Marvell Technology is a semiconductor company that designs and develops data infrastructure solutions for enterprise, cloud, automotive, and carrier markets worldwide.",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Instant Hydration Hit 58% Subscription Revenue in One Quarter with Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "In less than 90 days with Skio, they transformed from zero recurring revenue to subscription-first business.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "\"I and love and you\" Grew Subscription Revenue 25.6% YoY with Skio and Softlimit",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "When the funnel leak is at the top, retention tools can only do so much. \"I and love and you\" brought in Softlimit to trace the real problem to the product detail page, then used Skio to fix the full funnel from first click to cancel flow. The result: 25.6% more revenue, 20.7% more GMV, and 8,846 additional orders year over year.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Attaboy Scaled to $1M ARR in Under 4 Weeks with Middle Out and Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Attaboy and Middle Out scaled to $1M ARR in under 4 weeks by automating subscriber conversions with Skio's Journeys.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ALOHA Protects Ongoing Subscription Orders and Unlocks New Revenue with Skio × SavedBy",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Omni Used Journeys to Increase Subscription Revenue 66% with Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Omni Pet's team burned entire afternoons manually updating prices across thousands of subscriptions whenever costs shifted or discounts expired. Skio Journeys automated the whole pricing workflow, instantly updating rates post-checkout based on product type and order number—freeing the team to focus on growth while revenue climbed 66%.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Luma's old platform bled money through failed payments and hid churn reasons behind \"other.\" Skio's smart dunning recovered 10x more revenue and helped them scale from 2,000 to 25,000 active subscriptions.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Everyday Dose was losing revenue through prior platform's data loss bugs and broken login links that buried their team in support tickets. Skio put their subscriptions on autopilot, eliminated the technical chaos, and freed them to focus on growth instead of firefighting.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "KraveBeauty Hit 5% Total Revenue from Subscriptions in 30 Days with Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "KraveBeauty's prior platform forced them to juggle split payments and duplicate SKUs that turned month-end into a nightmare. Skio unified everything in Shopify, killed the accounting chaos, and hit 5% of total revenue from subscriptions in 30 days.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Since launching with Skio as subscription foundation, they've scaled from zero to 4,000 subscribers generating $130K monthly recurring revenue while doubling subscription rates through testing.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Gains In Bulk 5X'd Subscribers and Hit Record Revenue with Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Gains In Bulk was stuck at 1,500 subscribers because their platform couldn't convert buyers or stop churn. Skio's optimized checkout and cancel flows broke the ceiling—5x'd subscribers to 7,800 in three months and delivered three record-breaking revenue months in a row.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Waterboy 4X'd Add-On Revenue and Doubled Growth with Skio",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Waterboy's upsell process forced subscribers through multi-step checkout flows that killed conversions at the last click. Skio's Quick Actions embedded two-click add-ons directly into billing emails and 4x'd add-on revenue.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Skio's Surprise and Delight gifting program and multi-step cancel flow saved $30K monthly in cancelled revenue and 4x'd active subscribers in six months.",
+    "url": "https://skio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "jump in add-on revenue",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "growth in recurring subscription revenue",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Just Ingredients didn't choose to leave Yotpo, they were forced out when Yotpo chose to sunset their subscriptions product. They'd left Recharge for Yotpo to save money, and now faced another platform migration with thousands of subscribers and millions in monthly recurring revenue at risk.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "121% increase in add-on revenue",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Quick Action links in billing reminder emails let subscribers add products without portal logins. Click, add, done. This drove significant add-on revenue growth while giving subscribers frictionless control.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Cancel flow save rates jumped from 7.3% in June to 13.9% in July, then exploded to 30.8% in August, a 323% improvement. That progression meant hundreds of thousands in retained revenue from subscribers who chose pause, delay, or modified frequency instead of permanent cancellation.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Add-on revenue grew 121% over five months through above-the-fold portal placement, Quick Actions in emails, and upsell logic that made expanding orders effortless.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring subscription revenue climbed 28% in five months. More saves, more upsells, fewer CX bottlenecks - the combination compounded across the entire subscriber base.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Just Ingredients turned subscription operations from platform liability into competitive advantage. With retention dialed in and recurring revenue up 28% in five months, they're executing retail expansion into thousands of stores while scaling DTC subscriptions.",
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Hydration Hit 58% Subscription Revenue in One Quarter with Skio - skio: subscriptions for shopify",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Hydration Hit 58% Subscription Revenue in One Quarter with Skio",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "of total revenue now subscription-driven",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": ", partnered with Instant Hydration to launch their subscription program in September 2024. This Austin-based hydration brand built early success on one-time purchases but realized they were leaving growth and predictability on the table without recurring revenue. In less than 90 days with Skio, they transformed from zero recurring revenue to subscription-first business.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Hydration launched in 2024 targeting $5.5M annual revenue through direct-to-consumer hydration products. The Austin-based brand built early momentum on one-time purchases, but by mid-2024, the team faced the classic DTC reality: living off transactions is a treadmill.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Every month started at zero. Every repeat customer had to be re-acquired. Rising CAC pressure made profitability harder without repeat orders, and customer loyalty remained at risk with no incentive for buyers to stick around.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Matthew Holman and the team realized they needed a business model transformation—converting casual buyers into loyal repeat customers while building dependable recurring revenue streams.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Hydration's transaction-only model was creating unsustainable growth dynamics. No recurring revenue stream meant zero foundation of predictable income. Rising paid acquisition costs pressured profitability without repeat orders driving lifetime value.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Customer loyalty remained fragile—one-time buyers had no reason to return, making churn inevitable. The brand was stuck in constant re-acquisition mode instead of building compound growth through retention.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "During Black Friday/Cyber Monday, the platform processed thousands of new subscriptions in just days. Multiple six-figure subscription revenue days proved the model was both scalable and profitable, with November activations hitting 85% higher than September baseline.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "in subscription revenue",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "58% of total revenue",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "The transformation was complete in one quarter. Subscriptions grew from zero to 58% of total revenue (up from 38% baseline), creating durable recurring income where none existed before.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Hydration proved that transactional brands can transform into subscription powerhouses in a single quarter. From zero recurring revenue to subscription-first business model with tens of thousands of active subscribers.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Subscriptions shifted from add-on feature to core business foundation driving predictable revenue growth.",
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Everyday Dose launched in 2020 with flagship product targeting customers looking to optimize energy and health without coffee jitters. Based in Miami and targeting $33M+ annual revenue, the brand quickly built passionate customer base through organic social media sharing and referrals.",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Their Previous Platform Was Bleeding Revenue Through Data Loss",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Everyday Dose's subscription setup was hemorrhaging money through mysterious technical failures that cost the cash-strapped startup real revenue. Customers' stored credit card information would mysteriously disappear, causing payment failures that meant active subscribers weren't getting billed and orders weren't shipping.",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Login nightmares compounded revenue losses. Subscribers faced broken login links, 404 error pages, and an unintuitive interface when trying to manage orders. Many gave up and contacted support for minor changes.",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable performance eliminated the bizarre bugs completely. Payments processed reliably, customer data stayed secure, and the subscriber portal simply worked. Panicked emails from customers about login failures or duplicate charges virtually disappeared.",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Lower churn and higher satisfaction drove more subscribers staying longer, boosting recurring revenue while time savings translated into creative marketing moves bringing new customers.",
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "William Hicks knew this from day one. As Co-Founder and President, he was tasked with building a subscription foundation that could scale with their ambitious growth plans. The San Francisco-based brand was targeting $10M+ in annual revenue, and subscriptions would drive the majority of that growth.",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Their Previous Platform Was Bleeding Revenue and Burning the Support Team",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "For a subscription-first brand, this wasn't just embarrassing. It was revenue at risk. Every rejected card meant lost MRR. Every bad shipment eroded trust. Customers expecting a clean, functional portal got friction instead.",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Migrating subscription platforms keeps founders up at night. Thousands of recurring payments on the line, one wrong move, and revenue vanishes overnight.",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Stage 3: Full subscriber transition. The final step ported over the entire subscriber base and monthly payments. Zero downtime. Zero angry customers. Zero lost revenue.",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Protection Through Platform Partnership",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Conversion improvement: Streamlined funnel boosting acquisition rates",
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Clean Labels, Clean Revenue Model",
+    "url": "https://skio.com/case-studies/transparent-labs-scaled-retention-into-a-compounding-growth-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent Labs built its reputation on a promise most supplement companies won't make: full-disclosure labeling, clinically dosed ingredients, no proprietary blends. Every formula is third-party tested. Every ingredient is listed at its exact dosage. In an industry built on vague claims and hidden fillers, that transparency became the product itself.",
+    "url": "https://skio.com/case-studies/transparent-labs-scaled-retention-into-a-compounding-growth-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "The product wasn't the problem. Transparent Labs had strong product trust and high repeat-purchase intent. But the system around the subscription wasn't built to capture that intent at scale, and every gap meant revenue walking out the door quietly.",
+    "url": "https://skio.com/case-studies/transparent-labs-scaled-retention-into-a-compounding-growth-engine-with-skio",
+    "pass": 1
+   },
+   {
+    "quote": "And that baseline started reinforcing growth. Each saved subscriber stayed in the billing base, continued generating future revenue, and reduced reliance on new acquisition. Over time, those effects stacked. What began as incremental improvements evolved into a system where gains hold, improvements build on each other, and impact increases as the program scales.",
+    "url": "https://skio.com/case-studies/transparent-labs-scaled-retention-into-a-compounding-growth-engine-with-skio",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Tap into Skio's partner ecosystem of exceptional agencies and tech partners to grow your subscription program.",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join a community of world-class agencies and tech partners",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "hear from our agency partners",
+    "url": "https://skio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "EML Payments is a global payments company operating across Australia, the UK, Europe, and North America, serving major banks, government agencies, retail brands, and financial services firms.",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ロート製薬、スキンケアブランド「SKIO(スキオ)」を発売 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXLRSP536677_Z20C20A6000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社（本社:大阪市、社長:杉本雅史）は、「無理なく、無駄なく、美しく」をコンセプトに、効果も効率も叶えるスキンケアブランド「SKIO（スキオ）」を、2020年7月22日（水）よりSKIOオンラインショップや楽天市場をはじめとするECサイトにて発売いたします",
+    "url": "https://www.nikkei.com/article/DGXLRSP536677_Z20C20A6000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXLRSP536677_Z20C20A6000000/",
+    "pass": 3
+   },
+   {
+    "quote": "効果も効率も求めるミレニアル世代の女性に届ける、D2Cブランド「SKIO」新発売 | ニュース | ロート製薬株式会社",
+    "url": "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "pass": 3
+   },
+   {
+    "quote": "ロート製薬株式会社（本社：大阪市、社長：杉本雅史）は、「無理なく、無駄なく、美しく」をコンセプトに、",
+    "url": "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "pass": 3
+   },
+   {
+    "quote": "女性の社会進出が当たり前になりつつある現代、日本国内の通販・EC市場はかねてより拡大を続けておりましたが、昨今の社会情勢の影響で、こうした購買行動の変化はさらに加速すると見ております",
+    "url": "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "pass": 3
+   },
+   {
+    "quote": "2025年日本国際博覧会",
+    "url": "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "pass": 3
+   },
+   {
+    "quote": "US SkiO Team Arrives in Japan for the 2026 World Ski Orienteering Championships! - Orienteering USA",
+    "url": "https://orienteeringusa.org/2026/03/us-skio-team-arrives-in-japan-for-the-2026-world-ski-orienteering-championships/",
+    "pass": 3
+   },
+   {
+    "quote": "US SkiO Team Arrives in Japan for the 2026 World Ski Orienteering Championships!",
+    "url": "https://orienteeringusa.org/2026/03/us-skio-team-arrives-in-japan-for-the-2026-world-ski-orienteering-championships/",
+    "pass": 3
+   },
+   {
+    "quote": "The US team of four athletes arrived at Rusutsu Resort in Hokkaido, Japan last week for the World Ski Orienteering Championships. Racing kicks off on 3/2 with the Sprint, but the team has been busy preparing with training and some public races.",
+    "url": "https://orienteeringusa.org/2026/03/us-skio-team-arrives-in-japan-for-the-2026-world-ski-orienteering-championships/",
+    "pass": 3
+   },
+   {
+    "quote": "資格を所得し食育活動をするかたわら、現在は日本の文化を学びながら日常を豊かにするプロダクト開発などにも携わるなど、幅広く活動中",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内にお住まいの方、InstagramアカウントまたはTwitterアカウントをお持ちの方",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロート製薬、スキンケアブランド「 SKIO (スキオ)」を発売 — ロート製薬、スキンケアブランド「 SKIO (スキオ)」を発売 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXLRSP536677_Z20C20A6000000/",
+    "pass": 3
+   },
+   {
+    "quote": "D2Cブランド「 SKIO 」新発売 | ニュース | ロート製薬株式会社 — D2Cブランド「 SKIO 」新発売 | ニュース | ロート製薬株式会社 ロート製薬株式会社 https://www.rohto.co.jp > news > release",
+    "url": "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO （スキオ）公式 (@skio_official) - Instagram — SKIO （スキオ）公式 (@skio_official) - Instagram Instagram https://www.instagram.com > skio_official",
+    "url": "https://www.instagram.com/skio_official/",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO (スキオ)はどこで売ってる?取扱店と販売店を調査 - lemona — SKIO (スキオ)はどこで売ってる?取扱店と販売店を調査 - lemona lemona.jp https://www.lemona.jp > レビュー",
+    "url": "https://www.lemona.jp/10381/?srsltid=AYCX9vKIszbWONWKaOK2yjqhEcyY2lXDu78KUxy-giSlMazU98TYDkU-",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO | スキンケア | ロート製薬オンライン【公式】 — SKIO | スキンケア | ロート製薬オンライン【公式】 ロート製薬オンライン https://www.shop.rohto.co.jp > category > skincare > skio",
+    "url": "https://www.shop.rohto.co.jp/category/skincare/skio?srsltid=AYCX9vJkj_ad_MCRDxCEK5SZ0Ab6PW9j-J93Kpbl3NeFjuVXz2CCFheL",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO | スキンケア | ロート製薬オンライン【公式】 — SKIO | スキンケア | ロート製薬オンライン【公式】 ロート製薬オンライン https://www.shop.rohto.co.jp > category > skincare > skio",
+    "url": "https://www.shop.rohto.co.jp/category/skincare/skio?srsltid=AYCX9vIWhbGyuZdUoaOhBKMnpPh9qUjXvWsHDy3mlblcPAYe-wZUHNm0",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO | ロート製薬オンライン【公式】 — SKIO | ロート製薬オンライン【公式】 ロート製薬オンライン https://www.shop.rohto.co.jp > skio > skio-index",
+    "url": "https://www.shop.rohto.co.jp/skio/skio-index.html?srsltid=AYCX9vLkeSeBUER7Qo67hSz_NrTTI1YJqsZr1syBDf-HByCbVubWWekI",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO JAPAN Team (@ skiojapan ) • Instagram photos and videos — SKIO JAPAN Team (@ skiojapan ) • Instagram photos and videos Instagram https://www.instagram.com > skiojapan",
+    "url": "https://www.instagram.com/skiojapan/",
+    "pass": 3
+   },
+   {
+    "quote": "US SkiO Team Arrives in Japan for the 2026 World Ski ... — US SkiO Team Arrives in Japan for the 2026 World Ski ... Orienteering USA https://orienteeringusa.org > News",
+    "url": "https://orienteeringusa.org/2026/03/us-skio-team-arrives-in-japan-for-the-2026-world-ski-orienteering-championships/",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO のコンテンツ一覧｜美容・化粧品情報はアットコスメ — SKIO のコンテンツ一覧｜美容・化粧品情報はアットコスメ アットコスメ https://www.cosme.net > SKIO",
+    "url": "https://www.cosme.net/brands/123485/article/",
+    "pass": 3
+   },
+   {
+    "quote": "case studies | skio — case studies | skio skio.com https://skio.com > case-studies",
+    "url": "https://skio.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Space Goods Hit 4,000 Subscribers in Six Months with Skio — Space Goods Hit 4,000 Subscribers in Six Months with Skio skio.com https://skio.com > case-studies > space...",
+    "url": "https://skio.com/case-studies/space-goods-hit-4-000-subscribers-in-six-months-with-skio",
+    "pass": 3
+   },
+   {
+    "quote": "How Much Did Skio Raise? Funding & Key Investors - Clay — How Much Did Skio Raise? Funding & Key Investors - Clay Clay https://www.clay.com > skio-funding",
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Skio Revenue 2024: $10M Est. - GetLatka — Skio Revenue 2024: $10M Est. - GetLatka GetLatka https://getlatka.com > companies > skio",
+    "url": "https://getlatka.com/companies/skio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Skio never hired a sales team, never ran an ad, and just sold ... — Skio never hired a sales team, never ran an ad, and just sold ... The Next Web https://thenextweb.com > news > skio...",
+    "url": "https://thenextweb.com/news/skio-recharge-105m-exit-subscription-shopify",
+    "pass": 3
+   },
+   {
+    "quote": "Skio , a 2020 Y Combinator alum that builds subscription ... — Skio , a 2020 Y Combinator alum that builds subscription ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DX7AxOnkecG/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "はじめまして、 SKIO 公式noteです。｜skio_official はじめまして、 SKIO 公式noteです。｜skio_official note https://note.com > 美容 > スキンケア",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO プチプチ部 アイディア投稿コンテスト詳細お知らせ - note SKIO プチプチ部 アイディア投稿コンテスト詳細お知らせ - note note https://note.com > DIY > DIY全般",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "一番かしこい買い方です。 SKIO の定期購入の活用～解約方法 ... 一番かしこい買い方です。 SKIO の定期購入の活用～解約方法 ... note https://note.com > 美容 > コスメ",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO のゲルが、エコな容器仕様に生まれ変わります！ - note SKIO のゲルが、エコな容器仕様に生まれ変わります！ - note note https://note.com > ライフスタイル > 美容・スキンケア",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "はじめまして、SKIO公式noteです。｜skio_official",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "ロート製薬のD2CブランドSKIO（スキオ）です！",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "SKIOは「無理なく、無駄なく、美しく」をコンセプトに、現代を生き抜く肌のために開発され、2020年7月にデビューしたスキンケアのブランドです。",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "noteでは、「無理なく、無駄なく、美しく。」を実現するSKIOのある暮らしや、お客様とのコミュニケーションをお伝えしていきたいと思っています。",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO公式noteの初投稿では、SKIO誕生に込めた想いをお伝えさせていただければと思います。",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "「無理なく、無駄なく、美しく」にたどり着くまで",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "時短をしたいんじゃない、手を抜きたくはないんです！少ないアイテムできちんと効果を得られるスキンケアがしたいんです。",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "ある日、小さいお子さまがいるママさん社員に言われたこの一言が、SKIOの運命を大きく変えることになりました。",
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "pass": 3
+   },
+   {
+    "quote": "#SKIOプチプチ部 アイディア投稿コンテスト詳細お知らせ♪｜skio_official",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "#SKIOプチプチ部 アイディア投稿コンテスト詳細お知らせ♪",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "SKIOのパッケージのプチプチを、可愛く、楽しく、アップサイクル（リメイク）して、地球にとっても「無理なく、無駄なく、美しく」しませんか？",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "今日はそんなワクワクするような楽しいイベントのお誘いです♪",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "「SKIOプチプチ部」はSKIOを購入いただいた際に届くバブルパック（プチプチ）を、日常生活でもかわいく楽しく活用していく活動です。",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "お客様とブランドが一緒にアイデアを広げていくとともに、プチプチを通してお客様の創造性を解放し、楽しんでエシカルな取り組みに参加いただくことを大切にしています！",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "SKIOはスキンケアにまつわるすべての時間を「無理なく、無駄なく、美しく」したいと考え、「捨てる」ための時間も大切にしています。",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "そのこだわりを反映した、包装材と緩衝材が一体となったバブルパック（プチプチ）のパッケージは、お客様より、捨てやすさや環境配慮といった機能面に加え、見た目のデザイン面もご好評をいただいています。",
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "pass": 3
+   },
+   {
+    "quote": "一番かしこい買い方です。SKIOの定期購入の活用～解約方法のススメ｜skio_official",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "一番かしこい買い方です。SKIOの定期購入の活用～解約方法のススメ",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "今回はSKIOのお得な買い方、定期購入サービスについてご紹介させてください！",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "定期購入のイメージといえば、以下のようなご意見が多いのではないでしょうか？",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "◆定期購入って、解約の時めんどくさそう・・・",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "◆気づいたら定期購入にされてて、高い金額を請求された・・・",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "◆価格が安くなる以外に定期購入って何がメリットかよくわからない・・・",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "・・・総じて、定期購入に対してネガティブなイメージをお持ちの方も多いと思います。",
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "pass": 3
+   },
+   {
+    "quote": "SKIOのゲルが、エコな容器仕様に生まれ変わります！｜skio_official",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   },
+   {
+    "quote": "SKIOのゲルが、エコな容器仕様に生まれ変わります！",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   },
+   {
+    "quote": "お客様のお声から誕生した、サスティナブルな新容器！",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   },
+   {
+    "quote": "SKIOのサステナブルへの新しい取り組みをご紹介いたします。",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からも「ゲルの容器を毎回捨てるのに罪悪感がある」「簡単にセットできるつけかえタイプが欲しい」というお声をいただく中で、お客様のお声を最大限反映した、SKIO独自の新容器がようやく実現できました。",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO VCホワイトピールゲル（ロートSホワイトゲル）",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO VBリンクルクリアゲル（ロートSリンクルゲル）",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   },
+   {
+    "quote": "１：”つけかえ”ができるようになりました！",
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Skio (@SkioHQ) / X Skio (@SkioHQ) / X X https://x.com > SkioHQ",
+    "url": "https://x.com/SkioHQ",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO JAPAN Team (@SkioJapan) / X SKIO JAPAN Team (@SkioJapan) / X X https://x.com > SkioJapan",
+    "url": "https://x.com/SkioJapan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Skio - LinkedIn Skio - LinkedIn LinkedIn https://www.linkedin.com > skio",
+    "url": "https://www.linkedin.com/company/skio",
+    "pass": 3
+   },
+   {
+    "quote": "Noah Finn - Growth @ Skio (YC S20) | $250k to $35M ARR Noah Finn - Growth @ Skio (YC S20) | $250k to $35M ARR LinkedIn https://www.linkedin.com > noahmfinn",
+    "url": "https://www.linkedin.com/in/noahmfinn",
+    "pass": 3
+   },
+   {
+    "quote": "Jacey Finn - Head of People / Recruiting at Skio | LinkedIn Jacey Finn - Head of People / Recruiting at Skio | LinkedIn LinkedIn https://www.linkedin.com > jaceyfinn",
+    "url": "https://www.linkedin.com/in/jaceyfinn",
+    "pass": 3
+   },
+   {
+    "quote": "Aidan Thibodeaux - CEO of Skio - LinkedIn Aidan Thibodeaux - CEO of Skio - LinkedIn LinkedIn https://www.linkedin.com > aidanthib...",
+    "url": "https://www.linkedin.com/in/aidanthibodeaux",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SKIO Music (@skiomusic) - Facebook SKIO Music (@skiomusic) - Facebook Facebook https://www.facebook.com > ... > Brand > App page",
+    "url": "https://www.facebook.com/skiomusic/",
+    "pass": 3
+   },
+   {
+    "quote": "3 SKIO contest entries. 1 official deadmau5 album ... - Facebook 3 SKIO contest entries. 1 official deadmau5 album ... - Facebook Facebook https://www.facebook.com > skiomusic > posts > 3-skio-c...",
+    "url": "https://www.facebook.com/skiomusic/posts/3-skio-contest-entries-1-official-deadmau5-album-deadmau5-stevie-appleton-scienc/1631774392295283/",
+    "pass": 3
+   },
+   {
+    "quote": "SKIO Music on Reels - Facebook SKIO Music on Reels - Facebook Facebook https://www.facebook.com > ... > SKIO Music > Videos",
+    "url": "https://www.facebook.com/skiomusic/videos/2212457442928848/",
+    "pass": 3
+   },
+   {
+    "quote": "We know your remixes. Not your faces Let's fix that. SKIO is in ... We know your remixes. Not your faces Let's fix that. SKIO is in ... Facebook https://www.facebook.com > skiomusic > posts > we-kno...",
+    "url": "https://www.facebook.com/skiomusic/posts/we-know-your-remixes-not-your-faces-lets-fix-thatskio-is-in-amsterdam-for-ade-oc/1651810723624983/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://skio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/just-ingredients-turned-their-cancel-button-into-a-retention-engine-with-skio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/instant-hydration-hit-58-subscription-revenue-in-one-quarter-with-skio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/everyday-dose-put-subscriptions-on-autopilot-and-cut-support-chaos-with-skio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/magic-mind-slashed-support-tickets-and-boosted-conversions-with-skio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/transparent-labs-scaled-retention-into-a-compounding-growth-engine-with-skio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/kitsch-cut-churn-in-half-and-doubled-subscribers-with-skio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/matchabar-eliminated-support-blockers-and-built-partnership-for-growth-with-skio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skio.com/case-studies/how-dtcpg-quadrupled-absorption-companys-subscription-opt-in-with-skio",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP536677_Z20C20A6000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://netkeizai.com/articles/detail/1158",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/skio_official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ski-inc.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shop.rohto.co.jp/category/skincare/skio?srsltid=AYCX9vJkj_ad_MCRDxCEK5SZ0Ab6PW9j-J93Kpbl3NeFjuVXz2CCFheL",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/skio_official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bgent.net/view/1116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shop.rohto.co.jp/category/skincare/skio?srsltid=AYCX9vIWhbGyuZdUoaOhBKMnpPh9qUjXvWsHDy3mlblcPAYe-wZUHNm0",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shop.rohto.co.jp/skio/skio-index.html?srsltid=AYCX9vLkeSeBUER7Qo67hSz_NrTTI1YJqsZr1syBDf-HByCbVubWWekI",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/skiojapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://orienteeringusa.org/2026/03/us-skio-team-arrives-in-japan-for-the-2026-world-ski-orienteering-championships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIIxHY3tHU-kRfi5rlyvWT_6OMhimdBhigLn1dlbuAFeMtsbphP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kearney.com/service/operations-performance/industry-4.0-the-future-of-production/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clay.com/dossier/skio-funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/skio.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thenextweb.com/news/skio-recharge-105m-exit-subscription-shopify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skio_official/n/nd1961505c725",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skio_official/n/n235edfcf84ce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SkioHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SkioJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/skio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/noahmfinn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jaceyfinn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aidanthibodeaux",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skiomusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skiomusic/posts/3-skio-contest-entries-1-official-deadmau5-album-deadmau5-stevie-appleton-scienc/1631774392295283/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skiomusic/videos/2212457442928848/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skiomusic/posts/we-know-your-remixes-not-your-faces-lets-fix-thatskio-is-in-amsterdam-for-ade-oc/1651810723624983/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SkioHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Skio 日本 導入",
+   "results": [
+    "https://www.nikkei.com/article/DGXLRSP536677_Z20C20A6000000/",
+    "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "https://netkeizai.com/articles/detail/1158",
+    "https://www.instagram.com/skio_official/",
+    "https://www.lemona.jp/10381/?srsltid=AYCX9vKIszbWONWKaOK2yjqhEcyY2lXDu78KUxy-giSlMazU98TYDkU-",
+    "https://iyakutsushinsha.com/2020/06/29/7%E6%9C%8822%E6%97%A5%E3%82%88%E3%82%8A%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89skio%E3%82%92ec%E3%82%B5%E3%82%A4%E3%83%88%E3%81%A7%E7%99%BA%E5%A3%B2-%E3%80%80/",
+    "https://www.bci.co.jp/nichiryu/article/7277",
+    "https://www.syogyo.jp/news/2020/06/post_028105",
+    "https://i-voce.jp/feed/3507625/",
+    "https://www.shop.rohto.co.jp/skio/skio-index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ski-inc.jp/",
+    "https://www.shop.rohto.co.jp/category/skincare/skio?srsltid=AYCX9vJkj_ad_MCRDxCEK5SZ0Ab6PW9j-J93Kpbl3NeFjuVXz2CCFheL",
+    "https://www.instagram.com/skio_official/",
+    "https://www.bgent.net/view/1116",
+    "https://ski-doo.brp.com/jp/ja/shopping-tools/find-a-dealer.html",
+    "https://www.talent-book.jp/ROHTO/stories/47068",
+    "https://steep.jp/custom/icelantic_furansuya/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%A2%E3%82%A4",
+    "https://netkeizai.com/articles/detail/1158"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Skio Japan",
+   "results": [
+    "https://www.shop.rohto.co.jp/category/skincare/skio?srsltid=AYCX9vIWhbGyuZdUoaOhBKMnpPh9qUjXvWsHDy3mlblcPAYe-wZUHNm0",
+    "https://www.shop.rohto.co.jp/skio/skio-index.html?srsltid=AYCX9vLkeSeBUER7Qo67hSz_NrTTI1YJqsZr1syBDf-HByCbVubWWekI",
+    "https://www.instagram.com/skiojapan/",
+    "https://orienteeringusa.org/2026/03/us-skio-team-arrives-in-japan-for-the-2026-world-ski-orienteering-championships/",
+    "https://www.cosme.net/brands/123485/article/",
+    "https://orienteering.sport/wsoc-kicks-off-monday-in-japan/",
+    "https://x.com/skio_official",
+    "https://www.amazon.co.jp/%E3%82%B9%E3%82%AD%E3%82%AA-%E3%83%AD%E3%83%BC%E3%83%88%E8%A3%BD%E8%96%AC/s?k=%E3%82%B9%E3%82%AD%E3%82%AA+%E3%83%AD%E3%83%BC%E3%83%88%E8%A3%BD%E8%96%AC",
+    "https://www.instagram.com/skio_official/",
+    "https://www.skijapan.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Skio manufacturing customer case study",
+   "results": [
+    "https://skio.com/case-studies",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIIxHY3tHU-kRfi5rlyvWT_6OMhimdBhigLn1dlbuAFeMtsbphP",
+    "https://www.kearney.com/service/operations-performance/industry-4.0-the-future-of-production/case-studies",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.simio.com/case-studies/scaling-manufacturing-45x-how-lmac-group-used-simio-to-transform-a-metal-fabrication-operation",
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://www.partnerportal.io/case-studies/skio",
+    "https://www.sas.com/en_us/customers.html",
+    "https://www.mckinsey.com/capabilities/operations/how-we-help-clients/solving-the-digital-manufacturing-disconnect",
+    "https://www.casestudies.com/company/skio"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skio white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "https://skio.com/partners",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Skio founded funding employees revenue",
+   "results": [
+    "https://skio.com/case-studies/space-goods-hit-4-000-subscribers-in-six-months-with-skio",
+    "https://www.clay.com/dossier/skio-funding",
+    "https://getlatka.com/companies/skio.com",
+    "https://thenextweb.com/news/skio-recharge-105m-exit-subscription-shopify",
+    "https://www.instagram.com/p/DX7AxOnkecG/",
+    "https://www.crunchbase.com/organization/skiohq",
+    "https://www.linkedin.com/posts/traded-venture-capital_venturecapital-skio-recharge-activity-7457092902339637248-IcoE",
+    "https://finance.yahoo.com/markets/stocks/articles/y-combinator-alum-skio-sells-235852035.html",
+    "https://www.ycombinator.com/companies/skio",
+    "https://compworth.com/company/skio"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Skio",
+   "results": [
+    "https://note.com/skio_official/n/nd1961505c725",
+    "https://note.com/skio_official/n/n235edfcf84ce",
+    "https://note.com/skio_official/n/n1f11dbb6dd3f",
+    "https://note.com/skio_official/n/nf11b0d8f6d4e",
+    "https://note.com/skio_official/n/ne016d49eb990",
+    "https://note.com/skio_official/n/n16b3282ddc86",
+    "https://note.com/skio_official/n/n20d063452efe",
+    "https://note.com/skio_official/n/n693e64903060",
+    "https://note.com/skio_official/n/n050ba36efa8b",
+    "https://note.com/skio_official/n/ne954d216d34d?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Skio",
+   "results": [
+    "https://x.com/SkioHQ",
+    "https://x.com/icon",
+    "https://x.com/icon/status/2092312369292517678",
+    "https://x.com/SkioJapan",
+    "https://x.com/eyecare_cp/status/1442323107310669829",
+    "https://x.com/MimiBeauty__/status/1808697238069391709",
+    "https://x.com/skio_official",
+    "https://x.com/SkioJapan/status/2029207059510772119/photo/1",
+    "https://x.com/RealSkipBayless",
+    "https://x.com/SkioJapan/status/1900674216325972002"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Skio",
+   "results": [
+    "https://www.linkedin.com/company/skio",
+    "https://www.linkedin.com/in/noahmfinn",
+    "https://www.linkedin.com/in/jaceyfinn",
+    "https://www.linkedin.com/in/aidanthibodeaux",
+    "https://www.linkedin.com/in/jack-doheny",
+    "https://www.linkedin.com/posts/oisino_recharge-just-acquired-skio-for-105m-the-activity-7455655172674019328-4_Y1",
+    "https://www.linkedin.com/posts/vinnyluka_so-the-cats-out-of-the-bag-when-i-joined-activity-7455961300821655552-bDer",
+    "https://ca.linkedin.com/company/skio-music",
+    "https://www.linkedin.com/in/tyler-yannes",
+    "https://www.linkedin.com/company/skio-music"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Skio",
+   "results": [
+    "https://www.facebook.com/skiomusic/",
+    "https://www.facebook.com/skiomusic/posts/3-skio-contest-entries-1-official-deadmau5-album-deadmau5-stevie-appleton-scienc/1631774392295283/",
+    "https://www.facebook.com/skiomusic/videos/2212457442928848/",
+    "https://www.facebook.com/skiomusic/posts/we-know-your-remixes-not-your-faces-lets-fix-thatskio-is-in-amsterdam-for-ade-oc/1651810723624983/",
+    "https://www.facebook.com/owlcity/posts/loved-listening-to-the-skio-music-remix-submissions-over-the-past-few-weeks-it-w/10156153880647025/",
+    "https://www.facebook.com/skiomusic/photos/",
+    "https://www.facebook.com/skiomusic/videos/1702843521137364/",
+    "https://www.facebook.com/skiomusic/posts/the-official-byor-disconnect-remix-contest-is-now-open-on-skio-%EF%B8%8Fthis-one-is-diff/1637112738428115/",
+    "https://www.facebook.com/skiomusic/posts/50000-streams-in-under-7-months-and-its-yellowtaels-second-official-release-from/1667037758768946/",
+    "https://www.facebook.com/skiomusic/posts/the-official-da-ti-take-me-there-remix-contest-is-now-open-on-skio-%EF%B8%8Fone-charting/1590813246391398/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Skio note 社長",
+   "results": [
+    "https://note.com/moral_quokka1076",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://www.rohto.co.jp/news/release/2020/0629_01",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skio X 投稿",
+   "results": [
+    "https://x.com/SkioHQ",
+    "https://code.skio.com/",
+    "https://skiomusic.com/faq/the-skio-community/",
+    "https://www.youtube.com/watch?v=rNt0xEMaePw",
+    "https://www.facebook.com/skiohq/",
+    "https://solo.to/skiomusic",
+    "https://www.youtube.com/watch?v=SG9gYsK73lM",
+    "https://prtimes.jp/main/html/rd/p/000000116.000044879.html",
+    "https://x.com/skiomusic",
+    "https://x.com/Leletw8v/reposts"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

@@ -1,0 +1,491 @@
+{
+ "name": "Avignon Ceramics — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T21:45:01.268009+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Avignon Ceramics — VoxelMatters - The largest database of ...3DCeram Sinto and Avignon Ceramic detail ceramic 3D printing ...代理店・取扱店を検索｜正規代理店・全国対応|MetoreeHome - Vigon| オフィスの購買ナビゲート（オフィス用品の通販サービス紹介） NAVI...海外ネットワーク | グローバルネットワーク | 企業情報 | 信越化学工...車両アクセサリー - Official Porsche Website — 3DCeram Sinto, a turnkey provider of solutions for the additive manufacturing of ceramics, with over 15 years experie",
+    "url": "https://www.voxelmatters.directory/company/avignon-ceramics/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookAvignon Ceramic - FacebookFacebookAvignon Céramic - FacebookVoxelMatters - Exciting Collaboration in Ceramic 3D... | FacebookVoxelMatters - How ceramic additive manufacturing could ...VoxelMatters - Reinventing ceramics, Olivier van Herpt ... At Paris Design Week, Rollo Studio unveiled the U Collection: 3D printed lighting finished to look like hand- glazed ceramic tiles. Ea",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3k0s36AR4K8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dceram.com/investment-casting-a-new-partnership-u3dc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/avignon-ceramics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/3dceram-sinto-and-avignon-ceramic-detail-ceramic-3d-printing-partnership-in-new-video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vigon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinto-advanced-ceramics.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edwin-mall.jp/shop/goods/search.aspx?stockpresence=A&search.x=true&select_item=9801&select_brand=2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sinto.co.jp/ir/news/5375",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyoclass.com/Product/Detail/view/pid/646",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256806350437236.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.touyamaceramic.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/spectrum-filaments-materials-3d-printing/?srsltid=AYCX9vKW25COz9LGQnaZ9_cDV8HCkQLYEe77urcaeNMm6snvt2yVjH44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E9%AA%A8/s?k=%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88+%E9%AA%A8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3k0s36AR4K8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dceram.com/investment-casting-a-new-partnership-u3dc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dceram.com/investment-casting-a-new-partnership-u3dc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3k0s36AR4K8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ceramic-applications.com/3dceram-sinto-and-avignon-ceramic-an-exclusive-video-revealing-the-behind-the-scenes-of-a-co-development-between-french-companies-in-the-aerospace-sector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/albums/B003GS2J3E",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00263786/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5131/4323/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/avignon-ceramic-profile_b42c6c3efe8406ac",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pappers.fr/entreprise/avignon-ceramic-339742934",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/avignon-ceramic/347759778",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/211683-16",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Avignon Ceramics — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.youtube.com/watch?v=3k0s36AR4K8",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printing-service/",
+    "https://3dceram.com/investment-casting-a-new-partnership-u3dc/",
+    "https://additiveplus.com/ceramic-cores-investment-casting-3d-printing/?srsltid=AYCX9vKBKvLAj-pwUgc2u4rXHC-xUfjnc7wO9UtoQ5f69furi0yD4Atc",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://3dprintingindustry.com/news/3dceram-sinto-and-avignon-ceramic-partner-on-ceramic-3d-printing-for-aerospace-cores-253093/",
+    "https://www.azom.com/suppliers.aspx?SupplierID=6343",
+    "https://www.ceramic-applications.com/additive-manufacturing/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/avignon-ceramics/",
+    "https://www.voxelmatters.com/3dceram-sinto-and-avignon-ceramic-detail-ceramic-3d-printing-partnership-in-new-video/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.vigon.com/",
+    "https://www.navilion.com/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters 日本 販売",
+   "results": [
+    "https://sinto-advanced-ceramics.co.jp/",
+    "https://edwin-mall.jp/shop/goods/search.aspx?stockpresence=A&search.x=true&select_item=9801&select_brand=2",
+    "https://www.sinto.co.jp/news/5375",
+    "https://tokyoclass.com/Product/Detail/view/pid/646",
+    "https://www.urban-research.jp/shop/g/gDR26910-4031298/?ismodesmartphone=on&srsltid=AYCX9vKFVyI5G4mwX-dZF88uzAga_Are2CuTyFsy8zaP_wQ49Kdk5OCW",
+    "https://eleshop.jp/shop/c/c66320201/?srsltid=AYCX9vLdwUglkxGTjI9gN_zzD4iIpYxl7uLYxPybsxGc5RNcQ25483G2",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vJkeb72LqwTmVw0dGHYVoixIcZ7HMhhKNXTUDUzG8gf7blDqXyB",
+    "https://ceramichemax.jp/",
+    "https://creator.holoearth.com/shop/products/1020133",
+    "https://www.avignonceramic.com/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://ja.aliexpress.com/item/1005006536751988.html",
+    "https://store.touyamaceramic.co.jp/",
+    "https://idarts.co.jp/3dp/spectrum-filaments-materials-3d-printing/?srsltid=AYCX9vKW25COz9LGQnaZ9_cDV8HCkQLYEe77urcaeNMm6snvt2yVjH44",
+    "https://www.amazon.co.jp/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E9%AA%A8/s?k=%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88+%E9%AA%A8",
+    "https://filgen.jp/Product/Bioscience4/Innotere/index.html",
+    "https://www.monotaro.com/g/04125299/?srsltid=AYCX9vI7qndfaT531SCM_7jbuKp_cyIvBNUUVeK9mqAk2ggln8o_jBGJ",
+    "https://m.makenail.jp/product/zoom.html?product_no=4619",
+    "https://globalcraftinnovations.com/products/IjZhYzhiYzRhMThlOWFmMTAzN2EzOWM3NSI=",
+    "https://globalcraftinnovations.com/products/IjZhYzhjOTgyMThlOWFmMTAzN2EzYTU5ZiI=",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.youtube.com/watch?v=3k0s36AR4K8",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://3dceram.com/investment-casting-a-new-partnership-u3dc/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printing-service/",
+    "https://additiveplus.com/ceramic-cores-investment-casting-3d-printing/?srsltid=AYCX9vL-fVRoJGiil34cKf5D-8AHAiihtcYLge_m_xhpdU196SL6mtDK",
+    "https://www.ceramic-applications.com/3dceram-sinto-and-avignon-ceramic-an-exclusive-video-revealing-the-behind-the-scenes-of-a-co-development-between-french-companies-in-the-aerospace-sector/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.linkedin.com/posts/3dceram_ceramitec-ceramitec2026-additivemanufacturing-activity-7442869165071294464-anBL",
+    "https://www.avignonceramic.com/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://3dceram.com/investment-casting-a-new-partnership-u3dc/",
+    "https://www.youtube.com/watch?v=3k0s36AR4K8",
+    "https://www.ceramic-applications.com/3dceram-sinto-and-avignon-ceramic-an-exclusive-video-revealing-the-behind-the-scenes-of-a-co-development-between-french-companies-in-the-aerospace-sector/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printing-service/",
+    "https://3dprintingindustry.com/news/3dceram-sinto-and-avignon-ceramic-partner-on-ceramic-3d-printing-for-aerospace-cores-253093/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://nishimuraac.com/3dprinting/",
+    "https://www.sinto-advanced-ceramics.com/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Avignon Ceramics — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/albums/B003GS2J3E",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://www.amazon.co.jp/プレイマット-ベビープレイマット-シームレスプレイマット-マット【ホワイト-70x120】/dp/B0GR5FPNTM",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6",
+    "https://music.amazon.co.jp/tracks/B003GS4AB8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Avignon Ceramics — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00263786/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/p/5131/4323/",
+    "https://www.monotaro.com/p/3655/7647/",
+    "https://www.monotaro.com/p/0227/5813/",
+    "https://www.monotaro.com/g/00008776/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://rocketreach.co/avignon-ceramic-profile_b42c6c3efe8406ac",
+    "https://www.pappers.fr/entreprise/avignon-ceramic-339742934",
+    "https://www.zoominfo.com/c/avignon-ceramic/347759778",
+    "https://pitchbook.com/profiles/company/211683-16",
+    "https://www.verif.com/en/company/AVIGNON-CERAMIC-68d9c7631299230338e5c93a/",
+    "https://www.avignonceramic.com/en/about-us/",
+    "https://numbers.finance/entreprise/avignon-ceramic-339742934"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Avignon Ceramics — VoxelMatters",
+   "results": [
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Avignon Ceramics — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/i/status/1339486284495134720",
+    "https://x.com/VoxelMatters/status/2036387917493416329",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Vanlenciacf/status/2115571969827668368",
+    "https://x.com/PopBase/status/2116494180054909027",
+    "https://x.com/DemocraticWins/status/2117994783016685719"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Avignon Ceramics — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/avignon-ceramic",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://fr.linkedin.com/in/carole-blazik-9530495b",
+    "https://fr.linkedin.com/in/philippe-coulon-b92021a5",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://pe.linkedin.com/posts/voxelmatters_voxelmatters-ceramic-am-focus-2024-ebook-activity-7223963030068379648-Shq9",
+    "https://il.linkedin.com/in/lena-grachova-59726380"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Avignon Ceramics — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Avignon-Ceramic-369505076777086/",
+    "https://www.facebook.com/Avignon-Céramic-101758098796891/",
+    "https://www.facebook.com/VoxelMatters/posts/reinventing-ceramics-olivier-van-herpt-explores-traditional-white-and-blue-delft/984902955015163/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/posts/exciting-collaboration-in-ceramic-3d-printing-upnano-and-glassomer-have-joined-f/1002668138530901/",
+    "https://www.facebook.com/VoxelMatters/posts/how-ceramic-additive-manufacturing-could-play-a-role-in-the-development-of-futur/1823122891193161/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Avignon Ceramics — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/hashtag/voxelmatters",
+    "https://www.avignonceramic.com/en/",
+    "https://www.avignonceramic.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/3dceram-sinto-and-avignon-ceramic-detail-ceramic-3d-printing-partnership-in-new-video/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

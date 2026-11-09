@@ -1,0 +1,500 @@
+{
+ "name": "Digital Craft DVF — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T21:27:57.572461+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Federico Sher - Co-founder of VoxelMatters | LinkedInDVF - Your recipe for successful physical/digital innovation ...Digital Craft Co. | LinkedIn Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ connec",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookDigital Crafter - FacebookDigital Craft - Facebook[ SPECTROOM ] and DIGITAL CRAFT DVF... - S P E C T R O O M ...After several months of research [... - S P E C T R O O M ...The Digital Craft - FacebookVoxelMatters - Cementing its leadership in digital... - Facebook A dress with servo motors, a dress made of 1,200 hand- assembled tiles, and a dress that reshapes itself. 👗 Thi",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Crafter - FacebookDigital Craft - Facebook[ SPECTROOM ] and DIGITAL CRAFT DVF... - S P E C T R O O M ...After several months of research [... - S P E C T R O O M ...The Digital Craft - FacebookVoxelMatters - Cementing its leadership in digital... - Facebook Jun 25, 2026 · The Digital Crafter family wishes everyone a Merry Christmas and Happy New Year! 🎅🎄 2025 is just around the corner! Whe",
+    "url": "https://www.facebook.com/digitalcrafter/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dwasp.com/en/digital-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/James_McAvoy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/carbon-launches-db-4000-denture-base-resin-for-digital-dentures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digicraft.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assetstore.unity.com/ja-JP/listing?aid=1011l4sD8&nf-ec_price_filter=20..26&f-ec_sale_filters=on_sale&f-ec_category=3d&srsltid=AYCX9vLcYtsnfvM5435seq6tzDYm5Hs8x9Y8vnTOI8b1m8P8fHbEcLEd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=LuWkAOmrp44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=F6V6fL3Hyss",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/dp/B0CN2VDS57",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/Digital-Craft-Printing-Architectural-Design/dp/0993508707",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/p/2351/6788/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.monotaro.com/ir/irbackno.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/08495654/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0859/2211/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.com/company-revenue-lookup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/digital-craft-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/digitalcrafter/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Digital Craft DVF — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.3dwasp.com/en/digital-fabrication/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.creat3d.shop/technologies?srsltid=AYCX9vIrMxqhsOFcVuLedY9sPx3emCplGSi2vBhFqOIMuzz3oqzPkhvS",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://www.youtube.com/watch?v=EffPB8N9Mj0",
+    "https://www.voxelmatters.directory/company-category/digital-inventory/",
+    "https://partsupply.3dexperience.3ds.com/ja/welcome"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/James_McAvoy",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.voxelmatters.com/carbon-launches-db-4000-denture-base-resin-for-digital-dentures/",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "https://osoyoo.com/ja/2016/04/11/drive-dht11-temperature-sensor-with-raspberry-pi/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://vrcfinder.net/ja/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters 日本 販売",
+   "results": [
+    "https://digicraft.jp/",
+    "https://assetstore.unity.com/ja-JP/listing?aid=1011l4sD8&nf-ec_price_filter=20..26&f-ec_sale_filters=on_sale&f-ec_category=3d&srsltid=AYCX9vLcYtsnfvM5435seq6tzDYm5Hs8x9Y8vnTOI8b1m8P8fHbEcLEd",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.youtube.com/watch?v=LuWkAOmrp44",
+    "https://www.illgames.jp/product/honeycome_dolce/digitalcraft.php",
+    "https://www.rakuseimodel.co.jp/onlineshop/product_list_by_maker.php?sicode=249",
+    "https://ja.aliexpress.com/item/1005006543717213.html",
+    "https://digifab.or.jp/salesmenu",
+    "https://store.animax.co.jp/products/MCAN013",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.youtube.com/watch?v=F6V6fL3Hyss",
+    "https://www.poly-maker.jp/",
+    "https://www.mitajimuki.com/user_data/cate_fdm_print_supply.php?srsltid=AYCX9vIH_WYubMfg1jSbwDbBd-W5YOAHrPks9jlOs94tmxX5WRlMk7v5",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vLIoAvIeykI6kHFyaFytTHic_60gHZBg8LBT3-IdpZRz7ZvO7HT",
+    "https://shop.exmatelab.com/",
+    "https://www.solidyard.jp/",
+    "https://make.dmm.com/print/material/",
+    "https://shop-green-ocean.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.tctmagazine.com/japanese-additive-manufacturing-a-puzzle-box/",
+    "https://www.pcbway.jp/rapid-prototyping/3d-printing/",
+    "https://www.youtube.com/watch?v=EffPB8N9Mj0",
+    "https://centroform.com/dealers",
+    "https://builder3dprinters.com/resellers/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.3dnatives.com/en/events/tct-japan/",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.youtube.com/watch?v=EffPB8N9Mj0",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/en/tct/product",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Digital Craft DVF — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/dp/B0CN2VDS57",
+    "https://www.amazon.co.jp/Digital-Craft-Printing-Architectural-Design/dp/0993508707",
+    "https://affiliate.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://sellercentral.amazon.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Digital Craft DVF — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://corp.monotaro.com/ir/irbackno.html",
+    "https://www.monotaro.com/g/08495654/",
+    "https://www.monotaro.com/p/0859/2211/",
+    "https://www.monotaro.com/g/02618659/",
+    "https://www.monotaro.com/p/0853/2081/",
+    "https://www.monotaro.com/g/02888691/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.voxelmatters.com/",
+    "https://companydata.com/company-revenue-lookup/",
+    "https://prospeo.io/c/digital-craft-revenue",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "https://www.zoominfo.com/c/dvf/30395117",
+    "https://www.cbinsights.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Digital Craft DVF — VoxelMatters",
+   "results": [
+    "https://note.com/pacificspatial/n/n7f44ff094058?hl=en",
+    "https://note.com/hc_gooday/n/n0bf5bf4683d5",
+    "https://note.com/syanada/n/n4a937609c253?hl=en",
+    "https://note.com/royal_vole835",
+    "https://note.com/digi_cra",
+    "https://note.com/sj_2020/n/n494c87da7182",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Digital Craft DVF — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Digital Craft DVF — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://in.linkedin.com/posts/cambridge-consultants_desirability-viability-feasibility-cambridge-activity-7031272020193484801-hmGq",
+    "https://in.linkedin.com/company/digital-craft-co"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Digital Craft DVF — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/digitalcrafter/",
+    "https://www.facebook.com/p/Digital-Craft-61577893574737/",
+    "https://www.facebook.com/spectroom.pt/posts/-spectroom-and-digital-craft-dvf-present-generative-ceramic-morphogenesis-at-lon/1039284277399348/",
+    "https://www.facebook.com/thedigicraft/",
+    "https://www.facebook.com/VoxelMatters/posts/cementing-its-leadership-in-digital-additive-mass-production-desktop-metal-acqui/1876256535879796/",
+    "https://www.facebook.com/spectroom.pt/posts/after-several-months-of-research-spectroom-and-digital-craft-dvf-present-generat/1034890431172066/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters note 社長",
+   "results": [
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/posts/daniel-valencia-ferrá-093b9999_hello-everyone-as-the-founder-of-digital-activity-7161707906873151488-Pf-J",
+    "https://www.voxelmatters.com/about/",
+    "https://muckrack.com/davide-sher",
+    "https://www.youtube.com/@voxelmatters",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/posts/daniel-valencia-ferrá_hello-everyone-as-the-founder-of-digital-activity-7161707906873151488-q-vP",
+    "https://www.voxelmatters.com/category/marketing/interviews/",
+    "https://www.linkedin.com/posts/dawn-sutcliffe-berlin_i-had-the-pleasure-of-a-1-on-1-workshop-with-activity-7388917845080055808-IRep"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Digital Craft DVF — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

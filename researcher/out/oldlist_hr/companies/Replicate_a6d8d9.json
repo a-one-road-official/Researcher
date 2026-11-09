@@ -1,0 +1,1672 @@
+{
+ "name": "Replicate",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / AI｜未接触",
+ "researched_at": "2026-11-09T21:47:14.834368+00:00",
+ "official_url": "https://replicate.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金",
+    "value": "従量課金。出力枚数・出力動画の秒数・GPUの稼働秒数のいずれかで計算",
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$57.8M",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "01-Jan-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "665,320 $0.000010  $0.23 $0.23 1x $0.23 3.1%",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "1,692,441 $0.000010  $1.25 $1.25 1x $1.25 7.87%",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "black-forest-labs/flux-2-pro",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "google/nano-banana-pro",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "black-forest-labs/flux-pro",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate videos from images",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenAI's latest image generation model with better instruction following and adherence to prompts",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "recraft-v4-styles-pro-svg",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recraft V4 Styles Pro SVG generates high-quality editable vector images that match a reusable style or attached reference images.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "flux-2-pro",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All the latest models are on Replicate. They’re not just demos — they all actually work and have production-ready APIs.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate videos with MiniMax H3 Lite, the lower-cost version of MiniMax H3. Supports text-to-video, first- and last-frame image-to-video, and reference-based video generation at 480P or 768P.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate videos with MiniMax H3 Highspeed, a faster version of MiniMax H3 that balances quality and speed. Supports text-to-video, first- and last-frame image-to-video, and reference-based video generation at 768P.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Anthropic's Opus model for long-running agentic coding and knowledge work, at a lower price than Opus 5",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "p-video-2-pro-reference",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pruna's reference-to-video model, built on MiniMax H3. Generate 5 to 15 second video from a prompt plus up to 9 images, 3 videos, and 3 audio clips, with speed and cost modes.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wan 3.0 generates video from a text prompt or a starting image, with cinematic motion and support for 480p, 720p, and 1080p output up to 30 seconds.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ByteDance's flagship video model, with native audio, 30-second clips, and large sets of image, video, and audio references.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inworld's most expressive text-to-speech model, with natural-language steering, real-time latency, and support for more than 100 languages.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "xAI's video model. Generate short videos with synchronized sound from text, animate an image, or edit a video.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our community has already published thousands of models that are ready to use in production. You can run these with one line of code.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can improve models with your own data to create new models that are better suited to specific tasks.",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "training = replicate.trainings.create(",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"predict.py:Predictor\"",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Next, define how predictions are run on your model with predict.py:",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BasePredictor, Input, Path",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"\"\"Load the model into memory to make running multiple predictions efficient\"\"\"",
+    "url": "https://replicate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thousands of open-source machine learning models have been contributed by our community and more are added every day. We also host a wide variety of proprietary models.",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "varies according to the hardware in use. When running or training one of these public models, you only pay for the time it takes to process your request.",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "flux-1.1-pro",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Faster, better FLUX Pro. Text-to-image model with excellent image quality, prompt adherence, and output diversity.",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Recraft V3 (code-named red_panda) is a text-to-image model with the ability to generate long texts, and images in a wide list of styles. As of today, it is SOTA in image generation, proven by the Text-to-Image Benchmark by Artificial Analysis",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated inference for Wan 2.1 14B image to video, a comprehensive and open suite of video foundation models that pushes the boundaries of video generation.",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "second of output video",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated inference for Wan 2.1 14B image to video with high resolution, a comprehensive and open suite of video foundation models that pushes the boundaries of video generation.",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike public models, most private models (with the exception of",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ") run on dedicated hardware so you don't have to share a queue with anyone else. This means you pay for all the time instances of the model are online: the time they spend setting up; the time they spend idle, waiting for requests; and the time they spend active, processing your requests. If you get a ton of traffic, we automatically scale up and down to handle the demand.",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For fast booting fine-tunes you'll only be billed for the time the model is active and processing your requests, so you won't pay for idle time like with other private models. Fast booting fine-tunes are labeled as such in the model's version list.",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise & volume discounts",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Help with onboarding, custom models, and optimizations",
+    "url": "https://replicate.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise – Replicate",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise users get access to 50,000+ models through one API and one contract.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Run in production without managing infra.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and compliance",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "We’re built for enterprise security, privacy, and compliance.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Stay compliant with data processing agreements.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Scale usage without provisioning or queues.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Reserve compute with predictable costs.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support when you need it",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Higher GPU limits for bigger workloads",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Get more compute to handle large workloads.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "A single point of contact for all your enterprise needs.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Get discounted pricing when you scale.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Contact sales to discuss your enterprise needs.",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Cloudflare careers page",
+    "url": "https://replicate.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "参考：https://replicate.com/pricing",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに自分でデプロイした private モデルは専用のハードウェアで動くため、処理中だけでなく起動中・待機中の時間も課金対象になる（fast booting fine-tunes を除く",
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "private モデルは処理中だけでなく起動中・待機中も課金される",
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about pricing",
+    "url": "https://apidog.com/jp/blog/replicate-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "SOC 2、GDPR、ISO 27001",
+    "url": "https://apidog.com/jp/blog/replicate-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "\"prompt\": \"a ceramic coffee cup on a wooden table, morning light, photorealistic\",",
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "-H \"Content-Type: application/json\" \\",
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by these companies",
+    "url": "https://replicate.com/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "10 Manufacturing Case Studies [Detailed Review] [2026] - DigitalDefynd Education",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Manufacturing Case Studies [Detailed Review] [2026]",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The manufacturing sector is undergoing a seismic transformation, driven by digital innovation, sustainability imperatives, and the need for operational resilience. In this fast-evolving landscape,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", offering valuable insights into how global leaders are solving complex challenges using cutting-edge technology. From aerospace and automotive to consumer goods and pharmaceuticals, the",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 compelling manufacturing case studies",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "By examining these success stories, manufacturing leaders, engineers, and digital transformation teams can extract",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "in real production environments. If you’re looking to future-proof your manufacturing operations, these case studies are a powerful starting point.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Tesla’s AI‑Enhanced Smart Factory and Predictive Quality Control",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla’s Gigafactories achieved over 92% production automation by 2025, reducing defect rates by 34% and improving line efficiency by 27% across key manufacturing hubs globally.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "As Tesla scaled up its Gigafactory operations to meet soaring demand for electric vehicles, a major challenge emerged:",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ". With thousands of vehicles rolling off production lines weekly, even a",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "could lead to significant warranty costs and delivery delays. Traditional inspection methods, which relied heavily on human supervisors and post-production audits, struggled to keep up with the velocity and complexity of manufacturing operations. Moreover,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enhanced manufacturing system",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "at over 500 inspection points across its Gigafactories. These systems could detect microscopic surface defects, alignment errors, and part mismatches in real time—achieving up to",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "to analyze operational data across the supply chain and shop floors. Each Gigafactory was equipped with a",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Data from manufacturing sensors, cameras, and supplier feedback were aggregated through Tesla’s proprietary AI cloud platform. This allowed cross-functional teams to",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Within a year of deployment, Tesla’s AI-driven smart manufacturing ecosystem yielded substantial results.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", directly contributing to improved customer satisfaction scores. The integration of smart factory systems also translated into",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "across three primary Gigafactories.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "redefine modern manufacturing standards",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "High Paying Jobs in Manufacturing Industry",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Siemens & Foxconn – Smart Manufacturing and Digital Factory Optimization",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "By 2025, Foxconn operated more than 200 smart production lines globally, while Siemens’ industrial automation technologies supported over 75% of the world’s top electronics manufacturers.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Complex, high-mix electronics manufacturing resulted in rising defect rates and productivity gaps exceeding 15%.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Foxconn, the world’s largest electronics manufacturer, faced growing pressure from",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "オープンソースLLMおすすめ9選！日本語性能と商用利用を比較、実機検証も紹介",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "押さえておきたいポイント オープンソースLLMは日本語性能と商用ライセンスの比較が重要 オープンソースLLMの使い方はローカルPCやクラウドGPU、APIから選択可能 オープ…",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、日本語対応のLLMについて詳しく知りたい方は、下記の記事を合わせてご確認ください",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルLLMとは？クラウドに出せない機密データを守る日本語対応モデルを解説 | WEEL",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "「生成AIで新しいプロダクトを作りたい」「もっと本格的に生成AIを業務に組み込みたい」とお考えの方は、ぜひ株式会社WEELにご相談ください",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "最新のAI情報を日本最速で受け取りたい方は、以下からご登録ください",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateは日本語で使用できますか？",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本一透明性の高いAIプロフェッショナル集団」",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateの使いどころと日本での利用条件 | apihub",
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate を日本で使うときの条件",
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "請求・契約・日本語対応など、公式ドキュメントに明記されないことが多い項目を調査してまとめています",
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "他のリソースと横並びで比較する（日本で使うときの条件 一覧）→",
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "日本語がどこまで通じるかはモデル次第なので、思った絵にならないときは英語で試してください",
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "コードに触れたくない人、月の予算を固定額で管理したい人、日本語の管理画面とサポートが必須の人",
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の指示文が通じるかはモデルによって違い、英語のほうが安定する傾向があります",
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "replicate in Japanese? How to use replicate in Japanese. Learn Japanese",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "English - Japanese Dictionary",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "replicate in Japanese",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Do you know replicate in Japanese? How to use replicate in Japanese and how to say replicate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to write replicate in Japanese",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "? Now let's learn how to say replicate in Japanese language.",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "replicate translate to Japanese meanings:",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "複製します in Japanese is replicate in English.",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to use replicate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to say replicate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to write replicate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why we should learn Japanese language?",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "About Japanese language",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese language code",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Conclusion on replicate in Japanese",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Meaning of replicate in Japanese language is:",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other words in Japanese",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "7 reasons to learn a Japanese language",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": ". This is your most common way to say replicate in 複製します language. Click audio icon to pronounce replicate in Japanese::",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "The standard way to write \"replicate\" in Japanese is:",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "about Japanese language in here",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Writing system in Japanese",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mixed scripts of Kanji (Chinese character) and Kana (Hiragana, Katakana), Japanese Braille",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Speaking Countries and Territories",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Speaking Countries and Territories: Japan.",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「replicate」の意味",
+    "url": "https://ejje.weblio.jp/content/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate使い方完全ガイド - 生成AI初心者でも5分で始められる！｜Re-BIRTH株式会社",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "1. 日本語サポートの限界",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "処理が集中する時間帯（日本時間の夜間など）は遅くなることがあります",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "日本語でも画像が生成できますが、ハルシネーションが多いので",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のプロンプトを英語に翻訳してから利用するようにしましょう❗️",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Replicate（レプリケイト）とは？料金・使い方・活用事例を解説 | WEE... — May 6, 2025 · Replicateは複雑な環境構築なしで、複数のオープンソースモデルを試せる便利なプラットフォームです。 この記事では、Replicateの機能や導入メリット、料金プラン、活用事例について詳しく解説します。",
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateの使いどころと日本での利用条件 | apihub — OSSモデルをAPI経由で実行するホスティング（Replicate）。 商用利用可、適格請求書は発行されない、日本語ドキュメントは英語のみ。 導入時に要るものと本番で効く制約を日本語で整理。",
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateプラットフォームとは？使い方を完全に解説 — 4 days ago · 近年、人工知能（AI）テクノロジーが急激に発展している中、様々なLLM（大規模言語モデル）がリリースされました。 Replicateでは、様々なオープンソースのLLMが集まり、AIを導入したい開発者にとって、絶好なプラットフォームにもなります。",
+    "url": "https://apidog.com/jp/blog/replicate-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateとは？使い方と料金、APIで画像・動画AIを動かす手順（2026... — Sep 30, 2026 · Replicateとは、公開されたAIモデルをクラウド上のGPUで動かし、API (他のソフトからAIを呼び出す窓口)で使えるようにした実行基盤です。 自分でGPUサーバーを用意しなくても、モデル名と入力を送るだけで結果が返ってきます。",
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Qlik Replicate：データ取り込みとデータ複製ソリューション — Qlik Replicate は、導入初日から期待通りに動作し、当行のあらゆるニーズに応えてくれています。 Qlik Replicate のおかげで、さまざまなユースケースに必要なデータを、高速で提供できるようになりました。",
+    "url": "https://www.qlik.com/ja-jp/di/products/qlik-replicate",
+    "pass": 3
+   },
+   {
+    "quote": "REPLICATE translation in Japanese | English ... - Reverso — Understand the exact meaning of \"replicate\" and learn how to use it correctly in any context. Examples come from millions of authentic texts: movie dialogues, news articles, official documents, and more.",
+    "url": "https://dictionary.reverso.net/english-japanese/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "replicate in Japanese? How to use replicate in Japanese ...replicate - Translation into Japanese - examples English ...英語「replicate」の意味・使い方・読み方 | Weblio英和辞書REPLICATE - Translation in Japanese - bab.lareplicate in Japanese - English-Japanese Dictionary | Glosbereplicateの意味・使い方・例文・発音 | 英語マスター — Meaning of replicate in Japanese language is: 複製します. 1. replicate: 複製します. 2. replicated: 複製されました. 3. repli",
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "pass": 3
+   },
+   {
+    "quote": "replicate - Translation into Japanese - examples English ... — You will need to replicate the data to these regions. これらのリージョンにデータを複製する必要があります。 You can only replicate data on a shared disk drive. 共有ディスク・ドライブ上のデータのみを複製できる。",
+    "url": "https://context.reverso.net/translation/english-japanese/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "英語「replicate」の意味・使い方・読み方 | Weblio英和辞書 — A television signal is modified through a sine wave motion judder component to introduce intentional motion judder which can replicate the appearance of cinemetric projection.",
+    "url": "https://ejje.weblio.jp/content/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "REPLICATE - Translation in Japanese - bab.la — Find all translations of replicate in Japanese like 再現する, 折り返す, 折り返し and many others.",
+    "url": "https://en.bab.la/dictionary/english-japanese/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate - Customer Case Study — Replicate partnered with Dialexa (Information Technology and Services) to solve key challenges. \"Replicate - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/dialexa/case-study/replicate-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Flex achieves verified recoverability and instant ... — Because many sites run 24/7, even minutes of downtime can disrupt production and customer deliveries. Flex needed VM-level backup, replication and recoverability testing, but its legacy backup tools could neither replicate nor verify backups — creating unacceptable risk to manufacturing operations.",
+    "url": "https://www.casestudies.com/company/veeam/case-study/flex-picks-veeam-to-protect-manufacturing-for-the-worlds-biggest-brands",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate Revenue 2024: $5.3M Est., $57.8M Raised — Oct 30, 2026 · Replicate 2024 estimated revenue: $5.3M. Valuation (2023): $350M. Total funding: $57.8M across 3 rounds. 37 employees. Founded 2019. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate 2026 Company Profile: Valuation, Investors ...Replicate - 2026 Company Profile, Team, Funding & Competitors ...Replicate: Funding, Investors & Team (Oct 2026) | FundedIQReplicate: Funding, Team & Investors | Startup IntrosReplicate — Company Profile | The Company CheckReplicate Technologies: Funding, Team & Investors | Startup ... — Information on acquisition, funding, cap tables, invest",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate - 2026 Company Profile, Team, Funding & Competitors ...Replicate: Funding, Investors & Team (Oct 2026) | FundedIQReplicate: Funding, Team & Investors | Startup IntrosReplicate — Company Profile | The Company CheckReplicate Technologies: Funding, Team & Investors | Startup ... — Jul 23, 2026 · Explore Replicate's in-depth company profile, including funding details, key investors, leadersh",
+    "url": "https://tracxn.com/d/companies/replicate/__Qr-NSRJC92HIM9FKl3jqQVrZWfOxyd7X3Ui9LkIfspQ",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate: Funding, Investors & Team (Oct 2026) | FundedIQ — Replicate is a startup that leverages cloud technology to operate machine learning models. Their objective is to simplify the work for software teams by offering a streamlined solution.",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Replicate was founded to address the complexity of deploying machine learning models in production. The founders, experienced in machine learning and cloud infrastructure, created Cog, an open-source tool for packaging ML models into standardized containers, simplifying deployment.",
+    "url": "https://startupintros.com/orgs/replicate",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Predictive models were customized for each machine type based on historical maintenance logs, OEM guidelines, and operational context. When abnormal patterns were detected, the system generated alerts for preemptive interventions. Maintenance teams received real-time diagnostics, enabling them to schedule repairs during planned downtime windows rather than react to emergencies.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "could lead to significant warranty costs and delivery delays. Traditional inspection methods, which relied heavily on human supervisors and post-production audits, struggled to keep up with the velocity and complexity of manufacturing operations. Moreover,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Paper-based systems slowed production and compliance, with delays costing millions annually in lost revenue.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate Revenue 2024: $5.3M Est., $57.8M Raised",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate has not published its revenue. GetLatka estimates it at about $5.3M a year (December 2024).",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate CEO, founders & employees",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Firshman founded Replicate in 2019 and runs it as CEO. Replicate had 37 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Replicate's revenue?",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Replicate's revenue at about",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Replicate have?",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/replicate.com",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "9. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate has 26 total employees.",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "What is Replicate’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Replicate is",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "When was Replicate acquired?",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate was acquired on 01-Dec-2025.",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Replicate?",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate was acquired by",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Replicate have?",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Replicate team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Please feel free to contact us regarding new solutions, integrating generative AI with V-cube's existing services, or anything else!",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Image and Video Generation Platforms - fal and Replicate This is where platforms like fal and Replicate come in. They provide the necessary tools to make AI easily accessible to everyone. In this article, we will compare fal and Replicate, and explain their respective features, pricing, and more in an easy-to-understand manner.",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate使い方完全ガイド - 生成AI初心者でも5分で始められる！ Aug 1, 2025 · Replicateは環境構築不要で最新AIモデルを試せるクラウドプラットフォーム。 無料トライアルから始められ、WebブラウザだけでStable Diffusionなど話題のAIツールを体験可能。 APIでの本格的な連携も簡単！",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "アカウント1つでモデル横断——Replicateの魅力と始め方 Sep 18, 2025 · PCスペックも不安…」という方、多いのではないでしょうか。 その“最初の壁”を低くしてくれるのが Replicate。 ブラウザだけで話題の生成AIモデルを次々と試せて、気に入ったら同じアカウントのAPIで本格運用までスムーズに進められます。",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "最新画像生成AIのFLUX.1を簡単にすぐに試せるReplicateで使ってみた Aug 13, 2024 · （この積み重ねでChatGPTをはじめとした生成AIに毎月万単位で課金している今日この頃です😭） 今回は、 手軽に色々な生成AIを試せるプラットフォーム 「Replicate」を使って FLUX.1 を使ってみたので、初歩的な使い方をまとめてみました。",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Image and Video Generation Platforms - fal and Replicate｜ブイキューブ | tech note",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Image and Video Generation Platforms - fal and Replicate",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI image and video generation are attracting attention as technologies that allow for the easy creation of high-quality images and videos. Various AIs such as Stable Diffusion and Midjourney have emerged, expanding the possibilities of creative expression.",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While these AIs are convenient, using them requires specialized knowledge and environment setup. This is where platforms like fal and Replicate come in. They provide the necessary tools to make AI easily accessible to everyone.",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will compare fal and Replicate, and explain their respective features, pricing, and more in an easy-to-understand manner.",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ") is a generative media platform for developers. It provides tools for building applications that leverage cutting-edge AI models, and can be used for various creative processes such as image generation from text prompts, image upscaling, and audio processing.",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is also accessible as a GitHub repository, allowing users to access and utilize AI models regardless of their coding experience level.",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://replicate.com",
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate使い方完全ガイド - 生成AI初心者でも5分で始められる！｜Re-BIRTH株式会社",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate使い方完全ガイド - 生成AI初心者でも5分で始められる！",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateは環境構築不要で最新AIモデルを試せるクラウドプラットフォーム。無料トライアルから始められ、WebブラウザだけでStable Diffusionなど話題のAIツールを体験可能。APIでの本格的な連携も簡単！",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "初めて生成AIに触れる時、私も「どこから始めればいいのか分からない...」と途方に暮れていました。高性能なPCが必要？複雑なコーディング？そんな不安を一気に解消してくれたのがReplicateでした。",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "今では毎日のように使っているこのプラットフォームの魅力と、実際の使い方を体験談を交えながらお伝えします。",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateとは？AIの民主化を実現するプラットフォーム",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "Replicateは、複数のオープンソースなモデルを簡単に利用できるプラットフォームです。Replicate上で提供されているAIモデルは全てAPI経由で利用することが可能なので、さまざまなアプリやプロジェクトと連携することが可能です。",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "初めてReplicateの公式サイトを見た時、そのシンプルさに驚きました。「Run AI with an API」という言葉通り、本当にワンクリックでAIが動く。まさに魔法のような体験でした。",
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "pass": 3
+   },
+   {
+    "quote": "アカウント1つでモデル横断——Replicateの魅力と始め方｜nominoki",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "アカウント1つでモデル横断——Replicateの魅力と始め方",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "「画像や動画の生成AIを試したいけれど、どのモデルを選べばいいの？ PCスペックも不安…」という方、多いのではないでしょうか。",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "話題の生成AIモデルを次々と試せて、気に入ったら",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "参考：https://replicate.com/",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "「モデルの比較を、Webブラウザ上で試せる場所」",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "オープンソース中心の生成AIモデルを、クラウド上で手軽に実行できるプラットフォーム。",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "画像・動画・音声・テキストなど、多種多様なモデルを",
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "pass": 3
+   },
+   {
+    "quote": "最新画像生成AIのFLUX.1を簡単にすぐに試せるReplicateで使ってみた｜斉藤 智彦(Tomohiko Saitoh)",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "最新画像生成AIのFLUX.1を簡単にすぐに試せるReplicateで使ってみた",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "斉藤 智彦(Tomohiko Saitoh)",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "の進化が止まらず、クオリティが高くて信じられない時代が到来してきましたー✌️",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、いろんなツールを実際に試してみたい❗️と思っても、画像や動画の生成AIをサクッと動かして試すことは意外と大変なことかもですね💦",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "のようにWebブラウザから簡単に無料で試すことができる便利な画像・動画生成AIサービスもありますが、なかなかハードルが高い❓",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "最初から、お金使いたくないよって観点が優先してしまうと、ローカルで…とか考えて、大変ですね、さほど高くはないので、はじめから有料で検討するとあっさり解決して時間の節約にもなると思います😊",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   },
+   {
+    "quote": "（この積み重ねでChatGPTをはじめとした生成AIに毎月万単位で課金している今日この頃です😭）",
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Replicate (@replicate) / X Nov 3, 2019 · Nano Banana 2.1 is live on Replicate. The latest image model from @GoogleDeepMind optimized for a balance of price and performance. Built with leaps in visual design, mask-based editing, and subject consistency to achieve more natural images.",
+    "url": "https://x.com/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate on X: \"Google's new video model from ... 4 days ago · Post Replicate @replicate Google's new video model from @GoogleDeepMind - 15-second clips, up from 10 - More natural dialogue and lip-sync - Characters stay consistent across shots - Edit the same clip with a new prompt 00:00",
+    "url": "https://x.com/replicate/status/2118465766856999282",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate on X: \"Recraft V4 Styles is here. Generate and use ... Aug 26, 2026 · Try all variations: v4 styles: replicate.com/recraft-ai/rec… v4 svg: replicate.com/recraft-ai/rec… v4 styles pro: replicate.com/recraft-ai/rec… v4 styles pro svg: replicate.com/recraft-ai/rec…",
+    "url": "https://x.com/replicate/status/2092640777482453483",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate on X: \"GPT Image 2.5 is live on Replicate. For ... Sep 8, 2026 · Replicate is making AI image creation more powerful with GPT Image 2.5. Improved editing accuracy and consistency open new possibilities for creators and developers",
+    "url": "https://x.com/replicate/status/2097419197605089601",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate (@replicate) / X Nov 3, 2019 · Seedance 2.5 is on Replicate. Upload up to 50 references. (30 reference images + 10 videos + 10 audios) Make 30s continuous or multi-shot videos with just a prompt.",
+    "url": "https://x.com/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate on X: \"Seedance 2.0 is now on Replicate! Add up to ... Apr 8, 2026 · Seedance 2.0 is now on Replicate! Add up to 9 reference images, 3 reference videos, and 3 reference audio files to create cinematic masterpieces. Business and Enterprise accounts can start generating today. in 150+ countries (US not included).",
+    "url": "https://x.com/replicate/status/2041933843494793238",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Replicate - LinkedIn Replicate | 12,336 followers on LinkedIn. Run machine learning models in the cloud | Run machine learning models in the cloud",
+    "url": "https://www.linkedin.com/company/replicate",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate Bioscience, Inc. - LinkedIn The Power of RNA Amplified | Replicate Bioscience is amplifying the power of RNA therapeutics by pioneering novel self-replicating RNA (srRNA) technology.",
+    "url": "https://www.linkedin.com/company/replicate-bioscience-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Andreas Jansson – Co-founder at Replicate (acquired by ...James Pursey - Co-founder @ Replicate Labs - LinkedInReplicates in Analytical Methods - When and How Many?Andy Geall - Co-founder and Chief Development Officer at ...Replicate.Health - LinkedIn Co-founder at Replicate (acquired by Cloudflare) · Computers, machine learning, music. · Erfarenhet: Cloudflare · Utbildning: City University (GB) ·",
+    "url": "https://se.linkedin.com/in/janssonandreas",
+    "pass": 3
+   },
+   {
+    "quote": "James Pursey - Co-founder @ Replicate Labs - LinkedInReplicates in Analytical Methods - When and How Many?Andy Geall - Co-founder and Chief Development Officer at ...Replicate.Health - LinkedIn Replicate Labs gives AI what it's missing: the buyers, the method and the standard. We set it up once with the business and its methodology partner. Then it coaches reps, does the work and reads... Jul 19, ",
+    "url": "https://uk.linkedin.com/in/jamespursey",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Replicate Ministries | Hendersonville TN - FacebookThe Replicates - FacebookReplicate Church | Milton FL - FacebookReplicate Discipleship Conference - FacebookReplicate Bangkok - FacebookThis is how I made my FAT BSTRD costume ... - FacebookSend your 3D drawing or sample for quotaion. We can replicate ... Oct 20, 2026 · That’s a big part of why Replicate exists. We come alongside pastors and churc",
+    "url": "https://www.facebook.com/replicateministries/",
+    "pass": 3
+   },
+   {
+    "quote": "The Replicates - FacebookReplicate Church | Milton FL - FacebookReplicate Discipleship Conference - FacebookReplicate Bangkok - FacebookThis is how I made my FAT BSTRD costume ... - FacebookSend your 3D drawing or sample for quotaion. We can replicate ... Apr 4, 2026 · The Replicate will be at Bushmill Tavern This Friday, Nov 7 from 8-12. Come hang out with us! The Replicate will be at Bushmill Ta",
+    "url": "https://www.facebook.com/TheReplicates/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate Church | Milton FL - FacebookReplicate Discipleship Conference - FacebookReplicate Bangkok - FacebookThis is how I made my FAT BSTRD costume ... - FacebookSend your 3D drawing or sample for quotaion. We can replicate ... Oct 27, 2026 · Replicate family, due to ongoing hurricane recovery we will not be meeting this Sunday. The church is being used as base camp for county emergency respons",
+    "url": "https://www.facebook.com/ReplicateChurch/",
+    "pass": 3
+   },
+   {
+    "quote": "Replicate Discipleship Conference - FacebookReplicate Bangkok - FacebookThis is how I made my FAT BSTRD costume ... - FacebookSend your 3D drawing or sample for quotaion. We can replicate ... Nov 4, 2011 · Learn to be a Disciplined #Disciple Maker! At #Replicate 2010, Robby Gallaty will explain the need for discipline on the part of the disciplemaker. Jul 16, 2026 · Earlier today there was an eart",
+    "url": "https://www.facebook.com/replicateconf/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://replicate.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://replicate.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://replicate.com/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://replicate.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://weel.co.jp/media/innovator/replicate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apihub.lb-product.com/resources/replicate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apidog.com/jp/blog/replicate-ai-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/mag/replicate-guide-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.reverso.net/english-japanese/replicate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://wikilanguages.net/Japanese/replicate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/translation/english-japanese/replicate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/replicate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/dialexa/case-study/replicate-customer-case-study",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.veeam.com/resources/customer-stories.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resellercluster.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/replicate.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/469890-82",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/replicate/__Qr-NSRJC92HIM9FKl3jqQVrZWfOxyd7X3Ui9LkIfspQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/replicate-replicate-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/knorihiro/n/n07e39cbbac76",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saitohtm/n/nac0976d62303",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/replicate",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/replicate/status/2118465766856999282",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/replicate/status/2092640777482453483",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/replicate/status/2097419197605089601",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/replicate",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/replicate-bioscience-inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/janssonandreas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jamespursey",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/replicateministries/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheReplicates/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReplicateChurch/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/replicateconf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/replicate",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/replicate/status/2041933843494793238",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Replicate 日本 導入",
+   "results": [
+    "https://weel.co.jp/media/innovator/replicate/",
+    "https://apihub.lb-product.com/resources/replicate",
+    "https://apidog.com/jp/blog/replicate-ai-platform/",
+    "https://aipicks.jp/mag/replicate-guide-2026",
+    "https://www.qlik.com/ja-jp/di/products/qlik-replicate",
+    "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "https://ainow.jp/replicate-ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replicate 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replicate Japan",
+   "results": [
+    "https://dictionary.reverso.net/english-japanese/replicate",
+    "https://wikilanguages.net/Japanese/replicate.html",
+    "https://context.reverso.net/translation/english-japanese/replicate",
+    "https://ejje.weblio.jp/content/replicate",
+    "https://en.bab.la/dictionary/english-japanese/replicate",
+    "https://glosbe.com/en/ja/replicate",
+    "https://eigomaster.org/archives/4566"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replicate manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/dialexa/case-study/replicate-customer-case-study",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.veeam.com/resources/customer-stories.html",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.casestudies.com/company/veeam/case-study/flex-picks-veeam-to-protect-manufacturing-for-the-worlds-biggest-brands",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replicate white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.resellercluster.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replicate founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/replicate.com",
+    "https://pitchbook.com/profiles/company/469890-82",
+    "https://tracxn.com/d/companies/replicate/__Qr-NSRJC92HIM9FKl3jqQVrZWfOxyd7X3Ui9LkIfspQ",
+    "https://fundediq.co/replicate-replicate-com-funding/",
+    "https://startupintros.com/orgs/replicate",
+    "https://www.thecompanycheck.com/company/b/replicate/cbwapru0svkas4k8a",
+    "https://startupintros.com/orgs/replicate-technologies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Replicate",
+   "results": [
+    "https://note.com/vcube_technote/n/ne806013e480d?hl=en",
+    "https://note.com/re_birth_ai/n/n54d3ca2712d9",
+    "https://note.com/knorihiro/n/n07e39cbbac76",
+    "https://note.com/saitohtm/n/nac0976d62303",
+    "https://note.com/kongo_jun/n/ncf468d4f7f57",
+    "https://note.com/muccccchiiii/n/nf56d0580fc70",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Replicate",
+   "results": [
+    "https://x.com/replicate",
+    "https://x.com/replicate/status/2118465766856999282",
+    "https://x.com/replicate/status/2092640777482453483",
+    "https://x.com/replicate/status/2097419197605089601",
+    "https://x.com/ReplicateRent/status/2116782305889132806",
+    "https://x.com/replicate/status/2105375654732509574",
+    "https://x.com/replicate/status/2049489076336886235"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Replicate",
+   "results": [
+    "https://www.linkedin.com/company/replicate",
+    "https://www.linkedin.com/company/replicate-bioscience-inc/",
+    "https://se.linkedin.com/in/janssonandreas",
+    "https://uk.linkedin.com/in/jamespursey",
+    "https://www.linkedin.com/pulse/replicates-analytical-methods-when-how-many-oona-mcpolin/",
+    "https://www.linkedin.com/company/replicate-health",
+    "https://www.linkedin.com/in/andy-geall-116a9624"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Replicate",
+   "results": [
+    "https://www.facebook.com/replicateministries/",
+    "https://www.facebook.com/TheReplicates/",
+    "https://www.facebook.com/ReplicateChurch/",
+    "https://www.facebook.com/replicateconf/",
+    "https://www.facebook.com/Replicateintl/",
+    "https://www.facebook.com/nattyyygains/videos/this-is-how-i-made-my-fat-bstrd-costume-everything-you-need-to-replicate-it-is-l/986759777216835/",
+    "https://www.facebook.com/jiliprototypes/videos/send-your-3d-drawing-or-sample-for-quotaion-we-can-replicate-from-your-3d-drawin/1137927315378938/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replicate note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://ir.note.jp/message"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Replicate X 投稿",
+   "results": [
+    "https://x.com/replicate",
+    "https://replicate.com/home",
+    "https://replicate.com/replicate",
+    "https://x.com/replicate/status/2041933843494793238",
+    "https://replicate.aiproducthub.cn/",
+    "https://github.com/replicate",
+    "https://www.replicax.ai/en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部42頁・検索12回）"
+ }
+}

@@ -1,0 +1,915 @@
+{
+ "name": "Sigopt",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:20:09.892023+00:00",
+ "official_url": "https://sigopt.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "You don't have permission to access \"http://corpredirect.intel.com/Redirector/404Redirector.aspx?\" on this server.",
+    "url": "https://corpredirect.intel.com/Redirector/404Redirector.aspx?404;https://sigopt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SigOpt has always been designed with customer privacy in mind. With the release of our self-hosted",
+    "url": "https://sigopt.org/",
+    "pass": 3
+   },
+   {
+    "quote": "additive and nanomanufacturing projects for many years. The SigOpt platform gives us access to advanced",
+    "url": "https://sigopt.org/",
+    "pass": 3
+   },
+   {
+    "quote": "math and technology that accelerates the design of manufacturing processes.",
+    "url": "https://sigopt.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Intel to Acquire SigOpt to Scale AI Productivity and Performance :: Intel Corporation (INTC)",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "Intel to Acquire SigOpt to Scale AI Productivity and Performance",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "– Raja Koduri, Intel senior vice president, chief architect and general manager of Architecture, Graphics and Software (IAGS)",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "SigOpt’s software technologies combined with Intel hardware provide competitive advantages and differentiated value for data scientists and developers, and they complement Intel’s existing AI software portfolio.",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "SigOpt’s customer base includes Fortune 500 companies across industries, as well as leading research institutions, universities and consortiums. SigOpt’s software technologies will continue to be available to data scientists and developers to enable better productivity and performance in solving real-life use cases and drive business value for customers.",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "Intel’s AI strategy is grounded in a belief in the power of AI to improve business outcomes. It requires a broad mix of technologies – hardware and software – and full ecosystem support. Intel expects the AI silicon market to be greater than $25 billion by 2024",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "=Previous Day. Market Data powered by",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "20260424 - Vinay Sawal (NERSC) - \"InfiniBand Demystified: A Practical Introduction for HPC\"",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "How AI Cracked the Protein Folding Code and Won a Nobel Prize",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "In this solutions guide spotlight demo, Sam Charrington is joined by Eddie Mattia, formerly a Product Manager at SigOpt, as we explore the SigOpt platform. SigOpt is a model development platform that makes it easy to track runs, visualize training, and scale hyperparameter optimization for any type of model built with any library on any infrastructure. In the demo, Eddie showcases some of the ways",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "The Approach to Optimization",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 29, 2024",
+    "url": "https://github.com/sigopt",
+    "pass": 3
+   },
+   {
+    "quote": "Primary SigOpt functionalities are designed to help manage, optimize and scale artificial intelligence applications. This graphic represents SigOpt role in the machine learning technology stack. (Credit: SigOpt)",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": ", an Intel company, as a leader in artificial intelligence (AI) software acceleration, due to the quality of its optimization platform, breadth of its market penetration and strength of its go-to-market strategy. By making customers’ AI workloads more efficient, SigOpt helps them get the most out of their hardware investment.",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "This press release features multimedia. View the full release here:",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "“SigOpt, an Intel company, achieved an impressive score across all dimensions of our KLC evaluation to be ranked as Leader. Customers using SigOpt benefit from productivity gains, faster time to train, and efficient utilization of compute. In combination, this empowers modelers to bring more models into production on a faster timeline, boosting the overall return of AI for enterprises.”",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "and an unnamed large global technology consulting firm, use the advanced features that are only available in its platform to solve entirely new business problems. In the case of the consulting firm, SigOpt helped the firm yield productivity gains of over 30% and projected value of nearly $50 million annually.",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Primary SigOpt functionalities are designed to help manage, optimize and scale AI applications. (See graphic for a representation of how SigOpt fits into the machine learning technology stack.)",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "SigOpt’s fully hardware and software-agnostic platform also provides the same user experience throughout – including deep learning, machine learning, reinforcement learning, or simulations. When combined with",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": ", SigOpt will continue to offer developers the most efficient way to develop and deploy AI models. Individuals and enterprises can access the SigOpt platform by signing up",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Intel to Acquire SigOpt to Scale AI Productivity and Performance (News Byte)",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "=Previous Day. Market Data powered by",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Novelis Inc. is a leading sustainable aluminum solutions provider and the world",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "leading provider of low-carbon, sustainable aluminum solutions and to achieve",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to identify effective designs for prototyping and physical testing when supporting",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in designing stronger, lighter aluminum products faster. Using SigOpt, Novelis",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "engineers reduced the number of costly and time-consuming physical prototypes",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Intel® Xeon® Platinum Processors",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud instances powered by Intel® Xeon® Platinum processors combined",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "engineers to streamline the design process using AI",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Intel® Xeon® Platinum Processors",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Improved Design performance",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Platform and a cloud provider’s high performance computing",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(HPC) instances provided Novelis with a flexible and cost-",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "effective solution to iterate product designs quickly and",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "efficiently. The approach also dramatically reduced the",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud instances powered by Intel® Xeon® Platinum processors,",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "which offer large memory capacity and improved I/O latencies,",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "engineers speed up the iterative design process and provide",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "dimensional format to identify ideal designs, the process",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "reduces the number of prototypes required.",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "optimizing automotive part geometry and other products",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "predict new can designs for further testing.",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of the beverage can to withstand the most pressure before",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15,000 simulations to predict an optimal design.",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "needed. The process also helps Novelis deliver solutions for",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "seeks to reduce product research and development time",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The plan will be to continue providing services to existing users, and to continue building out the company’s platform — co-founders Scott Clark (CEO) and Patrick Hayes (CTO) and their team are joining Intel.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "“We will continue to work with SigOpt’s existing customers and will also integrate the technology into our product road map,” a spokesperson confirmed.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": ", it seems a strong opportunity in providing services for its customers alongside those chips, and these services specifically will help customers with the compute loads that they will be running on those chips.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "a 3% decline in its revenues, led by a drop in its data center business. It said that it’s projecting the AI silicon market to be bigger than $25 billion by 2024, with AI silicon in the data center to be greater than $10 billion in that period.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Before TechCrunch, Ingrid worked at paidContent.org, where she was a staff writer, and has in the past also written freelance regularly for other publications such as the Financial Times. Ingrid covers mobile, digital media, advertising and the spaces where these intersect.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Intel’s acquisition of SigOpt, a startup vendor of an AI model optimization platform, will help accelerate Intel’s AI software products for developers.",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   },
+   {
+    "quote": "products to help enhance and scale its AI software products for developers.",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   },
+   {
+    "quote": "SigOpt's platform and expertise will likely help Intel broaden its capabilities for bringing machine learning and deep learning models to scale in production, said Dave Schubmehl, research director for cognitive/artificial intelligent systems and content analytics at IDC.",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "―SigOptを使っている日本企業が既にあると伺いました",
+    "url": "https://techblitz.com/startup-interview/sigopt/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、米国外ではヨーロッパおよびアジア太平洋地域で事業展開を進めており、ヨーロッパやオーストラリアにも顧客がいますし、日本では分散投資型の資産運用サービスを提供している企業にご利用いただいています",
+    "url": "https://techblitz.com/startup-interview/sigopt/",
+    "pass": 3
+   },
+   {
+    "quote": "日本に限らず、海外で事業展開する際は、SigOptで解決可能な問題に直面している企業の把握と、その企業の意思決定者に紹介してもらうことが重要だと考えています",
+    "url": "https://techblitz.com/startup-interview/sigopt/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/sigopt/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/sigopt/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "手作業で行われていたパラメータ調整を自動化 SigOpt — 手作業で行われていたパラメータ調整を自動化 SigOpt TECHBLITZ https://techblitz.com > startup-interview > sigopt",
+    "url": "https://techblitz.com/startup-interview/sigopt/",
+    "pass": 3
+   },
+   {
+    "quote": "SigOpt Open Source Solutions — SigOpt Open Source Solutions SigOpt https://sigopt.org",
+    "url": "https://sigopt.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Intel to Acquire SigOpt to Scale AI Productivity and Performance — Intel to Acquire SigOpt to Scale AI Productivity and Performance intc.com https://www.intc.com > detail > intel-t...",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "Experimentation and Optimization with SigOpt - YouTube — Experimentation and Optimization with SigOpt - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "SigOpt - GitHub — SigOpt - GitHub GitHub https://github.com > sigopt",
+    "url": "https://github.com/sigopt",
+    "pass": 3
+   },
+   {
+    "quote": "SigOpt - YouTube — SigOpt - YouTube YouTube https://www.youtube.com > SigOpt",
+    "url": "https://www.youtube.com/c/SigOpt",
+    "pass": 3
+   },
+   {
+    "quote": "Kisaco Research: SigOpt is a Leader in AI Software — Kisaco Research: SigOpt is a Leader in AI Software intc.com https://www.intc.com > detail > kisaco...",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Intel acquires SigOpt , a specialist in modeling optimization, to ... — Intel acquires SigOpt , a specialist in modeling optimization, to ... TechCrunch https://techcrunch.com > 2020/10/29",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimization startup SigOpt grabs $6.6 mln Series A — Optimization startup SigOpt grabs $6.6 mln Series A PEI Private Equity https://www.privateequityinternational.com > ...",
+    "url": "https://www.privateequityinternational.com/optimization-startup-sigopt-grabs-6-6-mln-series-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Intel will acquire model optimization startup SigOpt - TechTarget — Intel will acquire model optimization startup SigOpt - TechTarget TechTarget https://www.techtarget.com > news",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "additive and nanomanufacturing projects for many years. The SigOpt platform gives us access to advanced",
+    "url": "https://sigopt.org/",
+    "pass": 3
+   },
+   {
+    "quote": "math and technology that accelerates the design of manufacturing processes.",
+    "url": "https://sigopt.org/",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace, automotive, beverage can and specialties industries throughout North",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study | Novelis Taps HPC and AI to Accelerate Beverage Can Design Optimization for Sustainability",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "optimizing automotive part geometry and other products",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive safety features are equally challenging for",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "products used in the packaging, automotive, aerospace,",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "which provided improved manufacturing performance on the",
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "SigOpt’s customer base includes Fortune 500 companies across industries, as well as leading research institutions, universities and consortiums. SigOpt’s software technologies will continue to be available to data scientists and developers to enable better productivity and performance in solving real-life use cases and drive business value for customers.",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "pass": 3
+   },
+   {
+    "quote": "The TWIML AI Podcast with Sam Charrington 175回視聴 4 年前",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "The TWIML AI Podcast with Sam Charrington",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "In this solutions guide spotlight demo, Sam Charrington is joined by Eddie Mattia, formerly a Product Manager at SigOpt, as we explore the SigOpt platform. SigOpt is a model development platform that makes it easy to track runs, visualize training, and scale hyperparameter optimization for any type of model built with any library on any infrastructure. In the demo, Eddie showcases some of the ways",
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "pass": 3
+   },
+   {
+    "quote": "This organization has no public members. You must be a member to see who’s a part of this organization.",
+    "url": "https://github.com/sigopt",
+    "pass": 3
+   },
+   {
+    "quote": "The report details how two of SigOpt’s Fortune 500 customers,",
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "pass": 3
+   },
+   {
+    "quote": "Intel has been doubling down on building chips and related architecture for the next generation of computing, and today it announced an acquisition that will bolster its expertise and work specifically in one area of future technology: artificial intelligence.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "The semiconductor giant today announced that it has acquired",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "to better compete against the likes of Nvidia (which itself is growing substantially with the acquisition of ARM) and smaller players like GraphCore, in part by",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "a 3% decline in its revenues, led by a drop in its data center business. It said that it’s projecting the AI silicon market to be bigger than $25 billion by 2024, with AI silicon in the data center to be greater than $10 billion in that period.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2019, Intel reported some $3.8 billion in AI-driven revenue, but it hopes that tools like SigOpt’s will help drive more activity in that business, dovetailing with the push for more AI applications in a wider range of businesses.",
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Intel’s acquisition of SigOpt, a startup vendor of an AI model optimization platform, will help accelerate Intel’s AI software products for developers.",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition comes as",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   },
+   {
+    "quote": "[The acquisition enables Intel] to make more software services available to machine learning developers, thereby encouraging them to consider and use Intel infrastructure when running their models.",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   },
+   {
+    "quote": "in favor of building AI processors based on technology from Habana Labs, an AI hardware vendor Intel acquired for $2 billion in 2019. The sudden decision to end support for the Nervana NNP line, which include chips for AI training and inference, surprised analysts, who expected a slow wind down for the products.",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   },
+   {
+    "quote": "Intel's acquisition of SigOpt could help Intel against its battle with competitors, such as Nvidia, for AI dominance.",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   },
+   {
+    "quote": "\"The reality of the market is that this is not just about hardware, but also about providing tools and software to help machine learning developers and data scientists create and deploy models with more accuracy, speed and flexibility,\" Schubmehl said. \"The acquisition of SigOpt by Intel definitely will help with this.\"",
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Chris Manteuffel - SigOpt - LinkedIn Chris Manteuffel - SigOpt - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/chris-manteuffel-9baa6229",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://corpredirect.intel.com/Redirector/404Redirector.aspx?404;https://sigopt.com/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/sigopt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newswitch.jp/p/50724",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=78O8BLeiEns&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sig-insurance-group.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tm-co.co.jp/news/t-m-corporation-has-signed-an-exclusive-distribution-agreemen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigopt.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://github.com/sigopt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKoomQNNVainlGpqs5iNfTq1RC2egklzz4LvIVuxg2RR_UlBgic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agencyplatform.com/seo-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privateequityinternational.com/optimization-startup-sigopt-grabs-6-6-mln-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/chris-manteuffel-9baa6229",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sigopt 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://techblitz.com/startup-interview/sigopt/",
+    "https://newswitch.jp/p/50724",
+    "https://www.youtube.com/watch?v=78O8BLeiEns&vl=ja",
+    "https://newscast.jp/news/7092006",
+    "https://www.intel.co.jp/content/www/jp/ja/customer-spotlight/stories/mindtree-customer-story.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/09792/",
+    "https://sigopt.org/",
+    "https://note.com/mathayuki/n/n4927c6b752b8",
+    "https://www.isus.jp/machine-learning/pu49-03-sigopt-intelligent-experimentation-platform/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sigopt 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.sig-insurance-group.com/",
+    "https://tm-co.co.jp/news/t-m-corporation-has-signed-an-exclusive-distribution-agreemen/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://products.sint.co.jp/siob/price/distributor",
+    "https://www.servants.co.jp/company/business/",
+    "https://www.makeshop.jp/main/plan/enterprise/agency-fee/",
+    "https://www.xcat.co.jp/ja/service/si/insurance.html",
+    "https://www.gog.co.jp/d_area.php?kind=0",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sigopt Japan",
+   "results": [
+    "https://sigopt.org/",
+    "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "https://github.com/sigopt",
+    "https://www.youtube.com/c/SigOpt",
+    "https://www.siliconrepublic.com/companies/intel-sigopt-acquisition",
+    "https://www.linkedin.com/in/sc932",
+    "https://techblitz.com/startup-interview/sigopt/",
+    "https://www.intel.com/content/www/us/en/customer-spotlight/stories/mindtree-customer-story.html",
+    "https://sigopt.statuspage.io/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sigopt manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://www.intc.com/news-events/press-releases/detail/1454/kisaco-research-sigopt-is-a-leader-in-ai-software",
+    "https://builders.intel.com/docs/networkbuilders/beverage-manufacturer-reduce-production-optimization-simulation-requirements-from-15000-to-99-1709281330.pdf",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKoomQNNVainlGpqs5iNfTq1RC2egklzz4LvIVuxg2RR_UlBgic",
+    "https://www.myshyft.com/blog/manufacturing-optimization-outcomes/",
+    "https://sigopt.org/",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://www.xometry.com/resources/case-studies/case-study-xometry-partnership-with-simt/",
+    "https://www.casestudies.com/company/intel-corporation/case-study/ltimindtree-uses-sigopt-intelligent-experimentation-platform-to-automate-ai-model-production-for-better-end-customer-results"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sigopt white label OR reseller OR partner program",
+   "results": [
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sigopt founded funding employees revenue",
+   "results": [
+    "https://www.intc.com/news-events/press-releases/detail/1425/intel-to-acquire-sigopt-to-scale-ai-productivity-and",
+    "https://techcrunch.com/2020/10/29/intel-acquires-sigopt-a-specialist-in-modeling-optimization-to-boost-its-ai-business/",
+    "https://www.privateequityinternational.com/optimization-startup-sigopt-grabs-6-6-mln-series-a/",
+    "https://www.techtarget.com/news/Intel-will-acquire-model-optimization-startup-SigOpt/835531/",
+    "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "https://www.siliconrepublic.com/companies/intel-sigopt-acquisition",
+    "https://sigopt.org/",
+    "https://getlatka.com/companies/sigmacomputing.com",
+    "https://pitchbook.com/profiles/company/803060-83"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Sigopt",
+   "results": [
+    "https://note.com/mathayuki/m/m46787321ae77/hashtag/%E6%95%B0%E7%90%86%E7%A7%91%E5%AD%A6",
+    "https://note.com/mathayuki/m/m46787321ae77/hashtag/%E6%9C%80%E9%81%A9%E5%8C%96",
+    "https://note.com/kanosan/n/nb4aee61f5287",
+    "https://note.com/mathayuki/n/nb2f4096367b7?hl=ko",
+    "https://note.com/mathayuki/n/n4927c6b752b8?hl=en",
+    "https://note.com/mathayuki/n/n4927c6b752b8",
+    "https://note.com/beloved_tomoka",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Sigopt",
+   "results": [
+    "https://x.com/SecilAlti",
+    "https://x.com/alexandraj777",
+    "https://x.com/akira_funahashi",
+    "https://x.com/onnxai",
+    "https://x.com/hashtag/LALF16",
+    "https://x.com/conoceanastasia",
+    "https://x.com/sigopt/status/1280896050606284800",
+    "https://x.com/BuiltIn/status/1175773545101762566",
+    "https://x.com/pfjhayes",
+    "https://x.com/stevestein95"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Sigopt",
+   "results": [
+    "https://www.linkedin.com/in/sc932",
+    "https://www.linkedin.com/posts/michael-mccourt-6347b11a4_8-years-ago-i-joined-a-startup-called-sigopt-activity-7095804159752339456-bmKn",
+    "https://www.linkedin.com/in/pfjhayes",
+    "https://www.linkedin.com/in/chris-manteuffel-9baa6229",
+    "https://www.linkedin.com/in/harveycheng",
+    "https://www.linkedin.com/in/michael-mccourt-6347b11a4",
+    "https://www.linkedin.com/in/ehliu",
+    "https://www.linkedin.com/in/meghanaravikumar",
+    "https://www.linkedin.com/in/taylorjacklespriggs",
+    "https://me.linkedin.com/company/sigopt"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Sigopt",
+   "results": [
+    "https://www.facebook.com/DHIgroup/posts/%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%84-%F0%9D%97%B1%F0%9D%97%BC-%F0%9D%98%86%F0%9D%97%BC%F0%9D%98%82-%F0%9D%97%B8%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BD-%F0%9D%97%AE-%F0%9D%97%BA%F0%9D%97%BC%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%98%84%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BB-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%B1-%F0%9D%97%B8%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BD%F0%9D%98%80-%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4that-question-is-a/2134440987433056/",
+    "https://www.facebook.com/groups/BigDataPakistan/posts/6434198816680760/",
+    "https://www.facebook.com/Garageplus.asia/posts/goodnews-sep%E6%81%AD%E5%96%9C%E4%B9%9D-8-%E5%AE%B6%E5%8B%9F%E8%B3%87%E6%88%90%E5%8A%9F-astruss23%E5%8A%A0%E6%8B%BF%E5%A4%A71200-%E8%90%AC%E7%BE%8E%E5%85%83a-%E8%BC%AA%E7%94%B1-caffeinated-capital-%E9%A0%98%E6%8A%95-dcx-the-/1568439365325713/",
+    "https://www.facebook.com/electrekco/posts/harbinger-scores-another-240m-in-latest-investment-roundsee-link-below-%EF%B8%8F/1586147866884272/",
+    "https://www.facebook.com/gapminder.vc/posts/what-does-a-year-of-building-look-like-across-our-portfolio-in-the-latest-editio/1796923775770066/",
+    "https://www.facebook.com/cyberbuzz/posts/%E6%98%A8%E6%97%A5inside-%E8%9E%9E%E8%9F%BB%E9%87%91%E6%9C%8D%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95-ipo-%E5%96%8A%E5%8D%A1%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%B8%82%E5%80%BC%E7%B8%AE%E6%B0%B4-690-%E5%84%84%E7%BE%8E%E5%85%83%E5%B0%B1%E5%9C%A8%E8%9E%9E%E8%9F%BB%E9%87%91%E6%9C%8D%E5%8F%AF%E8%83%BD%E5%89%B5%E4%B8%8B%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98-ipo-%E9%87%91%E9%A1%8D%E7%9A%84%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E9%A6%AC%E9%9B%B2%E9%81%AD%E5%8C%97%E4%BA%AC%E7%95%B6%E5%B1%80%E7%B4%84%E8%AB%87%E4%B8%8A%E6%B5%B7%E8%AD%89%E5%88%B8%E4%BA%A4/10157520635691566/",
+    "https://www.facebook.com/techcrunch/posts/known-has-raised-97-million-from-investors-including-forerunner-and-nfx-along-wi/1218074553519743/",
+    "https://www.facebook.com/techcrunch/posts/the-financing-includes-an-8m-seed-round-co-led-by-sequoia-capital-and-first-roun/1448227850504411/",
+    "https://m.facebook.com/IndiaStrategic/photos/aidash-closes-its-oversubscribed-series-c-funding-round-at-585-million-the-compa/887537156716413/",
+    "https://www.facebook.com/sigopt/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sigopt note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sigopt X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=gjT-aLwEsbI",
+    "https://github.com/sigopt/sigopt-server",
+    "https://www.youtube.com/c/SigOpt",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://lifrell-tech.com/950/",
+    "https://help.x.com/ja/forms/safety-and-sensitive-content/private-information",
+    "https://ledge.ai/articles/x_revises_privacy_policy",
+    "https://github.com/sigopt/sigopt-examples",
+    "https://x.com/sigopt",
+    "https://sigopt.org/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

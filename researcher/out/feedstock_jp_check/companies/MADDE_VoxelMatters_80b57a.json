@@ -1,0 +1,464 @@
+{
+ "name": "MADDE — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T21:34:44.307733+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.madde.co.kr/eng/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://maddermadder.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.madde.co.kr/eng/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.madde.co.kr/eng/page/?pid=company01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/am-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinofu.com/uvresin-guide2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.croccha.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fantist.com/articles/1092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.madde.co.kr/eng/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3506/7076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/madde/vp3fowyoowbjahbnv",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/voxelmatters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MADDE — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.madde.co.kr/eng/",
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.am-teams.com/distribution/",
+    "https://www.voxelmatters.directory/company/madde/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://maddermadder.com/",
+    "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://sagidame.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.madde.co.kr/eng/",
+    "https://www.voxelmatters.com/",
+    "https://www.madde.co.kr/eng/page/?pid=company01",
+    "https://www.voxelmatters.com/am-japan/",
+    "https://madden-store.jp/",
+    "http://www.tolvan.com/index.php?page=/madde/madde.php",
+    "https://www.am-teams.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://fantist.com/articles/1017",
+    "https://shop.croccha.com/",
+    "https://fantist.com/articles/1092",
+    "https://www.youtube.com/@nyandako",
+    "https://www.msn.com/ja-jp/news/other/魔法の天使クリィミーマミ-より森沢優が変身した姿-クリィミーマミ-がレジンキットで登場-2027年3月3日ごろ発売/ar-AA2h1Yrq",
+    "https://www.youtube.com/@_oshi_wan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.madde.co.kr/eng/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.europesays.com/japan/79430/",
+    "https://www.am-teams.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://japanesedistributors.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp MADDE — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://business.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com MADDE — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/3506/7076/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/g/00016743/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/madde/vp3fowyoowbjahbnv",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://pitchbook.com/profiles/company/538193-89",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.com/category/money/financials/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MADDE — VoxelMatters",
+   "results": [
+    "https://note.com/gabliel/n/n1d6770368965",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/hirokimiyano/n/n255d15d782c8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MADDE — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Prusa3D/status/2031054780668252591",
+    "https://x.com/",
+    "https://x.com/AirtechOfficial",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MADDE — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://www.linkedin.com/posts/davide-sher_voxelmatters-presents-new-market-study-on-activity-7155924881774194688-eoHP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MADDE — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/reinventing-ceramics-olivier-van-herpt-explores-traditional-white-and-blue-delft/984902955015163/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/posts/december-is-ceramics-3dprinting-month-at-3d-printing-media-network-find-out-all-/822524867919640/",
+    "https://www.facebook.com/VoxelMatters/posts/the-lessons-of-artemisthe-program-cost-over-93-billion-and-sent-humans-back-to-t/1553291466801896/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/",
+    "https://www.facebook.com/VoxelMatters/videos/not-every-opening-gets-an-electric-unicycle-entrance-this-one-didvoxelmatters-tr/4418310308426998/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/",
+    "https://www.madde.co.kr/page/?pid=company03",
+    "https://www.voxelmatters.com/about/",
+    "https://muckrack.com/davide-sher",
+    "https://www.madde.co.kr/eng/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MADDE — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.madde.co.kr/eng/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/ventriloqcist/status/2119550521656922519"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

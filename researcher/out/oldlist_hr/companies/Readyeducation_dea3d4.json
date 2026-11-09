@@ -1,0 +1,1014 @@
+{
+ "name": "Readyeducation",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:51:33.413568+00:00",
+ "official_url": "https://www.readyeducation.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://startupintros.com/orgs/ready-education",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Montreal, Canada",
+    "url": "https://startupintros.com/orgs/ready-education",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Connect students to community and support, then use data to show impact on retention",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve campus life with community-building software that helps students connect, engage, and thrive.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce administrators’ workloads with automated processes and workflows.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover expert perspectives, best practices, and success stories shaping the future of higher education.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access practical, step-by-step resources designed to help your campus implement effective engagement strategies.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CampusGroups is a student engagement and success hub that brings campus life, academics, and student services together into one personalized mobile-first experience. It helps institutions drive measurable engagement and belonging, improve student satisfaction and retention, and streamline processes so staff can focus on students.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive student engagement and retention",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide a single secure and accessible platform for engagement across the entire student experience, from classes to co-curricular activities to events. ReadyCampus integrates with existing systems like the SIS and LMS, consolidating multiple point solutions into fewer systems with less complexity and vendor management.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make better decisions to drive engagement and retention",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Receive expert implementation & ongoing support from Ready Education. Launch quickly with guidance from implementation and campus success specialists who align setup and rollout with your goals. Support your team’s success with ongoing training, a vibrant user community, and responsive help so you can stay focused on supporting students instead of managing technology.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We saw a 41.6% increase in group membership and over 22,000 events promoted”",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The platform’s comprehensive suite of engagement solutions has been transformational. It has greatly enhanced the student experience, boosted involvement, and saved us money. In just two months, we saw a 41.6% increase in group membership and over 22,000 events promoted, with more than 80% of users satisfied. Its tracking and reporting features have also been crucial for measuring engagement.”",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Prior to implementing Ready, our online community felt disconnected from the on-campus experience. By creating a unified platform, we leveled the playing field for all students. Events and community channels have become top engagement drivers, providing a central ‘virtual town square’ that enhances student resilience and retention.”",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matt Weitzel, IT Project Manager",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s start discussing ways your institution can improve communications and experiences to increase retention and drive student success.",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect students to community and support, then use data to show impact on retention",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve campus life with community-building software that helps students connect, engage, and thrive.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce administrators’ workloads with automated processes and workflows.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover expert perspectives, best practices, and success stories shaping the future of higher education.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Access practical, step-by-step resources designed to help your campus implement effective engagement strategies.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Encourage student involvement through automated game-like incentives to drive engagement organically, enabling you to focus on other priorities.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote clubs and organizations",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Getting students involved can be a challenge, especially when so many students juggle work and studies. Capture their attention by highlighting student groups and events based on their major, interests, and preferences, all within the platform.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Equip student leaders with the tools they need to effectively manage and grow organization membership with our student engagement platform. Easy membership registration, event planning, communication, and approval processes, all in one place.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Event management can be overwhelming, especially for students. Don’t let administrative hurdles slow down your most engaged students. Remove barriers by providing robust event management tools right at their fingertips and an easy approval processes.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Consolidate your communications through our student engagement platform. Plus, increase students’ likelihood of attending an event by letting them see who else is coming when they register. Students can even chat with classmates directly through the platform to coordinate meet-ups beforehand. This integrated approach not only centralizes communication but also makes campus engagement easier.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "“We saw a 41.6% increase in group membership and over 22,000 events promoted”",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "“The platform’s comprehensive suite of engagement solutions has been transformational. It has greatly enhanced the student experience, boosted involvement, and saved us money. In just two months, we saw a 41.6% increase in group membership and over 22,000 events promoted, with more than 80% of users satisfied. Its tracking and reporting features have also been crucial for measuring engagement.”",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s start discussing ways your institution can improve communications and experiences to increase retention and drive student success.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "College Student Retention | CampusGroups",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect students to community and support, then use data to show impact on retention",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve campus life with community-building software that helps students connect, engage, and thrive.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce administrators’ workloads with automated processes and workflows.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover expert perspectives, best practices, and success stories shaping the future of higher education.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Access practical, step-by-step resources designed to help your campus implement effective engagement strategies.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "What’s happening outside the classroom is as important as what happens inside. Give every student, whether residential, commuter, or online, one connected place to find their community, access support, and navigate campus life with confidence. When students feel connected, they stay. With CampusGroups, you’ll be able to prove it by correlating co-curriculars with retention.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "CampusGroups gives students guided pathways and easy access to resources, so they always know their next step. Onboarding checklists and scheduling tools help them build relationships with peers, staff, and advisors before day one, letting them set goals and book mentor time right from their phone.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "CampusGroups connects every student with the right people, programs, and clubs through a single platform, making it easy to find a group that fits their interests, and improve college student retention.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Results show up across campuses: students who get involved show a 90% retention rate, versus 74% for those who don’t, and at the University of Wisconsin-Stout, students who attend Involvement Center programs see an 8.0% higher retention rate than peers who don’t.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Students don’t read campus emails, so updates about deadlines, financial aid, and advising can easily get lost across too many scattered threads. When students miss this information, small problems can grow into bigger ones before anyone notices.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to email, CampusGroups adds communication to the mobile app students already use every day. Targeted push alerts, in-app messages, and community feeds keep students informed about what matters most, while giving staff insight into trends that may affect retention.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Student Affairs teams often have more engagement data spread across too many disparate systems, so connecting it to retention and student success can take days. By then, the moment to act has often already passed.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "“Retention is everyone’s business”",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "“At UW Stout, retention is everyone’s business. Student Affairs addresses the non-academic factors that influence whether a student stays. Belonging, engagement, wellness, and access to resources all matter.”",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "“Prior to implementing Ready, our online community felt disconnected from the on-campus experience. By creating a unified platform, we leveled the playing field for all students. Events and community channels have become top engagement drivers, providing a central ‘virtual town square’ that enhances student resilience and retention.”",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Matt Weitzel, IT Project Manager",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "“CampusGroups delivers clear return on investment by turning engagement into measurable outcomes. It allows us to encourage and reward involvement in ways that directly support student success and retention.”",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Kevin Ross, President",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s start discussing ways your institution can improve communications and experiences to increase retention and drive student success.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect students to community and support, then use data to show impact on retention",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve campus life with community-building software that helps students connect, engage, and thrive.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce administrators’ workloads with automated processes and workflows.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover expert perspectives, best practices, and success stories shaping the future of higher education.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Access practical, step-by-step resources designed to help your campus implement effective engagement strategies.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intentional learning pathways provide clear guidance and support, so students can track their progress and achieve their goals.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t leave students feeling lost or unsure about their academic and personal goals. Our student success platform offers personalized learning pathways that provide clear guidance and support.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s completing academic milestones or gaining co-curricular experience, students benefit from intentional learning paths that recognize their achievements. Offer clear, structured pathways to success through customizable checklists that allow students to track their progress.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Create meaningful, focused steps that guide student development inside and outside the classroom. Our student success software features custom plans, actionable tasks, and gamified incentives to motivate and facilitate progress throughout the educational journey.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Our student success platform makes it easy for students to create a comprehensive profile that highlights their unique strengths and experiences. This powerful tool can enhance their resumes and online profiles, giving them a competitive edge.",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide the help students need to succeed",
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Targeted Emails Delivered",
+    "url": "https://www.readyeducation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Students don’t read campus emails, so updates about deadlines, financial aid, and advising can easily get lost across too many scattered threads. When students miss this information, small problems can grow into bigger ones before anyone notices.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to email, CampusGroups adds communication to the mobile app students already use every day. Targeted push alerts, in-app messages, and community feeds keep students informed about what matters most, while giving staff insight into trends that may affect retention.",
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage push notifications, email marketing, and chat to deliver timely and relevant updates.",
+    "url": "https://www.readyeducation.com/solutions/student-communication/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost email engagement",
+    "url": "https://www.readyeducation.com/solutions/student-communication/",
+    "pass": 1
+   },
+   {
+    "quote": "Engage students with personalized emails",
+    "url": "https://www.readyeducation.com/solutions/student-communication/",
+    "pass": 1
+   },
+   {
+    "quote": "Generic mass emails often go unopened.",
+    "url": "https://www.readyeducation.com/solutions/student-communication/",
+    "pass": 1
+   },
+   {
+    "quote": "With our student communication software you can easily send personalized, targeted emails tailored to student interests and needs. Utilize an easy-to-use design editor to create eye-catching newsletters, track open and click rates, and ensure messages reach the right students at the right time. Customize content for specific student groups and empower student leaders to communicate effectively.",
+    "url": "https://www.readyeducation.com/solutions/student-communication/",
+    "pass": 1
+   },
+   {
+    "quote": "Our campus organization management system automates the process and gives you access to forms, elections, polls and surveys. Customize questions, invite participation via email, and set access levels for different group members. Gather and analyze student insights quickly and accurately.",
+    "url": "https://www.readyeducation.com/solutions/optimize-operations/",
+    "pass": 1
+   },
+   {
+    "quote": "Group Emails and Notifications",
+    "url": "https://helpcenter.readyeducation.com/implementation-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/ready-education/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/ready-education/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Moodle (VLE), Timetable and University emails.",
+    "url": "https://resources.readyeducation.com/hubfs/Case-Study-UWTSD-v2.pdf?hsLang=en-gb",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Event management can be overwhelming, especially for students. Don’t let administrative hurdles slow down your most engaged students. Remove barriers by providing robust event management tools right at their fingertips and an easy approval processes.",
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "pass": 1
+   },
+   {
+    "quote": "We foster an inclusive environment that embraces respect and authenticity. We value the diverse contributions of our employees and the global education community.",
+    "url": "https://www.readyeducation.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.readyeducation.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re passionate about putting students first and enabling their success and want to be part of a dedicated team, we’d love to have you join us. Explore our open positions.",
+    "url": "https://www.readyeducation.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/ready-education/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports a diverse range of institutions worldwide, including top universities, with localized solutions through strategic acquisitions.",
+    "url": "https://startupintros.com/orgs/ready-education",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by over 700 institutions in over 25 countries, we are committed to enhancing student engagement, and driving student success.",
+    "url": "https://www.readyeducation.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/ready-education/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Implementation Overview - helpcenter.readyeducation.com — Jun 1, 2026 · Whether you are transitioning from another platform or coming from a paper system, this guide is designed to equip you with everything you need to seamlessly launch CampusGroups. Our dedicated implementation team is committed to ensuring your success from start to finish. Led by your Implementation Manager, who will provide pe",
+    "url": "https://helpcenter.readyeducation.com/implementation-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Student Engagement Platform & Solutions | Ready Education — Discover the leading student engagement platform and solutions. Empower student success with software designed to enhance campus engagement",
+    "url": "https://www.readyeducation.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Who We Are: Our Mission and Values | Ready Education — Discover Ready Education’s mission, values, and the story behind CampusGroups, the platform trusted across 700+ institutions in over 25 countries worldwide.",
+    "url": "https://www.readyeducation.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education - LinkedIn 日本 — Ready Education | LinkedInのフォロワー数10,817人。Technology that helps students connect and engage with campus life while helping institutions gain measurable insights. | Ready Education provides a total student experience platform that attracts and retains students providing experiences that engage and lead to successful outcomes. Offering experiences that improves student",
+    "url": "https://jp.linkedin.com/company/ready-education",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us - Ready Education — On Demand Webinars Catch up on past sessions anytime, learn from thought leaders and Ready Education experts at your own pace. In-Person Events Find out where the Ready Team is heading and where you can join us to learn more about CampusGroups and our future plans!",
+    "url": "https://www.readyeducation.com/contact-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Client Support - Ready Education — Your Client Success Manager will help you make the most of your Ready Education solution. Key aspects of their role include: Helping with goal planning and supporting your success Hosting best practice sessions with fellow clients, such as monthly Office Hours Communicating regularly about resources, tools, and tips Supporting conversations related to your contra",
+    "url": "https://www.readyeducation.com/client-support/",
+    "pass": 3
+   },
+   {
+    "quote": "26 Ready Education Case Studies, Success Stories, & Customer ... — Ready Education has a 4.8/5 star rating. Learn what their customers think, get 26 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/ready-education/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Higher Ed Success Stories & Case Studies | Ready Education — Explore how top universities improve retention and engagement. Read success stories to see how CampusGroups transforms the student experience at every level",
+    "url": "https://www.readyeducation.com/success-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education Case Study small - SalesIntel — Based out of Canada, Ready Education is a leading EdTech enterprise of its domain that facilitates student engagement on campuses. Catering to over 350 universities and used by over 2 million students, the platform o ers a mix of communication, integration, and engagement solutions to help universities strengthen and streamline their outreach e ...",
+    "url": "https://salesintel.io/wp-content/uploads/2019/12/Ready-Education-Case-Study-small_compressed-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education – Funding, Acquisitions & Key Rivals – 2026 — Ready Education has grown steadily with estimated revenue of $9.2M, team of around 70+ employees, operating from Montreal, with eyes on further growth.",
+    "url": "https://compworth.com/company/ready-education",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education 2026 Company Profile: Valuation, Funding ...Ready Education - 2026 Company Profile, Team, Funding ...Ready Education: Funding, Team & Investors | Startup IntrosReady Education Revenue 2024: $8.1M Est. - getlatka.comReady Education — Funding, Investors & Team | SeedtableReady Education Information - RocketReach — Information on valuation, funding, cap tables, investors, and executiv",
+    "url": "https://pitchbook.com/profiles/company/232144-03",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education - 2026 Company Profile, Team, Funding ... — Apr 9, 2026 · Ready Education is a series A company based in Burlington (United States), founded in 2010 by James Dang and Danial Jameel. It operates as a Communication platform for colleges. Ready Education has raised $5.44M in funding from Y Combinator and University Ventures. The company has 273 active competitors, including 30 funded ",
+    "url": "https://tracxn.com/d/companies/readyeducation/__6n4Ij2GnWGnxKOjSrjJkXSRGaw_nex8yArWxEtGZl94",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Ready Education? Ready Education was founded in 2012 by Alice Dinu (Founder) and Danial Jameel (Founder/CEO) and James Dang (Founder). How much funding has Ready Education raised? Ready Education has raised $6.0M in total across 2 funding rounds. Who are Ready Education's investors?",
+    "url": "https://startupintros.com/orgs/ready-education",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education Revenue 2024: $8.1M Est. - getlatka.com — Oct 30, 2026 · Ready Education 2024 estimated revenue: $8.1M. 138 employees. Industry: Education Software. HQ: Canada. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/readyeducation.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Welcome Berea College to the Ready Education community! We're ... Welcome Berea College to the Ready Education community!We're excited to support Berea's student engagement goals with CampusGroups, our student engagement platform.𝗟𝗲𝗮𝗿𝗻 𝗺𝗼𝗿𝗲 about CampusGroups. 👇 hubs.la/Q04jwQRJ0 #StudentEngagement #HigherEd #CampusGroups",
+    "url": "https://x.com/ReadyEducation/status/2062507160332796046",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education (@ReadyEducation) / X Discover how Ready Education's Customer Success, Implementation, and Support teams help colleges and universities prepare for a successful academic year.",
+    "url": "https://x.com/readyeducation",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Ready Education (@ReadyEducation) / X Tech that helps students connect & engage with campus life while helping institutions gain measurable insights. Trusted by 715+ institutions and 7M+ students.",
+    "url": "https://x.com/ReadyEducation/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "CampusGroups Data Intelligence gives institutions visibility ... Ready Education (@ReadyEducation). 28 views. CampusGroups Data Intelligence gives institutions visibility into student engagement through intuitive dashboards and AI-powered insights designed for decision-makers across campus.",
+    "url": "https://x.com/ReadyEducation/status/2018673328723034134",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ready Education - LinkedIn Ready Education | 10,926 followers on LinkedIn. Technology that helps students connect and engage with campus life while helping institutions gain measurable insights. | Ready Education provides a ...",
+    "url": "https://www.linkedin.com/company/ready-education",
+    "pass": 3
+   },
+   {
+    "quote": "Gary Ambrosino - Ready Education | LinkedInKeith Ellman - Data Science Engineer @ Ready Education - LinkedInCassandra Haward - Assistant Controller at Ready Education ...Teresa-Rae Chuck - Full Stack Operations, Partnerships and ...Readyeducation Jobs in United States (11,000+ Open Roles ...Jami Morshed - Ready Education | LinkedIn I scale SaaS & digital-health platforms and deliver high-multiple ",
+    "url": "https://www.linkedin.com/in/garyambrosino",
+    "pass": 3
+   },
+   {
+    "quote": "Keith Ellman - Data Science Engineer @ Ready Education - LinkedInCassandra Haward - Assistant Controller at Ready Education ...Teresa-Rae Chuck - Full Stack Operations, Partnerships and ...Readyeducation Jobs in United States (11,000+ Open Roles ...Jami Morshed - Ready Education | LinkedIn Data Science Engineer @ Ready Education | Data Science, Big Data · With over 12 years in the tech field, my j",
+    "url": "https://ca.linkedin.com/in/keith-ellman",
+    "pass": 3
+   },
+   {
+    "quote": "Cassandra Haward - Assistant Controller at Ready Education ...Teresa-Rae Chuck - Full Stack Operations, Partnerships and ...Readyeducation Jobs in United States (11,000+ Open Roles ...Jami Morshed - Ready Education | LinkedIn Assistant Controller at Ready Education · -Are you Ready for some big news? OOHLALA Mobile + Dublabs is now officially Ready Education. Check out our new home at readyeducati",
+    "url": "https://ca.linkedin.com/in/cassandra-haward-5a58a7168",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ready Education - Facebook Welcome American University to the Ready Education community! American University is known for its global outlook and passion for public service, giving students meaningful real world experience in the heart of the nation's capital. Home of the Eagles, AU empowers students to connect, get involved, and succeed throughout their college experience.",
+    "url": "https://www.facebook.com/ReadyEducation/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education - Please join us in welcoming Steve... | Facebook Jan 3, 2024 · Please join us in welcoming Steve Pawlish to Ready Education as CTO, a highly experienced and respected leader in the tech industry. Read more 👉",
+    "url": "https://www.facebook.com/ReadyEducation/posts/please-join-us-in-welcoming-steve-pawlish-to-ready-education-as-cto-a-highly-exp/895733405887238/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education - Enhancing the Student ... - Facebook Jul 11, 2023 · Ready Education 5d Before CampusGroups, Austin Peay State University (APSU) relied on multiple platforms and paper-based systems, creating a disconnected campus experience. With CampusGroups, students, faculty, and staff now enjoy: Tap-to-check-in attendance tracking. Integrated course & event schedules.",
+    "url": "https://www.facebook.com/ReadyEducation/posts/-enhancing-the-student-experience-in-higher-education-a-comprehensive-guide-as-h/776171174510129/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Education Network - Facebook Oct 26, 2020 · Ready Education Network. 9 likes. Conservatives LEADING THE CHARGE for better schools.",
+    "url": "https://www.facebook.com/ReadyEducationNetwork/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.readyeducation.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/solutions/student-engagement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/solutions/college-student-retention/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/solutions/student-and-academic-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/solutions/community-and-belonging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/solutions/student-communication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/solutions/optimize-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/success-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/resources/articles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/about/our-advisory-councils/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.readyeducation.com/news/ready-education-and-board-middle-east-announce-strategic-partnership-to-advance-student-engagement-and-digital-transformation-across-the-middle-east/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20624'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://helpcenter.readyeducation.com/implementation-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mainichi.jp/articles/20261014/pr2/00m/020/850000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readygroupjapan.com/families-education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/ready-education/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.readyeducation.com/hubfs/Case-Study-UWTSD-v2.pdf?hsLang=en-gb",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/ready-education",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/232144-03",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/readyeducation/__6n4Ij2GnWGnxKOjSrjJkXSRGaw_nex8yArWxEtGZl94",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/ready-education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ReadyEducation/status/2062507160332796046",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/readyeducation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReadyEducation/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReadyEducation/status/2018673328723034134",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ready-education",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/garyambrosino",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/keith-ellman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/cassandra-haward-5a58a7168",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyEducation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyEducation/posts/please-join-us-in-welcoming-steve-pawlish-to-ready-education-as-cto-a-highly-exp/895733405887238/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyEducation/posts/-enhancing-the-student-experience-in-higher-education-a-comprehensive-guide-as-h/776171174510129/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyEducationNetwork/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/readyeducation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReadyEducation/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Readyeducation 日本 導入",
+   "results": [
+    "https://helpcenter.readyeducation.com/implementation-overview",
+    "https://www.readyeducation.com/",
+    "https://www.readyeducation.com/about/",
+    "https://mainichi.jp/articles/20261014/pr2/00m/020/850000c",
+    "https://jp.linkedin.com/company/ready-education",
+    "https://dot.asahi.com/aerakids/articles/-/291563",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readyeducation 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.readyeducation.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readyeducation Japan",
+   "results": [
+    "https://readygroupjapan.com/families-education",
+    "https://www.readyeducation.com/",
+    "https://www.readyeducation.com/about/",
+    "https://www.readyeducation.com/contact-us/",
+    "https://www.readyeducation.com/client-support/",
+    "https://readyeducation.org/contact-us/",
+    "https://helpcenter.readyeducation.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readyeducation manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/ready-education/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://resources.readyeducation.com/hubfs/Case-Study-UWTSD-v2.pdf?hsLang=en-gb",
+    "https://www.readyeducation.com/success-stories/",
+    "https://salesintel.io/wp-content/uploads/2019/12/Ready-Education-Case-Study-small_compressed-1.pdf",
+    "https://www.casestudies.com/company/ready-education",
+    "https://www.readyeducation.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readyeducation white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readyeducation founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/ready-education",
+    "https://pitchbook.com/profiles/company/232144-03",
+    "https://tracxn.com/d/companies/readyeducation/__6n4Ij2GnWGnxKOjSrjJkXSRGaw_nex8yArWxEtGZl94",
+    "https://startupintros.com/orgs/ready-education",
+    "https://getlatka.com/companies/readyeducation.com",
+    "https://seedtable.com/companies/ready-education",
+    "https://rocketreach.co/ready-education-profile_b5c94104f42e37b7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Readyeducation",
+   "results": [
+    "https://note.com/ojuken_mommy/n/ndf06ba525c9e?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hirokimiyano/n/nb97d74a785ab",
+    "https://note.com/f_1341_/n/n03cb85ee6767",
+    "https://note.com/good_tapir4150/n/n545c5c69f7e2",
+    "https://note.com/tmg_lawoffice/n/n2149ec2c2e83"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Readyeducation",
+   "results": [
+    "https://x.com/ReadyEducation/status/2062507160332796046",
+    "https://x.com/readyeducation",
+    "https://x.com/ReadyEducation/with_replies",
+    "https://x.com/ReadyEducation/status/2018673328723034134",
+    "https://x.com/ReadyEducation/status/2062144774354632926",
+    "https://x.com/dublabs",
+    "https://x.com:2096/ReadyEducation/status/2084283143222128832"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Readyeducation",
+   "results": [
+    "https://www.linkedin.com/company/ready-education",
+    "https://www.linkedin.com/in/garyambrosino",
+    "https://ca.linkedin.com/in/keith-ellman",
+    "https://ca.linkedin.com/in/cassandra-haward-5a58a7168",
+    "https://cn.linkedin.com/in/raestea",
+    "https://www.linkedin.com/jobs/readyeducation-jobs",
+    "https://www.linkedin.com/in/jamimorshed"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Readyeducation",
+   "results": [
+    "https://www.facebook.com/ReadyEducation/",
+    "https://www.facebook.com/ReadyEducation/posts/please-join-us-in-welcoming-steve-pawlish-to-ready-education-as-cto-a-highly-exp/895733405887238/",
+    "https://www.facebook.com/ReadyEducation/posts/-enhancing-the-student-experience-in-higher-education-a-comprehensive-guide-as-h/776171174510129/",
+    "https://www.facebook.com/ReadyEducationNetwork/",
+    "https://www.facebook.com/ReadyEducation/posts/900262962100949/",
+    "https://www.facebook.com/ReadyEducation/photos/2024-was-a-milestone-year-for-ready-education-and-our-campus-partners-highlights/1179095534217689/",
+    "https://www.facebook.com/ReadyEducation/posts/at-naspa2026-we-heard-one-thing-loud-and-clear-engagement-is-harder-to-drive-and/1562086982585207/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readyeducation note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Readyeducation X 投稿",
+   "results": [
+    "https://x.com/readyeducation",
+    "https://x.com/ReadyEducation/with_replies",
+    "https://helpcenter.readyeducation.com/videos",
+    "https://x.com/",
+    "https://www.readyeducation.com/",
+    "https://x.com/NousResearch/status/2118822925445050435",
+    "https://helpcenter.readyeducation.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索12回）"
+ }
+}

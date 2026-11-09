@@ -1,0 +1,522 @@
+{
+ "name": "Objective3D — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:42:23.881367+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInObjective3D Packaging Design Prototypes | LinkedInElias Baini - General Manager at Objective3D | Industrial ...Objective3D Aerospace and Defence - LinkedInCatch Metal 3D Printing Defects Layer by Layer with In-Situ ... Co-founder of VoxelMatters · With a background in architecture and design I oversee VoxelMatters' vision. Working with all teams",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookObjective3D - 100% Dedicated to 3D Printing - FacebookVoxelMatters on Reels - FacebookVoxelMatters - 3D Printlife donates material, enough to 3D...Objective3D... - Objective3D - 100% Dedicated to 3D PrintingNot every opening gets an electric unicycle entrance. This ...VoxelMatters - Risks come from the dark web, not 3D... - Facebook VoxelMatters. 2,907 followers · 4 talking ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "Objective3D - 100% Dedicated to 3D Printing - FacebookVoxelMatters on Reels - FacebookVoxelMatters - 3D Printlife donates material, enough to 3D...Objective3D... - Objective3D - 100% Dedicated to 3D PrintingNot every opening gets an electric unicycle entrance. This ...VoxelMatters - Risks come from the dark web, not 3D... - Facebook May 21, 2023 · Objective3D - 100% Dedicated to 3D Printing. 6,927",
+    "url": "https://www.facebook.com/objective3d/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.objective3d.com.au/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/objective3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.objective3d.com.au/main-industries/commercial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meta.com/jp/quest/quest-3/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.objective3d.com.au/main-industries/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.objective3d.com.au/shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.co.jp/resources/resource-guides/3d-printing-buyers-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.objective3d.com.au/shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/unique-3d-printed-furniture-made-possible-with-pellet-extrusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vKS83blhzu2-X--S2UGodlA6HasYcBQAVwLd51jDfcz9zaL4Qq8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/objective3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.objective3d.com.au/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01447678/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/08505434/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02608575/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/objective3d-inc/354988338",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/objective3d/noe0autcu6cml1dcp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/objective-3d-pty-ltd-profile_b5e04c8af42e6807",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/objective3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Objective3D — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.objective3d.com.au/",
+    "https://www.voxelmatters.directory/",
+    "https://www.facebook.com/objective3d/",
+    "https://amtil.com.au/manufacturelink/objective-3d-pty-ltd/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.artec3d.com/reseller/objective3d-pty-ltd",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Objective3D — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.objective3d.com.au/main-industries/commercial/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.meta.com/jp/quest/quest-3/",
+    "https://www.objective3d.com.au/main-industries/medical/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://hir.co.jp/",
+    "https://mitsukaru.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Objective3D — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.objective3d.com.au/shop/",
+    "https://3dprinter.co.jp/",
+    "https://www.stratasys.co.jp/resources/resource-guides/3d-printing-buyers-guide/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://i-maker.jp/?srsltid=AYCX9vLeRkWYPIYywZ_-PJOK221Ejvui6_z3Q1vqFlZleT0Ty-EjaZ0o",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://intamsys.jp/",
+    "https://ultimaker.com/ja/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Objective3D — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.objective3d.com.au/shop/",
+    "https://www.voxelmatters.com/top-products/",
+    "https://ja.3dsystems.com/unique-3d-printed-furniture-made-possible-with-pellet-extrusion",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vKS83blhzu2-X--S2UGodlA6HasYcBQAVwLd51jDfcz9zaL4Qq8",
+    "https://www.poly-maker.jp/",
+    "https://www.filabot.com/collections/filament?srsltid=AYCX9vJku0eiFksg-bG9A63RL4v53lmxg-fbxj3I7lnCRTrrA-7TA-Xy",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.voxelfactory.com/collections/ultimaker-filaments?srsltid=AYCX9vKL2-6TffEp6dJnGUdLjieui2JQva8c3nOlrQRgZ7SV6KrxnuI1",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Objective3D — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.facebook.com/objective3d/",
+    "https://www.objective3d.com.au/",
+    "https://www.voxelmatters.com/",
+    "https://www.artec3d.com/reseller/objective3d-pty-ltd",
+    "https://x.com/VoxelMatters",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/en/tct/search",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Objective3D — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.objective3d.com.au/about/",
+    "https://www.voxelmatters.directory/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.upnano.com/distributors/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Objective3D — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://pay.amazon.co.jp/",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWNT254098-レーストリミングニットプルオーバーSWNT254098レディース/dp/B0FD9W45X9",
+    "https://www.amazon.co.jp/FEISEDY-レディース-ロングパンツ-大きいサイズ-カジュアル/dp/B0DP8J5RCQ",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Objective3D — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01447678/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/g/08505434/",
+    "https://www.monotaro.com/g/02608575/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/01378095/",
+    "https://www.monotaro.com/g/00347026/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Objective3D — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.zoominfo.com/c/objective3d-inc/354988338",
+    "https://www.thecompanycheck.com/company/b/objective3d/noe0autcu6cml1dcp",
+    "https://www.voxelmatters.com/",
+    "https://rocketreach.co/objective-3d-pty-ltd-profile_b5e04c8af42e6807",
+    "https://www.voxelmatters.com/category/money/financials/",
+    "https://tracxn.com/d/companies/objective3d/__5YdJMbUJlVsZvlRb0xSIveEHA3Hs61andWu4H-Xn90s",
+    "https://craft.co/objective-3d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Objective3D — VoxelMatters",
+   "results": [
+    "https://note.com/_ayn/n/ndeec0bca014f?hl=en",
+    "https://note.com/npaka/n/nde5589d13536?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/c8c/n/n1cb28c4fe933",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/mattariyukkuri/n/n1e770a23caad?hl=en",
+    "https://note.com/tsure_risa/n/nb28af891a622?hl=en",
+    "https://note.com/ccre1018/n/n77e6fbc62af0?hl=en"
+   ],
+   "engines": [
+    "ddgs:brave",
+    "ddgs:google"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Objective3D — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/o3dprinting",
+    "https://x.com/objective3d",
+    "https://x.com/HowToPrompt__/status/2056387308287676819",
+    "https://x.com/Caelly0M/status/2105258271380529241",
+    "https://x.com/Voxyz_ai/status/2119444845890617507",
+    "https://x.com/1nxnn__/status/2109478752497570143"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Objective3D — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/objective-3d-pty-ltd",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://kn.linkedin.com/showcase/objective3d-packaging-design-prototypes",
+    "https://au.linkedin.com/in/elias-baini",
+    "https://au.linkedin.com/showcase/objective3d-aerospace-and-defence/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7492846001142116354-Qcj7"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Objective3D — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/objective3d/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/objective3d/photos/473378541248449/",
+    "https://www.facebook.com/VoxelMatters/posts/risks-come-from-the-dark-web-not-3d-printing-we-spoke-with-giacomo-persi-paoli-a/1003064873198971/",
+    "https://www.facebook.com/VoxelMatters/posts/3d-printlife-donates-material-enough-to-3d-print-over-115000-face-shields-3dprin/1475244339314353/",
+    "https://www.facebook.com/VoxelMatters/videos/not-every-opening-gets-an-electric-unicycle-entrance-this-one-didvoxelmatters-tr/4418310308426998/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Objective3D — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/about/",
+    "https://www.objective3d.com.au/",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://smartcitiestech.io/2024/12/melbournes-objective-3d-to-merge-with-tcl-companies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Objective3D — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/o3dprinting",
+    "https://x.com/objective3d",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/VoxelMatters/status/2117922030947614944"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

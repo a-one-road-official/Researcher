@@ -1,0 +1,1457 @@
+{
+ "name": "Scope AR",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:37:26.648750+00:00",
+ "official_url": "https://www.scopear.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2011",
+    "url": "https://startupintros.com/orgs/scope-ar",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/scope-ar",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Productivity Accelerated | Scope AR",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity Accelerated",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Say Hello to Frontline Intelligence",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "will be the greatest advantage to the frontline worker ever seen",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively prevent mistakes and rework with Analytic AI Detection & Validation",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in pre-work",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saved in reduced training",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced time interpreting",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How the Enterprise Uses Scope AR",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See the ways WorkLink, our AR platform, has accelerated, simplified, and streamlined enterprise productivity.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance aircraft maintenance with AR, reducing B&C check times, improving accuracy, and ensuring compliance.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our all-in-one platform supports the entire product lifecycle.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Import any CAD file. Web based no-code content creation. Expertise built in.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access information you need, when you need it. Interact with 3D content on any device.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time collaborative interactions with 3D content.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure and analyze productivity impacts with hard data insights built in.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PLM, MES, custom integrations. Cloud or on-premises deployment. SOC 2, HIPAA, NIST compliant and fully secure.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "eBooks, webinars, and presentations from Scope AR, partners, and industry-leading customers",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Ultimate Guide to Enterprise AR",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I make AR content?",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From streamlining production processes to capturing and distributing expert knowledge, WorkLink offers significant and measurable benefits tailored to each operational need. Here are just a few examples of some of client’s use-cases:",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform enables users with no prior coding knowledge to create rich, engaging augmented reality instructions. By facilitating the in-house creation of AR instruction manuals, WorkLink accelerates the production process, reduces production costs, and improves security.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cost-Effective Training Solutions:",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WorkLink's AR capabilities revolutionize the delivery of information on the job. Through augmented reality, engineers can access real-time, 3-D-aware instructions and data directly on the products they are building or servicing, eliminating the need to refer back to manuals or navigate through cumbersome paperwork, which enhances efficiency and reduces the likelihood of errors.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digitizing highly situational-aware maintenance workflows and instructions significantly reduces paper usage, contributing to green initiatives. This transition not only supports sustainability efforts but also streamlines processes, making information management more efficient and less prone to loss or damage.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR works closely with its partners to deliver enterprise customers a world-class productivity solution for industrial applications.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR's WorkLink application integrates with Apple Vision Pro, offering unmatched enterprise productivity through advanced augmented reality capabilities. This collaboration enhances training and manufacturing experiences by delivering expert guidance hands-free, making complex spatial instructions accessible on any device.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "and its HoloLens team to provide advanced augmented reality software for industrial applications. Users can access and install WorkLink from the Microsoft App Store on HoloLens, and load augmented reality sessions and work instructions.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "WorkLink operates on our partner Qualcomm's Snapdragon Spaces platform, enabling industrial organizations to visualize virtually anything in 3D. Integrating with WorkLink, our no-code augmented reality platform, this partnership supports a wide range of use cases, including data visualization, training, assessments, and IoT field layouts, enhancing productivity and operational efficiency.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "to provide advanced 3D authoring and real-time rendering technology for industrial use cases. Content authored within WorkLink Create leverages Unity’s award winning customization-at-scale engine, and provides a broad community for self-service development. Unity technology is also used for multiple device deployment of WorkLink applications.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Flatirons Solutions Acquires Scope AR to Create an AI-Powered, End-to-End Content-to-Execution Platform",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "A Modern, Intelligent Platform for the Future of Frontline Operations",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "\"This is the moment when approved procedures and intelligent, guided execution finally converge on a single platform,\" said Vincent Fauveau, CEO of Flatirons Solutions. \"We're delivering a modern, AI-powered user experience to our customers that not only tells technicians what to do but also shows them exactly how to do it, learns from every execution, and continuously improves.\"",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "\"Scope AR has always excelled at delivering the right information to technicians at the right time,\" said Scott Montgomerie, CEO of Scope AR. \"Flatirons fills the gap by keeping that information current and authoritative. Together, we eliminate fragmented workflows, manual handoffs, and version confusion, providing customers with an AI-ready partner built to scale.\"",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "This isn't just a business deal. It translates into tangible, practical improvements for the people who use our solutions every day:",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Content-to-Execution:",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "The right content at the right moment, continuously improving with real-world field data.",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "The integrated platform delivers 3D guidance, AR overlays, and remote expert collaboration, all tied to up-to-date content.",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "3D work instructions that automatically stay in sync with approved procedures.",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Procedure updates are created, approved, and distributed in context, improving compliance and speeding regulatory responses.",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "A unified product roadmap gives customers faster access to new AI capabilities, integrations, and device support through a single partner.",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Operational Intelligence That Improves Over Time:",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Execution data feeds back into the system, making procedures smarter and reducing AOG risk.",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Frontline Intelligence: The Next Evolution of Enterprise AR",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Product Announcement: Advanced Analytics",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "First public demo of AR as a powerful training tool for high-complexity industrial purposes at MINExpo 2012",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR Co-founder David Nedohin in 2012, with an early-prototype AR rig built to show off early enterprise use cases for Augmented Reality.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Boeing, Toyota, Caterpillar, NASA join Scope AR Customer roster, expanding Enterprise AR to Aerospace and General Industrial.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR joins spring class of startup accelerator Y Combinator",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "combining enterprise AR authoring and rendering into one platform.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR Upgrades WorkLink to give enterprise workers new insights into manufacturing processes and training, and supports HoloLens 2",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR and customer Lockheed Martin are featured at MS Ignite, in the video with introduction by Microsoft CEO Satya Nadella.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR launches WorkLink for Apple Vision Pro and teams with data integrations powerhouse eQ Technologic to transform shop floor operations",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR is the trusted enterprise productivity solution in aerospace, aviation, and general industrial sectors, supporting complex work instructions, skilled labor training, remote assistance, automated documentation and full integration with the digital thread.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, President",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are a remote-first workplace that prioritizes Customer Focus, Innovation, Integrity and Teamwork above all else. We play big and know we can’t be a leader in the space if we are not making a measurable difference for our customers.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are a growth stage company, and we are hiring! Please",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR is introducing a new era of Frontline Intelligence, combining Artificial Intelligence and Augmented Reality to transform how work is created, executed, and supported.",
+    "url": "https://www.scopear.com/ai-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Through the controlled, secure application of AI, Scope AR's WorkLink will deliver guidance, insight, and assurance directly where work happens. Built for enterprise and regulated environments, Frontline Intelligence will help organizations reduce time to value, prevent costly errors, and scale expertise across the workforce.",
+    "url": "https://www.scopear.com/ai-ar",
+    "pass": 1
+   },
+   {
+    "quote": "High quality work instruction creation can be slow, manual, and dependent on specialized expertise. Scope AR is introducing AI-powered authoring to dramatically reduce the time and effort required to create effective digital instructions, accelerating adoption and scale across the enterprise.",
+    "url": "https://www.scopear.com/ai-ar",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Streamline aerospace assembly with AR work instructions, cutting installation time by 25% and boosting accuracy.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Speed up aerospace inspections by 40% with AR-guided, standards-compliant workflows.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We understand the complexity of the industrial shop floor.",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Closing the Industrial Skilled Talent Gap",
+    "url": "https://www.scopear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR works closely with its partners to deliver enterprise customers a world-class productivity solution for industrial applications.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR's WorkLink application integrates with Apple Vision Pro, offering unmatched enterprise productivity through advanced augmented reality capabilities. This collaboration enhances training and manufacturing experiences by delivering expert guidance hands-free, making complex spatial instructions accessible on any device.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "and its HoloLens team to provide advanced augmented reality software for industrial applications. Users can access and install WorkLink from the Microsoft App Store on HoloLens, and load augmented reality sessions and work instructions.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "WorkLink operates on our partner Qualcomm's Snapdragon Spaces platform, enabling industrial organizations to visualize virtually anything in 3D. Integrating with WorkLink, our no-code augmented reality platform, this partnership supports a wide range of use cases, including data visualization, training, assessments, and IoT field layouts, enhancing productivity and operational efficiency.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "to provide advanced 3D authoring and real-time rendering technology for industrial use cases. Content authored within WorkLink Create leverages Unity’s award winning customization-at-scale engine, and provides a broad community for self-service development. Unity technology is also used for multiple device deployment of WorkLink applications.",
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "\"This is the moment when approved procedures and intelligent, guided execution finally converge on a single platform,\" said Vincent Fauveau, CEO of Flatirons Solutions. \"We're delivering a modern, AI-powered user experience to our customers that not only tells technicians what to do but also shows them exactly how to do it, learns from every execution, and continuously improves.\"",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "\"Scope AR has always excelled at delivering the right information to technicians at the right time,\" said Scott Montgomerie, CEO of Scope AR. \"Flatirons fills the gap by keeping that information current and authoritative. Together, we eliminate fragmented workflows, manual handoffs, and version confusion, providing customers with an AI-ready partner built to scale.\"",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 1
+   },
+   {
+    "quote": "First public demo of AR as a powerful training tool for high-complexity industrial purposes at MINExpo 2012",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Boeing, Toyota, Caterpillar, NASA join Scope AR Customer roster, expanding Enterprise AR to Aerospace and General Industrial.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR Upgrades WorkLink to give enterprise workers new insights into manufacturing processes and training, and supports HoloLens 2",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "COVID-19 restrictions necessitate the emergence of remote services use cases, enabling manufacturing workers to train and assist others remotely.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR launches WorkLink for Apple Vision Pro and teams with data integrations powerhouse eQ Technologic to transform shop floor operations",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scope AR is the trusted enterprise productivity solution in aerospace, aviation, and general industrial sectors, supporting complex work instructions, skilled labor training, remote assistance, automated documentation and full integration with the digital thread.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "software and integration partners to deliver across Aerospace, Aviation, Industrial Manufacturing, Medical Device, Semiconductor, CPG industries and Industrial Manufacturing industries. We excel in any industry where the use of augmented reality makes the complex easy and accessible, anytime.",
+    "url": "https://www.scopear.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Flatirons provides a technical content and task management platform that helps aerospace, aviation,",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "The combination unites two complementary products into a single, industrial AI platform.",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "experience to our customer base, one that not only tells technicians what to do but also shows them",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Scope has always excelled at delivering the right information to technicians at the right moment,\"",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "MROs, airlines, aerospace OEMs, and defense organizations. Trusted by Delta Air Lines, American",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR's customers include Lockheed Martin, Northrop Grumman, Rolls-Royce, Mitsubishi Heavy",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "“This is the moment when approved procedures and intelligent, guided execution finally converge on a single platform,” said Vincent Fauveau, CEO of Flatirons Solutions. “We’re delivering a modern, AI-powered user experience to our customers that not only tells technicians what to do but also shows them exactly how to do it, learns from every execution, and continuously improves.”",
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "“Scope AR has always excelled at delivering the right information to technicians at the right time,” said Scott Montgomerie, CEO of Scope AR. “Flatirons fills the gap by keeping that information current and authoritative. Together, we eliminate fragmented workflows, manual handoffs, and version confusion, providing customers with an AI-ready partner built to scale.”",
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Flatirons Aerospace Technical Publications",
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Flatirons Manufacturers Edition",
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: The DOs and DON'Ts of Industrial AR - AR Insider",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "AR Insider Case Studies examine learnings from industrial AR deployments. This post extracts a case study from ARtillery Intelligence’s recent report,",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AR: Benefits & Barriers",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "ndustrial AR’s early days are all about proving the technology’s efficacy and ROI. Scope AR is one player that’s taken this to heart, publishing data for AR proof points like increased manufacturing output, better accuracy in maintenance, and reducing time for task completion.",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": ". Act in a needs-driven way to deploy AR in targeted and optimized ways. Scope AR took this path with aerospace, engineering and heavy equipment, but Montgomerie believes there are many other verticals primed for AR.",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR is a technology company specializing in augmented reality solutions for enterprises. They offer the WorkLink platform, which enables businesses in sectors like aerospace and defense to create and manage AR content for training and operational efficiency. Their customers include organizations seeking to enhance productivity and reduce training costs through innovative technology.",
+    "url": "https://www.inven.ai/data/companies/scopear-com",
+    "pass": 3
+   },
+   {
+    "quote": "Seamlessly connects with enterprise systems such as Manufacturing Execution Systems (MES) and Enterprise Resource Planning (ERP).",
+    "url": "https://startupintros.com/orgs/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "The WorkLink IoT service integrates real-time industrial data into AR experiences, enhancing situational awareness.",
+    "url": "https://startupintros.com/orgs/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "・On November 5, OpenAI announced \"GPT-6 Cyber,\" a new model for security research. It is the same model used in the Linux kernel research published the previous day, and it is already being used by security teams at Mozilla, Palo Alto Networks, Cisco, and others. It is currently limited to select Daybreak Red customers and will be expanded gradually.",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "また、日本同様アメリカでも技術者層の高齢化は深刻で、若い労働力の不足が懸念されている中で、機械は産業の高度化に伴い複雑化しており、より熟練した若い労働力が求められているというのが製造業をとりまく現状です",
+    "url": "https://contech.jp/scopear/",
+    "pass": 3
+   },
+   {
+    "quote": "Box日米トップが語る日本市場戦略――円安の逆風下で顧客を獲得、日本発の成功事例「輸出」が今後の鍵",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/1327831.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTデータは28日、米Scope ARの3Dマニュアルソリューション「WorkLink」を活用し、AR（拡張現実）作業支援サービスを提供開始すると発表した",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/1327831.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTTデータでは2020年10月、Scope ARとのパートナー契約を日本で初めて締結していたが、今回、こうした特徴を持つWorkLinkの販売を本格的に開始するとともに、2つの新サービスを提供する",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/1327831.html",
+    "pass": 3
+   },
+   {
+    "quote": "📊 [US Actuarial Exam] SOA Exam SRM Practice Problem Set: 200 Questions | English Problems × Japanese Explanations 🤖 A Comprehensive Summary of Regression, GLM, Decision Trees, and Machine Learning [HTML Version]｜Knowledge Foundry",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "📊 [US Actuarial Exam] SOA Exam SRM Practice Problem Set: 200 Questions | English Problems × Japanese Explanations 🤖 A Comprehensive Summary of Regression, GLM, Decision Trees, and Machine Learning [HTML Version]",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even if you take the exam in Japan, the questions and answer choices are in English only.",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "😣 I can hardly find any Exam SRM study materials in Japanese",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"solving in English and understanding in Japanese\"",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "All explanations are in Japanese",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We provide detailed explanations in Japanese, including the logic, formulas, and intermediate values. You will be able to tell on the spot whether you stumbled because of the English or because of the concept.💡",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Includes English-Japanese glossary for key terms",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the explanations, we have added Japanese translations for important English terms.",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Actuarial Exam 1st Stage Series",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The regression analysis and time series scope of Exam SRM also overlaps with the \"Mathematics\" (Statistics) section of the Japanese exam.💪",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・The question text and answer choices are in English, and the explanations are in Japanese.",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🌏 Asked in English, understood in Japanese.",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【防災の日】正しく怖がり、正しく逃げるために――「AR災害疑似体験アプリDisaster Scope®」開発者・板宮朋基さん【Unityクリエイターインタビュー】｜Unity Japan（ユニティ・テクノロジーズ・ジャパン）",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "Unity Japan（ユニティ・テクノロジーズ・ジャパン）",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "――「2011年前後までは」というと、きっかけはやはり東日本大震災に？",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "3つ目は、日本にOculus Rift DK2が届き始めたことです",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャルグッド with Unity Japan",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Productivity Accelerated | Scope AR — How do I make AR content? With WorkLink by Scope AR, creating augmented reality content is a seamless experience that leverages your existing CAD files. You can quickly design and publish interactive AR experiences directly from any modern web browser on PC or Mac.",
+    "url": "https://www.scopear.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ARマニュアル化で作業現場のエキスパートを生み出すScope AR | 建設テ... — Aug 30, 2019 · Scope ARは専門知識が必要になるフィールドメンテナンス、製造、およびトレーニングに焦点をあて、AR技術を活用するマニュアル化サービスを提供し大手企業との実績もあるスタートアップです。",
+    "url": "https://contech.jp/scopear/",
+    "pass": 3
+   },
+   {
+    "quote": "WorkLink Enterprise AR Platform | Scope AR — How do I make AR content? With WorkLink by Scope AR, creating augmented reality content is a seamless experience that leverages your existing CAD files. You can quickly design and publish interactive AR experiences directly from any modern web browser on PC or Mac.",
+    "url": "https://www.scopear.com/product",
+    "pass": 3
+   },
+   {
+    "quote": "NTTデータ、AR技術を用いた作業支援サービスを提供 米Scope ARの3Dマ... — May 31, 2021 · 株式会社NTTデータは28日、米Scope ARの3Dマニュアルソリューション「WorkLink」を活用し、AR（拡張現実）作業支援サービスを提供開始すると発表した。",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/1327831.html",
+    "pass": 3
+   },
+   {
+    "quote": "FitGap | Scope AR WorkLinkとは？強み、注意点を専門家がレビュー — FitGapの操作性評価はカテゴリ32製品中6位、導入しやすさ評価はカテゴリ32製品中2位です。 AR手順書の作成から現場利用までを社内担当者に任せたい場合、操作面と導入準備の両方を比較しやすい製品です。",
+    "url": "https://fitgap.com/jp/products/scope-ar-worklink",
+    "pass": 3
+   },
+   {
+    "quote": "Productivity Accelerated | Scope AR — Scope AR enhances productivity across industries with advanced augmented reality. Explore solutions for aerospace, aviation, maintenance, and more.",
+    "url": "https://www.scopear.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR — Jun 16, 2026 · Flatirons Solutions has acquired Scope AR, backed by TELEO Capital, uniting two powerful platforms into a single AI-powered company serving the aerospace, aviation, MRO, advanced manufacturing, and defense sectors.",
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Flatirons Solutions Acquires Scope AR | TELEO Capital — June 17, 2026 – TELEO Capital portfolio company Flatirons Solutions acquires Scope AR, an enterprise AI-enabled work instruction and training platform.",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "Flatirons Solutions Acquires Scope AR to Create an AI-Powered ... — Jun 16, 2026 · Flatirons Solutions has acquired Scope AR, backed by TELEO Capital, uniting two powerful platforms into a single AI-powered company serving the aerospace, aviation, MRO, advanced manufacturing, and defense sectors.",
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Webinar: Future Proofing MRO: A Case Study - Scope AR — Oct 8, 2024 · In this case study, we explore how a leading MRO facility leveraged augmented reality (AR) technology through the WorkLink app to streamline inspection and assembly processes.",
+    "url": "https://www.scopear.com/resources/webinar-future-proofing-mro-a-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "6 Scope AR Customer Reviews & References | FeaturedCustomers — Learn more about Scope AR - use cases, approaches, & end results from real customers; read customer reviews including 6 testimonials, videos, and case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: The DOs and DON’Ts of Industrial AR - AR Insider — May 14, 2020 · Fast-food equipment supplier Prince Castle used Scope AR’s Remote AR to fix on-site equipment. It achieved a 100 percent first-time diagnosis rate and a 50 percent labor cost reduction.",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR 2026 Company Profile: Valuation, Investors ...Scope AR — company profile, headcount and funding | InvenScope AR – Growth Analysis & Alternative Companies – 2026Scope AR: Funding, Team & Investors | Startup IntrosScope AR — Company Profile & Funding | Indexed.vcScope AR - Overview, News & Similar companies | ZoomInfo.comScopeAR — Funding, Investors & Team | Seedtable — Information on acqui",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR — company profile, headcount and funding | Inven — Scope AR is a technology company specializing in augmented reality solutions for enterprises. They offer the WorkLink platform, which enables businesses in sectors like aerospace and defense to create and manage AR content for training and operational efficiency.",
+    "url": "https://www.inven.ai/data/companies/scopear-com",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR – Growth Analysis & Alternative Companies – 2026 — Per employee, Scope AR is estimated to generate $126.2K in revenue. So far, investors have poured $11.8M into Scope AR. Scope AR's workforce currently comprises over 60+ employees. Scope AR grew their employee count by 24% last year. Scope AR is one of 5 companies we track in this competitive space.",
+    "url": "https://compworth.com/company/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Scope AR? Scope AR was founded in 2011 by Scott Montgomerie (Founder) and David Nedohin (Founder/President). How much funding has Scope AR raised? Scope AR has raised $12.0M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR — Company Profile & Funding | Indexed.vc — Oct 28, 2026 · Scope AR is an AR/VR company based in San Francisco, United States, founded in 2011. It has raised $11.7M in total across 2 rounds, most recently a $9.7M Series A round in Mar 2019.",
+    "url": "https://indexed.vc/companies/scopear",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "MROs, airlines, aerospace OEMs, and defense organizations. Trusted by Delta Air Lines, American",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "acquisition of Scope AR (“Scope”) by its existing portfolio company, Flatirons Solutions (“Flatirons”).",
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AR: Benefits & Barriers",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "” by appealing to stakeholders throughout an organization — business leaders, IT departments and employees. And that’s more about marketing than technology.",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "As for employees, it’s likewise hard to win them over. But successful deployment",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "In a broader sense, Montgomerie recommends deploying AR where it works best. It doesn’t work in rote and automated functions, where employees are already fine-tuned. It shines in low-volume, high complexity situations (like space shuttles), or high volume, small improvement scenarios.",
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "To view Scope AR’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR has 52 total employees.",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "What is Scope AR’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Scope AR is",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "When was Scope AR acquired?",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR was acquired on 16-Jun-2026.",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Scope AR?",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR was acquired by",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   },
+   {
+    "quote": "Susa Ventures is a venture capital firm that specializes in seed-stage funding for startups. They provide capital, customer access, community support, and talent acquisition to help emerging companies grow. Their portfolio includes over 100 startups",
+    "url": "https://www.inven.ai/data/companies/scopear-com",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock filed revenue history, with growth over every year.",
+    "url": "https://www.inven.ai/data/companies/scopear-com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/scope-ar",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AR Bear Education App Progress (1)｜Atsushi AR Bear Coexistence Education App \"KumaScope\" I chose this app name with the hope of providing an educational perspective where children can learn in a fun way, and to broaden the perspective (scope) of both children and adults—not just fearing bears, but understanding them correctly so we can ...",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[US Actuarial Exam] SOA Exam SRM Practice Problem Set: 200 ... The scope covered is very practical.📐 Regression Analysis & Generalized Linear Models (GLM) Time Series Models Decision Trees, Random Forests, & Boosting Principal Component Analysis & Clustering These are all concepts that can be used directly in insurance rate-making and data science fields.💡 【Exam Format】",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【防災の日】正しく怖がり、正しく逃げるために――「AR災害疑似体験ア...2026-11-08 AI Coding Tool Update Summary｜aruimimiura0【ネタバレ】あいの里3、むぅこと博士が結婚した理由。カップル成立か...『災 劇場版』が意味わからなかった人へ。死んだ人・時系列・男の正体...Strengthening the Organization through Managing Up｜すどう ――板宮さんは、もともと防災関連の研究やお仕事などをされていたのでしょうか。 板宮：いえ、全然そんなことはなくて。今はこうして防災関連でお声がけいただくことが多いですが、2011年前後までは、医療分野での3DCG活用などが主な領域でした。「レントゲン画像をうまく立体的にモデリングするには？」といったことを研究テーマにしていました。 ――「2011年前後までは」とい",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "2026-11-08 AI Coding Tool Update Summary｜aruimimiura0 GitHub Copilot ・The weekly release on November 6 added Agent Merge, which automatically merges PRs when they are ready, and Assisted approval, which allows you to specify the scope for automatic tool execution approval. The Copilot CLI has integrated settings into a single screen via /settings, and Copilot is now available in JetBrains Air.",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AR Bear Education App Progress (1)｜Atsushi",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AR Bear Education App Progress (1)",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AR Bear Coexistence Education App \"KumaScope\"",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I chose this app name with the hope of providing an educational perspective where children can learn in a fun way, and to broaden the perspective (scope) of both children and adults—not just fearing bears, but understanding them correctly so we can live together.",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・To provide an opportunity to learn about bear ecology and behavior, and to think about how to coexist with humans.・To foster understanding and preventive knowledge rather than fear.",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Main App Feature Proposals",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "• Display a life-sized bear in AR through the screen. • Ecology quiz (e.g., \"Why do bears hibernate?\", \"At what age do bear cubs leave their mothers?\", etc.). ・Others are currently under consideration. I plan to implement these two first.",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "• AR Platform: Unity + AR Foundation (iOS/Android support) • Model Display: 3D bear models (realistic bear, cute bear) • Quiz Implementation: C#",
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "📊 [US Actuarial Exam] SOA Exam SRM Practice Problem Set: 200 Questions | English Problems × Japanese Explanations 🤖 A Comprehensive Summary of Regression, GLM, Decision Trees, and Machine Learning [HTML Version]｜Knowledge Foundry",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "📊 [US Actuarial Exam] SOA Exam SRM Practice Problem Set: 200 Questions | English Problems × Japanese Explanations 🤖 A Comprehensive Summary of Regression, GLM, Decision Trees, and Machine Learning [HTML Version]",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SOA (Society of Actuaries) Exam SRM",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why not master the fundamentals of statistical modeling and machine learning all at once with 200 five-choice English questions just like the real exam?",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🏛️ What is the SOA Exam SRM?",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The SOA (Society of Actuaries) is an organization that certifies actuarial qualifications recognized globally, primarily in North America.🌎",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Exam SRM (Statistics for Risk Modeling)",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is an exam that tests statistical methods for analyzing data and modeling risk.",
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【防災の日】正しく怖がり、正しく逃げるために――「AR災害疑似体験アプリDisaster Scope®」開発者・板宮朋基さん【Unityクリエイターインタビュー】｜Unity Japan（ユニティ・テクノロジーズ・ジャパン）",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "【防災の日】正しく怖がり、正しく逃げるために――「AR災害疑似体験アプリDisaster Scope®」開発者・板宮朋基さん【Unityクリエイターインタビュー】",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "Unity Japan（ユニティ・テクノロジーズ・ジャパン）",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "突然、「ウーーーッ」とサイレンが鳴る。続いて聞こえてくるのは「地震です」「火災が発生しました」というアナウンス。揺れてはいないし、火は上がっていないけれど、机の下に潜って、そのあと教室をゆっくりと出て行く……。",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんも小中学生の頃に、こんな避難訓練を何度か経験したことがあるのではないでしょうか。訓練とは本来、緊張感を持って取り組むべきですが、「経験のない災害」を想像するのはなかなか難しいものですよね。",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "どのように襲ってくるのか実態の掴みにくい災害の危なさを、もっとリアルに感じることができたら、訓練にも身が入るし、いざという時により適切な避難行動を取れるはず――そんな思いを胸に、ARやVRを用いた“新しい防災啓蒙の形”を世界に発信している人がいます。神奈川歯科大学教授の板宮朋基さんです。",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "VR地震体感コンテンツ第二弾(学校の教室)を改訂しました．蛍光灯が天井の段階で割れて破片か落下し，教室前方の吊りスクリーンが傾きます．気象庁のサイトで公開されている",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "(2016年4月14日)の加速度波形データを利用しました．",
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "pass": 3
+   },
+   {
+    "quote": "2026-11-08 AI Coding Tool Update Summary｜aruimimiura0",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026-11-08 AI Coding Tool Update Summary",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have summarized today's news related to AI coding tools. In addition to new versions of Claude Code and Codex CLI, there is a notable focus on agent operations, including Cursor's voice chat and live app building, as well as a major weekly update for GitHub Copilot.",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・In v2.1.319, released on November 6, when an MCP server executes a tool call as a task, Claude Code now immediately moves it to the background and reports the results to Claude upon completion. Enabling the new setting permissions.denyInsteadOfPrompting allows you to reject tool calls that would otherwise wait for a permission prompt and continue the turn. Security fixes, such as bypassing Bash p",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Codex CLI 0.167.0, released on November 6, adds an agent command center (codex agents --no-daemon) to mark unread results. It also supports switching backend connections from the session picker, image previews during input, Google Cloud Vertex AI setup, and inline review of patches within approval prompts. Fixes were also included, such as saved chats remaining after switching model providers and",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・On November 6, \"Voice Chat\" was added, allowing real-time voice conversations with agents from the Agents Window, IDE, Web, and iOS versions of Cursor. You can ask about progress while an agent is running, and the agent will report the status in a short voice response. Voice is powered by Grok Voice, and data retention is zero in Privacy Mode. Traditional dictation has been reorganized as a separ",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・On November 5, Cursor's cloud agents gained the ability to build web apps, set up Postgres databases and Cursor SSO authentication, and deploy via shared links. Security checks run before publication, and the app is not published until it passes the checks and an explicit publish action is taken. Team administrators can view a list of apps and secrets, add security review rules, and stop publicat",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・The weekly release on November 6 added Agent Merge, which automatically merges PRs when they are ready, and Assisted approval, which allows you to specify the scope for automatic tool execution approval. The Copilot CLI has integrated settings into a single screen via /settings, and Copilot is now available in JetBrains Air. Operation within the built-in coding assistant in Xcode began as a publi",
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Scope AR (@ScopeAR) / Posts / X Sep 28, 2012 · We're leveraging AR to design, build and test our products with unprecedented speed and accuracy. AR allows for accelerated assembly and instant access to complex 3D spatial work instructions, saving time and cost.",
+    "url": "https://x.com/scopear",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR on X: \"Great feature story highlighting just how far ... Jan 30, 2019 · Great feature story highlighting just how far #AR has come and the genesis of Scope AR. It also has details about @ smontgomerie 's upcoming talk at the #AdvMfgExpo taking place next week.",
+    "url": "https://x.com/ScopeAR/status/1090670629420961793",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR on X: \"PTC buys #AR platform from Qualcomm for $65M ... Oct 13, 2015 · PTC buys #AR platform from Qualcomm for $65M via @FortuneMagazine | http://t.co/XWUMynpqoX",
+    "url": "https://x.com/scopear/status/653954387145019393",
+    "pass": 3
+   },
+   {
+    "quote": "AR15 Scopes (@AR15_Scopes) / X AR15 Scopes is an industry leading retailer of popular hunting, home defense, and military scopes. ar15scopes.com #ar15 #rifle #guns #riflescopes Pomona, California",
+    "url": "https://x.com/AR15_Scopes",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Scope AR | San Francisco CA - FacebookScope AR Use Case: Gearbox Timed Assembly - FacebookScope AR - Our president David Nedohin recently spoke with...Scope AR - WorkLink, our Smart Instructions Authoring...Scope AR - Our CEO Scott Montgomerie caught up with Mike ...Scope AR - We're happy to share that we have acquired...Scope AR - NEWS: We're proud to share that we've closed ... May 6, 2020 · Sco",
+    "url": "https://www.facebook.com/scopear/",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR Use Case: Gearbox Timed Assembly - FacebookScope AR - Our president David Nedohin recently spoke with...Scope AR - WorkLink, our Smart Instructions Authoring...Scope AR - Our CEO Scott Montgomerie caught up with Mike ...Scope AR - We're happy to share that we have acquired...Scope AR - NEWS: We're proud to share that we've closed ... How can #manufacturing use #AR assembly instructions? I",
+    "url": "https://www.facebook.com/scopear/videos/scope-ar-use-case-gearbox-timed-assembly/406952836590578/",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR - Our president David Nedohin recently spoke with... Our president David Nedohin recently spoke with Alberta Venture about why Scope AR remains loyal to its hometown of Edmonton and also provides some tips for entrepreneurs from the lessons he learned during Scope AR’s pursuit of Series A funding.",
+    "url": "https://www.facebook.com/scopear/posts/our-president-david-nedohin-recently-spoke-with-alberta-venture-about-why-scope-/1280864212064492/",
+    "pass": 3
+   },
+   {
+    "quote": "Scope AR - WorkLink, our Smart Instructions Authoring... Scope AR empowers HoloLens users to easily create mixed reality smart instructions for limitless applications and use cases around training, repair, support and more",
+    "url": "https://www.facebook.com/scopear/posts/worklink-our-smart-instructions-authoring-platform-is-now-available-on-microsoft/819602798190638/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.scopear.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scopear.com/partner-with-scope-ar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scopear.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scopear.com/ai-ar",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://contech.jp/scopear/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.watch.impress.co.jp/docs/news/1327831.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scope-inc.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/ja/japan/syensqo-japan-ltd",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.scope.ne.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/scope-ar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aimultiple.com/ar-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforce.com/partners/become-a-partner/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.salesforce.com/s/education/general/Partner_Program?language=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/102795-49",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/scopear-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/scope-ar",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/scope-ar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unityjapan/n/na3fa70862bc5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/scopear",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ScopeAR/status/1090670629420961793",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scopear/status/653954387145019393",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AR15_Scopes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/scopear/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/scopear/videos/scope-ar-use-case-gearbox-timed-assembly/406952836590578/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/scopear/posts/our-president-david-nedohin-recently-spoke-with-alberta-venture-about-why-scope-/1280864212064492/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/scopear/posts/worklink-our-smart-instructions-authoring-platform-is-now-available-on-microsoft/819602798190638/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Scope AR 日本 導入",
+   "results": [
+    "https://www.scopear.com/",
+    "https://contech.jp/scopear/",
+    "https://www.scopear.com/product",
+    "https://cloud.watch.impress.co.jp/docs/news/1327831.html",
+    "https://fitgap.com/jp/products/scope-ar-worklink",
+    "https://www.nikkei.com/article/DGXLRSP611262_Y1A520C2000000/",
+    "https://www.moguravr.com/ntt-data-ar-work-support/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scope AR 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.scope-inc.co.jp/about/",
+    "https://www.syensqo.com/ja/japan/syensqo-japan-ltd",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.scope.ne.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.arrow.com/ja/home.html",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scope AR Japan",
+   "results": [
+    "https://www.scopear.com/",
+    "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "https://www.flatironssolutions.com/flatirons-solutions-acquires-scope-ar-to-create-an-ai-powered-end-to-end-content-to-execution-platform/",
+    "https://www.ebay.com/sch/i.html?_nkw=japan+rifle+scopes&_sop=12",
+    "https://marchscopes.com/",
+    "https://jp.linkedin.com/company/scopear"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scope AR manufacturing customer case study",
+   "results": [
+    "https://www.scopear.com/resources/webinar-future-proofing-mro-a-case-study",
+    "https://www.featuredcustomers.com/vendor/scope-ar",
+    "https://aimultiple.com/ar-in-manufacturing",
+    "https://arinsider.co/2020/05/14/case-study-the-dos-and-donts-of-industrial-ar/",
+    "https://thearea.org/area-augmented-reality-case-studies/",
+    "https://www.scopear.com/",
+    "https://www.mdpi.com/2076-3417/13/16/9120"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scope AR white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.salesforce.com/partners/become-a-partner/",
+    "https://partners.salesforce.com/s/education/general/Partner_Program?language=en",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scope AR founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/102795-49",
+    "https://www.inven.ai/data/companies/scopear-com",
+    "https://compworth.com/company/scope-ar",
+    "https://startupintros.com/orgs/scope-ar",
+    "https://indexed.vc/companies/scopear",
+    "https://www.zoominfo.com/c/scope-ar/358588241",
+    "https://seedtable.com/companies/scopear"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Scope AR",
+   "results": [
+    "https://note.com/warabi_note_gg/n/nd64be75e8bc0?hl=en",
+    "https://note.com/career_to_life/n/nad901ca9676e?hl=en",
+    "https://note.com/unityjapan/n/na3fa70862bc5",
+    "https://note.com/aruimimiura/n/n8fe521f8f8cd?hl=en",
+    "https://note.com/sudoakiy/n/n23521c4ec1a6?hl=en",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/ogikubo/n/nf616c0b6685a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Scope AR",
+   "results": [
+    "https://x.com/scopear",
+    "https://x.com/ScopeAR/status/1090670629420961793",
+    "https://x.com/scopear/status/653954387145019393",
+    "https://x.com/AR15_Scopes",
+    "https://x.com/ShinaBR/status/1197086471380963328",
+    "https://x.com/ScopeReport_/status/2118840124226027652",
+    "https://x.com/ScopeReport_/status/2083676087687471444"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Scope AR",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Scope AR",
+   "results": [
+    "https://www.facebook.com/scopear/",
+    "https://www.facebook.com/scopear/videos/scope-ar-use-case-gearbox-timed-assembly/406952836590578/",
+    "https://www.facebook.com/scopear/posts/our-president-david-nedohin-recently-spoke-with-alberta-venture-about-why-scope-/1280864212064492/",
+    "https://www.facebook.com/scopear/posts/worklink-our-smart-instructions-authoring-platform-is-now-available-on-microsoft/819602798190638/",
+    "https://www.facebook.com/scopear/posts/were-happy-to-share-that-we-have-acquired-wakingapp-realities-to-help-accelerate/1442792745871637/",
+    "https://www.facebook.com/scopear/posts/our-ceo-scott-montgomerie-caught-up-with-mike-boland-of-artillry-intelligence-la/984036251747291/",
+    "https://www.facebook.com/scopear/posts/news-were-proud-to-share-that-weve-closed-our-series-a-funding-round-led-by-romu/1232629253554655/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scope AR note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "https://www.scopear.com/",
+    "https://www.teleocapital.com/teleo_capital_portfolio_company_Flatirons_Solutions_Acquires_Scope_AR.html",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/scottmontgomerie",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scope AR X 投稿",
+   "results": [
+    "https://www.scopear.com/",
+    "https://zhuanlan.zhihu.com/p/2075221541923639544",
+    "https://www.scopear.com/resources/flatirons-solutions-acquires-scope-ar",
+    "https://blog.csdn.net/aimieditor/article/details/163937893",
+    "https://help.scopear.com/hc/en-us",
+    "https://x.com/scopear",
+    "https://www.sciencedirect.com/journal/atmospheric-research"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

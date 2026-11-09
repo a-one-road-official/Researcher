@@ -1,0 +1,762 @@
+{
+ "name": "Reverielabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-09T21:49:08.934049+00:00",
+ "official_url": "https://www.reverielabs.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Reverie が Claude Projects、OpenClaw、その他 Skill 互換エージェントからのキャラクターインポートに対応しました",
+    "url": "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie の新しい Character Importer Skill は、SKILL.md 互換のあらゆるクライアント — Claude.ai の Project、OpenClaw のペルソナ、その他 SKILL.md を読み込むエージェント — の中で作り込んできたキャラクターを、完全な Reverie キャラクターとして移植します",
+    "url": "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a drug development platform intended to improve the drug design pipeline.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a drug development platform intended to improve the drug design pipeline. The company's platform uses state-of-the-art machine learning methods to screen massive libraries of small molecules and identify potential drug candidates, enabling pharmaceutical companies to run each company's novel crystal structures through their technology and identify small molecules.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a drug development platform intended to improve the drug design pipeline. The company's platform uses state-",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs’s primary industry is Discovery Tools (Healthcare).",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Is Reverie Labs a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Acquiring Reverie Labs Platform to Enhance AI-Driven Drug Discovery Capabilities for Customer Programs - Ginkgo Bioworks",
+    "url": "https://www.ycombinator.com/companies/reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Previously AB/SM at Harvard in CS. I'm an ML research guy turned infra, full stack, data science, and everything in between.",
+    "url": "https://www.ycombinator.com/companies/reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes Predict Midterm Tracker",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes Daily Briefing Video Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Built Different Editorial Video Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "The Future Of: Disaster Proofing Our World Video Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "C-Suite Unscripted Editorial Video Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "In The Room: Securing The Enterprise Video Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "From AI Ambition To Enterprise Execution",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "The Enterprise AI Shortcut: Why Co-Innovation Is Setting A New Speed For Adopting and Operationalizing AI",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "The Toughest Problems Are Never Solved Alone",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "How Chief Marketing Officers Are Scaling AI At Speed — While Preserving Brand Trust",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Meeting The Moment In Enterprise: AI As AI Spending Surged 110%, Underlying Systems Didn’t Keep Up",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Smooth Technology: A Cash Back Content Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pursuit - Forbes Video Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "The One Who Changed Everything - Forbes Video Series",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Connectivity",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Intelligence",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Hedge Funds & Private Equity",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes Global Properties",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Pregnancy & Postpartum",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "0% APR Credit Cards",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Student Loans",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Applicant tracking Systems",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Project Management Software",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Cheapest Internet Providers",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest High Speed Internet Providers",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Reverie Labs のご紹介 | Reverie — Mar 6, 2026 · Reverie Labs は、その未来が一つひとつの実験を通じて形作られる場所です。 これらの実験の中には、すべてを変えるものもあるでしょう。 輝かしい失敗に終わるものもあるでしょう。 しかし、そのすべてが試す価値のあるものです。",
+    "url": "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs | ドキュメント — Labs は、ふだんなら探しに行かないといけない機能を集めた一枚のタイル一覧です——キャラクタービルダー、バウンティ、ストーリー、ワールドブック、ボット、API。アプリのサイドバーの Labs から開きます。",
+    "url": "https://reverie.im/ja/docs/integrations/labs",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs：次世代の脳貫通型がん治療開発 — Serna Bio Rosebud Biosciences 新しい薬剤を発見するために、マイクロ器官を育てています Reverie Labs product screenshot",
+    "url": "https://huntscreens.com/ja/products/reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs 2026 Company Profile: Valuation, Investors ...Reverie Labs (@reverielabs) / X代理店とは？仕組み・販売店との違いと始め方を比較表で解説IPSEN—私たちについて総代理店とは？一般的な代理店との違い | 代理店本舗秦英之 - Wikipedia — Information on acquisition, funding, cap tables, investors, and executives for Reverie Labs. Use the PitchBook Platform to explore the full profile. Join us for this exclusive, executive event to learn how life sciences leade",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs のご紹介 | Reverie — Mar 6, 2026 · Reverie Labs とは？ Reverie Labs は私たちの実験の遊び場です。 大胆で、未完成で、時にはちょっと荒削りな機能のための専用スペースです。 最も野心的なアイデアを、磨き上げる前の段階であなたと共有する場所です。",
+    "url": "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs: Engineering next-generation, brain-penetrant ... — Feb 28, 2024 · Engineering next-generation, brain-penetrant cancer therapies. Founded in 2017, Reverie Labs has 29 employees based in Boston.",
+    "url": "https://www.ycombinator.com/companies/reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs 2026 Company Profile: Valuation, Investors ...Reverie Labs：次世代の脳貫通型がん治療開発Reverie Labs - Forbes — Information on acquisition, funding, cap tables, investors, and executives for Reverie Labs. Use the PitchBook Platform to explore the full profile. Reverie Labsは、次世代の脳貫通型がん治療の開発に取り組む革新的なバイオテクノロジー企業です。 Dec 2, 2025 · Ankit Gupta and Jonah Kallenbach cofounded drug development platform Rever",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "A Virtual Drug Discovery Company—With No Lab Of Its Own ...Reverie Labs - ForbesReverie Labs: Engineering next-generation, brain-penetrant ...Reverie Labs Raises $25M Series A Round to Broaden Impact of ...Ginkgo Bioworks Acquires Reverie Labs Platform, Enhancing AI ... — Aug 25, 2020 · Based in Cambridge, Reverie Labs is applying the increasingly powerful discipline of machine learning to biology",
+    "url": "https://www.forbes.com/sites/johncumbers/2020/08/25/a-virtual-drug-discovery-company-with-no-lab-of-its-own-partners-with-roche-to-fight-cancers-in-the-brain/",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs - Forbes — Dec 2, 2025 · Read more about Reverie Labs, their experience, their asset summary, and more here.",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs 2026 Company Profile: Valuation, Investors ...Reverie – Revenue, Valuation & Top Competitors – 2026Reverie Labs - 2026 Company Profile, Team, Funding ... - TracxnReverie Labs — Company Profile, Funding & InvestorsReverie Labs: Funding, Team & Investors | Startup IntrosReverie Labs — Company Profile & Funding | Indexed.vcReverie Labs — Funding, Investors & Team | Seedtable — Informatio",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs - 2026 Company Profile, Team, Funding ... - TracxnReverie Labs — Company Profile, Funding & InvestorsReverie Labs: Funding, Team & Investors | Startup IntrosReverie Labs — Company Profile & Funding | Indexed.vcReverie Labs — Funding, Investors & Team | Seedtable — Jan 21, 2026 · Reverie Labs is an acquired company based in Boston (United States), founded in 2017 by Jonah Kallenbach an",
+    "url": "https://tracxn.com/d/companies/reverie-labs/__KK9JD-uznpt71zyBuf4NJTLFLkO2_5-bi3zK_PZZf_k",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs — Company Profile, Funding & Investors — Reverie Labs company profile with $25M raised across 2 funding rounds, HQ in Cambridge, United States, founded 2017. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/reverie-labs-2248154",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Reverie Labs was founded in 2017 by a team including Ankit Gupta (CTO), Connor Duffy, and Jonah Kallenbach, with backgrounds in machine learning, computational biology, and software engineering.",
+    "url": "https://startupintros.com/orgs/reverie-labs",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Reverie Labs 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "5. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs has 13 total employees.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reverie Labs’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Reverie Labs is",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "When was Reverie Labs acquired?",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs was acquired on 23-Feb-2024.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Reverie Labs?",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Reverie Labs was acquired by",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   },
+   {
+    "quote": "Home Warranty Companies",
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Reverie Labs (@reverielabs) / X Reverie Labs is hiring a computational chemist in Cambridge MA! At Reverie we put computation at the center of drug discovery, and you will be an essential part of that process.",
+    "url": "https://x.com/reverielabs",
+    "pass": 3
+   },
+   {
+    "quote": "We are so excited to announce the acquisition of Reverie Labs ... reverielabs (Reverie Labs). 20 likes 0 replies. We are so excited to announce the acquisition of Reverie Labs' Platform by Ginkgo Bioworks: https://t.co/HUuZIPPO59",
+    "url": "https://x.com/reverielabs/status/1762827178289312059",
+    "pass": 3
+   },
+   {
+    "quote": "Last but not least, we’re thrilled to acquire key assets of ... Last but not least, we’re thrilled to acquire key assets of @reverielabs! We’ll acquire Reverie’s infrastructure and software for training large-scale AI foundation models, and four of Reverie’s key AI team members will join Ginkgo.",
+    "url": "https://x.com/Ginkgo/status/1762812187377127639",
+    "pass": 3
+   },
+   {
+    "quote": "Stephen Kearney on X: \"@Roche @reverie @genentech @Roche ... Stephen Kearney 🇺🇦🇮🇪 on X: \"@Roche @reverie @genentech @Roche you linked to the wrong @reverielabs - i.e. not this one @reverie , but this one @reverielabs ; good collaboration though\"",
+    "url": "https://x.com/SJKBio/status/1280879973222486018",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Reverie Labs - LinkedIn Reverie Labs Biotechnology Research Cambridge, MA 3,090 followers Engineering next generation kinase inhibitors with computation. About us Engineering next generation kinase inhibitors with ...",
+    "url": "https://www.linkedin.com/company/reverie-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Ankit Gupta on LinkedIn: Scaling a Parallel Inference System ... A lot of exciting things happening at Reverie Labs! Check out our latest blog post from Stephen Polcyn on the topic of Scaling a Parallel Inference System with Asyncio. https://lnkd.in/eFxpRAzS...",
+    "url": "https://ps.linkedin.com/posts/ankitvgupta_scaling-a-parallel-inference-system-with-activity-7024769219573477376-csvA",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Reverie Labs - Facebook Reverie Labs. 18 followers. Reverie Labs accelerates preclinical drug development by applying machine learning to lead generatio",
+    "url": "https://www.facebook.com/reverielabs/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.reverielabs.com",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/395504",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msn.com/ja-jp/technology/artificial-intelligence/%E8%BB%8A%E3%81%AE%E5%82%B7%E3%82%82ai%E3%81%A7%E5%81%BD%E9%80%A0-%E4%BF%9D%E9%99%BA%E9%87%91%E3%81%AE%E4%B8%8D%E6%AD%A3%E8%AB%8B%E6%B1%82%E3%81%8C%E5%A2%97%E5%8A%A0-%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E6%B5%B7%E4%B8%8A%E3%81%AA%E3%81%A9%E3%81%8C%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%9F%E6%A4%9C%E7%9F%A5%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%A8%E3%81%AF/ar-AA2gVFA8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reverie.im/ja/docs/integrations/labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reverie__labs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/reverie__labs/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/reverie-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revvitysignals.com/sites/default/files/2026-09/Explore+Key+Customer+Case+Studies+from+Revvity+Signals.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.forbes.com/sites/johncumbers/2020/08/25/a-virtual-drug-discovery-company-with-no-lab-of-its-own-partners-with-roche-to-fight-cancers-in-the-brain/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.forbes.com/profile/reverie-labs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1390590848697838/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/2356868454775088/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/187996-42",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/reverie",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/reverie-labs/__KK9JD-uznpt71zyBuf4NJTLFLkO2_5-bi3zK_PZZf_k",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://acquirezy.com/organization/reverie-labs-2248154",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/reverielabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reverielabs/status/1762827178289312059",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ginkgo/status/1762812187377127639",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SJKBio/status/1280879973222486018",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/reverie-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ps.linkedin.com/posts/ankitvgupta_scaling-a-parallel-inference-system-with-activity-7024769219573477376-csvA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reverielabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reverielabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Reverielabs 日本 導入",
+   "results": [
+    "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "https://diamond.jp/articles/-/395504",
+    "https://www.msn.com/ja-jp/technology/artificial-intelligence/車の傷もaiで偽造-保険金の不正請求が増加-三井住友海上などが導入した検知システムとは/ar-AA2gVFA8",
+    "https://reverie.im/ja/docs/integrations/labs",
+    "https://huntscreens.com/ja/products/reverie-labs",
+    "https://pitchbook.com/profiles/company/187996-42",
+    "https://www.vbdata.cn/intelDetail/125903"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reverielabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://pitchbook.com/profiles/company/187996-42",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://x.com/reverielabs",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reverielabs Japan",
+   "results": [
+    "https://www.instagram.com/reverie__labs/",
+    "https://www.instagram.com/reverie__labs/reels/",
+    "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "https://www.ycombinator.com/companies/reverie-labs",
+    "https://pitchbook.com/profiles/company/187996-42",
+    "https://huntscreens.com/ja/products/reverie-labs",
+    "https://www.forbes.com/profile/reverie-labs/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reverielabs manufacturing customer case study",
+   "results": [
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://revvitysignals.com/sites/default/files/2026-09/Explore+Key+Customer+Case+Studies+from+Revvity+Signals.pdf",
+    "https://www.forbes.com/sites/johncumbers/2020/08/25/a-virtual-drug-discovery-company-with-no-lab-of-its-own-partners-with-roche-to-fight-cancers-in-the-brain/",
+    "https://www.forbes.com/profile/reverie-labs/",
+    "https://www.ycombinator.com/companies/reverie-labs",
+    "https://www.prnewswire.com/news-releases/reverie-labs-raises-25m-series-a-round-to-broaden-impact-of-its-computational-kinase-drug-discovery-platform-301220854.html",
+    "https://www.prnewswire.com/news-releases/ginkgo-bioworks-acquires-reverie-labs-platform-enhancing-ai-driven-drug-discovery-capabilities-for-customer-programs-302073641.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reverielabs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://www.namesilo.com/reseller",
+    "https://www.guru99.com/iptv-reseller-panel.html",
+    "https://blog.vendoo.co/reselling-101-how-to-become-a-reseller-start-making-a-profit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reverielabs founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/187996-42",
+    "https://compworth.com/company/reverie",
+    "https://tracxn.com/d/companies/reverie-labs/__KK9JD-uznpt71zyBuf4NJTLFLkO2_5-bi3zK_PZZf_k",
+    "https://acquirezy.com/organization/reverie-labs-2248154",
+    "https://startupintros.com/orgs/reverie-labs",
+    "https://indexed.vc/companies/reverie-labs",
+    "https://seedtable.com/companies/reverie-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Reverielabs",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/tsutushi0628/n/nfb6c53230dd0",
+    "https://note.com/suika8323/n/nfecdce3b40f8",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Reverielabs",
+   "results": [
+    "https://x.com/reverielabs",
+    "https://x.com/reverielabs/status/1762827178289312059",
+    "https://x.com/Ginkgo/status/1762812187377127639",
+    "https://x.com/SJKBio/status/1280879973222486018",
+    "https://x.com/jonahkallenbach",
+    "https://x.com/reverielab",
+    "https://x.com/reverielab/status/2036678057482969137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Reverielabs",
+   "results": [
+    "https://www.linkedin.com/company/reverie-labs",
+    "https://www.linkedin.com/in/jonah-kallenbach",
+    "https://www.linkedin.com/company/reverielabs",
+    "https://ps.linkedin.com/posts/ankitvgupta_scaling-a-parallel-inference-system-with-activity-7024769219573477376-csvA",
+    "https://mo.linkedin.com/posts/ankitvgupta_scaling-a-parallel-inference-system-with-activity-7024769219573477376-csvA",
+    "https://www.linkedin.com/posts/reverie-labs_careers-reverie-labs-activity-6996482207414419456-gRxD",
+    "https://tz.linkedin.com/posts/ankitvgupta_scaling-a-parallel-inference-system-with-activity-7024769219573477376-csvA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Reverielabs",
+   "results": [
+    "https://www.facebook.com/reverie.lab/",
+    "https://www.facebook.com/reverielabs/",
+    "https://www.facebook.com/Reverielabecobiz/",
+    "https://www.facebook.com/Reverielabecobiz/posts/our-team-members/1140622726776688/",
+    "https://www.facebook.com/changcorp/videos/reverie-labs/1158253578180434/",
+    "https://www.facebook.com/BasicGestalt/posts/reverie-labs-yc-w18-is-hiring-django-devs-to-help-cure-cancer/609985439662904/",
+    "https://www.facebook.com/ReverieLabMimosa/posts/semiconductors-are-the-brains-of-modern-electronics-enabling-technologies-nation/902278378611065/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reverielabs note 社長",
+   "results": [
+    "https://www.stackforce.co/talent/69d9d6c51b697b7deb08976c",
+    "https://www.forbes.com/profile/reverie-labs/",
+    "https://www.crunchbase.com/person/jonah-kallenbach",
+    "https://www.ycombinator.com/companies/reverie-labs",
+    "https://pitchbook.com/profiles/company/187996-42",
+    "https://ratemytechfounder.com/founder/ankit-gupta",
+    "https://nocap.blog/founder/connor-duffy/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reverielabs X 投稿",
+   "results": [
+    "https://x.com/reverielabs",
+    "https://x.com/reverielab",
+    "https://x.com/Reverielzoo0",
+    "https://reverie.im/ja/blog/introducing-reverie-labs",
+    "https://reverie.im/zh/blog/introducing-reverie-labs",
+    "https://reverie.im/zh-TW/blog/introducing-reverie-labs",
+    "https://photo-tools.tech/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

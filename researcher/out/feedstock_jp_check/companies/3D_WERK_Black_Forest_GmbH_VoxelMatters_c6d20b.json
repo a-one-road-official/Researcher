@@ -1,0 +1,535 @@
+{
+ "name": "3D-WERK Black Forest GmbH — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:37:53.986031+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/3d-werk-black-forest-gmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "Ceramics 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/3d-werk-black-forest-gmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/3d-werk-black-forest-gmbh/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We have been dealing with the topic of additive manufacturing for more than 15 years. My name is Gerhard Duda. Together with Marina Schreiner, my deputy and a motivated team of qualified employees, I dedicate myself to the different 3D printing processes. After the initial sale of 3D printing systems, the service area soon followed.",
+    "url": "https://www.voxelmatters.directory/company/3d-werk-black-forest-gmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/3d-werk-black-forest-gmbh/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - Facebook3DGence - 3DGence at NEXT3D Event by 3D-WERK Black Forest ...3DGence - 3DGence at NEXT3D Event by 3D-WERK Black ...Why Industrial 3D Printing Is More... - 3Druck.com - English ...Facebook3DPrint.com - In #3DPrinting News Briefs, 3dpbm has... | Facebook A dress with servo motors, a dress made of 1,200 hand- assembled tiles, and a dress that reshapes itself. 👗 This is what 3D ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/3d-werk-black-forest-gmbh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enforcetac.com/en/exhibitors/3d-werk-black-forest-gmbh-2633542",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-werk.shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AF%E3%83%AC%E3%83%B3%E5%95%86%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pinterest.com/pin/799529740148366836/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-werk.shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackforestmedical.com/products/our-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thorlabs.com/ja/item/m735l3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vJypgGG3TfsRGLQlK8WGdjCDa96TDruDNer6okqI4a8SpgdDctp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.darkflash.com/ja-JP/product/class/3d-printer-filaments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/icp/medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enforcetac.com/en/exhibitors/3d-werk-black-forest-gmbh-2633542",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xjet3d.com/pr/xjet-appoints-3d-werk-black-forest-gmbh-as-value-added-reseller-strengthening-manufacturing-ecosystem-in-germany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-werk.shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enforcetac.com/en/exhibitors/3d-werk-black-forest-gmbh-2633542",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xjet3d.com/pr/xjet-appoints-3d-werk-black-forest-gmbh-as-value-added-reseller-strengthening-manufacturing-ecosystem-in-germany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-werk.shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SNIDEL-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%87%E3%83%AB-SWNO261060-%E3%83%AA%E3%83%9C%E3%83%B3%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%87%E3%82%BB%E3%83%83%E3%83%88%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9SWNO261060%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GC9Z194F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%BA-%E5%AD%97%E5%B9%95%E7%89%88-Tarsem-Singh/dp/B0HKT4D7DC",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%A1%E3%83%80%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%88%EF%BC%91%EF%BC%94%EF%BC%89-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%A4%E3%82%8B%E3%81%BE%E3%81%84%E3%81%8B%E3%81%A0-ebook/dp/B0FCS2R1CR",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01452696/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/8948/7176/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://image.monotaro.com/etc/pdf/msds/monotaro/36557647M.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00248216/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xjet3d.com/pr/xjet-appoints-3d-werk-black-forest-gmbh-as-value-added-reseller-strengthening-manufacturing-ecosystem-in-germany/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company/3d-werk-black-forest-gmbh/",
+    "https://www.enforcetac.com/en/exhibitors/3d-werk-black-forest-gmbh-2633542",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://3d-werk.shop/",
+    "https://www.exone.com/en/",
+    "https://www.voxelmatters.com/",
+    "https://www.blackforestmedical.com/",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ホクレン商事",
+    "https://jp.pinterest.com/pin/799529740148366836/",
+    "https://www.msh-systems.com/partners/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://nakaharasaketen.com/お取扱い商品/",
+    "https://www.bosco-tuktuk.com/",
+    "https://www.toyo-invx.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://3d-werk.shop/",
+    "https://www.blackforestmedical.com/products/our-manufacturing",
+    "https://www.thorlabs.com/ja/item/m735l3",
+    "https://www.voxelmatters.com/top-products/",
+    "https://3dprinter.co.jp/",
+    "https://markforged.com/jp/icp/medical",
+    "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "https://www.brule.co.jp/learn/industry/healthcare.html?srsltid=AYCX9vJlTwyNen49NKCdo24vmlysUKf_33wfqrJz5MhwSZJjiEVLjqfG"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/about/contact/",
+    "https://voxelpla.com/?srsltid=AYCX9vJypgGG3TfsRGLQlK8WGdjCDa96TDruDNer6okqI4a8SpgdDctp",
+    "https://www.darkflash.com/ja-JP/product/class/3d-printer-filaments",
+    "https://markforged.com/jp/icp/medical",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://www.poly-maker.jp/",
+    "https://make.dmm.com/print/material/",
+    "https://www.chuetsu-pulp.co.jp/information/14986",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.enforcetac.com/en/exhibitors/3d-werk-black-forest-gmbh-2633542",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://xjet3d.com/pr/xjet-appoints-3d-werk-black-forest-gmbh-as-value-added-reseller-strengthening-manufacturing-ecosystem-in-germany/",
+    "https://3d-werk.shop/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.exone.com/en/",
+    "https://www.voxelmatters.com/",
+    "https://www.upnano.com/distributors/",
+    "https://ifactory3d.com/en/distributors/",
+    "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/",
+    "https://www.enforcetac.com/en/exhibitors/3d-werk-black-forest-gmbh-2633542",
+    "https://xjet3d.com/pr/xjet-appoints-3d-werk-black-forest-gmbh-as-value-added-reseller-strengthening-manufacturing-ecosystem-in-germany/",
+    "https://3d-werk.shop/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.exone.com/en/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://de.linkedin.com/company/3d-werk-black-forest-gmbh",
+    "https://www.upnano.com/distributors/",
+    "https://ia902904.us.archive.org/24/items/in.ernet.dli.2015.461038/2015.461038.Brideshead-Revisited_text.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp 3D-WERK Black Forest GmbH — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWNO261060-リボンディテールカーデセットワンピースSWNO261060レディース/dp/B0GC9Z194F",
+    "https://www.amazon.co.jp/インモータルズ-字幕版-Tarsem-Singh/dp/B0HKT4D7DC",
+    "https://www.amazon.co.jp/メダリスト（１４）-アフタヌーンコミックス-つるまいかだ-ebook/dp/B0FCS2R1CR",
+    "https://www.amazon.co.jp/stores/トップページ/page/E7B05C6B-0A84-4C6C-9692-63E1D7EA9154",
+    "https://www.amazon.co.jp/アーケード-ルームウェア-上下セットアップ-ストレッチ-デオドラント/dp/B0FTRRJ922",
+    "https://www.amazon.co.jp/MausModeler-WWIIドイツ-パンターG-パーツセット-mv35-024/dp/B0CK7V4XW4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com 3D-WERK Black Forest GmbH — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01452696/",
+    "https://www.monotaro.com/p/8948/7176/",
+    "https://image.monotaro.com/etc/pdf/msds/monotaro/36557647M.pdf",
+    "https://www.monotaro.com/g/00248216/",
+    "https://www.monotaro.com/g/00401962/",
+    "https://www.monotaro.com/g/02787800/",
+    "https://www.monotaro.com/p/0233/4963/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/",
+    "https://xjet3d.com/pr/xjet-appoints-3d-werk-black-forest-gmbh-as-value-added-reseller-strengthening-manufacturing-ecosystem-in-germany/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.directory/",
+    "https://revenuebase.ai/companies/3d-printing-distributors/germany",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://prospeo.io/c/3d-werk-black-forest-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 3D-WERK Black Forest GmbH — VoxelMatters",
+   "results": [
+    "https://note.com/tag/積読美術館",
+    "https://note.com/tag/わたしの知らない子どもたち",
+    "https://note.com/tag/Alexa+",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/hitode_boshi/n/n4c29b88fab76",
+    "https://note.com/cccvvv1/n/nd3d08f13d90e",
+    "https://note.com/kino9988/n/n260be175d911"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 3D-WERK Black Forest GmbH — VoxelMatters",
+   "results": [
+    "https://x.com/3dwerk",
+    "https://x.com/3d_werk",
+    "https://jf.x.com/images/media-preview/2094984799698243753",
+    "https://jf.x.com/images/media-preview/2113193299284840831",
+    "https://x.com/voxelmatters",
+    "https://x.com/stekkerauto/status/2098381767052812462",
+    "https://x.com/bodo_moeller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 3D-WERK Black Forest GmbH — VoxelMatters",
+   "results": [
+    "https://de.linkedin.com/in/gerhard-duda-69330577",
+    "https://de.linkedin.com/in/nikolaus-mroncz-157719127",
+    "https://de.linkedin.com/in/ralf-anderhofstadt/en",
+    "https://nl.linkedin.com/in/dr-johannes-gartner-304960212",
+    "https://pl.linkedin.com/in/pawel-m-slusarczyk",
+    "https://de.linkedin.com/in/dieter-weigand-040269a0",
+    "https://il.linkedin.com/in/sava-hmelnitski-a0b3765",
+    "https://il.linkedin.com/in/guy-zimmerman-b7ab38",
+    "https://de.linkedin.com/in/andr%C3%A9-kreimer"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 3D-WERK Black Forest GmbH — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/UnionTechLtd/posts/were-excited-to-announce-3d-werk-black-forest-gmbh-as-our-official-partner-in-ge/748809004578520/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/3dgence/photos/-3dgence-at-next3d-event-by-3d-werk-black-forest-gmbh-we-are-excited-to-announce/1196281318100233/",
+    "https://www.facebook.com/3dgence/posts/-3dgence-at-next3d-event-by-3d-werk-black-forest-gmbh-we-are-excited-to-announce/1196281334766898/",
+    "https://www.facebook.com/3printr/posts/why-industrial-3d-printing-is-more-than-a-machine-decision-an-interview-with-mar/1298574478958584/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-3dpbm-has-rebranded-to-voxelmatters-and-xaba-closed-a-/2229888943849297/",
+    "https://www.facebook.com/3D.WERK/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.directory/",
+    "https://3d-werk.shop/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.blackforestmedical.com/company-history",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/author/3d-printing-media-network/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D-WERK Black Forest GmbH — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://3d-werk.shop/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.com/author/3d-printing-media-network/",
+    "https://www.voxelmatters.report/",
+    "https://www.youtube.com/watch?v=NFLVfRVGW9o",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

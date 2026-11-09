@@ -1,0 +1,2171 @@
+{
+ "name": "Sierra",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T21:22:21.726727+00:00",
+ "official_url": "https://sierra.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "ARR",
+    "value": "2億ドル（2026年5月29日にBret TaylorがXで公表したと報じられている）",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "label": "ARR",
+    "value": "$200M",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "料金",
+    "value": "成果ベース。公開価格なし・個別見積もり",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "label": "料金方式",
+    "value": "成果ベース 非公開 1成果あたり0.99ドル＋シート料金 Flex Credits（1アクション0.10ドル相当）",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区南青山7-3-6 南青山HYビル 7F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2024年10月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$1.6B",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Ensure you only pay for the value Sierra delivers with outcome-based pricing.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Product Management",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload SOPs, transcripts, whiteboard photos, and audio recordings—or explain your goal in plain English. Ghostwriter builds a production-ready, multilingual, multichannel agent—with built-in guardrails.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate agent updates based on flagged issues and proactive insights, with full visibility into every change—so you can review, validate, and ship with confidence.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Use AI to improve your AI",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify conversations needing extra attention proactively.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Break complex outcomes into specific steps that improve over days or months.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sierra Partners Program | Sierra",
+    "url": "https://sierra.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Tim Simeone, AVP, AI & Digital Products",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AVP, AI & Digital Products",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Alex McGillis, VP, Digital Product Management",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Digital Product Management",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Play video: Caryn Seidman Becker, CEO",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Behind the Build: One agent, many brands at Imprint.",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Sun & Ski’s AI agent “Sunny” turns approachability into sales.",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rocket’s Digital Assistant works across chat and voice, meeting clients wherever they are in their homeownership journey. It answers questions conversationally and guides people through the process – collecting information, pulling credit, presenting personalized rates, customizing loan options and helping with payments or loan status checks.",
+    "url": "https://sierra.ai/customers/rocket-mortgage",
+    "pass": 1
+   },
+   {
+    "quote": "March 4, 2026 — The Singtel Group today announced a strategic partnership with Sierra, the leading conversational AI platform, to enhance its customer engagement experience across the Group. This is in line with its commitment to elevating its services and providing more value to its customers.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "In addition, Singtel Singapore will deploy voice-based AI agents for outbound sales calls to customers to support sales transactions within clearly defined compliance and governance standards. Singtel Singapore also plans to extend these capabilities across its other departments as well as to its enterprise clients for use in their businesses.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "To enable customers to independently resolve simple requests, Sierra’s agentic AI technology verifies customers’ details, and provides relevant product and service information, via Singtel Singapore’s virtual customer service platforms, including “Shirley”. These platforms are also designed to ensure interactions remain accurate, secure, and with human oversight.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "The findings reflect how well “Shirley” was able to support customers without the need for human intervention. This also reduces manual workloads on Customer Care officers, so they can focus on more complex, higher-value engagements. This approach improves overall productivity and strengthens brand affinity.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "The Singtel Group is uniquely positioned as Adopter, Provider, and Enabler of AI.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "Adopter: AI is applied across business functions and corporate units to drive efficiency, improve customer experience, and unlock new sources of value.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "Provider: Designs, develops, and commercialises AI solutions, extending the Group’s capabilities to serve internal needs and external markets.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "Enabler: Provides the critical connectivity, infrastructure, and platforms that make AI adoption possible at scale.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "For consumers, Singtel delivers a complete and integrated suite of services, including mobile, broadband and TV. For enterprises, Singtel offers a complementary array of workforce mobility solutions, data hosting, cloud, network infrastructure, analytics and cyber security capabilities.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "Singtel is dedicated to continuous innovation, harnessing technology to create new and exciting customer experiences, support enterprises in their digital transformation and shape a more sustainable, digital future.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "SoftBank Corp.’s Corporate Business Division, Customer Growth Division, is the unit responsible for marketing and sales to small and medium-sized business customers within SoftBank’s corporate business.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "SoftBank had previously introduced AI chatbots and AI search features on its website to support customers gather information and solve problems. However, providing information instantly at the moment customers needed it, accurately measuring the self-resolution rate, and delivering an even higher level of customer experience all required a more sophisticated support system.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "). The AI agent answers a wide range of questions about products, services, pricing, and contracts in a natural, conversational format. For questions it cannot resolve, it directs customers to an inquiry form, after which a sales representative takes over.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "This area was chosen as the first use case because it has the most frequent customer touchpoints and was seen as the fastest path to a tangible improvement in customer experience.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "By having the AI agent handle routine inquiries instantly, customers can access the information they need more quickly. Sales representatives, meanwhile, can devote more time to complex consultations and proposals — areas where human engagement creates the most value. AI is positioned as a critical tool for delivering a higher quality customer experience.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "About the AI agent currently in use, Mr. Abe of the Marketing Strategy Department Section 2, Marketing Division, Customer Growth Division, said:",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "“Sierra feels like a highly polished AI agent platform that is both easy to implement and easy to improve over time. In our case, by leveraging information from our website during the initial setup, we were able to train the AI agent — in a short period of time — the product knowledge and FAQs that would take a human considerable time to learn.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "We also appreciate how easy it is to continuously improve the AI agent’s response quality after launch. Sierra makes it straightforward to identify which questions aren’t being answered well and what information should be added to improve accuracy, allowing us to continually enhance the AI agent’s performance through ongoing operation.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "SoftBank’s corporate business covers a wide range of services, and the self-resolution rate* — which started at around 50% at launch — has now risen to 70%, thanks to iterative improvements to help the AI agent better understand customer intent and the relevant service.”",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "Mr. Tajima, Director of the Marketing Strategy Department, Marketing Division, Customer Growth Division, shared the following thoughts on future expectations:",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "Currently, the AI agent handles approximately 100 inquiries per day, with 70% resulting in customers finding the information they need and resolving their inquiries on their own. Only complex or highly individualized cases are escalated to sales representatives, ensuring customers receive the most appropriate support.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "Going forward, the plan is to expand the use of AI agents across various customer touchpoints to provide a consistent support environment — with the goal of delivering an experience where customers can instantly access the information they need, whenever they need it.",
+    "url": "https://sierra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "The company is primed for growth, and with new branding, pricing, product experience, and content investments unveiled in 2023, SiriusXM is on a path to reach and connect with a new generation of fans.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "As SiriusXM works to satisfy its subscribers, it is also at the forefront of creative thinking about the future of customer service with conversational AI. SiriusXM handles millions of customer enquiries every year. As the company began preparing for the next stage of growth, it needed to think near-term and long-term.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "“Applied correctly, advanced AI will rapidly transform the self-service space by providing superior, low-effort natural language customer experiences in every channel,” said Moshe Pridan, Chief Product Officer and Chief Information Officer at SiriusXM.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Sierra, no product had been able to seamlessly blend the flexibility of natural language with the ability to execute complex processes.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "Applied correctly, advanced AI will rapidly transform the self-service space by providing superior, low-effort natural language customer experiences in every channel.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer and Chief Information Officer at SiriusXM",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "Unfortunately, even the most thoughtfully constructed chatbots are limited and deterministic. Chatbots are architected to follow predefined paths, use keywords for understanding, and deliver a fixed set of outcomes. Because they are unable to understand context or human language, chatbots can result in dead-ends and escalations to human agents, increasing customer frustration.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "For example, consider a customer asking for help “rejiggering a radio.” This request uses wording that a traditional chatbot is unable to process.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "The team at SiriusXM began to explore ways to break through the ceiling. They quickly understood that advanced AI could be applied to significantly improve the customer service experience, and potentially contain more calls. SiriusXM worked with Sierra to build their first generative AI agent.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "The team at SiriusXM appreciated Sierra’s dedication to quality and cutting-edge platform, which has allowed them to create an entirely new approach to customer service designed to better serve listeners and deliver the best possible experience across their business.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "Sierra and SiriusXM worked quickly to understand the set of needs and build a highly-tailored AI agent, affectionately called Harmony. Harmony soon aligned to SiriusXM’s business requirements and began testing top use cases in production.",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer and Chief Information Officer, SiriusXM",
+    "url": "https://sierra.ai/customers/siriusxm",
+    "pass": 1
+   },
+   {
+    "quote": "Guardian is applying Sierra’s technology to some of its highest-volume service interactions, including approximately 1 million yearly dental benefit verification calls, along with payment processing and claim status inquiries. Through Sierra’s AI-native platform, Guardian aims to make these interactions faster and easier, helping customers complete routine requests more efficiently.",
+    "url": "https://sierra.ai/customers/guardian",
+    "pass": 1
+   },
+   {
+    "quote": "The Sierra partnership is the latest example of how Guardian is working with leading technology companies to accelerate and modernize its operations while improving experiences for customers, policyholders, advisors, and colleagues. Over the past year, Guardian has also partnered with HCLTech, a global technology company, and Avantos, an AI-native operating system for financial services firms.",
+    "url": "https://sierra.ai/customers/guardian",
+    "pass": 1
+   },
+   {
+    "quote": "In this webinar, Sutter Health VP of Population Health Jonathan Wilt shares how the health system deployed AI agents within SutterSync, their virtual chronic disease management program, to handle device troubleshooting and patient support at scale.",
+    "url": "https://sierra.ai/customers/sutter-health",
+    "pass": 1
+   },
+   {
+    "quote": "With 25 hospitals and over 3.5 million patients across Northern California, Sutter’s experience offers a practical blueprint for health systems ready to bring AI into patient engagement.",
+    "url": "https://sierra.ai/customers/sutter-health",
+    "pass": 1
+   },
+   {
+    "quote": "The best real estate agents don’t start by asking you to check off a bunch of boxes. They start by asking about what you want from your dream home. A backyard for your dog. A walkable neighborhood. A shorter commute. Proximity to parks and coffee shops. And after a bit of back and forth, they show you homes that actually fit your life, and budget.",
+    "url": "https://sierra.ai/customers/redfin",
+    "pass": 1
+   },
+   {
+    "quote": "For over 150 years, ADT has been a leader in home security, dedicated to helping customers protect what matters most—their families, homes, and businesses. In recent years, the company has embarked on a transformation, leveraging AI and other technologies to enhance its products and customer care.",
+    "url": "https://sierra.ai/customers/adt",
+    "pass": 1
+   },
+   {
+    "quote": "The launch of the proprietary ADT+ platform marked a significant step in this journey, enabling the company to introduce new services and products more rapidly and effectively. This platform, along with the ADT+ mobile app, has received positive feedback, particularly following the introduction of features like Trusted Neighbour.",
+    "url": "https://sierra.ai/customers/adt",
+    "pass": 1
+   },
+   {
+    "quote": "Managing millions of customer interactions each month, ADT recognized the need to elevate its customer care interactions—from password resets to account management and service appointments—to match the quality of its product offerings. This required a concerted effort across technology, channels, and teams, with clearly defined performance metrics.",
+    "url": "https://sierra.ai/customers/adt",
+    "pass": 1
+   },
+   {
+    "quote": "PAL evaluated three voice AI vendors in a head-to-head production bake-off, scored on customer experience, technical capability, and containment.",
+    "url": "https://sierra.ai/customers/philippine-airlines",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Go beyond customer service to drive revenue growth.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalize decisions to maximize satisfaction and revenue, while always adhering to your guardrails.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For consumers, Singtel delivers a complete and integrated suite of services, including mobile, broadband and TV. For enterprises, Singtel offers a complementary array of workforce mobility solutions, data hosting, cloud, network infrastructure, analytics and cyber security capabilities.",
+    "url": "https://sierra.ai/customers/singtel",
+    "pass": 1
+   },
+   {
+    "quote": "R1 launched its Phare Revenue Operating System in October 2025, a platform designed to deliver real-time operational intelligence and workflow orchestration across the revenue cycle. An AI-enabled contact center plays a key role in achieving this.",
+    "url": "https://sierra.ai/customers/r1-rcm",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimately, Ramp sees AI agents not as a novelty, but as a durable part of their operations. “We’ve only scratched the surface,” Ben says. “The more we build, the more opportunities we see to integrate AI deeply into how we serve and empower our customers.”",
+    "url": "https://sierra.ai/customers/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "Drive acquisition and engagement with effortless support through the entire user lifecycle.",
+    "url": "https://sierra.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue cycle management",
+    "url": "https://sierra.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Provide personalized guidance to help subscribers select the best plans, devices, and bundles for their needs, increasing acquisition and customer lifetime value.",
+    "url": "https://sierra.ai/industries/telecommunications",
+    "pass": 1
+   },
+   {
+    "quote": "and deliver revenue growth.",
+    "url": "https://sierra.ai/industries/telecommunications",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月の9億5000万ドル調達・評価額150億ドル超、ARR 2億ドル、ソフトバンクとの日本独占提携、Horizonなどの新機能、成果ベースの料金、Decagon・Fin・Agentforceとの違いを2026年10月時点の公式情報で整理します",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達・評価額・ARRの推移（2024年〜2026年10月）",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ARR 1億ドルに到達（公開から7四半期）",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ARR 1億5000万ドル超",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ARR 2億ドルに到達（1億ドルから2四半期）",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ARRは1億ドルに届くまで7四半期かかり、次の1億ドルは2四半期で積み上がりました",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "上場について、Sierraは何も発表していません",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "Q6. Sierraの評価額は上場企業と比べてどのくらいですか？",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし非上場企業の評価額は資金調達時の条件で決まるもので、上場企業の時価総額とは単純に比べられません",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月に9億5000万ドルを調達し、評価額は150億ドル超、ARRは2億ドル",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "CX×AI領域のグローバルリーダーSierra（米サンフランシスコ本社）がOPERA TECHを完全子会社化 | 株式会社OPERA TECHのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "CX×AI領域のグローバルリーダーSierra（米サンフランシスコ本社）がOPERA TECHを完全子会社化",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "（以下「Sierra」）による買収を受け、完全子会社となることをお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "：設立から2年で年間経常収益（ARR）1億5,000万ドル（約210億円）を達成",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "CX×AI領域のグローバルリーダーSierra（米サンフランシスコ本社）がOPERA TECHを完全子会社化",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "CX×AI領域のグローバルリーダーSierra（米サンフランシスコ本社）がOPERA TECHを完全子会社化 読み込まれました",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "（以下「Sierra」）による買収を受け、完全子会社となることをお知らせいたします",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "：設立から2年で年間経常収益（ARR）1億5,000万ドル（約210億円）を達成",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional contact-center buys were owned by VP Customer Service. Sierra-class agent buys involve CX, product, marketing, and often the COO — because the agent affects every customer-facing surface. CX leaders who want to lead this category should read",
+    "url": "https://getperspective.ai/blog/sierra-ai-customer-experience-conversational-agent-research-2026",
+    "pass": 3
+   },
+   {
+    "quote": ", it gives the smaller buyer the agent-as-research-instrument capability that Sierra is selling to the Fortune 500.",
+    "url": "https://getperspective.ai/blog/sierra-ai-customer-experience-conversational-agent-research-2026",
+    "pass": 3
+   },
+   {
+    "quote": "are available to be resold. The pricing depends upon the number of users. The initial discount is approximately 10% off the listed prices.",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Revenue 2026: $200M ARR, $15.8B Valuation",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra's annual recurring revenue passed $200M in May 2026 (digg.com).",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra CEO, founders & employees",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Bret Taylor founded Sierra in 2023 and runs it as CEO. Sierra has 700 employees (May 2026, reveliolabs.com estimate), up from 165 a year earlier.",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sierra's revenue?",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra's annual recurring revenue passed",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sierra have?",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra revenue, valuation & funding | Sacra",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "hit $400M in ARR in October 2026, up from about $130M at the end of 2025.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "ended 2024 at $26M in ARR and crossed $100M in November 2025. It reached $150M in January 2026 and $200M in May 2026.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "has further lowered the barrier to agent deployment through Ghostwriter, an agent-building agent that accepts SOPs, support transcripts, process documents, photos, or audio recordings as inputs and generates production-ready agents across voice, chat, email, and 30+ languages with guardrails.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra has deepened its technical capabilities and international reach through two acquisitions",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Paris-based AI operations startup acquired to expand agent-development capacity in France.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "crossing $20 million in annualized revenue by October 2024 compared to Decagon's estimated $6 million ARR.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": ", which dominates the Shopify ecosystem with $69 million ARR and 40% penetration among top merchants, present a different competitive challenge. These vertical-specific solutions offer turnkey implementations optimized for particular industries and usage-based pricing that appeals to smaller businesses.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "demonstrating that AI customer service tools can replace the work of approximately 700 employees, the cost-saving potential is compelling.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "'s Level 1 PCI compliance certification similarly lowers the barrier to adoption in financial services and any enterprise that handles card payments, opening regulated verticals that were previously out of reach.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": ", with the acquisition of Opera Tech accelerating",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "'s ability to serve Japanese enterprises natively. The acquisition of",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "'s agent-building agent—lowers the barrier to deploying new agents by generating production-ready configurations from plain-English descriptions or uploaded documents, enabling faster expansion across new clients, languages, and use cases. The company's Agent OS and declarative SDK create opportunities for an ecosystem of developers and partners to build on its platform, and",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "—a single data breach or compliance failure in a payment or benefits context carries financial and reputational consequences far beyond a misconfigured support agent.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "A Thorough Anatomy of AI Agent Company Sierra | 23.8 Billion Yen ARR and 238 Billion Yen Valuation in 2 Years, the Full Picture of the Next-Generation Software Model",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra has announced three strategic acquisitions in quick succession.",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And the acquisition of Opera Tech shows that Sierra is serious about the Japanese market.",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Each will become independent as a \"vertical agent.\" Employees will no longer press buttons, but will instead say, \"Review the Q3 sales negotiations,\" and the agent will take action.",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Deploy a single agent across chat, SMS, WhatsApp, email, voice, and ChatGPT.",
+    "url": "https://sierra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "has further lowered the barrier to agent deployment through Ghostwriter, an agent-building agent that accepts SOPs, support transcripts, process documents, photos, or audio recordings as inputs and generates production-ready agents across voice, chat, email, and 30+ languages with guardrails.",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "Until now, the \"System of Record\" for companies has been the CRM. However, in the agent era, the ADP, which bundles together CRM, ERP, email, and call logs, will become the new center of record. CRM will become one of the data sources integrated into the ADP.",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the old world, executives opened their PCs themselves, launched their CRM themselves, searched for customer information themselves, wrote emails themselves, and pressed approval buttons themselves. They have convenient software, but in the end, it is the executives themselves who operate the screens and buttons.",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The travel assistant books flights and hotels, coordinates local appointments, and secures transportation. The sales assistant reviews the customer's history, sends follow-up emails at the optimal time, and schedules meetings. The data assistant gathers information from CRM and BI tools, preparing a report in an easy-to-read format.",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ADP integrates everything the company knows about a customer—all data across sessions, channels, and systems—into a single intelligence layer. It connects unstructured data like chat history, emails, and call recordings with structured data like CRM, billing systems, and transaction history, and also integrates with existing data warehouses and systems of record.",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra is an 'Enterprise AI Agent Platform'—that is how they define themselves. It is an Agent OS that centrally manages all customer touchpoints—chat, voice, SMS, WhatsApp, and email—and completes complex business workflows without the need for human operators.",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our customers: Sierra is trusted by industry leaders with millions of customers. | Sierra",
+    "url": "https://sierra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "5G RedCap Solutions: efficient, affordable, built for long-life industrial IoT deployments.",
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial companies across sectors are leveraging IIoT solutions to transform business models.",
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Asset Management",
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "— currently our highest-traffic case study and our most LLM-cited post — runs the same research-via-conversation pattern, just built in-house instead of bought from Sierra.",
+    "url": "https://getperspective.ai/blog/sierra-ai-customer-experience-conversational-agent-research-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ADP integrates everything the company knows about a customer—all data across sessions, channels, and systems—into a single intelligence layer. It connects unstructured data like chat history, emails, and call recordings with structured data like CRM, billing systems, and transaction history, and also integrates with existing data warehouses and systems of record.",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What they do is connect CRMs, knowledge bases, order systems, and data warehouses, build agent logic using the Agent SDK, and simultaneously support the CX team in adjusting the tone via Agent Studio.",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra is an 'Enterprise AI Agent Platform'—that is how they define themselves. It is an Agent OS that centrally manages all customer touchpoints—chat, voice, SMS, WhatsApp, and email—and completes complex business workflows without the need for human operators.",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Sierra AIとは？Bret Taylorが率いるカスタマーAIエージェントの機能・料金・競合比較・ソフトバンク提携を整理【2026年10月最新】 | AI革命株式会社",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月の9億5000万ドル調達・評価額150億ドル超、ARR 2億ドル、ソフトバンクとの日本独占提携、Horizonなどの新機能、成果ベースの料金、Decagon・Fin・Agentforceとの違いを2026年10月時点の公式情報で整理します",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月にはソフトバンクが日本の独占パートナーになり、日本企業はソフトバンク経由で導入を相談する形に変わっています",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での導入窓口（ソフトバンク）とLINEMOの導入結果",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク（2026年7月から日本の独占パートナー）",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で使えるかどうかは、窓口で確認する必要があります",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、どの契約で使えるのか、追加費用がかかるのか、日本語でどこまで使えるのかは公式に書かれていません",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "導入は営業経由で、日本ではソフトバンクが窓口です",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "Horizon、チームメイト型のGhostwriter、個人のAIエージェント向けの標準「Personal Agent Protocol」は2026年後半の新機能で、日本でいつから・どこまで使えるかは公式に書かれていません",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の品質や日本向けのSLAについても、詳しい公式情報は出ていません",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の導入支援をソフトバンクから受けたい",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク・ビジョン・ファンド2の出資と東京オフィスの開設を発表",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場での展開とソフトバンク独占提携・Opera Tech買収の意義",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での展開は、2025年12月の東京オフィス開設から始まり、2026年7月の",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本展開の3つの柱",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "1. ソフトバンクが日本の独占パートナーに（2026年7月14日）",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトバンク株式会社とSierraは戦略的提携を結び、ソフトバンクが日本でSierraを扱う独占パートナーになりました",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がSierraを導入するときは、ソフトバンクが窓口になります",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月にソフトバンク・ビジョン・ファンド2の出資と、東京オフィスの開設が発表されました",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "東京を拠点とするエンタープライズAI企業のOpera Techを買収しました",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "森川啓太氏らが2024年末に創業した会社で、日本の大企業向けの顧客体験づくりに強みがあります",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "Voice Personasで敬語の度合いを調整できるようになったのも、日本向けには大きな材料です",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトのデモ申し込みより、日本語での要件整理を進めやすい",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の品質、日本向けのSLA、新機能（Horizonなど）の提供時期は公式に詳しい情報がなく、商談で確認が必要",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での導入支援をソフトバンクから受けたい",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "CX×AI領域のグローバルリーダーSierra（米サンフランシスコ本社）がOPERA TECHを完全子会社化 | 株式会社OPERA TECHのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の知見とグローバルAI技術を融合し、次世代の顧客体験の創出へ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：東京都港区、代表取締役社長：森川馨太、以下「当社」）は、米国サンフランシスコを拠点とする",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sierraの東京オフィスは虎ノ門・霞が関エリアに位置し、日本のお客様へのサービス提供を本格化しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "詳しくは、2025年12月にSierraの日本進出を発表した際の",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、当社の日本市場における顧客基盤、業務理解と実装力を、Sierraの国際水準のカテゴリリーダーと評価されるAI技術・プロダクトを組み合わせることで、顧客価値の最大化と事業拡大を実現していきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、Sierraの一員として、AIエージェント技術の普及と世界中の企業における顧客体験の向上に貢献するとともに、日本企業がより快適で温かみのある顧客体験を提供できるよう支援してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra、日本発のAI企業「OPERA TECH」を買収",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区南青山7-3-6 南青山HYビル 7F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Sierra Wireless」の代理店・取扱店 - indexPro",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店の登録、",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "「Sierra Wireless」の代理店・取扱店：6件",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "〒180-0006 東京都武蔵野市中町1-4-1 香月ビル 4F",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "〒108-8510 東京都港区港南2-3-13 品川フロントビル",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "〒105-6235 東京都港区愛宕2-5-1 愛宕グリーンヒルズMORIタワー 35F",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン販売代理店一覧（3件）",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：東京都港区、代表取締役社長：森川馨太、以下「当社」）は、米国サンフランシスコを拠点とする",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "Sierraの東京オフィスは虎ノ門・霞が関エリアに位置し、日本のお客様へのサービス提供を本格化しています",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "詳しくは、2025年12月にSierraの日本進出を発表した際の",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、当社の日本市場における顧客基盤、業務理解と実装力を、Sierraの国際水準のカテゴリリーダーと評価されるAI技術・プロダクトを組み合わせることで、顧客価値の最大化と事業拡大を実現していきます",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、Sierraの一員として、AIエージェント技術の普及と世界中の企業における顧客体験の向上に貢献するとともに、日本企業がより快適で温かみのある顧客体験を提供できるよう支援してまいります",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "https://sierra.ai/blog/sierra-acquires-opera-tech-in-japan",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "5G Japan Site",
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": ": Opera Tech, a Tokyo-based enterprise AI startup accelerating its ability to serve Japanese enterprises natively, and",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "has established a global footprint with offices in Tokyo, Singapore, Madrid, Paris, London, and Sydney (opened March 2026).",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan entry is backed by a strategic investment from SoftBank Vision Fund 2",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "'s ability to serve Japanese enterprises natively. The acquisition of",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "And that worldview is by no means irrelevant to mid-sized B2B companies in Japan. In this article, we will predict what will happen when Sierra makes a full-scale entry into B2B enterprises and think together about how that will impact us on the ground.",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Opera Tech (Japanese Enterprise AI) → Regional expansion: From North America to Japan",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And the acquisition of Opera Tech shows that Sierra is serious about the Japanese market.",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 6: What this means for mid-sized B2B companies in Japan",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Having read this far, some of you may feel: \"Sierra's story is grand, but isn't it still a world away for mid-sized Japanese companies like ours?\"",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And for mid-sized B2B companies in Japan, even if Sierra itself is far away, the \"vocabulary of its worldview\" will certainly descend upon us. There is no need to panic, but translating it into your own company's context in advance is the most realistic preparation.",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Entering 2026, Sierra announced three strategic acquisitions: Receptive AI (voice), Opera Tech (Japanese enterprise AI), and Fragment (AI workflow integration). Fragment, in particular, is in the domain of 'companies embedding AI into existing internal workflows,' which is no longer the move of a customer support company.",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And we will explore together what that worldview means for mid-sized B2B companies in Japan.",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sierra acquires Opera Tech in Japan — Sierra acquires Opera Tech in Japan Sierra AI Agents https://sierra.ai > blog > sierra-acquires-opera-tech-in-japan",
+    "url": "https://sierra.ai/blog/sierra-acquires-opera-tech-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra AIとは？Bret Taylorが率いるカスタマーAIエージェント ... — Sierra AIとは？Bret Taylorが率いるカスタマーAIエージェント ... AI革命株式会社 https://ai-revolution.co.jp > メディア",
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "pass": 3
+   },
+   {
+    "quote": "CX×AI領域のグローバルリーダー Sierra （米サンフランシスコ ... — CX×AI領域のグローバルリーダー Sierra （米サンフランシスコ ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yuki | Talent & People @ Sierra - X — Yuki | Talent & People @ Sierra - X X https://x.com > @yshimura_sierra",
+    "url": "https://x.com/yshimura_sierra/status/2083872183701360678",
+    "pass": 3
+   },
+   {
+    "quote": "より良い顧客体験 | Sierra — より良い顧客体験 | Sierra Sierra AI Agents https://sierra.ai > ...",
+    "url": "https://sierra.ai/jp",
+    "pass": 3
+   },
+   {
+    "quote": "私たちについてと - Sierra — 私たちについてと - Sierra Sierra AI Agents https://sierra.ai > about",
+    "url": "https://sierra.ai/jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "「 Sierra Wireless」の 代理店 ・取扱店 - indexPro — 「 Sierra Wireless」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "pass": 3
+   },
+   {
+    "quote": "「 Sierra Wireless」の 代理店 2社 注目ランキング【2026年】 — 「 Sierra Wireless」の 代理店 2社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > Sierra Wireless",
+    "url": "https://metoree.com/companies/3237/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "セムテック（正規 代理店 ）｜NCXX - 株式会社ネクス — セムテック（正規 代理店 ）｜NCXX - 株式会社ネクス 株式会社ネクス https://www.ncxx.co.jp > solutions > sierra",
+    "url": "https://www.ncxx.co.jp/solutions/sierra.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - Sierra — 採用情報 - Sierra Sierra AI Agents https://sierra.ai > careers",
+    "url": "https://sierra.ai/jp/careers",
+    "pass": 3
+   },
+   {
+    "quote": "CX×AI領域のグローバルリーダー Sierra （米サンフランシスコ ... — CX×AI領域のグローバルリーダー Sierra （米サンフランシスコ ... OPERA TECH https://opera-technology.com > news",
+    "url": "https://opera-technology.com/news/20260330",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra のSoftware Engineer, Agent — 東京都, 日本 | LinkedIn求人 — Sierra のSoftware Engineer, Agent — 東京都, 日本 | LinkedIn求人 LinkedIn https://jp.linkedin.com > jobs > view > software-engineer-...",
+    "url": "https://jp.linkedin.com/jobs/view/software-engineer-agent-at-sierra-4399871129",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra is trusted by industry leaders with millions of customers . — Sierra is trusted by industry leaders with millions of customers . Sierra AI Agents https://sierra.ai > customers",
+    "url": "https://sierra.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories ​ - Semtech (formerly Sierra Wireless) — Customer Stories ​ - Semtech (formerly Sierra Wireless) Sierra Wireless https://www.sierrawireless.com > cust...",
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra AI's Customer Research Strategy: How Bret Taylor's ... — Sierra AI's Customer Research Strategy: How Bret Taylor's ... Perspective AI https://getperspective.ai > blog > sierr...",
+    "url": "https://getperspective.ai/blog/sierra-ai-customer-experience-conversational-agent-research-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI Reality Check: Sierra Case Study - LinkedIn — Enterprise AI Reality Check: Sierra Case Study - LinkedIn LinkedIn https://www.linkedin.com > posts > as...",
+    "url": "https://www.linkedin.com/posts/ashishnagar_reality-of-enterprise-ai-case-study-from-activity-7480400550652502016-5Mpc",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra AI Platform: Architecture, Pricing, Context Gaps [2026] — Sierra AI Platform: Architecture, Pricing, Context Gaps [2026] Atlan https://atlan.com > what-is-sierra-ai",
+    "url": "https://atlan.com/know/ai-agent/ai-agent-applications/what-is-sierra-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program - Sierra Chart — Reseller Program - Sierra Chart Sierra Chart https://www.sierrachart.com > Reselle...",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "The Sierra partner ecosystem — The Sierra partner ecosystem Sierra AI Agents https://sierra.ai > News & Blog",
+    "url": "https://sierra.ai/blog/the-sierra-partner-ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Revenue 2026: $200M ARR, $15.8B Valuation - GetLatka — Sierra Revenue 2026: $200M ARR, $15.8B Valuation - GetLatka GetLatka https://getlatka.com > sierra",
+    "url": "https://getlatka.com/companies/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra hits $100M ARR milestone in 7 quarters — Sierra hits $100M ARR milestone in 7 quarters Sierra AI Agents https://sierra.ai > News & Blog",
+    "url": "https://sierra.ai/blog/100m-arr",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra revenue , valuation & funding | Sacra — Sierra revenue , valuation & funding | Sacra sacra.com https://sacra.com > sierra",
+    "url": "https://sacra.com/c/sierra/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra , founded by Bret Taylor, raises $350M, valuation hits ... — Sierra , founded by Bret Taylor, raises $350M, valuation hits ... LinkedIn https://www.linkedin.com > posts > ni...",
+    "url": "https://www.linkedin.com/posts/nicolask3_customerexperience-ai-activity-7369472752442863619-zLa1",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra AI Revenue : How It Grew to $200M ARR in 9 Quarters — Sierra AI Revenue : How It Grew to $200M ARR in 9 Quarters Okara https://okara.ai > Blog",
+    "url": "https://okara.ai/blog/sierra-ai-revenue-growth",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Reseller & Distributor Support",
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Chart offers a reseller program where Sierra Chart is provided to an authorized reseller and the reseller has the ability to resell Sierra Chart at any price. The reseller is billed a discounted price per user.",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "As a reseller, you will collect money from your users and make a payment monthly to Sierra Chart. Various payment methods are supported.",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "If there are any user accounts active on your reseller account, the minimum charge is the cost of 5 user accounts for an entire month.",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling support for changing the name \"Sierra Chart\" throughout the program and website to the name of your choice. This white labeling feature is also available separately from having a reseller account and acting as a reseller of Sierra Chart.",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "Your Sierra Chart reseller account must be prepaid. What this means is that when you activate an account, and your cost for the user account is 20 USD for one month of Sierra Chart service package 3 for a user, your reseller account must have at least 20 USD in its",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "requesting this service. You may be asked some additional questions. You will need to provide a website address and billing details. A decision will be made whether to grant you reseller access.",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "For the documentation for the reseller account control panel, refer to",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "It is supported to programmatically create Sierra Chart accounts and activate them which will then have them billed to your own reseller account. For the documentation refer to",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   },
+   {
+    "quote": "Upon 90 days notice Sierra Chart can terminate a reseller account but is not likely to do so. The reseller can terminate the account at any time with notice to Sierra Chart, but will be liable for any amount still owed at that time.",
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Day AI Agent Company Sierra Comes to B2B - note The Day AI Agent Company Sierra Comes to B2B - note note https://note.com > ... > AI・機械学習",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into AI Agent Company Sierra | $160M ARR and ... A Deep Dive into AI Agent Company Sierra | $160M ARR and ... note https://note.com > ... > ビジネス全般",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra と Brad Lyons の論考から考える、多層的 SoR と ... - note Sierra と Brad Lyons の論考から考える、多層的 SoR と ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra : The AI Customer Service Champion That Conquered ... Sierra : The AI Customer Service Champion That Conquered ... note https://note.com > startup_collect",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "米国AIスタートアップの代名詞「 Sierra 」の戦略を徹底解剖 ... 米国AIスタートアップの代名詞「 Sierra 」の戦略を徹底解剖 ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェント企業の Sierra を徹底解剖｜創業2年でARR238億 ... AIエージェント企業の Sierra を徹底解剖｜創業2年でARR238億 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポートが部署ごと消える Sierra がAI ... - note カスタマーサポートが部署ごと消える Sierra がAI ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The Day AI Agent Company Sierra Comes to B2B | Customer Support is the \"Scaffolding,\" the True Ambition is the Atomic Unit of the Enterprise｜篠原 誠",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Day AI Agent Company Sierra Comes to B2B | Customer Support is the \"Scaffolding,\" the True Ambition is the Atomic Unit of the Enterprise",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Series: Organizational Design in the Age of AI Agents (Part 4)",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Organizational Design in the Age of AI Agents | Not a \"Story of Layoffs\" but a \"Story of Elevating People\"",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Not \"Implementing AI\" but \"Welcoming AI\" | 5 Patterns That Lead to Failure",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Thorough Anatomy of AI Agent Company Sierra | 23.8 Billion Yen ARR and 238 Billion Yen Valuation in 2 Years, the Full Picture of the Next-Generation Software Model",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents are About \"How They Engage,\" Not \"Performance\" | The 5 Stages of AI from the Perspectives of OpenAI and Anthropic",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the previous third installment of this series, we conducted a thorough anatomy of the company Sierra. We looked at the full picture through the metaphors of its headquarters function called Agent OS, its design philosophy known as Constellation Architecture, its invention of outcome-based pricing, and its implementation method called Forward-Deployed Engineer, all under the premise of \"placing ",
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into AI Agent Company Sierra | $160M ARR and $1.6B Valuation in 2 Years: The Full Picture of the Next-Generation Software Model｜篠原 誠",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into AI Agent Company Sierra | $160M ARR and $1.6B Valuation in 2 Years: The Full Picture of the Next-Generation Software Model",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Series: Organizational Design in the Age of AI Agents (Part 3)",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Organization Design in the Age of AI Agents | Not About \"Cutting People,\" But \"Elevating People\"",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Not \"Implementing AI,\" But \"Welcoming AI\" | 5 Patterns of Failure",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents Are About \"How We Engage,\" Not \"Performance\" | The 5 Levels of AI from the Perspectives of OpenAI and Anthropic",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the previous second installment of this series, we organized the five patterns of AI implementation failure and the three principles to prevent them. At the end of the article, I left this question:",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Drawing lines, creating spaces, and elevating people. What lies beyond truly mastering that?\"",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra と Brad Lyons の論考から考える、多層的 SoR とサプライチェーン・オントロジー（1/2）｜太田文行＠ZENPORT｜グローバルサプライチェーン連携",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra と Brad Lyons の論考から考える、多層的 SoR とサプライチェーン・オントロジー（1/2）",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "太田文行＠ZENPORT｜グローバルサプライチェーン連携",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "最近、強く触発される二つの論考に立て続けに出会った。",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "一つ目は、Sierra というエンタープライズ AI エージェントのスタートアップを論じた、",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "である。創業2年で評価額 $10B、ARR $150M超。Zendesk、Salesforce、Genesys——既存プレイヤーがひしめくカスタマーサービス領域で、なぜこの急成長が実現したのか。記事が提示した答えは、「SoA(System of Action)から入り、チャネルインターフェースを取り、独自の SoR(System of Record)を築く」という三段構えの戦略であった。既存の SoR を崩しに行かず、推論でその上を跨ぎ、最も組織的に深いチャネル——電話——から組織統合を引き起こし、アウトカム課金で実装責任を自社に引き寄せ、結果として「プロセスの SoR」という新しい型のデータ基盤を築き上げていく。",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "二つ目は、Crossover Research の Brad Lyons 氏が",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月に公開した SaaSpocalypse に関する論考",
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra: The AI Customer Service Champion That Conquered 40% of the Fortune 50 in Two Years｜スタコレ｜海外スタートアップ分析",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra: The AI Customer Service Champion That Conquered 40% of the Fortune 50 in Two Years",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. What is Sierra? — Not 'AI answering the phone,' but 'AI completing the task'",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In customer support, chatbots 'answer FAQs.' Sierra's agents 'review mortgage applications, process insurance claims, and verify patients.' This difference is the reason it captured over 40% of the Fortune 50 in two years.",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra is an 'Enterprise AI Agent Platform'—that is how they define themselves. It is an Agent OS that centrally manages all customer touchpoints—chat, voice, SMS, WhatsApp, and email—and completes complex business workflows without the need for human operators.",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It surpassed $150M in ARR just eight quarters after its public launch in February 2024. In May 2026, it reached a valuation of $15.8B following a massive $950M funding round. Even in the history of enterprise SaaS, such speed is considered unprecedented.",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. Bringing the 'fundamental contradiction of enterprise software' learned at Salesforce into the most hated business function",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even after investing tens of billions of yen in CRM, customers continue to be subjected to long wait times and complex menus—Bret Taylor watched that contradiction from the CEO's chair at Salesforce.",
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "創業2年でデカコーン、米国AIスタートアップの代名詞「Sierra」の戦略を徹底解剖｜Mayu Kudo | 工藤 真由 | Globis Capital Partners",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "創業2年でデカコーン、米国AIスタートアップの代名詞「Sierra」の戦略を徹底解剖",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "Mayu Kudo | 工藤 真由 | Globis Capital Partners",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "「コールセンター向けAI」と聞いて、どんな印象を抱くだろうか。Zendesk、Salesforce、Genesys、Intercom──既存プレイヤーがひしめき合う、レッドオーシャン領域に感じる人も多いだろう。",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "ところが2024年2月の公開ローンチからわずか",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "7四半期でARR $100M、2年目を終えた時点で$150M超に到達",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Blog \"Year Two\"",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "Bret Taylor(元Salesforce共同CEO、現OpenAI取締役会長)とClay Bavor(元Google Labs)が立ち上げた",
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェント企業のSierraを徹底解剖｜創業2年でARR238億円・評価額2380億円、ソフトウェアの次世代モデルの全貌｜篠原 誠",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェント企業のSierraを徹底解剖｜創業2年でARR238億円・評価額2380億円、ソフトウェアの次世代モデルの全貌",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "連載：AIエージェント時代の組織設計（第3回）",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェント時代の営業組織設計｜\"人を切る話\"ではなく\"人を上に押し上げる話\"",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "「AIを導入する」のではなく「AIを迎え入れる」｜頓挫する5つのパターン",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントは\"性能\"ではなく\"関わり方\"｜OpenAI×Anthropic、ふたつの視点から見るAI 5段階",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "前回の連載第2回では、AI導入が頓挫する5つのパターンと、それを防ぐ3つの原則を整理しました。記事の末尾で、こんな問いかけを残しました。",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "「線を引いて、場を作って、人を押し上げる。それを本当に極めた先に、何があるのか」",
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポートが部署ごと消える──SierraがAIエージェントで約1,420億円を調達した日、企業AIの「本番」が始まった｜山上慧_KAC代表",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポートが部署ごと消える──SierraがAIエージェントで約1,420億円を調達した日、企業AIの「本番」が始まった",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   },
+   {
+    "quote": "「AIチャットボット」と「AIエージェント」が何が違うのか、数字で理解できる",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   },
+   {
+    "quote": "Sierraが3ヶ月でARRを1.5倍にした理由と、それが示す企業AI市場の構造変化",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のビジネスパーソン・エンジニアが今週知っておくべき資金調達トレンド",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   },
+   {
+    "quote": "約1,420億円。これはAIチャットボットを作る会社の話ではない。",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   },
+   {
+    "quote": "企業の顧客対応業務を「丸ごと引き受けるAIエージェント」を展開するSierraが、2026年5月4日に調達した金額だ。評価額は約2.3兆円（$15.8B）。3年前に創業したばかりのスタートアップが、日本の大手保険会社や銀行に匹敵する時価評価を得た。",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   },
+   {
+    "quote": "この数字が示しているのは「AIが面白そう」という期待ではない。「AIが実際に企業の業務を代替し始めた」という現実だ。",
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sierra (@SierraPlatform) / X Sierra (@SierraPlatform) / X X https://x.com > SierraPlatform",
+    "url": "https://x.com/SierraPlatform",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Ferrell (@SierraFerrell) / X Sierra Ferrell (@SierraFerrell) / X X https://x.com > SierraFerrell",
+    "url": "https://x.com/SierraFerrell",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra -at-Tahoe (@Sierra_at_Tahoe) / X Sierra -at-Tahoe (@Sierra_at_Tahoe) / X X https://x.com > Sierra_at_Tahoe",
+    "url": "https://x.com/Sierra_at_Tahoe",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Dupre/2026 (@SierraDupre) / X Sierra Dupre/2026 (@SierraDupre) / X X https://x.com > SierraDupre",
+    "url": "https://x.com/SierraDupre",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra (@sierraofficial) / X Sierra (@sierraofficial) / X X https://x.com > sierraofficial",
+    "url": "https://x.com/sierraofficial",
+    "pass": 3
+   },
+   {
+    "quote": "sierra deaton (@sierradeaton) / X sierra deaton (@sierradeaton) / X X https://x.com > sierradeaton",
+    "url": "https://x.com/sierradeaton",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sierra - LinkedIn Sierra - LinkedIn LinkedIn https://www.linkedin.com > sierra",
+    "url": "https://www.linkedin.com/company/sierra",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Reed - Design Innovation & Strategy Advisor - LinkedIn Sierra Reed - Design Innovation & Strategy Advisor - LinkedIn LinkedIn https://www.linkedin.com > sierra-mo...",
+    "url": "https://www.linkedin.com/in/sierra-monet-reed",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Leighty - Integrated Production and Project ... - LinkedIn Sierra Leighty - Integrated Production and Project ... - LinkedIn LinkedIn https://www.linkedin.com > sierra-lei...",
+    "url": "https://www.linkedin.com/in/sierra-leighty-98136b21",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra - LinkedIn Sierra - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sierra-trading-post",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sierra (@sierraofficial) - Facebook Sierra (@sierraofficial) - Facebook Facebook https://www.facebook.com > ... > Outdoor Equipment Store",
+    "url": "https://www.facebook.com/sierraofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Club | Oakland CA - Facebook Sierra Club | Oakland CA - Facebook Facebook https://www.facebook.com > ... > Nonprofit organization",
+    "url": "https://www.facebook.com/SierraClub/",
+    "pass": 3
+   },
+   {
+    "quote": "I Love the Sierra | Facebook I Love the Sierra | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/ilovethesierra/",
+    "pass": 3
+   },
+   {
+    "quote": "Sierra Magazine (@SierraMagazine) - Facebook Sierra Magazine (@SierraMagazine) - Facebook Facebook https://www.facebook.com > ... > Magazine",
+    "url": "https://www.facebook.com/SierraMagazine/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sierra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/rocket-mortgage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/singtel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/softbank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/siriusxm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/guardian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/sutter-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/redfin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/adt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/carmax",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/philippine-airlines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/r1-rcm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/ramp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/customers/sofi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/industries/telecommunications",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sierra.ai/-/cdn/image?src=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fca4jck6w%2Fproduction%2F85aac2f7285f4c682f73b4673bc7146d12a64a34-1064x1064.png&width=3840&quality=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yshimura_sierra/status/2083872183701360678",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/3237/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ncxx.co.jp/solutions/sierra.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yshimura_sierra/status/2083872183701360678",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://opera-technology.com/news/20260330",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sierrawireless.com/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getperspective.ai/blog/sierra-ai-customer-experience-conversational-agent-research-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ashishnagar_reality-of-enterprise-ai-case-study-from-activity-7480400550652502016-5Mpc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sierra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/sierra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/nicolask3_customerexperience-ai-activity-7369472752442863619-zLa1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SierraPlatform",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SierraFerrell",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sierra_at_Tahoe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SierraDupre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sierra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sierra-monet-reed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sierra-leighty-98136b21",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sierra-trading-post",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sierraofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SierraClub/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/ilovethesierra/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SierraMagazine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/uuu12/n/n2eb2269bebd1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sierraofficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sierradeaton",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sierra 日本 導入",
+   "results": [
+    "https://sierra.ai/blog/sierra-acquires-opera-tech-in-japan",
+    "https://ai-revolution.co.jp/media/what-is-sierra-ai-agent/",
+    "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "https://x.com/yshimura_sierra/status/2083872183701360678",
+    "https://sierra.ai/jp",
+    "https://www.softbank.jp/corp/news/press/sbkk/2026/20260714_01/",
+    "https://www.ai-native.jp/blog/sierra-ai-agent-soa-system-of-action-strategy-complete-guide",
+    "https://podcasts.apple.com/kh/podcast/sierra%E3%81%AF%E3%81%AA%E3%81%9C%E4%BB%8A%E6%97%A5%E6%9C%AC%E3%81%AB%E9%80%B2%E5%87%BA%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E5%B8%82%E5%A0%B4%E3%81%AE%E7%89%B9%E6%AE%8A%E6%80%A7%E3%81%A8%E5%8F%AF%E8%83%BD%E6%80%A7/id1848869446?i=1000767840068",
+    "https://ccai-lab.com/articles/2026-07-01-sierra-japan-6months",
+    "https://lifrell-tech.com/1170/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sierra 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://sierra.ai/jp/about",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4373",
+    "https://metoree.com/companies/3237/distributors/",
+    "https://www.ncxx.co.jp/solutions/sierra.html",
+    "https://prtimes.jp/main/html/rd/p/000000009.000173707.html",
+    "https://opera-technology.com/news/20260330",
+    "https://sierra.ai/blog/sierra-in-japan",
+    "https://x.com/mr_grayhair/status/2064205396760559770",
+    "https://initial.inc/companies/A-YQSVW",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sierra Japan",
+   "results": [
+    "https://sierra.ai/blog/sierra-acquires-opera-tech-in-japan",
+    "https://sierra.ai/jp/careers",
+    "https://x.com/yshimura_sierra/status/2083872183701360678",
+    "https://opera-technology.com/news/20260330",
+    "https://jp.linkedin.com/jobs/view/software-engineer-agent-at-sierra-4399871129",
+    "https://jobs.ashbyhq.com/sierra-jp/edf44ab4-538b-4e65-b93c-392c950b9fe6",
+    "https://www.welcometothejungle.com/en/companies/sierra/jobs/partnerships-sales_tokyo_qnwu3hgf",
+    "https://sierra.ai/blog/sierra-in-japan",
+    "https://initial.inc/companies/A-YQSVW",
+    "https://sierra.ai/jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sierra manufacturing customer case study",
+   "results": [
+    "https://sierra.ai/customers",
+    "https://www.sierrawireless.com/resources/customer-stories/",
+    "https://getperspective.ai/blog/sierra-ai-customer-experience-conversational-agent-research-2026",
+    "https://www.linkedin.com/posts/ashishnagar_reality-of-enterprise-ai-case-study-from-activity-7480400550652502016-5Mpc",
+    "https://atlan.com/know/ai-agent/ai-agent-applications/what-is-sierra-ai/",
+    "https://www.protoexpress.com/blog/case-study-pcb-lidar-sensors/",
+    "https://knoxsystems.com/case-studies/sierra-delivers-ai-powered-customer-operations-for-government",
+    "https://nextword.substack.com/p/sierra-ai-a-competitive-memo-on-the",
+    "https://www.sierra-cp.com/case-studies/",
+    "https://www.sierraexperts.com/wp-content/uploads/2026/07/Manufacturing-Case-Study-2026.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sierra white label OR reseller OR partner program",
+   "results": [
+    "https://www.sierrachart.com/index.php?page=doc/ResellerProgram.php",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://sierra.ai/blog/the-sierra-partner-ecosystem",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sierra founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sierra",
+    "https://sierra.ai/blog/100m-arr",
+    "https://sacra.com/c/sierra/",
+    "https://www.linkedin.com/posts/nicolask3_customerexperience-ai-activity-7369472752442863619-zLa1",
+    "https://okara.ai/blog/sierra-ai-revenue-growth",
+    "https://www.cmswire.com/customer-experience/sierra-raises-950m-at-15b-valuation-eyes-transformation-beyond-customer-support/",
+    "https://www.crunchbase.com/organization/sierra-1124",
+    "https://sierra.ai/blog/year-two-in-review",
+    "https://www.youtube.com/watch?v=VrRdH4xjWWk&vl=ja",
+    "https://tracxn.com/d/companies/sierra/__7BlbMAkDWSyJoeaH8RQ9TEzmQo9diuckI1GUvWn9QHo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Sierra",
+   "results": [
+    "https://note.com/makoto_shinohara/n/n7f226c904a2c?hl=en",
+    "https://note.com/makoto_shinohara/n/nb89a99177f62?hl=en",
+    "https://note.com/fumiyuki_ota/n/nbdbf8c492a87",
+    "https://note.com/startup_collect/n/nce5c34f0904e?hl=en",
+    "https://note.com/ai_driven/n/n1649d63363df?hl=en",
+    "https://note.com/fumiyuki_ota/n/n1e69cdf0e687",
+    "https://note.com/rk611/n/n155804713569",
+    "https://note.com/uuu12/n/n2eb2269bebd1",
+    "https://note.com/vottia_0421/n/n972bcd0204b6?hl=en",
+    "https://note.com/makoto_shinohara/n/nb89a99177f62"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Sierra",
+   "results": [
+    "https://x.com/SierraPlatform",
+    "https://x.com/SierraFerrell",
+    "https://x.com/Sierra_at_Tahoe",
+    "https://x.com/SierraDupre",
+    "https://x.com/Sierra_Magazine",
+    "https://x.com/SierraClub",
+    "https://x.com/sierradmcclain",
+    "https://x.com/SierraMcClain",
+    "https://x.com/REALSierra_",
+    "https://x.com/sierraofficial"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Sierra",
+   "results": [
+    "https://www.linkedin.com/company/sierra",
+    "https://www.linkedin.com/in/sierra-monet-reed",
+    "https://www.linkedin.com/in/sierra-leighty-98136b21",
+    "https://www.linkedin.com/company/sierra-trading-post",
+    "https://www.linkedin.com/in/loganrandolph",
+    "https://www.linkedin.com/company/sierraspace",
+    "https://www.linkedin.com/in/bnakamura",
+    "https://www.linkedin.com/in/sierra-hillman",
+    "https://www.linkedin.com/in/sierralindsey",
+    "https://uk.linkedin.com/in/prina-m"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Sierra",
+   "results": [
+    "https://www.facebook.com/sierraofficial/",
+    "https://www.facebook.com/SierraClub/",
+    "https://www.facebook.com/groups/ilovethesierra/",
+    "https://www.facebook.com/SierraMagazine/",
+    "https://www.facebook.com/groups/333058046852983/",
+    "https://www.facebook.com/SierraAtTahoe/",
+    "https://www.facebook.com/sierraveins/",
+    "https://www.facebook.com/wdaytv/posts/sierra-formerly-known-as-sierra-trading-post-is-opening-in-the-former-joann-fabr/1464423935719074/",
+    "https://www.facebook.com/Siouxfallsbusinessnews/posts/big-news-for-shoppers-the-first-sierra-is-coming-to-sioux-falls/1519681736850893/",
+    "https://www.facebook.com/SierraRVs/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sierra note 社長",
+   "results": [
+    "https://note.com/uuu12/n/n2eb2269bebd1",
+    "https://note.com/makoto_shinohara/n/nb89a99177f62",
+    "https://sierra.ai/jp/about",
+    "https://note.com/kei_tmt/n/n63eae43dabcf",
+    "https://www.youtube.com/watch?v=_W9aIt39VyA",
+    "https://note.com/rk611/m/m5855be8c008e",
+    "https://www.linkedin.com/in/claybavor",
+    "https://nextword.substack.com/p/sierra-ai-a-competitive-memo-on-the",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sierra X 投稿",
+   "results": [
+    "https://x.com/sierraofficial",
+    "https://x.com/sierradeaton",
+    "https://www.reddit.com/r/IAmA/comments/566qbm/we_are_alex_sierra_we_won_x_factor_a_simon_cowell/",
+    "https://www.instagram.com/sierraxjaydxn/",
+    "https://sierra.ai/resources",
+    "https://www.youtube.com/@Sierra-Platform",
+    "https://x.com/SierraPlatform",
+    "https://x-sou.com/ja/u/sierraxlisabeth",
+    "https://x.com/se7Sierra/status/2119724166169698587",
+    "https://x.com/se7Sierra/status/2050077746341261563"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部38頁・検索12回）"
+ }
+}

@@ -1,0 +1,878 @@
+{
+ "name": "Nanoe",
+ "aliases": [],
+ "context": "ディレクトリ:ceramic-filament",
+ "researched_at": "2026-11-09T21:20:42.338680+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "Shop Parts & Accessories",
+    "url": "https://shop.panasonic.com/products/nanoe-hair-dryer-with-oscillating-quick-dry-nozzle?srsltid=AYCX9vLP1gIzBXxkRBq7bpSspcJDcBPkYYQGOevbhPmJLvmtmB_LUZFC",
+    "pass": 3
+   },
+   {
+    "quote": "Released on 2025-09-01. A standard Nanoe Care model, perfect for daily care. Approximately 33,000 yen on Amazon (as of 10/11).",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Released on 2024-09-01. The top-of-the-line Nanoe Care model. For those who are particular about the finish. 75,488 yen on Amazon (as of 10/11).",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Released on 2024-09-01. Lightweight and foldable, so it's also great for travel or the gym. Approximately 18,000 yen on Amazon (as of 10/11).",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nanoe Care EH-NB70: Scheduled for release in early November 2026 / Open price (Amazon pre-order 41,000 yen)",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*Since Nanocare products have open pricing, the prices listed are the selling prices on Amazon.co.jp (as of October 11, 2026, according to Kakaku.com)",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "nanoe ™ Hair Dryer with Oscillating Quick-Dry Nozzle — nanoe ™ Hair Dryer with Oscillating Quick-Dry Nozzle Shop Panasonic USA https://shop.panasonic.com > products",
+    "url": "https://shop.panasonic.com/products/nanoe-hair-dryer-with-oscillating-quick-dry-nozzle?srsltid=AYCX9vLP1gIzBXxkRBq7bpSspcJDcBPkYYQGOevbhPmJLvmtmB_LUZFC",
+    "pass": 3
+   },
+   {
+    "quote": "Nanoe 社が新型3Dプリント用 フィラメント 「Zetamix H13」を ... — Nanoe 社が新型3Dプリント用 フィラメント 「Zetamix H13」を ... CAD Japan.com https://www.cadjapan.com > ニュース > 2021年",
+    "url": "https://www.cadjapan.com/news/2021/d20210127_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic Nanoe hairdryer first-hand experience? - Reddit — Panasonic Nanoe hairdryer first-hand experience? - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/AsianBeauty/comments/1vey3fo/panasonic_nanoe_hairdryer_firsthand_experience/",
+    "pass": 3
+   },
+   {
+    "quote": "25+ Panasonic Nanoe Hair Dryer for sale - eBay — 25+ Panasonic Nanoe Hair Dryer for sale - eBay eBay https://www.ebay.com > shop > panas...",
+    "url": "https://www.ebay.com/shop/panasonic-nanoe-hair-dryer?_nkw=panasonic+nanoe+hair+dryer",
+    "pass": 3
+   },
+   {
+    "quote": "nanoe ™ X, technology with the benefits of hydroxyl radicals — nanoe ™ X, technology with the benefits of hydroxyl radicals Panasonic - Heating and Cooling solutions https://www.aircon.panasonic.eu > na...",
+    "url": "https://www.aircon.panasonic.eu/EE_et/happening/nanoe-x-quality-air-for-life/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaborations driving the growing global appeal of nanoe ... — The collaborations driving the growing global appeal of nanoe ... Panasonic https://www.panasonic.com > hvac",
+    "url": "https://www.panasonic.com/au/hvac/learn-more/akihito-hirohata-panasonic.html",
+    "pass": 3
+   },
+   {
+    "quote": "EN – Japanese Lab Invention of nanoe ™ X - Background Story — EN – Japanese Lab Invention of nanoe ™ X - Background Story YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=1N0QWkHPJG0",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic Nanoe X 4.8 Trillion Generation Unit Black F ... — Panasonic Nanoe X 4.8 Trillion Generation Unit Black F ... amazon.jp https://www.amazon.co.jp > Panasoni...",
+    "url": "https://www.amazon.co.jp/-/en/Panasonic-Trillion-Generation-F-GMU01-K-Offices/dp/B09VWYKPQ4",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic Nanocare Hair Dryer nanoe With Minerals ... — Panasonic Nanocare Hair Dryer nanoe With Minerals ... amazon.jp https://www.amazon.co.jp > ...",
+    "url": "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-Internationally-Compatible-EH-NA9F-RP/dp/B099NG67LM",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic Nanocare Nanoe EH-NA2K-W Hair Dryer, Static ... — Panasonic Nanocare Nanoe EH-NA2K-W Hair Dryer, Static ... amazon.jp https://www.amazon.co.jp > ...",
+    "url": "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-EH-NA2K-W-Electricity-Suppression/dp/B0CC8QVYG9",
+    "pass": 3
+   },
+   {
+    "quote": "\" nanoe 加湿器\" 【通販モノタロウ】 最短即日出荷 — \" nanoe 加湿器\" 【通販モノタロウ】 最短即日出荷 モノタロウ https://www.monotaro.com > q-nanoe 加湿器",
+    "url": "https://www.monotaro.com/s/q-nanoe%20%E5%8A%A0%E6%B9%BF%E5%99%A8/?srsltid=AYCX9vIFm4qEQtdIRFOHbCs4LXULOjbsiDP7d6jBNSonmckolYgGa6OO",
+    "pass": 3
+   },
+   {
+    "quote": "NANOE | Membership, Credentialing & Events - NANOE ... — NANOE | Membership, Credentialing & Events - NANOE ... nanoe.org https://nanoe.org",
+    "url": "https://nanoe.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Global Shipments of nanoe ™ Devices Exceed 10 ... — Annual Global Shipments of nanoe ™ Devices Exceed 10 ... Panasonic Newsroom Global https://news.panasonic.com > press",
+    "url": "https://news.panasonic.com/global/press/en220609-2",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Nanoe社が新型3Dプリント用フィラメント「Zetamix H13」を発表 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2021/d20210127_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zetamix、3Dプリンターで利用できる最初のセラミックおよび金属フィラメント｜導入事例一覧｜Raise3D国内総代理店｜日本3Dプリンター株式会社",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社金沢エンジニアリングシステムズ様：ソフトウェア開発企業が挑む、伝統工芸と先端技術の融合",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   },
+   {
+    "quote": "上松電子株式会社様 ：「“すぐやる”文化」とRaise3Dが拓く、生産準備の革新と資源循環の未来",
+    "url": "https://www.raise3d.jp/case/25",
+    "pass": 3
+   },
+   {
+    "quote": "●Where there are no specific trial conditions listed, they are based on the HD-129 voluntary standard of Japan Electrical Manufacture's Association.",
+    "url": "https://panasonic.jp/tourist/en/hair/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "●Where there are no specific trial conditions listed, they are based on the HD-129 voluntary standard of Japan Electrical Manufacture's Association.",
+    "url": "https://panasonic.jp/tourist/en/hair/",
+    "pass": 3
+   },
+   {
+    "quote": "Access multiple capacity-building platforms & programs, that supercharge your revenue",
+    "url": "https://nanoe.org/",
+    "pass": 3
+   },
+   {
+    "quote": "*Since Nanocare products have open pricing, the prices listed are the selling prices on Amazon.co.jp (as of October 11, 2026, according to Kakaku.com)",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "October 2026: Which Nanoe Care to Buy Now - note October 2026: Which Nanoe Care to Buy Now - note note https://note.com > レビュー > 商品レビュー",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing the Nanoe EH-NA0J to Replace My Broken Hair Dryer Choosing the Nanoe EH-NA0J to Replace My Broken Hair Dryer note https://note.com > レビュー > 商品レビュー",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What makes the Panasonic Nanoe hair dryer so great ... - note What makes the Panasonic Nanoe hair dryer so great ... - note note https://note.com > ... > 商品レビュー",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "October 2026: Which Nanoe Care to Buy Now｜yoshimple  フリーランスエンジニア  フォロバ100",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "October 2026: Which Nanoe Care to Buy Now",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "yoshimple  フリーランスエンジニア  フォロバ100",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"If I were to buy a Nanoe Care now, which one?\"",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "──We have narrowed down the recommendations from Panasonic's Nanoe Care hair dryers to three models as of October 2026.",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The standard EH-NA0K, the top-of-the-line ULTIMATE, and the lightweight, portable EH-NA7M.",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We have summarized \"Which one should I actually buy?\" as simply as possible.",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to know the release dates of past models in detail, please also check the article on past Nanoe Care models posted at the end.",
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Satisfaction from a Breakdown: Choosing the Nanoe EH-NA0J to Replace My Broken Hair Dryer｜よは",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Satisfaction from a Breakdown: Choosing the Nanoe EH-NA0J to Replace My Broken Hair Dryer",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Things always seem to break when you least expect it.",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The other day, the hair dryer I had been using for two years suddenly sparked and broke. It stopped working without any warning, and that night, I had no choice but to dry my hair with an electric fan.",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ドライヤー火花散ってぶっ壊れたから今日は扇風機で髪乾かす。2年で終わった。",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/PzxpWlbUeo",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "— よは｜YOHAKU (@yoha_life)",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, as you might expect, the roots didn't dry completely, and even with short hair, it took longer than I thought. I even tried going outside to use a handheld fan in the tropical night air, but that was a failure too.",
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What makes the Panasonic Nanoe hair dryer so great? A thorough explanation of how Nanoe works and the popular models!｜キレイ貯金 ｜ 未来の自分に、キレイを貯金🪞",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What makes the Panasonic Nanoe hair dryer so great? A thorough explanation of how Nanoe works and the popular models!",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "キレイ貯金 ｜ 未来の自分に、キレイを貯金🪞",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between a high-end hair dryer and a regular one?",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With that question in mind, last time we looked at the ReFa hair dryer.",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As I researched high-end hair dryers, there was another manufacturer that caught my attention.",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That is Panasonic's \"Nanoe Care\" series.",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm sure many of you have heard the term \"Nanoe\" before, haven't you?",
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nanoe | LinkedIn Nanoe | LinkedIn LinkedIn https://www.linkedin.com > nanoe",
+    "url": "https://www.linkedin.com/company/nanoe/",
+    "pass": 3
+   },
+   {
+    "quote": "NANOE (National Association of Nonprofit Organizations ... NANOE (National Association of Nonprofit Organizations ... LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/national-association-of-nonprofit-organizations-&-executives-nanoe-",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic's nanoe X Technology for Improved Indoor Air Quality Panasonic's nanoe X Technology for Improved Indoor Air Quality LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/panasonic-australia_panasonics-nanoe-x-technology-isnt-just-activity-7401098223249100803-VTs_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Panasonic's nanoe ™ X Air Conditioning does more than cool ... Panasonic's nanoe ™ X Air Conditioning does more than cool ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/PanasonicAustralia/videos/panasonics-nanoe-x-air-conditioning-does-more-than-cool-your-home-it-helps-keep-/930445506492672/",
+    "pass": 3
+   },
+   {
+    "quote": "Panasonic develops new nanoe ™ X that halves mold ... Panasonic develops new nanoe ™ X that halves mold ... Facebook https://www.facebook.com > PanasonicGroup > posts > pa...",
+    "url": "https://www.facebook.com/PanasonicGroup/posts/panasonic-develops-new-nanoe-x-that-halves-mold-inhibition-time-compared-with-th/1490370799792994/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is Nanoe in Toyota Cars Explained - Facebook What Is Nanoe in Toyota Cars Explained - Facebook Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/joseherrerahsdofficial/videos/what-is-nanoe-toyota/545009481322346/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://shop.panasonic.com/products/nanoe-hair-dryer-with-oscillating-quick-dry-nozzle?srsltid=AYCX9vLP1gIzBXxkRBq7bpSspcJDcBPkYYQGOevbhPmJLvmtmB_LUZFC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.rakuten.co.jp/search/mall/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF+%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC+%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamsnet.com/products/box_dolipetdouble-2/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.biccamera.com/bc/item/9423440/?srsltid=AYCX9vIizr5frbtPjV85QAwlrwawhlRBv_ngC9ASYyq1R9LzSDRgRkhO",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.panasonic.com/jp/company/pmj/seikitoriatsukai/top.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://item.rakuten.co.jp/sakura002/eh-na9m/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qoo10.jp/gmkt.inc/Goods/Goods.aspx?goodscode=1137777100",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.figurelibre.net/goods/items/details/W3156964854355",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://panasonic.jp/hair/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%83%98%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC-%E3%80%8C%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC%E3%80%8D-%E3%83%94%E3%83%B3%E3%82%AF%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89-EH-NA9F-PN/dp/B099NJQQMN",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kakaku.com/item/J0000048383/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biccamera.com/bc/category/001/160/020/005/005/?entr_nm=Panasonic%81b%83p%83i%83%5C%83j%83b%83N&srsltid=AYCX9vIywFmk-dRtowYNCGfih2MwJCextoyyIYZGOs8HvTuEPXk1QlM1",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2021/d20210127_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.jp/case/25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://panasonic.jp/tourist/en/hair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/Dc4tG-Ooew5/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/AsianBeauty/comments/1vey3fo/panasonic_nanoe_hairdryer_firsthand_experience/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ebay.com/shop/panasonic-nanoe-hair-dryer?_nkw=panasonic+nanoe+hair+dryer",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.panasonic.com/au/hvac/learn-more/akihito-hirohata-panasonic.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ga.com/general-atomics-introduces-kantum-electronics-company-ltd-as-japanese-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alkira.com/press-release/alkira-selects-nissho-electronics-as-first-distributor-in-japan-for-network-cloud-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1N0QWkHPJG0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Panasonic-Trillion-Generation-F-GMU01-K-Offices/dp/B09VWYKPQ4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC/s?k=%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-Internationally-Compatible-EH-NA9F-RP/dp/B099NG67LM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-EH-NA2K-W-Electricity-Suppression/dp/B0CC8QVYG9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-nanoe%20%E5%8A%A0%E6%B9%BF%E5%99%A8/?srsltid=AYCX9vIFm4qEQtdIRFOHbCs4LXULOjbsiDP7d6jBNSonmckolYgGa6OO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC/?srsltid=AYCX9vJ3FbU3oeSIm6BiawSkIZYqnUjafEg6MIMqz2BXqSC62uvH2Ytq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0661/5020/?srsltid=AYCX9vIGmyVEIAU_YT24228nfoMDCLnueKqfIwPPK32OcaaQOFiYz4xX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/08067817/?srsltid=AYCX9vK9PSoop4iJj7V3I5oeKrUrlkQ61WZIUG45qI51MsypozN6Ukir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Nano",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bullfincher.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoe.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qz.com/1000840/the-50-companies-with-the-highest-revenue-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/nanoe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/national-association-of-nonprofit-organizations-&-executives-nanoe-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/panasonic-australia_panasonics-nanoe-x-technology-isnt-just-activity-7401098223249100803-VTs_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PanasonicAustralia/videos/panasonics-nanoe-x-air-conditioning-does-more-than-cool-your-home-it-helps-keep-/930445506492672/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PanasonicGroup/posts/panasonic-develops-new-nanoe-x-that-halves-mold-inhibition-time-compared-with-th/1490370799792994/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/joseherrerahsdofficial/videos/what-is-nanoe-toyota/545009481322346/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nanoe 代理店",
+   "results": [
+    "https://shop.panasonic.com/products/nanoe-hair-dryer-with-oscillating-quick-dry-nozzle?srsltid=AYCX9vLP1gIzBXxkRBq7bpSspcJDcBPkYYQGOevbhPmJLvmtmB_LUZFC",
+    "https://search.rakuten.co.jp/search/mall/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF+%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC+%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC/",
+    "https://www.dreamsnet.com/products/box_dolipetdouble-2/",
+    "https://www.biccamera.com/bc/item/9423440/?srsltid=AYCX9vIizr5frbtPjV85QAwlrwawhlRBv_ngC9ASYyq1R9LzSDRgRkhO",
+    "https://metoree.com/companies/16669/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=413",
+    "https://www.yodobashi.com/store/630142/",
+    "https://www.tosei-corporation.co.jp/nanoex/",
+    "https://www2.panasonic.biz/jp/lighting/shop/nanoe/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nanoe 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.panasonic.com/jp/company/pmj/seikitoriatsukai/top.html",
+    "https://item.rakuten.co.jp/sakura002/eh-na9m/",
+    "https://www.qoo10.jp/gmkt.inc/Goods/Goods.aspx?goodscode=1137777100",
+    "https://www.figurelibre.net/goods/items/details/W3156964854355",
+    "https://item.rakuten.co.jp/sakura002/eh-nc80-t/",
+    "https://item.rakuten.co.jp/sakura002/eh-na9f-rp/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://industrial.panasonic.com/jp/s-search/distributors"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Nanoe 日本 販売",
+   "results": [
+    "https://panasonic.jp/hair/products.html",
+    "https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%83%98%E3%82%A2%E3%83%89%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC-%E3%80%8C%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC%E3%80%8D-%E3%83%94%E3%83%B3%E3%82%AF%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89-EH-NA9F-PN/dp/B099NJQQMN",
+    "https://kakaku.com/item/J0000048383/",
+    "https://www.biccamera.com/bc/category/001/160/020/005/005/?entr_nm=Panasonic%81b%83p%83i%83%5C%83j%83b%83N&srsltid=AYCX9vIywFmk-dRtowYNCGfih2MwJCextoyyIYZGOs8HvTuEPXk1QlM1",
+    "https://item.rakuten.co.jp/auc-hachidai/235-00-eh-na0k/",
+    "https://www.yodobashi.com/store/630142/",
+    "https://news.panasonic.com/jp/topics/206332",
+    "https://kakaku.com/item/J0000039171/",
+    "https://www.biccamera.com/bc/category/?q=panasonic+nanoe",
+    "https://search.kakaku.com/nanoe/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanoe フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.cadjapan.com/news/2021/d20210127_02.html",
+    "https://skhonpo.com/",
+    "https://www.raise3d.jp/case/25",
+    "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "https://www.poly-maker.jp/",
+    "https://shop.exmatelab.com/",
+    "https://www.monotaro.com/s/attr_f5139-%E3%81%9D%E3%81%AE%E4%BB%96/q-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%20pla/?fpu=0&srsltid=AYCX9vIoV3Fq3s4ZcRmjBdatUGa38LYtRM_B1dUY7XbPQznTQeWYsDlt",
+    "https://search.rakuten.co.jp/search/mall/polymax+petg/",
+    "https://www.marutsu.co.jp/GoodsListNavi.jsp?path=0100010002&srsltid=AYCX9vIqj_yknu08Jc9VqMnjnVIJqY0zII9eyFPFocWFqrNz5wdXdL7X",
+    "https://nanoe.com/en/zetamix-3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanoe Japan distributor",
+   "results": [
+    "https://panasonic.jp/tourist/en/hair/",
+    "https://www.instagram.com/reel/Dc4tG-Ooew5/",
+    "https://www.reddit.com/r/AsianBeauty/comments/1vey3fo/panasonic_nanoe_hairdryer_firsthand_experience/",
+    "https://www.ebay.com/shop/panasonic-nanoe-hair-dryer?_nkw=panasonic+nanoe+hair+dryer",
+    "https://www.aircon.panasonic.eu/EE_et/happening/nanoe-x-quality-air-for-life/",
+    "https://www.youtube.com/watch?v=WH6s-CKgx0Q",
+    "https://www.amazon.com/clp/B0B72L6K9P",
+    "https://imyshopjapan.com/blogs/shopping-guide/5-best-japanese-hair-dryers-2023?srsltid=AYCX9vKdZqNMOUoiHLN7QHgEyXCVFo6YggrsGPUGfroR0e7Ktmj6rufs",
+    "https://www.nuvoton.co.jp/en/products/disti/",
+    "http://nanoyo-japan.com/link/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanoe distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.panasonic.com/au/hvac/learn-more/akihito-hirohata-panasonic.html",
+    "https://www.ga.com/general-atomics-introduces-kantum-electronics-company-ltd-as-japanese-distributor",
+    "https://www.alkira.com/press-release/alkira-selects-nissho-electronics-as-first-distributor-in-japan-for-network-cloud-2/",
+    "https://www.youtube.com/watch?v=1N0QWkHPJG0",
+    "https://singleron.bio/news/singleron-tomy-partnership-single-cell-japan/",
+    "https://cornestech.com/products/global-distribution/japan/",
+    "https://www.nagase.com/discover/resources/unlock-the-japan-asian-markets-with-nagase",
+    "https://www.facebook.com/PanasonicPhilippines/videos/panasonic-crew-goes-to-japan-%EF%B8%8Ffollow-jo-sebastian-rnd-and-khalil-ramos-as-they-e/1672530180112258/",
+    "https://www.norcomp.net/distributor/japan",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Nanoe",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Panasonic-Trillion-Generation-F-GMU01-K-Offices/dp/B09VWYKPQ4",
+    "https://www.amazon.co.jp/%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC/s?k=%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC",
+    "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-Internationally-Compatible-EH-NA9F-RP/dp/B099NG67LM",
+    "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-EH-NA2K-W-Electricity-Suppression/dp/B0CC8QVYG9",
+    "https://www.amazon.co.jp/-/en/Panasonic-Curling-Dryer-Penetration-EH-KN0G/dp/B099MVNTKB",
+    "https://www.amazon.co.jp/-/en/Panasonic-Nanocare-Penetration-Technology-EH-NA0B-PN/dp/B07VP96BJN",
+    "https://www.amazon.co.jp/-/en/Panasonic-Generator-Purification-Connection-F-C100U-K/dp/B09NXSR618",
+    "https://www.amazon.co.jp/-/en/Panasonic-EH-NA9F-PN-Nano-Care-Equipped-Compatible/dp/B099NJQQMN",
+    "https://www.amazon.co.jp/-/en/Panasonic-Humidifier-Effectively-Suppresses-F-VXW90-W/dp/B0DGQ1SY48",
+    "https://www.amazon.co.jp/nanoe/s?k=nanoe"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:monotaro.com Nanoe",
+   "results": [
+    "https://www.monotaro.com/s/q-nanoe%20%E5%8A%A0%E6%B9%BF%E5%99%A8/?srsltid=AYCX9vIFm4qEQtdIRFOHbCs4LXULOjbsiDP7d6jBNSonmckolYgGa6OO",
+    "https://www.monotaro.com/k/store/%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC/?srsltid=AYCX9vJ3FbU3oeSIm6BiawSkIZYqnUjafEg6MIMqz2BXqSC62uvH2Ytq",
+    "https://www.monotaro.com/p/0661/5020/?srsltid=AYCX9vIGmyVEIAU_YT24228nfoMDCLnueKqfIwPPK32OcaaQOFiYz4xX",
+    "https://www.monotaro.com/g/08067817/?srsltid=AYCX9vK9PSoop4iJj7V3I5oeKrUrlkQ61WZIUG45qI51MsypozN6Ukir",
+    "https://www.monotaro.com/g/05923664/?srsltid=AYCX9vKUPJ548BDnxk83oAHaspJ-MmO07mQoeA_Q6CNh5UTELejbHRjh",
+    "https://www.monotaro.com/g/06207234/?srsltid=AYCX9vKbRuS6Fv6TsKTv5sSOdOiT7GtNuxB2nWM_DcCDBxOO4Y4dDQ5i",
+    "https://www.monotaro.com/k/store/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%20%E3%83%8A%E3%83%8E%E3%82%A4%E3%83%BC/?srsltid=AYCX9vLQ0e0Z7xdGhkqxmG4xIJFkUt205q5cLHu3TszLRES_NfhhXza1",
+    "https://www.monotaro.com/g/07306944/?srsltid=AYCX9vLJ-G4fXPa044zx_PIpxqKaNJe6jf300MUnVpHaSCYVkRVL4VzC",
+    "https://www.monotaro.com/g/08565785/?srsltid=AYCX9vKOD8Jf90niIqrqoZAUkwZJvBUgJmZ3SHwei9XZiL4ZJC-L_Xto"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nanoe employees revenue parent company",
+   "results": [
+    "https://growjo.com/company/Nano",
+    "https://bullfincher.io/",
+    "https://nanoe.org/",
+    "https://qz.com/1000840/the-50-companies-with-the-highest-revenue-per-employee",
+    "https://news.panasonic.com/global/press/en220609-2",
+    "https://en.wikipedia.org/wiki/Panasonic",
+    "https://nonprofitquarterly.org/nanoes-approach-nonprofit-leadership-insult-intelligence/",
+    "https://marylandnonprofits.org/2016/09/06/nanoe-new-guidelines-for-tomorrows-nonprofit-a-review/",
+    "https://www.owler.com/company/nanoholdingscorp",
+    "https://growjo.com/company/NANO_Nuclear_Energy_Inc._(NASDAQ_NNE)"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Nanoe",
+   "results": [
+    "https://note.com/yoshimple/n/nb07bad639107?hl=en",
+    "https://note.com/yohakulife/n/n6aa13be9a5a7?hl=en",
+    "https://note.com/large_pothos6177/n/nc3f4c4cd99eb?hl=en",
+    "https://note.com/1chino_note/n/n257a5f1e3f24?hl=en",
+    "https://note.com/platypus2000jp/n/n527937df64fc?hl=en",
+    "https://note.com/finanalyze/n/n6bbefa820f4e?hl=en",
+    "https://note.com/brainy_alpaca591/n/nbb3a9c594d91?hl=en",
+    "https://note.com/maverick_2222/n/nae772e55cfab?hl=en",
+    "https://note.com/large_jacana5412/n/nd967eeec336c?hl=en",
+    "https://note.com/asarin_note/n/nf802fbb1a176?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Nanoe",
+   "results": [
+    "https://x.com/panasonic/status/2104451107401392320",
+    "https://x.com/weeklymtown/status/2084975708489859354",
+    "https://x.com/TychodeFeijter/status/1993236689775374806",
+    "https://x.com/Solo_Level_27/status/1901025657221533741",
+    "https://x.com/digitalpr_jp/status/2110177356019020238",
+    "https://x.com/labi1_namba/status/2117481903225708640",
+    "https://x.com/PanasonicHVACCC/status/2118297594543923705",
+    "https://x.com/elegelacom/status/2104527018624970791?lang=bn",
+    "https://x.com/Panasonic_cp/status/1982718914120527894",
+    "https://x.com/nanoecentral"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Nanoe",
+   "results": [
+    "https://www.linkedin.com/company/nanoe/",
+    "https://www.linkedin.com/company/national-association-of-nonprofit-organizations-&-executives-nanoe-",
+    "https://fr.linkedin.com/in/guillaume-de-calan-92515716",
+    "https://www.linkedin.com/posts/panasonic-australia_panasonics-nanoe-x-technology-isnt-just-activity-7401098223249100803-VTs_",
+    "https://www.linkedin.com/in/jimmylarose",
+    "https://www.linkedin.com/posts/scottgall_cfre-vs-nanoe-which-nonprofit-credential-activity-7417984128031109120-ZroV",
+    "https://mg.linkedin.com/in/lucas-richard-497483153",
+    "https://www.linkedin.com/posts/guillaume-de-calan-92515716_cnc-is-dead-additive-manufacturing-will-activity-7418930218079297536-XSHl",
+    "https://www.linkedin.com/posts/jarn-ltd_nanoe-hvac-hvacr-activity-7426509179231805440-6S_A",
+    "https://mg.linkedin.com/company/nanoé---madagascar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Nanoe",
+   "results": [
+    "https://www.facebook.com/NANOEmembers/",
+    "https://www.facebook.com/PanasonicAustralia/videos/panasonics-nanoe-x-air-conditioning-does-more-than-cool-your-home-it-helps-keep-/930445506492672/",
+    "https://www.facebook.com/PanasonicGroup/posts/panasonic-develops-new-nanoe-x-that-halves-mold-inhibition-time-compared-with-th/1490370799792994/",
+    "https://www.facebook.com/joseherrerahsdofficial/videos/what-is-nanoe-toyota/545009481322346/",
+    "https://www.facebook.com/PanasonicGroup/posts/panasonic-demonstrates-the-inhibitory-effect-of-nanoe-hydroxyl-radicals-containe/1505636441599763/",
+    "https://www.facebook.com/groups/MyEfficientElectricHome/posts/2880610251983399/",
+    "https://www.facebook.com/panasonicindia/videos/a-cleaner-home-begins-with-cleaner-air-panasonic-nanoe%EF%B8%8F-helps-inhibit-bacteria-s/1538143774379754/",
+    "https://www.facebook.com/joseherrerahsdofficial/posts/what-is-nanoe-toyota/1022873102960434/",
+    "https://www.facebook.com/sgpanasonic/posts/who-is-nanoe-x-forno-matter-your-lifestyle-nanoe-x-has-your-back-because-clean-a/1687379960095536/",
+    "https://www.facebook.com/nanoeelectrification/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanoe note 社長",
+   "results": [
+    "https://note.com/note_brand/n/n5c6ada3d1f22",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/PanasonicBrand/status/1796447773564485773",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/tag/%E3%83%8A%E3%83%8E%E3%82%B1%E3%82%A2",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://st.benesse.ne.jp/ninshin/content/?id=145910",
+    "https://prtimes.jp/main/html/rd/p/000000727.000024101.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Nanoe X 投稿",
+   "results": [
+    "https://panasonic.jp/nanoe/",
+    "https://www.reddit.com/r/AirPurifiers/comments/1cue7lk/panasonic_nanoe_x_technology/?tl=ja",
+    "https://www.youtube.com/watch?v=MtZRAbP8wpA",
+    "https://www.aircon.panasonic.eu/LV_lv/happening/nanoe-x-quality-air-for-life/",
+    "https://www.facebook.com/HRVNZ/videos/what-exactly-is-nanoe-xthe-clever-folks-panasonic-new-zealand-have-developed-sma/1576302916933641/",
+    "https://www.climamarket.eu/blog/en/everything-you-need-to-know-about-panasonic-nanoex-technology/?srsltid=AYCX9vIPHFQkpfvsdg_JIH0NWMBiTvU4aue25BooXYkb8T09mj0iHSRN",
+    "https://x.com/panasonic/status/1937390306602942848",
+    "https://note.com/info/n/n6c9bd26eeb36",
+    "https://www.panasonic.com/global/hvac-cc/nanoe.html",
+    "https://uptogo.com.tw/居家/日用品-生活雜貨/除菌防疫/國際牌nanoe有用嗎？/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）"
+ }
+}

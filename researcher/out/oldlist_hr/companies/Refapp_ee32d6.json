@@ -1,0 +1,992 @@
+{
+ "name": "Refapp",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T21:59:40.045572+00:00",
+ "official_url": "https://www.refapp.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Östra Larmgatan, Göteborg, Västra Götaland 411 07 , SE",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Smarter Digital Reference Checks for Confident Hiring | Refapp",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment and Staffing",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment Systems & Assessment Providers",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Refapp automates the reference checking process to deliver reliable insights into your candidates’ behavior and performance—giving you data you can trust and decisions you can stand by.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual reference checks are slow, inconsistent, and prone to bias. Refapp streamlines the process into an automated, structured, and candidate-friendly experience—delivering trustworthy insights for confident hiring decisions.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Refapp makes reference checking effortless. References respond when it suits them—on any device—while automated reminders keep the process moving.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Responses are compiled into a clear, comparable report with optional benchmarking, helping you evaluate candidates against role-specific standards and securely share insights with colleagues or clients.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmark and compare candidates",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how your candidates stack up against others in similar roles.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize communication with candidates, references, and clients to reflect your brand and visual identity.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You're never on your own. With Refapp, you get personal onboarding, a dedicated Customer Success Manager, and fast support via email or phone.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Refapp removes the risk of discriminatory questions by allowing a standardised question set for every candidate.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With Refapp, our reference checks are done in a fraction of the time they used to take, and we are able to get them to clients faster, without deprioritizing other parts of the important offer stage.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recently, we transitioned to a new recruitment software, and it was so easy for us to just switch to their integration with Refapp and continue working with our reference checks just as usual. It couldn’t be any smoother!",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved reference experience, higher response rates and professional reporting",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most often, the references have submitted their answers in less than two days and the insights we collect make for confident hiring decisions. In addition, we get great feedback from both references and clients who appreciate the process.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As a global company, Volvo Group Recruitment gets references from all over the world. Refapp is facilitating our reference checking in different time zones and saves us a lot of time. It is also very appreciated to submit a professional, transparent, and objective report to the Recruiting Manager!",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The system is incredibly user-friendly, and we find that candidates and referees complete their part without any issue or need for guidance from HR.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clarity to hire right",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We work closely with Refapp because we know joint clients value the integration, and we experience the benefits firsthand in our own hiring. It cuts down admin, keeps everything structured, and gives us the clarity we need to move forward with the right candidates without second guessing.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Refapp’s fraud detection adds real integrity to the process – and the reports give our clients confidence in every hire.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CEO & Principal Consultant",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 50,000 recruiters use Refapp for digital reference checks and background screening in their hiring processes.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations in staffing, the public sector, and private enterprises across more than 30 countries use Refapp.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrations | Use Refapp Seamlessly in Your Hiring Workflow",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our integrations make it easy to create a smooth workflow by initiating and managing your references through your existing HR and recruitment software.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Teamtailor has been disrupting HR technology and changing the way businesses around the world think about recruitment since 2013. The truth is: great hiring starts with you. Teamtailor empowers you to create an unforgettable candidate experience and build relationships with the right talent for your business with a comprehensive, easy to use, all-in-one applicant tracking system.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Workable is the world’s leading hiring and HR management platform. Companies who use Workable get from requisition to offer letter faster, with automated and AI-powered tools that source and suggest candidates, simplify decision making, streamline the hiring process, and enhance employee management.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Hire for the right person in every role. From sourcing to structured interviewing and onboarding, Greenhouse gives you the tools to make better, fairer and more confident hiring decisions.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "iCIMS is a leading global provider of talent acquisition solutions, helping organizations attract, engage, hire, and onboard top talent. Their platform offers a comprehensive ecosystem of recruiting tools, including an ATS, CRM, and onboarding solutions, used by thousands of companies worldwide to streamline and modernize their hiring processes.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Ashby is an all-in-one recruiting software that consolidates your ATS, analytics, scheduling, and CRM into a single solution.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Top-rated recruiting software that helps your talent teams scale recruitment efforts and hire people faster. Grow your business with Lever today.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Move beyond legacy software to a global talent acquisition suite that is usable on the inside, flexible and connected to the world, outside. The SmartRecruiters enterprise hiring platform delivers a boundless user experience that gives your team the talent, tools, and insights they need to achieve hiring success.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "is the global people platform that delivers simplicity at scale, with payroll, HR, benefits, talent, and workforce management all in one place.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "JobAdder is the ATS and CRM that recruiters love to use. It’s made for recruitment agencies, staffing firms and talent acquisition teams who want everything in one place without the complexity. Use it as a standalone platform or plug and play with 10+ add-ons, 100+ partners and 200+ job boards to create a custom recruitment management solution.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fountain unifies hiring, onboarding, scheduling, and retention in one seamless platform—powered by intelligent agents and designed to plug into your existing stack.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Transform Your Business with Bullhorn Recruitment Software. Bullhorn is the global leader in software for the staffing industry. More than 10,000 companies rely on Bullhorn’s cloud-based platform to power their staffing processes from start to finish.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Workday is a leading provider of enterprise cloud applications for finance and human resources, helping customers adapt and thrive in a changing world.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A powerful, flexible ATS that helps your team hire smarter - together. Collaborate seamlessly with your hiring team, customize workflows to match how you hire. make data-driven decisions and hit your hiring goals and stay compliant with GDPR and local labor laws.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "The leading talent acquisition platform for large employers. Jobylon empowers recruiters to hire great talents faster and with ease. Simplify your entire recruiting with a single talent acquisition platform and seamlessly integrate with your current workflows and fully customise them to handle even the most complex processes within your organisation.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Veremark is an innovative pre-hire checks and background screening service that helps you get to know your candidates better. Veremark enables you to seamlessly verify the credentials and integrity of existing or potential employees, while providing the best possible candidate experience.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Factorial is a leading HR software for SMEs that converts never-ending, manual processes into integrated, effective ones. The all-in-one, user-friendly platform automates traditionally time-consuming tasks making it easier for businesses to focus on what really matters: people and growth.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Adding the human touch to recruitment pays off. Difficult to attract and hire the right talents? Create an exceptional candidate experience and grow your business with TalentAdore’s AI-assisted end-to-end recruitment software.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Talentech's HR platform fosters development throughout the entire employee journey, from attracting the right candidates to recruiting, onboarding, engaging, developing, and offboarding employees. Operating in 7 countries with 200+ employees, we process over 10 million applications annually.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Intelliplan is the Nordic market-leading business system for staffing and recruitment. You get everything you need from sales, staffing, recruitment, and finance collected in the same system.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Visma Talent Solutions empowers organizations to build legendary workplaces through talent software that supports the whole employee lifecycle, from hello to goodbye. Our automated, precise, and transparent recruitment tool allows you to customize your processes for your unique needs.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Experience full control with Milient! Our all-in-one system seamlessly integrates project management, time recording, resource planning, quality assurance, and invoicing. Don't just manage projects, master them.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Higher is a scalable recruitment tool that improves the application process for candidates and increases efficiency and accuracy for companies. We give a better overall impression and a higher, qualitative representation of your candidates.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Strengthen your employer brand, attract and engage the best candidates, and improve the quality of your selection process with Workbuster. Combined with a careers page that effectively converts talent into candidates, you build a skills database that automatically matches people to vacancies.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment and Staffing",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment Systems & Assessment Providers",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your hiring process and reduce time-to-hire",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Compare candidates to others applying for similar roles",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Identify potential risk behaviors and avoid bad hires",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and share detailed, professional reference reports",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your hiring process today!",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "With Refapp, our reference checks are done in a fraction of the time they used to take, and we are able to get them to clients faster, without deprioritizing other parts of the important offer stage.",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Clarity to hire right",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "We work closely with Refapp because we know joint clients value the integration, and we experience the benefits firsthand in our own hiring. It cuts down admin, keeps everything structured, and gives us the clarity we need to move forward with the right candidates without second guessing.",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 1,500+ Organizations Worldwide",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Refapp is built with a strong focus on information security and privacy protection. Trusted by global enterprises, government agencies, and public organizations, the platform meets high standards for secure data handling and regulatory compliance.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "iCIMS is a leading global provider of talent acquisition solutions, helping organizations attract, engage, hire, and onboard top talent. Their platform offers a comprehensive ecosystem of recruiting tools, including an ATS, CRM, and onboarding solutions, used by thousands of companies worldwide to streamline and modernize their hiring processes.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Choose from research-based, role-specific questionnaires, customize the communication to match your brand and connect everything seamlessly with your ATS.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize communication with candidates, references, and clients to reflect your brand and visual identity.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Refapp is built with a strong focus on information security and privacy protection. Trusted by global enterprises, government agencies, and public organizations, the platform meets high standards for secure data handling and regulatory compliance.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Refapp is fully customizable—you can adjust language, wording, and design to reflect your brand. You can also use your own question templates and manage access through roles and permissions, ideal for larger or more complex organizations.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "JobAdder is the ATS and CRM that recruiters love to use. It’s made for recruitment agencies, staffing firms and talent acquisition teams who want everything in one place without the complexity. Use it as a standalone platform or plug and play with 10+ add-ons, 100+ partners and 200+ job boards to create a custom recruitment management solution.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Talent Acquisition Partner",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "iCIMS is a leading global provider of talent acquisition solutions, helping organizations attract, engage, hire, and onboard top talent. Their platform offers a comprehensive ecosystem of recruiting tools, including an ATS, CRM, and onboarding solutions, used by thousands of companies worldwide to streamline and modernize their hiring processes.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Move beyond legacy software to a global talent acquisition suite that is usable on the inside, flexible and connected to the world, outside. The SmartRecruiters enterprise hiring platform delivers a boundless user experience that gives your team the talent, tools, and insights they need to achieve hiring success.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "JobAdder is the ATS and CRM that recruiters love to use. It’s made for recruitment agencies, staffing firms and talent acquisition teams who want everything in one place without the complexity. Use it as a standalone platform or plug and play with 10+ add-ons, 100+ partners and 200+ job boards to create a custom recruitment management solution.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Take your business to the next level with a truly global AI-enabled suite that fuels the success of every individual and drives org agility at scale. Transform human capital management (HCM) with SAP SuccessFactors. Our HR software delivers experiences that help employees achieve their goals – and yours.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "The leading talent acquisition platform for large employers. Jobylon empowers recruiters to hire great talents faster and with ease. Simplify your entire recruiting with a single talent acquisition platform and seamlessly integrate with your current workflows and fully customise them to handle even the most complex processes within your organisation.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Veremark is an innovative pre-hire checks and background screening service that helps you get to know your candidates better. Veremark enables you to seamlessly verify the credentials and integrity of existing or potential employees, while providing the best possible candidate experience.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Talentech's HR platform fosters development throughout the entire employee journey, from attracting the right candidates to recruiting, onboarding, engaging, developing, and offboarding employees. Operating in 7 countries with 200+ employees, we process over 10 million applications annually.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Exclusive offer: 30% off employees and contractors for 12 months, plus a free global needs assessment.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "JobMatch Talent is an in-depth precision test for recruitment and development, for both individual employees and groups. The test is audited and certified by DNV. JobMatch competencies can be accessed by joint customers of Refapp and JobMatch via the Refapp CBR module.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Assessio is the Nordic region’s leading consulting company specialized in strategic HR with digital solutions for recruitment and development. Through tests and tools, we provide our customers with data-driven insights about both current and potential employees.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Created by a team of psychometricians, data scientists, and talent acquisition experts, Alva's psychometric tests combine leading science in psychological measurements with advanced machine learning. Together, they form a platform for candidate assessment that makes hiring better for everyone.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "SHL’s science and technology maximizes the potential of your company’s greatest asset – your people. From Talent Acquisition to Talent Management we help you create the diverse, agile, and innovative workforce you need to succeed in an unpredictable environment.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Specialist",
+    "url": "https://www.refapp.com/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "- Reference checking has been an important part of our recruitment process from the get-go. We have clients who require us to do reference checks on the applicants to verify collected information and ensure good hires. However, the many applicants we process daily and the manual work of a traditional reference check made it hard to keep the process structured and efficient.",
+    "url": "https://www.refapp.com/blog/bsa-solutions-combines-workable-and-refapp-to-collect-candidate-references-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "The Solution: Checking references digitally, starting from existing talent acquisition software",
+    "url": "https://www.refapp.com/blog/bsa-solutions-combines-workable-and-refapp-to-collect-candidate-references-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "- Last year, we transitioned to talent tracking software, Workable, and immediately saw significant effects in the efficiency and quality of our work. As part of this move, we explored the various integrations available through Workable and found Refapp.",
+    "url": "https://www.refapp.com/blog/bsa-solutions-combines-workable-and-refapp-to-collect-candidate-references-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Refapp Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Refapp",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Refapp?",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Refapp have?",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You're never on your own. With Refapp, you get personal onboarding, a dedicated Customer Success Manager, and fast support via email or phone.",
+    "url": "https://www.refapp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more!",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more.",
+    "url": "https://www.refapp.com/integration-partners",
+    "pass": 1
+   },
+   {
+    "quote": "With just a click in Workable, we initiate a candidate’s reference check through Refapp. The candidate is requested to submit the contact information to their references, and questionnaires are sent automatically. Refapp compiles the answers in a professional report that we can access through Workable and share with our clients by email. It’s very straightforward!",
+    "url": "https://www.refapp.com/blog/bsa-solutions-combines-workable-and-refapp-to-collect-candidate-references-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Smarter Digital Reference Checks for Confident Hiring | Refapp — Refapp offers flexible, usage-based pricing tailored to your organization’s size and hiring needs—no hidden fees or surprise costs. Whether you're a small team or a global enterprise, we’ll help you find a plan that fits. Book a free demo to explore Refapp in action and receive a personalized quote.",
+    "url": "https://www.refapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp | LinkedIn — Refapp is a talent intelligence solution which assists recruiters in making efficient, professional and secure reference checks on every candidate. Increase the accuracy of candidate information...",
+    "url": "https://jp.linkedin.com/company/refapp",
+    "pass": 3
+   },
+   {
+    "quote": "Our story - Refapp — Discover the story behind Refapp—how a need for smarter hiring sparked the development of a leading digital reference checking solution.",
+    "url": "https://www.refapp.com/our-story",
+    "pass": 3
+   },
+   {
+    "quote": "Digital referenstagning & Bakgrundskontroller med Refapp ... — Du startar referenstagningen direkt i Refapp eller via ditt rekryteringssystem. Kandidaten anger sina referensuppgifter och referenserna besvarar forskningsbaserade, rollspecifika frågor – enkelt via mobil eller dator.",
+    "url": "https://www.refapp.se/",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp Success Stories | See How Leading Teams Use Refapp — Refapp helps organizations worldwide simplify reference checking and make confident hiring decisions. The branding feature is also a huge benefit. Both our team and our clients love it!",
+    "url": "https://www.refapp.com/clients",
+    "pass": 3
+   },
+   {
+    "quote": "Blog | Customer Story - Refapp — Sep 7, 2026 · Discover how True North HR Consulting uses Refapp for internal hires and client engagements, and why it has become a core part of their reference-checking process.",
+    "url": "https://www.refapp.com/blog/tag/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp Revenue, Funding & Valuation — Refapp is a talent intelligence solution which assists recruiters in making efficient, professional and secure reference checks on every candidate. Increase the accuracy of candidate information and save time in your recruitment processes today!",
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp - Crunchbase Company Profile & FundingOur story - RefappRefapp - Crunchbase Company Profile & FundingRefapp - Overview, News & Similar companies | ZoomInfo.comRefapp — investors & funding | gritt.ioReceiptPal 2026 Company Profile: Valuation, Funding ... — Refapp is an app-based recruitment platform that allows companies to make efficient and in-depth reference checks of the right candidates",
+    "url": "https://www.crunchbase.com/organization/refapp",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp - Crunchbase Company Profile & Funding — Refapp automates reference checks with structured questionnaires, fraud detection, and ATS integration. A digital tool that automates the collection of structured reference feedback using role-specific questionnaires and benchmark data to assess candidate behavior and performance.",
+    "url": "https://www.crunchbase.com/organization/refapp-07db",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp - Overview, News & Similar companies | ZoomInfo.com — Refapp helps companies make smarter hiring decisions by simplifying reference checks. Their digital tool makes it easy to verify candidate backgrounds, ensure data privacy, and get reliable information quickly.",
+    "url": "https://www.zoominfo.com/c/refapp/458083419",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#Refapp\" - Results on X | Live Posts & Updates Results for \"#Refapp\" on X (Twitter). Find the latest posts, discussions, and updates about #Refapp. 3 results found.",
+    "url": "https://x.com/hashtag/Refapp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Refapp - LinkedIn Informative & Accurate Digital Reference Checking | Refapp is a talent intelligence solution which assists recruiters in making efficient, professional and secure reference checks on every...",
+    "url": "https://www.linkedin.com/company/refapp",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp - LinkedIn Refapp | Seamlessly perform informative and accurate reference checks on every candidate with Refapp.",
+    "url": "https://www.linkedin.com/products/refapp1-refapp/",
+    "pass": 3
+   },
+   {
+    "quote": "David Näsström – Digital referenstagning | Co-Owner at Refapp ...Emira Blomberg – Refapp | LinkedInWelcome back inside The Reference Room, edition 4 - LinkedInHey there, - LinkedInConnect Refapp with Workday Great news, we've ... - LinkedIn Nov 9, 2022 · Refapp's vision is \"the future of referencing\", i.e. to digitize, streamline and increase the validity of recruitment reference check processes. ",
+    "url": "https://se.linkedin.com/in/davidnasstrom/sv",
+    "pass": 3
+   },
+   {
+    "quote": "Emira Blomberg – Refapp | LinkedInWelcome back inside The Reference Room, edition 4 - LinkedInHey there, - LinkedInConnect Refapp with Workday Great news, we've ... - LinkedIn I create commercial and organizational coherence that drives growth and impact. I connect… · Erfarenhet: Refapp · Plats: Stockholm · 500+ kontakter på LinkedIn. Visa Emira Blombergs profil på... Mar 25, 2026 · In this episod",
+    "url": "https://se.linkedin.com/in/emira-blomberg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Refapp - A Must-Read! Jobylon just released their 2026 ... Nov 28, 2025 · Warmest Holiday Greetings from all of us at Refapp! 🧡 We wrapped up the year with our annual get-together in Gothenburg — good food, lots of laughs, and an intense review of our Slack highlights.",
+    "url": "https://www.facebook.com/100050039179746/posts/-a-must-read-jobylon-just-released-their-2026-recruitment-trends-report-looking-/1505018117842813/",
+    "pass": 3
+   },
+   {
+    "quote": "Refapp - Reference checking is an integral part of most ... Sep 27, 2022 · Refapp Sep 27, 2022 Reference checking is an integral part of most recruitment processes, but it is not always clear what are the best ways to get the most value from each check.💡",
+    "url": "https://www.facebook.com/100050039179746/posts/reference-checking-is-an-integral-part-of-most-recruitment-processes-but-it-is-n/620279379650029/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.refapp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.refapp.com/integration-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.refapp.com/book-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.refapp.com/blog/bsa-solutions-combines-workable-and-refapp-to-collect-candidate-references-automatically",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.refapp.com/hubfs/tt-web-logolindelow-and-partners-1%20(1).png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.refapp.com/hs-fs/hubfs/Logos/Partners%20(ATSs)/Icons/logo-icon-teamtailor.png?width=80&height=80&name=logo-icon-teamtailor.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.refapp.com/hs-fs/hubfs/Logos/Partners%20(ATSs)/Icons/logo-icon-greenhouse-inc-.jpeg?width=80&height=80&name=logo-icon-greenhouse-inc-.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.refapp.com/hs-fs/hubfs/Logos/Partners%20(ATSs)/Icons/logo-icon-bullhorn.jpeg?width=80&height=80&name=logo-icon-bullhorn.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAP%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin.info/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/refapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.vjw.digital.go.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/refapp-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/refapp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/refapp-07db",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Refapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/refapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/refapp1-refapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/davidnasstrom/sv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/emira-blomberg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100050039179746/posts/-a-must-read-jobylon-just-released-their-2026-recruitment-trends-report-looking-/1505018117842813/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100050039179746/posts/reference-checking-is-an-integral-part-of-most-recruitment-processes-but-it-is-n/620279379650029/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Refapp 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Refapp 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SAPジャパン",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.houjin.info/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://info.gbiz.go.jp/",
+    "https://appexchangejp.salesforce.com/learn/japan-resellers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Refapp Japan",
+   "results": [
+    "https://www.refapp.com/",
+    "https://jp.linkedin.com/company/refapp",
+    "https://www.vjw.digital.go.jp/",
+    "https://www.refapp.com/our-story",
+    "https://www.refapp.se/",
+    "https://refund.jptaxfree.net/",
+    "https://support.refapp.com/knowledge/how-do-use-refapp-for-background-checks"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Refapp manufacturing customer case study",
+   "results": [
+    "https://www.refapp.com/clients",
+    "https://www.refapp.com/blog/tag/customer-story",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.youtube.com/watch?v=CK5vJO3EE-c",
+    "https://www.linkedin.com/products/refapp1-refapp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Refapp white label OR reseller OR partner program",
+   "results": [
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://learn.microsoft.com/en-us/partner-center/enroll/enroll-as-indirect-reseller"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Refapp founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/refapp-revenue",
+    "https://www.crunchbase.com/organization/refapp",
+    "https://www.refapp.com/our-story",
+    "https://www.crunchbase.com/organization/refapp-07db",
+    "https://www.zoominfo.com/c/refapp/458083419",
+    "https://www.gritt.io/company/refapp/",
+    "https://pitchbook.com/profiles/company/521007-13"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Refapp",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/dashboard",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/sankaku_tech/n/nd2b204116ac4",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/nekosan_mine9/n/nbe9a4caf0911",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Refapp",
+   "results": [
+    "https://x.com/hashtag/Refapp",
+    "https://x.com/",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://help.x.com/en",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/evadentz/status/2115896420809216184"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Refapp",
+   "results": [
+    "https://www.linkedin.com/company/refapp",
+    "https://www.linkedin.com/products/refapp1-refapp/",
+    "https://se.linkedin.com/in/davidnasstrom/sv",
+    "https://se.linkedin.com/in/emira-blomberg",
+    "https://www.linkedin.com/pulse/welcome-back-inside-reference-room-edition-4-refapp-0y0of",
+    "https://www.linkedin.com/pulse/hey-refapp-sasye",
+    "https://www.linkedin.com/posts/refapp_connect-refapp-with-workday-great-news-activity-7135565225021333504-16ig"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Refapp",
+   "results": [
+    "https://www.facebook.com/100050039179746/posts/-a-must-read-jobylon-just-released-their-2026-recruitment-trends-report-looking-/1505018117842813/",
+    "https://www.facebook.com/100050039179746/posts/reference-checking-is-an-integral-part-of-most-recruitment-processes-but-it-is-n/620279379650029/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/1273556686108757/",
+    "https://www.facebook.com/refapp.ae/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Refapp note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Refapp X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部22頁・検索12回）"
+ }
+}

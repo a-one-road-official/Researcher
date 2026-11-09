@@ -1,0 +1,1159 @@
+{
+ "name": "RealWear",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T22:03:32.672243+00:00",
+ "official_url": "https://www.realwear.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The most powerful Smart Glasses for Frontline workers.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-voice-powered Smart Glasses that have been purpose built to increase productivity, safety and efficiency of workforces across multiple industries.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission? To empower your frontline with the most advanced, hands-free technology available.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s not only about boosting productivity and safety, but about elevating every work site to new levels of efficiency and operational excellence.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Re-define productivity and efficiency in an instant through cutting-edge technology, setting a new standard for hands-free innovation.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A world of software solutions designed to solve problems for frontline teams.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to our solutions experts to find out how RealWear can transform your workforce today.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost productivity and connect your frontline workers through solutions like PowerApps, Teams and Azure and other Microsoft products.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "TeamViewer Frontline is the enterprise productivity platform that integrates with RealWear to streamline manual work processes in any industry.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Allow users to access and share Augmented Reality experiences, that are rich with 3D content and IoT data on smartglasses across the enterprise.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enable workers access to live video streaming, remote expert and provide step-by-step guidance to resolve problems efficiently and accurately.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve problems quickly and efficiently, reduce downtime, increase productivity, enhance safety, and improve employee experience.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "OverIT offers advanced field collaboration features to assist, guide, and train remote workers leveraging AR content sharing and digital workflows.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "OverIT offers advanced field collaboration features to assist, guide, and train remote workers leveraging AR content sharing & workflows.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Empower employees to carry out hands-free inspections, improving overall safety while also reducing workloads and risk of error.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce response times, minimize unnecessary customer visits and improve first-time fix rates with AIRe Link by Konica Minolta.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Intoware provides a cutting-edge wearable technology platform designed to streamline operations, improve productivity, and ensure safety in industrial environments.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "WorkfloPlus was created for wearable technology and has been optimised to follow RealWear’s comprehensive guidelines to ensure a great user experience.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Plutomen Workflow is a Digital Inspection software that help frontline workers create, update, and distribute step by step checklists, allowing using industrial enterprises can digitize their maintenance, troubleshooting, and inspection sequences.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our App Marketplace to find the perfect application for your business tasks. With solutions from many of the worlds most popular platforms covering remote assistance, digital workflow, AI, training, and inspection, you’re sure to find just what you need.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Frontline tasks become safer and more efficient with RealWear’s connected worker solutions. From busy warehouse floors to the heights of wind turbines, our assisted reality devices keep workers productive, focused, and aware of their surroundings.",
+    "url": "https://www.realwear.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Improved Picking Accuracy",
+    "url": "https://www.realwear.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Knowledge Transfer & Training",
+    "url": "https://www.realwear.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to our solutions experts to find out how RealWear can transform your workforce today.",
+    "url": "https://www.realwear.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Frontline tasks can be made safer and more efficient through RealWear's connected worker solutions. From the floor of a fast-paced warehouses to the heights of wind turbines, our assisted reality devices are designed to help workers stay productive and better aware of the hazards that surround them.",
+    "url": "https://www.realwear.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "HARDI Reduces their Carbon Footprint through remote live support using RealWear running Wideum RemoteEye",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "RealWear gives Mars Petcare factory workers a safe, fast and hands-free solution to access digital files and improve training.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading intralogistics solution provider Raymond West uses RealWear and Microsoft Power Apps to improve customer support.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "UK-based vocational education provider Martec takes RealWear to drive inclusive education in Automotive for SEN students.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturer Adient deploys RealWear for more effective training and accuracy of operators during manufacturing of products.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide Community enhances quality of care, improved training methods and much more using RealWear smart glasses.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploying RealWear using AMA XpertEye to offer enhanced Remote Support for field tests, training and quality management.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Prysmian Group deployed RealWear running OverIT to drive remote acceptance testing and knowledge transfer.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to our solutions experts to find out how RealWear can transform your workforce today.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a global wearable technology company based in Vancouver, Washington, dedicated to empowering over 2 billion frontline workers worldwide. Our mission is to help them work safely, efficiently, and with confidence. Trusted by industry leaders like Ford and Goodyear, RealWear is recognized as the gold standard in industrial smart glasses.",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Creating a world where every frontline worker is equipped to ensure they can perform at their best, work safely, and take pride in the quality of their work.",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "To empower frontline workers with the best technology solutions and support to enhance their productivity, safety, and quality of work.",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "When founded in 2016 RealWear embarked on a mission to transform the industrial workspace. And since then we've been shipping real products that are solving real problems, for real people who are trying to get work done. Our journey began with the launch of our first smart glasses - the HMT-1 - the first step in our commitment to",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "improving safety and productivity",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At RealWear, doing the right thing is at the heart of our values. That means reducing our carbon footprint and using our technology to create positive change. We believe everyone has a role in shaping a sustainable future. Together, we can transform the way we work and make a lasting impact on our planet.",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Best Enterprise Solution",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Best Practices Award 2017",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "New Product Innovation",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Workplace Productivity",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We empower the industrial sector and create an engaged connected workforce that uses data to elevate, engage and empower its most essential element of the connected enterprise: People.",
+    "url": "https://www.realwear.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Just like our products, we embrace remote work. Our teams are defined not by physical space, but by connection, collaboration, and shared results. When we come together in person, it’s to engage, co create, and solve meaningful challenges, always with a focus on delivering results.",
+    "url": "https://www.realwear.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join a Lunch and Learn, attend a cool conference, or take on a new project. Our growth depends on your growth.",
+    "url": "https://www.realwear.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Say goodbye to cumbersome paperwork and distractions, and embrace a seamless, voice-activated approach to maximize productivity and enhance safety standards across your organization.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "By enabling real-time remote assistance, hands-free access to documentation, and augmented reality overlays for complex tasks, RealWear enhances efficiency and accuracy in service delivery, ensuring timely problem resolution and adherence to SLA response times.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The devices facilitate seamless data capture and reporting, integrating with service management systems for comprehensive tracking and compliance.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Transform Operational Efficiency and Employee Training",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enable workers to access step-by-step instructions, checklists and procedures directly in their field of view to simplify complex tasks, eliminating the need to pause and refer to manuals.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "New employees can benefit from immersive on-site training while they receive real-time instructions and feedback while performing tasks, vastly reducing the risk of errors.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "RealWear smart glasses enable your workforce to connect with remote experts for real time collaboration and troubleshooting.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "When businesses run 24/7, downtime simply isn't an option. The Thermal Camera Module visualizes heat signatures to allow workers to see the invisible and carry out preventative maintenance, to solve issues before they happen.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Download: How Manufacturers Improve Efficiency and Safety",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to our solutions experts to find out how RealWear can transform your workforce today.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Colgate-Palmolive, a multinational conglomerate, is a dominant player in the personal care, oral hygiene, household products, and petcare industries. With its products sold in over 200 countries and territories, the company operates more than 50 production and research facilities worldwide, maintaining high standards of operational efficiency and product quality.",
+    "url": "https://www.realwear.com/resources/case-studies/colgate-palmolive",
+    "pass": 1
+   },
+   {
+    "quote": "To overcome these challenges, Colgate-Palmolive integrated RealWear HMT-1 headsets, combined with Librestream Onsight Connect, into their operations.",
+    "url": "https://www.realwear.com/resources/case-studies/colgate-palmolive",
+    "pass": 1
+   },
+   {
+    "quote": "The RealWear HMT-1's micro-display and integration with Librestream enabled technicians to receive real-time guidance from SMEs, significantly improving the efficiency of equipment inspections and problem resolutions.",
+    "url": "https://www.realwear.com/resources/case-studies/colgate-palmolive",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "RealWear | Hands-free AR Industrial Smart Glasses",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Most Deployed Industrial Smart Glasses in the World.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating industry leading software solutions like TeamViewer, Microsoft and Zoom, RealWear addresses the unique challenges faced by industrial workers, allowing you to create a solution that fits all of your needs and requirements.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating leading software solutions like TeamViewer and Microsoft, RealWear addresses the unique challenges faced by industrial workers, allowing you to create a solution that fits all of your needs and requirements.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how RealWear industrial smart glasses can connect to your favourite apps to get work done more efficiently and accurately than ever before.",
+    "url": "https://www.realwear.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intoware provides a cutting-edge wearable technology platform designed to streamline operations, improve productivity, and ensure safety in industrial environments.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Plutomen Workflow is a Digital Inspection software that help frontline workers create, update, and distribute step by step checklists, allowing using industrial enterprises can digitize their maintenance, troubleshooting, and inspection sequences.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Frontline tasks become safer and more efficient with RealWear’s connected worker solutions. From busy warehouse floors to the heights of wind turbines, our assisted reality devices keep workers productive, focused, and aware of their surroundings.",
+    "url": "https://www.realwear.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Frontline tasks can be made safer and more efficient through RealWear's connected worker solutions. From the floor of a fast-paced warehouses to the heights of wind turbines, our assisted reality devices are designed to help workers stay productive and better aware of the hazards that surround them.",
+    "url": "https://www.realwear.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "RealWear gives Mars Petcare factory workers a safe, fast and hands-free solution to access digital files and improve training.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the leading UK higher education institutions City of Bristol College deploys RealWear to modernize automotive curriculum.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "UK-based vocational education provider Martec takes RealWear to drive inclusive education in Automotive for SEN students.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturer Adient deploys RealWear for more effective training and accuracy of operators during manufacturing of products.",
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a global wearable technology company based in Vancouver, Washington, dedicated to empowering over 2 billion frontline workers worldwide. Our mission is to help them work safely, efficiently, and with confidence. Trusted by industry leaders like Ford and Goodyear, RealWear is recognized as the gold standard in industrial smart glasses.",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "When founded in 2016 RealWear embarked on a mission to transform the industrial workspace. And since then we've been shipping real products that are solving real problems, for real people who are trying to get work done. Our journey began with the launch of our first smart glasses - the HMT-1 - the first step in our commitment to",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "for field workers worldwide. Today, we stand as a pioneer in industrial wearable technology,",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Best Automotive Solution",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Best Industrial Solution",
+    "url": "https://www.realwear.com/resources/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We empower the industrial sector and create an engaged connected workforce that uses data to elevate, engage and empower its most essential element of the connected enterprise: People.",
+    "url": "https://www.realwear.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This is more than a job. At RealWear, you will help define a new category of wearable technology and empower industrial workers worldwide. It’s an opportunity to build a career that transforms how industries operate across the globe.",
+    "url": "https://www.realwear.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Solutions | Industries | RealWear Smart Glasses",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Download: How Manufacturers Improve Efficiency and Safety",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The RealWear HMT-1's micro-display and integration with Librestream enabled technicians to receive real-time guidance from SMEs, significantly improving the efficiency of equipment inspections and problem resolutions.",
+    "url": "https://www.realwear.com/resources/case-studies/colgate-palmolive",
+    "pass": 1
+   },
+   {
+    "quote": "“In 2020, we successfully completed 63 virtual collaborations, leading to tremendous savings in travel costs. RealWear has become an essential tool in our manufacturing operations, and we're excited about its potential beyond the plant floor for further performance enhancements and efficiencies.”",
+    "url": "https://www.realwear.com/resources/case-studies/colgate-palmolive",
+    "pass": 1
+   },
+   {
+    "quote": "3342 Communications Equipment Manufacturing",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "334111 Computer Desktop & Server Manufacturing",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "Realwear is classified as operating in the Communications Equipment Manufacturing industry, NAICS Code 3342.",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Realwear and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Empower employees to carry out hands-free inspections, improving overall safety while also reducing workloads and risk of error.",
+    "url": "https://www.realwear.com/partner/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We are a global company that encourages employees to bring their whole selves to work. We believe in fostering a sense of individual purpose and shared commitment to excellence for both the team and the organization. Our culture inspires curiosity, empowers people to apply their skills every day, and supports continuous growth to help them develop and elevate their careers.",
+    "url": "https://www.realwear.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are a global company who hopes our employees bring their whole selves to work. We want our employees to have an individual sense of purpose and drive excellence for both their team and the organization. We cultivate an environment where employees are encouraged to be curious, to utilize their skills every day, and to develop and elevate their careers.",
+    "url": "https://www.realwear.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "New employees can benefit from immersive on-site training while they receive real-time instructions and feedback while performing tasks, vastly reducing the risk of errors.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "When businesses run 24/7, downtime simply isn't an option. The Thermal Camera Module visualizes heat signatures to allow workers to see the invisible and carry out preventative maintenance, to solve issues before they happen.",
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Warren Pruitt - VP Global Engineering, Colgate-Palmolive",
+    "url": "https://www.realwear.com/resources/case-studies/colgate-palmolive",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock filed revenue history, with growth over every year.",
+    "url": "https://www.inven.ai/data/companies/realwear-com",
+    "pass": 3
+   },
+   {
+    "quote": "What each deal was actually worth — valuation, revenue and EBITDA multiples, and the filings behind them",
+    "url": "https://www.inven.ai/data/companies/realwear-com",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Realwear - IncFact",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "Realwear Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "See Exact Annual Revenue",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the company's size? (Annual sales and employees)",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "Realwear's annual revenues are $10 - $100 million",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "(see exact revenue data)",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "Realwear Annual Revenue and Growth Rate",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Realwear's revenues are gauged from an analysis of company filings.",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "These are the largest companies by revenue. However, they may not have the largest market share in this industry if they have diversified into other business lines.",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "L3HARRIS TECHNOLOGIES",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "While some companies compete with neighboring businesses for customers, other companies may compete to attract skilled employees.",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Realwear and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "NSWは日本総代理店として、全国300社の販売代理店様とパートナー契約を結んでいます",
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "pass": 3
+   },
+   {
+    "quote": "「第30回日本遠隔医療学会学術大会」出展のご案内",
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "pass": 3
+   },
+   {
+    "quote": "「第38回 ものづくりワールド[東京] スマートメンテナンス展」出展のご案内（7/1～7/3）",
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "pass": 3
+   },
+   {
+    "quote": "【2025年11月27日 RealWear ARmazing TOKYO開催】新製品『RealWear Arc 3』を発表！",
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "pass": 3
+   },
+   {
+    "quote": "NSW株式会社は2025年12月10日、米RealWear, Inc.のウェアラブルデバイス「RealWear Arc 3」の提供を開始したと発表した",
+    "url": "https://innovatopia.jp/vrar/vrar-news/74270/",
+    "pass": 3
+   },
+   {
+    "quote": "NSWは「RealWear Navigatorシリーズ」とあわせて各種システム連携やアプリケーション開発を進めるほか、2026年1月21日～23日に東京ビッグサイトで開催される「スマート工場 EXPO」に出展し、日本初公開となる「RealWear Arc 3」を展示するとしている",
+    "url": "https://innovatopia.jp/vrar/vrar-news/74270/",
+    "pass": 3
+   },
+   {
+    "quote": "製品仕様、活用シーン、導入事例などを掲載",
+    "url": "https://innovatopia.jp/vrar/vrar-news/74270/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT、AI、FAによる製造革新をテーマにした東京ビッグサイトでの展示会",
+    "url": "https://innovatopia.jp/vrar/vrar-news/74270/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear（リアルウェア） | CAD Japan.com（大塚商会） | 製品",
+    "url": "https://www.cadjapan.com/products/items/realwear/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本のディーラー | ハンズフリー スマートグラス | RealWear — RealWearの販売のみならず、導入支援や各種アプリケーションとの連携・開発、IoTとの連携など、柔軟な対応で、お客様の「働き方改革」や「DXへの挑戦」を推進しております。",
+    "url": "https://www.realwear.com/dealer-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本における顧客事例 | ハンズフリー スマートグラス | RealWear — Questions? We'll put you on the right path. Speak to our solutions experts to find out how RealWear can transform your workforce today.",
+    "url": "https://www.realwear.com/jp/customer-case-studies-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear | 産業用スマートグラス — RealWearの活用ユースケースをご紹介します。 NSWはお客様が抱える課題の解決に向け、 スマートグラスの提供だけでなく、 豊富な導入実績をもとにした包括的なソリューションもご提案します。",
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear Arc 3、NSWが国内提供開始──AI音声OS搭載で現場作業を革新 — Dec 12, 2025 · NSW株式会社は2025年12月10日、米RealWear, Inc.のウェアラブルデバイス「RealWear Arc 3」の提供を開始したと発表した。 「RealWear Arc 3」は「Navigatorシリーズ」の性能を継承し、「Ari OS」AI音声優先OSを搭載した音声操作型のスマートグラスである。",
+    "url": "https://innovatopia.jp/vrar/vrar-news/74270/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear Japan 合同会社 - シスコ エコシステム パートナー ソリュー... — RealWear は産業向けスマートグラスのグローバルリーダーで、主力製品の Navigator 500 は日本企業 600 社以上に導入頂いています。 Navigator 500 は音声で操作するため、危ない現場や両手が必要な作業に適しています。",
+    "url": "https://www.cisco.com/c/m/ja_jp/solutions/partner-ecosystem/solution-catalog/realwear.html",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear | Hands-free AR Industrial Smart Glasses — Discover the future of hands-free technology with RealWear smart glasses. Rugged, voice-operated solutions for industrial use with AI capabilities.",
+    "url": "https://www.realwear.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear | ハンズフリーAR産業用スマートグラス — 業界をリードするソフトウェアソリューションを統合することで、TeamViewer、Microsoft、Zoomなどのソリューションを利用し、RealWearは産業労働者が直面する独自の課題に対処し、すべてのニーズと要件に適合するソリューションを作成できるようにしています。",
+    "url": "https://www.realwear.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear | 産業用スマートグラス — RealWear (リアルウェア)は音声コマンドでハンズフリー操作できるスマートグラスです。 拠点から離れていても、リアルタイムで現場作業員へのリモート支援を実現します。 軽量で頑丈なボディと高速で安定した通信が、 あらゆる環境での活躍を可能に。",
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear（リアルウェア） | CAD Japan.com（大塚商会） | 製品 — 100％音声操作に対応したハンズフリーアンドロイドスマートグラス、RealWear。 RealWearは過酷な環境でも耐えられるようIP-66およびMIL-STD-810Gをクリアしています。",
+    "url": "https://www.cadjapan.com/products/items/realwear/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear Japan合同会社 | iVEXLRealWear Shop販売パートナー | RealWear | 産業用スマートグラス — 現場作業者のハンズフリーを実現し、マニュアル類等をリアルタイムで確認できるヘッドマウント型ディスプレイRealWear Navigator500シリーズをはじめとする製品を、7000社以上のエネルギー、製造、食品・飲料自動車、通信等の幅広い業界・分野に提供してい ... RealWear empowers frontline workers with the best technology solutions and support to enhance their productivity, safety, and quality of work. RealWearの販売のみならず、導入支援や各種アプリケーションとの連携・開発、IoTとの連携な",
+    "url": "https://ivexl.com/company_overview.html?id=1351",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear - 2026 Company Profile, Team, Funding & Competitors ...RealWear — company profile, headcount and funding | InvenRealWear — Company Profile | The Company CheckAnnual Revenue, Growth & Competitor Analysis Report for ...RealWear – Performance Metrics & Competitor Intelligence – 2026RealWear - Overview, News & Similar companies | ZoomInfo.comRealWear 2026 Company Profile: Valuation, Investors",
+    "url": "https://tracxn.com/d/companies/realwear/__UQ1xNHFrJjJbqU1klaCwCNaKEsK87jl-ZMN1YKZqEhk",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear — company profile, headcount and funding | Inven — RealWear is a technology company specializing in wearable technology, particularly AI-voice-powered smart glasses designed for industrial applications. Their products enhance productivity and safety for frontline workers across various sectors, including manufacturing and construction.",
+    "url": "https://www.inven.ai/data/companies/realwear-com",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear — Company Profile | The Company Check — RealWear has raised $130.13 million across 9 funding rounds from investors including JPMorgan Chase, Kopin and Teradyne. The company has 19 employees as of March 28, 2024. RealWear has completed 2 acquisitions, including Almer Technologies and Genba.",
+    "url": "https://www.thecompanycheck.com/company/b/realwear/ej9ph6gax8401ivhk",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for ...RealWear – Performance Metrics & Competitor Intelligence – 2026RealWear - Overview, News & Similar companies | ZoomInfo.comRealWear 2026 Company Profile: Valuation, Investors ... — Oct 26, 2026 · Realwear has actively raised capital from investors. These investors may include private investors, venture capital firms, or other investment ve",
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear – Performance Metrics & Competitor Intelligence – 2026 — Per employee, RealWear is estimated to generate $400K in revenue. So far, investors have poured $118.6M into RealWear. RealWear's workforce currently comprises over 90+ employees. RealWear’s employee count declined by 33% last year. Disclosed rounds shown total $22M. Reported total funding is $118.6M.",
+    "url": "https://compworth.com/company/realwear",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RealWear (@realwearinc) / X Save big on RealWear Navigator® 500 and 520 and transform operational efficiency with RealWear's Rapid Operational Impact Kits. These cost-effective kits are a game-changer for frontline ops, making them faster, safer, and more efficient.",
+    "url": "https://x.com/realwearinc",
+    "pass": 3
+   },
+   {
+    "quote": "realwear (@realwear) / Posts / X realwear (@realwear) - Posts - | X (formerly Twitter) realwear Joined: Jun 14, 2010 0 0 4",
+    "url": "https://x.com/realwear",
+    "pass": 3
+   },
+   {
+    "quote": "\"#RealWear\" - Results on X | Live Posts & Updates RealWear has acquired Almer Technologies, a Swiss firm, to enhance wearable AR solutions aimed at improving productivity for frontline workers. This move marks a significant step in expanding AR technologies globally.",
+    "url": "https://x.com/hashtag/RealWear",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear on X: \"Pro Tip: The best way to demo RealWear is ... RealWear on X: \"Pro Tip: The best way to demo RealWear is simply to drop it on stage.\"",
+    "url": "https://x.com/realwearinc/status/1719465052598833588",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear (@realwearinc) / X RealWear's Rapid Operational Impact (ROI) Kits are your shortcut to operational excellence. From now until March 2024, you can get huge savings with our bundled solutions.",
+    "url": "https://x.com/realwearinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RealWear - LinkedIn As the pioneer of assisted reality wearable solutions, RealWear® works to engage, empower, and elevate the modern frontline professional to perform work tasks more safely, efficiently, and...",
+    "url": "https://www.linkedin.com/company/realwear-inc",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear | LinkedIn As the pioneer of assisted reality wearable solutions, RealWear® works to engage, empower, and elevate the modern frontline professional to perform work tasks more safely, efficiently, and...",
+    "url": "https://in.linkedin.com/company/realwear-inc",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear - LinkedIn RealWear, the global leader in the development, manufacture and distribution of the premier voice-driven, cloud-connected head mounted AR computer. RealWear focuses on industrial AR hardware ...",
+    "url": "https://www.linkedin.com/company/moziware瑞欧威尔",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear | 领英 - 领英 (中国) As the pioneer of assisted reality wearable solutions, RealWear® works to engage, empower, and elevate the modern frontline professional to perform work tasks more safely, efficiently, and...",
+    "url": "https://cn.linkedin.com/company/realwear-inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "RealWear | Vancouver WA - FacebookReal Wear Clothing - FacebookRealWear - Looking forward to meeting you all at the show ...In this new video, a #schlumberger worker inspects one of the ...Airbus Helicopters with RealWear and TeamViewer. #realwear# ...Realwear.mnl - Realwear.mnl added a new photo. - FacebookGo hands-free with a patented modular design that is 100% ... Aug 25, 2026 · Today RealWear",
+    "url": "https://www.facebook.com/RealWearInc/",
+    "pass": 3
+   },
+   {
+    "quote": "Real Wear Clothing - Facebook Sep 8, 2024 · Get that man some RealWear 🔥 Fall collection first drop ⚡️ Sizes Small - 2XL available",
+    "url": "https://www.facebook.com/officialrealwear/",
+    "pass": 3
+   },
+   {
+    "quote": "RealWear - Looking forward to meeting you all at the show ... Sep 8, 2023 · RealWear headsets and Microsoft Teams. → AR-optimized interface for the most effortless use → Instantly search all Teams contacts directly from the device → Enhanced in-call controls with improved zoom functionality and thermal vision Get it now on the RealWear App Marketplace. Metro Communications and 6 others 7 RealWear",
+    "url": "https://www.facebook.com/RealWearInc/posts/838994064291559/",
+    "pass": 3
+   },
+   {
+    "quote": "In this new video, a #schlumberger worker inspects one of the ...Airbus Helicopters with RealWear and TeamViewer. #realwear# ...Realwear.mnl - Realwear.mnl added a new photo. - FacebookGo hands-free with a patented modular design that is 100% ... Jan 17, 2020 · In this new video, a #schlumberger worker inspects one of the company's trucks with help from RealWear and Ubimax Digital Workflow connect",
+    "url": "https://www.facebook.com/RealWearInc/videos/in-this-new-video-a-schlumberger-worker-inspects-one-of-the-companys-trucks-with/149774466442998/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.realwear.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realwear.com/partner/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realwear.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realwear.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realwear.com/resources/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realwear.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realwear.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realwear.com/resources/case-studies/colgate-palmolive",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/Mqx9KplpxdQFUzqfoTorTrQaorc.jpg?width=1000&height=700",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/gwrCSUPuvKFKA7jGagqYzkyfU.png?width=1200&height=800",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/04h1s2la4bMnvszz4YYqN5F4K0.png?width=1200&height=800",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/vrar/vrar-news/74270/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dx.nsw.co.jp/realwear/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/products/items/realwear/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/realwear/__UQ1xNHFrJjJbqU1klaCwCNaKEsK87jl-ZMN1YKZqEhk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/realwear-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/realwear/ej9ph6gax8401ivhk",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://incfact.com/company/realwear-vancouver-wa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/realwearinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/realwear",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/RealWear",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/realwearinc/status/1719465052598833588",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/realwear-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/realwear-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/moziware瑞欧威尔",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/company/realwear-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RealWearInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/officialrealwear/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RealWearInc/posts/838994064291559/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RealWearInc/videos/in-this-new-video-a-schlumberger-worker-inspects-one-of-the-companys-trucks-with/149774466442998/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/realwearinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/realwear",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "RealWear 日本 導入",
+   "results": [
+    "https://www.realwear.com/dealer-in-japan",
+    "https://www.realwear.com/jp/customer-case-studies-japanese",
+    "https://dx.nsw.co.jp/realwear/",
+    "https://innovatopia.jp/vrar/vrar-news/74270/",
+    "https://www.cisco.com/c/m/ja_jp/solutions/partner-ecosystem/solution-catalog/realwear.html",
+    "https://de-denkosha.co.jp/product/it-solution/realwear/case/",
+    "https://dx.nsw.co.jp/realwear/partner/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RealWear 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.realwear.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RealWear Japan",
+   "results": [
+    "https://www.realwear.com/jp/",
+    "https://www.realwear.com/dealer-in-japan",
+    "https://dx.nsw.co.jp/realwear/",
+    "https://www.cadjapan.com/products/items/realwear/",
+    "https://ivexl.com/company_overview.html?id=1351",
+    "https://shop.realwear.com/",
+    "https://dx.nsw.co.jp/realwear/partner/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RealWear manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "RealWear white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://reseller.amazon.com/",
+    "https://dor.wa.gov/taxes-rates/retail-sales-tax/reseller-permits/how-verify-reseller-permits"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RealWear founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/realwear/__UQ1xNHFrJjJbqU1klaCwCNaKEsK87jl-ZMN1YKZqEhk",
+    "https://www.inven.ai/data/companies/realwear-com",
+    "https://www.thecompanycheck.com/company/b/realwear/ej9ph6gax8401ivhk",
+    "https://incfact.com/company/realwear-vancouver-wa/",
+    "https://compworth.com/company/realwear",
+    "https://www.zoominfo.com/c/realwear-inc/398239571",
+    "https://pitchbook.com/profiles/company/168566-50"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com RealWear",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/dobokutorisetsu/n/ne3a94a016790",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com RealWear",
+   "results": [
+    "https://x.com/realwearinc",
+    "https://x.com/realwear",
+    "https://x.com/hashtag/RealWear",
+    "https://x.com/realwearinc/status/1719465052598833588",
+    "https://about.x.com/en",
+    "https://x.com/JefeRegg",
+    "https://help.x.com/en/using-x/create-x-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com RealWear",
+   "results": [
+    "https://www.linkedin.com/company/realwear-inc",
+    "https://in.linkedin.com/company/realwear-inc",
+    "https://www.linkedin.com/company/moziware瑞欧威尔",
+    "https://cn.linkedin.com/company/realwear-inc",
+    "https://www.linkedin.com/in/kenbrenner",
+    "https://www.linkedin.com/pub/dir/Sebastian/Beetschen",
+    "https://www.linkedin.com/in/amy-allison-cpa-2661aa9"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com RealWear",
+   "results": [
+    "https://www.facebook.com/RealWearInc/",
+    "https://www.facebook.com/officialrealwear/",
+    "https://www.facebook.com/RealWearInc/posts/838994064291559/",
+    "https://www.facebook.com/RealWearInc/videos/in-this-new-video-a-schlumberger-worker-inspects-one-of-the-companys-trucks-with/149774466442998/",
+    "https://www.facebook.com/RealWearInc/videos/airbus-helicopters-with-realwear-and-teamviewerrealwear-latesttechnology-technol/958882775660202/",
+    "https://www.facebook.com/realwear.mnl/photos/1239147728233943/",
+    "https://www.facebook.com/RealWearInc/videos/go-hands-free-with-a-patented-modular-design-that-is-100-future-proof-introducin/438194414447792/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RealWear note 社長",
+   "results": [
+    "https://www.realwear.com/press-releases",
+    "https://www.realwear.com/jp/press-releases/realwear-announces-leadership-transition-as-sebastian-beetschen-named-new-ceo",
+    "https://tracxn.com/d/companies/realwear/__UQ1xNHFrJjJbqU1klaCwCNaKEsK87jl-ZMN1YKZqEhk",
+    "https://jp.investing.com/news/company-news/article-93CH-1241123",
+    "https://manufacturinginfocus.com/2026/06/realwear/",
+    "https://dx.nsw.co.jp/realwear/column/10923/",
+    "https://businessinfocusmagazine.com/2026/06/realwear/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RealWear X 投稿",
+   "results": [
+    "https://x.com/realwearinc",
+    "https://x.com/realwear",
+    "https://www.realwear.com/",
+    "https://www.realwear.com/jp/",
+    "https://www.youtube.com/watch?v=o8fhXOh1Ivk",
+    "https://www.instagram.com/realwearinc/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像3件／外部29頁・検索12回）"
+ }
+}

@@ -1,0 +1,1225 @@
+{
+ "name": "Rapid Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T22:03:53.793364+00:00",
+ "official_url": "https://www.rapidrobotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "18-Nov-2020 $5.47M $6.17M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "$700K $700K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "6,689,280 $0.000010  $0.82 $0.82 1x $0.82 21.82%",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "本サイトには A8.net 等のアフィリエイト広告が含まれます（該当箇所に「PR」と表示）",
+    "url": "https://physicalainews.jp/companies/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Primary type & automation activities this supplier delivers:",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Jiangsu's AI Innovations Showcase Rapid Robotics Training and Practical Applications",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Integration Enhances Precision Manufacturing for Midmarket Producers",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "SYNCERE Raises $11M Pre-Seed Led by a16z Speedrun",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Twin, Physical AI & Robot OEM Readiness 2026: Platforms, VLA Models, LLM Programming",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Robot Programming Languages 2026: From G-Code & FANUC KAREL to ROS2 — Complete History & Industrial Guide",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "ROBOTTODAY Weekly April 20 – 24, 2026",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "· Apr 25, 2026",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Maintain productivity in the",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to automate; but previous robotics solutions",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "get up and running on an important pad printing job, without systems",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "integration or training. Delphon soon started using RMOs to remove",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "foreign material during the assembly process for parts used to handle",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "By “hiring” RMOs at an OpEx friendly rate of $2100/month, Delphon was able to:",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "products that provide solutions for manufacturing processes in a wide range of markets.",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "But the Rapid Machine Operator (RMO) was different. RMOs could be “hired” for a mere $2,100 per month. They arrived ready to",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "work, with computer vision built-in and AI pre-trained to operate the kinds of machines TouchMark used. RMOs took days at most",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TouchMark put its first RMO on a task it had been running the same way for 30 years: applying pressure-sensitive adhesive to",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TouchMark had previously assigned an operator to each pad printing machine. Now it",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to work a pad printer",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting operators has been next to impossible.",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "with a big sticker price. TouchMark’s labor costs",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Delphon’s TouchMark pad printing division had been looking to automate for some time, to make its manufacturing processes",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Production became less expensive and more consistent. TouchMark’s RMOs",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sick days and PTO. That steady pace proved invaluable during the pandemic,",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TouchMark’s automation project went so well, its sister division, Gel-Pak, started using",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "RMOs to clean molded parts with an ionized air knife prior to assembly, saving $20,400 per",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "no programming, systems integration, specialized hardware",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturers to easily deploy a pretrained cobot in hours and",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "problems. The company is based in San Francisco, California.",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "For a company with a “show me” approach to automation, RMOs turned",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics Actuator CNC Case Study | Linkup Precision",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Loading page content...",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Anonymized Proof Case",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "A customer-style robotics actuator batch where drawing interpretation, fit-risk mapping, and inspection planning mattered as much as machining speed.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The project included multiple similar parts, fit classes, coaxiality requirements, and fine-thread risk that could not be handled like a simple upload-and-cut job.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Representative Hardware Context",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Inspection review visual for actuator prototype release evidence",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "This route keeps CNC and DFM as execution methods for advanced hardware programs. Linkup governs RFQ review, route planning, supplier coordination, and evidence expectations; partner execution and customer-owned architecture remain clearly separated.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial intake, engineering review, route planning, quality expectations, progress follow-up, and release coordination stay under Linkup governance.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Linkup selects and coordinates the execution route based on process fit, lead time, inspection access, and program sensitivity.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Qualified manufacturing partners execute approved machining, finishing, assembly, inspection, balancing, packaging, or shipment tasks by program scope.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Precision machining and finishing",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Approved partners execute CNC machining, finishing, and process-specific work under the route assumptions Linkup communicates.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Final product architecture, system-level validation, proprietary design intent, acceptance thresholds, and certification decisions remain customer-owned.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Final product and system architecture",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The buyer owns the final motor, robot joint, magnetic circuit, mechanism, firmware, and product architecture decisions.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The magnetic-to-motion thread is a manufacturing-scope map, not a claim of self-owned raw-material-to-robot production.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Linkup does not present itself as an owned raw magnet producer, owned motor factory, complete robot joint module factory, or raw-material-to-finished-robot producer.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "CAD-first templates for project context, CTQ assumptions, inspection needs, and acceptance gates.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Customer identity and proprietary dimensions remain confidential",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Automated quote workflows can be useful for simple geometry. These projects need someone to read the drawing, understand the assembly, and carry critical details into the manufacturing route.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The proof asset uses sanitized themes, not confidential customer drawings",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering interpretation",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Fit class or coaxiality is not prioritized",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Actuator CNC DFM Proof Detail",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "How MoveIt Pro Accelerated and Future-Proofed Rapid Robotics | PickNik",
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "How MoveIt Pro Accelerated and Future-Proofed Rapid Robotics’ Industrial Humanoids",
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics is reinvigorating American manufacturing by providing affordable automation solutions in real-time. Their end-of-line and logistics solutions optimize supply chains, reduce operational overhead, and remove the complexity from robotic automation — giving their customers the power to focus on growing their business, not maintaining robots.",
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ラピッドロボティクス | 日本フィジカルAI新聞",
+    "url": "https://physicalainews.jp/companies/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフィジカルAIを、日本語で",
+    "url": "https://physicalainews.jp/companies/rapid-robotics",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Physical AI",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "San Francisco-based maker of affordable robotic workcells for SMB manufacturers; assets acquired by RobCo in September 2025.",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Robotics Gains FCC Clearance for Five Industrial Robot Platforms in the U.S.",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Integration Enhances Precision Manufacturing for Midmarket Producers",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Robot Classification: 5-Dimension Framework & Market Data",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Samsung Hosts Hyundai Motor Executives to Strengthen Ties in Automotive Technology",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Machina Secures $9 Million to Build LUCAS Drones in Containerized Micro Factories",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "RobotBank Initiates Development of Physical AI-Based Quadruped Robot for Industrial Use",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Embodied AI Launches AIR, a Humanoid Robot Achieving 95% Task Success in Factories",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Embodied AI Launches AIR, a Collaborative Wheeled Robot for Factory Environments",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Embodied AI Launches Air, a Humanoid Robot for Learning Factory Tasks from Workers",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Robot Programming Languages 2026: From G-Code & FANUC KAREL to ROS2 — Complete History & Industrial Guide",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "industrial automation",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Redeploy 8 operators",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "With machine operators impossible to find,",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Hayward manufacturer Delphon was eager",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing center that specializes in engineered polymer and adhesive solutions for the",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "products that provide solutions for manufacturing processes in a wide range of markets.",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "same time. The other two operators were redeployed elsewhere in TouchMark’s warehouse.",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "VP Manufacturing Operations, Delphon",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Director of TouchMark Manufacturing",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Recruiting operators has been next to impossible.",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Delphon’s TouchMark pad printing division had been looking to automate for some time, to make its manufacturing processes",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "faster, more efficient and more consistent. Another driving factor was the difficulty of finding machine operators in the ultra-",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "when other manufacturers were struggling to staff their machines.",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturers to easily deploy a pretrained cobot in hours and",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "robotics and manufacturing expertise with a SaaS business",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Two RMOs now do the work of five Gel-Pak operators,",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics Actuator CNC Case Study | Linkup Precision",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics Actuator CNC Case Study",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Route Boundary",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Qualified manufacturing partners execute approved machining, finishing, assembly, inspection, balancing, packaging, or shipment tasks by program scope.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Linkup can help align manufacturing evidence, but final performance validation and certification decisions depend on the buyer-defined system test.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The magnetic-to-motion thread is a manufacturing-scope map, not a claim of self-owned raw-material-to-robot production.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Linkup does not present itself as an owned raw magnet producer, owned motor factory, complete robot joint module factory, or raw-material-to-finished-robot producer.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "How magnetic assemblies, motor-adjacent CNC, robot interfaces, and pilot handoff fit one bounded manufacturing thread.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing-assisted factory notes translated engineering intent into shop-floor execution",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Customers who need fast turnaround but cannot risk shallow manufacturing review",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Automated quote workflows can be useful for simple geometry. These projects need someone to read the drawing, understand the assembly, and carry critical details into the manufacturing route.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Critical fit features were extracted from drawings before manufacturing release",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Critical features, thread risks, and similar-part differences were translated into factory instructions.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing release",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Factory treats similar variants as the same part",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Prototype-to-Pilot Manufacturing",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "It shows why complex prototype work needs human drawing interpretation before fast manufacturing execution.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "How MoveIt Pro Accelerated and Future-Proofed Rapid Robotics’ Industrial Humanoids",
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics is reinvigorating American manufacturing by providing affordable automation solutions in real-time. Their end-of-line and logistics solutions optimize supply chains, reduce operational overhead, and remove the complexity from robotic automation — giving their customers the power to focus on growing their business, not maintaining robots.",
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer Builds on PickNik’s MoveIt Pro Platform to go Beyond PLCs",
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of industrial automation software and hardware designed to deploy robotic arms in factories.",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of industrial automation software and hardware designed to deploy robotic arms in factories. The company's tec",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "RBC Signals is a global space communications provider serving satellite operators in GEO, LEO, & MEO with an…",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Digital Twin, Physical AI & Robot OEM Readiness 2026: Platforms, VLA Models, LLM Programming",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "San Francisco-based maker of affordable robotic workcells for SMB manufacturers; assets acquired by RobCo in September 2025.",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, RobCo acquired Rapid Robotics' assets — including hardware, customer accounts, and team — to anchor its US expansion and open a San Francisco headquarters.",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Guangdong Huayan Robotics Files for Hong Kong Mainboard IPO",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "But the Rapid Machine Operator (RMO) was different. RMOs could be “hired” for a mere $2,100 per month. They arrived ready to",
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Automated quote workflows can be useful for simple geometry. These projects need someone to read the drawing, understand the assembly, and carry critical details into the manufacturing route.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple actuator-related components arrived with STEP and PDF drawing context.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The sample route carried CTQ and mix-up warnings into machining and inspection planning.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "8. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics has 59 total employees.",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rapid Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Rapid Robotics is",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "When was Rapid Robotics acquired?",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics was acquired on 09-Sep-2025.",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Rapid Robotics?",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics was acquired by",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Jordan Kretchmer is listed as CEO at Rapid Robotics.",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Rapid Robotics have?",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rapid Robotics, Inc - LinkedIn — Rapid Robotics: Human instincts. Robotic performance. With a focus on end-of-line robotic solutions for packing, palletizing, kitting, and more across industries, Rapid Robotics'...",
+    "url": "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics - RobotToday — Jul 29, 2026 · Rapid Robotics, founded in 2019 by Jordan Kretchmer (CEO) and Ruddick Lawrence (CTO) and headquartered in San Francisco, California, developed affordable robotic workcells targeting small and medium-sized US manufacturers facing labor shortages.",
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics: Alps Logistics’ 5-Week Warehouse Revolution — Jan 6, 2026 · For innovation leaders and strategy executives in the US and Europe, this case study is not just a success story from Japan; it is a blueprint for the future of supply chain resilience.",
+    "url": "https://en.logishift.net/2026/01/06/rapid-robotics-alps-logistics-5-week-warehouse-revolution/",
+    "pass": 3
+   },
+   {
+    "quote": "MachineLearn.com - Robotics Startup Rapid Robotics Shuts Down ... — May 31, 2026 · In this post, we’ll explore the factors that led to this dramatic closure, assess the fallout for stakeholders, and distill key lessons for other startups and investors in the robotics ecosystem. The decision to close operations was the culmination of multiple internal and external pressures.",
+    "url": "http://www.machinelearn.com/2026/05/machinelearncom-robotics-startup-rapid.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics Actuator CNC Case Study | Linkup Precision — An anonymized proof case showing how engineer-reviewed DFM helps tolerance-critical robotics motion hardware move from CAD to usable CNC samples.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "How MoveIt Pro Accelerated and Future-Proofed Rapid Robotics ... — With clear customer use cases identified and hardware development underway, MoveIt Pro’s pre-built advanced motion capabilities gave Rapid Robotics a fast development environment for dual arm and mobile manipulation.",
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics, Inc on LinkedIn: Robotic Arm Automation Case ... — Learn how Delphon automated pad printing with turnkey robotic arms launched in weeks, saving $20K/month. Download the case study now.",
+    "url": "https://www.linkedin.com/posts/rapid-robotics-inc_download-pad-printing-automation-case-study-activity-6954868928498081794-6aEr",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics uses Duro’s Agile PLM to Build In-house ... — Jan 9, 2026 · By leveraging a PLM with agile workflows, Rapid Robotics quickly developed a highly scalable automation approach, building reusable robots while ensuring efficient change management and cross-team alignment.",
+    "url": "https://durolabs.co/success-story/rapid-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics 2026 Company Profile: Valuation, Investors ...Rapid Robotics - 2026 Company Profile, Team, Funding ... - TracxnRapid Robotics — Company Profile | The Company CheckRapid Robotics: Funding, Investors & Team (Oct 2026)Rapid Robotics - Overview, News & Similar companies ...Rapid Robotics – Strategic Position & Company Metrics – 2026Rapid Robotics - Crunchbase Company Profile & Funding —",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 24, 2026 · Rapid Robotics is an acquired company based in San Francisco (United States), founded in 2019 by Jordan Kretchmer and Ruddick Lawrence. It operates as a Provider of robotic automation platform for manufacturing companies. Rapid Robotics has raised $54.2M in funding from investors like New Enterprise Associates, Grey",
+    "url": "https://tracxn.com/d/companies/rapidrobotics/__wZkDKhjG2XmGH4xGavfAW8q9LAA5pWn0OCwC8F_rUHM",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics — Company Profile | The Company Check — Rapid Robotics is a company based in San Francisco (United States) founded in 2019 by Ruddick Lawrence and Jordan Kretchmer was acquired by RobCo in September 2025. Rapid Robotics has raised $54.2 million across 3 funding rounds from investors including Kleiner Perkins, Tiger Global and NEA.",
+    "url": "https://www.thecompanycheck.com/company/b/rapid-robotics/4ych5vj5gnec04u0e",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics: Funding, Investors & Team (Oct 2026) — With Rapid’s robotic machine operators, one employee can supervise as many as eight machines at a time using only an iPad. The company was founded in 2019 and is headquartered in San Francisco, California.",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics - Overview, News & Similar companies ... — Gather financial insights about Rapid Robotics, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/rapid-robotics/536129812",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "For NDA-sensitive drawings, include your revision ID and target timeline in the first email.",
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Rapid Robotics team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "China's rapid robotics progress from 2025 to 2026 stems from ... On IP theft: Western agencies like Five Eyes have accused China of stealing tech in robotics/AI, but China denies this and has strengthened IP laws with more patents and courts.",
+    "url": "https://x.com/grok/status/2023970666500788252",
+    "pass": 3
+   },
+   {
+    "quote": "@rapidrobotics | X The latest posts from @rapidrobotics",
+    "url": "https://x.com/rapidrobotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rapid Robotics, Inc - LinkedIn With a focus on end-of-line robotic solutions for packing, palletizing, kitting, and more across industries, Rapid Robotics' proprietary real-time motion control systems are powered by...",
+    "url": "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics - LinkedIn Rapid Robotics is a consultancy specialising in helping businesses just like yours leverage the latest cutting-edge technologies to streamline operations, boost productivity, and maximise ...",
+    "url": "https://www.linkedin.com/company/rapid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics, Inc’s Post Read their discussion below to learn how our new Rapid iD platform leverages #MachineVision, #MachineLearning and #GenAI to give robots human-like instincts, enabling them to proactively learn...",
+    "url": "https://www.linkedin.com/posts/rapid-robotics-inc_how-rapidid-machine-vision-technology-gives-activity-7234647843683065858-fAGX",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Machine Operator - Rapid Machine Operator at Rapid ...Get ready - The Rapid 3PRO is almost here | Rapid Robotics, IncThank you, PickNik Robotics! By integrating MoveIt Pro with ...Kimberley Losey (she, her) - Founder & CEO | Venture ... Rapid Machine Operator at Rapid Robotics, inc · Greetings, I'm RMO, an automated robotic machine operator who excels at simple and repeatable tasks in manufa",
+    "url": "https://www.linkedin.com/in/rapid-machine-operator",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rapid Robotics | San Francisco CA - FacebookRapid Robotics - FacebookRapid Robotics - FacebookRapid Robotics - Human instincts. Industrial performance ...Rapid Robotics - Rapid Robotics added a new photo. - FacebookRapid Robotics Australia | Perth WA - FacebookHuman instincts, robotic performance. That’s the mantra ... May 7, 2025 · Blending the power of #GenerativeAI and 3D vision technology, Rap",
+    "url": "https://www.facebook.com/RapidRoboticsUS/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics - FacebookRapid Robotics - FacebookRapid Robotics - Human instincts. Industrial performance ...Rapid Robotics - Rapid Robotics added a new photo. - FacebookRapid Robotics Australia | Perth WA - FacebookHuman instincts, robotic performance. That’s the mantra ... Aug 9, 2021 · Rapid Robotics is feeling important. Understanding the impact of robotics in developing nations is key for ro",
+    "url": "https://www.facebook.com/rapidrobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics - Facebook Oct 14, 2020 · Rapid Robotics. Industrial Automation Specialists within the F&B, Logistic and Manufacturing Sectors",
+    "url": "https://www.facebook.com/RapidRobotic/",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Robotics - Human instincts. Industrial performance ... Check it out to learn how our new Rapid iD platform leverages Machine Learning, Machine Vision and Generative AI to give robots human-like instincts, enabling them to proactively learn and react to every step of picking and placing.",
+    "url": "https://www.facebook.com/RapidRoboticsUS/posts/human-instincts-industrial-performance-the-rapid-3pro-is-set-to-revolutionize-en/647000944821107/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.atom.com/name/RapidRobotics",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://36kr.jp/502923/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/10/20/382539.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/companies/rapid-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.nicoxz.com/articles/rapidus-foundry-speed-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logishift.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/industries/industrials/our-insights/japans-100-billion-opportunity-in-general-purpose-robotics",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://picknik.ai/case-study-rapid-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rapid-robotics-inc_download-pad-printing-automation-case-study-activity-6954868928498081794-6aEr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1390590848697838/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m01/cisco-launches-new-cisco-360-partner-program-built-with-partners-for-the-ai-era.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433091-44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rapidrobotics/__wZkDKhjG2XmGH4xGavfAW8q9LAA5pWn0OCwC8F_rUHM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/rapid-robotics/4ych5vj5gnec04u0e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/grok/status/2023970666500788252",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rapid-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rapid-robotics-inc_how-rapidid-machine-vision-technology-gives-activity-7234647843683065858-fAGX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rapid-machine-operator",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RapidRoboticsUS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rapidrobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RapidRobotic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RapidRoboticsUS/posts/human-instincts-industrial-performance-the-rapid-3pro-is-set-to-revolutionize-en/647000944821107/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rapidrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rapid Robotics 日本 導入",
+   "results": [
+    "https://36kr.jp/502923/",
+    "https://robotstart.info/article/2026/10/20/382539.html",
+    "https://physicalainews.jp/companies/rapid-robotics",
+    "https://research.nicoxz.com/articles/rapidus-foundry-speed-strategy",
+    "https://www.jetro.go.jp/invest/investment_environment/success_stories/realtime_robotics.html",
+    "https://prtimes.jp/main/html/rd/p/000000166.000021229.html",
+    "https://humanoidrobot-world.com/japan.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapid Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Rapid Robotics Japan",
+   "results": [
+    "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "https://en.logishift.net/2026/01/06/rapid-robotics-alps-logistics-5-week-warehouse-revolution/",
+    "https://www.mckinsey.com/industries/industrials/our-insights/japans-100-billion-opportunity-in-general-purpose-robotics",
+    "http://www.machinelearn.com/2026/05/machinelearncom-robotics-startup-rapid.html",
+    "https://www.blackboxjp.com/news/rapyuta-robotics-secures-new-financing-to-expand-warehouse-automation",
+    "https://www.rapyuta-robotics.com/ja/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapid Robotics manufacturing customer case study",
+   "results": [
+    "https://www.firebrand.marketing/wp-content/uploads/2023/03/Rapid-Robotics-Case-Study.pdf",
+    "https://linkupprecision.com/rapid-robotics-actuator-cnc-case-study",
+    "https://picknik.ai/case-study-rapid-robotics/",
+    "https://www.linkedin.com/posts/rapid-robotics-inc_download-pad-printing-automation-case-study-activity-6954868928498081794-6aEr",
+    "https://durolabs.co/success-story/rapid-robotics/",
+    "https://ifr.org/case-studies/industry-robots-case-studies",
+    "https://www.linkedin.com/posts/rapid-robotics-inc_robotic-arm-automation-case-study-delphon-activity-6961123259002085376-Appd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapid Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m01/cisco-launches-new-cisco-360-partner-program-built-with-partners-for-the-ai-era.html",
+    "https://www.ibm.com/partnerplus",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://www.databricks.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapid Robotics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/433091-44",
+    "https://tracxn.com/d/companies/rapidrobotics/__wZkDKhjG2XmGH4xGavfAW8q9LAA5pWn0OCwC8F_rUHM",
+    "https://www.thecompanycheck.com/company/b/rapid-robotics/4ych5vj5gnec04u0e",
+    "https://fundediq.co/rapid-robotics-rapidrobotics-com-funding/",
+    "https://www.zoominfo.com/c/rapid-robotics/536129812",
+    "https://compworth.com/company/rapid-robotics",
+    "https://www.crunchbase.com/organization/rapid-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rapid Robotics",
+   "results": [
+    "https://note.com/note0701525/n/n01f72875577e?hl=en",
+    "https://note.com/deeptech_japan/n/n1e80e07c8086",
+    "https://note.com/yasuhitoo/n/nbb172b9520ad",
+    "https://note.com/eigodeyogaku/n/nc032ee83618e",
+    "https://note.com/mmamagot/n/n1e223587d7c2?hl=en",
+    "https://note.com/hiraichiro/n/n5b2f71801fe9",
+    "https://note.com/yasuhitoo/n/nbb172b9520ad?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rapid Robotics",
+   "results": [
+    "https://x.com/grok/status/2023970666500788252",
+    "https://x.com/fly51fly/status/2103597276862238720",
+    "https://x.com/TeamRapidRW",
+    "https://x.com/genrobotics_ai",
+    "https://x.com/Ken_Goldberg/status/2100986412762087909",
+    "https://x.com/i/trending/2091958935116738787",
+    "https://x.com/Sphero"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rapid Robotics",
+   "results": [
+    "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "https://www.linkedin.com/company/rapid-robotics",
+    "https://www.linkedin.com/posts/rapid-robotics-inc_how-rapidid-machine-vision-technology-gives-activity-7234647843683065858-fAGX",
+    "https://www.linkedin.com/in/rapid-machine-operator",
+    "https://www.linkedin.com/posts/rapid-robotics-inc_thank-you-picknik-robotics-by-integrating-activity-7315487517632262145-mufW",
+    "https://www.linkedin.com/posts/rapid-robotics-inc_get-ready-the-rapid-3pro-is-almost-here-activity-7318678022398648321-dWu3",
+    "https://www.linkedin.com/in/kimberleylosey"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rapid Robotics",
+   "results": [
+    "https://www.facebook.com/RapidRoboticsUS/",
+    "https://www.facebook.com/rapidrobotics/",
+    "https://www.facebook.com/RapidRobotic/",
+    "https://www.facebook.com/RapidRoboticsUS/posts/human-instincts-industrial-performance-the-rapid-3pro-is-set-to-revolutionize-en/647000944821107/",
+    "https://www.facebook.com/RapidRoboticsUS/photos/216944944493378/",
+    "https://www.facebook.com/RapidRoboticsAustralia/",
+    "https://www.facebook.com/RapidRoboticsUS/videos/rapid-robotics/362178326869579/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapid Robotics note 社長",
+   "results": [
+    "https://robottoday.com/suppliers-discovery/rapid-robotics",
+    "https://www.therobotreport.com/rapid-robotics-ceo-explains-use-ai-accelerate-picking/",
+    "https://pitchbook.com/profiles/company/433091-44",
+    "https://www.linkedin.com/company/rapid-robotics-inc/",
+    "https://www.mmh.com/article/rapid_robotics_taps_kimberley_losey_as_ceo",
+    "https://www.businesswire.com/news/home/20240708113068/en/Rapid-Robotics-Taps-Kimberley-Losey-for-CEO",
+    "https://www.cbinsights.com/company/rapid-robotics/people"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapid Robotics X 投稿",
+   "results": [
+    "https://x.com/rapidrobotics",
+    "https://www.xueshu.com/sci/49077/03.html",
+    "https://www.ieee-ras.org/publications/ra-l/",
+    "https://robo-index.github.io/zh/guides/",
+    "https://zhuanlan.zhihu.com/p/688622819",
+    "https://zhuanlan.zhihu.com/p/1896268216097026919",
+    "https://note.com/miraispark/n/n075e5616fd14"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

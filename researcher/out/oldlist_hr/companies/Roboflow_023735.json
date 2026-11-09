@@ -1,0 +1,1527 @@
+{
+ "name": "Roboflow",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-09T21:36:55.510838+00:00",
+ "official_url": "https://roboflow.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email Support",
+    "value": "-- Not included Included",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Seed-2",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "15,253,020 $0.000100  $0.01 $0.01 1x $0.01 4.67%",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "23,546,820 $0.000100  $0.09 $0.09 1x $0.09 7.2%",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Over half the Fortune 100 and 80,000 organizations go from idea to production.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboflow turns images, videos, and streams into intelligence.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BNSF, the largest freight operator in North America, moves 4.8 million carloads a year. Vision AI now runs their intermodal yard inventory and inspects train wheels automatically, across thousands of miles of network.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plant floor — edge inference on production line",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "USG, the largest manufacturer of gypsum products, runs edge-optimized vision AI across a network of more than 50 manufacturing sites to prevent unplanned downtime and keep quality consistent.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pella, one of the largest window and door makers in the U.S., is putting vision AI on its production lines to spot defects earlier and cut waste.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get into production today",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process live video or images with high-speed vision inference, in the cloud or edge.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Opens the Roboflow plugin listing. Sign in if prompted and confirm the install on Cursor to add MCP and skills.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Opens the Roboflow plugin listing. Install the plugin and sign in to Roboflow when prompted to connect your account.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Opens the Roboflow plugin listing shared by ChatGPT and Codex. Install the plugin and sign in to Roboflow when prompted to connect your account.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "gemini mcp add --scope project --transport http roboflow https://mcp.roboflow.com/mcp",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For heads of AI, operations leaders, and enterprise teams. Bring a known problem, or work with us to find the first one worth taking on.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid unplanned downtime, automate quality inspections, and empower your workforce with strategic insights. From processing raw material to delivering finished products, transform every stage of your manufacturing process with real-time, edge-ready vision AI.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Lower customer return rate with improved product quality",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Solve business challenges immediately with ready-made workflows, trained models, and proven solutions.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Guide and optimize processes",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Control machinery, guide robots, assist employees with process execution. Measure cycle times, gain real-time visibility, and identify areas to improve factory layout.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Predict maintenance, avoid downtime",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor equipment status, detect performance anomalies, or catch foreign objects in machinery. Proactively schedule maintenance and reduce downtime.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize supply chain operations by tracking inventory levels of materials and finished products. Improve inventory accuracy and get alerts when stock is low.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Improve safety compliance",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify unsafe equipment, hazardous material in workspaces, gas leaks, and people in red zones. Avoid accidents and improve regulatory compliance.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President & CIO, Pella Corporation",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automate processes across your business",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline your entire production process, whether it’s grading raw materials, avoiding unplanned downtime, or verifying packaging integrity.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify process anomalies",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Predict equipment maintenance",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Track safety procedures",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor process execution",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Use our pre-built devices or bring your own. Ideal for vehicles or facilities without internet connectivity.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Vision AI Center of Excellence Blueprint",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Perform thousands of inferences per minute and keep up with fast-paced production.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-ready management",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Single Sign-On (SSO) integration streamlines user authentication, while role-based access control provides granular permissions settings for admins.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Data is protected by enterprise-grade security features, such as encryption at rest and transit, SOC 2 Type 2 compliance, and HIPAA-ready infrastructure.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Build vision-powered workflows to control machinery, update databases, and connect to enterprise management systems via standard protocols like MQTT, OPC-UA, REST APIs, and webhooks.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Lower customer return rate with improved product quality",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President & CIO, Pella Corporation",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automate processes along the value chain from raw material inspection to verifying packages leaving the facility.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Protective gear check",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Use our pre-built devices or bring your own. Ideal for vehicles or facilities without internet connectivity.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Vision AI Center of Excellence Blueprint",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-ready management",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Single Sign-On (SSO) integration streamlines user authentication, while role-based access control provides granular permissions settings for admins.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Data is protected by enterprise-grade security features, such as encryption at rest and transit, SOC 2 Type 2 compliance, and HIPAA-ready infrastructure.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Build vision-powered workflows to control machinery, update databases, and connect to enterprise management systems via standard protocols like MQTT, OPC-UA, REST APIs, and webhooks.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Roboflow is built for security, with enterprise grade infrastructure and compliance always in mind.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "View more enterprise features",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our team will help you start solving business problems on the first call.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing and specifications",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Roboflow Pricing: Free, Core & Enterprise Plans",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get your vision use-case built, deployed, monitored and providing business value, all on one platform with Roboflow",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Stream prices are for the 2B version of Qwen3-VL.",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Extend your usage with prepaid or credit packs",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Models that iterate and improve themselves with every inference",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Workspace and models are private",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Best for Production Deployments",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Vehicle manufacturing",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Component manufacturing",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plant floor — edge inference on production line",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "USG, the largest manufacturer of gypsum products, runs edge-optimized vision AI across a network of more than 50 manufacturing sites to prevent unplanned downtime and keep quality consistent.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pella, one of the largest window and door makers in the U.S., is putting vision AI on its production lines to spot defects earlier and cut waste.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine models, orchestrate actions, update databases, and plug into industrial systems.",
+    "url": "https://roboflow.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Industrial Manufacturing: Visual Intelligence for Smart Factories | Roboflow",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock manufacturing excellence with vision AI",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid unplanned downtime, automate quality inspections, and empower your workforce with strategic insights. From processing raw material to delivering finished products, transform every stage of your manufacturing process with real-time, edge-ready vision AI.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Control machinery, guide robots, assist employees with process execution. Measure cycle times, gain real-time visibility, and identify areas to improve factory layout.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize warehouse usage",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Computer Vision for Manufacturing with Roboflow",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Get vision AI in your factory today",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automate quality inspections, see real-time insights, identify bottlenecks, and elevate manufacturing yield and equipment effectiveness – all while reducing costs.",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Vision AI is transforming manufacturing",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial camera frame-grabbers",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Export vision events to your data warehouse of choice.",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Roboflow for Manufacturing Add-On",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Camera Frame-Grabbers",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Railway Industry Case Study - BNSF & Roboflow",
+    "url": "https://roboflow.com/case-studies/bnsf",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Manufacturing: How USG Elevated Quality Inspections & Efficiency | Roboflow",
+    "url": "https://roboflow.com/case-studies/usg",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-Off, Eyes-Focused, Minds-Empowered: How USG Empowers its Manufacturing Workforce with Visual AI",
+    "url": "https://roboflow.com/case-studies/usg",
+    "pass": 1
+   },
+   {
+    "quote": "USG Corporation is the largest manufacturer of gypsum products in North America. With a history of adopting new technology to enhance efficiency and quality across its network of over 50 manufacturing sites, USG implemented an initiative to optimize physical processes with the latest AI technology.",
+    "url": "https://roboflow.com/case-studies/usg",
+    "pass": 1
+   },
+   {
+    "quote": "This initiative combined USG’s experience in manufacturing with machine learning, specifically vision AI, to enhance quality checks and minimize downtime. As a result of this transformation, USG has experienced measurable improvements in quality, yield, and cost efficiency through smart factory automation and readily accessible insights for facility staff.",
+    "url": "https://roboflow.com/case-studies/usg",
+    "pass": 1
+   },
+   {
+    "quote": "approach to manufacturing,” said Lou Stocco, Director of Manufacturing Advanced Analytics at USG. “By automating routine tasks with AI, like visual quality inspections, staff members can spend less time with their hands or eyes focused on dull and sometimes dangerous work. Instead, they can focus their minds on pursuing higher value initiatives that ultimately improve success for our customers.”",
+    "url": "https://roboflow.com/case-studies/usg",
+    "pass": 1
+   },
+   {
+    "quote": "With teams spread across 50 manufacturing sites, another priority for Stocco’s Advanced Analytics team at USG was giving teams access to accurate data for decision making and resource allocation.",
+    "url": "https://roboflow.com/case-studies/usg",
+    "pass": 1
+   },
+   {
+    "quote": "Teams from rail yards to food plants run Vision AI on Roboflow. Pick your industry to see the use cases.",
+    "url": "https://roboflow.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://roboflow.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Component manufacturing",
+    "url": "https://roboflow.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle manufacturing",
+    "url": "https://roboflow.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by companies bringing vision AI to the real world",
+    "url": "https://roboflow.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-Off, Eyes-Focused, Minds-Empowered: How USG Empowers its Manufacturing Workforce with Visual AI",
+    "url": "https://roboflow.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "With a network of over 50 manufacturing sites, USG aimed to avoid unplanned downtime, elevate consistency of product quality, and equip teams with real-time insights.",
+    "url": "https://roboflow.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Almond Brings Vision-Powered Robotics to Manufacturers",
+    "url": "https://roboflow.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Vision AI for Automotive Manufacturing: Reduce Costs & Downtime | Roboflow",
+    "url": "https://roboflow.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automate quality inspections, gain real-time insights, and enhance manufacturing precision – while reducing costs.",
+    "url": "https://roboflow.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Track the production flow and identify areas to improve factory layout and process execution.",
+    "url": "https://roboflow.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize warehouse usage",
+    "url": "https://roboflow.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Consumer Goods Manufacturing: Improve Quality and Efficiency | Roboflow",
+    "url": "https://roboflow.com/industries/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Automate quality inspections and boost production yield. Ensure consumer safety, elevate brand trust, and avoid expensive recalls. Transform your manufacturing process from raw materials inspection to final packaging checks. Deploy state-of-the-art vision AI now.",
+    "url": "https://roboflow.com/industries/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically scan and update inventory of raw ingredients and finished products. Improve storage utilization, warehouse layout, and track products throughout the facility.",
+    "url": "https://roboflow.com/industries/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize warehouse footprint",
+    "url": "https://roboflow.com/industries/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate industrial equipment during the manufacturing process or before deploying to the field. Improve reliability by automatically detecting microscopic defects, like cracks, missing components, or misaligned pieces.",
+    "url": "https://roboflow.com/industries/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance operations from manufacturing energy equipment to monitoring vast power grids.",
+    "url": "https://roboflow.com/industries/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Equipment Manufacturing",
+    "url": "https://roboflow.com/industries/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize warehouse footprint",
+    "url": "https://roboflow.com/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Use vision AI to save time and avoid disruptions from the warehouse to the last mile.",
+    "url": "https://roboflow.com/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/robotics",
+    "pass": 1
+   },
+   {
+    "quote": "Replace hard-coded logic with flexible vision pipelines that can identify specific SKUs, handle irregularly shaped objects, and sort mixed inventory without rebuilding your production line.",
+    "url": "https://roboflow.com/industries/robotics",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Warehouses: Boost Efficiency, Safety & Inventory Accuracy | Roboflow",
+    "url": "https://roboflow.com/industries/warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate warehouse operations with vision AI",
+    "url": "https://roboflow.com/industries/warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Improve warehouse efficiency, elevate customer experience, and keep your workforce safe by deploying state-of-the-art vision AI today.",
+    "url": "https://roboflow.com/industries/warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/industries/warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by automatically detecting defects on the production line",
+    "url": "https://roboflow.com/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Control machinery, guide robots, assist employees with process execution. Measure cycle times, gain real-time visibility, and identify areas to improve factory layout.",
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Roboflow's prices are listed and billed in US Dollars (USD).",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Own outcomes, not only inputs. Engineers build and drive adoption. Go-To-Market propels revenue and catalyzes product direction. Use and learn many skills, not only your core expertise. Our goal is to build a magnetic environment for exceptional talent.",
+    "url": "https://roboflow.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow has 156 total employees.",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   },
+   {
+    "quote": "What is Roboflow’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Roboflow is",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow Revenue 2024: $9.6M Est.",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow has not published its revenue. GetLatka estimates it at about $9.6M a year (December 2024).",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow CEO, founders & employees",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "Joseph Nelson founded Roboflow in 2019 and runs it as CEO. Roboflow had 65 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Roboflow's revenue?",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Roboflow's revenue at about",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Roboflow have?",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|l|}",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The barrier to entry for testing is also low. As mentioned earlier, since every tracker shares the same 'update()' interface, running multiple algorithms on the same footage to compare them might actually be the fastest way to choose, even if it seems like a detour.",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\\begin{array}{|l|l|l|l|}",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enterprise Support (Email, Ticket, and Chat)",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority chat and email support",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your price stays the same, and nothing changes until we email you. Older monthly Core plans move to the matching credit pack at your next sign-in or renewal, and seat charges stop. Older yearly Core plans move the same way to the matching yearly pack.",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Students and researchers with an academic email can apply for the Research plan for non-commercial work. Projects on the Research plan are public on Roboflow Universe. Learn more at",
+    "url": "https://roboflow.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Industries | Roboflow — Industries already on Roboflow Teams from rail yards to food plants run Vision AI on Roboflow. Pick your industry to see the use cases.",
+    "url": "https://roboflow.com/industries",
+    "pass": 3
+   },
+   {
+    "quote": "Number Plate in Japan Object Detection Model by ... - Roboflow — 2196 open source car images plus a pre-trained Number Plate in Japan model and API. Created by moriken.",
+    "url": "https://universe.roboflow.com/moriken/number-plate-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "開発者と企業向けのコンピュータービジョンツール | Roboflow — Ogilvy社とアウディ社が、Roboflowを活用して顧客と車の対話のあり方をどのように革新したかをご覧ください。 顧客が「今知りたいこと」をピンポイントで学習できる直感的な教育体験の実現事例をご紹介します。",
+    "url": "https://roboflow.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "How to Use the Number Plate in Japan Detection API — Use this pre-trained Number Plate in Japan computer vision model to retrieve predictions with our hosted API or deploy to the edge. Learn More About Roboflow Inference",
+    "url": "https://universe.roboflow.com/gasstationdetection/number-plate-in-japan-rlkgm/model/3",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Roboflow Labs — Sep 30, 2026 · Every day, millions of developers around the globe and over half of the Fortune 100 use Roboflow to count cells to accelerate cancer research, improve construction site safety, digitize floor plans, preserve coral reef populations, guide drone flight, and much more.",
+    "url": "https://roboflow.com/blog/roboflow-labs-launch",
+    "pass": 3
+   },
+   {
+    "quote": "Workflows | Roboflow Docs — Roboflow Workflows を使うと、ブラウザ上で複数ステップのコンピュータビジョンアプリケーションを構築できます。 モデル、ロジック、連携をつなぎ合わせて、Roboflow Cloud または自分のハードウェアにデプロイできます。",
+    "url": "https://docs.roboflow.com/workflows/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow: AI for the physical world — Turn images, videos, and streams into intelligence. Roboflow is the vision AI platform for companies that run in the physical world.",
+    "url": "https://roboflow.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow - 2026 Company Profile, Team, Funding & Competitors ...Roboflow – Funding, Acquisitions & Key Rivals – 2026Roboflow 2026 Company Profile: Valuation, Funding & Investors ...Roboflow Revenue 2024: $9.6M Est. - getlatka.comRoboflow: Funding, Investors & Team (Nov 2026) | FundedIQRoboflow - Crunchbase Company Profile & FundingRoboflow: Funding, Team & Investors | Startup Intros — Jul 21, 2026",
+    "url": "https://tracxn.com/d/companies/roboflow/__drdV2FxoKDMT5vCuBM0KqS387D8kxvpl6VS8hVMzFH8",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow – Funding, Acquisitions & Key Rivals – 2026 — Facts about Roboflow: estimated revenue of $12.3M, team of around 100+ employees, from Des Moines, with a growing influence in its sector.",
+    "url": "https://compworth.com/company/roboflow",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow 2026 Company Profile: Valuation, Funding & Investors ...Roboflow Revenue 2024: $9.6M Est. - getlatka.comRoboflow: Funding, Investors & Team (Nov 2026) | FundedIQRoboflow - Crunchbase Company Profile & FundingRoboflow: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for Roboflow. Use the PitchBook Platform to explore the",
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow Revenue 2024: $9.6M Est. - getlatka.com — Oct 30, 2026 · Roboflow is an Image Recognition Software company based in San Francisco, founded in 2019.",
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow: Funding, Investors & Team (Nov 2026) | FundedIQ — Roboflow has raised $99.6M across 4 funding rounds on record, the most recent a Series B of $40.0M announced in Nov 2024. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/roboflow-roboflow-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "A Comprehensive Guide to Roboflow Trackers: Running 6 Object ... Aug 16, 2026 · Summary This article explains the object tracking library \"trackers\" released by Roboflow, based solely on primary sources.",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Next-Generation Computer Vision Tools: A Thorough Guide to ... Nov 3, 2023 · In this article, we introduce the reusable computer vision tool \"RoboFlow Supervision.\" This tool supports a wide range of computer vision tasks, from loading datasets to drawing detections on images and videos, and even counting the number of detections within specific zones.",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow × YOLO26でオリジナルの物体検出AIを作ろう！ Jun 18, 2026 · Roboflowに画像をアップロードしてアノテーション（正解ラベルの囲み作業）が終わったら、左側のメニューから「Train」をクリックします。 画面に「Select Engine」という項目が表示されるので、「Custom Training」を選択します。",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow trackers徹底解説：SORTから最新McByteまで、6つの物体追跡... Aug 16, 2026 · そこを担うのが物体追跡（Multi-Object Tracking, MOT）で、Roboflowが2025年4月から開発してきたtrackersというPythonライブラリは、この追跡部分を驚くほど小さなAPIにまとめている。",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "A Comprehensive Guide to Roboflow Trackers: Running 6 Object Tracking Algorithms from SORT to the Latest McByte via a Single API｜アイドリ | AI-Driven Lab",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Comprehensive Guide to Roboflow Trackers: Running 6 Object Tracking Algorithms from SORT to the Latest McByte via a Single API",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Target Audience for This Article",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Primary Audience: Engineers and PMs who have experience with object detection like YOLO but have not yet tried \"tracking\" across multiple frames.",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Level: Primarily aimed at intermediate users, among beginner/intermediate/advanced levels.",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prerequisites: Basic knowledge of Python syntax and fundamental object detection terminology such as bounding boxes and confidence scores.",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What You Will Gain: You will be able to explain the differences between the six algorithms—SORT, ByteTrack, OC-SORT, BoT-SORT, C-BIoU, and McByte—and gain the decision-making criteria to select and implement a tracker that fits your video data.",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article explains the object tracking library \"trackers\" released by Roboflow, based solely on primary sources. Starting from the basics of why object detection and object tracking are different, we organize five classic algorithms—SORT, ByteTrack, OC-SORT, BoT-SORT, and C-BIoU—with benchmarks, and then dive into the newcomer McByte, which integrates with SAM just nine days after its release. ",
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Next-Generation Computer Vision Tools: A Thorough Guide to the Appeal of RoboFlow Supervision!｜0xpanda alpha lab",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Next-Generation Computer Vision Tools: A Thorough Guide to the Appeal of RoboFlow Supervision!",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we introduce the reusable computer vision tool \"RoboFlow Supervision.\" This tool supports a wide range of computer vision tasks, from loading datasets to drawing detections on images and videos, and even counting the number of detections within specific zones.",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Key Features of RoboFlow Supervision:",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": In a Python 3.8 or higher environment, you can install the",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "package in just a few steps.",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Detection Processing",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Achieve high-precision detection based on Ultralytics results. Detection counts are also calculated instantly.",
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow × YOLO26でオリジナルの物体検出AIを作ろう！｜Trúc Nhi",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow × YOLO26でオリジナルの物体検出AIを作ろう！",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflowに画像をアップロードしてアノテーション（正解ラベルの囲み作業）が終わったら、左側のメニューから「Train」をクリックします。",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "画面に「Select Engine」という項目が表示されるので、「Custom Training」を選択します。これは、モデルのアーキテクチャやサイズを自分で細かく指定するためのオプションです。",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "次に「Select Architecture」の画面に進みます。ここで様々なAIモデルを選ぶことができます。",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "一覧の中から「YOLO26」を選択します。",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "その下にある「Model Size」のドロップダウンから「Nano」を選択します。",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "Create Dataset Versionボタンを押して",
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow trackers徹底解説：SORTから最新McByteまで、6つの物体追跡アルゴリズムを1つのAPIで動かす｜アイドリ | AI-Driven Lab",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow trackers徹底解説：SORTから最新McByteまで、6つの物体追跡アルゴリズムを1つのAPIで動かす",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "主な対象者：YOLOなどの物体検出には触れたことがあるが、複数フレームをまたぐ「追跡」はまだ試したことがないエンジニア・PMを想定しています。",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "技術レベル：初級／中級／上級のうち、主に中級を想定しています。",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "前提知識：Pythonの基本文法、およびbounding boxやconfidence scoreといった物体検出の基礎用語を理解していることを前提とします。",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "この記事で得られるもの：SORT・ByteTrack・OC-SORT・BoT-SORT・C-BIoU・McByteという6つのアルゴリズムの違いを説明できるようになり、自分の映像データに合うトラッカーを選定・実装するための判断材料を得られます。",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflowが公開する物体追跡ライブラリ「trackers」を、一次情報だけを根拠に解説します。物体検出と物体追跡がなぜ別物なのかという基本から出発し、SORT・ByteTrack・OC-SORT・BoT-SORT・C-BIoUという5つの定番アルゴリズムをベンチマーク付きで整理したうえで、公開からわずか9日というSAM連携の新顔McByteまで踏み込みます。後半ではインストールからCLI実行、検出器選びが結果に与える影響、トラッカーの選び方までを扱います。読み終える頃には、自分の映像に合うトラッカーを迷わず選べるはずです。",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "百聞は一見にしかず。まずは公式のデモ動画を見てほしい。RF-DETRで検出した映像に、trackersがトラッキングIDを付けていく様子がそのまま収録されている。",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "なお、YOLOとtrackersを組み合わせる基本的な使い方を紹介する日本語記事はいくつか見かけるが、6アルゴリズムを横断的に比較し、公開から9日のMcByteまで踏み込んだ日本語記事は、少なくとも執筆時点の調査では見当たらなかった",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "私たちポノテク株式会社は、",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   },
+   {
+    "quote": "ポノテク株式会社へのお問い合わせはこちらから！",
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Roboflow (@roboflow) / X You can now use models on OpenRouter directly in Roboflow New models are dropping weekly and it's important to build your pipeline around the problem you're solving.",
+    "url": "https://x.com/roboflow",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow on X: \"we've been testing astra across domains and ... Roboflow @roboflow 34m great model to create a quick prototype and prove an idea can be expensive depending on your use case",
+    "url": "https://x.com/roboflow/status/2098082396306346295",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow on X: \"livestream today sharing all the findings we ... Google Is Back! Gemini 4 Argon Leads Our Vision Benchmark From roboflow.com 161 MrOzi @MrrrOzi 5h",
+    "url": "https://x.com/roboflow/status/2110744024046784925",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow on X: \"if you can't make the stream, we have some of ... Roboflow on X: \"if you can't make the stream, we have some of this captured here https://t.co/CFzOJa9cw1\"",
+    "url": "https://x.com/roboflow/status/2110744025917506028",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow (@roboflow) / Posts and Replies / X - x.com Jun 27, 2019 · This week's live session: How to track objects in video with SORT and OC-SORT algorithms, presented by Lee Clement, Machine Learning Engineer at @roboflow. Come hang out with us: luma.com/pd4hodix",
+    "url": "https://x.com/roboflow/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Roboflow - FacebookAI IN ACTION: Roboflow Learns What Looks ... - FacebookRoboflow developer Erik Kokalj tested GPT-6 Astra on a taco ...Roboflow - Join the Roboflow community! Ask questions ...Roboflow Api - FacebookComputer Vision | Can anyone help me how to merge two ...Roboflow | Ng Tiến Dũng - Facebook Oct 12, 2026 · A Roboflow user worked with YOLOv5 and Roboflow to build a model to segment ",
+    "url": "https://www.facebook.com/roboflowai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI IN ACTION: Roboflow Learns What Looks ... - Facebook Oct 31, 2026 · Roboflow has added support for anomaly detection, showing how AI can flag unusual products without first collecting examples of every possible defect. Its orange -sorting demonstration uses PatchCore with 237 crops of good oranges to identify rot and blemishes absent from that training set. The system builds on a pretrained ima",
+    "url": "https://www.facebook.com/entrelligence/videos/-ai-in-action-roboflow-learns-what-looks-normal-to-spot-unseen-defectsroboflow-h/883645724770216/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow developer Erik Kokalj tested GPT-6 Astra on a taco ... Sep 29, 2026 · Roboflow developer Erik Kokalj tested GPT-6 Astra on a taco station to solve a classic dispute: \"you forgot the guac,\" and nobody can prove it either way. An overhead camera watched a chef build a plate.",
+    "url": "https://www.facebook.com/AICreatorBase/videos/roboflow-developer-erik-kokalj-tested-gpt-6-astra-on-a-taco-station-to-solve-a-c/1069453452382861/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboflow - Join the Roboflow community! Ask questions ... Mar 11, 2022 · Join the Roboflow community! Ask questions, share feedback, show your work, and hear the latest announcements from Roboflow.",
+    "url": "https://www.facebook.com/roboflowai/posts/join-the-roboflow-community-ask-questions-share-feedback-show-your-work-and-hear/506227224565329/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Joseph Nelson - Co-founder, CEO @ Roboflow | LinkedInnote 役員一覧 | 取締役7名の経歴と選任賛成比率加藤貞顕 - Wikipedia上場から3年で大きく飛躍。CEO 加藤貞顕とCFO 鹿島幸裕が語るnoteの歩...note株式会社 on X: \"| メディア掲載 || 新潟日報 @niigata_nippo に...noteの歴代社長 - the-shashi.comnote【5243】の社長・役員- キタイシホン Co-founder, CEO @ Roboflow · Making the world programmable with open source and hosted tools @ Roboflow. 250,000 developers from the Fortune 500 and startups a",
+    "url": "https://www.linkedin.com/in/josephofiowa",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://roboflow.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/case-studies/bnsf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/case-studies/usg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/case-studies/peer-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/consumer-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/energy-and-utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/industries/warehousing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/deploy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/workflows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboflow.com/sales",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.sanity.io/images/ogxb3wbg/production/aff8c72cdde6f0e285310e3a7786b8c9a73bdf8e-1250x528.avif?fit=max&auto=format&w=3840",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/ogxb3wbg/production/2f8657af710aa82fbf8652af34717e28ef41a0b0-1250x528.avif?fit=max&auto=format&w=3840",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://universe.roboflow.com/moriken/number-plate-in-japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://universe.roboflow.com/gasstationdetection/number-plate-in-japan-rlkgm/model/3",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/roboflow/__drdV2FxoKDMT5vCuBM0KqS387D8kxvpl6VS8hVMzFH8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/roboflow",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439526-44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/roboflow.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_driven/n/ne71364a44702",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/roboflow",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roboflow/status/2098082396306346295",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roboflow/status/2110744024046784925",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roboflow/status/2110744025917506028",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roboflowai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/entrelligence/videos/-ai-in-action-roboflow-learns-what-looks-normal-to-spot-unseen-defectsroboflow-h/883645724770216/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AICreatorBase/videos/roboflow-developer-erik-kokalj-tested-gpt-6-astra-on-a-taco-station-to-solve-a-c/1069453452382861/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roboflowai/posts/join-the-roboflow-community-ask-questions-share-feedback-show-your-work-and-hear/506227224565329/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/josephofiowa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roboflow",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roboflow/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Roboflow 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Roboflow 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://roboflow.com/industries",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboflow Japan",
+   "results": [
+    "https://universe.roboflow.com/moriken/number-plate-in-japan",
+    "https://roboflow.com/ja",
+    "https://universe.roboflow.com/gasstationdetection/number-plate-in-japan-rlkgm/model/3",
+    "https://roboflow.com/blog/roboflow-labs-launch",
+    "https://docs.roboflow.com/workflows/ja",
+    "https://docs.roboflow.jp/",
+    "https://www.systems.nakashima.co.jp/rf/roboflow/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboflow manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Roboflow white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://roboflow.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboflow founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/roboflow/__drdV2FxoKDMT5vCuBM0KqS387D8kxvpl6VS8hVMzFH8",
+    "https://compworth.com/company/roboflow",
+    "https://pitchbook.com/profiles/company/439526-44",
+    "https://getlatka.com/companies/roboflow.com",
+    "https://fundediq.co/roboflow-roboflow-com-funding/",
+    "https://www.crunchbase.com/organization/roboflow",
+    "https://startupintros.com/orgs/roboflow"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Roboflow",
+   "results": [
+    "https://note.com/ai_driven/n/ne71364a44702?hl=en",
+    "https://note.com/panda_lab/n/n98883e72fc42?hl=en",
+    "https://note.com/eager_salvia2056/n/nf25b18428227",
+    "https://note.com/ai_driven/n/ne71364a44702",
+    "https://note.com/yochamn/n/n088142934846",
+    "https://note.com/diy_smile/n/n21aa40aae847",
+    "https://note.com/nokuro_9634/n/n640e9b3872eb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Roboflow",
+   "results": [
+    "https://x.com/roboflow",
+    "https://x.com/roboflow/status/2098082396306346295",
+    "https://x.com/roboflow/status/2110744024046784925",
+    "https://x.com/roboflow/status/2110744025917506028",
+    "https://x.com/roboflow/status/2096599076041027679",
+    "https://x.com/roboflow/status/2105288496730472750",
+    "https://x.com/josephofiowa"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Roboflow",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Roboflow",
+   "results": [
+    "https://www.facebook.com/roboflowai/",
+    "https://www.facebook.com/entrelligence/videos/-ai-in-action-roboflow-learns-what-looks-normal-to-spot-unseen-defectsroboflow-h/883645724770216/",
+    "https://www.facebook.com/AICreatorBase/videos/roboflow-developer-erik-kokalj-tested-gpt-6-astra-on-a-taco-station-to-solve-a-c/1069453452382861/",
+    "https://www.facebook.com/roboflowai/posts/join-the-roboflow-community-ask-questions-share-feedback-show-your-work-and-hear/506227224565329/",
+    "https://www.facebook.com/p/Roboflow-Api-100004737199178/",
+    "https://www.facebook.com/groups/ComputerVisionGroup/posts/3550660571744785/",
+    "https://www.facebook.com/ng.tien.dung.792591/videos/roboflow/1589215229180120/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboflow note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/josephofiowa",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboflow X 投稿",
+   "results": [
+    "https://x.com/roboflow",
+    "https://x.com/roboflow/with_replies",
+    "https://docs.roboflow.jp/",
+    "https://blog.csdn.net/m0_67241828/article/details/130356928",
+    "https://blog.csdn.net/2403_87069802/article/details/147947798",
+    "https://docs.roboflow.com/get-started/ja",
+    "https://zhuanlan.zhihu.com/p/2055043641622672032"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）"
+ }
+}

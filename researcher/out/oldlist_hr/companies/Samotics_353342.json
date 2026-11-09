@@ -1,0 +1,1560 @@
+{
+ "name": "Samotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:31:39.246455+00:00",
+ "official_url": "https://www.samotics.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "12-Jan-2017 $629K $629K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/samotics",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Leiden, Netherlands",
+    "url": "https://startupintros.com/orgs/samotics",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "View the SAM4 product tour",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the SAM4 product tour",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "across the deployment, per Yorkshire Water's own analysis. Contract awarded 2022.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4,000+ pumps monitored from the electrical panel. 15% of inspection trips replaced per year. Submerged pumps that mounted vibration sensors could not practically cover became part of a continuous monitoring programme.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zinc smelter assets monitored from the motor control cabinet, without placing sensors in the harsh process environment. SAM4 detected 7 developing faults before failure, including a damaged 10 kV rectifier cable that would have caused more than €1M in equipment damage.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with fleet priorities, open a machine and review the evidence behind a finding. Explore the SAM4 views that support your next maintenance decision.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the SAM4 product tour →",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "95.5% recall on confirmed fault events. 2.1% post-review false-alert rate. From 2,087 reviewed events in the last 12 months: recall scored on 1,437 confirmed fault events, false-alert rate on 1,402 customer-facing alerts. Performance varies by asset type, fault mode, operating profile, and data quality.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“In the steel industry, assets frequently operate in conditions that are not hospitable to sensitive sensor technologies. The conveyors at our hot strip mill are a critical part of the production process, but it's virtually impossible to use manual or vibration-based techniques to assess their condition.”",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detection depends on the fault producing a measurable signal under the asset's operating conditions.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Samotics reviews ambiguous findings and provides a diagnosis, supporting evidence and a recommended next step. Your team brings the plant knowledge and decides how to respond.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See the installation process",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare the IT review",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cellular monitoring can use a data path separate from your IT and OT networks. Deployment still follows your site’s IT, security and approval requirements.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ESA reads current and voltage waveforms at the motor control cabinet. SAM4 analyses those signals to detect patterns linked to electrical, mechanical, and operational faults across the motor-driven system.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 monitors AC-motor-driven assets such as pumps, fans, compressors, conveyors, transmissions, ESPs, mixers, and motors. Suitability depends on motor type, load profile, operating behaviour, drivetrain configuration, and the fault modes you need to detect. That is why we start with an asset fit review.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Installation typically takes under 60 minutes per asset once cabinet access and safe-working approval are in place. Split-core current transformers clip onto existing cables in the motor control cabinet. Voltage connections require a short de-energisation at the cabinet. No field access to the asset is required.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yorkshire Water estimates benefit exceeding £10M across its deployment. DuPont has prevented €1.7M in costs across 15+ detections. During a 12-month pilot SAM4 detected 12 of 12 developing faults at ArcelorMittal; after rollout to 56 runout-table rollers, a further 27 detections saved an estimated 31 hours of downtime.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss the assets you need to monitor, the faults you want to detect and the practical requirements for deployment.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "News & Press | Samotics",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 Product Tour",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Pumps, compressors, and reactors in continuous processes",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Crushers, conveyors, and process-critical motors",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Process-critical agitators and fluid mixers",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Screw, reciprocating, and centrifugal compressors",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Process fans, blowers, and cooling towers",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Company announcements, partnerships, and product updates",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Product documentation and support articles",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Company announcements, partnerships, and product updates.",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Condition monitoring agreement will protect Welsh Water assets",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Dŵr Cymru Welsh Water has signed a three-year agreement with Samotics for ongoing predictive condition monitoring of critical wastewater assets across its estate.",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Yorkshire Water scales AI-driven asset monitoring.",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Samotics and Yorkshire Water win the Digital Transformation Award at the 2025 Utility Week Awards",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Samotics and Yorkshire Water win Digital Transformation Award at Utility Week 2025.",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor motors and drives in baggage handling, HVAC, escalators and cargo systems. SAM4 measures current and voltage at the motor control cabinet, providing fault information between inspections and maintenance windows.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "critical failures prevented at London Stansted",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Compressed maintenance windows",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "New ground-handling and energy-efficiency rules increase pressure to document preventive maintenance, fault handling, and energy performance. SAM4 supports that evidence trail with continuous condition and motor-energy data.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Vibration monitoring is impractical at scale",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Centrifugal pumps in water, chemicals, oil & gas, and process industries.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Ventilation fans, cooling fans, process blowers, and aerators.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "How Schiphol Airport improved the reliability of its baggage handling lines",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Improving baggage handling reliability at London Stansted",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Numerous, motor-driven, operationally critical, and proven in an airport setting. At Schiphol, SAM4 caught 9 out of 9 conveyor-belt faults including imbalance, belt degradation, and bearing wear, avoiding more than five hours of baggage downtime.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Individual asset criticality is diluted by redundancy. Pitch fleet-level: energy waste, prioritisation, and central plant reliability.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Fire-water pumps, foam pumps, jockey pumps, smoke-extraction fans, pressurization fans.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Authorised users can access the SAM4 dashboard from approved devices and locations. Pilot 20-30 priority motors in the first week. Broader rollout in 4-6 weeks. First diagnostic results typically appear within 48 hours, with diagnostic confidence building as SAM4 observes runtime, load changes, and normal operating behaviour.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "“Because SAM4 installs inside the motor control cabinet, we can monitor several assets at minimal cost. Installation could also be done quickly, without major infrastructure changes and scheduled within Schiphol's normal procedures.”",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "That is exactly why predictive monitoring matters. Instead of discovering a fault at 06:00 when check-in opens, you know 3-4 weeks in advance which motor needs attention. You schedule the repair into the overnight window. You order the part. You assign the technician. Planned work fits into 4 hours. Emergency repair during operations does not.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ESA is highly effective on small motors. High current density relative to motor size produces clear fault signatures. Unlike vibration sensors, ESA requires no physical access to the motor itself. The Schiphol deployment monitors motors from 1.5 to 5.6 kW across the BHS.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 reads electrical signatures at the MCC. Read-only. No commands to equipment. Can run on an isolated network segment, separate from BHS SCADA. Samotics is ISO 27001 and ISO 9001 certified. Architecture designed for critical infrastructure environments. Airports are a known high-security context, and we treat them accordingly.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Industry benchmarks for airport predictive maintenance: 10:1 to 30:1 ROI within 12-18 months. 30-50% reduction in unplanned downtime. 18-25% lower maintenance costs. At airport BHS downtime rates of $10K-$100K per hour, a single prevented failure during peak operations can cover the annual monitoring cost for dozens of motors.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Condition Monitoring for Chemicals & Process Industries | Samotics",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Chemicals & Process Industries",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor pumps, compressors and other motor-driven equipment from the motor control cabinet. SAM4 can cover suitable assets in hazardous or corrosive process areas where installing and maintaining sensors on the machine is difficult.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Process plant and pipework.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Costs prevented at DuPont",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "DuPont chemical production lines",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leaders in chemicals and process industries",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical production runs continuously, handles hazardous materials, and operates under strict process-safety and environmental obligations. Equipment failures can interrupt production and create safety or environmental risks.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Use the diagnosis and recommended action alongside your plant knowledge. Discuss uncertain findings with Samotics and choose the inspection or maintenance response.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Samotics reviews ambiguous findings and provides a diagnosis, supporting evidence and a recommended next step. Your team brings the plant knowledge and decides how to respond.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cooling pumps, fans and central plant",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Lift stations, treatment plants, and distribution networks",
+    "url": "https://samotics.com/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of motors across terminals, levels, and remote plant rooms. Route-based inspection means travel dominates the maintenance day.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Motor sizes (0.55-5.6 kW) make per-asset vibration sensors uneconomic for hundreds of conveyor drives. Airport ambient vibration makes baseline establishment harder than in a purpose-built plant.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 fits motor-driven rotating equipment monitored from the MCC or drive: pumps, conveyors, fans, and blowers. In airports, that means baggage handling first, then pumps, then central plant. At Schiphol, SAM4 caught 9 out of 9 conveyor-belt faults across imbalance, belt degradation, and bearing wear.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Individual asset criticality is diluted by redundancy. Pitch fleet-level: energy waste, prioritisation, and central plant reliability.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Start with baggage-handling drives, terminal auxiliaries, remote plant-room motors, and other assets where mounted sensors are difficult to scale.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Condition monitoring in chemical plants",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Request a plant assessment",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Process plant and pipework.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "DuPont chemical production lines",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leaders in chemicals and process industries",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "What chemical plants face every day",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Gaps in chemical-plant monitoring",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Condition monitoring for anolyte pumps: a case study",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Read how SAM4 saved this chemical manufacturer 15 thousand euros by detecting cavitation-induced pump damage.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Condition monitoring for circulator pumps: a case study",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 detects a developing fault and classifies it by asset, fault type, severity, and recommended action. Your reliability engineer sees what is wrong before walking to the plant floor.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "No. SAM4 hardware installs inside the motor control cabinet, which sits outside the ATEX zone. No sensor enters the hazardous area. No ATEX certification is needed for the monitoring equipment. No confined space entry. No ignition sources near explosive atmospheres. This is the core advantage of cabinet-based ESA monitoring in chemical plants.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Start with the central cooling plant",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Primary and secondary pumps circulating chilled water between the plant and the equipment it serves. Start with regularly running, critical pump sets.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Pumps circulating water between chiller condensers and cooling towers in water-cooled plants. Include duty and assist pumps.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Published examples from food manufacturing and wood production. Each connects an electrical finding to an inspection and maintenance response.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Wood manufacturing · Exhaust fans",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Bring essential auxiliary pumps into the same condition-review process as the central plant.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "If the cooling plant is redundant, why monitor individual assets?",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "When a unit is out of service, the plant may have less spare capacity until it is repaired. Condition evidence can help identify deterioration, prepare parts and choose an inspection or repair window. That supports maintenance planning around the redundancy you have. SAM4 does not certify spare capacity or replace failover testing.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Will SAM4 control the cooling plant?",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Request a plant assessment",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by metals and mining operators",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Industry estimate for an automotive steel mill with downstream assembly idle. Tier 1 copper mines run near $480K per hour.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Installation usually takes under 60 minutes per asset, including a brief de-energisation. No process-floor sensor installation. Site-specific electrical permits and cabinet procedures still apply. At Nyrstar Budel, the full fleet was instrumented without a plant-wide production stop.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "The equipment that keeps your plant running",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "9x common faults detected in steel manufacturing",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Nine detections drawn from anonymised SAM4 data across steel plants, each shown with the signal that triggered it so engineers can judge the evidence.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Read how SAM4 caught a failing cardan shaft coupling in a runout table roll for this steel manufacturer.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Read how SAM4 caught motor bearing failure in a runout table roll 7 months in advance for this steel manufacturer.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Condition monitoring for shot blasting machines: a case study",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Read how SAM4 caught a loose blast wheel belt guard before it caused damage to this steel manufacturer's shot blasting machine.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 picked up motor overloading on the godet roll early enough for maintenance to be planned, before the fault could stop the production line.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Nyrstar achieved 800% ROI in 11 months. At $480,000 per hour of unplanned downtime in a Tier 1 copper mine, a single avoided production stop can pay for a multi-year deployment. The payback depends on your downtime cost, fleet size, and current failure rate. We provide a plant assessment that models the expected return for your specific operation.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss monitoring for your plant",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Oil and gas processing plant at night.",
+    "url": "https://samotics.com/industries/oil-gas",
+    "pass": 1
+   },
+   {
+    "quote": "High-frequency vibration data demands bandwidth the link cannot carry. Operators settle for weekly snapshots. Failures go undetected between visits.",
+    "url": "https://samotics.com/industries/oil-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Condition monitoring for oil transfer pumps: a case study",
+    "url": "https://samotics.com/industries/oil-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Request a plant assessment",
+    "url": "https://samotics.com/industries/pulp-paper",
+    "pass": 1
+   },
+   {
+    "quote": "24 months of operation at a single plant",
+    "url": "https://samotics.com/industries/pulp-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading pulp and paper mills",
+    "url": "https://samotics.com/industries/pulp-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Exhaust fans on a wood panel line were degrading unnoticed. Six early alerts let the plant fold every repair into a scheduled stop.",
+    "url": "https://samotics.com/industries/pulp-paper",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 does not connect to the mill DCS, PLC network, or process historian. It operates on a separate data path using its own cellular or Ethernet backhaul. No inbound connections to the mill network are required. Data is encrypted in transit and at rest. SAM4 meets IEC 62443 industrial cybersecurity standards.",
+    "url": "https://samotics.com/industries/pulp-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leaders in water and wastewater",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "Pumping accounts for the bulk of a clean-water utility's energy use: around 80% at treatment plants and 90–99% across a whole water system (US EPA; Congressional Research Service). As impellers erode, efficiency drops 5 to 15% per 5mm of wear-ring clearance increase. Most utilities have no visibility into per-pump energy performance until the quarterly bill arrives.",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "When operators travel to a site without knowing whether the issue is electrical, mechanical, or blockage-related, response slows and cost rises. Some stations require a two-hour drive. Emergency repairs cost 8 to 10 times more than planned work. Without remote diagnostics telling you what is wrong, every alarm is a blind dispatch with the wrong crew and the wrong parts.",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "Condition monitoring for wastewater pumps: a case study",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "Yorkshire Water runs SAM4 monitoring from their 24/7 Bradford control room. Alerts appear alongside SCADA telemetry. Operators triage faults without leaving the desk. For dual-pump stations, if one pump is blocked the response is planned; if both are degrading, it becomes same-day priority.",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "Control room operators handle triage and dispatch. Reliability engineers review trends and plan interventions. Maintenance planners schedule the work. SAM4 does not replace any role. It gives each role better information, earlier.",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "What changes for operators, reliability engineers, and planners?",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "Samotics was founded in 2015 to help industrial teams monitor motor-driven equipment that is difficult to access. Our engineers use current and voltage measurements to assess equipment condition, performance and energy use.",
+    "url": "https://samotics.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "4,000+ pumps monitored from the electrical panel. 15% of inspection trips replaced per year. Submerged pumps that mounted vibration sensors could not practically cover became part of a continuous monitoring programme.",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“In the steel industry, assets frequently operate in conditions that are not hospitable to sensitive sensor technologies. The conveyors at our hot strip mill are a critical part of the production process, but it's virtually impossible to use manual or vibration-based techniques to assess their condition.”",
+    "url": "https://samotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fire pumps are often standby. Sparse runtime weakens continuous-learning value unless test-run monitoring is part of the operating model.",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Sensor maintenance and replacement become part of the problem in corrosive environments.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "A control loop can hold pressure while a pump works harder. Other machines can carry the load. For the facilities team, the question is which machine needs attention before the next maintenance window.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Existing BMS and vibration systems remain part of the assessment. Start with the assets where an electrical diagnostic would add a useful maintenance decision.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Assess motor type, speed range and target faults. Flow and pressure measurements remain part of the hydraulic assessment.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Motor electrical faults, mechanical unbalance and changes linked to belts, couplings or bearings where the load path carries the signal.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Direct vibration remains valuable for fan bearings and structural faults. Integrated EC fan arrays require a separate compatibility review.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Coolant distribution units and EC fan arrays need an OEM-specific review of signal access, motor type and the diagnostics already installed.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "In a strip mill, the spot where a vibration sensor would go is often too hot for the sensor to survive. The motor current at the MCC carries the signature of mechanical degradation in the driven equipment.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Cavitation, read directly from the electrical signals. The pump stays in the sump; the surface electrics carry the signal up.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "High-frequency vibration data demands bandwidth the link cannot carry. Operators settle for weekly snapshots. Failures go undetected between visits.",
+    "url": "https://samotics.com/industries/oil-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Connect the SAM4 data acquisition unit",
+    "url": "https://samotics.com/industries/pulp-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Pumping accounts for the bulk of a clean-water utility's energy use: around 80% at treatment plants and 90–99% across a whole water system (US EPA; Congressional Research Service). As impellers erode, efficiency drops 5 to 15% per 5mm of wear-ring clearance increase. Most utilities have no visibility into per-pump energy performance until the quarterly bill arrives.",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "Two screw pumps were running at under a third of nominal power. SAM4 Energy showed a single pump could carry the flow for most of the day.",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "We built the acquisition hardware, signal conditioning, fault models, baselining, validation workflow, and deployment stack needed to run ESA continuously in noisy industrial environments.",
+    "url": "https://samotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A finding needs evidence, urgency and a proposed response. Deployment support and workflow integration help it reach the people who assess the recommendation and carry out the work.",
+    "url": "https://samotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Cabinet-based monitoring can become part of the drive and electrical infrastructure customers already use.",
+    "url": "https://samotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our aim: make electrical monitoring part of everyday engineering",
+    "url": "https://samotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We want reliable insight from electrical signals to become a routine part of maintaining and operating motor-driven equipment. That means helping teams investigate faults, understand performance and identify energy waste through the tools and workflows they already use.",
+    "url": "https://samotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Yorkshire Water indicated that the greatest challenge it faced with respect to cost and impact was pump blockage. This can lead to deterioration in asset health, asset breakdown, loss of service and pollution events, which have environmental implications. In pump stations and sewage treatment plants, removing the blockages has become part of the daily routine.",
+    "url": "https://samotics.com/proof/case-studies/yorkshire-water-avoid-potential-fines-with-samotics",
+    "pass": 1
+   },
+   {
+    "quote": "It is helping Yorkshire Water to improve the efficiency and reliability of its wastewater network and at the same time reducing operating costs in dealing with blockage incidents. As such SAM4 is forming a key element of Yorkshire Water’s plans as part of its ‘Blueprint for Yorkshire’ to maintain its services, preserve the environment and keep customer bills as low as possible.",
+    "url": "https://samotics.com/proof/case-studies/yorkshire-water-avoid-potential-fines-with-samotics",
+    "pass": 1
+   },
+   {
+    "quote": "SAM4 detected a developing transmission fault and supplied the trend behind the finding. Nyrstar used the warning to arrange replacement during a scheduled stop. The team’s inspection found a displaced belt and worn pulleys.",
+    "url": "https://samotics.com/proof/case-studies/how-zinc-smelter-nyrstar-got-800-roi-in-11-months",
+    "pass": 1
+   },
+   {
+    "quote": "Use the warning to arrange the work during a scheduled stop. Inspect the transmission, identify the physical damage and carry out the replacement.",
+    "url": "https://samotics.com/proof/case-studies/how-zinc-smelter-nyrstar-got-800-roi-in-11-months",
+    "pass": 1
+   },
+   {
+    "quote": "The early detection allowed replacement to be arranged during a scheduled stop.",
+    "url": "https://samotics.com/proof/case-studies/how-zinc-smelter-nyrstar-got-800-roi-in-11-months",
+    "pass": 1
+   },
+   {
+    "quote": "Nyrstar is one of Europe’s leading zinc smelters, refining over 300,000 tons of high-purity zinc every year. Operating continuously, the plant relies on pumps, conveyors, agitators, and other critical assets to keep furnaces running. As a vital part of the global zinc supply chain, the company cannot afford unplanned downtime.",
+    "url": "https://samotics.com/proof/case-studies/how-zinc-smelter-nyrstar-got-800-roi-in-11-months",
+    "pass": 1
+   },
+   {
+    "quote": "Translate the early finding into a work order. Plan the job for the overnight window and carry out the work before the fault becomes a breakdown.",
+    "url": "https://samotics.com/proof/case-studies/how-schiphol-airport-improved-reliability-of-its-current-baggage-handling-lines",
+    "pass": 1
+   },
+   {
+    "quote": "This result belongs to the reported trial and its monitored equipment. The maintenance benefit described by the customer was the ability to prepare work orders and carry out the jobs during the overnight window.",
+    "url": "https://samotics.com/proof/case-studies/how-schiphol-airport-improved-reliability-of-its-current-baggage-handling-lines",
+    "pass": 1
+   },
+   {
+    "quote": "One of Schiphol’s key priorities is improving the capacity and reliability of its baggage handling systems. Day in, day out, a constant stream of passengers arrive with large volumes of baggage. Since physical constraints limit the potential to expand the baggage handling system, Schiphol focuses on maximizing the efficiency and reliability of its existing baggage handling lines.",
+    "url": "https://samotics.com/proof/case-studies/how-schiphol-airport-improved-reliability-of-its-current-baggage-handling-lines",
+    "pass": 1
+   },
+   {
+    "quote": "The same signal must carry condition + performance + energy",
+    "url": "https://samotics.com/what-we-monitor/pumps",
+    "pass": 1
+   },
+   {
+    "quote": "Pump is critical enough to warrant defence in depth",
+    "url": "https://samotics.com/what-we-monitor/pumps",
+    "pass": 1
+   },
+   {
+    "quote": "Two screw pumps were running at under a third of nominal power. SAM4 Energy showed a single pump could carry the flow for most of the day.",
+    "url": "https://samotics.com/what-we-monitor/pumps",
+    "pass": 1
+   },
+   {
+    "quote": "Two screw pumps were running at under a third of nominal power. SAM4 Energy showed a single pump could carry the flow for most of the day.",
+    "url": "https://samotics.com/proof/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A sudden rise in intensity at the outgoing axle’s rotational frequency (orange arrow), followed by 7 months of gradual increase. The green arrow indicates where the customer serviced the pump.",
+    "url": "https://samotics.com/proof/case-studies/condition-monitoring-circulator-pump-misalignment-gearbox",
+    "pass": 1
+   },
+   {
+    "quote": "As part of this improved maintenance strategy, Anglian Water partnered with the",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sporadic energy increases. In December, a good opportunity came up to carry out",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 2. The green vertical line in the graph marks when the Anglian Water team carried out",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "carries out remedial works",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "/arrowright.case Inspect the motor",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "/arrowright.case Prepare component replacements",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "unbalance. Please carry out maintenance at",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "exactly as SAM4 predicted. Based on SAM4 insights, we were able to carry out remedial",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "every part of its business. That also includes bold objectives when it comes to maintaining",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics has 109 total employees.",
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "pass": 3
+   },
+   {
+    "quote": "What is Samotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Samotics is",
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We have OEM escalator maintenance contracts. Why add another system?",
+    "url": "https://samotics.com/industries/airports",
+    "pass": 1
+   },
+   {
+    "quote": "Fit depends on motor configuration, drive topology, duty cycle, load stability, operating regime, and the failure modes you want to detect. During asset-fit review, we identify which assets are strong candidates, which need engineering review, and which are better covered by vibration, process instrumentation, OEM monitoring, or inspection.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Coolant distribution units and EC fan arrays need an OEM-specific review of signal access, motor type and the diagnostics already installed.",
+    "url": "https://samotics.com/industries/data-centers",
+    "pass": 1
+   },
+   {
+    "quote": "Some assets are properly monitored by vibration on already-instrumented critical equipment, process instrumentation, OEM monitoring, or inspection. For many critical assets, SAM4 is a complementary layer: it expands failure mode coverage, adds insight into operational performance, and supports root cause failure analysis. Asset-fit review tells you which is which before you commit.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Fit depends on motor configuration, drive topology, duty cycle, load stability, operating regime, and the failure modes you want to detect. During asset-fit review, we identify which assets are strong candidates, which need engineering review, and which are better covered by vibration, process instrumentation, OEM monitoring, or inspection.",
+    "url": "https://samotics.com/industries/oil-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Fit depends on motor configuration, drive topology, duty cycle, load stability, operating regime, and the failure modes you want to detect. During asset-fit review, we identify which assets are strong candidates, which need engineering review, and which are better covered by vibration, process instrumentation, OEM monitoring, or inspection.",
+    "url": "https://samotics.com/industries/pulp-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Fit depends on motor configuration, drive topology, duty cycle, load stability, operating regime, and the failure modes you want to detect. During asset-fit review, we identify which assets are strong candidates, which need engineering review, and which are better covered by vibration, process instrumentation, OEM monitoring, or inspection.",
+    "url": "https://samotics.com/industries/water",
+    "pass": 1
+   },
+   {
+    "quote": "OEM, system integrator, or service provider",
+    "url": "https://samotics.com/about",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Authorised users can access the SAM4 dashboard from approved devices and locations. Alerts route to email, your CMMS, or your control room. Works alongside existing vibration programmes and SCADA.",
+    "url": "https://samotics.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "From email alert to planned repair",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Email lands with fault classification",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "The SAM4 dashboard shows asset health, fault alerts, and energy performance across the fleet. Alerts route to email, your CMMS, or your control room. Works alongside existing vibration programs.",
+    "url": "https://samotics.com/industries/metals-mining",
+    "pass": 1
+   },
+   {
+    "quote": "Authorised users can access the SAM4 dashboard from approved devices and locations. Alerts route to email, your CMMS, or your control room. Works alongside existing vibration programmes and SCADA systems.",
+    "url": "https://samotics.com/industries/oil-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Email lands with fault classification",
+    "url": "https://samotics.com/industries/oil-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Samotics - Siemens — Samotics は、ACモーターと回転機器の性能とエネルギー効率を最適化するためのリアルタイムの実用的な洞察を提供する大手プロバイダーです。専門家...",
+    "url": "https://www.siemens.com/ja-jp/ecosystem/samotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics | Monitor the assets your sensors can't reach — Samotics reviews ambiguous findings and provides a diagnosis, supporting evidence and a recommended next step. Your team brings the plant knowledge and decides how to respond.",
+    "url": "https://samotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Samotics | The company behind SAM4 — Samotics was founded in 2015 to help industrial teams monitor motor-driven equipment that is difficult to access. Our engineers use current and voltage measurements to assess equipment condition, performance and energy use.",
+    "url": "https://samotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "SAM4 Health - Siemens — SAM4 Health 搭載 Samotics Samotics は、ACモーターと回転機器の性能とエネルギー効率を最適化するためのリアルタイムの実用的な洞察を提供する大手プロバイダーです。",
+    "url": "https://www.siemens.com/ja-jp/products/samotics-sam4-health/",
+    "pass": 3
+   },
+   {
+    "quote": "ABB launches embedded ESA technology in drives, turning ... — Nov 3, 2025 · • The development is rooted in the long-term strategic partnership ABB established in 2022 with Samotics, the leading provider of condition monitoring technology based on Electrical Signature Analysis (ESA).",
+    "url": "https://new.abb.com/news/detail/130546/abb-launches-embedded-esa-technology-in-drives-turning-modernization-into-a-digital-catalyst",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics - Siemens — データサイエンティスト、ソフトウェア開発者、技術専門家からなる専門家チームが、世界の産業企業がエネルギーの浪費と予期しないダウンタイムを削減できるようにするAI主導のプラットフォームを開発しました。 SAM4 Healthは、電流信号と電圧信号を分析して、電気的および機械的障害を最大 90% の精度で検出します。 このシステムは、モーター制御キャビネット内に簡単に設置できます。 したがって、重要な資産をリモートで大規模に監視できます。 Samotics は、ACモーターと回転機器の性能とエネルギー効率を最適化するためのリアルタイムの実用的な洞察を提供する大手プロバイダーです。",
+    "url": "https://www.siemens.com/ja-jp/ecosystem/samotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics | LinkedIn — Founded in 2015 in the Netherlands, Samotics is the global leader in smart monitoring technology for hard-to-reach industrial assets.",
+    "url": "https://jp.linkedin.com/company/samotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer case studies - Samotics — Real-world detection stories and customer results from SAM4 deployments across pumps, fans, conveyors, and other motor-driven assets.",
+    "url": "https://samotics.com/proof/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Samotics — Page 2 — Real-world detection stories and customer results from SAM4 deployments across pumps, fans, conveyors, and other motor-driven assets.",
+    "url": "https://samotics.com/proof/case-studies?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "Anglian_Water_and_Samotics_case_study - swan-forum.com — By implementing Samotics’ predictive technology, Anglian Water gains real-time insights that help the company to successfully implement a proactive maintenance strategy and work in a more data-driven way.",
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY Yorkshire Water by Samotics - ABB — Sep 12, 2024 · Yorkshire Water by Samotics Optimizing maintenance planning with remote and real-time clogging detection: How Yorkshire Water is reducing pollution events and pump inspections using advanced analytics from Samotics.",
+    "url": "https://search.abb.com/library/Download.aspx?DocumentID=4MWA000098",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY Anglian Water by Samotics - search.abb.com — Reaping the fruits of a proactive maintenance strategy: How Anglian Water prevented unplanned downtime and a subsequent pollution incident using Samotics’ predictive analytics.",
+    "url": "https://search.abb.com/library/Download.aspx?DocumentID=4MWA000097",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics - 2026 Company Profile, Team, Funding & Competitors ... — Feb 14, 2026 · Samotics is a series A company based in Leiden (Netherlands), founded in 2015 by Jasper Hoogeweegen, Simon Jagers and Gerben Gooijers. It operates as a Provider of condition monitoring solutions for industrial assets and equipment. Samotics has raised $23M in funding from investors like UNIIQ, 83NORTH and ENGIE Servi",
+    "url": "https://tracxn.com/d/companies/samotics/__FG1vYZceGTObP_kxAc1yz14nr1ZIdE-iDrPFc3BaWf0",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics – Growth Analysis & Alternative Companies – 2026 — Industry estimates place Samotics's yearly revenue at around $15.1M. The estimated revenue per employee at Samotics is $145K. To date, Samotics has raised $44M in funding. The current employee count at Samotics is approximately 100+. Samotics experienced a 4% drop in staff numbers last year.",
+    "url": "https://compworth.com/company/samotics",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics 2026 Company Profile: Valuation, Funding & Investors ...Samotics: Funding, Team & Investors | Startup IntrosSamotics Information - RocketReachSamotics — Company Profile, Funding & InvestorsSamotics — venture-backed company profile | Dealroom — Information on valuation, funding, cap tables, investors, and executives for Samotics. Use the PitchBook Platform to explore the full profile. Jul ",
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The company was founded in 2015 by Simon Jagers, Jasper Hoogeweegen, and Gerben Gooijers in Leiden, Netherlands. Their foundational insight stemmed from the pervasive challenge industrial operators faced in accurately monitoring the health of vital, often inaccessible, equipment.",
+    "url": "https://startupintros.com/orgs/samotics",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics Information - RocketReachSamotics — Company Profile, Funding & InvestorsSamotics — venture-backed company profile | Dealroom — Samotics is a Software, Machine Learning, and Software Development company located in Leiden, South Holland with $21.4 million in revenue and 110 employees. Find top employees, contact details and business statistics at RocketReach. Samotics company profile with $",
+    "url": "https://rocketreach.co/samotics-profile_b55cf1a3f9e83b1b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Samotics (@Samotics) / Posts / X Northern Ireland Water expands asset monitoring programme with AI technology from Dutch company @Samotics. Its AI-driven SAM4 system will be used to support the delivery of a more cost efficient & sustainable service.",
+    "url": "https://x.com/Samotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"#samotics\" - Results on X | Live Posts & Updates Results for \"#samotics\" on X (Twitter). Find the latest posts, discussions, and updates about #samotics. 20 results found.",
+    "url": "https://x.com/hashtag/samotics",
+    "pass": 3
+   },
+   {
+    "quote": "Had an amazing convo with Simon Jaegers, founder & CEO of ... Had an amazing convo with Simon Jaegers, founder & CEO of @Samotics He's solving a problem most people don't even know exists, 30-40% of factory machines run in places where sensors literally burn up or cost too much to install.",
+    "url": "https://x.com/Arjunjain/status/2054928799477928416",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics (@Samotics) / Posts / X The team at @TotalEnergies Antwerp share their story of how they leverage real-time #conditionmonitoring insights from @SchneiderElec & Samotics to keep their rotating systems reliable & safe.",
+    "url": "https://x.com/Samotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Samotics - LinkedIn Making Industrial Blind Spots Visible | Founded in 2015 in the Netherlands, Samotics is the global leader in smart monitoring technology for hard-to-reach industrial assets.",
+    "url": "https://www.linkedin.com/company/samotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Samotics - LinkedIn Samotics | Samotics' SAM4 solutions help global industrial companies to monitor the health, performance and energy efficiency of critical assets.",
+    "url": "https://www.linkedin.com/products/samotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Jasper Hoogeweegen - Owner & co-CEO @ Samotics - Making ...Calvin Barnett - UK Marketing Manager | Samotics | LinkedIn#abbxsamotics #esa #adipec2025 #conditionmonitoring # ...Monitor hard-to-reach assets from the safety of the control ... Owner & co-CEO @ Samotics - Making Industrial Blind Spots Visible · Ervaring: Samotics · Locatie: Leiden · 500+ connecties op LinkedIn. Bekijk het profiel van Ja",
+    "url": "https://nl.linkedin.com/in/jasper-hoogeweegen-8b390b2",
+    "pass": 3
+   },
+   {
+    "quote": "Calvin Barnett - UK Marketing Manager | Samotics | LinkedIn#abbxsamotics #esa #adipec2025 #conditionmonitoring # ...Monitor hard-to-reach assets from the safety of the control ... UK Marketing Manager | Samotics · Experienced marketer and editor with a demonstrated history of success in the advertising and publishing industries. Passionate about crafting communications... By using ABB drives embed",
+    "url": "https://uk.linkedin.com/in/calvinbarnett",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://samotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/resources/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/industries/airports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/industries/chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/industries/data-centers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/industries/metals-mining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/industries/oil-gas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/industries/pulp-paper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/industries/water",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/yorkshire-water-avoid-potential-fines-with-samotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/southern-waters-success-story-preventing-3-failures-saving-748k-and-ensuring-resilience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/how-zinc-smelter-nyrstar-got-800-roi-in-11-months",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/how-schiphol-airport-improved-reliability-of-its-current-baggage-handling-lines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/what-we-monitor/pumps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/improving-baggage-handling-reliability-at-london-stansted",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/condition-monitoring-anolyte-pump-detecting-cavitation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/condition-monitoring-circulator-pump-misalignment-gearbox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies/preventing-downtime-on-belt-driven-equipment",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://samotics.com/_vercel/image?url=https%3A%2F%2Fgorgeous-laughter-7126de9a27.media.strapiapp.com%2FHot_strip_mill_with_smoke_87ca2306fb.jpg&w=1200&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.siemens.com/ja-jp/ecosystem/samotics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://samotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/products/samotics-sam4-health/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/ecosystem/samotics/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/samotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://samotics.com/proof/case-studies?page=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://search.abb.com/library/Download.aspx?DocumentID=4MWA000098",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/samotics/__FG1vYZceGTObP_kxAc1yz14nr1ZIdE-iDrPFc3BaWf0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/samotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/171330-13",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/samotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Samotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/samotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Arjunjain/status/2054928799477928416",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/samotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/samotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/jasper-hoogeweegen-8b390b2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/calvinbarnett",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Samotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/samotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Samotics 日本 導入",
+   "results": [
+    "https://www.siemens.com/ja-jp/ecosystem/samotics/",
+    "https://samotics.com/",
+    "https://samotics.com/about",
+    "https://www.siemens.com/ja-jp/products/samotics-sam4-health/",
+    "https://new.abb.com/news/detail/130546/abb-launches-embedded-esa-technology-in-drives-turning-modernization-into-a-digital-catalyst",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://mainichi.jp/articles/20261031/k00/00m/010/262000c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://chigai-hikaku.com/?p=36920",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samotics Japan",
+   "results": [
+    "https://samotics.com/",
+    "https://samotics.com/about",
+    "https://www.siemens.com/ja-jp/ecosystem/samotics/",
+    "https://jp.linkedin.com/company/samotics/",
+    "https://bookretreats.com/s/wellness-retreats/somatics-retreats/japan",
+    "https://careers.samotics.com/leadership-team",
+    "https://new.abb.com/news/detail/95017/abb-partners-with-samotics-to-expand-its-condition-monitoring-services?trk=public_post_main-feed-card_feed-article-content"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samotics manufacturing customer case study",
+   "results": [
+    "https://samotics.com/proof/case-studies",
+    "https://samotics.com/proof/case-studies?page=2",
+    "https://swan-forum.com/wp-content/uploads/2023/01/Samotics-Anglian-Water-Case-Study.pdf",
+    "https://search.abb.com/library/Download.aspx?DocumentID=4MWA000098",
+    "https://search.abb.com/library/Download.aspx?DocumentID=4MWA000097",
+    "https://www.linkedin.com/posts/samotics_hot-strip-mill-degrading-rollers-case-study-activity-7115307039207124992-vzsB",
+    "https://swan-forum.com/wp-content/uploads/2022/12/Vitens-Samotics-Case-Study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samotics white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://reseller.amazon.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.autodesk.com/support/partners",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/samotics/__FG1vYZceGTObP_kxAc1yz14nr1ZIdE-iDrPFc3BaWf0",
+    "https://compworth.com/company/samotics",
+    "https://pitchbook.com/profiles/company/171330-13",
+    "https://startupintros.com/orgs/samotics",
+    "https://rocketreach.co/samotics-profile_b55cf1a3f9e83b1b",
+    "https://acquirezy.com/organization/samotics",
+    "https://dealroom.co/companies/samotics/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Samotics",
+   "results": [
+    "https://note.com/tag/未来人の忘れ物",
+    "https://note.com/tag/フランス+デモ",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Samotics",
+   "results": [
+    "https://x.com/Samotics",
+    "https://x.com/hashtag/samotics",
+    "https://x.com/",
+    "https://x.com/Arjunjain/status/2054928799477928416",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Breaking911/status/2116983012219040032",
+    "https://x.com/chillestwoman/status/2116669325868400644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Samotics",
+   "results": [
+    "https://www.linkedin.com/company/samotics/",
+    "https://www.linkedin.com/products/samotics/",
+    "https://nl.linkedin.com/in/jasper-hoogeweegen-8b390b2",
+    "https://uk.linkedin.com/in/calvinbarnett",
+    "https://www.linkedin.com/posts/samotics_abbxsamotics-esa-adipec2025-activity-7391814851876237313-SiXc",
+    "https://uk.linkedin.com/in/tom-swain-uk",
+    "https://www.linkedin.com/posts/samotics_monitor-hard-to-reach-assets-from-the-safety-activity-7407000360755695616-uiNX"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Samotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Samotics note 社長",
+   "results": [
+    "https://careers.samotics.com/leadership-team",
+    "https://samotics.com/about",
+    "https://fundediq.co/samotics-samotics-com-funding/",
+    "https://www.youtube.com/watch?v=C5pkgKiahgU",
+    "https://samotics.com/",
+    "https://www.crunchbase.com/person/simon-jagers",
+    "https://www.adipec.com/speaker-root-2025/downstream-technical-programme/simon-jagers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Samotics X 投稿",
+   "results": [
+    "https://x.com/Samotics",
+    "https://x.com/hashtag/samotics",
+    "https://samotics.com/",
+    "https://sam4.samotics.com/dashboard",
+    "https://samotics.com/about",
+    "https://www.siemens.com/zh-cn/ecosystem/samotics/",
+    "https://x-sou.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

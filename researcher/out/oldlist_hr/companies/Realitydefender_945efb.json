@@ -1,0 +1,1397 @@
+{
+ "name": "Realitydefender",
+ "aliases": [],
+ "context": "旧営業リスト｜Security｜未接触",
+ "researched_at": "2026-11-09T22:01:23.368565+00:00",
+ "official_url": "https://www.realitydefender.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Seed",
+    "value": "2,781,234 $0.000010  $0.79 $0.79 1x $0.79 11.42%",
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Detect deepfakes in audio, video, and images. Identify AI callers and add detection to live calls, meetings, and applications.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage the cost of serving AI callers. Detect AI-generated or manipulated audio, video, and images before you act.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RealMeeting: Audio + video analysis during virtual meetings",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Global bank brings voice intelligence to frontline teams",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Findings reached representatives during customer calls without disrupting their existing workflows.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontline representatives receiving real-time detection",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Impersonation signals for hiring + employee access",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flagged interview or employee-meeting media helps HR + security teams investigate concerns before an offer, access change or sensitive approval.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Support closer review when a virtual meeting involves confidential information, financial approvals or access.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add evidence of AI manipulation to onboarding alongside your existing identity checks.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Escalate suspicious executive voice or video requests involving payments, sensitive disclosures or changes in access.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More scrutiny for suspicious account openings, recovery requests + payment approvals.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce meeting findings that inform approvals, with a distinct product path for subscriber calls.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent capacity for complex member + provider needs, with eligible AI inquiries handled under your service policies.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Staffing + Recruiting",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Less recruiting effort wasted on manipulated interviews, from candidate evaluation through onboarding decisions.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identity Verification Providers",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-manipulation findings inside your verification product, alongside existing identity checks.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deepfake intelligence within your application’s existing review + escalation process.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring media intelligence into the tools, services and workflows your customers use. Our ecosystem connects deployment specialists, technology providers and researchers working on AI-generated threats.",
+    "url": "https://www.realitydefender.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.realitydefender.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Research collaboration to test synthetic media and improve detection methods.",
+    "url": "https://www.realitydefender.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Your collaboration could involve deployment, services, technology or research. The first conversation starts with the customer problem and what each team can contribute.",
+    "url": "https://www.realitydefender.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Protect account access, hiring + business decisions",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring + Workforce Protection",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Suspicious interview, onboarding + employee-meeting media can prompt HR and security follow-up before hiring or access decisions.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Generated selfies and recordings submitted during onboarding.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Account protection, service efficiency + credibility",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Customer calls, digital onboarding, and sensitive financial meetings.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Employee-meeting findings help inform internal approvals. Subscriber calls have a distinct voice-product path.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "AI-assisted calls on member and provider lines.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Staffing + Recruiting",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Interview screening and the candidate handoff to your client.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Identity Verification Providers",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Submitted-file results inside your identity-verification product.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Media assessments inside your product help customers investigate suspicious submissions without leaving their existing tools.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Evidence of manipulation puts a payment request, candidate interview, or disputed recording under scrutiny before your business relies on it.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Audio and video in Microsoft Teams.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "File uploads in a browser.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Does a deepfake alert prove fraud?",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Your team will see the relevant product, the information it delivers, and where it fits into your workflow.",
+    "url": "https://www.realitydefender.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Control AI-call handling costs + preserve legitimate service",
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "pass": 1
+   },
+   {
+    "quote": "Preserve agent capacity under your AI-call policies",
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "pass": 1
+   },
+   {
+    "quote": "Your policy can limit agent time spent on routine AI-assisted requests while preserving a human path for sensitive or complex service needs.",
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "pass": 1
+   },
+   {
+    "quote": "Inconclusive results follow an explicit rule; missing evidence is not permission to proceed.",
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "pass": 1
+   },
+   {
+    "quote": "Routine AI-assisted inquiries on member and provider lines can follow permitted self-service rules before an agent handoff.",
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "pass": 1
+   },
+   {
+    "quote": "AI-assisted subscriber inquiries can follow service rules that preserve permission checks + agent access.",
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "pass": 1
+   },
+   {
+    "quote": "A representative business call connects the synthetic-speech result to the service or verification rule your platform owns.",
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring + Workforce Deepfake Detection | Reality Defender",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "HIRING + WORKFORCE PROTECTION",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Protect hiring decisions + employee access from deepfake impersonation",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Audio + video findings help recruiting, HR + security teams investigate suspicious interviews, onboarding sessions and employee requests before committing hiring time, granting access or approving a change.",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Suspicious interviews can waste recruiting effort. Manipulated onboarding sessions or employee meetings can put access, payroll changes + confidential information at risk. Media findings support follow-up alongside existing identity, background and authorization controls.",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": ": 3,000 U.S. hiring managers; interview incidents in the past year + post-hire verification practices.",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": ": 297 security leaders; incidents in the previous 12 months.",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "of hiring managers surveyed reported AI-generated or deepfake interview content.",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "of managers surveyed reported no formal, written identity-verification process after hire.",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "of security leaders surveyed reported a deepfake incident during a video call.",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Less wasted recruiting effort + clearer employee escalation",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Preserve interview-panel time",
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Closer examination of case-related recordings + images as part of evidence review.",
+    "url": "https://www.realitydefender.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An urgent transfer request arrives from an apparently familiar colleague. A suspicious-media alert warrants a callback through an established channel before any exception to normal approval.",
+    "url": "https://www.realitydefender.com/solutions/secure-video-conferencing",
+    "pass": 1
+   },
+   {
+    "quote": "Suspicious participant media warrants further verification before a permission change or system-access request proceeds.",
+    "url": "https://www.realitydefender.com/solutions/secure-video-conferencing",
+    "pass": 1
+   },
+   {
+    "quote": "A suspicious live request warrants independent confirmation before a sensitive permission or account change.",
+    "url": "https://www.realitydefender.com/solutions/executive-impersonation",
+    "pass": 1
+   },
+   {
+    "quote": "When leadership authority carries financial risk",
+    "url": "https://www.realitydefender.com/solutions/executive-impersonation",
+    "pass": 1
+   },
+   {
+    "quote": "Policyholder account-recovery requests can warrant additional verification alongside the insurer’s service and fraud controls.",
+    "url": "https://www.realitydefender.com/solutions/access-security-fraud-prevention",
+    "pass": 1
+   },
+   {
+    "quote": "The recording arrives before the full story",
+    "url": "https://www.realitydefender.com/solutions/media-evidence-verification",
+    "pass": 1
+   },
+   {
+    "quote": "An apparently decisive clip may be a lead, an allegation or a piece of case material. Its source and original file remain part of the inquiry.",
+    "url": "https://www.realitydefender.com/solutions/media-evidence-verification",
+    "pass": 1
+   },
+   {
+    "quote": "The session focuses on one banking, payments or onboarding decision, the product input and the response owned by your team.",
+    "url": "https://www.realitydefender.com/solutions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "An analyst receives a recording through the agency’s intake process. The file result sits beside source information and handling records as the team decides what warrants further inquiry.",
+    "url": "https://www.realitydefender.com/solutions/government",
+    "pass": 1
+   },
+   {
+    "quote": "A suspected manipulation can change how counsel approaches a recording. Original media, acquisition history and corroborating material give a qualified expert the context for further examination.",
+    "url": "https://www.realitydefender.com/solutions/legal",
+    "pass": 1
+   },
+   {
+    "quote": "The clip arrives before its full context does",
+    "url": "https://www.realitydefender.com/solutions/media-publishers",
+    "pass": 1
+   },
+   {
+    "quote": "File scores help the verification desk decide which submissions warrant source tracing or expert examination.",
+    "url": "https://www.realitydefender.com/solutions/media-publishers",
+    "pass": 1
+   },
+   {
+    "quote": "Routine AI-assisted member and provider inquiries and the circumstances that warrant human support.",
+    "url": "https://www.realitydefender.com/solutions/healthcare-payers",
+    "pass": 1
+   },
+   {
+    "quote": "A convincing voice or face should not settle a consequential decision. We want media intelligence to become an ordinary part of the systems people rely on, helping organizations respond as generative threats change.",
+    "url": "https://www.realitydefender.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Colman says that Reality Defender’s winning joint solution with PeakMetrics “leverages AI-powered narrative intelligence and deepfake detection to enable agencies to defend against foreign malign influence and",
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender has 94 total employees.",
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reality Defender’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Reality Defender is",
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender Revenue 2024: $8.3M Est.",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender revenue",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender has not published its revenue. GetLatka estimates it at about $8.3M a year (June 2024).",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender employees",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender had 55 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reality Defender's revenue?",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Reality Defender's revenue at about",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Reality Defender have?",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Read the IDmission case study",
+    "url": "https://www.realitydefender.com/solutions/identity-verification-kyc",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Reality Defender",
+    "url": "https://www.casestudies.com/customer/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/reality-defender",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "が本格的に日本市場に参入したら、私たちの情報環境は劇的に改善されるでしょう",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.-Japan Global Innovation Challenge",
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "pass": 3
+   },
+   {
+    "quote": "Colman says the partnership is particularly timely for Japan, which data from Sumsub shows experiencing a whopping 243 percent year-over-year increase in",
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "pass": 3
+   },
+   {
+    "quote": "“Our cutting-edge detection capabilities are now positioned to help Japanese defense and intelligence agencies maintain information integrity during this surge. By combining forces with",
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "pass": 3
+   },
+   {
+    "quote": "Expectations for the Japanese Market and Future Outlook",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "enters the Japanese market in earnest, our information environment will likely improve dramatically.",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、ディープフェイクを直接規制する専用法はまだ存在しておらず、名誉毀損罪・著作権法・プロバイダ責任制限法などの既存法が適用されています",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本のディープフェイク法規制 Smart Generative Chat",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Reality Defender Wins US-Japan Challenge to Fight 243% ... — With Japan experiencing a staggering 243% year-over-year increase in deepfake incidents (per Sumsub), Reality Defender is stepping up to meet this challenge head-on.",
+    "url": "https://www.realitydefender.com/insights/reality-defender-wins-us-japan-challenge-fight-deepfake-spike",
+    "pass": 3
+   },
+   {
+    "quote": "AIが生む「偽物」を見抜け！Reality Defenderが切り開く新時代 — Aug 18, 2025 · この脅威に対する「免疫システム」として、Reality Defenderのような技術がますます重要になっていくはずです。 Reality Defenderは、デジタル社会の「盾」として重要な役割を担っています。",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5",
+    "pass": 3
+   },
+   {
+    "quote": "Deepfake + AI caller detection | Reality Defender — Gartner® names Reality Defender a Market Shaper in deepfake detection, June 2026 Get the report Solutions Platform Resources",
+    "url": "https://www.realitydefender.com/",
+    "pass": 3
+   },
+   {
+    "quote": "アクセンチュアがディープフェイク検出企業Reality Defenderに投資 — Oct 22, 2024 · アクセンチュアは、Reality Defenderの機能をディープフェイク検出サービスに統合し、コールセンターで使用されるAIソリューションにまで拡張する計画です。",
+    "url": "https://jp.investing.com/news/company-news/article-93CH-901607",
+    "pass": 3
+   },
+   {
+    "quote": "盗難身分証でAI自撮り、AI鑑別士台頭 - 조선일보 — Oct 20, 2026 · ／Reality Defenderホームページより 昨年11月、アルゼンチンのあるフィンテック企業で、盗まれた身分証と人工知能（AI）で合成した顔写真を使って口座を開設しようとする試みが摘発された。",
+    "url": "https://www.chosun.com/jp/economy-jp/2026/10/20/ZLN45VHPPVEYZOH5UTBNQMK6VI/",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender Wins US-Japan Challenge to Fight 243% ... — Reality Defender wins the US-Japan Innovation Challenge with AI technology combating Japan's 243% deepfake surge while protecting defense agencies from sophisticated synthetic media threats.",
+    "url": "https://www.realitydefender.com/insights/reality-defender-wins-us-japan-challenge-fight-deepfake-spike",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender Wins US-Japan Challenge to Fight 243% ... — Apr 3, 2025 · Read the full story to discover how Reality Defender's award-winning technology is helping Japan's defense agencies maintain information integrity in this critical moment.",
+    "url": "https://www.linkedin.com/pulse/reality-defender-wins-us-japan-challenge-fight-243-deepfake-lqf2f",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender secures new investments, wins innovation ... — Apr 3, 2025 · A new blog from Colman celebrates Reality Defender’s victory alongside PeakMetrics in the 2025 U.S.-Japan Global Innovation Challenge, sponsored by the Defense Innovation Unit (DIU) and Japan’s Ministry of Defense Acquisition, Technology, and Logistics Agency (ATLA).",
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "pass": 3
+   },
+   {
+    "quote": "Deepfake + AI caller detection | Reality Defender — Detect deepfakes in audio, video, and images. Identify AI callers and add detection to live calls, meetings, and applications. Manage the cost of serving AI callers. Detect AI-generated or manipulated audio, video, and images before you act. Media findings help your team decide when to verify a request, seek original material or escalate a concer",
+    "url": "https://www.realitydefender.com/",
+    "pass": 3
+   },
+   {
+    "quote": "アクセンチュアがディープフェイク検出企業Reality Defenderに投資 — Oct 22, 2024 · 2018年に設立されニューヨークに本社を置くReality Defenderは、ディープフェイクやAI生成コンテンツからの高度な脅威に対抗するソリューションを提供しています。 同社の技術は、コールセンターでの音声詐欺からメディアコンテンツの真正性確保まで、幅広いリスクから保護するよう設計されています。 Reality...",
+    "url": "https://jp.investing.com/news/company-news/article-93CH-901607",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies in Deepfake Detection | Reality Defender — Customer stories show the deployment, the evidence available and the decisions teams made in response. Explore customer examples of deepfake detection in financial services, identity verification, media and public-sector investigations.",
+    "url": "https://www.realitydefender.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender B2B Case Studies & Customer Successes — See how Reality Defender solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Reality Defender as the Customer — Explore case studies featuring Reality Defender as the customer — learn how vendors and partners helped Reality Defender solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "3 Reality Defender Customer Reviews & References — Discover what Featured Customers are saying about Reality Defender through testimonials, reviews, & case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "3 Reality Defender Case Studies, Success Stories, & Customer ... — Reality Defender has a 4.8/5 star rating. Learn what their customers think, get 3 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/reality-defender/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender 2026 Company Profile: Valuation, Funding ...Reality Defender - 2026 Company Profile, Team, Funding ...Reality Defender Revenue 2024: $8.3M Est. - getlatka.comReality Defender: $48.59M Funding & 92 Employees | MandosReality Defender - Crunchbase Company Profile & FundingReality Defender: Funding, Investors & Team (Nov 2026) — Information on valuation, funding, cap tables, investors",
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender - 2026 Company Profile, Team, Funding ... — Mar 21, 2026 · Reality Defender has raised $52.4M in funding from DCVC and Illuminate Financial. The company has 458 active competitors, including 111 funded and 75 that have exited.",
+    "url": "https://tracxn.com/d/companies/realitydefender/__ZL3JQRZBSWQdBzjzHQ2Huwdcck9IR8XdS1G36uFDk3s",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender Revenue 2024: $8.3M Est. - getlatka.com — Oct 7, 2026 · Reality Defender is a Disinformation Detection Tools company based in New York, founded in 2021.",
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender: $48.59M Funding & 92 Employees | Mandos — Oct 11, 2026 · Reality Defender is a cybersecurity company specializing in Threat Intelligence, founded in 2021 and headquartered in New York, United States. It has raised $48.59M in equity across 5 priced rounds, plus $4K non-dilutive & grants, employs about 92 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender - Crunchbase Company Profile & Funding — Unlock company funding data, including rounds, dates, amounts, and investors. Access a complete feed of recent news and press, from product launches to leadership changes. $4.6M This year, Reality Defender is projected to spend $4.6M on IT, according to Aberdeen.",
+    "url": "https://www.crunchbase.com/organization/reality-defender",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Colman says that Reality Defender’s winning joint solution with PeakMetrics “leverages AI-powered narrative intelligence and deepfake detection to enable agencies to defend against foreign malign influence and",
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "pass": 3
+   },
+   {
+    "quote": "“Our cutting-edge detection capabilities are now positioned to help Japanese defense and intelligence agencies maintain information integrity during this surge. By combining forces with",
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "pass": 3
+   },
+   {
+    "quote": "As a pioneer in deepfake detection, it is a company attracting attention from corporations and government agencies around the world.",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Proven implementation in major financial institutions and government agencies",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/reality-defender",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Spot the 'Fakes' Created by AI! The New Era Opened by Reality ... This time, I will introduce a groundbreaking company that is tackling the challenges of the AI era head-on. It is Reality Defender, founded in New York in 2021. As a pioneer in deepfake detection, it is a company attracting attention from corporations and government agencies around the world.",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Takes Center Stage! A Report on the Cybersecurity Festival ... Jun 16, 2024 · The company that ultimately emerged as the winner was Reality Defender, which provides a deepfake detection service. *Deepfake: A technology that uses artificial intelligence (AI) to synthesize the face or voice of another person onto existing images or videos to create realistic fake content.",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Deepfake? An Era Where \"Seeing is Believing\" No ... Jul 19, 2026 · Reality Defender \"A Brief History of Deepfakes\" https://www.realitydefender.com/insights/history-of-deepfakes MIT Sloan \"Deepfakes, explained\" https://mitsloan.mit.edu/ideas-made-to-matter/deepfakes-explained GAN article (No. 025) previously covered in this project",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Spot the 'Fakes' Created by AI! The New Era Opened by Reality Defender｜うり｜ひとり法人9期目",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Spot the 'Fakes' Created by AI! The New Era Opened by Reality Defender",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am introducing interesting businesses from overseas.",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Can you really trust the videos and images you see on social media?",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Now that deepfakes are blending into our daily lives, it is becoming difficult for the human eye alone to distinguish what is real and what is fake.",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I will introduce a groundbreaking company that is tackling the challenges of the AI era head-on. It is",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", founded in New York in 2021.",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a pioneer in deepfake detection, it is a company attracting attention from corporations and government agencies around the world.",
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Takes Center Stage! A Report on the Cybersecurity Festival \"RSA Conference 2024\" in the USA｜エムオーテックス（MOTEX）公式",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Takes Center Stage! A Report on the Cybersecurity Festival \"RSA Conference 2024\" in the USA",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I attended the world's largest cybersecurity conference,",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", held in San Francisco in May 2024. This is Nakamoto from MOTEX.",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will share what left the biggest impression on me at RSA Conference 2024 USA, including:",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Highly anticipated content on \"the latest in cybersecurity\"",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The results of the contest featuring notable startups",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The atmosphere in San Francisco, where you can experience cutting-edge IT technology",
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ディープフェイクとは――「百聞は一見にしかず」が通用しなくなる時代｜くろ｜AI副読ノート",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ディープフェイクとは――「百聞は一見にしかず」が通用しなくなる時代",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「百聞は一見にしかず」という言葉があります。",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "何度説明を聞くより、一度自分の目で見るほうがずっとよくわかる。動画や写真は、嘘をつかない証拠として長く扱われてきました。法廷の証拠映像、ニュースの現場映像、SNSに流れる当事者の発言。私たちは「映像に映っているなら本当のことだ」と、無意識のうちに信じてきました。",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "**ディープフェイク（deepfake）**という技術は、人物の顔・声・動きをAIで精巧に偽造し、「本人が言っていないこと・していないことを、本物らしく見せる映像や音声」を生み出します。技術が高精度になるにつれ、目で見ただけでは本物か偽物か判断できなくなってきています。",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「百聞は一見にしかず」が通用しなくなる時代——この記事ではその入口を理解します。",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "deep learning（ディープラーニング）",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "です。「deepfakes」というユーザー名のReddit（海外の大型掲示板サービス）アカウントが、ディープラーニングを使って有名人の顔を別の動画に合成した映像を投稿し、同名のコミュニティ（サブレディット）を立ち上げました。アカウントの作成は2017年9月26日、コミュニティの開設は同年11月2日のことです。",
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RealityDefender (@HH2023Reality) / Posts / X RealityDefender (@HH2023Reality) - Posts - Lover of America, the Constitution, God, and free will. The answer to 1984 is 1776. \"Those who mak... | X (formerly Twitter)",
+    "url": "https://x.com/HH2023Reality",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Check (@RealityDefender) / Posts / X Reality Check (@RealityDefender) - Posts - | X (formerly Twitter) \" @HawaiianGlitter: I can honestly say a broken heart is the worst pain in the world.\" Ever get kicked in the dick?? #WorstPain 💬0 🔄0 🤍0 0 📎 Reality CheckRealityDefender Jan 24",
+    "url": "https://x.com/RealityDefender",
+    "pass": 3
+   },
+   {
+    "quote": "RealityDefender RealityDefender (@HH2023Reality). 436 views. @maximumpain333 Seriously, that's their idea of 'iron fortified.' The metallic iron added to breakfast cereals since the 1940s is actual metal—iron filings that can be extracted from a bowl of cereal using a magnet.",
+    "url": "https://x.com/HH2023Reality/status/2043381134625529864",
+    "pass": 3
+   },
+   {
+    "quote": "RealityDefender on X: \"@EdGrove @GlowSurfing @grok please ... RealityDefender on X: \"@EdGrove @GlowSurfing @grok please please please wake up people...you cannot trust narrative-controlled AI systems to do your research for you and actually give you CORRECT and TRUE answers.",
+    "url": "https://x.com/HH2023Reality/status/2080292980053717347",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender (@DetectDeepfakes) / X Reality Defender can identify audio deepfakes in call centers faster than it took to read this post. Learn more about our Real-Time Voice Deepfake Detection, now in call centers around the world.",
+    "url": "https://x.com/detectdeepfakes",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ben Colman - CEO at Reality Defender | AI detection for ...Ali Shahriyari - Deep Tech | Cybersecurity | LinkedInMilos Fulton Peluffo - Reality Defender | LinkedInCollin Borns - Reality Defender | LinkedInKyra Rauschenbach - Detecting AI Generated Media ... - LinkedInMason Allen - Reality Defender | LinkedIn About Reality Defender detects AI generated content for enterprise and government in real t",
+    "url": "https://www.linkedin.com/in/benpcolman",
+    "pass": 3
+   },
+   {
+    "quote": "Ali Shahriyari - Deep Tech | Cybersecurity | LinkedInMilos Fulton Peluffo - Reality Defender | LinkedInCollin Borns - Reality Defender | LinkedInKyra Rauschenbach - Detecting AI Generated Media ... - LinkedInMason Allen - Reality Defender | LinkedIn As Co-Founder of Reality Defender, I built and led the engineering organization behind the leading AI-driven deepfake detection platform, partnering w",
+    "url": "https://www.linkedin.com/in/alishahriyari",
+    "pass": 3
+   },
+   {
+    "quote": "Milos Fulton Peluffo - Reality Defender | LinkedInCollin Borns - Reality Defender | LinkedInKyra Rauschenbach - Detecting AI Generated Media ... - LinkedInMason Allen - Reality Defender | LinkedIn Experience: Reality Defender · Location: New York · 500+ connections on LinkedIn. View Milos Fulton Peluffo’s profile on LinkedIn, a professional community of 1 billion members. · Experience: Reality Def",
+    "url": "https://www.linkedin.com/in/milosfp",
+    "pass": 3
+   },
+   {
+    "quote": "Collin Borns - Reality Defender | LinkedInKyra Rauschenbach - Detecting AI Generated Media ... - LinkedInMason Allen - Reality Defender | LinkedIn · Experience: Reality Defender · Education: Loyola University Chicago · Location: New York · 500+ connections on LinkedIn. Detecting AI Generated Media for National Security · Experience: Reality Defender · Education: Columbia University · Location: New",
+    "url": "https://www.linkedin.com/in/collinborns",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Colman - CEO at Reality Defender | AI detection for ...Ben Colman — Reality DefenderAbout Reality DefenderQ&A with Ben Colman, Co-Founder and CEO of Reality DefenderBen Colman | Resilience Conf加藤貞顕 - WikipediaAli Shahriyari - Deep Tech | Cybersecurity | LinkedIn About Reality Defender detects AI generated content for enterprise and government in real time, across audio, video, and image. Apr 2",
+    "url": "https://www.linkedin.com/in/benpcolman",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Reality Defender - Facebook Mar 22, 2022 · We are thrilled to announce that Reality Defender is part of Y Combinator’s W22 batch. A year ago we launched Reality Defender to help companies, governments, and journalists detect deepfakes using deep learning.",
+    "url": "https://www.facebook.com/p/Reality-Defender-100081828003847/",
+    "pass": 3
+   },
+   {
+    "quote": "Reality Defender - Facebook Mar 22, 2022 · A year ago we launched Reality Defender to help companies, governments, and journalists detect deepfakes using deep learning.",
+    "url": "https://www.facebook.com/Reality-Defender-100081828003847/",
+    "pass": 3
+   },
+   {
+    "quote": "TIME - Reality Defender, a company specializing in... | Facebook Reality Defender, a company specializing in identifying deepfakes, says it was able to bypass Sora’s anti-impersonation safeguards within 24 hours.",
+    "url": "https://www.facebook.com/time/posts/reality-defender-a-company-specializing-in-identifying-deepfakes-says-it-was-abl/1191428129509851/",
+    "pass": 3
+   },
+   {
+    "quote": "Your CEO on Zoom might be fake. These 6 tools ... - Facebook Your CEO on Zoom might be fake. These 6 tools catch synthetic video, voice and images: 1. Reality Defender - multimodal, live Zoom and Teams detection:...",
+    "url": "https://www.facebook.com/gotostationx/videos/your-ceo-on-zoom-might-be-fake-these-6-tools-catch-synthetic-video-voice-and-ima/1039531598457301/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.realitydefender.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/agentic-call-routing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/hiring-workforce-protection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/secure-video-conferencing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/identity-verification-kyc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/executive-impersonation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/access-security-fraud-prevention",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/media-evidence-verification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/telecommunications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/legal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/media-publishers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/solutions/healthcare-payers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/case-studies/how-an-identity-verification-platform-stopped-a-deepfake-selfie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realitydefender.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/uri_future/n/n2056100e3ec5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/company-news/article-93CH-901607",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/reality-defender-wins-us-japan-challenge-fight-243-deepfake-lqf2f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/reality-defender",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/reality-defender",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/reality-defender",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/491666-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/realitydefender/__ZL3JQRZBSWQdBzjzHQ2Huwdcck9IR8XdS1G36uFDk3s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/realitydefender.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/reality-defender",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HH2023Reality",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RealityDefender",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HH2023Reality/status/2043381134625529864",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HH2023Reality/status/2080292980053717347",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/benpcolman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alishahriyari",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/milosfp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/collinborns",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Reality-Defender-100081828003847/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Reality-Defender-100081828003847/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/time/posts/reality-defender-a-company-specializing-in-identifying-deepfakes-says-it-was-abl/1191428129509851/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gotostationx/videos/your-ceo-on-zoom-might-be-fake-these-6-tools-catch-synthetic-video-voice-and-ima/1039531598457301/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/benpcolman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HH2023Reality",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/detectdeepfakes",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Realitydefender 日本 導入",
+   "results": [
+    "https://www.realitydefender.com/insights/reality-defender-wins-us-japan-challenge-fight-deepfake-spike",
+    "https://note.com/uri_future/n/n2056100e3ec5",
+    "https://www.realitydefender.com/",
+    "https://jp.investing.com/news/company-news/article-93CH-901607",
+    "https://www.chosun.com/jp/economy-jp/2026/10/20/ZLN45VHPPVEYZOH5UTBNQMK6VI/",
+    "https://www.linkedin.com/pulse/reality-defender-wins-us-japan-challenge-fight-243-deepfake-lqf2f",
+    "https://claude-magazine.com/deepfake-detection-and-countermeasures"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Realitydefender 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://docs.realitydefender.com/introduction"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Realitydefender Japan",
+   "results": [
+    "https://www.realitydefender.com/insights/reality-defender-wins-us-japan-challenge-fight-deepfake-spike",
+    "https://www.linkedin.com/pulse/reality-defender-wins-us-japan-challenge-fight-243-deepfake-lqf2f",
+    "https://www.biometricupdate.com/202504/reality-defender-secures-new-investments-wins-innovation-challenge",
+    "https://www.realitydefender.com/",
+    "https://jp.investing.com/news/company-news/article-93CH-901607",
+    "https://www.linkedin.com/company/reality-defender",
+    "https://www.dcvc.com/companies/reality-defender/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Realitydefender manufacturing customer case study",
+   "results": [
+    "https://www.realitydefender.com/case-studies",
+    "https://www.casestudies.com/company/reality-defender",
+    "https://www.casestudies.com/customer/reality-defender",
+    "https://www.featuredcustomers.com/vendor/reality-defender",
+    "https://www.featuredcustomers.com/vendor/reality-defender/case-studies",
+    "https://www.digitalnycagency.com/case-studies/reality-defender",
+    "https://www.realitydefender.com/?ref=bm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Realitydefender white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.spectrum.com/",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Realitydefender founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/491666-59",
+    "https://tracxn.com/d/companies/realitydefender/__ZL3JQRZBSWQdBzjzHQ2Huwdcck9IR8XdS1G36uFDk3s",
+    "https://getlatka.com/companies/realitydefender.com",
+    "https://mandos.io/data/companies/reality-defender",
+    "https://www.crunchbase.com/organization/reality-defender",
+    "https://fundediq.co/reality-defender-realitydefender-com-funding/",
+    "https://compworth.com/company/reality-defender"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Realitydefender",
+   "results": [
+    "https://note.com/uri_future/n/n2056100e3ec5?hl=en",
+    "https://note.com/motex/n/ne25e2c2cfd81?hl=en",
+    "https://note.com/kuro_ai_note/n/nc5ee4f56a25d?hl=en",
+    "https://tales.note.com/",
+    "https://note.com/uri_future/n/n2056100e3ec5",
+    "https://note.com/zunda_dd/n/ncc81b0456705",
+    "https://note.com/macnica/n/n9da46015bfab"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Realitydefender",
+   "results": [
+    "https://x.com/HH2023Reality",
+    "https://x.com/RealityDefender",
+    "https://x.com/HH2023Reality/status/2043381134625529864",
+    "https://x.com/HH2023Reality/status/2080292980053717347",
+    "https://x.com/real_defender",
+    "https://x.com/detectdeepfakes",
+    "https://x.com/Sadie2arms"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Realitydefender",
+   "results": [
+    "https://www.linkedin.com/in/benpcolman",
+    "https://www.linkedin.com/in/alishahriyari",
+    "https://www.linkedin.com/in/milosfp",
+    "https://www.linkedin.com/in/collinborns",
+    "https://www.linkedin.com/in/kyra-rauschenbach-509137101",
+    "https://www.linkedin.com/in/masondallen",
+    "https://www.linkedin.com/company/reality-defender"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Realitydefender",
+   "results": [
+    "https://www.facebook.com/p/Reality-Defender-100081828003847/",
+    "https://www.facebook.com/Reality-Defender-100081828003847/",
+    "https://www.facebook.com/time/posts/reality-defender-a-company-specializing-in-identifying-deepfakes-says-it-was-abl/1191428129509851/",
+    "https://www.facebook.com/gotostationx/videos/your-ceo-on-zoom-might-be-fake-these-6-tools-catch-synthetic-video-voice-and-ima/1039531598457301/",
+    "https://www.facebook.com/reel/931671306401021/",
+    "https://www.facebook.com/groups/aifire.co/posts/1568690807069556/",
+    "https://www.facebook.com/TechTrendsUpdate/posts/in-the-fight-against-deepfakes-and-ai-generated-content-reality-defender-has-rec/122130961844020455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Realitydefender note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/benpcolman",
+    "https://www.resilienceconference.io/team/ben-colman",
+    "https://www.realitydefender.com/team/ben-colman",
+    "https://www.realitydefender.com/company",
+    "https://www.goldmansachs.com/alumni/spotlight/2024/q-a-with-ben-colman-co-founder-and-ceo-of-reality-defender",
+    "https://www.linkedin.com/in/alishahriyari"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Realitydefender X 投稿",
+   "results": [
+    "https://x.com/HH2023Reality",
+    "https://x.com/detectdeepfakes",
+    "https://www.realitydefender.com/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://www.mrds66.com/",
+    "https://www.twidouga.net/jp/ranking_t1.php",
+    "https://sechub.in/view/2871903"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

@@ -1,0 +1,497 @@
+{
+ "name": "cotu s.r.o. — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:38:42.495889+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - Facebookcotu | Prague - Facebookcotu - Our company cotu s.r.o. had the opportunity to ...COTU - FacebookCOTU Shop-Hàng Hiệu Xuất Khẩu-Nofake | Ho Chi Minh CityVoxelMatters - The top 10 metal AM companies by revenue ...Susan Exline Utterback (@susaneu) • Facebook, Connect with ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked of",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tethon3d.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%9F%E3%83%8D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolde.co.jp/cms/wp-content/uploads/2016/10/bf372b18484bf7dda34d13f60a823753.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-origin.nitto.com/jp/ja/products/chatbot/resin.jsp?id=no903ut",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.brule.co.jp/?srsltid=AYCX9vK_iFOJVNWyEGxrhLErPtK-GuGnOkguv53jq7VqtvP9mYIC8Mxy",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shop.prc.jp/shop/g/g005281/?srsltid=AYCX9vIFSIL1W7IvfhXIg7BwX0Nu-y2GBMpDxrocvzuKyWdX8x7TybB0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products/modular",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vIMBYphWK9IA3aRTwTj9MywE1gy8-S7akx3Z4gtX2RCAB3T1bQd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cotu.cz/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tethon3d.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%AC-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-2750-COTU-CLASSIC-S000010/dp/B085CGWS65",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%AD%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E2%80%9C%E5%9B%9E%E8%BB%A2-%E3%83%AD%E3%83%BC%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E8%84%B3-%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B/dp/4594081371",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00696882/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00536440/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00016743/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/eos-and-blt-lead-list-of-top-10-metal-am-companies-2025-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "cotu s.r.o. — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://tethon3d.com/distributors/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.cotu.cz/en/services",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://shop.cotu.eu/en/?srsltid=AYCX9vLysYVPaYuvMv2OxdqSQVVLk5opNlOMqAv2CwZRuhtu1zuHPO_O",
+    "https://www.voxelmatters.directory/",
+    "https://www.exone.com/en/about-us/locations/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ルミネ",
+    "http://toolde.co.jp/cms/wp-content/uploads/2016/10/bf372b18484bf7dda34d13f60a823753.pdf",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://valorholdings.co.jp/corporate/officers.html",
+    "https://www.bosco-tuktuk.com/",
+    "https://www.naka123.info/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www-origin.nitto.com/jp/ja/products/chatbot/resin.jsp?id=no903ut",
+    "https://www.brule.co.jp/?srsltid=AYCX9vK_iFOJVNWyEGxrhLErPtK-GuGnOkguv53jq7VqtvP9mYIC8Mxy",
+    "https://shop.prc.jp/shop/g/g005281/?srsltid=AYCX9vIFSIL1W7IvfhXIg7BwX0Nu-y2GBMpDxrocvzuKyWdX8x7TybB0",
+    "https://www.tuvsud.com/ja-jp/industries/manufacturing/machinery-and-robotics/additive-manufacturing",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://tokyoclass.com/Product/Detail/view/pid/646",
+    "https://creator.holoearth.com/shop/products/1020800",
+    "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.poly-maker.jp/",
+    "https://skhonpo.com/collections/filament",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vIMBYphWK9IA3aRTwTj9MywE1gy8-S7akx3Z4gtX2RCAB3T1bQd",
+    "https://shop.exmatelab.com/",
+    "https://creator.holoearth.com/shop/products/1020807",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://jp.robotshop.com/collections/3d-printer-filament",
+    "https://www.brule.co.jp/makerbot/makerbot-filament.html?srsltid=AYCX9vIqxfEPw4bIEo3kmXbacI9ez1IsADH96MNnfTfWF_hpYmgHUGhr",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.cotu.cz/en/",
+    "https://tethon3d.com/distributors/",
+    "https://www.voxelmatters.com/",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://www.upnano.com/distributors/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.cotu.cz/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://tethon3d.com/distributors/",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://www.voxelmatters.com/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.3dnatives.com/en/events/tct-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "site:amazon.co.jp cotu s.r.o. — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/スペルガ-スニーカー-2750-COTU-CLASSIC-S000010/dp/B085CGWS65",
+    "https://www.amazon.co.jp/メンタルローテーション-“回転-ローテーション-脳-を鍛える/dp/4594081371",
+    "https://kdp.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://www.amazon.co.jp/ヒルトップクラウド-パジャマ-ルームウエア-二重起毛-上下セット/dp/B0CJDM98SB",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f6ef05cd-fea6-4e78-a535-855920d40c42/the-voxelmatters-podcast-tripo-ai’s-fast-track-to-an-ai-native-3d-future",
+    "https://watch.amazon.co.jp/watch?asin=B09JB1S8WK"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com cotu s.r.o. — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/g/00696882/",
+    "https://www.monotaro.com/g/00536440/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/g/01867773/",
+    "https://www.monotaro.com/g/02600946/",
+    "https://www.monotaro.com/g/01476473/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/eos-and-blt-lead-list-of-top-10-metal-am-companies-2025-by-revenue/",
+    "https://revenuebase.ai/companies/browse/3d-printing-and-additive-manufacturing-companies",
+    "https://en.wikipedia.org/wiki/Voxeljet",
+    "https://www.inven.ai/company-lists/top-23-3d-printing-companies",
+    "https://wohlersassociates.com/reference-guides/service-providers/",
+    "https://3dprint.com/322764/who-merged-who-was-acquired-and-who-disappeared-in-3d-printing-in-2025/",
+    "https://www.voxelmatters.directory/company/cotu-s-r-o/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com cotu s.r.o. — VoxelMatters",
+   "results": [
+    "https://note.com/vcrmnfeconi/n/nda597ceb4af4",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/pei_umapro",
+    "https://note.com/tag/ループエンジニアリング",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/taki4416/n/n60a76e1c7615"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com cotu s.r.o. — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com cotu s.r.o. — VoxelMatters",
+   "results": [
+    "https://be.linkedin.com/company/materialise",
+    "https://za.linkedin.com/in/profantonduplessis",
+    "https://cz.linkedin.com/in/drebota",
+    "https://uk.linkedin.com/in/maevegillies",
+    "https://cz.linkedin.com/in/matej-supik-28922bbb",
+    "https://de.linkedin.com/in/hendrik-holling-76168a136",
+    "https://www.linkedin.com/company/co-tu-s-r-o-",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://cz.linkedin.com/in/daniel-jankovic-a2789a12"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com cotu s.r.o. — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/cotu.cz/about/",
+    "https://www.facebook.com/cotu.cz/posts/naše-společnost-cotu-sro-měla-možnost-vyrobit-10-ks-pochromovaného-loga-pro-před/1495059297343083/",
+    "https://www.facebook.com/COTUsounds/",
+    "https://www.facebook.com/COTUShop62/",
+    "https://www.facebook.com/VoxelMatters/posts/the-top-10-metal-am-companies-by-revenueeos-leads-a-group-of-key-players-in-meta/845175904280126/",
+    "https://www.facebook.com/susaneu/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/insights/",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.voxelmatters.report/methodology/",
+    "https://additive-manufacturing-report.com/team/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "cotu s.r.o. — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.voxelmatters.report/datasets/",
+    "https://faculty.sustech.edu.cn/wp-content/uploads/2019/10/2021022315575234.pdf",
+    "https://www.voxelmatters.com/events/ams-x/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

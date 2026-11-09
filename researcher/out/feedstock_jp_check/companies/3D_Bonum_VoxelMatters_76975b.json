@@ -1,0 +1,518 @@
+{
+ "name": "3D Bonum — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:20:29.863315+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - Facebook3D BONUM - FacebookVoxelMatters on Reels - FacebookVoxelMatters - For his final-year project at Central Saint ...3D BONUM - Maybe you have a fantastic knowledge about...3D BONUM - Sintratec and 3DBonum wishes all of you a ...Additive manufacturing is creating new solutions for hard-to ... Even sand, turned into a bracelet. 3D printing has quietly become one of the most inter",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "3D BONUM - FacebookVoxelMatters on Reels - FacebookVoxelMatters - For his final-year project at Central Saint ...3D BONUM - Maybe you have a fantastic knowledge about...3D BONUM - Sintratec and 3DBonum wishes all of you a ...Additive manufacturing is creating new solutions for hard-to ... Jul 9, 2022 · Modern industrial-grade 3D printers should be able to assure years of uninterrupted work in dema",
+    "url": "https://www.facebook.com/3dbonum/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/join/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/3dbonum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dbonum.com/en/projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/marketing/additive-manufacturing-guides-and-maps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJEtSxUw_61cjbbN7LckheKD09Kzm2qf-9gqWWa0u3lWs8JUe2_",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.postprocess.com/new-eu-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04188176/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00511629/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/3D_Systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dbonum/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3D Bonum — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/about/join/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.directory/companies/",
+    "https://www.voxelmatters.group/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.brule.co.jp/3dpatc.html?srsltid=AYCX9vKyTNUZ3nmgdNUEHHyGek9VZgVA6bvBvI7hCUDVMS7dXDtBvx8Q",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D Bonum — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.linkedin.com/company/3dbonum",
+    "https://www.voxelmatters.com/",
+    "https://3dbonum.com/en/projects/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://gomexus.jp/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3D Bonum — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.voxelmatters.com/category/marketing/additive-manufacturing-guides-and-maps/",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://www.bmf3d.co.jp/",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.jbm.co.jp/products/additive_manufacturing/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D Bonum — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJEtSxUw_61cjbbN7LckheKD09Kzm2qf-9gqWWa0u3lWs8JUe2_",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vK_fOUsfeoNG0pz2HuiNj9CH5SjvV8agSTyDum74qEXPXESfTet",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.amazon.co.jp/Kretrum-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%83%AA%E3%83%95%E3%82%A3%E3%83%AB%E3%80%82%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E9%81%A9%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81Bambu-ELEGOO%E3%81%AA%E3%81%A9%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88/dp/B0CXXGMDDW",
+    "https://shop.exmatelab.com/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D Bonum — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.exone.com/en/",
+    "https://www.upnano.com/distributors/",
+    "https://www.3dxtech.com/pages/distributors?srsltid=AYCX9vKaGuSNUVPKV9yzIUGAEzHyh0j7xcTCMMkYnEXwe0QdnrmALWFN",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2021/en/tct/search",
+    "https://www.linkedin.com/company/3dbonum"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D Bonum — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.postprocess.com/new-eu-partners/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp 3D Bonum — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6",
+    "https://www.amazon.co.jp/【電子版だけの特典カット付き】大島璃乃１ｓｔ写真集-ＲｉＮｏ-西條彰仁-ebook/dp/B0HPF6WBM6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com 3D Bonum — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/04188176/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/02385287/",
+    "https://www.monotaro.com/g/07113014/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3D Bonum — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.directory/",
+    "https://growjo.com/company/3D_Systems",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.report/database/",
+    "https://manufacturingdigital.com/top10/top-10-3d-printing-companies",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.com/category/money/financials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 3D Bonum — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/ainest/n/n9b74153a30a3",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/china_case/n/n324a170701eb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 3D Bonum — VoxelMatters",
+   "results": [
+    "https://x.com/BonumCe",
+    "https://x.com/voxelmatters",
+    "https://x.com/mathemetica/status/2119742119405654298",
+    "https://x.com/hashtag/emergingobjects",
+    "https://x.com/77bncvbsdcg/status/2100737314972377234",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/1nxnn__/status/2109478752497570143"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 3D Bonum — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/company/3dbonum",
+    "https://www.linkedin.com/posts/voxelmatters_carbon-selleitalia-prototek-activity-7525541260569538560-qqEy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 3D Bonum — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/3dbonum/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/3dbonum/posts/sintratec-and-3dbonum-wishes-all-of-you-a-blessed-and-happy-holiday-season-with-/443171580731832/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/",
+    "https://www.facebook.com/3dbonum/posts/maybe-you-have-a-fantastic-knowledge-about-ceramics-but-less-on-3dprinting-3dcer/224985265883799/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3D Bonum — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.group/support-3dpbm/",
+    "https://www.youtube.com/watch?v=qSRuskpudXs",
+    "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "https://www.linkedin.com/pub/dir/davide/sher"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D Bonum — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/category/construction-3d-printing/",
+    "https://www.voxelmatters.report/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://www.voxelmatters.group/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://x.com/hashtag/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

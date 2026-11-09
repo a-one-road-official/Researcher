@@ -1,0 +1,1240 @@
+{
+ "name": "Regie",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T21:46:32.614363+00:00",
+ "official_url": "https://www.regie.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/regie-ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/regie-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Regie.ai: AI Sales Prospecting Platform",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "AI prospecting platform for sales reps and teams",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Build my first prospect list",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Pause the product demo",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "RegieGO finds contact details and prepares emails and call scripts using your pitch and voice. Adjust your targeting and messages in chat, then email or call directly.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "For founders and first sales hires",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "You need customers before you have a full sales team. Find relevant buyers, prepare your approach, and email or call from one platform.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Your SDRs need meetings. Your AEs need pipeline alongside their open deals. Give them contacts, research, and prepared emails and calls, with room to adapt their approach.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "For enterprise sales teams",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Your team has accounts to win and several people to reach within each one. Help reps identify relevant buyers, research their priorities, and tailor emails and calls by role.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "RegieGO reads your website and suggests the companies and roles to target. Refine your ICP in chat, and it finds matching accounts and the right buyers inside them.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Give RegieGO your website and it suggests who to target, finds matching buyers, enriches their contact details, and prepares emails and call scripts in your pitch and voice, ready for you to review and use.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Bring your target accounts or a prospect list into RegieGO, and it finds the right people at each account and enriches their contact details.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. RegieGO finds buyers’ emails and phone numbers through waterfall enrichment, checking up to seven data providers in turn for every contact. The email is verified before anything sends, you only pay when a provider finds something, and every record shows where the data came from.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Calling is built in, with single-line, power, and parallel dialing up to five lines at once, and RegieGO provisions local numbers for you. Research, contact details, call scripts, and previous activity stay in front of you as you dial. Calling is part of the Pro and Team plans.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Approve them as they are, edit them yourself, or tell RegieGO in chat what you’d like to change. Nothing sends or dials unless you tell it to.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Both. Pro is for one person. Team is priced per seat with a shared credit pool, and the workspace owner adds seats as you grow. Free holds up to 10 people.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Your next prospect list is just 10 minutes away.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Ask about pricing, credits, or how RegieGO works",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "B2B SaaS Provider",
+    "url": "https://regie.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Software Security Company",
+    "url": "https://regie.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How an enterprise security leader generated $650K in pipeline in four months with Regie.",
+    "url": "https://regie.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "3 SDRs outproduced a team of 8. Here's how.",
+    "url": "https://regie.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that fits how you prospect",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, for every seat",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A shared CRM, prospect list, and integrations",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in the Pro plan",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Volume credits, priced to your team",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 and enterprise security",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start on the built-in CRM on any plan, Free included. Import a list or build one as you prospect.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free gives each person 250 credits, one time. Pro includes 5,000 a month and Team 15,000 per seat, or a year's worth up front on annual.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You send from your own connected Gmail or Outlook, every contact is verified before send so you're not hitting dead addresses, and sending is throttled with unsubscribes handled for you. Messages go out personalized and grounded, not mass-blasted, which is what protects your reply rates and sender reputation.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Research, drafting, enrichment, and dialing pause. On a paid plan they pick up again when your credits refresh, or straight away if the workspace owner has switched on overage billing, capped at a limit they set. On Free, upgrade to keep going. Extra credits can't be bought on their own. Your prospects, drafts, and settings stay exactly where they are.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT and Claude can help you write, but standing up prospecting with them takes weeks of prompts and connectors, and you're the one keeping it running. RegieGO is built for the whole motion and comes pre-loaded: it builds your list, enriches and verifies contacts, drafts in your voice, and dials, so you're engaging on day one.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Free holds up to 10 people, and each person new to RegieGO brings 250 credits into one shared pool. Pro is for one person. For two or more people on a paid plan, Team is priced per seat with a shared credit pool, and the workspace owner adds seats in-app as you grow.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Pro and Team are self-serve with no contract. The workspace owner can cancel anytime from billing settings, and the plan stays active until the end of your current billing period, then moves to Free. An annual plan is paid for the year up front, so cancelling stops the renewal.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Regie.ai builds RegieGO, an AI prospecting platform. The premise is simple: most of a seller's day disappears into research, list building, and follow-up, and almost none of that work is the part a person is uniquely good at.",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "RegieGO runs the parts of prospecting that do not need a person: sourcing and enriching contacts, prepping calls, drafting the day's email, and staying on the people who said not yet. The conversation stays yours.",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enrichment waterfalls across multiple providers, and only bills for hits",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A dialer with local presence, DNC enforcement, and up to 5 lines",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring 12 AEs · detected today",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sales software has a credibility problem, and most of it is self-inflicted: roadmap described in the present tense, integrations listed before they connect to anything. We would rather ship a smaller page that is true.",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring 12 AEs",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Press, partnerships, or anything else, we read every message.",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI prospecting without the science project",
+    "url": "https://regie.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic Prospecting",
+    "url": "https://regie.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are not hiring for any positions at the moment. That changes as the team grows, so it is worth checking back.",
+    "url": "https://regie.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We hire rarely and slowly, and we would rather wait than fill a seat.",
+    "url": "https://regie.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Enterprise Software Security Company · Regie.ai",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how a pioneer in enterprise software security uses Regie.ai to:",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Scale highly effective and tailored prospecting to strengthen market position",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "In an industry like B2B tech, staying a step ahead of the competition requires more than just hard work: it demands innovation and efficiency. For one established enterprise software security company, this challenge was all too familiar.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Recognizing the importance of modernizing their approach, the company’s revenue operations (RevOps) team embarked on a strategic initiative to enhance outreach efforts and drive growth — all without adding complexity to their sellers' workflows.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Like many established market leaders, the company's path forward wasn't blocked by a single obstacle. Instead, they faced an intricate web of challenges that were closely intertwined. Understanding how these challenges intersected was crucial to finding a comprehensive solution that could address all of them simultaneously.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "In just the past year alone, they’d watched a handful of new competitors enter the market, each claiming feature parity with the company’s own solution. While their nearly two decades’ worth of experience had made them the clear leader in the field, they also carried the highest price tag in the market.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Declining inbound leads:",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "This heavy reliance on inbound leads created another challenge. Over the past couple of years, the team had noticed a steady, yet gradual decline in inbound lead volume. With outbound efforts struggling to fill the gap and inbound leads dropping, they needed to find new ways to generate pipeline — and fast.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "The turning point: Rethinking the team’s approach to tech",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Facing these three challenges, the team found themselves at a crossroads: their tech stack was causing friction, but they also needed to find new ways to generate pipeline and stay competitive.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "They realized that perhaps the problem wasn't with adding new tools per se, but with how those tools impacted their sellers' workflows. If they could find a solution that operated more independently — one that could generate results without requiring constant attention from the sales team — they might be able to solve their pipeline challenges without adding to their sellers' burden.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Yes. Calling is built in, with single-line, power, and parallel dialing up to five lines at once, and RegieGO provisions local numbers for you. Research, contact details, call scripts, and previous activity stay in front of you as you dial. Calling is part of the Pro and Team plans.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Paid plan credits don't. They reset at the start of each billing period, monthly or annual, rather than carrying over. The 250 credits each person starts with on Free are different: they never expire.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sales software has a credibility problem, and most of it is self-inflicted: roadmap described in the present tense, integrations listed before they connect to anything. We would rather ship a smaller page that is true.",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Recognizing the importance of modernizing their approach, the company’s revenue operations (RevOps) team embarked on a strategic initiative to enhance outreach efforts and drive growth — all without adding complexity to their sellers' workflows.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "In just the past year alone, they’d watched a handful of new competitors enter the market, each claiming feature parity with the company’s own solution. While their nearly two decades’ worth of experience had made them the clear leader in the field, they also carried the highest price tag in the market.",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Revenue Operations",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500企業",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "Choucair During a Visit by a Delegation of Economic Bodies to Regie: Institutions That Generate Revenue for the State Should Not Be Sold Seklaoui: We Collaborate with More Than 800 Lebanese Suppliers and Spend USD 60 Million Annually Supporting Lebanese Industry",
+    "url": "https://www.regie.com.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "Salesloft is the provider of the leading sales engagement platform that helps sellers and sales teams drive more revenue. The Modern Revenue Workspace™ by Salesloft is the one place for …",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020 by CEO Srinath Sridhar and President Matt Millen, Regie.ai stemmed from insight into fragmented, inefficient sales processes. Their technology and revenue leadership drove them to develop a singular, intelligent platform. This platform harnesses AI to enhance both scalability and personalization of sales prospecting.",
+    "url": "https://startupintros.com/orgs/regie-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Regie.ai serves revenue teams and sales development professionals refining outbound strategies and accelerating pipeline generation. Its mission is to transform prospecting's operational and experiential aspects, streamlining it for businesses and making it impactful for buyers. The company envisions an AI-powered future fostering an integrated, intelligent sales ecosystem.",
+    "url": "https://startupintros.com/orgs/regie-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Quick factual notes: Regie.ai was founded in 2020, markets RegieOne as the world’s first AI‑native SEP, and has publicized venture funding and claims of rapid ARR growth and customer pipeline outcomes【1】【4】【2】.",
+    "url": "https://startupintros.com/orgs/regie-ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "RegieGO uses your website to find matching buyers, enrich contacts, and research reasons to connect, with emails and call scripts ready for you to review and use.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Find sales leaders at fast-growing SaaS companies and draft an intro email to each.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "RegieGO finds contact details and prepares emails and call scripts using your pitch and voice. Adjust your targeting and messages in chat, then email or call directly.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "You need customers before you have a full sales team. Find relevant buyers, prepare your approach, and email or call from one platform.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Your SDRs need meetings. Your AEs need pipeline alongside their open deals. Give them contacts, research, and prepared emails and calls, with room to adapt their approach.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Your team has accounts to win and several people to reach within each one. Help reps identify relevant buyers, research their priorities, and tailor emails and calls by role.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Give RegieGO your website and it suggests who to target, finds matching buyers, enriches their contact details, and prepares emails and call scripts in your pitch and voice, ready for you to review and use.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. RegieGO finds buyers’ emails and phone numbers through waterfall enrichment, checking up to seven data providers in turn for every contact. The email is verified before anything sends, you only pay when a provider finds something, and every record shows where the data came from.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Can I change the emails and call scripts?",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Start with your website. Find relevant buyers. Get ready to email and call.",
+    "url": "https://regie.ai",
+    "pass": 1
+   },
+   {
+    "quote": "No separate CRM to buy or license. Your accounts and contacts live right next to the research, emails, and calls that work them.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Start free with 250 credits using just a work email. You only add a card if you upgrade to a paid plan.",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Will AI-written email hurt my domain?",
+    "url": "https://regie.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RegieGO runs the parts of prospecting that do not need a person: sourcing and enriching contacts, prepping calls, drafting the day's email, and staying on the people who said not yet. The conversation stays yours.",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Email sends from your own Gmail or Outlook, never a vendor domain",
+    "url": "https://regie.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Emails and phones, pay only when we find them",
+    "url": "https://regie.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "MAIL: info@regie.co.jp",
+    "url": "https://regie.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Invalid Email or Password",
+    "url": "https://www.regie.com.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "Amplemarket is an AI-powered virtual sales assistant. They take care of everything, from lead generation, email copy, warm up process, until they give you a meeting with a prospect client. …",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Lavender is your AI email assistant. It combines everything you need to easily write sales emails that get replies. Get real time AI-driven coaching on your email, research your prospect …",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Regie.ai Auto-Pilot Case Study",
+    "url": "https://regie.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Enterprise Software Security Company · Regie.ai",
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "pass": 1
+   },
+   {
+    "quote": "Tobacco Plantation in Lebanon",
+    "url": "https://www.regie.com.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "We aim to increase planted areas, to improve the types of plants grown, to use new methods for fighting agricultural blight, to continuously...",
+    "url": "https://www.regie.com.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "We aim to develop industrial production through the renovation of plants, construction of new production lines for quality products and the...",
+    "url": "https://www.regie.com.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "Regie has become an internationally acclaimed Tobacco manufacturing company and this is due to the professional, young and dedicated team of Managers who under the leadership of the Committee headed by Eng. Nassif Seklaoui have done a remarkable task to bring Regie to an International level. We wish Regie every success.",
+    "url": "https://www.regie.com.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Regie.ai Case Study: North State Consulting – How AI and Unparalleled Customer Success Improved Sales Engagement at North State Consulting | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/regieai/case-study/how-ai-and-unparalleled-customer-success-improved-sales-engagement-at-north-state-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how North State Consulting used Regie.ai",
+    "url": "https://www.casestudies.com/company/regieai/case-study/how-ai-and-unparalleled-customer-success-improved-sales-engagement-at-north-state-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/regieai/case-study/how-ai-and-unparalleled-customer-success-improved-sales-engagement-at-north-state-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/regieai/case-study/how-ai-and-unparalleled-customer-success-improved-sales-engagement-at-north-state-consulting",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Regie レジーとは 新規開拓のメール作りのAI｜使い方・料金・日本語対応",
+    "url": "https://eeai.tv/tools/regie",
+    "pass": 3
+   },
+   {
+    "quote": "Regieの日本語対応は確認できていません",
+    "url": "https://eeai.tv/tools/regie",
+    "pass": 3
+   },
+   {
+    "quote": ".Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "Regie in Japan (@regieinjapan) | TikTok",
+    "url": "https://www.tiktok.com/@regieinjapan",
+    "pass": 3
+   },
+   {
+    "quote": "Visit Our Facebook Page - Regie in Japan",
+    "url": "https://www.tiktok.com/@regieinjapan",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区銀座1丁目3番3号 G1ビル7階",
+    "url": "https://regie.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "コミュニティナースカンパニーノース東京プロデュース",
+    "url": "https://regie.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Body Pioneer株式会社、株式会社gene、リハプライム株式会社、合同会社Think Body Japanにて夏期インターンプロデュース",
+    "url": "https://regie.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区銀座1丁目3番3号",
+    "url": "https://regie.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Regie（レジー） | 日本最大級のAIまとめ〜ええAI.TV — Regieは、売り込む相手を探すところから、メールを書いて送り、電話をかけ、返事がない人に追いかけの連絡をするところまでを、AIに任せられる営業用の道具です。 中心になるのはRegieGOという画面です。1つのチャットに「この条件の会社を10社調べて」と指示すると、相手企業の情報集め ...",
+    "url": "https://eeai.tv/tools/regie",
+    "pass": 3
+   },
+   {
+    "quote": "Regie レビュー、機能、料金、代替ツール | ToolsDar — Regie は Marketing ワークフロー向けの AI ツールです。 機能、料金、利用シーン、代替ツールを比較しながら、導入候補を整理したいユーザーに適しています。 Regie は Marketing に関連する作業で検討できます。 In the bustling world of sales, efficiency is king. Regie.",
+    "url": "https://toolsdar.io/ja/tools/regie",
+    "pass": 3
+   },
+   {
+    "quote": "Regie AI完全解説：150ツール統合！AIエージェントが変革する次世代営... — Aug 3, 2025 · そう諦めていた現場こそ、DX化のチャンスです。 .Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました。",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "Regie in Japan (@regieinjapan) | TikTok — Regie in Japan (@regieinjapan) on TikTok | 1.3M Likes. 230.3K Followers. Visit Our Facebook Page - Regie in Japan #LetsGo Like Follow and Share.Watch Regie in Japan's popular videos: \"Count the Blessings ...\", \"#InvisiblePranks Par...\". Join 230.3K followers on TikTok for more regieinjapan, trustgod, motivation content",
+    "url": "https://www.tiktok.com/@regieinjapan",
+    "pass": 3
+   },
+   {
+    "quote": "企業紹介 - REGIEREGIE LIMITED LIABILITY COMPANY - Dun & BradstreetRegie Libanaise Des Tabacs ET Tombacs | إدارة حصر التبغ ...Regie in Japanese — Katakana, Hiragana & KanjiRegie in Japan (belated birthday pics show love to him) # ...RE-GE（リージェ）オフィシャルサイト — Jun 18, 2019 · 所在地 株式会社REGIE 〒104-0061 東京都中央区銀座1丁目3番3号 G1ビル7階 MAIL: info@regie.co.jp Find company research, competitor information, contact details &",
+    "url": "https://regie.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "REGIE LIMITED LIABILITY COMPANY - Dun & Bradstreet — Find company research, competitor information, contact details & financial data for REGIE LIMITED LIABILITY COMPANY of SABAE, FUKUI. Get the latest business insights from Dun & Bradstreet.",
+    "url": "https://www.dnb.com/business-directory/company-profiles.regie_limited_liability_company.c4fc346e0451210e33f41fd174eadc31.html",
+    "pass": 3
+   },
+   {
+    "quote": "Regie Libanaise Des Tabacs ET Tombacs | إدارة حصر التبغ ... — Regie has become an internationally acclaimed Tobacco manufacturing company and this is due to the professional, young and dedicated team of Managers who under the leadership of the Committee headed by Eng. Nassif Seklaoui have done a remarkable task to bring Regie to an International level. We wish Regie every success.",
+    "url": "https://www.regie.com.lb/",
+    "pass": 3
+   },
+   {
+    "quote": "Regie in Japanese — Katakana, Hiragana & Kanji — Regie as a first name in Japanese: レジー (katakana), れじー (hiragana). Explore kanji variations, meanings, and pronunciation for the given name Regie.",
+    "url": "https://japanese-names.info/my-name-in-japanese/first-name/regie/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories · Regie.ai — Regie.ai Auto-Pilot Case Study How Regie's own team sourced 40% of SDR-driven meetings and saved 1,000+ hours of list building.",
+    "url": "https://www.regie.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "12 Regie.ai Case Studies, Success Stories, & Customer Stories — Regie.ai has a 4.8/5 star rating. Learn what their customers think, get 12 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Study: B2B SaaS Provider · Regie.ai — Learn how this B2B SaaS provider's sales development team uses Regie.ai to drive 24% pipeline growth & achieve productivity equal to 6 SDRs without adding to headcount",
+    "url": "https://www.regie.ai/customers/b2b-saas-provider",
+    "pass": 3
+   },
+   {
+    "quote": "Regie.ai Case Study: North State Consulting – How AI and ... — North State Consulting (Management Consulting) partnered with Regie.ai (Computer Software) to solve key challenges. \"How AI and Unparalleled Customer Success Improved Sales Engagement at North State Consulting\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/regieai/case-study/how-ai-and-unparalleled-customer-success-improved-sales-engagement-at-north-state-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "Regie.ai B2B Case Studies & Customer Successes — See how Regie.ai solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/regieai",
+    "pass": 3
+   },
+   {
+    "quote": "Regie Funding History: $61.6M | Indexed.vc — Regie.ai: Generate more pipeline with the world's only AI SEP Regie was founded in 2021, is headquartered in San Francisco, United States, lists 51–200 employees, and has $61.6M in recorded funding across 6 rounds.",
+    "url": "https://indexed.vc/companies/regie",
+    "pass": 3
+   },
+   {
+    "quote": "Regie AI - 2026 Company Profile, Team, Funding & Competitors ... — Jun 5, 2026 · Regie AI - About the company Regie AI is a series B company based in San Francisco (United States), founded in 2020 by Srinath Sridhar and Matt Millen. It operates as an AI based platform offering software for content optimization. Regie AI has raised $65.6M in funding from investors like Foundation Capital, Scale Ven",
+    "url": "https://tracxn.com/d/companies/regie-ai/__P94RIkHIK3q8Kt3jFpGtT7ywanNASArVAWEpomvXTxQ",
+    "pass": 3
+   },
+   {
+    "quote": "Regie.ai 2026 Company Profile: Valuation, Funding & Investors ...Regie.ai: Funding, Team & Investors | Startup Introsregie.ai – Industry Ranking & Company Valuation – 2026Regie - Overview, News & Similar companies | ZoomInfo.comRegie AI — Company Profile | The Company Check — Information on valuation, funding, cap tables, investors, and executives for Regie.ai. Use the PitchBook Platform to explor",
+    "url": "https://pitchbook.com/profiles/company/472076-11",
+    "pass": 3
+   },
+   {
+    "quote": "Regie.ai: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2020 by CEO Srinath Sridhar and President Matt Millen, Regie.ai stemmed from insight into fragmented, inefficient sales processes. Their technology and revenue leadership drove them to develop a singular, intelligent platform. This platform harnesses AI to enhance both scalability and personalization of sales prospect",
+    "url": "https://startupintros.com/orgs/regie-ai",
+    "pass": 3
+   },
+   {
+    "quote": "regie.ai – Industry Ranking & Company Valuation – 2026 — About This Data Revenue, valuation, and funding figures for regie.ai are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures. Data Accuracy: While we ",
+    "url": "https://compworth.com/company/regie-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Regie AI完全解説：150ツール統合！AIエージェントが変革する次世代営... Aug 3, 2025 · Regie AIとは Regie.ai は、AI搭載のオールインワン営業エンゲージメントプラットフォーム（SEP）です。 従来の営業チームが使用する150以上のツールを統合し、AIエージェントと人間の協働による効率的なプロスペクティングを実現します。",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Regie AI完全解説：150ツール統合！AIエージェントが変革する次世代営業プラットフォームーーGensparkの解説｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "Regie AI完全解説：150ツール統合！AIエージェントが変革する次世代営業プラットフォームーーGensparkの解説",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "〜年額$35,000から始まるエンタープライズ向けオールインワンSEPで営業革命を実現〜",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "は、AI搭載のオールインワン営業エンゲージメントプラットフォーム（SEP）です。従来の営業チームが使用する150以上のツールを統合し、AIエージェントと人間の協働による効率的なプロスペクティングを実現します。RegieOneプラットフォームを中心として、営業活動の全工程を自動化・最適化することで、パイプライン生成と成約率の大幅向上を支援します。",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "1. AIエージェント（AI Agents）",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "2. RegieOne統合プラットフォーム",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "：2億2000万件以上の連絡先データベース",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   },
+   {
+    "quote": "：パーソナライズされたメール・メッセージ作成",
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Regie (@byRegie) / X Follow PostsPosts Pinned Regie @byRegie Jan 19 ... How I changed my life in 1/125th of a second",
+    "url": "https://x.com/byRegie",
+    "pass": 3
+   },
+   {
+    "quote": "𝓡𝓮𝓰𝓲𝓮 (@Macalinoregie23) / X 65335 followers · 86 following. Joined Sep 2016. See the latest conversations with @Macalinoregie23",
+    "url": "https://x.com/Macalinoregie23",
+    "pass": 3
+   },
+   {
+    "quote": "regie (@maggieregie) / X Feb 12, 2011 · 2 followers · 11 following. Joined Feb 2011. See the latest conversations with @maggieregie",
+    "url": "https://x.com/maggieregie",
+    "pass": 3
+   },
+   {
+    "quote": "Regie Hamm (@regiehamm) / Posts / X Oct 22, 2008 · Regie Hamm is an award-winning artist and songwriter. His amazing journey is chronicled in his book, Angels & Idols, and has been optioned for a Hollywood film.",
+    "url": "https://x.com/regiehamm",
+    "pass": 3
+   },
+   {
+    "quote": "@regie | X The latest posts from @regie",
+    "url": "https://x.com/regie",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Regie.ai - LinkedIn Regie.ai Software Development San Francisco, CA 26,566 followers RegieOne is the only all-in-one sales engagement platform — where predictable rep outreach meets AI Agents.",
+    "url": "https://www.linkedin.com/company/regie-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Regie Kuch - Call Center Director | LinkedInRegie Gardoce - Fractional CIO / CTO / CISO | Cyber ...Regie Esteban - IASSC Lean Six Sigma Black Belt (ICBB ...Regie Alcantara - Ready247VA LLC | LinkedInRegie San Juan - Guild Solutions, Inc. | LinkedInRegie Tayao - Aircraft Maintenance Technician AIRCRAFT ... Call Center Director · Experienced Call center Director with a demonstrated history of workin",
+    "url": "https://www.linkedin.com/in/regie-kuch-1aab375b",
+    "pass": 3
+   },
+   {
+    "quote": "Regie Gardoce - Fractional CIO / CTO / CISO | Cyber ...Regie Esteban - IASSC Lean Six Sigma Black Belt (ICBB ...Regie Alcantara - Ready247VA LLC | LinkedInRegie San Juan - Guild Solutions, Inc. | LinkedInRegie Tayao - Aircraft Maintenance Technician AIRCRAFT ... Fractional CIO / CTO / CISO | Cyber Resilience | Digital Transformation · At Gardoce Consulting, we deliver tailored business transformat",
+    "url": "https://au.linkedin.com/in/regiegardoce",
+    "pass": 3
+   },
+   {
+    "quote": "Regie Esteban - IASSC Lean Six Sigma Black Belt (ICBB ...Regie Alcantara - Ready247VA LLC | LinkedInRegie San Juan - Guild Solutions, Inc. | LinkedInRegie Tayao - Aircraft Maintenance Technician AIRCRAFT ... IASSC Lean Six Sigma Black Belt (ICBB) | Strategy and Process Improvement | Design Thinking | Change Management · Seasoned Business Process and Process Reengineering Lead with documented histo",
+    "url": "https://ca.linkedin.com/in/regieesteban",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Regie & Mycah - Facebook Oct 20, 2026 · Regie & Mycah, Alicia. 542,332 followers · 45,590 talking about this. FUNNY VIDEOS | FOR ENTERTAINMENT PURPOSES ONLY DONT BE SERIOUS Open for business promotion and collaboration message me ...",
+    "url": "https://www.facebook.com/Regieandmycah/",
+    "pass": 3
+   },
+   {
+    "quote": "Regie? - Facebook Oct 14, 2026 · Regie?, Padre Garcia. 707 followers · 169 talking about this. \"Life is like a motorcycle ride! Brrt Brrt!\" - Regie?",
+    "url": "https://www.facebook.com/rejriding/",
+    "pass": 3
+   },
+   {
+    "quote": "Regie Tiu - Facebook Regie Tiu. 4,815 followers · 4,441 talking about this. Owner freedom starts with employee loyalty As seen Forbes, Business Insider, Yahoo Finance, NBC, CNBC",
+    "url": "https://www.facebook.com/regie.tiu8/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://regie.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regie.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regie.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regie.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regie.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regie.ai/customers/enterprise-software-security-company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://eeai.tv/tools/regie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolsdar.io/ja/tools/regie",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.yahoo.co.jp/articles/82a32d3cf6c0ca76f13b11dddcfc54f722724546",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tiktok.com/@regieinjapan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://regie.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.regie_limited_liability_company.c4fc346e0451210e33f41fd174eadc31.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regie.com.lb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/regieai/case-study/how-ai-and-unparalleled-customer-success-improved-sales-engagement-at-north-state-consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/regie",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/regie-ai/__P94RIkHIK3q8Kt3jFpGtT7ywanNASArVAWEpomvXTxQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/472076-11",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/regie-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/byRegie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Macalinoregie23",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/maggieregie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/regiehamm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/regie-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/regie-kuch-1aab375b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/regiegardoce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/regieesteban",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Regieandmycah/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rejriding/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/regie.tiu8/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/regie",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Regie 日本 導入",
+   "results": [
+    "https://eeai.tv/tools/regie",
+    "https://toolsdar.io/ja/tools/regie",
+    "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "https://news.yahoo.co.jp/articles/82a32d3cf6c0ca76f13b11dddcfc54f722724546",
+    "https://motor-fan.jp/article/1519688/",
+    "https://www.family.co.jp/company/news_releases/2026/20260903_01.html",
+    "https://www.renewable-ei.org/activities/reports/20260820.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Regie 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.weblio.jp/content/総代理店"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Regie Japan",
+   "results": [
+    "https://www.tiktok.com/@regieinjapan",
+    "https://regie.co.jp/company/",
+    "https://www.dnb.com/business-directory/company-profiles.regie_limited_liability_company.c4fc346e0451210e33f41fd174eadc31.html",
+    "https://www.regie.com.lb/",
+    "https://japanese-names.info/my-name-in-japanese/first-name/regie/",
+    "https://x.com/bkings_22/status/2026738324593951019",
+    "https://re-ge.com/",
+    "https://ja.wikipedia.org/wiki/REVIVEJAPAN"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Regie manufacturing customer case study",
+   "results": [
+    "https://www.regie.ai/customers",
+    "https://www.featuredcustomers.com/vendor/regieai/case-studies",
+    "https://www.regie.ai/customers/b2b-saas-provider",
+    "https://www.casestudies.com/company/regieai/case-study/how-ai-and-unparalleled-customer-success-improved-sales-engagement-at-north-state-consulting",
+    "https://www.casestudies.com/company/regieai",
+    "https://www.featuredcustomers.com/vendor/regieai",
+    "https://my.regie.ai/hubfs/Content/Regie.ai-ROI-Study-May-2024.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Regie white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Regie founded funding employees revenue",
+   "results": [
+    "https://indexed.vc/companies/regie",
+    "https://tracxn.com/d/companies/regie-ai/__P94RIkHIK3q8Kt3jFpGtT7ywanNASArVAWEpomvXTxQ",
+    "https://pitchbook.com/profiles/company/472076-11",
+    "https://startupintros.com/orgs/regie-ai",
+    "https://compworth.com/company/regie-ai",
+    "https://www.zoominfo.com/c/regie/472721954",
+    "https://www.thecompanycheck.com/company/b/regie-ai/qvyog2of83ojbef5u"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Regie",
+   "results": [
+    "https://note.com/hiroshikinoshita/n/n9fefdc7fdc39",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Regie",
+   "results": [
+    "https://x.com/byRegie",
+    "https://x.com/Macalinoregie23",
+    "https://x.com/maggieregie",
+    "https://x.com/regiehamm",
+    "https://x.com/regiemarquez",
+    "https://x.com/regie__x",
+    "https://x.com/regie4eva/status/2119756867182219569"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Regie",
+   "results": [
+    "https://www.linkedin.com/company/regie-ai",
+    "https://www.linkedin.com/in/regie-kuch-1aab375b",
+    "https://au.linkedin.com/in/regiegardoce",
+    "https://ca.linkedin.com/in/regieesteban",
+    "https://ph.linkedin.com/in/regie-alcantara-a20934140",
+    "https://ph.linkedin.com/in/regiesanjuan",
+    "https://ca.linkedin.com/in/regie-tayao-5b7545218"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Regie",
+   "results": [
+    "https://www.facebook.com/Regieandmycah/",
+    "https://www.facebook.com/rejriding/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/regie.tiu8/",
+    "https://www.facebook.com/regiearlanzon02/",
+    "https://www.facebook.com/regie.us/",
+    "https://www.facebook.com/regiecollects/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Regie note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.rikazai.jp/post/「新社長のゆるっとメモ」-広報の新しい試み、「note」に綴る「いろいろな言葉」",
+    "https://plus-note.jp/message.html",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Regie X 投稿",
+   "results": [
+    "https://x.com/regie",
+    "https://x.com/mad_ca_enraiten/status/2105325822383178059",
+    "https://myfans.jp/",
+    "https://booth.pm/ja/items/5236548",
+    "https://www.youtube.com/@ReggieX1983",
+    "https://www.tiktok.com/@x.its.regie.x/live",
+    "https://re-ge.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

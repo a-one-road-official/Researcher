@@ -1,0 +1,429 @@
+{
+ "name": "Hontech — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T21:47:07.180514+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/hontech/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hontech — VoxelMatters - The largest database of additive ... — Hontech connects Brazilian industry to advanced manufacturing technologies from around the world, offering complete solutions in additive manufacturing and part finishing that combine equipment, technical knowledge, and specialized support.",
+    "url": "https://www.voxelmatters.directory/company/hontech/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookFacebookHontech Group - FacebookHontech | Owerri - FacebookAT HONTECH, WE ARE 𝟏𝟎𝟎%... - Hontech Auto Center Inc | Faceboo...Hontech Auto Center Inc | Marikina City - FacebookHontech Innovation - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Market 2023 report. C",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.caeonline.com/buy/handlers/hontech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.hontechgroup.com/English/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.caeonline.com/buy/handlers/hontech-ht-9080a/9212545",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craft-dream.com/shopbrand/ct54/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Zssuo-UV%E3%83%AC%E3%82%B8%E3%83%B3-%E5%A4%A7%E5%AE%B9%E9%87%8F-%E3%83%AC%E3%82%B8%E3%83%B3%E6%B6%B2/dp/B0G93BJWG8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eternalcollegest.com/books/100yen-resin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-green-ocean.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.hontechgroup.com/English/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.hontechgroup.com/English/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/%E3%82%B3%E3%83%BC%E3%83%81/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E5%85%92%E7%8E%89%E9%81%A5%E5%86%99%E7%9C%9F%E9%9B%86-You-will-see-%E5%85%92%E7%8E%89%E9%81%A5/dp/4334111920",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/anan-%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%B3-2026-No-2518-%E3%82%AB%E3%83%A9%E3%83%80%E3%81%AB%E3%81%84%E3%81%84%E3%82%82%E3%81%AE%E5%A4%A7%E8%B3%9E2026%E3%83%BB%E7%A7%8B%EF%BC%81%EF%BC%8F%E7%94%B0%E4%B8%AD%E6%A8%B9/dp/B0HK75JYV6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00016743/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3%E6%A8%B9%E8%84%82%E6%9E%B6%E5%8F%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/hontech/345654399",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/voxelmatters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/hontech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hontech — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hontech — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "https://www.toyo-invx.com/company/location/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hontech — VoxelMatters 日本 販売",
+   "results": [
+    "https://jp.caeonline.com/buy/handlers/hontech",
+    "http://www.hontechgroup.com/English/",
+    "https://jp.caeonline.com/buy/handlers/hontech-ht-9080a/9212545",
+    "https://www.voxelmatters.com/",
+    "https://www.honprec.com/en/products/",
+    "https://kyoshin-tech.co.jp/",
+    "https://www.am-teams.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hontech — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://craft-dream.com/shopbrand/ct54/",
+    "https://www.amazon.co.jp/Zssuo-UVレジン-大容量-レジン液/dp/B0G93BJWG8",
+    "https://eternalcollegest.com/books/100yen-resin",
+    "https://shop-green-ocean.com/",
+    "https://shop.croccha.com/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://voxelpla.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hontech — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://japanesedistributors.com/",
+    "http://www.hontechgroup.com/English/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.honprec.com/en/products/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hontech — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "http://www.hontechgroup.com/English/",
+    "https://japanesedistributors.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Hontech — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://www.amazon.co.jp/stores/コーチ/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "https://www.amazon.co.jp/兒玉遥写真集-You-will-see-兒玉遥/dp/4334111920",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6",
+    "https://www.amazon.co.jp/【デジタル限定-YJ-PHOTO-BOOK】月城莉奈写真集「夢か幻か、女性声優か？」-月城莉奈-ebook/dp/B0HPKKHKNS",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://www.amazon.co.jp/イヴの罠-シーズン1/dp/B0DH6XCNT2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Hontech — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/k/store/エアコン樹脂架台/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/3366/3246/",
+    "https://www.monotaro.com/k/store/チェーンブロック/",
+    "https://www.monotaro.com/p/0639/3283/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hontech — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.zoominfo.com/c/hontech/345654399",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.voxelmatters.directory/company/hontech/",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.zoominfo.com/c/hontech-wins/357279153",
+    "https://www.linkedin.com/company/hontech-international-group",
+    "http://www.hontechgroup.com/English/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hontech — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Hontech — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hon_tech",
+    "https://x.com/hontechinfo",
+    "https://x.com/HontechStudio",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hontech — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Hontech — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/Hontech-Group-162676723937793/",
+    "https://www.facebook.com/people/Hontech/100075510836456/",
+    "https://www.facebook.com/hontechautocenter/posts/at-hontech-we-are-𝟏𝟎𝟎-𝐂𝐎𝐌𝐏𝐄𝐓𝐄𝐍𝐓at-hontech-were-proud-to-be𝟏𝟎𝟎-𝐂𝐎𝐑𝐏𝐎𝐑𝐀𝐓𝐈𝐎𝐍-no-ext/689972686483401/",
+    "https://www.facebook.com/hontechautocenter/",
+    "https://www.facebook.com/hontechinnovate/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hontech — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hontech — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.directory/company/hontech/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/CtcH8q/status/2119270141188010455"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）"
+ }
+}

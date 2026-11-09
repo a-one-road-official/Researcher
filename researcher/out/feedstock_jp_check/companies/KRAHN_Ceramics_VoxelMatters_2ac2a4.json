@@ -1,0 +1,487 @@
+{
+ "name": "KRAHN Ceramics — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramic-filament",
+ "researched_at": "2026-11-09T21:20:09.307534+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "KRAHN Ceramics — VoxelMatters - The largest database of ... — The performance spectrum of KRAHN Ceramics includes both ceramic and metallic materials and their processing steps. These include powders and binders, preparation and shaping processes, debinding and sintering as well as surface finishing. Together with our customers, we develop tailor-made solutions. We come into action at the point wh",
+    "url": "https://www.voxelmatters.directory/company/krahn/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/the-3dpbm-research-map-of-ceramic-additive-manufacturing-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.krahn-ceramics.com/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/krahn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://almathcrucibles.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shop.haimer.com/jp/printpage/a2fda24a8edb46e4beb8c554141dab1b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.krahn-ceramics.com/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vLjvHo1jwCsw8e0rM84q_WDkbjvEh4_dv0a2o8QcFNc8p9q33ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.krahn-ceramics.com/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ceramic-applications.com/supplier/krahn-ceramics-gmbh-2/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.krahn-ceramics.com/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ceramic-applications.com/supplier/krahn-ceramics-gmbh-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/4902/0754/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00428196/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/krahn-ceramics-gmbh/480787859",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/VoxelMatters-Market-Report-on-Technical-Ceramics-3D-Printing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/browse/additive-manufacturing-ceramic-powders-suppliers",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "KRAHN Ceramics — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/the-3dpbm-research-map-of-ceramic-additive-manufacturing-technologies/",
+    "https://www.krahn-ceramics.com/en",
+    "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://www.ceramic-applications.com/supplier/krahn-ceramics-gmbh-2/",
+    "https://www.albis.com/dam/jcr:42b05b95-c60b-4d95-8be8-c6aa46b52000/KRAHN_Additive%20Manufacturing_Flyer_web_0323_EN.pdf",
+    "https://www.voxelmatters.com/top-products/",
+    "https://ceramitec.com/en/munich/exhibition-sectors/additive-manufacturing/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2025/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/krahn/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://almathcrucibles.com/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.instagram.com/reel/DdikDTXy_7S/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://shop.haimer.com/jp/printpage/a2fda24a8edb46e4beb8c554141dab1b",
+    "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vJunMKTI6VJs2FGh8F0uijMcJ1HoZpFCix86Uq1J1CHAhbfxIaC",
+    "https://www.rakunew.com/items/88762",
+    "https://ja.aliexpress.com/item/1005007199559682.html",
+    "https://a-telier.shop/collections/kuhn-keramik?srsltid=AYCX9vLdjJvqOBNehUKqODlhbbq2RFS_PIxAahynHiVjJoV9YQEn7Yie",
+    "https://m.shilladfs.com/estore/kr/ja/p/4987934"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.krahn-ceramics.com/en",
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vLjvHo1jwCsw8e0rM84q_WDkbjvEh4_dv0a2o8QcFNc8p9q33ko",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.craftrum.eu/en/shop/",
+    "https://ja.aliexpress.com/item/1005004657293430.html",
+    "https://3dfs.idarts.co.jp/",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "https://www.krahn-ceramics.com/en",
+    "https://www.ceramic-applications.com/supplier/krahn-ceramics-gmbh-2/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "https://www.albis.com/dam/jcr:42b05b95-c60b-4d95-8be8-c6aa46b52000/KRAHN_Additive%20Manufacturing_Flyer_web_0323_EN.pdf",
+    "https://nishimuraac.com/3dprinting/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://3dceram.com/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.krahn-ceramics.com/en",
+    "https://www.ceramic-applications.com/supplier/krahn-ceramics-gmbh-2/",
+    "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "https://nishimuraac.com/3dprinting/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://global.kyocera.com/prdct/fc/technologies/019.html",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://www.sinto-advanced-ceramics.com/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp KRAHN Ceramics — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://pay.amazon.co.jp/signin",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com KRAHN Ceramics — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/4902/0754/",
+    "https://www.monotaro.com/g/00428196/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/s/q-示名条片/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/p/3495/4796/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "https://www.zoominfo.com/c/krahn-ceramics-gmbh/480787859",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/VoxelMatters-Market-Report-on-Technical-Ceramics-3D-Printing.html",
+    "https://revenuebase.ai/companies/browse/additive-manufacturing-ceramic-powders-suppliers",
+    "https://de.linkedin.com/company/krahn-ceramics-gmbh",
+    "https://www.ceramic-applications.com/wp-content/uploads/2024/02/011-013_I_Kran.pdf",
+    "https://www.krahn-ceramics.com/en",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/category/money/industry-analysis/",
+    "https://rocketreach.co/otto-krahn-group-profile_b4380943c1966b78"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com KRAHN Ceramics — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/gentaroayabe",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com KRAHN Ceramics — VoxelMatters",
+   "results": [
+    "https://x.com/achieshiii/status/2114499039941271702",
+    "https://x.com/voxelmatters",
+    "https://x.com/VoxelMatters/status/2036387917493416329",
+    "https://x.com/hollanovrryy/status/2117808047364133189",
+    "https://x.com/Brenbash/status/2116752061916414170",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/PopBase/status/2116494180054909027"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com KRAHN Ceramics — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com KRAHN Ceramics — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/posts/december-is-ceramics-3dprinting-month-at-3d-printing-media-network-find-out-all-/822524867919640/",
+    "https://www.facebook.com/VoxelMatters/posts/reinventing-ceramics-olivier-van-herpt-explores-traditional-white-and-blue-delft/984902955015163/",
+    "https://www.facebook.com/VoxelMatters/posts/how-ceramic-additive-manufacturing-could-play-a-role-in-the-development-of-futur/1823122891193161/",
+    "https://www.facebook.com/VoxelMatters/posts/exciting-collaboration-in-ceramic-3d-printing-upnano-and-glassomer-have-joined-f/1002668138530901/",
+    "https://www.facebook.com/jussayin.007/photos/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/voxelmatters-ceramic-am-focus-2025-ebook/",
+    "https://www.krahn-ceramics.com/en",
+    "https://www.ceramic-applications.com/supplier/krahn-ceramics-gmbh-2/",
+    "https://de.linkedin.com/company/krahn-ceramics-gmbh",
+    "https://www.voxelmatters.report/",
+    "https://www.albis.com/dam/jcr:42b05b95-c60b-4d95-8be8-c6aa46b52000/KRAHN_Additive%20Manufacturing_Flyer_web_0323_EN.pdf",
+    "https://www.voxelmatters.directory/company-category/ceramic-filament/",
+    "https://www.voxelmatters.com/the-3dpbm-research-map-of-ceramic-additive-manufacturing-technologies/",
+    "https://www.youtube.com/watch?v=W5JRZtDXLoY"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "KRAHN Ceramics — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/voxelmatters-ceramic-am-focus-2025-ebook/",
+    "https://www.krahn-ceramics.com/en",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://www.albis.com/dam/jcr:42b05b95-c60b-4d95-8be8-c6aa46b52000/KRAHN_Additive%20Manufacturing_Flyer_web_0323_EN.pdf",
+    "https://www.voxelmatters.com/events/ams-x/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.3dnatives.com/en/webinar-ceramic-additive-manufacturing-sinto-21042026/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://x.com/hashtag/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

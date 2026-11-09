@@ -1,0 +1,1432 @@
+{
+ "name": "Secondnature",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-09T21:26:55.832960+00:00",
+ "official_url": "https://secondnature.ai/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "有料 無料枠 なし（有料のみ）",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Second Nature | AI Role Play Sales Training Software",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Role Plays and Coaching that Turn Training into Go-To-Market Execution",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "training into go-to-market execution",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", scale practice",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Video Avatar Discovery Call",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Manager, Mid Size Tech Company",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch how Second Nature transforms training from content delivery into performance at scale",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "helping teams drive real behavior change that leads to higher win rates, faster ramp up, and better customer experiences.",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "watch the product demo",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "GoHealth Cut onboarding time by 33%from",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "scale practice across our global sales team",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "— reps improved their pitch delivery and we saw a",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Global Sales Productivity",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I’ve created hundreds of thousands of [onboarding] programs over my career, but I can’t really verify if they know something. I can create the best training but I don’t know if they’ve got it,” says Michelle. But",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s a very short process",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform has become a supplement not only to onboarding training, but also as we prepare for big meetings like a national sales meeting or a spring or fall sales meeting as well. So we’ll sort of sprinkle in new simulations or revise existing simulations in order to help upskill even seasoned account managers and other customer-facing people.",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Internal Professional Education",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No one loves to practice, not in sports or anything, but that’s what gets you there.",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With AI we are able to make practice fun",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One thing I appreciate about Second Nature is that real-time feedback. The simulation flags when the rep launches into solutions too early. Because understanding customer needs is really one of the biggest mistakes most salespeople make.",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "with Second Nature we completely gamified our certification process, and we have a 100% completion rate.",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Sales Productivity and Enablement",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "in certification programs and",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "improved skills among low-performing agents",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Second Nature integrates with any LMS via SCORM or LTI, and a variety of CRMs, SAML, and conference tools to bring AI role play training into your existing workflows.",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "BillGO Cut Ramp Time by 20% and Scaled Training 3x with Second Nature",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "As BillGO leaned into an AI-first mindset, the team saw an opportunity: Transform enrollment team onboarding into a scalable, consistent system that better prepares Enrollment Specialists to deliver faster, higher-quality customer interactions.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "OneVision Improves Complex Training with Second Nature AI Role Plays",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how OneVision implemented Second Nature to help sales teams practice difficult conversations and quickly discovered a unique use case: automating technical troubleshooting training.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "United Rentals Improves Sales Rep Performance with Second Nature AI Training",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how United Rentals improved sales rep performance using Second Nature’s AI role plays, increasing skills, practice rates, and manager coaching confidence in a highly competitive industry.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "GoHealth Boosts Productivity and Cuts Onboarding Time with Second Nature",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how GoHealth transformed sales onboarding with Second Nature, cutting ramp time by 55%, saving $20M in EBITDA, and boosting productivity through scalable, AI-powered role play training",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Calix transformed sales readiness with Second Nature’s AI role plays—rising proficiency while reducing training time, boosting confidence, and improving consultative selling across global teams.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Pacira Biosciences Improves Compliance and Confidence with Second Nature’s AI Role Plays",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Pacira BioSciences strengthened compliance and confidence in highly regulated conversations by using Second Nature’s AI role plays to boost accuracy, fluency, and preparedness across their customer-facing teams.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how SPA World increased closing rate for SQLs by 25% and decreased onboarding time by 30%-40% with Second Nature AI Role Plays ongoing training.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP Academy Individualizes Global Training at Scale with Second Nature",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how SAP Academy achieved 7x more practice time and 32% more opportunities using Second Nature’s AI role plays for personalized sales training globally.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Oracle Netsuite Scales Sales Training with Secure, Compliant Second Nature AI",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Oracle Netsuite boosted sales performance by 21% and eased manager workloads by scaling training with Second Nature’s AI role play platform.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Check Point’s Head of Emerging Products, Solutions, and Enablement, Sagy Kratu, shares the lessons learned from 1000’s of Reps using AI Role Play",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale up your sales training with Second Nature’s sales training software. It provides a “virtual pitch partner” that uses conversational AI to have actual discussions with sales reps, scores them, and helps them improve on their own so that they can ace every sales call.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Need answers about our products, services, pricing, and plans? Let our experts help and guide you through it all. Simply fill out the form and then schedule a time in our calendar. Looking forward to hearing from you!",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice your objection handling skills",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Crush cold calling like a sales pro",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your own Discovery Call training role plays",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice an initial sales conversation selling your product with this easy to build",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your own Cold Calling training simulation",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice pitching your product and qualifying a new prospect with this",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“One thing I appreciate about Second Nature is that real-time feedback. The simulation flags when the rep launches into solutions too early. Because understanding customer needs is really one of the biggest mistakes most salespeople make.”",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“What's cool about the program is that you're not still practicing the same exact thing every time, even though it's the same scenario. When we apply the mood feature, you're going through a different customer persona each time. So it's not like the reps can game the system after they've done it once or twice. They continue to get better at it as the customer evolves.”",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Second Nature, we can get them out faster, have them selling more for a longer period of time, and selling at a higher level. We’re not just saving time, we’re also seeing faster productivity resulting in more profit. This increased efficiency and capacity is saving us a ton of money.",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our AI training allows businesses to boost customer service while controlling costs. Agents achieve full proficiency faster, leading to higher customer satisfaction. The Symphony [AI] ecosystem enhances key performance metrics like first call resolution, handle time, and NPS.”",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Global Sales Productivity",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“As an enablement leader working with the sales enablement team, we know the cost of Second Nature and our ability to give each person that amount of practice in the year. For us, it was a no-brainer.",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“Everyone hates certifications because it sounds like homework or final exams, but with Second Nature we completely gamified our certification process, and we have a 100% completion rate. 100%. Even we were amazed.”",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Sales Productivity and Enablement",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“You can see in the reports we’re getting, the level of engagement increased, the ability to pitch the product or solution based on the key benefits that we want them to speak about increased as well, so sales reps are hitting more points that are important to us as a company, and they’re repeating those points with customers.",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We get better-prepared people after an onboarding process, and we’ll be able to cut short the onboarding process, which means we’ll have more viable salespeople faster in the field, and that in itself is worth millions.”",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The AI role play training solution used by Fortune 100 companies",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "used by Fortune 100 companies",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Role Play: Checkpoint Case Study of Sales Reps",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Role Play: Checkpoint Case Study of Sales Reps",
+    "url": "https://secondnature.ai/resources/check-point-sales-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Your vision, brought to life through 3D face scanning, precision craftsmanship and an automotive paint finish.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive-grade paint",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Choose your colours and effects. We apply the automotive finish, protect your mask and arrange free worldwide shipping.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive-grade paint, professionally applied. From mirror-like finishes to metallics, pearls and colour-shift effects.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive paint finish",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Secondnature",
+    "url": "https://www.casestudies.com/customer/secondnature",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Second Nature Manufacturing",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The most complex manufacturing",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SECOND NATURE MANUFACTURING",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment inside the plant creates an air-gapped environment that eliminates external attack vectors - and provides enterprise-grade security for all your manufacturing processes.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Whatever you need greater control over, Second Nature Manufacturing can deliver. Talk to us about your most compelling use cases. The examples below may inspire you.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse & other storage zones",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Pro enables warehouse managers to “see” current stock status spatially while walking through storage",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CLEANROOM PROCESSING & BATCH MANUFACTURING",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Operators access digital SOPs, log batch steps and capture deviations on iPads",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cross-train operators on new equipment in days rather than weeks, with consistent skill levels across all shifts",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "When every datum breathes the same air, the factory stops guessing and starts knowing – minute by minute, question by question.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EIGHT BENEFITS OF SECOND NATURE MANUFACTURING",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Operators with an iPad can type plain-English questions: “Why did station 4 pause around 2pm?” The system will also reply in natural language, aloud if requested – together with a stitched timeline of sensor, vision and SOP events.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature Manufacturing does not need to happen in an instant. You can move your facility from a cautious proof of value to a self-improving fabric of local intelligence, improving accuracy, uptime and traceability one clearly bounded step at a time.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Vision models chew through frames. Stream those to the cloud and you pay twice – once for uplink bandwidth, once for GPU time. Run them on an M-series Mini and you keep the video on the shop floor, only shipping light JSON events to the ERP.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pharma-grade manufacturing has to show auditors where data lives and who touched it. Local storage with immutable logs makes data-lineage diagrams straightforward. Cross-border transfers, Schrems II worries and long legal disclaimers disappear.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What will emerge once there is digital intelligence at every action point of a manufacturing process – and they are all integrated and interconnected into a single system?",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The answer is the logical end-point of Second Nature Manufacturing.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "As hidden insight will be unlocked it is then not unreasonable to suggest that manufacturing – and entire industries – will be reshaped by these digitally-intelligent systems and platforms. Given that they will also have personalities, they might even be perceived as ‘entities’.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Brightbeam is here to architect, build, maintain and evolve the ‘nervous systems’ of Second Nature Manufacturing facilities.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are committed to responsible and ethical innovation. We are advocates for broad societal benefit and collaboration that shapes regulatory frameworks to foster innovation while safeguarding public interest in this new era of Second Nature Manufacturing.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: SecondNature achieves a professional, consistent social media presence with 100 Pound Social | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/100-pound-social/case-study/secondnature-boosts-brand-awareness-with-100-pound-socials-4-posts-a-week-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: SecondNature achieves a professional, consistent social media presence with 100 Pound Social",
+    "url": "https://www.casestudies.com/company/100-pound-social/case-study/secondnature-boosts-brand-awareness-with-100-pound-socials-4-posts-a-week-plan",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/100-pound-social/case-study/secondnature-boosts-brand-awareness-with-100-pound-socials-4-posts-a-week-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/100-pound-social/case-study/secondnature-boosts-brand-awareness-with-100-pound-socials-4-posts-a-week-plan",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ", reduce the barrier to entry, and you do it one-on-one so you don’t have that antsy feeling of doing it in front of your manager or VP or anyone else.",
+    "url": "https://secondnature.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“We rolled out both an updated corporate messaging, as well as some products from a company that we had recently acquired, to almost 2,000 people. On average, their delivery improved 48% between their first practice and their best practice just within a matter of days.”",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "No one loves to practice, not in sports or anything, but that’s what gets you there. With AI we are able to make practice fun, reduce the barrier to entry, and you do it one-on-one so you don’t have that antsy feeling of doing it in front of your manager or VP or anyone else.",
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We see our partners as an integral part of the Second Nature team and are committed to creating collaborative opportunities that drive mutual growth and new business success.",
+    "url": "https://secondnature.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Jay Fortuna's team used AI Role-Plays to beat the forgetting curve and drive real revenue results. Watch the on-demand webinar with Dr. Coral Shachar to learn what actually makes sales training stick.",
+    "url": "https://secondnature.ai/resources/check-point-sales-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "<img src=\"https://aipicks.jp/api/badge?slug=second-nature&kind=listed\" alt=\"AI PICKS 掲載認定 2026 AUTUMN｜Second Nature（セカンドネイチャー）\" width=\"200\" height=\"236\" loading=\"lazy\" />",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   },
+   {
+    "quote": "Choose your colours and effects. We apply the automotive finish, protect your mask and arrange free worldwide shipping.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Made-to-order production takes 1–3 months. After dispatch from Georgia, carrier transit takes another 2–3 weeks to all countries. We discuss the design and production schedule with you before starting your project.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Seamless links between each part of the process",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The same Swift models run on iPad, iPhone and Mini, so QA engineers debug once, deploy everywhere. Watch notifications arrive via the Apple Push Gateway already whitelisted on corporate firewalls.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI can A/B a new vision model on one mini in “shadow mode” during a single shift. If it beats the incumbent, a script promotes it across the cluster before the next goods-in truck arrives.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "To view Second Nature’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature has 383 total employees.",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "What is Second Nature’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Second Nature is",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "Things that were difficult at first become normal and part of your daily routine as you repeat them over and over.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Things that were difficult at first become part of your daily life as you continue, and before you know it, they become your own strength.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Second Nature’s growing partner program is designed to foster and support a trusted ecosystem of partners who share our vision for the rapidly expanding global demand for AI role-play training solutions.",
+    "url": "https://secondnature.ai/partner/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "手持ちの研修資料を読み込ませてシナリオを作れ、日本語を含む25以上の言語に対応します",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む25以上です",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   },
+   {
+    "quote": "で返り、日本語を含む25以上の言語で練習できます",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を含む25以上の言語で練習できる",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   },
+   {
+    "quote": "採点は内容と話し方の両面で45〜90秒で返り、日本語を含む25以上の言語で練習できます",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   },
+   {
+    "quote": "日本で10年間働いたのちロンドンベルリンで美容師、ヘアメイクとして6年間働いていました",
+    "url": "http://secondnature.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "She was Born in Aichi Japan.",
+    "url": "http://secondnature.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2017, after returning to Tokyo,she belongs to \"Second Nature\" of hair salon in Shimokitazawa as a HairStylist of freelancer.",
+    "url": "http://secondnature.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "155-0031 東京都世田谷区北沢2-37-3",
+    "url": "http://secondnature.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "155-0031 東京都世田谷区北沢2-37-3 下北沢振効舎ビル2B",
+    "url": "http://secondnature.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Street style meets Japanese culture.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Second Nature | AI Role Play Sales Training Software — Second Nature integrates with any LMS via SCORM or LTI, and a variety of CRMs, SAML, and conference tools to bring AI role play training into your existing workflows.",
+    "url": "https://secondnature.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature（セカンドネイチャー）とは？評判・料金・機能 | AI PI... — Oct 1, 2026 · Second Nature（セカンドネイチャー）の評判・料金・代替ツールを比較。 Second Natureは、AIが演じる顧客やアバターを相手に商談や電話対応を練習し、話した内容と話し方をAIが採点する営業・接客研修向けのロールプレイプラットフォームです。",
+    "url": "https://aipicks.jp/tool/second-nature",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature レビュー: AIを活用したセールスロールプレイトレーニ... — Second Natureは、動くアバターを使ったリアルなロールプレイを練習できるAIセールストレーニングプラットフォームです。 本レビューでは、その機能、カスタマイズオプション、販売組織への適合性を探ります。 価格は非公開で、デモの予約が必要です。",
+    "url": "https://345tool.com/ja/ai/tool/secondnature.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature (@secondnature_inc) • Instagram photos and videos — 4,615 Followers, 0 Following, 21 Posts - Second Nature (@secondnature_inc) on Instagram: \"making all precious things unique\"",
+    "url": "https://www.instagram.com/secondnature_inc/",
+    "pass": 3
+   },
+   {
+    "quote": "SECOND NATURE — サロンでは一人一人のお客様と誠実に向き合い、その人のライフスタイルにあったhair styleを提案できるようにゆっくりと話し合い造りあげています。 ヘアメイクでは女優さんモデルさんをはじめカルチャー誌やコレクションの手伝いなど毎日変わる現場の中で沢山のスタッフの人たちと楽しくお仕事させていただいています。 好きなイメージを伝えて頂けたらその方にとっての『ベストライン』を探します。 さりげない抜け感のある『らしさ』を忘れない、そして数ヶ月先にも扱いやすいスタイル作りを心掛けています。 都度都度のライフスタイルや気分で雰囲気を変化させていきましょう。 お客様の雰囲気、顔型に合わせた『似合わせカット』が得意です。",
+    "url": "http://secondnature.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Masks · Second Nature Workshop — Custom masks by Second Nature Workshop. 3D face scanning, precision craftsmanship and automotive paint finishes. Explore our work and start your project.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Sales Role Play Platform for Enterprise | Second Nature — Second Nature runs right in mobile browser, no app download required. Simply share a course link and trainees will automatically be assigned a course for them to practice from any device. With over 125,000 happy trainees, Second Nature meets the highest security standards in the industry.",
+    "url": "https://secondnature.ai/product/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Secondnature as the Customer — Explore case studies featuring Secondnature as the customer — learn how vendors and partners helped Secondnature solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/secondnature",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Archives - Second Nature — Explore Second Nature case studies. Learn how AI conversational simulations help to achieve results and improve sales & agents performance. Learn more.",
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Second Nature Manufacturing — Second Nature Manufacturing does not need to happen in an instant. You can move your facility from a cautious proof of value to a self-improving fabric of local intelligence, improving accuracy, uptime and traceability one clearly bounded step at a time.",
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: SecondNature achieves a professional, consistent ... — The solution delivered a professional and consistent social media presence that boosted Secondnature's brand awareness. The client reported being highly impressed with the relevance, quality, and professionalism of the content. View this case study…",
+    "url": "https://www.casestudies.com/company/100-pound-social/case-study/secondnature-boosts-brand-awareness-with-100-pound-socials-4-posts-a-week-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Launch - Second Nature Manufacturing — Second Nature Manufacturing does not need to happen in an instant. You can move your facility from a cautious proof of value to a self-improving fabric of local intelligence, improving accuracy, uptime and traceability one clearly bounded step at a time.",
+    "url": "https://www.secondnaturemanufacturing.com/launch",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature – Valuation, Revenue & Market Scope – 2026 — Second Nature is a Digital Health company based in London, founded in 2015. It reports $16M revenue, employs more than 100 people, and focuses on lifestyle change programs.",
+    "url": "https://compworth.com/company/secondnatureio",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 14, 2026 · Second Nature is a series C company based in Raleigh (United States), founded in 2012 by Kevin Barry and Thad Tarkington. It operates as a Provider of resident benefits packages for property managers and owners.",
+    "url": "https://tracxn.com/d/companies/secondnature/__XL2ofkLqnuySfe4RpeEnqeKA7-LmkxzeP85QPWHME7M",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature - 2025 Company Profile, Team, Funding ... - TracxnSecond Nature 2026 Company Profile: Valuation, Funding ...Second Nature: Funding, Team & Investors | Startup IntrosSecond Nature AI Revenue 2024: $15.8M Est., $15.5M Raised - LATKA — Dec 17, 2025 · Explore Second Nature's in-depth company profile, including funding details, key investors, leadership, and competitors. Information on va",
+    "url": "https://tracxn.com/d/companies/second-nature/__gGzxJJqDn71SurVojTmu4R_6lKGsZd5EEopMfABnkuw",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature 2026 Company Profile: Valuation, Funding ...Second Nature: Funding, Team & Investors | Startup IntrosSecond Nature AI Revenue 2024: $15.8M Est., $15.5M Raised - LATKA — Information on valuation, funding, cap tables, investors, and executives for Second Nature. Use the PitchBook Platform to explore the full profile. Jul 13, 2026 · With $22M in recent Series B funding (total funding ~$",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · With $22M in recent Series B funding (total funding ~$34.5M including prior $12.5M), 46 employees, ~$15.8M revenue, and over 50k trainees, the company shows strong growth momentum, planning expansions in operations, product development, and personalized AI coaching integrations[1][2][3].",
+    "url": "https://startupintros.com/orgs/second-nature",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We provide care instructions and repair support. Contact us directly if you need help looking after your mask.",
+    "url": "https://secondnature.ws/en",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Continuing steadily will one day become 'second nature ... Continuing steadily might just be the process of turning something special into something that is second nature. I couldn't even do two sit-ups, but now I can do six! Actually, I had also taken a break from sit-ups, back exercises, and push-ups for a while. So, I decided to start again little by little.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My thoughts after one month of paying for ChatGPT: I find ... Now that this daily routine has become second nature, I decided to take the plunge and switch to a paid plan. Before I knew it, a month had passed. I'd like to leave behind my own record and thoughts on how my life has changed. ⸻ The trigger was 'I'm sick of the image limits!'",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The fortune-telling was accurate. Even so, the more I had my ... Oct 6, 2026 · Before I knew it, that had become second nature to me. At first, it was just fun. Having things I hadn't realized myself pointed out, or reading someone else's feelings from the cards. I found that enjoyable. \"I didn't know tarot could tell you things like this.\" That was what I enjoyed. But the more I learned, the more",
+    "url": "https://note.com/real_hippo6813/n/n38bcc764aba0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mixed-Age Interaction is Actually the Best: The Benefits of ... Hello! This is Kunparu Degawa. When spending time at Kunparu, it becomes second nature for children to play with others of different grade levels. What are the benefits of mixed-age interaction, which we surprisingly have few opportunities for?",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Continuing steadily will one day become 'second nature' — Small steps lead to great growth —｜フルリールピアノ教室池田知子",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Continuing steadily will one day become 'second nature' — Small steps lead to great growth —",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am Tomoko Ikeda from Fleurir Piano School in Takasaki City.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We have already entered November, and there are less than two months left in this year.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While thinking about what I want to accomplish before the year ends, I prioritize the tasks I need to do each day and work through them one by one.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As you keep going, it becomes 'normal'",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Yesterday was the Gunma Prefectural Marathon.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Running 10 kilometers or a half marathon seems like a very difficult task to me.",
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My thoughts after one month of paying for ChatGPT: I find myself asking 'Can I ask you something?' more often｜みぽぽ",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My thoughts after one month of paying for ChatGPT: I find myself asking 'Can I ask you something?' more often",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Living alongside Notion and other AI tools, I realized I talk to ChatGPT the most. Now that this daily routine has become second nature, I decided to take the plunge and switch to a paid plan.",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before I knew it, a month had passed.",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'd like to leave behind my own record and thoughts on how my life has changed.",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ The trigger was 'I'm sick of the image limits!'",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I started using Notion AI to write my note articles, and I began relying on AI for title illustrations too, but the fact that I 'hit the limit immediately' was stressful!",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While I was trying out various AIs for image generation and writing, I realized that ChatGPT really felt the most natural to me.",
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mixed-Age Interaction is Actually the Best: The Benefits of Socialization Learned in After-School Care｜学童保育くんぱるハウス出川",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mixed-Age Interaction is Actually the Best: The Benefits of Socialization Learned in After-School Care",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! This is Kunparu Degawa.",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When spending time at Kunparu, it becomes second nature for children to play with others of different grade levels.",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are the benefits of",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "mixed-age interaction",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", which we surprisingly have few opportunities for?",
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "secondnature (@secondnaturesea) / Posts / X secondnature (@secondnaturesea) - Posts - artist collective focused on bringing expansive electronic music to the pacific northwest 🌲 aos, ... | X (formerly Twitter)",
+    "url": "https://x.com/secondnaturesea",
+    "pass": 3
+   },
+   {
+    "quote": "SecondNature (sN) (@sNatureGG) / Posts / X Currently Second Nature is under construction for the team and management. Everything is on a freeze and currently aren’t looking for anyone. Stay tuned for the new changes that are coming soon. 💬0",
+    "url": "https://x.com/sNatureGG",
+    "pass": 3
+   },
+   {
+    "quote": "SecondNature Journal (@SecondNatureJrn) / X Looking for a new read? Check out our online book store: buff.ly/2uJq8H4 SecondNature Journal @SecondNatureJrn Jul 17, 2017 Join our weekly newsletter and get all of Second Nature delivered to your digital doorstep buff.ly/2txx9Wv SecondNature Journal @SecondNatureJrn Jul 12, 2017",
+    "url": "https://x.com/SecondNatureJrn",
+    "pass": 3
+   },
+   {
+    "quote": "\"#SecondNature\" - Results on X | Live Posts & Updates Results for \"#SecondNature\" on X (Twitter). Find the latest posts, discussions, and updates about #SecondNature. 19 results found.",
+    "url": "https://x.com/hashtag/SecondNature",
+    "pass": 3
+   },
+   {
+    "quote": "@secondnature | X The latest posts from @secondnature",
+    "url": "https://x.com/secondnature",
+    "pass": 3
+   },
+   {
+    "quote": "secondnatureai (@secondnature_ai) / Posts / X secondnatureai (@secondnature_ai) - Posts - | X (formerly Twitter) secondnature_ai Joined: Jan 23, 2025 0 1 0",
+    "url": "https://x.com/secondnature_ai",
+    "pass": 3
+   },
+   {
+    "quote": "SecondNature Journal (@SecondNatureJrn) / X Check out our online book store: buff.ly/2s2anpJ SecondNature Journal @SecondNatureJrn Jun 26, 2017 Join our weekly newsletter and get all of Second Nature delivered to your digital doorstep buff.ly/2tdyNki SecondNature Journal @SecondNatureJrn Jun 24, 2017 Media Ecology’s Dead Sea Scrolls buff.ly/2sUfHPk 1 SecondNature Journal ...",
+    "url": "https://x.com/SecondNatureJrn",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sally Measom - Senior Consultant and Coach, SecondNature ...Mike Gibbs - Co-founder at Second Nature | LinkedInAriel Hitron - Second Nature AI | LinkedInSecond Nature Designs LP - LinkedIn Currently working as a Senior Consultant and Coach with the brilliant SecondNature International and as an independent Business Consultant at Solution3. Please call if I can help. Co-founder of Second Nature, UK",
+    "url": "https://uk.linkedin.com/in/sally-measom-b733931a",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature - LinkedIn About us Second Nature is redefining professional property management with the only platform that personalizes renting for every resident.",
+    "url": "https://www.linkedin.com/company/secondnaturenow",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature - LinkedIn The #1 AI Role Play training solution for business. | With Second Nature’s AI Role Play training solution, your teams can practice real workplace conversations with an AI Avatar, and receive ...",
+    "url": "https://www.linkedin.com/company/second-nature-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature - LinkedIn The #1 AI Role Play training solution for business. | With Second Nature’s AI Role Play training solution, your teams can practice real workplace conversations with an AI Avatar, and receive...",
+    "url": "https://il.linkedin.com/company/second-nature-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Second Nature - FacebookSecond Nature - Facebooksecondnature - FacebookSecond Nature - FacebookSecond Nature - FacebookSecond Nature | Modesto CA - FacebookSecond nature | San Diego CA - Facebook Used by the NHS, Second Nature’s programme is built around behaviour change that survives the wobble. Because losing weight for good was never about how you feel on day one. Oct 15, 2026 · Every VIP walks",
+    "url": "https://www.facebook.com/secondnature.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature - Facebooksecondnature - FacebookSecond Nature - FacebookSecond Nature - FacebookSecond Nature | Modesto CA - FacebookSecond nature | San Diego CA - Facebook Oct 15, 2026 · Every VIP walks away with claw machine tokens, a Red Rock Canyon sunrise hike, and a ticket to the AppFolio x Second Nature after party. Book a short meeting with us (or share feedback if you're a customer) to unl",
+    "url": "https://www.facebook.com/secondnaturerbp/",
+    "pass": 3
+   },
+   {
+    "quote": "secondnature - Facebook Mar 2, 2026 · We have other very exciting plans for this event that will be announced soon. Get your tickets at the link in bio! As we approach a decade of secondnature, we’ve been reflecting on our place in Seattle’s dance music community and our goals for the future.",
+    "url": "https://www.facebook.com/secondnatureseattle/",
+    "pass": 3
+   },
+   {
+    "quote": "Second Nature - FacebookSecond Nature - FacebookSecond Nature | Modesto CA - FacebookSecond nature | San Diego CA - Facebook Oct 24, 2026 · Second Nature. 938 followers · 15 talking about this. Biff & Julie play an eclectic mix of classic to current rock, blues, country & pop music in SC, NY... Aug 11, 2026 · Second Nature is crafted by Puretrop Fruits Limited (Est. 1992). Over three decades of wo",
+    "url": "https://www.facebook.com/2ndnatureband/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://secondnature.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secondnature.ai/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secondnature.ai/customers-loves-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secondnature.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secondnature.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secondnature.ai/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secondnature.ai/resources/check-point-sales-case-study/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aipicks.jp/tool/second-nature",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://345tool.com/ja/ai/tool/secondnature.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/secondnature_inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://secondnature.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secondnature.ws/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/secondnature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secondnaturemanufacturing.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/100-pound-social/case-study/secondnature-boosts-brand-awareness-with-100-pound-socials-4-posts-a-week-plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/secondnatureio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/secondnature/__XL2ofkLqnuySfe4RpeEnqeKA7-LmkxzeP85QPWHME7M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/second-nature/__gGzxJJqDn71SurVojTmu4R_6lKGsZd5EEopMfABnkuw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/96062-41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/real_hippo6813/n/n38bcc764aba0?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/secondnaturesea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sNatureGG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SecondNatureJrn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/SecondNature",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/sally-measom-b733931a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/secondnaturenow",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/second-nature-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/second-nature-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/secondnature.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/secondnaturerbp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/secondnatureseattle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/2ndnatureband/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/secondnaturesea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/secondnature",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/secondnature_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SecondNatureJrn",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Secondnature 日本 導入",
+   "results": [
+    "https://secondnature.ai/",
+    "https://aipicks.jp/tool/second-nature",
+    "https://345tool.com/ja/ai/tool/secondnature.ai",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://prtimes.jp/main/html/rd/p/000000001.000168701.html",
+    "http://secondnature.jp/",
+    "https://carview.yahoo.co.jp/article/detail/ec3c48a77f8e185b727bfc3c5b84b45a70deba74/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Secondnature 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/セカンドストリート",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Secondnature Japan",
+   "results": [
+    "https://www.instagram.com/secondnature_inc/",
+    "http://secondnature.jp/",
+    "https://secondnature.ai/",
+    "https://secondnature.ws/en",
+    "https://secondnature.ai/product/",
+    "https://secondnature.ws/en/store?category=second-nature-masks",
+    "https://www.nmacc.com/visual-arts/second-nature/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Secondnature manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/secondnature",
+    "https://secondnature.ai/resources/case-studies/",
+    "https://www.secondnaturemanufacturing.com/",
+    "https://www.casestudies.com/company/100-pound-social/case-study/secondnature-boosts-brand-awareness-with-100-pound-socials-4-posts-a-week-plan",
+    "https://www.secondnaturemanufacturing.com/launch",
+    "https://www.secondnature.com/customer-stories",
+    "https://www.recapped.io/case-studies/how-second-nature-streamlined-their-sales-cycle-and-handoffs-to-customer-success"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Secondnature white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partner.vw.com/partner",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Secondnature founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/secondnatureio",
+    "https://tracxn.com/d/companies/secondnature/__XL2ofkLqnuySfe4RpeEnqeKA7-LmkxzeP85QPWHME7M",
+    "https://tracxn.com/d/companies/second-nature/__gGzxJJqDn71SurVojTmu4R_6lKGsZd5EEopMfABnkuw",
+    "https://pitchbook.com/profiles/company/96062-41",
+    "https://startupintros.com/orgs/second-nature",
+    "https://getlatka.com/companies/second-nature-ai",
+    "https://secondnature.org/about-us/reports-and-financials/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Secondnature",
+   "results": [
+    "https://note.com/tomoko130401/n/nc85865fa4374?hl=en",
+    "https://note.com/micho/n/neb45edf6b0ae?hl=en",
+    "https://note.com/real_hippo6813/n/n38bcc764aba0?hl=en",
+    "https://note.com/kunpal_degawa/n/n9b8dcf390351?hl=en",
+    "https://note.com/yura_ppp22/n/nbda290ce5696?hl=en",
+    "https://note.com/kenbo1929/n/nafd93e17a191?hl=en",
+    "https://note.com/piccolotakamura/n/nf716337c5198"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Secondnature",
+   "results": [
+    "https://x.com/secondnaturesea",
+    "https://x.com/sNatureGG",
+    "https://x.com/SecondNatureJrn",
+    "https://x.com/hashtag/SecondNature",
+    "https://x.com/SecondNature_GG",
+    "https://x.com/SecondNatureDLP",
+    "https://x.com/anexiledjew/status/2119810188001870117"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Secondnature",
+   "results": [
+    "https://uk.linkedin.com/in/sally-measom-b733931a",
+    "https://www.linkedin.com/company/secondnaturenow",
+    "https://www.linkedin.com/company/second-nature-ai",
+    "https://il.linkedin.com/company/second-nature-ai",
+    "https://uk.linkedin.com/in/michaelgibbs1",
+    "https://il.linkedin.com/in/arielhitron",
+    "https://ca.linkedin.com/company/second-nature-designs-lp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Secondnature",
+   "results": [
+    "https://www.facebook.com/secondnature.io/",
+    "https://www.facebook.com/secondnaturerbp/",
+    "https://www.facebook.com/secondnatureseattle/",
+    "https://www.facebook.com/2ndnatureband/",
+    "https://www.facebook.com/getsecondnature/",
+    "https://www.facebook.com/SecondnaturePB/",
+    "https://www.facebook.com/secondnaturemodesto/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Secondnature note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://en.wikipedia.org/wiki/Second_Nature_(AI_Company)",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/se_cond",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://note.com/se_cond/n/n26d337c94a1e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Secondnature X 投稿",
+   "results": [
+    "https://x.com/secondnaturesea",
+    "https://x.com/secondnature",
+    "https://x.com/secondnature_ai",
+    "https://x.com/SecondNatureJrn",
+    "https://x.com/SecondNaturePod",
+    "https://login.secondnature.ai/",
+    "https://secondnature.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

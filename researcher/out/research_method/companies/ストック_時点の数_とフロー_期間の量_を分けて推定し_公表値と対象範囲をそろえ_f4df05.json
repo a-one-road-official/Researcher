@@ -8,9 +8,15 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T04:21:25.115832+00:00",
+ "researched_at": "2026-11-09T21:23:11.419385+00:00",
  "evidence": {
   "一次情報の探し方": [
+   {
+    "quote": "2026年12月10日(木) ソング本部 デザインチーム 採用セミナー",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "コンサルティングファームなどの採用面接では、実際に論理的に考える力や仮説を立てる力を確認するために出題されることがあります",
     "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
@@ -246,148 +252,24 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "実例": [
+  "SNS・note（X・検索結果の抜粋）": [
    {
-    "quote": "手順5．計算結果が現実的か検証する",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "quote": "宇坂 悠北 on X: \"最後に、ストック指標を算出する時に使うBS項目や勘... 一つは、期末という一定時点の数値を使う方法だ。 ストックリストの数値だけで分析する場合や、特に期中の変化を考慮する必要がない場合は、この方法で良いと思う。 もう一つは、期首と期末の数値の平均値を使う方法だ。",
+    "url": "https://x.com/yuhoku69/status/2116647946708279773",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Q1.フェルミ推定とケース面接の違いは何ですか？",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "quote": "宇坂 悠北 on X: \"最後に、ストック指標を算出する時に使うBS項目や勘... 最後に、ストック指標を算出する時に使うBS項目や勘定科目の数値について触れておこう。 一つは、期末という一定時点の数値を使う方法だ。ストックリストの数値だけで分析する場合や、特に期中の変化を考慮する必要がない場合は、この方法で良いと思う。 もう一つは、期首と期末の数値 ...",
+    "url": "https://x.com/yuhoku69/status/2116647946708279773",
     "pass": 3,
     "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "労働力調査（基本集計）2025年平均結果",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここでは、前提条件の確認から計算結果の検証まで、基本となる5つの手順を解説します",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「日本全国にコンビニは何店舗あるか」という問題でも、どこまでをコンビニとして扱うのかによって推定結果は変わります",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "結果への影響が大きい要素を優先し、限られた時間でも計算できる粒度にとどめることがポイント",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "計算式が合っていても、前提や代入した数値に無理があると、結果が大きくずれるためです",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
+   }
+  ],
+  "失敗・落とし穴": [
    {
     "quote": "結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう",
     "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実際には、医学部などの6年制課程や留年者などもいるため、4学年で一律に計算した結果には誤差が生じます",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "令和7年度学校基本統計（学校基本調査の結果）確定値",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "同じ猫を家族全員が飼っているケースも多く、人口を起点にすると重複を避けるために追加の仮定が必要になります",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これらを使うと約903万匹となり、実際の推計値約884.7万匹とも近い結果です",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "推定結果約6万店舗に対して、日本フランチャイズチェーン協会の2025年12月度調査では、JFA正会員7社の店舗数は5万6,054店舗でした",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "推定値との差は1割程度に収まっており、初級のフェルミ推定としてはおおむね妥当な結果と判断できます",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "新宿駅前に出店するカフェの年間売上は、需要側と供給側の2つのアプローチから推定し、結果を比較することで妥当性を確認できます",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ストック問題とフロー問題の違い | ケース面接ジム",
-    "url": "https://casemensetsu.com/columns/stock-flow-difference",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば「日本にある冷蔵庫の台数」を考える場合、世帯数という母数に対して、1世帯あたりの平均保有台数を掛け合わせるだけで概算できます",
-    "url": "https://casemensetsu.com/columns/stock-flow-difference",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば法人が保有する分と個人が保有する分を分けて考えたほうが自然な問題もあります",
-    "url": "https://casemensetsu.com/columns/stock-flow-difference",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば「あるカフェチェーンの年間来店者数」を考える場合、1店舗あたりの1日の来店者数に、営業日数と店舗数を掛け合わせるという流れになります",
-    "url": "https://casemensetsu.com/columns/stock-flow-difference",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば「日本にある傘の数」はストック問題ですが、「日本で1年間に売れる傘の本数」はフロー問題です",
-    "url": "https://casemensetsu.com/columns/stock-flow-difference",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば「美容室の数」というストック問題を解いたあとに、「美容室が1年間にこなす来店回数」というフロー問題として解き直してみると、母数の使い方や式の作り方がどう変わるかを体感できます",
-    "url": "https://casemensetsu.com/columns/stock-flow-difference",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ケース面接とは｜定義・流れ・評価基準・例題・対策を初心者向けに完全解説",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、電柱は道路片側のみに設置されるケースが大半ですが、道路の両側設置区間や引き込み線用の電柱も含まれます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "都市部・農村部、平日・休日など、異質なケースを意識した分解ができているか",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
@@ -398,157 +280,13 @@
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "本番でも、計算結果を出してすぐに「大きすぎないか？」「小さすぎないか？」と声に出して確認する習慣を持つことが有効です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本記事のテーマを頭で理解しても、実際のケース面接で使いこなせるかどうかは別問題です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは、MBB内定者・出身者によるマンツーマンの模擬ケース面接指導を提供しています",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本番形式の模擬ケース面接を、",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは、MBB出身者・内定者の講師が実際の過去問で模擬ケース面接を行い、現状のレベルと改善点をその場でフィードバックします",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルのケース面接で「〇〇の市場規模を推定してください」と言われた瞬間、何から手をつければよい…",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "©︎ ケース面接対策塾 Strategists",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "計算結果の桁感を自ら検証し、異常値に気づけるか",
+    "quote": "型を覚えるだけでなく、本番で陥りやすい落とし穴を先に知っておきましょう",
     "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定とケース面接は独立した別試験ではなく、",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定は「概算で市場の大きさや対象数を出す」前置段階にあたり、ケース面接はその数字を土台に「課題の特定と施策の提案」へ進む段階です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "BCGなどMBBの選考では、フェルミ推定で出した数字がそのままケース分析の前提として引き継がれることが多いとされます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定で桁感を間違えると、後続のケース推論も崩れます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定の精度を上げることは、ケース面接全体の精度を上げることに直結します",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "端末の二重カウント（1人が複数台保有するケース）等の誤差を考慮すると、約1.7〜1.9億台程度の規模感になります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これは1人が複数回線を契約するケースや、IoT端末・デュアルSIM等が「契約数」に含まれているためです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは他のフェルミ推定例題やケース面接の解説記事も公開しています",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本記事のテーマを頭で理解しても、実際のケース面接で使いこなせるかどうかは別問題です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは、MBB内定者・出身者によるマンツーマンの模擬ケース面接指導を提供しています",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ボストン コンサルティング グループで面接官としてケース面接を担当",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは講師として受講生の模擬ケース面接と講座に登壇し、本記事の内容を監修",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本番形式の模擬ケース面接を、",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは、MBB出身者・内定者の講師が実際の過去問で模擬ケース面接を行い、現状のレベルと改善点をその場でフィードバックします",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Market Sizing: Bottom-Up vs. Top-Down Approaches for Case Interviews",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
     "quote": "Master bottom-up and top-down market sizing for consulting case interviews. Includes Fermi estimation techniques, worked examples, decision framework for choosing your approach, common mistakes, and practice exercises at increasing difficulty.",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Run one real case free and let AI score you.",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(scaling from a single unit) – appear in roughly 30% of first-round case interviews at McKinsey, BCG, and Bain.",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -560,49 +298,55 @@
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Beyond case interviews, the market sizing framework directly applies to:",
+    "quote": "Common Market Sizing Mistakes (and How to Fix Them)",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "profitability case frameworks",
+    "quote": "Mistake 1: Forgetting Major Segments",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Top-Down Worked Example 1: Daily Coffee Sales in New York City",
+    "quote": "Mistake 2: False Precision",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Top-Down Worked Example 2: US Electric Vehicle Market Revenue",
+    "quote": "Mistake 3: No Sanity Check",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Top-Down Worked Example 3: US Pet Food Market",
+    "quote": "Mistake 4: Assumption Stacking Without Intermediate Checks",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": ": The actual US pet food market is approximately $58B (2024 data). Our estimate of $50B is within 14% — well within acceptable range for a case interview.",
+    "quote": "Mistake 5: Confusing Stock vs. Flow",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Bottom-Up Worked Example 1: NYC Coffee Market",
+    "quote": "Mistake 6: Ignoring the Time Dimension",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Bottom-Up Worked Example 2: US Ride-Sharing Market Revenue",
+    "quote": "Mistake 7: Applying National Averages to Local Markets",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Avoid the seven common mistakes — especially missing segments, false precision, and failing to sanity-check",
     "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -970,16 +714,364 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "SNS・note（X・検索結果の抜粋）": [
+  "実例": [
    {
-    "quote": "宇坂 悠北 on X: \"最後に、ストック指標を算出する時に使うBS項目や勘... 一つは、期末という一定時点の数値を使う方法だ。 ストックリストの数値だけで分析する場合や、特に期中の変化を考慮する必要がない場合は、この方法で良いと思う。 もう一つは、期首と期末の数値の平均値を使う方法だ。",
-    "url": "https://x.com/yuhoku69/status/2116647946708279773",
+    "quote": "手順5．計算結果が現実的か検証する",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "宇坂 悠北 on X: \"最後に、ストック指標を算出する時に使うBS項目や勘... 最後に、ストック指標を算出する時に使うBS項目や勘定科目の数値について触れておこう。 一つは、期末という一定時点の数値を使う方法だ。ストックリストの数値だけで分析する場合や、特に期中の変化を考慮する必要がない場合は、この方法で良いと思う。 もう一つは、期首と期末の数値 ...",
-    "url": "https://x.com/yuhoku69/status/2116647946708279773",
+    "quote": "Q1.フェルミ推定とケース面接の違いは何ですか？",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "労働力調査（基本集計）2025年平均結果",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここでは、前提条件の確認から計算結果の検証まで、基本となる5つの手順を解説します",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「日本全国にコンビニは何店舗あるか」という問題でも、どこまでをコンビニとして扱うのかによって推定結果は変わります",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "結果への影響が大きい要素を優先し、限られた時間でも計算できる粒度にとどめることがポイント",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "計算式が合っていても、前提や代入した数値に無理があると、結果が大きくずれるためです",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "実際には、医学部などの6年制課程や留年者などもいるため、4学年で一律に計算した結果には誤差が生じます",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "令和7年度学校基本統計（学校基本調査の結果）確定値",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "同じ猫を家族全員が飼っているケースも多く、人口を起点にすると重複を避けるために追加の仮定が必要になります",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらを使うと約903万匹となり、実際の推計値約884.7万匹とも近い結果です",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推定結果約6万店舗に対して、日本フランチャイズチェーン協会の2025年12月度調査では、JFA正会員7社の店舗数は5万6,054店舗でした",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "推定値との差は1割程度に収まっており、初級のフェルミ推定としてはおおむね妥当な結果と判断できます",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "新宿駅前に出店するカフェの年間売上は、需要側と供給側の2つのアプローチから推定し、結果を比較することで妥当性を確認できます",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ストック問題とフロー問題の違い | ケース面接ジム",
+    "url": "https://casemensetsu.com/columns/stock-flow-difference",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「日本にある冷蔵庫の台数」を考える場合、世帯数という母数に対して、1世帯あたりの平均保有台数を掛け合わせるだけで概算できます",
+    "url": "https://casemensetsu.com/columns/stock-flow-difference",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば法人が保有する分と個人が保有する分を分けて考えたほうが自然な問題もあります",
+    "url": "https://casemensetsu.com/columns/stock-flow-difference",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「あるカフェチェーンの年間来店者数」を考える場合、1店舗あたりの1日の来店者数に、営業日数と店舗数を掛け合わせるという流れになります",
+    "url": "https://casemensetsu.com/columns/stock-flow-difference",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「日本にある傘の数」はストック問題ですが、「日本で1年間に売れる傘の本数」はフロー問題です",
+    "url": "https://casemensetsu.com/columns/stock-flow-difference",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば「美容室の数」というストック問題を解いたあとに、「美容室が1年間にこなす来店回数」というフロー問題として解き直してみると、母数の使い方や式の作り方がどう変わるかを体感できます",
+    "url": "https://casemensetsu.com/columns/stock-flow-difference",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ケース面接とは｜定義・流れ・評価基準・例題・対策を初心者向けに完全解説",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、電柱は道路片側のみに設置されるケースが大半ですが、道路の両側設置区間や引き込み線用の電柱も含まれます",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "都市部・農村部、平日・休日など、異質なケースを意識した分解ができているか",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "計算結果が直感に反するほど小さい（または大きい）場合、前提の設定に誤りがある可能性が高いものです",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本番でも、計算結果を出してすぐに「大きすぎないか？」「小さすぎないか？」と声に出して確認する習慣を持つことが有効です",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事のテーマを頭で理解しても、実際のケース面接で使いこなせるかどうかは別問題です",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Strategistsでは、MBB内定者・出身者によるマンツーマンの模擬ケース面接指導を提供しています",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本番形式の模擬ケース面接を、",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Strategistsでは、MBB出身者・内定者の講師が実際の過去問で模擬ケース面接を行い、現状のレベルと改善点をその場でフィードバックします",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "戦略コンサルのケース面接で「〇〇の市場規模を推定してください」と言われた瞬間、何から手をつければよい…",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "©︎ ケース面接対策塾 Strategists",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "計算結果の桁感を自ら検証し、異常値に気づけるか",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェルミ推定とケース面接は独立した別試験ではなく、",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェルミ推定は「概算で市場の大きさや対象数を出す」前置段階にあたり、ケース面接はその数字を土台に「課題の特定と施策の提案」へ進む段階です",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "BCGなどMBBの選考では、フェルミ推定で出した数字がそのままケース分析の前提として引き継がれることが多いとされます",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェルミ推定で桁感を間違えると、後続のケース推論も崩れます",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェルミ推定の精度を上げることは、ケース面接全体の精度を上げることに直結します",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "端末の二重カウント（1人が複数台保有するケース）等の誤差を考慮すると、約1.7〜1.9億台程度の規模感になります",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これは1人が複数回線を契約するケースや、IoT端末・デュアルSIM等が「契約数」に含まれているためです",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Strategistsでは他のフェルミ推定例題やケース面接の解説記事も公開しています",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本記事のテーマを頭で理解しても、実際のケース面接で使いこなせるかどうかは別問題です",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Strategistsでは、MBB内定者・出身者によるマンツーマンの模擬ケース面接指導を提供しています",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ボストン コンサルティング グループで面接官としてケース面接を担当",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Strategistsでは講師として受講生の模擬ケース面接と講座に登壇し、本記事の内容を監修",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本番形式の模擬ケース面接を、",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Strategistsでは、MBB出身者・内定者の講師が実際の過去問で模擬ケース面接を行い、現状のレベルと改善点をその場でフィードバックします",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Market Sizing: Bottom-Up vs. Top-Down Approaches for Case Interviews",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Master bottom-up and top-down market sizing for consulting case interviews. Includes Fermi estimation techniques, worked examples, decision framework for choosing your approach, common mistakes, and practice exercises at increasing difficulty.",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Run one real case free and let AI score you.",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(scaling from a single unit) – appear in roughly 30% of first-round case interviews at McKinsey, BCG, and Bain.",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This guide covers both core approaches in depth — top-down market sizing and bottom-up market sizing — with multiple worked examples, a decision framework for choosing between them, sanity-check benchmarks, speed hacks for time-pressured interviews, common mistakes, and practice exercises at increasing difficulty levels.",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Beyond case interviews, the market sizing framework directly applies to:",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "profitability case frameworks",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Top-Down Worked Example 1: Daily Coffee Sales in New York City",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Top-Down Worked Example 2: US Electric Vehicle Market Revenue",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Top-Down Worked Example 3: US Pet Food Market",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ": The actual US pet food market is approximately $58B (2024 data). Our estimate of $50B is within 14% — well within acceptable range for a case interview.",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Bottom-Up Worked Example 1: NYC Coffee Market",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Bottom-Up Worked Example 2: US Ride-Sharing Market Revenue",
+    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -1353,92 +1445,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう",
-    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "計算結果が直感に反するほど小さい（または大きい）場合、前提の設定に誤りがある可能性が高いものです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3142/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "型を覚えるだけでなく、本番で陥りやすい落とし穴を先に知っておきましょう",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/934/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Master bottom-up and top-down market sizing for consulting case interviews. Includes Fermi estimation techniques, worked examples, decision framework for choosing your approach, common mistakes, and practice exercises at increasing difficulty.",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "This guide covers both core approaches in depth — top-down market sizing and bottom-up market sizing — with multiple worked examples, a decision framework for choosing between them, sanity-check benchmarks, speed hacks for time-pressured interviews, common mistakes, and practice exercises at increasing difficulty levels.",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Common Market Sizing Mistakes (and How to Fix Them)",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mistake 1: Forgetting Major Segments",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mistake 2: False Precision",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mistake 3: No Sanity Check",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mistake 4: Assumption Stacking Without Intermediate Checks",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mistake 5: Confusing Stock vs. Flow",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mistake 6: Ignoring the Time Dimension",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Mistake 7: Applying National Averages to Local Markets",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Avoid the seven common mistakes — especially missing segments, false precision, and failing to sanity-check",
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -1500,17 +1506,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/bactelia19/n/n9bbf699c566b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://decom.org/contents/5371",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://shokumukiso-best.org/blog/shiryo-stock-flow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/1202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bactelia19/n/n9bbf699c566b",
     "status": "ok",
     "method": "http"
    },
@@ -1555,7 +1561,7 @@
     "method": "http"
    },
    {
-    "url": "https://casescoach.com/en/guides/market-sizing-techniques/",
+    "url": "https://prepastrat.com/en/blog/the-market-sizing-in-5-steps/",
     "status": "ok",
     "method": "http"
    },
@@ -1578,11 +1584,11 @@
     "https://br-campus.jp/articles/report/2109",
     "https://gaishishukatsu.com/archives/117156",
     "https://www.movin.co.jp/consulinfo/case/fermi.html",
-    "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "https://akagiconsulting.com/blog/fermi-estimate/1202/",
     "https://note.com/bactelia19/n/n9bbf699c566b"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1602,7 +1608,7 @@
     "https://casemensetsu.com/columns/stock-flow-difference"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1618,7 +1624,27 @@
     "https://br-campus.jp/articles/report/2109",
     "https://gaishishukatsu.com/archives/117156",
     "https://www.movin.co.jp/consulinfo/case/fermi.html",
-    "https://akagiconsulting.com/blog/fermi-estimate/934/"
+    "https://akagiconsulting.com/blog/fermi-estimate/1202/",
+    "https://casemensetsu.com/columns/stock-flow-difference"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ストック（時点の数）とフロー（期間の量）を分けて推定し、公表値と対象範囲をそろえて確かめる実務（フェルミ推定・市場規模の推定の書き手・需要側と供給側の2つの切り口） 事例",
+   "results": [
+    "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "https://www.macromill.com/service/column/entry-003/",
+    "https://www.resolve-and-capital.com/school/archives/topicks/fermi-estimate/",
+    "https://www.concord-career.com/dictionary/fermi/",
+    "https://reverse-inc.jp/caseinterview/1186/",
+    "https://br-campus.jp/articles/report/2109",
+    "https://gaishishukatsu.com/archives/117156",
+    "https://www.movin.co.jp/consulinfo/case/fermi.html",
+    "https://akagiconsulting.com/blog/fermi-estimate/1202/"
    ],
    "engines": [
     "yahoo_jp"
@@ -1626,44 +1652,24 @@
    "n_hits": 9
   },
   {
-   "query": "ストック（時点の数）とフロー（期間の量）を分けて推定し、公表値と対象範囲をそろえて確かめる実務（フェルミ推定・市場規模の推定の書き手・需要側と供給側の2つの切り口） 事例",
-   "results": [
-    "https://my-vision.co.jp/articles/fermi-estimation-explanation",
-    "https://www.macromill.com/service/column/entry-003/",
-    "https://www.concord-career.com/dictionary/fermi/",
-    "https://www.resolve-and-capital.com/school/archives/topicks/fermi-estimate/",
-    "https://reverse-inc.jp/caseinterview/1186/",
-    "https://br-campus.jp/articles/report/2109",
-    "https://decom.org/contents/5371",
-    "https://gaishishukatsu.com/archives/117156",
-    "https://www.movin.co.jp/consulinfo/case/fermi.html",
-    "https://casemensetsu.com/columns/stock-flow-difference"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
    "query": "stock vs flow estimation market sizing demand side supply side sanity check",
    "results": [
     "https://www.preplounge.com/consulting-forum/market-sizing-demad-vs-supply-side-17539",
     "https://www.roadtooffer.com/blog/market-sizing-step-by-step",
     "https://careerinconsulting.com/market-sizing-questions/",
-    "https://www.youtube.com/watch?v=MWndKXMJ6Xo",
     "https://www.hackingthecaseinterview.com/pages/market-sizing",
+    "https://www.youtube.com/watch?v=MWndKXMJ6Xo",
     "https://managementconsulted.com/market-sizing/",
-    "https://casescoach.com/en/guides/market-sizing-techniques/",
-    "https://casinglab.com/blog/market-sizing-examples",
     "https://prepastrat.com/en/blog/the-market-sizing-in-5-steps/",
+    "https://caselane.ai/market-sizing-questions",
+    "https://casescoach.com/en/guides/market-sizing-techniques/",
     "https://www.boardinfinity.com/blog/supply-side-versus-demand-side-estimation/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "site:note.com ストック（時点の数）とフロー（期間の量）を分けて推定し、公表値と対象範囲をそろえて確かめる実務（フェルミ推定・市場規模の推定の書き手・需要側と供給側の2つの切り口）",
@@ -1673,8 +1679,8 @@
     "https://note.com/sponge_note/n/nfd5cd9cd526f",
     "https://note.com/portfoliowork/n/n5362690969d5",
     "https://note.com/lithe_wasp1715/n/n74af9a3e6dc6",
-    "https://note.com/hsp_kazu/n/n535f9631180a",
     "https://note.com/tnmn0312/n/n14c2b4cad1bb",
+    "https://note.com/hsp_kazu/n/n535f9631180a",
     "https://note.com/naoki0921/n/na53df93372ae"
    ],
    "engines": [
@@ -1688,14 +1694,14 @@
    "results": [
     "https://x.com/takeshi03011/status/2111073520923054351",
     "https://x.com/DrKarte/status/2043507863893737709",
-    "https://x.com/3sfts/status/2040921753946562750",
     "https://x.com/yuhoku69/status/2116647946708279773",
+    "https://x.com/3sfts/status/2040921753946562750",
     "https://x.com/erickqchan/status/2101448871130063338",
     "https://x.com/diizuka/status/2043505860551565823",
-    "https://x.com/shohou_/status/1536779065071665152"
+    "https://business.x.com/ja/help/campaign-setup/campaign-planner"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1705,10 +1711,10 @@
     "https://jp.linkedin.com/posts/幸治-古谷-476521133_ストックビジネスとは保守運用顧問サブスクのように継続的に収益が積み上がる事業-activity-7515725334231572480-DU7j",
     "https://jp.linkedin.com/posts/学-佐川-b24a21208_長年ソフトウェア産業のストック型収益を支えてきた1ユーザーあたり月額〇〇円という-activity-7470973136146980864-rqwy",
     "https://www.linkedin.com/posts/satoru-yoshida_時間を見える化するアイデア13-商談のストック数は日々刻々と変わっていくので管理-activity-7212652503018921984-Ge-R",
-    "https://jp.linkedin.com/pulse/ストックパイルローディングスポウト市場の予測は市場規模トレンド企業の収益を考慮し2025年から2032年までの期間で年-7399976707446931456-rw3mc",
     "https://jp.linkedin.com/posts/大道和比古-196808bio_有病率と罹患率混同されがちですが別物です-有病率今その病気-activity-7517543772419715072-yAjL",
-    "https://www.linkedin.com/posts/kazuya-hatakeyama_部署の目指すものは大きく4つに分けられます-営業などのマーケティングサイドは売上-activity-7091276724725825536-wE4d",
-    "https://jp.linkedin.com/pulse/estimating-activity-durations-accurately-foundation-effective-sharma-d6xkc?tl=ja"
+    "https://www.linkedin.com/posts/munechika_導入事例はbtobのマーケティングでとても重要なコンテンツ-できれば業界別-activity-7156042998089191424-gNfu",
+    "https://jp.linkedin.com/pulse/estimating-activity-durations-accurately-foundation-effective-sharma-d6xkc?tl=ja",
+    "https://jp.linkedin.com/posts/hirokoto_350-investment-managers-now-leveraging-ctms-activity-7110421830460473345-tsDY"
    ],
    "engines": [
     "ddgs:google"
@@ -1718,16 +1724,16 @@
   {
    "query": "site:facebook.com ストック（時点の数）とフロー（期間の量）を分けて推定し、公表値と対象範囲をそろえて確かめる実務（フェルミ推定・市場規模の推定の書き手・需要側と供給側の2つの切り口）",
    "results": [
-    "https://www.facebook.com/groups/508497312531988/permalink/8864614456920190/",
     "https://www.facebook.com/ZhuShiHuiShesutokkusoryushon/",
+    "https://www.facebook.com/groups/508497312531988/permalink/8864614456920190/",
+    "https://www.facebook.com/kazuyo.takashina/videos/ストックは使う時の自分を想像する単に保存するのではなく将来の自分がそれを使う場面を具体的にイメージして使いやすい状態にしておくことで調理のハードルがぐっと下がり/3477545672429049/",
     "https://www.facebook.com/nikkeitest/photos/今週の日経test-力だめしです画像で問題をご覧ください正解と解説はこの下にあります画像をクリックしてご覧ください-正解4解説-フローは一定期間の変化生産額や収/2251071371649393/",
+    "https://www.facebook.com/groups/572370336162985/permalink/28426457800327531/",
     "https://www.facebook.com/nomura.jp/posts/第25回-日経stockリーグ参加チーム募集日経stockリーグ-は中学高校大学生のための金融経済学習コンテストです各チームが興味のあることや社会課題からテーマ/840728578090488/",
-    "https://www.facebook.com/LBreath30/videos/アウトドアのプロが見るバッグ選び失敗しにくいポイントは4つ①-ポケットの数と位置小さいバッグほど収納を分けやすいかが重要②-容量より何が入るか4lでもペットボト/2048289692554536/",
-    "https://www.facebook.com/kankyoshosado01/posts/野生下で生存しているトキの推定個体数を更新しました2025年12月31日時点推定個体数-473羽-95信用区間435506羽473羽の内訳放鳥トキ-推定-91羽/938242275155723/",
-    "https://www.facebook.com/groups/572370336162985/permalink/28426457800327531/"
+    "https://www.facebook.com/kankyoshosado01/posts/野生下で生存しているトキの推定個体数を更新しました2025年12月31日時点推定個体数-473羽-95信用区間435506羽473羽の内訳放鳥トキ-推定-91羽/938242275155723/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1742,7 +1748,7 @@
     "https://br-campus.jp/articles/report/2109",
     "https://gaishishukatsu.com/archives/117156",
     "https://www.movin.co.jp/consulinfo/case/fermi.html",
-    "https://akagiconsulting.com/blog/fermi-estimate/934/",
+    "https://akagiconsulting.com/blog/fermi-estimate/1202/",
     "https://casemensetsu.com/columns/stock-flow-difference"
    ],
    "engines": [
@@ -1766,7 +1772,7 @@
     "https://casemensetsu.com/columns/stock-flow-difference"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1774,16 +1780,16 @@
   {
    "query": "stock vs flow estimation market sizing demand side supply side sanity check site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/stop-chasing-fair-value-use-monte-carlo-scenarios-size-atuan-cfa-gb4xc",
     "https://www.linkedin.com/posts/jasonfbond_why-i-dont-use-dcf-models-as-my-primary-activity-7513639333719912449-I7yN",
     "https://www.linkedin.com/pulse/reverse-dcf-model-what-openai-anthropic-spacex-must-prove-jenny-q-ta-z8ebc",
+    "https://www.linkedin.com/pulse/stop-chasing-fair-value-use-monte-carlo-scenarios-size-atuan-cfa-gb4xc",
     "https://in.linkedin.com/in/deepanshu-mishra-6a70ba166",
     "https://www.linkedin.com/top-content/finance/financial-planning-for-startups/startup-valuation-and-financial-projections/",
+    "https://in.linkedin.com/in/leora-kumar",
     "https://in.linkedin.com/in/prachihiware",
+    "https://www.linkedin.com/in/pallav-chhaochhria",
     "https://in.linkedin.com/in/kaushik-prakash-896727165",
-    "https://ca.linkedin.com/in/paritosh-gupta",
-    "https://in.linkedin.com/in/krishna-sandilyag001",
-    "https://www.linkedin.com/in/aditya-agrawal-plutus"
+    "https://www.linkedin.com/in/jessicaciosek"
    ],
    "engines": [
     "ddgs:google",
@@ -1793,7 +1799,16 @@
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 4,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "2026年12月10日(木) ソング本部 デザインチーム 採用セミナー",
+    "url": "https://my-vision.co.jp/articles/fermi-estimation-explanation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 5,
  "first_researched_at": "2026-11-08T05:00:36.764223+00:00"
 }

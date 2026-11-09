@@ -1,0 +1,674 @@
+{
+ "name": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131）",
+ "en": "HS code metal powder 3D printing filament import statistics Japan",
+ "aliases": [
+  "金属粉 輸入 統計品目番号",
+  "3Dプリンター フィラメント HSコード",
+  "積層造形 材料 輸入 品目番号"
+ ],
+ "context": "国内・貿易",
+ "kind": "market",
+ "researched_at": "2026-11-09T21:38:53.357879+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.customs.go.jp/toukei/srch/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://first-reach.org/contents/how-to-look-into-trade-statistics-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.rubberstation.com/Yunyutoukei.htm",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://hunade.com/hs-code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/tariff/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtrade.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukanshi.com/hscode/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/fdmt/fdspec.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/trade_policy/epa/process/i-step2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/17281.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanpo.go.jp/20260708/20260708g00153/pdf/20260708g001530017.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/tsdl.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hunade.com/trade-tools/trade-insight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&query=23/0=&layout=dataset&statdisp_id=0004002163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/tradestats/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003425296",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/howto/hs.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/webdb/web_tariff/import/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00350300&tstat=000001013141&tclass1=000001013183&tclass2=000001013185",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/webservices/jtrade/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.un-no-un-number.com/un_no_faq/hs.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hps-connect.com/column/transport-logistics/p7442/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anacargo.jp/ja/dom/regulations/dg_goods.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mkc-net2.com/prepare-when-importing-dangerous-goods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-010148.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foresight.jp/tsukanshi/column/HS-code/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/India",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/3d-printing-filament-market-115196",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dresyns.com/pages/tariff-and-hs-codes?srsltid=AYCX9vLA-FkLL9bc_aKe57pZKcwW5y7lRzboUEjzwFandS5bcu37YK6x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seair.co.in/3d-printer-filament-hs-code.aspx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zauba.com/import-pla-filament/hs-code-84439990-hs-code.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/3d-printing-metal-market.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） 市場規模 CAGR",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://first-reach.org/contents/how-to-look-into-trade-statistics-in-japan/",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "https://www.kanpo.go.jp/20260708/20260708g00153/pdf/20260708g001530017.pdf",
+    "https://www.flyingfish.co.jp/blog/what-is-hs-code/",
+    "https://www.customs.go.jp/toukei/sankou/howto/krei.htm",
+    "https://www.sdki.jp/industries/chemicals-and-advanced-materials"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） 価格",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "http://www.rubberstation.com/Yunyutoukei.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://hunade.com/hs-code",
+    "https://www.customs.go.jp/tariff/",
+    "https://jtrade.info/",
+    "https://tsukanshi.com/hscode/",
+    "https://www.kanzei.or.jp/fdmt/fdspec.htm",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "https://hunade.com/trade-tools/trade-insight"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） 主要メーカー 一覧",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://www.customs.go.jp/tariff/",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "https://www.e-stat.go.jp/dbview?sid=0004002163",
+    "https://tsukanshi.com/hscode/",
+    "https://www.meti.go.jp/policy/trade_policy/epa/process/i-step2.html",
+    "https://www.digima-japan.com/knowhow/world/17281.php",
+    "https://www.kanpo.go.jp/20260708/20260708g00153/pdf/20260708g001530017.pdf",
+    "https://hunade.com/hs-code",
+    "https://www.customs.go.jp/toukei/info/tsdl.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） 代理店 日本",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://www.kanzei.or.jp/tradestats/",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "https://www.e-stat.go.jp/dbview?sid=0003425296",
+    "https://www.meti.go.jp/policy/trade_policy/epa/process/i-step2.html",
+    "https://www.customs.go.jp/tariff/",
+    "https://www.digima-japan.com/knowhow/world/17281.php",
+    "https://hunade.com/hs-code",
+    "https://jtrade.info/",
+    "https://www.customs.go.jp/toukei/sankou/howto/hs.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） 規制 保管 危険物",
+   "results": [
+    "https://www.un-no-un-number.com/un_no_faq/hs.html",
+    "https://www.customs.go.jp/tariff/",
+    "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "https://hps-connect.com/column/transport-logistics/p7442/",
+    "https://www.anacargo.jp/ja/dom/regulations/dg_goods.html",
+    "https://mkc-net2.com/prepare-when-importing-dangerous-goods/",
+    "https://www.jetro.go.jp/world/qa/04A-010148.html",
+    "https://www.meti.go.jp/policy/trade_policy/epa/process/i-step2.html",
+    "https://d2dasia.com/11-24-2021-2/",
+    "https://www.customs.go.jp/toukei/srch/index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） 純正 指定材料 互換",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://www.e-stat.go.jp/dbview?sid=0003425296",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "https://www.meti.go.jp/policy/trade_policy/epa/process/i-step2.html",
+    "https://www.foresight.jp/tsukanshi/column/HS-code/",
+    "https://www.digima-japan.com/knowhow/world/17281.php",
+    "https://tsukanshi.com/hscode/",
+    "https://hunade.com/hs-code",
+    "https://www.kanpo.go.jp/20260708/20260708g00153/pdf/20260708g001530017.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan market size CAGR",
+   "results": [
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/India",
+    "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.fortunebusinessinsights.com/3d-printing-filament-market-115196",
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://www.linkedin.com/pulse/japan-metal-materials-3d-printing-market-regional-growth-66huf",
+    "https://www.statista.com/topics/1969/additive-manufacturing-and-3d-printing/?srsltid=AYCX9vKgd167hWzGAmVhqPrnYDWe3JGObAuQEMNuYCIHwoRathqw85Fm",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-metal-market/japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan price per kg",
+   "results": [
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.3dresyns.com/pages/tariff-and-hs-codes?srsltid=AYCX9vLA-FkLL9bc_aKe57pZKcwW5y7lRzboUEjzwFandS5bcu37YK6x",
+    "https://www.seair.co.in/3d-printer-filament-hs-code.aspx",
+    "https://www.zauba.com/import-pla-filament/hs-code-84439990-hs-code.html",
+    "https://www.marketsandmarkets.com/ResearchInsight/3d-printing-metal-market.asp",
+    "https://www.customs.go.jp/english/tariff/index.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan key players",
+   "results": [
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "https://www.customs.go.jp/toukei/info/index_e.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan distributor Japan",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "https://www.3dresyns.com/pages/tariff-and-hs-codes?srsltid=AYCX9vI_t9SpWdlqU1nOHaqePAENvm85JkXqsIjIcfG-i3TdEbhwgp2C",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "https://www.customs.go.jp/toukei/info/index_e.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan safety storage regulation",
+   "results": [
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://research.wayne.edu/oehs/lab-safety/3d-printing",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "https://www.filamentive.com/food-safe-filament-guide-ensuring-3d-printing-food-safety/",
+    "https://www.hazardouswasteexperts.com/3d-printer-in-metal-dont-overlook-your-powder-and-filter-waste-compliance/",
+    "https://www.raise3d.com/blog/3d-printing-safety/",
+    "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "https://www.customs.go.jp/toukei/info/index_e.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan closed system open material third-party",
+   "results": [
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://casrai.org/guides/metal-powder-for-3d-printing",
+    "https://www.americanadditive.com/blog/3-d-printing-materials-guide",
+    "https://www.marketsandmarkets.com/PressReleases/3d-printing-materials.asp",
+    "https://www.customs.go.jp/english/tariff/index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan commodity price competition",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "https://www.youtube.com/watch?v=qQUfyIE7KRw",
+    "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "https://www.theinsightpartners.com/reports/metal-3d-printing-market",
+    "https://www.customs.go.jp/toukei/info/index_e.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan technical support parameters",
+   "results": [
+    "https://hscodematch.com/blog/hs-code-for-3d-printer/",
+    "https://www.findhs.codes/hs-code-for-3d-printing-filaments",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/3d-printing-and-international-trade_3bcc6805/0de14497-en.pdf",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "https://www.customsmobile.com/rulings/docview?doc_id=NY%20N296007&highlight=3916.90%2A",
+    "https://www.3dxtech.com/pages/tech-data-sheets-safety-data-sheets?srsltid=AYCX9vIoswjaAqLr_dDCpII4qex7HChLnQJoIuGvuXUA8ePDWx6CW1vH",
+    "https://hts.usitc.gov/search?query=8471",
+    "https://www.seair.co.in/3d-printer-filament-hs-code.aspx",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://additiveplus.com/a-complete-guide-to-metal-powder-for-3d-printing-types-uses-and-tips/?srsltid=AYCX9vIsUCtUwYAUDl4QkyPEoI3NPJcGEuZDjGc8ShMo8dj500F2Hp2K"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131）",
+   "results": [
+    "https://note.com/edonigimitama/n/n3da0c9bcb7a1",
+    "https://note.com/hirokimiyano/n/nfcca84935db7",
+    "https://note.com/hirokimiyano/n/n51a069421e57",
+    "https://note.com/hirokimiyano/n/n65ce8152cd9e",
+    "https://note.com/aibusinesshunter/n/n08760c71e52f",
+    "https://note.com/hirokimiyano/n/n7262ec5ffb44",
+    "https://note.com/hirokimiyano/n/n2d41c7406e9e",
+    "https://note.com/matsuo_tadasu/n/n68e059fbf2a6",
+    "https://note.com/kimi11299696/n/nd54ca233412e",
+    "https://note.com/hirokimiyano/n/n0fd8488f7e01"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131）",
+   "results": [
+    "https://x.com/AkiyoshiKawash1/status/2060000144477855949",
+    "https://x.com/hirox246/status/2049375891927740557",
+    "https://x.com/hiropi_fx/status/2100413280833658920",
+    "https://x.com/aimatv_jp/status/2118234767670083801",
+    "https://x.com/luigi_jpn/status/2096394600240066712",
+    "https://x.com/KagawaTomo/status/2110523688902873223",
+    "https://x.com/luigi_jpn/status/2068492463703277851",
+    "https://x.com/luigi_jpn/status/2055209275329286554",
+    "https://x.com/KosukeMasui/status/2113215952263532700",
+    "https://jf.x.com/images/media-preview/2117919755260830154"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131）",
+   "results": [
+    "https://jp.linkedin.com/in/masashiokawa",
+    "https://in.linkedin.com/in/harshvardhan-nawathe-a8828b44",
+    "https://in.linkedin.com/in/aanya-ujawane-440497352",
+    "https://www.linkedin.com/pulse/原料高騰と供給不安データから読み解くカツオ魚節原料の現在地と数値のマジック-大介-小林-xkymc",
+    "https://jp.linkedin.com/posts/loisk-biz_貿易実務で必ず出てくるhsコード-輸入者の方からこれは調べればすぐ分かるものですか-activity-7502180316237844480-XrL8",
+    "https://www.linkedin.com/posts/itaru-kudose-68580a11_ナフサ不足で中国化学品の輸入急増プラ原料3割増6年ぶり品目も-日本経済新聞-activity-7456181238991806464-uu5W",
+    "https://jp.linkedin.com/pulse/citric-acid-price-trends-global-market-0hnlc",
+    "https://cn.linkedin.com/jobs/view/sourcing-am助理采购经理—食品原料（匠心浓醇）-at-通用磨坊-中国-投资有限公司-4468953931"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131）",
+   "results": [
+    "https://www.facebook.com/dayiagritech/posts/%E7%85%A7%E9%81%8E%E4%BE%86%E7%85%A7%E9%81%8E%E4%BE%86%E8%AE%93%E6%88%91%E5%80%91%E9%BC%93%E6%8E%8C%E6%AD%A1%E8%BF%8E%E5%A4%A7%E6%A8%82%E6%94%B6%E4%BA%AE%E7%9B%B8%E6%AD%A3%E5%BC%8F%E5%8A%A0%E5%85%A5%E7%B7%A9%E6%8E%A7%E9%87%8B%E8%82%A5%E6%96%99%E7%94%9F%E5%8A%9B%E8%BB%8D%E8%A1%8C%E5%88%97-%E4%BB%8A%E5%A4%A9%E4%BE%86%E7%9C%8B%E7%9C%8B-20%E5%85%AC%E6%96%A4%E5%B0%8D%E6%8A%9740%E5%85%AC%E6%96%A4-%E7%9A%84%E7%94%B0%E9%96%93%E5%AF%A6%E9%9A%9B%E6%88%90%E6%95%88%E8%AB%8B%E5%A4%A7%E5%AE%B6%E7%9C%8B%E7%9C%8B%E7%B5%90%E5%90%88%E6%95%88%E7%8E%87%E8%88%87%E8%BC%95%E9%AC%86%E7%9A%84%E6%96%B0%E6%99%82%E4%BB%A3%E6%96%BD%E8%82%A5%E6%96%B9%E6%B3%95%E5%B0%8F%E7%B7%A8%E5%AE%B6/1684413977027998/",
+    "https://www.facebook.com/igotjunkinmytrunk/",
+    "https://www.facebook.com/maggiesmermaids/",
+    "https://www.facebook.com/rinyajapan/photos/2025年３月の-木材輸入-実績を公表しました2025年３月までの-木材輸入額-累計は前年同期比4の3592億円となりました品目別の-輸入量-を見ると丸太が前年/1120806816754883/",
+    "https://www.facebook.com/rinyajapan/posts/資料木材輸入実績グラフを2023年版に更新しました-本資料は財務省が公表している貿易統計のうち最新の年別の木材の輸入額及び輸入量をとりまとめたものです木材全体の/810856181083283/",
+    "https://www.facebook.com/rinyajapan/photos/2024年12月の-木材輸入-実績を公表しました2024年12月までの-木材輸入額-累計は前年同期比4の14567億円となりました品目別の-輸入量-を見ると丸太/1042943711207861/",
+    "https://www.facebook.com/maffjapan/posts/輸入原料に頼らない国内資源由来の肥料をつくる農業で欠かせない肥料原材料の多くが国際情勢の影響の受けやすい輸入に頼っている現状がありますそういった状況を変えるため/771637565002458/",
+    "https://www.facebook.com/Japan.Customs/posts/貿易統計名古屋税関-はルイボスの輸入を特集しました2025年は管内の輸入金額数量が大幅に増加しました税関別でも名古屋税関が第１位のルイボスぜひチェックしてくださ/1343233664506813/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） note 社長",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://note.com/skater_24/n/n8b2baf742fcc",
+    "https://ots-jpn.com/international_transportation/effective-tariff-schedule/",
+    "https://www.fedex.com/ja-jp/small-business/getting-started/customs-101-hs-code.html",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "https://www.meti.go.jp/policy/trade_policy/epa/process/i-step2.html",
+    "https://global-scm.com/blog/wp-content/uploads/2026/01/794a91a522b8ea6cef56b8d22b0f08a6.pdf",
+    "https://www.customs.go.jp/toukei/sankou/howto/krei.htm",
+    "https://hunade.com/hs-code",
+    "https://www.customs.go.jp/toukei/info/tsdl.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AM原料の輸入統計の品目番号（金属粉・ワイヤー・樹脂フィラメント・ペレットのHS細目と財務省の統計品目番号・4-131） X 投稿",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://www.jetro.go.jp/world/qa/04A-010701.html",
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://hunade.com/hs-code",
+    "https://www.kanzei.or.jp/tradeservice/namedata/",
+    "https://www.flyingfish.co.jp/blog/what-is-hs-code/",
+    "https://www.fedex.com/ja-jp/small-business/getting-started/customs-101-hs-code.html",
+    "https://www.meti.go.jp/policy/trade_policy/epa/process/i-step2.html",
+    "https://jtrade.info/",
+    "https://www.customs.go.jp/toukei/info/tsdl.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "HS code metal powder 3D printing filament import statistics Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/behzadbigdeli",
+    "https://de.linkedin.com/in/yash-gopal-mittal/de",
+    "https://ch.linkedin.com/in/amir-malakizadi",
+    "https://jp.linkedin.com/in/kholqillah-ardhian-ilman-99b00887",
+    "https://www.linkedin.com/pulse/metal-powder-3d-printing-market-trends-region-pr21f/",
+    "https://www.linkedin.com/pulse/japan-metallic-3d-printing-filament-market-p64qc",
+    "https://www.linkedin.com/pulse/japan-metallic-3d-printing-filament-market-update-digital-65jef",
+    "https://www.linkedin.com/pulse/japan-metal-powder-used-3d-printing-market-application-r65qf",
+    "https://www.linkedin.com/pulse/japan-metal-pla-filament-market-intelligence-knmhc",
+    "https://www.linkedin.com/pulse/market-examination-report-3d-printing-metal-powder-growth-g76kf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "価格": "記載なし（読んだ45頁・検索21回）",
+  "主要企業": "記載なし（読んだ45頁・検索21回）",
+  "安全・規制・保管": "記載なし（読んだ45頁・検索21回）",
+  "品質・証明": "記載なし（読んだ45頁・検索21回）",
+  "装置縛り・オープン材料": "記載なし（読んだ45頁・検索21回）",
+  "売り方・商流": "記載なし（読んだ45頁・検索21回）",
+  "技術支援": "記載なし（読んだ45頁・検索21回）",
+  "コモディティ化": "記載なし（読んだ45頁・検索21回）",
+  "繰り返し性": "記載なし（読んだ45頁・検索21回）",
+  "日本": "記載なし（読んだ45頁・検索21回）"
+ }
+}

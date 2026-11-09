@@ -2212,7 +2212,7 @@
   - 「結果を分析することにより、 京都府社会が、 府政運営の指針である 「明日の京都」」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果」（https://www.soumu.go.jp/main_content/000432276.pdf）
   - 「【調査事項】 １．定期歯科健康診断の実施状況、２．定期歯科健康診断の結果、３．歯」（https://www.soumu.go.jp/main_content/000432276.pdf）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
 
 ## 決算公告・官報から中小企業の実力を読む（純資産・当期純利益の推移）（reading Japanese public financial notices small companies net assets net income）
 - 文脈：決算公告
@@ -3513,7 +3513,7 @@
 - 実例：
   - 「例えば「人口推計 (都道府県別 5 歳階級)」を開くと、関連として」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
   - 「(無料、データ加工実例)」（https://stats47.jp/blog/estat-7-techniques-from-unusable-to-usable）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
 
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
@@ -3521,6 +3521,8 @@
   - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「一般社団法人に決算公告は必要？義務の根拠・方法・罰則を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告とは？義務・罰則・3つの公告方法を基礎からわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「会社の公告とは？決算公告・合併公告など4種類と公告方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「公告と広告の違い、官報・新聞・電子公告の方法、違反時の法的責任までわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報に掲載された非上場会社の決算公告を調べる方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「電子公告への移行手続き完全ガイド｜官報から切り替える4ステップと費用・期間」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3531,8 +3533,6 @@
   - 「この記事では、官報に実際に掲載される決算公告の記載例を会社規模別に示し、各科目の意味・紙面の構成・行数の計算方法・財務情報としての活用まで体系的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「中小企業の大半が該当するのは「非大会社・非公開会社」の類型です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「大会社の貸借対照表要旨の記載方法は、基本的に非大会社と同じですが、公開会社・非公開会社の区分に応じて追加記載が求められる科目があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「公告を閲覧するためのステップについては、」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「枠数と費用の詳しい計算方法については、」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -3567,6 +3567,10 @@
   - 「Q5. 官報の記載例として、特定の会社の実際の掲載内容を参考にすることはできますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 失敗・落とし穴：
   - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
+  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「株主総会の特別決議から登記完了まで全手順と費用（登録免許税3万円）・注意点を完全解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「「資産合計」は三区分の合計で、「負債及び純資産合計」と一致しなければなりません（一致しない場合は記載誤りです）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
@@ -3577,12 +3581,9 @@
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
-  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 実例：
   - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
@@ -3596,7 +3597,6 @@
   - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -4393,8 +4393,8 @@
 - 検索結果の抜粋：
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary statements, to enhance the credibility and transparency of intelligence analysis.」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
   - 「ICD 206: Sourcing Requirements for Disseminated Analytic ... — Intelligence Community Directive (ICD) 206 establishes requirements for sourcing information in disseminated analytic products within the Intelligence Community (IC). It mandates the inclusion of sourcing information, such as source reference citations (SRCs), appended reference citations (ARCs), source descriptors, and source summary 」（https://policycommons.net/artifacts/18286813/rements-products/19187285/）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
@@ -6270,11 +6270,44 @@
 
 ## e-Stat の表の探し方と時系列のつなぎ方（統計コード・注記・改訂）（e-Stat table search statistics code time series join notes）
 - 文脈：統計
-- 手順・やり方：記載なし（読んだ28頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
-- 実例：記載なし（読んだ28頁・検索12回）
+- 手順・やり方：
+  - 「47 都道府県データを 1 コマンドで取得する — fetch-estat-data スキルの使い方｜統計で見る都道府県」（https://note.com/stats47/n/n914ee28ff773）
+  - 「47 都道府県データを 1 コマンドで取得する — fetch-estat-data スキルの使い方」（https://note.com/stats47/n/n914ee28ff773）
+  - 「statsDataId は特定できたが、そこからデータを取り出す手順で止まっている方」（https://note.com/stats47/n/n914ee28ff773）
+  - 「statsDataId と cdCat01 の 2 つを指定して 47 都道府県データを 1 コマンドで取得する手順」（https://note.com/stats47/n/n914ee28ff773）
+  - 「半日かかっていたデータ収集を 30 秒に短縮する `/fetch-estat-data` の使い方」（https://note.com/stats47/n/n914ee28ff773）
+  - 「サイト内のすべての都道府県ランキングは、本記事で扱う手順とまったく同じ流れで生成されています」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Step 1: 取得対象を 2 つのパラメータに分解する」（https://note.com/stats47/n/n914ee28ff773）
+  - 「statsDataId の探し方は `/search-estat`、cdCat01 の確認方法は `/inspect-estat-meta` が担当します (本マガジン #02 で詳細解説)」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Step 2: 一時スクリプトを書く (Claude Code に頼む)」（https://note.com/stats47/n/n914ee28ff773）
+  - 「: `.env.local` に `NEXT_PUBLIC_ESTAT_APP_ID=xxxx` の形で API キーを置きます (マガジン #01 で発行手順を解説)」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Step 3: 47 都道府県を抽出してランク付けする」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Step 4: JSON として書き出す」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Step 5: なぜ全年度・全県を一括取得するのか」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Step 6:」（https://note.com/stats47/n/n914ee28ff773）
+  - 「) は、ここまでの手順で作った JSON をそのまま静的配信しています」（https://note.com/stats47/n/n914ee28ff773）
+- 一次情報の探し方：
+  - 「47 都道府県データを 1 コマンドで取得する — fetch-estat-data スキルの使い方｜統計で見る都道府県」（https://note.com/stats47/n/n914ee28ff773）
+  - 「統計担当は e-Stat の Web 画面から都道府県ごとに 47 回ダウンロードし、Excel に貼り付けて整形します」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Claude Code に e-Stat を任せると、この半日が 30 秒になります」（https://note.com/stats47/n/n914ee28ff773）
+  - 「47 都道府県のデータを Web 画面から 1 県ずつ落として Excel に貼っている統計担当の職員」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Claude Code で 47 都道府県の統計サイト」（https://note.com/stats47/n/n914ee28ff773）
+  - 「自治体は基幹システム + Excel + 紙の三層構造で、統計データは「ダウンロードしてきて Excel に貼る」運用が主流になっています」（https://note.com/stats47/n/n914ee28ff773）
+  - 「e-Stat (政府統計の総合窓口) は API を提供していますが、自治体の研修カリキュラムに API が含まれていないため、Web 画面からの CSV ダウンロードが事実上の標準になっています」（https://note.com/stats47/n/n914ee28ff773）
+  - 「e-Stat API はこの構造を変える起点になります」（https://note.com/stats47/n/n914ee28ff773）
+  - 「e-Stat API でランキングデータを取るのに必要な情報は、突き詰めると 2 つしかありません」（https://note.com/stats47/n/n914ee28ff773）
+  - 「`statsDataId`: 統計表の ID (例: `0003448243` = 社会・人口統計体系)」（https://note.com/stats47/n/n914ee28ff773）
+  - 「`cdCat01`: その統計表の中の「指標」コード (例: `#A03101` = 総人口)」（https://note.com/stats47/n/n914ee28ff773）
+  - 「Claude Code に「e-Stat の `0003448243` から `#A03101` の都道府県ランキングを取って」と頼めば、以下のようなスクリプトを `scripts/temp-fetch-ranking.mjs` に置いてくれます」（https://note.com/stats47/n/n914ee28ff773）
+  - 「const url = `https://api.e-stat.go.jp/rest/3.0/app/json/getStatsData?${sp}`;」（https://note.com/stats47/n/n914ee28ff773）
+  - 「2 桁コードと 5 桁コードが混在する e-Stat の取り回しを避け、stats47 でも全データを 5 桁に揃える運用にしています」（https://note.com/stats47/n/n914ee28ff773）
+  - 「出典: 政府統計の総合窓口 (e-Stat) 社会・人口統計体系」（https://note.com/stats47/n/n914ee28ff773）
+- 実例：
+  - 「最後に整形済みの結果を JSON で保存します」（https://note.com/stats47/n/n914ee28ff773）
+  - 「`.env.local` のパスが間違っているケースが多いです」（https://note.com/stats47/n/n914ee28ff773）
+  - 「出来上がったランキングの実例 (本手順で日次更新中):」（https://note.com/stats47/n/n914ee28ff773）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
 
 ## データ報道で数字を誤らない手順（GIJN：分母・平均と中央値・物価・小さい標本・比べる相手）（GIJN data reporting don'ts misleading numbers）
 - 文脈：検証
@@ -12037,6 +12070,7 @@
   - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「株式会社保険会社との違い、公告方法、罰則、現存する生保5社を一次資料で解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -12046,7 +12080,6 @@
   - 「その方法は様々であり、官報、日刊新聞紙、電子公告などがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「それぞれの方法にはメリットとデメリットが存在し、適切な選択が求められます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 一次情報の探し方：
@@ -12079,6 +12112,7 @@
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 実例：
   - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -12092,7 +12126,6 @@
   - 「実務上、積極的に摘発されるケースは多くありませんが、法的リスクとして認識しておく必要があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「近年はコンプライアンス意識の高まりから、取引先や金融機関が決算公告の実施を確認するケースも増えています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 
 ## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
 - 文脈：手法
@@ -13733,6 +13766,7 @@
   - 「フェルミ推定とは、正確なデータがわからない状況で、限られた情報や一般的な知識をもとに数値を概算する思考法」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「仮説を立てて問題をいくつかの要素に分け、それぞれに妥当な数値を当てはめながら答えを導きます」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
 - 一次情報の探し方：
+  - 「2026年12月10日(木) ソング本部 デザインチーム 採用セミナー」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「コンサルティングファームなどの採用面接では、実際に論理的に考える力や仮説を立てる力を確認するために出題されることがあります」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「国勢調査と住民基本台帳では対象の定義が違うため、参照する統計を確認したうえで使いましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「また、既知の統計や身近な感覚と比べたり、別のアプローチから概算したりする方法も有効です」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
@@ -13747,7 +13781,6 @@
   - 「各問題には公的な統計の数値を掲載しているため、自身の推定値と照合してどこにズレが生じたかも確認できます」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
   - 「公的統計によると、日本の電柱本数は約3,550万〜3,600万本です」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
   - 「時点は「現在に近い時点」（建設年度による差があるため厳密な現時点は統計でも把握困難）」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
-  - 「日本の総人口：約1億2,000万人（総務省統計局人口推計、2024年10月時点で約1億2,380万人）」（https://akagiconsulting.com/blog/fermi-estimate/3142/）
 - 失敗・落とし穴：
   - 「結果が極端な場合は、前提条件や計算式、桁数に誤りがないかを見直しましょう」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「計算結果が直感に反するほど小さい（または大きい）場合、前提の設定に誤りがある可能性が高いものです」（https://akagiconsulting.com/blog/fermi-estimate/3142/）

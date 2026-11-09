@@ -1,0 +1,504 @@
+{
+ "name": "Nanovia — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramic-filament",
+ "researched_at": "2026-11-09T21:30:52.409515+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Jacques Pelleter - Dirigeant NANOVIA | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Tess Boissonneault - Freelance Content Writer, Editor | LinkedInFederico Sher - Co-founder of VoxelMatters | LinkedInNano Dimension to acquire Markforged | VoxelMatters - LinkedIn NANOVIA develops, manufactures and produces thermoplastics, composites filaments and solutions for additive manufa",
+    "url": "https://fr.linkedin.com/in/jacques-pelleter-9bb409106",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://filament2print.com/en/brand/12-nanovia",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanovia.tech/en/category/products/",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nanovea.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005009846651010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b2b.nanoegg.co.jp/products/27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.animax.co.jp/products/MCAN013",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nanovia.tech/en/cart/",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://filament2print.com/en/brand/12-nanovia",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanovia.tech/en/partners/",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://filament2print.com/en/brand/12-nanovia",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanovia.tech/en/partners/",
+    "status": "http_500",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/QC-NanoVNA-H4%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC10KHz-1-5GHz%E7%9F%AD%E6%B3%A24%E3%82%A4%E3%83%B3%E3%83%81%E3%83%95%E3%83%AB%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%ABLCD%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4MFHF-VHFUHF%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E3%82%A2%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC/dp/B08NPT2CLD",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/NanoVNA-H4-%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC50KHz-1-5GHz-%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC-4-0%E3%82%A4%E3%83%B3%E3%83%81LCD%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%83%E3%83%81%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E7%9F%AD%E6%B3%A2MF-UHF%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E3%82%A2%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC/dp/B09SP619HS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/g/02366845/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fr.linkedin.com/in/jacques-pelleter-9bb409106",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nanovia — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://filament2print.com/en/brand/12-nanovia",
+    "https://www.voxelmatters.directory/",
+    "https://nanovia.tech/en/category/products/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://nota3d.com/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vIyxrOwR0_yR39ZL14VmHdDFCK5N9DFbuzlVIXfsevTKTW0JVqh"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nanovia — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://nanovea.com/ja/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.toyo.co.jp/material/maker/detail/matesy.html",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nanovia — VoxelMatters 日本 販売",
+   "results": [
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://b2b.nanoegg.co.jp/products/27",
+    "https://store.animax.co.jp/products/MCAN013",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "http://shop.fannect.jp/darwin-webstore/sp/syousai.asp?item=DA-109",
+    "https://www.kkday.com/ja/product/812600?srsltid=AYCX9vJCSrYXBdil6zfre8kKUe1Y4BKQOEB4rp2CmBEtNR8-lB8RDotD",
+    "https://mion-store.com/ja/products/413471",
+    "https://s-to.jp/products/19223",
+    "https://nanovia.tech/en/products/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nanovia — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://nanovia.tech/en/cart/",
+    "https://filament2print.com/en/brand/12-nanovia",
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://idarts.co.jp/3dp/nanovia-recycle-fishing-nets-into-3d-printing-filaments/?srsltid=AYCX9vI-rrJ2xrClD_qh5Yv9t1aBOsf36-_uFqYV291NDZbI1EbTTklJ",
+    "https://nanovia.tech/en/category/products/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vK7NQ_Mm4X3kVM4zMUziaKGbsbcSQ5PUpi5MMPlR5l5AtrP5NV7",
+    "https://www.poly-maker.jp/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nanovia — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://nanovia.tech/en/partners/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://filament2print.com/en/brand/12-nanovia",
+    "https://www.voxelmatters.com/",
+    "https://www.polyfab3d.com/140-nanovia",
+    "https://nano3dprint.com/2023/06/13/nano3dprint-announces-new-japanese-distribution-channel/?srsltid=AYCX9vLq1ove5rUI9U52CMuygalZNmySnUpn3tLsoU89GNUIaybb7DSf",
+    "https://www.upnano.com/distributors/",
+    "https://www.nano-di.com/",
+    "https://nanovia.tech/en/distribution-connection/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Nanovia — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://nanovia.tech/en/partners/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://filament2print.com/en/brand/12-nanovia",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.upnano.com/distributors/",
+    "https://en.wikipedia.org/wiki/Kioxia"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Nanovia — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/QC-NanoVNA-H4ベクトルネットワークアナライザー10KHz-1-5GHz短波4インチフルビューアングルLCDディスプレイMFHF-VHFUHFアンテナアナライザー/dp/B08NPT2CLD",
+    "https://www.amazon.co.jp/NanoVNA-H4-ベクトルネットワークアナライザー50KHz-1-5GHz-アンテナネットワー-4-0インチLCDデジタルディスプレイタッチスクリーン短波MF-UHFアンテナアナライザー/dp/B09SP619HS",
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Nanovia — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/02366845/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/p/0227/5813/",
+    "https://www.monotaro.com/p/1720/0487/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nanovia — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://addithive.com/public-additive-manufacturing-stocks-exposure-map/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://3dprint.com/325057/analysis-nano-dimension-sells-additive-manufactured-electronics-business/",
+    "https://pitchbook.com/profiles/company/589430-44"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Nanovia — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/2378tcdf/n/nb26f494d97b2",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/hirokimiyano/n/n255d15d782c8",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Nanovia — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NanoCassiopeia",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/chillestwoman/status/2116669325868400644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Nanovia — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/nanovia",
+    "https://fr.linkedin.com/in/jacques-pelleter-9bb409106",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/posts/voxelmatters_nano-dimension-to-acquire-markforged-activity-7244991990080180225-IsZY"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Nanovia — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/nano-dimensions-micro-3d-printing-advances-biomedical-researchthe-study-centres-/968196955311353/",
+    "https://www.facebook.com/VoxelMatters/posts/nano-dimension-is-making-moves-acquiring-markforged-a-company-already-with-scale/1050921343705580/",
+    "https://www.facebook.com/VoxelMatters/posts/in-a-landmark-move-nano-dimension-has-acquired-desktop-metal-in-an-all-cash-tran/989641649833550/",
+    "https://www.facebook.com/VoxelMatters/posts/big-updates-from-nano-dimension-as-they-appoint-a-new-ceo-and-issue-a-response-t/1125604899570557/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/posts/nano-dimension-continues-to-deliver-worldwide-results-in-its-two-largest-markets/1020794648092660/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nanovia — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.youtube.com/watch?v=M62KaWUX98A",
+    "https://www.nature.com/articles/s41467-018-03071-9",
+    "https://note.com/super_lupine5235/n/n429b10630349",
+    "https://www.youtube.com/watch?v=qSRuskpudXs"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nanovia — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=J7uYjohWi0Q",
+    "https://wyss.harvard.edu/media-post/voxelated-soft-matter-via-multimaterial-multinozzle-3d-printing/",
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/contribute/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

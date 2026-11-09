@@ -1,0 +1,496 @@
+{
+ "name": "Slopepay",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T21:20:25.118235+00:00",
+ "official_url": "https://slope.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Blog - Slope — Blog - Slope slopepay.com https://slopepay.com > blog",
+    "url": "https://slopepay.com/blog",
+    "pass": 3
+   },
+   {
+    "quote": "Slope (@ slopepay ) / X — Slope (@ slopepay ) / X X https://x.com > slopepay",
+    "url": "https://x.com/slopepay",
+    "pass": 3
+   },
+   {
+    "quote": "Slope (YC S21) (@ slopepay ) • Instagram photos and videos — Slope (YC S21) (@ slopepay ) • Instagram photos and videos Instagram https://www.instagram.com > slopepay",
+    "url": "https://www.instagram.com/slopepay/",
+    "pass": 3
+   },
+   {
+    "quote": "Slope Announces New Round of Funding from J.P. Morgan — Slope Announces New Round of Funding from J.P. Morgan slopepay.com https://slopepay.com > blog > slope-j...",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Go-to-market progress.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to J.P. Morgan, we have signed enterprise partnerships with some of the world’s largest enterprises in the past 9 months (we will disclose publicly soon). These are all major undertakings where we are now able to provide a unique solution to our customers.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "We view providing a consumer-grade experience to our customers is as important as growth. The best way to know if we are is by asking a simple question: “Do our customers use our product?” At Slope, the answer is without a doubt “Yes.” Utilization, an expression of what % of limits customers use in a particular period, is high and increasing.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "as General Counsel, formerly General Counsel at Sardine, Head of Product and Payments Legal at Robinhood, and Vice President at Wells Fargo.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "We want to build a large business that can endure for decades to come. Our target market, the entire B2B economy, represents a $125T opportunity. We truly believe we are uniquely positioned to own this market by keeping our eye on the discipline ball and quietly executing on world-class product and customer experience.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "We are biased, but we think our investor and long-time advisor @Sam Altman, CEO of OpenAI and former CEO of Y Combinator, sums up our approach well:",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboration is designed to enable eligible enterprise and mid-market merchants to offer payment terms and installment options within SnapPay’s ERP-integrated payment flows",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Why per-transaction text labels have a structural ceiling in cashflow underwriting, and how we're teaching an AI to reason about transactions in context, producing both the corrections our ML model needs and the questions our risk team should be asking.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   },
+   {
+    "quote": "and subject to credit approval. Application and consent to obtain personal credit report is required. Subject to minimum revenue and business requirements. Personal Guaranty may be required. Fees vary based on risk assessment and loan term.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "and subject to credit approval. Application and consent to obtain personal credit report is required. Subject to minimum revenue and business requirements. Personal Guaranty may be required. Fees vary based on risk assessment and loan term.",
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Slope (@ slopepay ) / X Slope (@ slopepay ) / X X https://x.com > slopepay",
+    "url": "https://x.com/slopepay",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Does the North Slope pay more than North Dakota or Texas ... Does the North Slope pay more than North Dakota or Texas ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1359796357398799/posts/8727217627323265/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://slope.com",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cospalinks.com/column/overseas-distributor-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deex.co.jp/media/8uGKOPAJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripe.com/jp/resources/more/how-to-start-an-agency-a-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slopepay.com/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/slope-tech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/slopepay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/slopepay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stampli.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slopepay.com/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidetrade.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paylocity.com/why-paylocity/case-studies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.versatilecredit.com/versatile-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/slope/__naECHthw9SLp1-BjzqF62Pg0bRC7KIw5vIfvqnqy4ws",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/slope-tech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.privco.com/company/slopeso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/slopepay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1359796357398799/posts/8727217627323265/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Slopepay 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://www.startyourengines.net/pressrelease/455187/",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://www.netdenjd.com/archives/708202",
+    "https://slopepay.com/company",
+    "https://slopepay.com/products/embedded-capital"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Slopepay 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://cospalinks.com/column/overseas-distributor-agreement",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://stripe.com/jp/resources/more/how-to-start-an-agency-a-guide",
+    "https://dairitenboshu.com/",
+    "https://soitax.com/partnership/",
+    "https://partner-prop.com/lab/partner-business/agency/3216/",
+    "https://b-seeds.com/column/referral-agency-guide",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Slopepay Japan",
+   "results": [
+    "https://slopepay.com/blog",
+    "https://www.linkedin.com/company/slope-tech",
+    "https://x.com/slopepay",
+    "https://www.instagram.com/slopepay/",
+    "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "https://www.youtube.com/watch?v=KJ97Mh1gZWA",
+    "https://www.crunchbase.com/organization/slope-677a",
+    "https://www.businesswire.com/news/home/20250903545935/en/Alibaba.com-Partners-with-Slope-to-Deliver-Flexible-Payment-Options-for-U.S.-Business-Buyers-at-Checkout",
+    "https://sacra.com/c/slope/",
+    "https://slopepay.com/company"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Slopepay manufacturing customer case study",
+   "results": [
+    "https://www.stampli.com/case-studies/",
+    "https://slopepay.com/blog",
+    "https://www.sidetrade.com/case-studies/",
+    "https://www.paylocity.com/why-paylocity/case-studies/",
+    "https://www.trintech.com/customer-hub/",
+    "https://c3.ai/customers",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://www.outsystems.com/case-studies",
+    "https://go.perceptyx.com/customer-stories",
+    "https://help.slopepay.com/en/articles/2161089"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Slopepay white label OR reseller OR partner program",
+   "results": [
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.versatilecredit.com/versatile-white-label",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://zift.io/white-label-payment-gateway-reseller/",
+    "https://www.fluidpay.com/partners/reseller",
+    "https://help.slopepay.com/en/categories/376449",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://hesfintech.com/blog/white-label-lending-platform-guide/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Slopepay founded funding employees revenue",
+   "results": [
+    "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "https://tracxn.com/d/companies/slope/__naECHthw9SLp1-BjzqF62Pg0bRC7KIw5vIfvqnqy4ws",
+    "https://www.linkedin.com/company/slope-tech",
+    "https://www.privco.com/company/slopeso",
+    "https://www.crunchbase.com/organization/slope-677a",
+    "https://pitchbook.com/profiles/company/481336-39",
+    "https://getlatka.com/companies/slopepay.com",
+    "https://www.zoominfo.com/c/slope-inc/565395634",
+    "https://slopepay.com/company",
+    "https://startupintros.com/orgs/slope"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:note.com Slopepay",
+   "results": [
+    "https://note.com/yudamasak1/n/nd1dcbb403704",
+    "https://note.com/t_iga/n/n3495fc84f274?hl=en",
+    "https://note.com/merry_willet214/n/nd63e9f671595?hl=en",
+    "https://note.com/tag/MMX",
+    "https://note.com/losertako/n/n82952ba183fd?hl=en",
+    "https://note.com/kirik",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/onomimono_2434/n/n25c264ade4cc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Slopepay",
+   "results": [
+    "https://x.com/slopepay",
+    "https://x.com/ycombinator/status/2000975649629143470",
+    "https://x.com/LawLM",
+    "https://x.com/LawLM/highlights",
+    "https://x.com/rebeccakaden",
+    "https://x.com/CindyXBi",
+    "https://x.com/ed_roman",
+    "https://x.com/Global_Founders",
+    "https://x.com/LawLM/status/1239950208676446209",
+    "https://x.com/slopepay/status/2087577406618096071"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Slopepay",
+   "results": [
+    "https://www.linkedin.com/company/slope-tech",
+    "https://www.linkedin.com/in/jasonrluna",
+    "https://www.linkedin.com/in/lawrencelm",
+    "https://www.linkedin.com/posts/slope-tech_excited-to-announce-slope-and-fiserv-are-activity-7493343585010888705-nb39",
+    "https://www.linkedin.com/posts/ashish-jain-80901711b_im-excited-to-share-that-slope-is-working-activity-7442249312480284672-yzdb",
+    "https://www.linkedin.com/in/mattschottland",
+    "https://www.linkedin.com/posts/ashish-jain-80901711b_very-excited-to-announce-slope-and-fiserv-activity-7493371080976515073-vld_",
+    "https://www.linkedin.com/in/ryan-schenk-a4354949",
+    "https://www.linkedin.com/posts/alicedeng_we-love-seeing-our-customers-grow-and-neato-activity-7308218775378501632-qwxS",
+    "https://www.linkedin.com/in/jeremyckim"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Slopepay",
+   "results": [
+    "https://www.facebook.com/getslope/",
+    "https://www.facebook.com/groups/1359796357398799/posts/8727217627323265/",
+    "https://www.facebook.com/groups/1359796357398799/posts/9900564996655183/",
+    "https://www.facebook.com/carolinanationalgolf/posts/very-nice-golf-course-very-well-maintained-the-fairways-were-great-and-the-rough/1705318428268117/",
+    "https://www.facebook.com/jeffery.moore.39/posts/the-staff-is-friendly-and-accommodating-the-course-is-a-favorite-fair-off-the-te/10218049120593153/",
+    "https://www.facebook.com/lawrence.murata/",
+    "https://www.facebook.com/KamillahMHanks/posts/i-joined-my-colleagues-on-the-steps-of-city-hall-ahead-of-the-nyc-councils-pied-/1703056885163200/",
+    "https://www.facebook.com/ARussRealtors/posts/save-these-8-things-to-check-before-buying-your-next-home-1-mold-or-mildewcheck-/4593176514238900/",
+    "https://www.facebook.com/royalmanchestergolflinks/posts/a-great-golf-day-starts-before-the-first-tee-and-scott-ls-recent-round-delivered/1713711044093962/",
+    "https://www.facebook.com/groups/1359796357398799/permalink/29002218939396502/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Slopepay note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Slopepay X 投稿",
+   "results": [
+    "https://slopepay.com/blog/slope-jp-morgan-funding",
+    "https://x.com/PayPaysupport/status/1873353332057845932",
+    "https://www.linkedin.com/company/slope-tech",
+    "https://slopepay.com/blog",
+    "https://climbx.so/blog/how-x-payouts-work",
+    "https://finance.yahoo.com/media-advertising/articles/x-shifts-us-creator-payouts-171227367.html",
+    "https://www.hollywoodreporter.com/business/digital/twitter-tips-bitcoin-1235019454/",
+    "https://www.theguardian.com/technology/2026/apr/13/x-cuts-payments-users-post-clickbait-recycle-news",
+    "https://www.webwire.com/ViewPressRel.asp?aId=311696",
+    "https://x.com/slopepay"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

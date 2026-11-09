@@ -1,0 +1,438 @@
+{
+ "name": "Hänssler — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service;ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T21:34:01.781310+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Thomas Hänßler – -- | LinkedIn100+ \"Hänssler\" profiles | LinkedIn#may #amfocus #automotive #additivemanufacturing # ... - LinkedInBoom Supersonic uses EOS 3D printing for aerospace partsVoxelMatters Consumer AM Focus 2025 eBook | VoxelMatters -- · Berufserfahrung: Stadt Nürnberg · Standort: Nürnberg · Sehen Sie sich das Profil von Thomas Hänßler auf LinkedIn, einer professionellen Community mit me",
+    "url": "https://de.linkedin.com/in/thomas-hänßler-a1463622a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookHänssler | Holzgerlingen - Facebookhänssler CLASSIC - FacebookHänssler Kunststoff- und Dichtungstechnik GmbH | MannheimVoxelMatters on Reels - FacebookAdditive manufacturing is creating new solutions for hard-to ...Hänssler GmbH - Lack & Karosserie | Göppingen - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "hänssler CLASSIC - FacebookHänssler Kunststoff- und Dichtungstechnik GmbH | MannheimVoxelMatters on Reels - FacebookAdditive manufacturing is creating new solutions for hard-to ...Hänssler GmbH - Lack & Karosserie | Göppingen - Facebook hänssler CLASSIC. 3,041 followers · 35 talking about this. hänssler CLASSIC - more than 800 recordings of Classical Music. Jul 3, 2026 · Geschäftsführer Sebastian ",
+    "url": "https://www.facebook.com/haensslerClassic/",
+    "pass": 3
+   },
+   {
+    "quote": "Hänssler Kunststoff- und Dichtungstechnik GmbH | MannheimVoxelMatters on Reels - FacebookAdditive manufacturing is creating new solutions for hard-to ...Hänssler GmbH - Lack & Karosserie | Göppingen - Facebook Jul 3, 2026 · Geschäftsführer Sebastian Hänssler bringt es auf den Punkt: „Weg vom Teilefertiger, hin zum Wissenspartner. Nur wenn wir unser Know-how aktiv teilen und früh in die Entwicklung",
+    "url": "https://www.facebook.com/HaensslerKunststoffDichtungstechnik/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.cadenza-cd.com/label/hanssler_swf.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/H%C3%A4nssler-Classic-Collector-Mendelssohn-Chorwerke/dp/B000028CLT",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://diskunion.net/label/51273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hmv.co.jp/search/advanced_1/category_1,2,3,4,5,7,9,10,23,24,50,106/formattype_1/genre_VARIOUS_700/labelcode_HNS/sort_datedesc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.croccha.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shop-green-ocean.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haensslerprofil.de/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/H%C3%A4nssler-Classic-Collector-Mendelssohn-Chorwerke/dp/B000028CLT",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/7979/9670/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00492268/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/H%C3%A4nssler",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.northdata.com/H%C3%A4nssler+GmbH,+G%C3%B6ppingen/Amtsgericht+Ulm+HRB+530430",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/in/thomas-hänßler-a1463622a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/haensslerClassic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HaensslerKunststoffDichtungstechnik/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hänssler — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hänssler — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hänssler — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.cadenza-cd.com/label/hanssler_swf.html",
+    "https://www.amazon.co.jp/Hänssler-Classic-Collector-Mendelssohn-Chorwerke/dp/B000028CLT",
+    "https://diskunion.net/label/51273",
+    "https://www.hmv.co.jp/search/advanced_1/category_1,2,3,4,5,7,9,10,23,24,50,106/formattype_1/genre_VARIOUS_700/labelcode_HNS/sort_datedesc/",
+    "http://www.wakuwakudo.net/catalog_list/hanssler.html",
+    "https://www.amazon.co.jp/ミュージック-Hanssler-Classics/s?rh=n:561956,p_30:Hanssler+Classics",
+    "https://jp.rs-online.com/web/b/hengstler/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hänssler — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://shop.croccha.com/",
+    "https://shop-green-ocean.com/",
+    "https://fantist.com/articles/1017",
+    "https://fantist.com/articles/1092",
+    "https://www.monotaro.com/g/07636225/",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://voxelpla.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hänssler — VoxelMatters Japan distributor",
+   "results": [
+    "https://haensslerprofil.de/partner/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.europesays.com/japan/79430/",
+    "https://www.voxelmatters.directory/",
+    "https://jp.rs-online.com/web/b/hengstler/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hänssler — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.phoenixcommercialproperty.com/macnaughton-snags-290-unit-luxury-complex-near-phoenix-with-japanese-partner-the-business-journals/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Hänssler — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/Hänssler-Classic-Collector-Mendelssohn-Chorwerke/dp/B000028CLT",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://www.amazon.co.jp/ミュージック-Hanssler-Classics/s?rh=n:561956,p_30:Hanssler+Classics",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Hänssler — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/7979/9670/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/00492268/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/p/3873/4683/",
+    "https://www.monotaro.com/g/00345856/",
+    "https://www.monotaro.com/p/4944/5418/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hänssler — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://en.wikipedia.org/wiki/Hänssler",
+    "https://www.northdata.com/Hänssler+GmbH,+Göppingen/Amtsgericht+Ulm+HRB+530430",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.voxelmatters.com/",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Hänssler — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hänssler — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Urfavliar2/status/2117023998710259801",
+    "https://x.com/xhazeling/status/2114183586970734857",
+    "https://x.com/Vanlenciacf/status/2115571969827668368"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Hänssler — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://de.linkedin.com/in/thomas-hänßler-a1463622a",
+    "https://www.linkedin.com/pub/dir/+/Hänssler",
+    "https://www.linkedin.com/posts/voxelmatters_may-amfocus-automotive-activity-7456995767128358912-oigS",
+    "https://www.linkedin.com/posts/voxelmatters_voxelmatters-consumer-am-focus-2025-ebook-activity-7315029440747454465-lSW3",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7338097629962153986/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Hänssler — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/haenssler.verlag/",
+    "https://www.facebook.com/haensslerClassic/",
+    "https://www.facebook.com/HaensslerKunststoffDichtungstechnik/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/haenssler/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Hänssler — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Hänssler — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/Hänssler?f=media",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.directory/company/hanssler/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/TobinArts/status/2119691260327809317"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）"
+ }
+}

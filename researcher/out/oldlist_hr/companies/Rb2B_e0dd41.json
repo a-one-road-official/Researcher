@@ -1,0 +1,1410 @@
+{
+ "name": "Rb2B",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T21:56:51.300684+00:00",
+ "official_url": "https://www.rb2b.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email Enrichment",
+    "value": "— —",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "AI Email support",
+    "value": "",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Get your first leads in under 5 minutes",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get the names, LinkedIn profiles, and email addresses of real people on your site. Push to Slack, Teams, CRM, Clay, and more!",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See the leads start coming through your Slack channel in minutes.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use RB2B's custom “Hot Leads” feature to find your Ideal Customers.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up multiple filters and route them to different integrations. For example, put a buying prospect in an email sequence, send a notification about an investor to the CEO in Slack.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't know what to say? Use one of our hundreds of pre-written templates.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“RB2B has been a game-changer for our sales team. Seeing who's visiting our website and their LinkedIn profiles has completely changed how we do outreach. We're building better relationships and closing more deals, thanks to RB2B!”",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“At Sendspark, we want to give our customers the absolute best buying experience. RB2B helps us see when prospective customers are on our website, so we can reach out with the right message at the right time.”",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“My SDR called on 100 enriched website visitors from RB2B over the course of 1 week prioritizing our ICP and 11 demos were booked.”",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VP Marketing, Biscred",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to answer sales, marketing, and compliance questions.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Review our Data Services Agreement, Data Usage Terms, DPA, InfoSec Addendum, and our GDPR/CPRA FAQ.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Person-Level ID is US-only, GDPR doesn't apply. To enable Global Company-Level ID, consent capture is required to comply with GDPR. We're CCPA compliant.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B is website visitor identification software. Install one script in your site header and RB2B identifies the people and companies visiting your site, then sends names, LinkedIn profiles, business emails and company data to Slack, Teams, your CRM, Clay and 50+ other apps. Over 100,000 websites use RB2B.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every account starts with a 7-day full-featured trial with LinkedIn profiles, companies, all integrations and validated business emails. After 7 days you keep Company-Level ID for 150 resolutions per month for free. You can upgrade to the Starter plan ($79/mo) for Person-Level ID with 300 monthly resolutions.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partly. RB2B's Person-Level ID is US-only technology with a US-only database, so it will not identify individuals located outside the US (for GDPR and CCPA compliance). Company-Level ID, through RB2B's partnership with Demandbase, is global. Companies based outside the US can use Person-Level ID on their US traffic, and it is compliant.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "retention.securitypal.com",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "(Retention.com is RB2B's parent company).",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Does GDPR apply to RB2B?",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not for Person-Level ID. RB2B's person-level database only contains profiles matched to US home addresses, and IP ringfencing ensures only US traffic is resolved. The worldwide Company-Level ID (with Demandbase) does not resolve to the person level and complies with GDPR, but you must use a consent collection tool if you deploy global company-level identification.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What about U.S. state privacy laws, like the California CCPA and CPRA?",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you were compliant with CPRA before, using RB2B will not break your compliance. See the",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "About RB2B: Website Visitor Identification by Retention.com",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Install one line of code in your site header and RB2B identifies the actual people and companies visiting your website, then delivers their names, LinkedIn profiles, business emails and firmographics to Slack, Teams, your CRM, Clay and 50+ other tools in real time.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Most B2B website visitors leave without ever filling out a form. RB2B identifies 70-80% of that traffic by combining US person-level identification with global company-level identification through its partnership with Demandbase, so sales and marketing teams can reach out, alert reps, or add to lead scores while buying intent is still fresh.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "to install and get your first leads",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Names, LinkedIn profiles and validated business emails of the individual people visiting your site.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Know when a visitor hits your pricing, demo or case study pages (Hot Pages).",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically tag visitors who match your Ideal Customer Profile (Hot Leads).",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Retention.com identity data behind RB2B is also available via API, warehouse delivery or flat file.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B is SOC 2 Type II certified. Person-level ID is limited to US traffic, company-level ID is GDPR compliant, and CCPA/CPRA opt-outs are published and honored.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B, a product of GetEmails, LLC dba Retention.com",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B is website visitor identification software. It identifies the people and companies visiting your website and sends their names, LinkedIn profiles, business emails and company data to Slack, Teams, your CRM and 50+ other tools, so sales and marketing teams can follow up while intent is high.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B is built by Retention.com (GetEmails, LLC), an identity data company headquartered in Austin, Texas, and led by founder and CEO Adam Robinson. RB2B runs on Retention.com's identity data engine.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Over 100,000 websites use RB2B, from early-stage startups that want to see who is on their site to growth-stage sales teams routing signals through HubSpot or Salesforce and enterprises ingesting the feed via webhook.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B Pricing: Free Plan, Starter $79/mo, Pro from $149",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B pricing & plans",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Try the Pro plan free for 7 days, enjoy the free plan forever.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Join todays top B2B brands who are unlocking leads by the minute",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hot Leads (ICP Filtering)",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Over a Dozen Other Products",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“We installed RB2B for a few of our clients, and we booked meetings as fast as 15 minutes after installation. I think it's a no-brainer because it gives you a lot of information (about leads).”",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Adam - I put RB2B in place January 8th. Closed a $27k ARR deal today. 10x our annual return on RB2B already with 3 more leads generated for an additional $100k in pipeline. Figured I'd share!”",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B pricing questions",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B has a free plan and paid plans from $79/mo. Free is $0 (Company-Level ID, 150 resolutions/mo). Starter is $79/mo (Person-Level ID, LinkedIn URLs to Slack or Teams, 300 resolutions/mo). Pro starts at $149/mo (business emails and all integrations, from 600 resolutions/mo). Pro+ starts at $199/mo (Premium Resolution with higher match rates, from 600 resolutions/mo).",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A resolution is one identified website visitor that RB2B delivers to you. Each plan includes a number of monthly resolutions, and higher Pro and Pro+ tiers add more (up to 2,500 on Pro and up to 2,500,000 on Pro+).",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additional resolutions are billed as overage: 45¢ per resolution on Starter and 25¢ per resolution on Pro and Pro+.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What's the difference between Pro and Pro+?",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro+ uses Premium Resolution. It adds the Identity Graph Waterfall and raises coverage from 15-20% to 35-45% for both contact-level (US) and company-level (global) ID. Both plans include business emails, Hot Pages, Hot Leads, exclusions and all integrations.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Slack and Teams are on every plan. Pro and Pro+ add Clay, HubSpot, Salesforce, Zapier, Webhook, Apollo, CSV export and over a dozen other products.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Pro and Pro+ customers can add domains for $99/mo (up to 5). Agencies managing client sites can use the",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Does RB2B pricing include visitors outside the US?",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan includes the self-serve knowledge base plus AI chat and AI email support. Pro and Pro+ also include human escalation.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "I need more than 12,500 resolutions a month. How do I get pricing?",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us. Pro+ volumes above 12,500 monthly resolutions are priced with our team.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B identifies your anonymous web traffic, resolves it to a LinkedIn profile and business email, and sends that information to your CRM to filter, route, and action, or pushes straight to Slack.",
+    "url": "https://www.rb2b.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "We are committed to data privacy and integrity.",
+    "url": "https://www.rb2b.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "This security page outlines our security practices.",
+    "url": "https://www.rb2b.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Inspector automatically discovers workloads, such as Amazon EC2 Instances, containers, Lambda functions, and scans them for software vulnerabilities and unintended network exposure.",
+    "url": "https://www.rb2b.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "We are excited about bringing Demandbase's reverse-IP lookup product to the masses.",
+    "url": "https://www.rb2b.com/rb2b-demandbase",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Filter by Company Revenue, Company Size, Seniority, Department, Category, and Geography.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Using RB2B, we identified a high-value website visitor and added them to a targeted sequence, which led to closing a $100K opportunity. It’s been a great tool for turning anonymous interest into real revenue!”",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VP Revenue, Mixmax",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Adam - I put RB2B in place January 8th. Closed a $27k ARR deal today. 10x our annual return on RB2B already with 3 more leads generated for an additional $100k in pipeline. Figured I'd share!”",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Become a part of the RB2B creator community.",
+    "url": "https://www.rb2b.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“Using RB2B, we identified a high-value website visitor and added them to a targeted sequence, which led to closing a $100K opportunity. It’s been a great tool for turning anonymous interest into real revenue!”",
+    "url": "https://www.rb2b.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "VP Revenue, Mixmax",
+    "url": "https://www.rb2b.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "IBM recognizes the value of investing in their customer base. In 2017, the company pulled in $17 billion in cloud revenue—an increase of 24 percent from the previous year. Then, following the 2018 release of",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "$19 billion in cloud revenue",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "21 percent of IBM’s total revenue",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "While FedEx is available to individual consumers, the company profits most from its B2B revenue, delivering shipments for hundreds of thousands of businesses every day. As a B2B enterprise, the company is number 10 in",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "double-digit revenue increases",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "We see this kind of effective internal communication at FedEx in other areas as well. The president of FedEx Express Canada, Lisa Lisson, frequently engages with her employees, crediting them with some of her most successful ideas.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "Occasionally dropping in on sales calls, Lisa is very familiar with work at the frontline. Her participation and involvement in employees of all levels boosts morale and increases employee engagement, something that in turn influences productivity.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks to executives like Lisa, FedEx has a loyal workforce that cares about their company. Feeling valued, employees go above and beyond their duties, just like the rep who",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "Most importantly, the Centers provide an excellent marketing opportunity as customers build personal connections with GE specialists during their visit. By interacting with potential customers face to face, GE has a unique opportunity to personalize service and immediately respond to wants and needs. The Customer Experience Center employees",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "and houses 50 employees year-round. However, the investment is mitigated by the fact that the buildings are fully-operating manufacturing facilities that contribute to the company's workflow.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "revenue was down a percentage point",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "Though it’s too early to tell, the undertaking could be a turning point for GE Additive, perhaps even for other branches, if they successfully increase revenue through customer engagement. After all, this pioneering approach is an exciting experimental strategy to humanize the B2B customer experience.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to insurance companies offering packages for businesses and employees, Nationwide is",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "drew in their loyal customer base to generate more revenue from a new product release.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "optimized its communication and marketing to release content that was no longer redundant and useful for the customer—generating more revenue and cutting operational costs along the way.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "IBM gave Cloud Storage customers a team of specialists to help them adopt and get value from the product, which kept customers engaged and renewing. By reaching out to promoters it upsold its z14 mainframe and grew cloud revenue.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "FedEx reworked its newsletter program, which had been producing as many as 13 irrelevant emails a month per customer from five separate agencies. Consolidating to two teams with one vision raised newsletter revenue by double digits while cutting costs.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "Voice of Customer System: 6 Steps to Growing Revenue",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B Revenue, Founders & Story — Case Study | IdeaIndex",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "6 employees total (across Retention.com + RB2B portfolio)",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Built LinkedIn following from 0 to 73K+ followers in 2 years, then used it to launch RB2B to $800K ARR in 12 weeks with zero paid marketing",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Week 12 (May 2024): $800K ARR — 100% organic growth from founder's LinkedIn audience",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "6 months (Sept 2024): $200K MRR (~$2.4M ARR)",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Get the full breakdown — execution playbooks, revenue timelines, marketing channels, tech stacks, lessons learned, and 600+ more startup ideas, trends, case studies, and growth tactics.",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "From billion-dollar VC dreams to $21M revenue with zero full-time employees",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "How Adam Robinson Grew Retention.com to $22M Revenue with 6 Employees: The Controversial LinkedIn Strategy That Launched RB2B - Founderpath Blog",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "How Adam Robinson Grew Retention.com to $22M Revenue with 6 Employees: The Controversial LinkedIn Strategy That Launched RB2B",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "from zero to $22 million in revenue with just six employees—a staggering $2 million per employee—and how he’s now adding $60,000 in new monthly recurring revenue (MRR) to his newest venture, RB2B.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "In an industry obsessed with headcount and funding rounds, Robinson’s approach stands out. While his office neighbors at Jasper AI were scaling from zero to $50 million ARR with venture capital, Robinson was quietly building a cash machine. The key? Extreme operational efficiency combined with a data business model that compounds value over time.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "“We were 12 million ARR with six people and I basically just took all the free cash and put it into trying to create what I viewed as like a unicorn company,” Robinson revealed during his",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Robinson’s journey with retention.com began in November 2019, focused on the e-commerce market. By 2023, the company had reached $12 million ARR but faced significant headwinds. E-commerce businesses were struggling, leading to high churn and contraction. Rather than doubling down on a declining market, Robinson made a strategic pivot to B2B with RB2B.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "The timing proved prescient. While retention.com’s revenue remained flat through 2024, RB2B grew from zero to $200,000 MRR in just six months. This rapid growth in a new market segment validated Robinson’s decision to expand beyond e-commerce despite the comfortable profits the original business generated.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape also influenced Robinson’s growth strategy. Rather than raising capital to compete head-on with funded competitors, he leveraged authentic storytelling and viral marketing to build brand awareness. This approach costs virtually nothing while creating deeper customer relationships than traditional paid acquisition channels.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers tell a compelling story. In January 2024, retention.com generated $1.7 million in monthly revenue with just $204,000 in total operating expenses. This operational efficiency didn’t happen by accident—it resulted from deliberate choices about team size, technology infrastructure, and market focus.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "This content-led growth extends beyond viral moments. Robinson maintains consistent presence on LinkedIn, sharing insights about revenue, growth challenges, and strategic decisions. Each post builds his audience while subtly reinforcing RB2B’s value proposition. Prospects learn about the product through stories rather than sales pitches, creating warmer leads with higher conversion potential.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "This technical architecture explains the impressive gross margins. Once the core data infrastructure exists, adding new customers requires minimal additional resources. Unlike traditional SaaS products that might need server scaling or support staff growth, RB2B’s costs remain relatively fixed as revenue grows.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "The roadmap includes expanding RB2B’s product suite, potentially through acquisition despite Robinson’s stated reluctance toward M&A. Geographic expansion presents another growth vector, as visitor identification needs exist globally. Most intriguingly, Robinson hints at leveraging his content audience through courses or community offerings, potentially creating entirely new revenue streams.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Robinson’s journey from zero to $22 million in revenue offers numerous lessons for founders building B2B SaaS companies:",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Generating $2 million in revenue per employee creates flexibility and resilience that venture-backed competitors lack. This efficiency comes from careful hiring, focused product development, and leveraging technology over headcount.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Robinson’s story challenges Silicon Valley orthodoxy about how to build successful technology companies. Without venture capital, massive teams, or traditional marketing budgets, he built a $22 million revenue business that prints cash while launching new products into adjacent markets.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "CARR vs ARR: What Contracted ARR Is and How It Differs",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "CARR is your ARR plus signed contracts that aren't live yet, minus churn notices. How to calculate CARR, how it differs from ARR, bookings and RPO, and how to report it honestly.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "How Adam Robinson Grew Retention.com to $22 Million Revenue with Just 6 Employees: The Controversial LinkedIn Playbook That Launched RB2B - Founderpath Blog",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "How Adam Robinson Grew Retention.com to $22 Million Revenue with Just 6 Employees: The Controversial LinkedIn Playbook That Launched RB2B",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "When Adam Robinson stepped onto the SaaSOpen stage in September 2024, attendees knew they were in for something special. The CEO had built Retention.com to $22 million annual recurring revenue with just six employees—a staggering $2 million in revenue per employee—while bootstrapping without any external funding.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "1. Revenue Per Employee Beats Headcount",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": ": Robinson achieved $2 million in revenue per employee at",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "Retention.com ARR Growth chart showing revenue trajectory from 2019 to 2024",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Robinson’s journey began as a finance professional at Lehman Brothers, but his career took an unexpected turn after the 2008 financial crisis. Inspired by roommates who had created Vimeo in their shared apartment, Robinson embraced his inner marketing wizard. His first venture, Robly, grew to $5 million in revenue in just two years, earning the #1 spot in customer satisfaction.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "By 2023, Retention.com had reached $12 million ARR with just six employees. But Robinson’s confidence was shaken by proximity to rocket ship growth. He convinced Santosh Sharan, who’d helped ZoomInfo grow from $8 million to $100 million ARR and turned Apollo.io from being stuck at $6 million to a billion-dollar valuation, to join as COO.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "The Jasper AI team, sharing Robinson’s office space, had exploded from zero to $50 million ARR in 12 months with just six people. “I thought I could do that too,” Robinson admitted during his keynote. He abandoned his bootstrapping principles and started hiring aggressively, burning through free cash to build what he envisioned as a unicorn company.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "The expansion proved disastrous. Despite adding expensive senior and junior employees, the churn problem persisted. Robinson discovered a hard truth: honing in on an ideal customer profile doesn’t automatically solve retention issues, especially in a struggling e-commerce market. By early 2024, he’d learned his lesson and returned to profitable, lean operations.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "January 2024 P&L showing $1.7M monthly revenue with 87% gross margins",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get the names, LinkedIn profiles, and email addresses of real people on your site. Push to Slack, Teams, CRM, Clay, and more!",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up multiple filters and route them to different integrations. For example, put a buying prospect in an email sequence, send a notification about an investor to the CEO in Slack.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect over LinkedIn, Email, Phone, or all of the above.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B is website visitor identification software. Install one script in your site header and RB2B identifies the people and companies visiting your site, then sends names, LinkedIn profiles, business emails and company data to Slack, Teams, your CRM, Clay and 50+ other apps. Over 100,000 websites use RB2B.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every account starts with a 7-day full-featured trial with LinkedIn profiles, companies, all integrations and validated business emails. After 7 days you keep Company-Level ID for 150 resolutions per month for free. You can upgrade to the Starter plan ($79/mo) for Person-Level ID with 300 monthly resolutions.",
+    "url": "https://www.rb2b.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Install one line of code in your site header and RB2B identifies the actual people and companies visiting your website, then delivers their names, LinkedIn profiles, business emails and firmographics to Slack, Teams, your CRM, Clay and 50+ other tools in real time.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Names, LinkedIn profiles and validated business emails of the individual people visiting your site.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out on LinkedIn, email or phone while the visit is fresh, and build pipeline from traffic you already have.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B, a product of GetEmails, LLC dba Retention.com",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B is website visitor identification software. It identifies the people and companies visiting your website and sends their names, LinkedIn profiles, business emails and company data to Slack, Teams, your CRM and 50+ other tools, so sales and marketing teams can follow up while intent is high.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B is built by Retention.com (GetEmails, LLC), an identity data company headquartered in Austin, Texas, and led by founder and CEO Adam Robinson. RB2B runs on Retention.com's identity data engine.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "(No person-level ID, no email addresses nor other Integrations)",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Business Email Addresses",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B has a free plan and paid plans from $79/mo. Free is $0 (Company-Level ID, 150 resolutions/mo). Starter is $79/mo (Person-Level ID, LinkedIn URLs to Slack or Teams, 300 resolutions/mo). Pro starts at $149/mo (business emails and all integrations, from 600 resolutions/mo). Pro+ starts at $199/mo (Premium Resolution with higher match rates, from 600 resolutions/mo).",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro+ uses Premium Resolution. It adds the Identity Graph Waterfall and raises coverage from 15-20% to 35-45% for both contact-level (US) and company-level (global) ID. Both plans include business emails, Hot Pages, Hot Leads, exclusions and all integrations.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan includes the self-serve knowledge base plus AI chat and AI email support. Pro and Pro+ also include human escalation.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us. Pro+ volumes above 12,500 monthly resolutions are priced with our team.",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B identifies your anonymous web traffic, resolves it to a LinkedIn profile and business email, and sends that information to your CRM to filter, route, and action, or pushes straight to Slack.",
+    "url": "https://www.rb2b.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond generic emails that get ignored and don't convert.",
+    "url": "https://www.rb2b.com/high-intent-page-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Use it to prioritize and personalize. Reps focus first on visitors tagged on high-intent pages, and outreach references the problems and solutions covered by the pages the lead actually read, instead of a generic email.",
+    "url": "https://www.rb2b.com/high-intent-page-tracking",
+    "pass": 1
+   },
+   {
+    "quote": "Email robb@rb2b.com to ask him for an agency account w/ master-sub enabled.",
+    "url": "https://www.rb2b.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Install one line of code in your site header and RB2B identifies the actual people and companies visiting your website, then delivers their names, LinkedIn profiles, business emails and firmographics to Slack, Teams, your CRM, Clay and 50+ other tools in real time.",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Names, LinkedIn profiles and validated business emails of the individual people visiting your site.",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Reach out on LinkedIn, email or phone while the visit is fresh, and build pipeline from traffic you already have.",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B, a product of GetEmails, LLC dba Retention.com",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B is website visitor identification software. It identifies the people and companies visiting your website and sends their names, LinkedIn profiles, business emails and company data to Slack, Teams, your CRM and 50+ other tools, so sales and marketing teams can follow up while intent is high.",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B is built by Retention.com (GetEmails, LLC), an identity data company headquartered in Austin, Texas, and led by founder and CEO Adam Robinson. RB2B runs on Retention.com's identity data engine.",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "13 different emails",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "This illustrates an internal communication issue between the content teams, FedEx’s marketing department, and customer service. The newsletters and emails were not created with a single vision, so the company was spending significant costs with little ROI. That changed when Drew Bailey, FedEx’s new Manager of Content Strategy, proposed a newsletter system that was",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "FedEx reworked its newsletter program, which had been producing as many as 13 irrelevant emails a month per customer from five separate agencies. Consolidating to two teams with one vision raised newsletter revenue by double digits while cutting costs.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "November 2019: Former Lehman Brothers Banker Launches GetEmails to Identify Anonymous Website Visitors",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "The key insight came when Robinson added a feature called Robly ID that could identify the email addresses of website visitors even if they didn’t fill out a form—legal in the US but not Europe. This identity resolution technology became so popular with users that Robinson realized it deserved to be its own company.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2019, he launched GetEmails (later rebranded as Retention.com), focusing initially on e-commerce stores. The timing proved perfect—online retailers desperately needed ways to recover abandoned carts and reconnect with anonymous visitors. Robinson’s technology could identify 20-30% of anonymous website traffic and automatically trigger personalized email campaigns.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   },
+   {
+    "quote": "Robinson’s vision extends beyond just two companies. He sees Retention.com’s steady profits as funding for a venture studio model, where he can continue launching new products without diluting ownership or losing control to investors. This approach mirrors his previous success—he’d actually incubated GetEmails (now Retention.com) within Robly before selling the email marketing company.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Know when a visitor hits your pricing, demo or case study pages (Hot Pages).",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Retention.com identity data behind RB2B is also available via API, warehouse delivery or flat file.",
+    "url": "https://www.rb2b.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Know when a visitor hits your pricing, demo or case study pages (Hot Pages).",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "The Retention.com identity data behind RB2B is also available via API, warehouse delivery or flat file.",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": ", is a dedicated B2B manufacturing business whose commitment to customer experience helps illustrate why GE is in second place in Sacunas'",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "in Pittsburgh and Munich. Fully operational, these hubs welcome future and current clients for an inside look at GE’s manufacturing capabilities. During a visit, customers get to see the value of working with GE, familiarize themselves with the manufacturing process, and discuss tailored solutions.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "and houses 50 employees year-round. However, the investment is mitigated by the fact that the buildings are fully-operating manufacturing facilities that contribute to the company's workflow.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B Revenue, Founders & Story — Case Study | IdeaIndex",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock the full RB2B case study",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Yes. Pro and Pro+ customers can add domains for $99/mo (up to 5). Agencies managing client sites can use the",
+    "url": "https://www.rb2b.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RB2B for Agencies: Client Website Visitor Identification",
+    "url": "https://www.rb2b.com/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "five independent agencies",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "FedEx reworked its newsletter program, which had been producing as many as 13 irrelevant emails a month per customer from five separate agencies. Consolidating to two teams with one vision raised newsletter revenue by double digits while cutting costs.",
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2019, he launched GetEmails (later rebranded as Retention.com), focusing initially on e-commerce stores. The timing proved perfect—online retailers desperately needed ways to recover abandoned carts and reconnect with anonymous visitors. Robinson’s technology could identify 20-30% of anonymous website traffic and automatically trigger personalized email campaigns.",
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "サントリービバレッジソリューション株式会社",
+    "url": "https://www.rbomiya.com/jp-ja/content/partner-rb2b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RB2B - rbomiya.com — 私たちは、パートナー企業様との繋がりを大切にしながら、企業同士が自然と繋がり、新たなビジネスが生まれる環境づくりを取り組んでまいります。 次のビジネスパートナー、RB2Bで見つけませんか？",
+    "url": "https://www.rbomiya.com/jp-ja/content/partner-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "About RB2B: Website Visitor Identification by Retention.com — RB2B is website visitor identification software used by 100,000+ websites. Learn what RB2B does, how it works, and the Retention.com team behind it.",
+    "url": "https://rb2b.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "RB大宮株式会社 - rb2b.rbomiya.com — RB2Bサイトで使用している画像、映像等の無断での複製・転載を禁止します。",
+    "url": "https://rb2b.rbomiya.com/C00/login",
+    "pass": 3
+   },
+   {
+    "quote": "How to Create B2B Manufacturing Case Studies That Blow Your ...RB2B Case Study - Sales Automation Systems8 Proven B2B Case Study Examples and FrameworksYour Successful RB2B Workflow - CASE STUDY - Simple Testimonial — While developing B2B manufacturing case studies is one of the oldest forms of content marketing, they’re highly effective at illustrating your customer’s problems, solutions, and the",
+    "url": "https://shanahanstrategy.com/manufacturing-marketing/how-to-create-b2b-manufacturing-case-studies-that-blow-your-customers-minds/",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B Case Study - Sales Automation Systems — RB2B was launching a first-of-its-kind tool that identifies visitors by person, in real time. The team had elite demand gen in house, but modern cold email is its own game: deliverability, domain reputation, sequencing, and compliance at scale.",
+    "url": "https://www.salesautomation.systems/see-our-work/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B Revenue, Founders & Story — Case Study | IdeaIndex — Launched March 1, 2024, RB2B hit $800K ARR in just 12 weeks — entirely through organic founder-led growth via Robinson's 73K LinkedIn audience. By November 2024, revenue peaked at $4M ARR but then flatlined as 20% monthly churn (on low-tier plans) ate all new signups.",
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "How Adam Robinson Grew Retention.com to $22M Revenue with 6 ... — Aug 30, 2025 · He revealed the exact playbook that took retention.com from zero to $22 million in revenue with just six employees—a staggering $2 million per employee—and how he’s now adding $60,000 in new monthly recurring revenue (MRR) to his newest venture, RB2B.",
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B: $10M ARR — RB2B hit $10M ARR with 1 full-time employee — Oct 7, 2026 · Bootstrapped visitor-ID tool RB2B reached $10M ARR run by a single full-time employee, founder Adam Robinson announced.",
+    "url": "https://www.arr.club/signal/rb2b-hit-10m-arr-with-1-full-time-employee",
+    "pass": 3
+   },
+   {
+    "quote": "PLG company: RB2B — Jul 23, 2025 · Building in Public: Adam Robinson, RB2B’s founder, shares wins, challenges, customer stories, and honest behind-the-scenes moments on LinkedIn. His regular posts show real numbers, product decisions, and even mistakes.",
+    "url": "https://growthwithgary.com/p/rb2b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Yesterday, RB2B crossed $9m ARR. I don’t think people ... RB2B’s value prop remains POWERFULLY SIMPLE, with the brand RB2B = WEBSITE ID compounding in the collective consciousness of the B2B SaaS market 15. RB2B remains the last man standing.",
+    "url": "https://x.com/RetentionAdam/status/2058238781413593463",
+    "pass": 3
+   },
+   {
+    "quote": "Grok on X: \"Yes. RB2B (from https://t.co/swowMTkW3P) is ... RB2B (from Retention.com) is designed to identify anonymous website visitors. For US traffic it provides person-level details—names, LinkedIn profiles, and business emails—by matching cookies, device IDs, and other signals against a permissioned network.",
+    "url": "https://x.com/grok/status/2117368396920520706",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B is becoming a less-than-one-man machine. 3 people $8.4M ... RB2B is becoming a less-than-one-man machine. 3 people $8.4M ARR And for the next 7 months, almost none of us are touching it. Tate (CTO) gets one day a month for dev work.",
+    "url": "https://x.com/RetentionAdam/status/2050612827832918388",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Robinson (@RetentionAdam) / X What does the CEO of a $32m ARR business (RB2B + Retention + MoltSets) ACTUALLY do all week? I’m not sure what other CEO’s do, but here’s how I take on the work week …",
+    "url": "https://x.com/RetentionAdam",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B (@RB2B3) / X 2 followers · 0 following. Joined Jan 2020. See the latest conversations with @RB2B3",
+    "url": "https://x.com/RB2B3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RB2B - LinkedIn RB2B | 25,846 followers on LinkedIn. Identify your anonymous website visitors. Push their LinkedIn profiles to Slack in realtime. | Identify your anonymous website visitors.",
+    "url": "https://www.linkedin.com/company/rb2b",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Robinson - CEO @ MoltSets & RB2B & Retention.com ...Robb Clarke - Head of AI @ RB2B / MoltSets - Sharing wins ...RB2B accused of downloading CRM data without warningDiana Ross - RB2B | LinkedInTate Blahnik - CTO @ MoltSets & RB2B & Retention.com | LinkedInThe most commonly asked question I get about RB2B is, \" ... About Founder/CEO of RB2B and Retention.com. rb2b.com: Identify your anonymous ",
+    "url": "https://www.linkedin.com/in/retentionadam",
+    "pass": 3
+   },
+   {
+    "quote": "Robb Clarke - Head of AI @ RB2B / MoltSets - Sharing wins ...RB2B accused of downloading CRM data without warningDiana Ross - RB2B | LinkedInTate Blahnik - CTO @ MoltSets & RB2B & Retention.com | LinkedInThe most commonly asked question I get about RB2B is, \" ... Head of AI @ RB2B / MoltSets - Sharing wins, losses, tips, and tricks around AI for CX · I make complex products simple. I design AI, on",
+    "url": "https://ca.linkedin.com/in/robbclarke",
+    "pass": 3
+   },
+   {
+    "quote": "RB2B accused of downloading CRM data without warning Last week RB2B was accused of downloading CRM data without warning, being spyware, and then I was accused of not owning up to our terms of service. All of this is completely WRONG.",
+    "url": "https://www.linkedin.com/posts/retentionadam_last-week-rb2b-was-accused-of-downloading-activity-7317982548364611585-ev3x",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Integrate RB2B with nearly any tool, HubSpot, Salesforce ... Sep 16, 2025 · Integrate RB2B with nearly any tool, HubSpot, Salesforce, Zapier, Clay, Instantly, and more. We even build custom integrations if we don’t support yours...",
+    "url": "https://www.facebook.com/reel/31185404831105135/",
+    "pass": 3
+   },
+   {
+    "quote": "One line of code is all it takes. Install the RB2B script and ... One line of code is all it takes. Install the RB2B script and instantly identify 70–80% of your US website visitors — including LinkedIn profiles and...",
+    "url": "https://www.facebook.com/reel/1467255108407258/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rb2b.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rb2b.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rb2b.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rb2b.com/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rb2b.com/rb2b-demandbase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rb2b.com/high-intent-page-tracking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rb2b.com/agencies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.rbomiya.com/jp-ja/content/partner-rb2b",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rb2b.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/502580/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1-president.com/services-japan-absence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tradewheel.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rb2b.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rbomiya.com/jp-ja/content/partner-rb2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/market-intelligence/japan-b2b-ecommerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b2bmarketingworld.com/example/case/b2b-marketing-case-study/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.campfirelabs.co/blog/b2b-case-study-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shanahanstrategy.com/manufacturing-marketing/how-to-create-b2b-manufacturing-case-studies-that-blow-your-customers-minds/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ideaindex.so/case-studies/rb2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arr.club/signal/rb2b-hit-10m-arr-with-1-full-time-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RetentionAdam/status/2058238781413593463",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/grok/status/2117368396920520706",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RetentionAdam/status/2050612827832918388",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RetentionAdam",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rb2b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/retentionadam",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/robbclarke",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/retentionadam_last-week-rb2b-was-accused-of-downloading-activity-7317982548364611585-ev3x",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/31185404831105135/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/1467255108407258/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RB2B3",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rb2B 日本 導入",
+   "results": [
+    "https://www.rbomiya.com/jp-ja/content/partner-rb2b",
+    "https://rb2b.com/about",
+    "https://36kr.jp/502580/",
+    "https://1-president.com/services-japan-absence/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.shopify.com/jp/blog/b2b-products",
+    "https://global.toyota/jp/newsroom/toyota/44960600.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rb2B 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rb2B Japan",
+   "results": [
+    "https://www.tradewheel.com/japan/",
+    "https://rb2b.com/about",
+    "https://www.rbomiya.com/jp-ja/content/partner-rb2b",
+    "https://www.trade.gov/market-intelligence/japan-b2b-ecommerce",
+    "https://rb2b.rbomiya.com/C00/login",
+    "https://b2bjapan.co.jp/",
+    "https://www.sjn.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rb2B manufacturing customer case study",
+   "results": [
+    "https://www.b2bmarketingworld.com/example/case/b2b-marketing-case-study/",
+    "https://www.campfirelabs.co/blog/b2b-case-study-examples",
+    "https://customergauge.com/blog/4-b2b-cx-success-stories-we-can-learn-from",
+    "https://shanahanstrategy.com/manufacturing-marketing/how-to-create-b2b-manufacturing-case-studies-that-blow-your-customers-minds/",
+    "https://www.salesautomation.systems/see-our-work/rb2b",
+    "https://scopicstudios.com/blog/8-proven-b2b-case-study-examples-and-frameworks/",
+    "https://app.simpletestimonial.com/f/rb2b/rb2b-workflow"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rb2B white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rb2B founded funding employees revenue",
+   "results": [
+    "https://www.ideaindex.so/case-studies/rb2b",
+    "https://founderpath.com/blog/how-adam-robinson-grew-retention-com-to-22m-revenue-with-6-employees-the-controversial-linkedin-strategy-that-launched-rb2b",
+    "https://founderpath.com/blog/retentioncom-ceo-keynote-adam-robinson",
+    "https://www.arr.club/signal/rb2b-hit-10m-arr-with-1-full-time-employee",
+    "https://growthwithgary.com/p/rb2b",
+    "https://www.crunchbase.com/organization/rb2b",
+    "https://meet-lea.com/en/success-stories/adam-robinson/adam-robinson"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rb2B",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/asabamiyuki",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rb2B",
+   "results": [
+    "https://x.com/RetentionAdam/status/2058238781413593463",
+    "https://x.com/grok/status/2117368396920520706",
+    "https://x.com/RetentionAdam/status/2050612827832918388",
+    "https://x.com/RetentionAdam",
+    "https://x.com/RetentionAdam/status/2035417467917381844",
+    "https://x.com/RetentionAdam/status/2063324935653925081",
+    "https://x.com/grok/status/2117417414287577384"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rb2B",
+   "results": [
+    "https://www.linkedin.com/company/rb2b",
+    "https://www.linkedin.com/in/retentionadam",
+    "https://ca.linkedin.com/in/robbclarke",
+    "https://www.linkedin.com/posts/retentionadam_last-week-rb2b-was-accused-of-downloading-activity-7317982548364611585-ev3x",
+    "https://www.linkedin.com/in/diana-ross-bb400a31",
+    "https://www.linkedin.com/pub/dir/Tate/Blahnik",
+    "https://www.linkedin.com/posts/retentionadam_the-most-commonly-asked-question-i-get-about-activity-7260720484122570752-0LGO"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rb2B",
+   "results": [
+    "https://www.facebook.com/reel/31185404831105135/",
+    "https://www.facebook.com/reel/1467255108407258/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/sasi.ceo/videos/adam-robinson-founder-and-ceo-of-rb2b-and-retentioncom-died-on-november-1-when-a/1095169060179708/",
+    "https://www.facebook.com/runtimewire/posts/retentioncom-and-rb2b-founder-adam-robinson-his-wife-helen-and-their-two-childre/122125723845322569/",
+    "https://www.facebook.com/reel/1626855115133282/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rb2B note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rb2B X 投稿",
+   "results": [
+    "https://x.com/RB2B3",
+    "https://rb2b.com/about",
+    "https://www.rbomiya.com/jp-ja/content/partner-rb2b",
+    "https://x.com/turningpointjpn/status/2117544813876887657",
+    "https://www.sponichi.co.jp/entertainment/news/2026/10/19/kiji/20261019s00041000135000c.html",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

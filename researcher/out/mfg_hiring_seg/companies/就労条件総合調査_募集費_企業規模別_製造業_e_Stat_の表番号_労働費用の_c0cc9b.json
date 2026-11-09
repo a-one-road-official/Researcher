@@ -1,0 +1,579 @@
+{
+ "name": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131）",
+ "en": "General Survey on Working Conditions recruitment cost by firm size manufacturing e-Stat table",
+ "aliases": [
+  "就労条件総合調査 募集費 企業規模 製造業 表",
+  "労働費用 募集費 規模別 e-Stat",
+  "募集費 1人1か月 製造業"
+ ],
+ "context": "国内・統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T21:20:08.962513+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/11-23.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrc-j.com/column/29182/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/2020/documents/0193.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.sukagawa.fukushima.jp/material/files/group/46/01876585.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450099&tstat=000001014004&cycle=0&tclass1=000001236727&tclass2=000001236730&stat_infid=000040389670&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sr-train.jp/letter/202002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.syarogo-itonao.jp/16277975851348",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/247/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001224722&tclass2=000001225002&tclass3val=0&second2=1&stat_infid=000040242232",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/wgkaisai/shouryokukatousi_dai1/siryou4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03%2C07&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001162507&tclass2=000001162510&tclass3val=0&stat_infid=000032166071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmsc.co.jp/corporate/recruit/196/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001147730&tclass2=000001149007&tclass3val=0&stat_infid=000032047326",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/institute/research/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan/p00450099001/download/sp003",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zeem.jp/useful/column/comprehensive_survey_working_conditions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fpeo.co.jp/news/news-8325/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rim-con.com/blog20260106/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/1998office_knet/n/n54330431a8d0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kkpartners.jp/oshirase/39521/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/reserch/20260119_105919/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmac.co.jp/books/fact-finding_report/20251107.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gov-online.go.jp/data_room/publication/202206/mhlw-029.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/044/dl/001_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/chousa.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 人手不足 受注 断る",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/11-23.html",
+    "https://www.hrc-j.com/column/29182/",
+    "https://www.jil.go.jp/institute/research/2020/documents/0193.pdf",
+    "https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260803",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.city.sukagawa.fukushima.jp/material/files/group/46/01876585.pdf",
+    "https://kitamura55.com/archives/4093",
+    "https://mitsukijapan.com/ma/column/whyisthelaborshortage/",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1680/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450099&tstat=000001014004&cycle=0&tclass1=000001236727&tclass2=000001236730&stat_infid=000040389670&tclass3val=0",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.sr-train.jp/letter/202002.html",
+    "http://www.syarogo-itonao.jp/16277975851348",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://fpeo.co.jp/news/news-8325/",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/044/dl/001_2.pdf",
+    "https://ailabor.or.jp/new_rodo/entry-13565.html",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/24/2-1.html",
+    "https://www5.cao.go.jp/j-j/wp/wp-je19/h01-03.html",
+    "https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_3.html",
+    "https://edenred.jp/article/hr-recruiting/247/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001224722&tclass2=000001225002&tclass3val=0&second2=1&stat_infid=000040242232",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/wgkaisai/shouryokukatousi_dai1/siryou4.pdf",
+    "https://www.murc.jp/wp-content/uploads/2023/05/report_230508_01.pdf",
+    "https://note.com/fujimotomasao/n/n4d12358b6ce8"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 採用単価 規模別",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&bunya_l=03%2C07&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001162507&tclass2=000001162510&tclass3val=0&stat_infid=000032166071",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "http://www.syarogo-itonao.jp/16277975851348",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 採用コスト 調査 万円",
+   "results": [
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.jmsc.co.jp/corporate/recruit/196/",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://career-research.mynavi.jp/reserch/20260327_109053/",
+    "https://www.mhlw.go.jp/content/11600000/001489721.pdf",
+    "https://www.works-i.com/surveys/adoption/mid-career.html",
+    "https://www.saiyo-doda.jp/guide/kihon/career-recruitment-costs",
+    "https://www.shokochukin.co.jp/report/data/assets/pdf/futai202401.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&toukei=00450099&tstat=000001014004&tclass1=000001147730&tclass2=000001149007&tclass3val=0&stat_infid=000032047326",
+    "https://www.jil.go.jp/institute/research/index.html",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/kaigi/dai27/shiryou1.pdf",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/surveyplan/p00450099001/download/sp003",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.zeem.jp/useful/column/comprehensive_survey_working_conditions/",
+    "http://www.syarogo-itonao.jp/16277975851348",
+    "https://fpeo.co.jp/news/news-8325/",
+    "https://www.sr-train.jp/letter/202002.html",
+    "https://rim-con.com/blog20260106/",
+    "https://note.com/1998office_knet/n/n54330431a8d0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450099&tstat=000001014004&cycle=0&tclass1=000001236727&tclass2=000001236730&stat_infid=000040389670&tclass3val=0",
+    "https://rim-con.com/blog20260106/",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b2_1_4.html",
+    "https://kkpartners.jp/oshirase/39521/",
+    "https://www.jil.go.jp/institute/research/index.html",
+    "https://edenred.jp/article/hr-recruiting/247/",
+    "https://career-research.mynavi.jp/reserch/20260119_105919/",
+    "https://www.jmac.co.jp/books/fact-finding_report/20251107.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） 白書 採用",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/11-23.html",
+    "https://www.e-stat.go.jp/surveyplan/p00450099001/download/sp003",
+    "https://www.nissay-biz-site.com/article/q7iso6pa8j",
+    "https://www.zeem.jp/useful/column/comprehensive_survey_working_conditions/",
+    "http://www.syarogo-itonao.jp/16277975851348",
+    "https://www.gov-online.go.jp/data_room/publication/202206/mhlw-029.html",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/soukai/044/dl/001_2.pdf",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/chousa.html",
+    "https://fpeo.co.jp/news/news-8325/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131）",
+   "results": [
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://note.com/joincareeroffice/n/nbf4009709a9a",
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/zephel01/n/n1e6189c72b5d",
+    "https://note.com/keisemi/n/naf14ab3c9062",
+    "https://note.com/modelp/n/nb820838d33b8",
+    "https://note.com/epolicy_actvst/n/n43c835f022f3",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://note.com/mirai_navi/n/nfcc94233f3d1",
+    "https://note.com/hirokimiyano/n/n687dbc5ad6ad"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131）",
+   "results": [
+    "https://x.com/foresight_sha",
+    "https://x.com/isyokenmei/status/2098556123859312900",
+    "https://x.com/luigi_jpn/article/2094562625690755302",
+    "https://x.com/luigi_jpn/article/2053781063978344899",
+    "https://x.com/luigi_jpn/article/2065587078407307472",
+    "https://x.com/luigi_jpn/article/2089684200245100653",
+    "https://x.com/luigi_jpn/article/2058877178339791115",
+    "https://x.com/luigi_jpn/article/2067729162769756542",
+    "https://x.com/KagawaTomo/status/2110277493752205781",
+    "https://x.com/ReportOcean_JP"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131）",
+   "results": [
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/jobs/view/r%EF%BC%86d%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88-%E2%97%87%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E6%94%B9%E9%9D%A9%E6%94%AF%E6%8F%B4%EF%BC%8F%E8%82%B2%E6%88%90%E3%83%BB%E7%A0%94%E4%BF%AE%E4%BD%93%E5%88%B6%E5%85%85%E5%AE%9F%EF%BC%8F%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%8F%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99%E5%8F%AF-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488019292",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E9%A7%85%E3%80%91%E7%9F%A5%E8%B2%A1%E6%88%A6%E7%95%A5%E3%83%BB%E7%89%B9%E8%A8%B1%E6%8B%85%E5%BD%93%EF%BC%88%E5%85%89%E5%AD%A6%E3%83%BB%E6%A9%9F%E8%83%BD%E6%80%A7%E6%9D%90%E6%96%99%EF%BC%89%E2%97%86%E4%B8%96%E7%95%8C%E3%82%B7%E3%82%A7%E3%82%A2no-1%E8%A3%BD%E5%93%81%E5%A4%9A%E6%95%B0%EF%BC%8F%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486419435",
+    "https://jp.linkedin.com/in/yuji-ohara-hradvisor",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E9%A6%96%E9%83%BD%E5%9C%8F%E3%80%91%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88-%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E5%BB%BA%E7%AF%89%E5%B7%A5%E4%BA%8B-%E2%80%BB%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%EF%BC%8F%E5%AE%89%E5%AE%9A%E3%81%AE%E5%A4%A7%E6%88%90%E5%BB%BA%E8%A8%AD%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488023052?position=34&pageNum=0&refId=Vjg3xVA6fDxlNLcAEAx23w%3D%3D&trackingId=l0levqeiJ%2F7Pg7PtaHFB2g%3D%3D",
+    "https://jp.linkedin.com/pulse/five-assumptions-decide-whether-your-factory-succeed-ajay-kumar-gupta-gfxcc?tl=ja",
+    "https://www.linkedin.com/in/naokiomura/ja",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E3%80%91%E5%BB%BA%E7%AF%89%E6%96%BD%E5%B7%A5%E7%AE%A1%E7%90%86-%E2%80%BB%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E5%80%99%E8%A3%9C%EF%BC%8F%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E5%AE%89%E5%AE%9A%E6%80%A7%E2%97%8E%EF%BC%8F%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%E3%81%BF%E3%83%BB%E5%B9%B4%E4%BC%91124%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4484992905",
+    "https://jp.linkedin.com/in/y-izumi4864",
+    "https://jp.linkedin.com/in/maaasaa"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131）",
+   "results": [
+    "https://www.facebook.com/camarajaponesapy/?locale=da_DK",
+    "https://www.facebook.com/zentekkin/?locale=et_EE",
+    "https://www.facebook.com/100075871327957/?locale=zh_TW",
+    "https://www.facebook.com/tsuguki/",
+    "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/kidera.yoshi/posts/%E4%B8%96%E7%95%8C%E3%81%AEai%E6%B4%BB%E7%94%A8%E7%B5%8C%E5%96%B6%E6%9C%80%E5%89%8D%E7%B7%9A2026%E5%B9%B410%E6%9C%8828%E6%97%A5%E7%89%88%E8%AA%BF%E6%9F%BB%E5%9F%BA%E6%BA%962026%E5%B9%B410%E6%9C%8828%E6%97%A5%E5%8D%88%E5%89%8D7%E6%99%8230%E5%88%86%E6%97%A5%E6%9C%AC%E6%99%82%E9%96%93%E4%B8%96%E7%95%8C%E3%81%AE%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6ai%E6%8A%95%E8%B3%87%E7%B5%84%E7%B9%94%E6%94%B9%E9%9D%A9%E8%B2%A1%E5%8B%99%E6%88%A6%E7%95%A5maai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AB%E9%96%A2/10164625641174194/",
+    "https://www.facebook.com/groups/627324771859424/_join_/?locale=ja_JP",
+    "https://www.facebook.com/co.sanroku/",
+    "https://www.facebook.com/GlobalLeadersAssociation.JAPAN/posts/10%E6%9C%885%E6%97%A5%E6%9C%88-%E9%96%8B%E5%82%AC%E6%9C%AD%E5%B9%8C%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA%E4%BC%9A-%E7%AC%AC2%E5%9B%9E-%E6%9C%AD%E5%B9%8C%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA%E4%BC%9A%E3%82%9210%E6%9C%885%E6%97%A5%E6%9C%88%E3%81%AB-%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99-%E4%BB%8A%E5%9B%9E%E3%81%AF-%E4%B8%AD%E6%A8%99%E6%B4%A5%E7%94%BA%E3%81%AE%E5%87%BA%E8%BA%AB%E3%81%A7%E5%A3%B2%E4%B8%8A500%E5%84%84%E5%86%86%E3%81%AE%E3%83%8D%E3%82%AA%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%92%E7%8E%87%E3%81%84%E5%87%BA%E8%BA%AB%E5%9C%B0%E5%8C%97/1539248231543129/",
+    "https://www.facebook.com/sharouren/?locale=ja_JP"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） note 社長",
+   "results": [
+    "https://note.com/1998office_knet/n/n54330431a8d0",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/dl/gaikyou.pdf",
+    "https://note.com/1998office_knet/n/nee60351e4157",
+    "https://note.com/1998office_knet/n/n79dde430afe1",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=0&kikan=00450&toukei=00450099&tstat=000001014004&tclass1=000001224722&tclass2=000001225002&tclass3val=0&second2=1&stat_infid=000040242232",
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://rim-con.com/blog20260106/",
+    "https://fpeo.co.jp/news/news-8325/",
+    "https://note.com/1998office_knet/n/n6d8f35840f5f",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "就労条件総合調査 募集費 企業規模別 製造業（e-Stat の表番号・労働費用のうち募集費・常用労働者1人1か月・4-131） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/surveyplan/p00450099001/download/sp003",
+    "https://www.mhlw.go.jp/toukei/itiran/roudou/jikan/syurou/25/chousa.html",
+    "https://athrun.co.jp/2021/12/15/%E3%80%90%E4%BB%A4%E5%92%8C3%E5%B9%B4%E7%89%88%E3%80%91%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://note.com/1998office_knet/n/n54330431a8d0",
+    "https://dreamin-sr.com/news/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E3%80%80%E5%B0%B1%E5%8A%B4%E6%9D%A1%E4%BB%B6%E7%B7%8F%E5%90%88%E8%AA%BF%E6%9F%BB%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
+    "https://rim-con.com/blog20260106/",
+    "https://www.henmi-adm.jp/news/2827.html",
+    "https://www.zeem.jp/useful/column/comprehensive_survey_working_conditions/",
+    "https://www.gov-online.go.jp/data_room/publication/202206/mhlw-029.html",
+    "https://www.mhlw.go.jp/toukei/list/11-23.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "General Survey on Working Conditions recruitment cost by firm size manufacturing e-Stat table site:linkedin.com",
+   "results": [
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://business.linkedin.com/hire/resources/future-of-recruiting",
+    "https://www.linkedin.com/pulse/employee-experience-its-1-issue-work-even-right-now-josh-bersin",
+    "https://business.linkedin.com/hire/resources/future-of-recruiting/archival/future-of-recruiting-2023",
+    "https://www.linkedin.com/posts/luan-van-zyl-2261b422_salesleadership-sales-organizationalculture-activity-7390361376525000704-MqMY",
+    "https://www.linkedin.com/in/aarontroybrown",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report-2024",
+    "https://economicgraph.linkedin.com/content/dam/me/economicgraph/en-us/PDF/linkedIn-labor-market-report-building-a-future-of-work-that-works-jan-2026.pdf",
+    "https://uk.linkedin.com/in/cbennettrecruitmentconsultant",
+    "https://fr.linkedin.com/in/stefano-scarpetta-23718329"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ48頁・検索16回）",
+  "セグメント定義": "記載なし（読んだ48頁・検索16回）",
+  "採用単価": "記載なし（読んだ48頁・検索16回）",
+  "年間採用費": "記載なし（読んだ48頁・検索16回）",
+  "採用経路": "記載なし（読んだ48頁・検索16回）",
+  "充足・欠員": "記載なし（読んだ48頁・検索16回）",
+  "調査主体・時期": "記載なし（読んだ48頁・検索16回）"
+ }
+}

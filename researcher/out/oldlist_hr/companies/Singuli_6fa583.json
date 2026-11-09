@@ -1,0 +1,503 @@
+{
+ "name": "Singuli",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T21:28:27.667686+00:00",
+ "official_url": "https://www.singuli.co",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "この開発者は日本語での直接的なサポートを提供していません",
+    "url": "https://apps.shopify.com/singuli?locale=ja",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Singuli - LinkedIn — Singuli - LinkedIn LinkedIn https://www.linkedin.com > singuli",
+    "url": "https://www.linkedin.com/company/singuli",
+    "pass": 3
+   },
+   {
+    "quote": "Singuli Connector - Shopify App Store — Singuli Connector - Shopify App Store Shopify App Store https://apps.shopify.com > singuli",
+    "url": "https://apps.shopify.com/singuli",
+    "pass": 3
+   },
+   {
+    "quote": "Photos by Singular (@ singuli ) · October 25, 2026 - Instagram — Photos by Singular (@ singuli ) · October 25, 2026 - Instagram Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/De6hlhWDKMZ/",
+    "pass": 3
+   },
+   {
+    "quote": "Singuli - 2026 Company Profile, Team, Funding & Competitors — Singuli - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/singuli/__se0BfIPl7Ojj4V8-tIVwA_bOt-_vdMp0nIN2UhtCWms",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\" Singuli mortales, cuncti perpetui.. Du fehlst \" / X \" Singuli mortales, cuncti perpetui.. Du fehlst \" / X X https://x.com > @minator261285",
+    "url": "https://x.com/minator261285/status/2116075650683658732",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Singuli - LinkedIn Singuli - LinkedIn LinkedIn https://www.linkedin.com > singuli",
+    "url": "https://www.linkedin.com/company/singuli",
+    "pass": 3
+   },
+   {
+    "quote": "Thierry Bertin-Mahieux - CTO & Co-Founder @ Singuli ... Thierry Bertin-Mahieux - CTO & Co-Founder @ Singuli ... LinkedIn https://ca.linkedin.com > thierrybertin...",
+    "url": "https://ca.linkedin.com/in/thierrybertinmahieux",
+    "pass": 3
+   },
+   {
+    "quote": "Kelly Bain - Customer Success Manager at Singuli | LinkedIn Kelly Bain - Customer Success Manager at Singuli | LinkedIn LinkedIn https://www.linkedin.com > kelly-bai...",
+    "url": "https://www.linkedin.com/in/kelly-bain-95411791",
+    "pass": 3
+   },
+   {
+    "quote": "Sandra Čenčić - General Manager at Singuli d.o.o. | LinkedIn Sandra Čenčić - General Manager at Singuli d.o.o. | LinkedIn LinkedIn Croatia https://hr.linkedin.com > sandracencic",
+    "url": "https://hr.linkedin.com/in/sandracencic",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "singuli .hr | Zagreb - Facebook singuli .hr | Zagreb - Facebook Facebook https://www.facebook.com > ... > Electronics Store",
+    "url": "https://www.facebook.com/singuli.hr/",
+    "pass": 3
+   },
+   {
+    "quote": "SINGULI d.o.o. za trgovinu i usluge zapošljava! Prodavač ... SINGULI d.o.o. za trgovinu i usluge zapošljava! Prodavač ... Facebook https://www.facebook.com > MojPosao > posts > singuli-d...",
+    "url": "https://www.facebook.com/MojPosao/posts/singuli-doo-za-trgovinu-i-usluge-zapo%C5%A1ljava-prodava%C4%8D-prijem-m%C5%BE-mjesto-rada-zagre/1647957886903238/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.singuli.co",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aba-j.or.jp/info/industry/20087/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/singuli",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apps.shopify.com/singuli?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/eatsplorations/videos/the-singulari-hotel-skyspa-universal-city-japan-osaka/1532331807732165/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/p/De6hlhWDKMZ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJKsr_yQSqpOyfSqUi8PPedeQ6io_TDRViA_1LaxV91fJuChN87",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/singuli/__se0BfIPl7Ojj4V8-tIVwA_bOt-_vdMp0nIN2UhtCWms",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://palle.substack.com/p/the-1b-dollar-single-person-company",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fi.co/insight/solocorn-companies-real-examples-of-one-person-businesses-built-with-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/henrythe9th_theres-a-founder-who-generates-1b-in-arr-activity-7301243523054329857-WCj9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/minator261285/status/2116075650683658732",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/singuli",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/thierrybertinmahieux",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kelly-bain-95411791",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hr.linkedin.com/in/sandracencic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/singuli.hr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MojPosao/posts/singuli-doo-za-trgovinu-i-usluge-zapo%C5%A1ljava-prodava%C4%8D-prijem-m%C5%BE-mjesto-rada-zagre/1647957886903238/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Singuli 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://trafficnews.jp/post/725198",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://www.webcg.net/articles/-/54501",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://kuruma-news.jp/post/1131871"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Singuli 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Singuli Japan",
+   "results": [
+    "https://www.linkedin.com/company/singuli",
+    "https://apps.shopify.com/singuli",
+    "https://www.facebook.com/eatsplorations/videos/the-singulari-hotel-skyspa-universal-city-japan-osaka/1532331807732165/",
+    "https://www.instagram.com/p/De6hlhWDKMZ/",
+    "https://www.sng.ac.jp/",
+    "https://www.prnewswire.com/news-releases/masterpieces-of-craftsmanship-gastronomy-and-culture-japan-sui-collection-a-paris-captivates-200-european-leaders-at-le-royal-monceau-302708795.html",
+    "https://open.spotify.com/intl-ja/track/7a2QsOjrx92kuDmtqCidJA",
+    "https://www.ippodogallery.com/artists/160-susumu-shingu/",
+    "http://www.singuli.com/",
+    "https://www.booking.com/hotel/jp/singulari-hotel-skyspa-at-universal-studios-japan.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Singuli manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJKsr_yQSqpOyfSqUi8PPedeQ6io_TDRViA_1LaxV91fJuChN87",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.insight.com/en_US/content-and-resources.html?tags=stream-type%3Acase-studies&tags=stream-partner%3Agoogle-cloud&offset=0&limit=10&year=&q=&language=en&pagePath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&searchPath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&srsltid=AYCX9vKyXeicfqSu4ZIFh3IeP9rTWXN61bNKJA5-pDSwKX3DmUoxz_sL",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.l2l.com/case-studies",
+    "https://safetychain.com/resources/case-studies",
+    "https://revtechventures.com/portfolio/singuli/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Singuli white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Singuli founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/singuli/__se0BfIPl7Ojj4V8-tIVwA_bOt-_vdMp0nIN2UhtCWms",
+    "https://palle.substack.com/p/the-1b-dollar-single-person-company",
+    "https://fi.co/insight/solocorn-companies-real-examples-of-one-person-businesses-built-with-ai",
+    "https://www.linkedin.com/posts/henrythe9th_theres-a-founder-who-generates-1b-in-arr-activity-7301243523054329857-WCj9",
+    "https://www.instagram.com/reel/DZKeguyJ9aT/",
+    "https://startupsavant.com/news/singuli",
+    "https://getlatka.com/companies/inicio.ai",
+    "https://gaps.com/recruiting/",
+    "https://seekingalpha.com/news/4647687-this-ai-startup-has-14-employees-and-a-10b-valuation",
+    "https://compworth.com/company/singuli"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Singuli",
+   "results": [
+    "https://note.com/diaspora7093/n/n480d2ba04bf6",
+    "https://note.com/kagefumimaru/n/n5538beb8a113",
+    "https://note.com/diaspora7093/m/mfb48b96c9b33",
+    "https://note.com/kaisou_ja/n/nc83da117cb0f",
+    "https://note.com/pilgrim_camino/n/ncd8e66920c81/comments",
+    "https://note.com/amaomao/n/n6efdd25d9d55",
+    "https://note.com/alfred_scribe/n/nd38d556f3fae",
+    "https://note.com/nitrosooxy/n/nc61a4b4b3da1",
+    "https://note.com/pilgrim_camino/n/ncd8e66920c81",
+    "https://note.com/gotshu/n/nf9ad4513fc91"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Singuli",
+   "results": [
+    "https://x.com/minator261285/status/2116075650683658732",
+    "https://x.com/MinisteroDifesa/status/1754055671597744476",
+    "https://x.com/SuscaNicola/status/2112981722190979430",
+    "https://x.com/gouvbenin/status/1770850791202385922",
+    "https://x.com/SuscaNicola/status/2112949420215934985",
+    "https://x.com/SuscaNicola/status/2113247496495345756",
+    "https://x.com/latinedisce/status/1969091514350391376",
+    "https://x.com/Pontifex_ln",
+    "https://x.com/SuscaNicola/status/2112981832429936923",
+    "https://x.com/markmanning"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Singuli",
+   "results": [
+    "https://www.linkedin.com/company/singuli",
+    "https://ca.linkedin.com/in/thierrybertinmahieux",
+    "https://www.linkedin.com/in/kelly-bain-95411791",
+    "https://hr.linkedin.com/in/sandracencic",
+    "https://www.linkedin.com/in/sky-riggs",
+    "https://www.linkedin.com/in/bhavna-gupta-17b819137",
+    "https://hr.linkedin.com/in/dubravko-trkulja-0074441b",
+    "https://www.linkedin.com/in/aaronmittman",
+    "https://fr.linkedin.com/pulse/laction-sociale-ut-singuli-action-exerc%C3%A9e-par-un-au-marc-o0pye",
+    "https://hr.linkedin.com/company/singuli-d-o-o-"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Singuli",
+   "results": [
+    "https://www.facebook.com/singuli.hr/",
+    "https://www.facebook.com/groups/LearningLatin/posts/25945128435078893/",
+    "https://www.facebook.com/daniel.bilic.5/posts/dajem-savjet-i-tra%C5%BEim-jedandavanje-ne-kupovati-philips-ure%C4%91aje-jer-se-ina%C4%8De-mora/10232734362394371/",
+    "https://www.facebook.com/MojPosao/posts/singuli-doo-za-trgovinu-i-usluge-zapo%C5%A1ljava-prodava%C4%8D-prijem-m%C5%BE-mjesto-rada-zagre/1647957886903238/",
+    "https://www.facebook.com/61586754596860/posts/mimi-nimulevi-sambi-munichokoze-namwe-musikire-raha-makomo-genuni-singuli-be-vin/122141356659225153/",
+    "https://www.facebook.com/100028611115313/photos/1118438932453133/",
+    "https://www.facebook.com/learnfrench4free/videos/conte-comte-compte-what-is-the-difference%EF%B8%8F-learn-french-with-moh-and-alain-frenc/2776772845826475/",
+    "https://www.facebook.com/vinjomo.iny/videos/1150575094063627/",
+    "https://www.facebook.com/groups/sikhmilitaryhistoryforum/posts/25642914471962907/",
+    "https://www.facebook.com/100028611115313/posts/1677887933174894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Singuli note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://x.com/sadaaki",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Singuli X 投稿",
+   "results": [
+    "https://x.com/suminoze/status/1733268189805474048",
+    "https://www.singulie.com/",
+    "https://sinis-x.tetemarche.co.jp/",
+    "https://note.com/funyakin/n/n1d3eef269a91",
+    "https://x.com/minator261285/status/2116075650683658732",
+    "https://www.yomiuri.co.jp/election/sangiin/20250712-OYT1T50095/",
+    "https://www.instagram.com/xosumix/",
+    "https://www.maxmouse.co.jp/tips/2024/0620_1/",
+    "https://www.xosumix.com/",
+    "http://www.singuli.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

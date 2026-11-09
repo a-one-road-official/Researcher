@@ -1,0 +1,500 @@
+{
+ "name": "MakeAdditive — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:41:20.885490+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/voxelmatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://makeadditive.com/en/collections/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/additive-manufacturing-market-report-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vKN1qHdk0UCMJH2dkrPiZ8Z2FTkw_ZjWc8zVQ-V7CZoKzmRlQMs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81_%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://makeadditive.com/en?srsltid=AYCX9vLcnEW4xr_VYUegbusIr48Dso3e9bHlQhHMOrRDp7jJOsKSQf_v",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/%E3%82%B3%E3%83%BC%E3%83%81/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E8%80%90%E7%86%B1+%E6%89%8B%E8%A2%8B+%E8%96%84%E6%89%8B/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MakeAdditive — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://makeadditive.com/en?srsltid=AYCX9vKcu9deQzeRDRGQrGHthqI5IpeyMsPpuIf-lFZLFuixyIB3OCTo",
+    "https://www.voxelmatters.report/database/",
+    "https://makeadditive.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://makeadditive.com/en/collections/all",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://kpopusaonline.com/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://voxel.shop/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.report/product/additive-manufacturing-market-report-2025/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://makeadditive.com/en/search"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vKN1qHdk0UCMJH2dkrPiZ8Z2FTkw_ZjWc8zVQ-V7CZoKzmRlQMs",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81_%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://shop.exmatelab.com/",
+    "https://creator.holoearth.com/shop/products/1020800",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://kinofu.com/uvresin-guide2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://makeadditive.com/en?srsltid=AYCX9vLcnEW4xr_VYUegbusIr48Dso3e9bHlQhHMOrRDp7jJOsKSQf_v",
+    "https://www.upnano.com/distributors/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.3dnatives.com/en/events/tct-japan/",
+    "https://www.cometrue3d.com/en/contact/authorized-distributors",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "https://www.3dnatives.com/en/events/tct-japan/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp MakeAdditive — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://www.amazon.co.jp/stores/コーチ/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "https://kdp.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://pay.amazon.co.jp/signin",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/プレイマット-ベビープレイマット-シームレスプレイマット-マット【ホワイト-70x120】/dp/B0GR5FPNTM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com MakeAdditive — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/k/store/耐熱+手袋+薄手/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/k/store/電動ドリル/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/02888688/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/database/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.precedenceresearch.com/additive-manufacturing-market",
+    "https://revenuebase.ai/companies/browse/3d-additive-manufacturing-companies",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com MakeAdditive — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/analogmanx1/n/nb69b748d7b96?hl=en",
+    "https://note.com/witty_eel374/n/n4efd421561eb?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/watarutida/n/n75017e960add"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MakeAdditive — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/AirtechOfficial",
+    "https://x.com/MaximumADHD/status/2119088132410814936",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/loktar00/status/2082336275177119771",
+    "https://x.com/blueemi99/status/2102511304456212763"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MakeAdditive — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/stratasys",
+    "https://it.linkedin.com/in/dariocatanese",
+    "https://www.linkedin.com/in/erion-hasa-523227102",
+    "https://www.linkedin.com/posts/havekost_off-the-shelf-eos-systems-are-highly-capable-activity-7508153266896224256-pFsV",
+    "https://il.linkedin.com/in/galitmendelson",
+    "https://cn.linkedin.com/in/renjiaqi",
+    "https://www.linkedin.com/in/matthew-lewis-pmp-ithaca",
+    "https://www.linkedin.com/in/sophiealynch",
+    "https://kr.linkedin.com/in/williamsungjoojung/en",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com MakeAdditive — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/",
+    "https://www.facebook.com/VoxelMatters/posts/dmc-and-dyemansion-collaborate-to-provide-polymer-am3dprinting-additivemanufactu/1716322958539822/",
+    "https://www.facebook.com/VoxelMatters/videos/not-every-opening-gets-an-electric-unicycle-entrance-this-one-didvoxelmatters-tr/4418310308426998/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.group/",
+    "https://www.voxelmatters.com/author/davidesher/",
+    "https://x.com/VoxelMatters",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.linkedin.com/pub/dir/davide/sher"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MakeAdditive — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.youtube.com/watch?v=nJiE6znRmWI",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

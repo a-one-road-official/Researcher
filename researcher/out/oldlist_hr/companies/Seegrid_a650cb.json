@@ -1,0 +1,1374 @@
+{
+ "name": "Seegrid",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T21:30:48.796976+00:00",
+ "official_url": "https://seegrid.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ City",
+    "value": "Pittsburgh, PA",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Revolutionizing material handling automation with innovative efficiency, productivity, and ROI",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid’s Fleet Central software provides customers with a user-friendly fleet management interface to allow for easily orchestrated AMR workflows within their facility.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet Central is an advancement of the same proven software that was introduced as Seegrid’s foundational fleet management and analytics platforms: Fleet Geek and Supervisor. Learn more about them below.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry’s most comprehensive end-to-end autonomous solution for the most critical workflows",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive service and support for optimal AMR performance with maximum uptime",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid offers comprehensive AMR solutions tailored to your facility’s unique needs.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", and proven automation ROI.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize facility workflows and transform material handling with Seegrid AMRs, enhancing productivity and reducing costs through seamless, connected autonomous solutions.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most proven and battle-tested form factor, Seegrid's Autonomous Tow Tractor holds #1 market share in the U.S.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "step of automation. Our team provides",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "expert consultation, project planning, route configuration, deployment, and ongoing support",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower Your Workforce",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your team to focus on higher-value tasks while reducing costs and improving productivity. Seegrid AMRs offer manufacturing facilities the ability to keep production processes moving while lowering the risk of injury, improving efficiencies, and strengthening overall worker satisfaction.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How AMRs Improve Workplace Safety and Labor Efficiency",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Zulily we are constantly changing, whether it’s where materials are stowed or when we add new equipment. Seegrid has provided us with a flexible solution that can be implemented quickly while optimizing human labor.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With rising expectations for flawless, immediate order fulfillment, Seegrid AMRs provide customers with safe, reliable, and efficient warehouse operations for an unmatched competitive edge. Embrace the future of automation and stay ahead in the industry.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In a world where faster and cheaper deliveries are in high demand, Seegrid AMRs deliver reliable and predictable handling for any logistics operation. Experience seamless integration and future-proof your logistics strategy with our advanced autonomous solutions.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictable & Flexible Navigation: GRID Engine & LiDAR SLAM",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". This hybrid approach ensures predictable routing for long hauls and flexible navigation in crowded spaces—resulting in",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Fleet Management Software",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid's next generation enterprise software platform,",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "—providing data-driven fleet insights for continuous workflow improvement and performance.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "hybrid approach that adapts to the specific needs of the application at hand. By combining AGV-like predictability for repetitive, long-haul routes using our",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", with AMR-like agility while handling local pallet manipulation tasks, Seegrid has pioneered a solution where our autonomous lift trucks are optimized to provide AGV reliability in an AMR.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionizing material handling automation with innovative efficiency, productivity, and ROI",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid’s Fleet Central software provides customers with a user-friendly fleet management interface to allow for easily orchestrated AMR workflows within their facility.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet Central is an advancement of the same proven software that was introduced as Seegrid’s foundational fleet management and analytics platforms: Fleet Geek and Supervisor. Learn more about them below.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry’s most comprehensive end-to-end autonomous solution for the most critical workflows",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive service and support for optimal AMR performance with maximum uptime",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid offers comprehensive AMR solutions tailored to your facility’s unique needs.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid offers comprehensive",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "tailored to your facility's unique needs. From initial consultation and project planning, to route and task configuration, to fleet deployment and",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet Central enterprise fleet management software",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven by millions of",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": ", Seegrid leads the market with the lowest cost of ownership and delivers ROI from day one.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your workforce by shifting manual labor to value-added tasks, while our AMRs handle the repetitive work.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "WE KEEP PRODUCTION PROCESSES MOVING",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "profitability in manufacturing",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": ". To stay competitive, you must reduce costs while maintaining top safety standards. Seegrid AMRs offer a proven",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Adhere to strict safety standards without compromising productivity",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost My Profitability",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Increasing demand for reliable, low-cost, “need it sooner” delivery means logistics providers need to",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "material handling requirements with unmatched predictability",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce operational bottlenecks and improve throughput",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation was the easiest process of any capital investment I've ever done in my career in manufacturing.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement Manager, Sumitomo Drive Technologies",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionize your material workflows with Seegrid's innovative and comprehensive",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "that work. Experience best-practice consultation, real-world deployment expertise, and",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionizing material handling automation with innovative efficiency, productivity, and ROI",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid’s Fleet Central software provides customers with a user-friendly fleet management interface to allow for easily orchestrated AMR workflows within their facility.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet Central is an advancement of the same proven software that was introduced as Seegrid’s foundational fleet management and analytics platforms: Fleet Geek and Supervisor. Learn more about them below.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry’s most comprehensive end-to-end autonomous solution for the most critical workflows",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive service and support for optimal AMR performance with maximum uptime",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid offers comprehensive AMR solutions tailored to your facility’s unique needs.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Proven Solution for Manufacturing",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient material movement is key to manufacturing profitability. To stay competitive, you need to",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "cut costs without compromising safety",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "industrial material handling",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "reliable AMRs built for busy, changing industrial environments.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Low-lift applications across industrial manufacturing and warehousing environments",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy manufacturing environments",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All industrial environments, including warehousing, manufacturing, and logistics",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "automotive and heavy manufacturing",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your team to focus on higher-value tasks while reducing costs and improving productivity. Seegrid AMRs offer manufacturing facilities the ability to keep production processes moving while lowering the risk of injury, improving efficiencies, and strengthening overall worker satisfaction.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Industrial Engineer, Zulily",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With rising expectations for flawless, immediate order fulfillment, Seegrid AMRs provide customers with safe, reliable, and efficient warehouse operations for an unmatched competitive edge. Embrace the future of automation and stay ahead in the industry.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance Your Warehouse Operations",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "easy warehouse software interoperability",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid AMRs are revolutionizing material handling across manufacturing, warehousing, and logistics. Supporting more than 50 global brands, Seegrid automates up to 80% of non-conveyed material moves, reducing inventory requirements by up to 30%. Let's explore the future of",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "is an industrial vehicle that uses onboard artificial intelligence, sensors, and mapping technology to navigate facilities independently. Unlike traditional systems or manual forklifts, AMRs understand their environment in real time. They safely transport materials, pallets, and carts around dynamic facilities without requiring human operators or infrastructure modifications. Seegrid's",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "automates up to 80% of non-conveyed material moves across manufacturing, warehousing and logistics facilities.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used for parts-to-line delivery, material transport, and removing finished goods from production lines.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "profitability in manufacturing",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "MEET EVOLVING WAREHOUSE NEEDS",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "is expected, the need for warehouse operators to find better ways to seamlessly orchestrate their material handling operations is becoming more crucial. With Seegrid AMRs, you can rest assured that your facility can run safely and reliably every hour of every day for",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize My Warehouse",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid’s technology is extremely reliable, easy for our operators to use, and ultimately enables us to reduce costly variability in our operations.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation was the easiest process of any capital investment I've ever done in my career in manufacturing.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid AMRs are revolutionizing material handling across manufacturing, warehousing, and logistics. Supporting more than 50 global brands, Seegrid automates up to 80% of non-conveyed material moves, reducing inventory requirements by up to 30%. Let's explore the future of",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "How Manufacturers Can Prepare For A More Dynamic Future",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Automation Made Easy",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Mobile Robots for Manufacturing Facilities | Seegrid",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Proven Solution for Manufacturing",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient material movement is key to manufacturing profitability. To stay competitive, you need to",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch A Manufacturing Workflow Demo",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid helps manufacturers automate palletized material flow with Autonomous Mobile Robots (AMRs) that transport heavy manufacturing payloads safely across production environments.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": ", these robots operate in dynamic facilities without added infrastructure, supporting continuous production and reducing bottlenecks. Seegrid AMRs improve throughput, reduce labor constraints, and integrate with existing workflows to enable scalable, flexible manufacturing operations.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid AMRs revolutionize your manufacturing floor by",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize factory floor efficiency with Seegrid AMRs—designed to streamline material flow, cut idle time, and deliver measurable ROI, all while meeting the rising demands of modern manufacturing.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid AMRs Power the Largest Manufacturing Facilities in the World",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless Autonomy in Action: Manufacturing Workflow Demo",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how the Lift CR1, Lift RS1, and Tow Tractor S7 work together to enhance cart loading and unloading, as well as multi-level picking and dropping—all utilizing fixtures commonly found in manufacturing facilities.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Manufacturing",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Finished Goods to Warehouse",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "that are engineered, assembled, and supported in the United States—trusted by the world’s leading manufacturing and warehousing brands to perform reliably in complex,",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "demanding production and warehouse and manufacturing environments",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed and supporting some of the world’s most demanding industrial operations.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Strong, supportive, and dedicated, Seegrid is a team of energetic and friendly people focused on helping companies transform into smart factories with materials handling equipment of the future. Our core values guide our actions, keep us accountable to our commitments, and help us do our best work.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid AMRs are built for modern facilities with mixed fleets, human operators, and evolving workflows. Designed for reliable performance in hybrid environments, they integrate seamlessly, scale across sites, and are backed by U.S.-based deployment and support teams committed to long-term success.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid is founded by renowned roboticist, Hans Moravec, bringing vision-guided autonomy out of the lab and into warehouses and manufacturing facilities.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid commercialized the Grid Engine, bringing 3D occupancy grid mapping to industrial autonomy-technology that has since become industry standard.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Tow Tractor AMR deployed for manufacturing and warehouse environments, providing infrastructure-free autonomy that works at scale.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Second lift truck AMR, the Lift CR1, hits the stage bringing next-gen vertical automation and advanced sensing to complex, industrial workflows.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "A licensed Professional Engineer and father of five, Chris holds a BSE in Mechanical and Aerospace Engineering from Princeton University, as well as MSE and MBA degrees from the University of Michigan, Ann Arbor. Outside of work, he enjoys coaching youth sports and academic teams, playing tennis and trumpet, and traveling.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Abe is responsible for overseeing Seegrid’s day-to-day operations, including supply chain, quality, manufacturing, customer deployments, and after-sale customer service and success.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce bottlenecks, improve throughput, and optimize resources for full warehouse efficiency",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Top Industry Leaders",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "complex manufacturing and warehousing automation",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "Gives industrial engineers and facility managers actionable data to identify inefficiencies, optimize facility layouts, and increase overall throughput.",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "Allows facility operators to check battery status, assign jobs, and view task completions in real-time.",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Fleet Central require me to replace my existing warehouse management software?",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Fleet Central is designed to act as a bridge, not a replacement. It uses standard APIs to seamlessly integrate with your existing Warehouse Management System (WMS), Enterprise Resource Planning (ERP), or Manufacturing Execution System (MES), allowing your current software to automatically trigger AMR tasks.",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Fleet Central manage robots from other manufacturers?",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We've been able to take employees in our facilitity who were doing more mundane work and position them in more value added roles—and let the Seegrid AMRs do the work.",
+    "url": "https://seegrid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've been able to take employees in our facility who were doing more mundane work and position them in more value-added roles—and let the Seegrid AMRs do the work.",
+    "url": "https://seegrid.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Seegrid AMRs pick goods from a wrapper, conveyor, or anywhere finished goods are being held. They then haul the payload to the correct part of the facility to be placed on a rack or in floor storage for safe, seamless, and reliable delivery of goods.",
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "He plays a key role in driving financial discipline and strategic growth initiatives that support the company’s mission to deliver safe, flexible, and reliable autonomous solutions for material handling. He is known for his ability to navigate rapid expansion, mergers and acquisitions, and operational excellence with a focus on long-term value creation.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "David is responsible for driving the company's nationwide sales strategy, revenue growth, and customer success across all business lines and channels.",
+    "url": "https://seegrid.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Company",
+    "url": "https://seegrid.com/fleet-central/",
+    "pass": 1
+   },
+   {
+    "quote": "We foster a culture where teamwork and continuous learning thrive. Employees across every role-from engineering and software to operations and business functions-support one another while pushing the boundaries of autonomous technology.",
+    "url": "https://seegrid.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Safety, accountability, and mutual respect are the foundation of everything we do, creating an environment where employees feel empowered, connected, and inspired to make a difference.",
+    "url": "https://seegrid.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AMR solutions are precisely customized to meet your facility's unique needs, driving maximum efficiency and productivity from day one. With this solid foundation, we’re ready to begin a seamless implementation process as soon as your AMRs arrive.",
+    "url": "https://seegrid.com/service-and-support/",
+    "pass": 1
+   },
+   {
+    "quote": "We've been able to take employees in our facility who were doing more mundane work and position them in more value-added roles—and let the Seegrid AMRs do the work.",
+    "url": "https://seegrid.com/autonomous-mobile-robots/lift-cr1-amr/",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting VDA5050 is part of Seegrid’s broader commitment to building flexible, scalable autonomous solutions that evolve with our customers’ needs. Interoperability is an essential contributor to successful autonomy, and we’re excited to help lead this important industry shift.",
+    "url": "https://seegrid.com/autonomous-mobile-robots/lift-cr1-amr/",
+    "pass": 1
+   },
+   {
+    "quote": "また、Berkshire GreyはSPAC上場の計画を明らかにしており、同社の評価額は27億ドルに達する見込みだ",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "現在52歳のRockは、Vocollect Healthcare（現ハネウェル子会社）の元社長だ",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   },
+   {
+    "quote": "To view Seegrid’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid has 229 total employees.",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   },
+   {
+    "quote": "What is Seegrid’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Seegrid is",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   },
+   {
+    "quote": "The company continued expanding, landing later investments like $25 million from G2VP to accelerate product introductions and hiring amid strong 2019 revenue performance.",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Acquisitions by",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Box Robotics was a Philadelphia-based mobile robotics startup. It built autonomous mobile robots for warehouse and manufacturing work, using 3D lidar, high-definition maps and deep learning. Seegrid, a Pittsburgh maker of self-driving industrial vehicles, acquired it in 2020.",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "acquisitions and their M&A valuation multiples.",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid competitors include listed companies like Systems Engineering and Risong Technology, and private ones like Lumaril, VisionNav Robotics, Kingsware and Leapwork.",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Is Seegrid publicly listed?",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "How many companies has Seegrid acquired?",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid has acquired 1 company, including",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Eコマースを支える「自動運転フォークリフト」Seegridの成長戦略 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN サイトメンテナンスのお知らせ（2026年11月10日（火）18:00〜）",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマースを支える「自動運転フォークリフト」Seegridの成長戦略 (Forbes JAPAN)",
+    "url": "https://newspicks.com/news/5700703/",
+    "pass": 3
+   },
+   {
+    "quote": "【新兆候】日本の95％が、「新AI格差」に気づいていない",
+    "url": "https://newspicks.com/news/5700703/",
+    "pass": 3
+   },
+   {
+    "quote": "次の大地震へエネルギー再蓄積 日本海溝沿い、プレート境界固着―東北大など",
+    "url": "https://newspicks.com/news/5700703/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Seegrid : Autonomous Mobile Robots (AMR) Solutions — Seegrid : Autonomous Mobile Robots (AMR) Solutions Seegrid https://seegrid.com",
+    "url": "https://seegrid.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマースを支える「自動運転フォークリフト」 Seegrid の ... — Eコマースを支える「自動運転フォークリフト」 Seegrid の ... Forbes JAPAN https://forbesjapan.com > ビジネス",
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "pass": 3
+   },
+   {
+    "quote": "Eコマースを支える「自動運転フォークリフト」 Seegrid の ... — Eコマースを支える「自動運転フォークリフト」 Seegrid の ... NewsPicks https://newspicks.com > news",
+    "url": "https://newspicks.com/news/5700703/",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid の資金調達・投資家情報 | 海外スタートアップ — Seegrid の資金調達・投資家情報 | 海外スタートアップ FIRST CVC https://www.firstcvc.jp > global > seegrid",
+    "url": "https://www.firstcvc.jp/global/seegrid.com",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid - LinkedIn — Seegrid - LinkedIn LinkedIn https://www.linkedin.com > seegrid",
+    "url": "https://www.linkedin.com/company/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid & Applied Intuition to accelerate material handling — Seegrid & Applied Intuition to accelerate material handling Applied Intuition https://www.appliedintuition.com > se...",
+    "url": "https://www.appliedintuition.com/press-releases/seegrid-amr",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid - YouTube — Seegrid - YouTube YouTube https://www.youtube.com > Seegrid",
+    "url": "https://www.youtube.com/Seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid | MHI Member Company — Seegrid | MHI Member Company MHI.org https://www.mhi.org > members",
+    "url": "https://www.mhi.org/members/27139",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid AMRs Transform Material Handling for Sumitomo ... — Seegrid AMRs Transform Material Handling for Sumitomo ... Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20220420005195/en/Seegrid-AMRs-Transform-Material-Handling-for-Sumitomo-Drive-Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid AMRs are Revolutionizing Material Handling - YouTube — Seegrid AMRs are Revolutionizing Material Handling - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=8ezRRUXsc1I",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid Acquires Box Robotics | 2020-10-07 — Seegrid Acquires Box Robotics | 2020-10-07 SupplyChainBrain https://www.supplychainbrain.com > ...",
+    "url": "https://www.supplychainbrain.com/technology/all-technology/article/15870328/seegrid-acquires-box-robotics-2020-10-07",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid 2026 Company Profile: Valuation, Funding & Investors — Seegrid 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   },
+   {
+    "quote": "Company - Seegrid — Company - Seegrid Seegrid https://seegrid.com > company",
+    "url": "https://seegrid.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid Valuation, Funding & Investors - Multiples.vc — Seegrid Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid - 2026 Company Profile, Team, Funding & Competitors — Seegrid - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/seegrid/__z_4Sa8wJxt3gta8jXXbVQVYCeAvrq28-Zfz5ePVyiYE",
+    "pass": 3
+   },
+   {
+    "quote": "News: Seegrid Closes $52 Million in Growth Equity Financing — News: Seegrid Closes $52 Million in Growth Equity Financing A3 Association for Advancing Automation https://www.automate.org > news > se...",
+    "url": "https://www.automate.org/robotics/news/seegrid-closes-52-million-in-growth-equity-financing",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Seegrid - LinkedIn Seegrid - LinkedIn LinkedIn https://www.linkedin.com > seegrid",
+    "url": "https://www.linkedin.com/company/seegrid",
+    "pass": 3
+   },
+   {
+    "quote": "Seegrid : Jobs - LinkedIn Seegrid : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/seegrid/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "John Spletzer - VP of Robotics at Seegrid - LinkedIn John Spletzer - VP of Robotics at Seegrid - LinkedIn LinkedIn https://www.linkedin.com > john-sple...",
+    "url": "https://www.linkedin.com/in/john-spletzer",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Seegrid names Chris Baker CEO - Pittsburgh - Facebook Seegrid names Chris Baker CEO - Pittsburgh - Facebook Facebook https://www.facebook.com > PghBizTimes > posts > seegr...",
+    "url": "https://www.facebook.com/PghBizTimes/posts/seegrid-backed-by-giant-eagle-names-chris-baker-ceo-replacing-joe-pajer-who-stay/1303350721804303/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://seegrid.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/fleet-central/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/industries/warehousing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/industries/logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/autonomous-mobile-robots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/service-and-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seegrid.com/autonomous-mobile-robots/lift-cr1-amr/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20129'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "https://seegrid.com/industries/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://forbesjapan.com/articles/detail/40349",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/5700703/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/seegrid.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/seegrid.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/5700703/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.circuitdesign.jp/company/overseas_sales_agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/seegrid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.appliedintuition.com/ja/press-releases/seegrid-amr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/Seegrid",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appliedintuition.com/ja/press-releases/seegrid-amr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20220420005195/en/Seegrid-AMRs-Transform-Material-Handling-for-Sumitomo-Drive-Technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=8ezRRUXsc1I",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/454816-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/seegrid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/seegrid/__z_4Sa8wJxt3gta8jXXbVQVYCeAvrq28-Zfz5ePVyiYE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/seegrid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/seegrid/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/john-spletzer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PghBizTimes/posts/seegrid-backed-by-giant-eagle-names-chris-baker-ceo-replacing-joe-pajer-who-stay/1303350721804303/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/seegrid",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Seegrid 日本 導入",
+   "results": [
+    "https://seegrid.com/",
+    "https://forbesjapan.com/articles/detail/40349",
+    "https://newspicks.com/news/5700703/",
+    "https://www.firstcvc.jp/global/seegrid.com",
+    "https://www.youtube.com/watch?v=gSSu5KEhztA",
+    "https://japan.zdnet.com/article/35173743/",
+    "https://pando.life/article/4780150",
+    "https://www.facilitysystem.com/ja/brands/seegrid/",
+    "https://www.fdatabot.com/ja/best-20-mobile-robot-manufacturers-and-suppliers-worldwide/",
+    "https://ja.mfgrobots.com/mfg/acs/1007019804.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Seegrid 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://seegrid.com/",
+    "https://www.firstcvc.jp/global/seegrid.com",
+    "https://newspicks.com/news/5700703/",
+    "https://www.circuitdesign.jp/company/overseas_sales_agent/",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.proface.com/ja/support/distributor",
+    "https://www.tesollo.com/jp/partners",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=9181",
+    "https://xelarobotics.jp/distributors/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Seegrid Japan",
+   "results": [
+    "https://seegrid.com/",
+    "https://www.linkedin.com/company/seegrid",
+    "https://www.appliedintuition.com/press-releases/seegrid-amr",
+    "https://www.youtube.com/Seegrid",
+    "https://www.mhi.org/members/27139",
+    "https://www.mobile-robots.com/manufacturer/seegrid/",
+    "https://www.youtube.com/watch?v=nkm782Dnyqo",
+    "https://pitchbook.com/profiles/company/454816-45",
+    "https://dfmdata.com/directory/seegrid/",
+    "https://seegrid.com/company/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Seegrid manufacturing customer case study",
+   "results": [
+    "https://seegrid.com/",
+    "https://www.appliedintuition.com/press-releases/seegrid-amr",
+    "https://www.businesswire.com/news/home/20220420005195/en/Seegrid-AMRs-Transform-Material-Handling-for-Sumitomo-Drive-Technologies",
+    "https://www.youtube.com/watch?v=8ezRRUXsc1I",
+    "https://www.supplychainbrain.com/technology/all-technology/article/15870328/seegrid-acquires-box-robotics-2020-10-07",
+    "https://web.luxresearchinc.com/hubfs/IIoT_Case_Study_Sight_Machine.pdf?t=1539100692450",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJUitN3lb64-SRXfiBQSgPOSPxI6ZKkbsAIEmCELsTvqpkWBGWj",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.insightsoftware.com/resources/case-studies",
+    "https://www.casestudies.com/company/seegrid/case-study/boeing-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Seegrid white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://seegrid.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Seegrid founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/454816-45",
+    "https://seegrid.com/company/",
+    "https://multiples.vc/private-comps/seegrid",
+    "https://tracxn.com/d/companies/seegrid/__z_4Sa8wJxt3gta8jXXbVQVYCeAvrq28-Zfz5ePVyiYE",
+    "https://www.automate.org/robotics/news/seegrid-closes-52-million-in-growth-equity-financing",
+    "https://www.smartbusinessdealmakers.com/articles/topic/seegrid-lands-funding-from-giant-eagle-g2-venture-partners/",
+    "https://www.dcvelocity.com/articles/47160-seegrid-has-landed-52-million-since-march-for-agvs",
+    "https://getlatka.com/companies/seegrid.com",
+    "https://settervc.com/company/seegrid",
+    "https://compworth.com/company/seegrid"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Seegrid",
+   "results": [
+    "https://note.com/bookkeeping_1/n/ndf1ecbcdc106?hl=en",
+    "https://note.com/qy_research/n/n2afca53e88ed",
+    "https://note.com/qy_research/n/nafbe6805c1cf",
+    "https://note.com/deemo_0v0/n/n28f2e10159c4?hl=en",
+    "https://note.com/sankituushin/n/nbbc31581f053?hl=en",
+    "https://note.com/nagomi_game/n/ne99ac9ea446e?hl=en",
+    "https://note.com/qy_research/n/nafbe6805c1cf?hl=ko",
+    "https://note.com/hakuou_robotics/n/nea22de2820da",
+    "https://note.com/tag/日付シート",
+    "https://note.com/diparururun"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Seegrid",
+   "results": [
+    "https://x.com/Phantom_Izuku/status/2119521775373758502",
+    "https://x.com/StockMKTNewz/status/2102726881665565169",
+    "https://x.com/rubbinisracing/status/1681320570296606720",
+    "https://x.com/TheGhostOfHope/status/1993499134184374545",
+    "https://x.com/SeeGrid909/status/2119012251470544934",
+    "https://x.com/GRIDesports",
+    "https://x.com/G2VPLLC",
+    "https://x.com/armanabdullah28/status/2098072856567681326/photo/2",
+    "https://x.com/Highcharts",
+    "https://x.com/nickseevers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Seegrid",
+   "results": [
+    "https://www.linkedin.com/company/seegrid",
+    "https://www.linkedin.com/company/seegrid/jobs",
+    "https://www.linkedin.com/in/shawn-durr-a6b17aa2",
+    "https://www.linkedin.com/in/john-spletzer",
+    "https://www.linkedin.com/posts/seegrid_seegrid-lift-el1-autonomous-mobile-robot-activity-7452823365452681216-Wb8V",
+    "https://www.linkedin.com/in/brittanylbyrne",
+    "https://www.linkedin.com/in/clayton-mathis",
+    "https://jp.linkedin.com/company/seegrid?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+    "https://www.linkedin.com/in/davidgriffindeliverresults",
+    "https://www.linkedin.com/posts/seegrid_autonomousmobilerobots-manufacturing-warehousing-activity-7504165361404174336-O4sf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Seegrid",
+   "results": [
+    "https://www.facebook.com/PghBizTimes/posts/seegrid-backed-by-giant-eagle-names-chris-baker-ceo-replacing-joe-pajer-who-stay/1303350721804303/",
+    "https://www.facebook.com/GoLocalProv/posts/mckee-awards-more-than-a-million-dollars-to-seyboth-owned-company-seyboth-is-fac/1688036303324977/",
+    "https://www.facebook.com/srtlabs/",
+    "https://www.facebook.com/RouraMaterialHandling/",
+    "https://www.facebook.com/IDSA.org/posts/tomorrow-join-this-free-idsa-design-research-section-event-with-francine-gemperl/4245406545548443/?locale=ms_MY",
+    "https://www.facebook.com/61570902114112/posts/who-here-would-like-to-see-grid-girls-return-to-motorsport/122160681638696737/",
+    "https://www.facebook.com/groups/1737462746527033/posts/3673948582878430/",
+    "https://www.facebook.com/groups/solaredge/posts/1542250086482413/",
+    "https://www.facebook.com/SilhouetteSchool/posts/anyone-else-squint-and-strain-their-eyes-to-see-grid-numbers-on-the-cutting-mat/1639249896181213/",
+    "https://www.facebook.com/viconsortium/posts/vielectron-claims-highcrest-blocked-a-crucial-tax-credit-sale-and-forced-it-to-s/1097610979071846/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Seegrid note 社長",
+   "results": [
+    "https://seegrid.com/company/",
+    "https://www.therobotreport.com/jim-rock-steps-down-as-seegrid-ceo/",
+    "https://www.agvnetwork.com/news/seegrid-and-raymond-love-story-comes-to-an-end",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.dcvelocity.com/seegrid-to-end-amr-sales-through-raymond",
+    "https://note.com/gridpredict/n/n94d29106d8d7",
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Seegrid X 投稿",
+   "results": [
+    "https://seegrid.com/",
+    "https://www.linkedin.com/company/seegrid",
+    "https://www.youtube.com/Seegrid",
+    "https://www.youtube.com/watch?v=nkm782Dnyqo",
+    "https://www.appliedintuition.com/press-releases/seegrid-amr",
+    "https://www.businesswire.com/news/home/20210629005191/en/Seegrid-Adds-Robots-as-a-Service-RaaS-Subscription-Model",
+    "https://forgeglobal.com/seegrid_ipo/",
+    "https://www.automateshow.com/exhibitors/seegrid-corporation",
+    "https://x.com/seegrid",
+    "https://seegrid.com/company/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部23頁・検索12回）"
+ }
+}

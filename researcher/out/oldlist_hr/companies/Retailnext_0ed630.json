@@ -1,0 +1,1827 @@
+{
+ "name": "Retailnext",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T21:47:45.488275+00:00",
+ "official_url": "https://retailnext.net",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$224M",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Skip to the main content.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext brings together traffic analytics, asset protection, and shopper insights in a single, integrated platform, so your teams spend less time pulling data and more time using it.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate, real-time foot traffic data helps you staff smarter, measure marketing impact, and benchmark performance across locations. No estimates. No guesswork.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your margins.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Our asset protection tools integrate video intelligence and shopper analytics to help LP teams identify loss events, respond faster, and build a stronger case with better evidence.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Asset Protection",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Operations teams use RetailNext to align staffing with real customer demand, reduce wasted labor hours, and improve store-level KPIs. Traffic data replaces assumptions with evidence, making every scheduling decision easier to justify and optimize.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Match staff coverage to peak traffic periods with precision",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your stores and staff with smarter intelligence.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Loss prevention teams rely on RetailNext to connect video intelligence with behavioral analytics, creating a more complete picture of in-store risk. Move from reactive incident response to proactive loss prevention.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Build stronger case files with video-linked event data",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Stock the right products in the right places.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Merchandising teams use shopper path data to evaluate how product placement affects engagement and sales. Understand which fixtures drive interaction, which promotions work, and where to invest floor space for maximum return.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure the impact of product placement changes in real time",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify high-traffic zones to maximize promotional visibility",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing teams use RetailNext to close the loop between digital spend and physical traffic. See how campaigns drive in-store visits, measure the lift from promotions, and build a clearer picture of what actually brings customers through the door.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand seasonal patterns to time promotions more effectively",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Marketing & CX",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Pulse AI is a conversational intelligence layer built directly into the RetailNext platform, giving every member of your team instant access to the insights they need, in plain language, without training or technical know-how. It works in two ways: ask it anything, or let it tell you what matters.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive coaching, not just reporting.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "The RetailNext solution has been central to our store operations, marketing and loss prevention strategies. Our team regularly utilizes the analytics on their portal and the real-time mobile-app to monitor store compliance on a variety of metrics - being able to see live video from any device has been a critical tool for us during COVID.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Research, insights, and practical guides for retail leaders.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Boggi Milano is an Italian brand in the market with 235 stores across more than 61 countries. In 2018, the team sought to improve its analysis of the brand’s store performance and looked to partner with an expert in in-store analytics.",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Randall Meadows On The Current Retail Loss Prevention State of Play",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Retail loss prevention has never been more complex. Omnichannel fulfillment, rising theft, and pressure to keep the shopping experience frictionless have all ...",
+    "url": "https://retailnext.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Program | RetailNext",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to the main content.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join the RetailNext partner ecosystem and offer your customers the world's leading retail analytics platform. Whether you're a technology provider, consulting firm, reseller, or deployment specialist, there's a partnership model built for you. Unlock new revenue streams, access industry-leading support, and go further together.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Add the world's leading retail analytics platform to your portfolio. RetailNext's proven solutions open doors with enterprise retailers across every sector.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From sales enablement and technical training to co-marketing and dedicated partner success management — we invest in your success as much as our own.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext offers four partnership models designed to fit different business types and go-to-market approaches. Explore each below to find the right fit.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Technology Partners are software and platform providers who integrate with the RetailNext Intelligence Platform to deliver enhanced value to mutual customers. Through seamless data sharing and API integrations, Technology Partners extend what's possible with RetailNext — connecting traffic and behavioral data to POS systems, workforce management tools, CRM platforms, and beyond.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Listing in the RetailNext Technology Partner Program",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing and demand generation opportunities",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint PR and thought leadership opportunities",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sales enablement materials and product training",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing and co-selling opportunities",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and technical certification training",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing development funds (MDF) for qualifying partners",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deal registration and pipeline protection",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor Partners are specialist installation, deployment, and field service providers who support the physical rollout of RetailNext's Aurora® sensor network across retail locations. As the backbone of our hardware deployment infrastructure, Vendor Partners play a critical role in ensuring every RetailNext installation meets our industry-leading standards for accuracy and reliability.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing training and certification",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred vendor status for qualifying partners",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Training, materials, and product certification",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint campaigns, content, and demand generation",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Margins, incentives, and deal protection",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "STEP 4 — ONBOARDING",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome session, partner success manager introduction, portal and tooling access, and training scheduled.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored training programs for your partnership type set the foundation for a successful launch.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a cost to join the partner program?",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to the main content.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext is the world's leading retail analytics platform — and we're built by a team of retail professionals, engineers, data scientists, and customer success experts who share a single mission: help physical retailers make smarter decisions through better data. If that sounds like the kind of problem you want to work on, we'd love to hear from you.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Fast-moving and innovative. Ideas become reality quickly at RetailNext — and every team member has direct impact on the product, the platform, and the customers we serve. We move fast, think boldly, and build things that matter.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous learning and growth are core to how we operate. We invest in our people's development through learning programs, conference attendance, speaking opportunities, and genuine internal mobility. Your career path at RetailNext is yours to shape.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Just as every website on earth has a site analytics tool, every physical location will soon have an analytics platform like RetailNext. We use advanced computer vision technology to provide anonymous, accurate data on what happens at physical locations, from retail stores and shopping malls to banks, restaurants, and corporate campuses.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We design and build everything in-house: from the Aurora® sensor to our cloud infrastructure, all the way up to our analytics platform. Our engineering team works on genuinely interesting problems in deep learning, embedded hardware development, distributed systems, cloud infrastructure, and modern web development.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Nationalities represented",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our employees reside in 19+ countries, spanning 17 nationalities, multiple generations, cultures, and backgrounds. We consider our diversity a source of strength and a genuine competitive advantage — and it makes for a pretty great team culture too.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A variety of groups dedicated to diversity, parents, minorities, and more, providing community, support, and a voice within the organization.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A program designed to strengthen relationships across our globally distributed team. Because great culture doesn't happen by accident — we invest in it.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Channel Partner Program | RetailNext",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join the RetailNext partner ecosystem and offer your customers the world's leading retail analytics platform. Whether you're a technology provider, consulting firm, reseller, or deployment specialist, there's a partnership model built for you. Unlock new revenue streams, access industry-leading support, and go further together.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Listing in the RetailNext Technology Partner Program",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller Partners are channel partners who sell, implement, and support RetailNext solutions directly to retail customers. Our reseller network extends RetailNext's reach into markets and geographies where local expertise and relationships matter — enabling retailers worldwide to access industry-leading analytics with the support of a trusted local partner.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a cost to join the partner program?",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Do resellers need to handle their own installations?",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Resellers either install directly or sub-contract to qualified installation vendors, maintaining the same quality standards applied to all RetailNext deployments.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can my company be both a Consulting and a Reseller Partner?",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate, layered data gave Sharaf DG a reliable full-funnel view of shopper, product, and staff interactions, providing the foundation to optimize brand performance and build data-driven partner programs.",
+    "url": "https://retailnext.net/platform/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure Your Brand Shows Up Consistently",
+    "url": "https://retailnext.net/solutions/merchandising",
+    "pass": 1
+   },
+   {
+    "quote": "https://retailnext.net/partner/reseller",
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン展示会 - OEM-PB EXPO | 7月27日(水)-7月29日(金)",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Join the RetailNext partner ecosystem and offer your customers the world's leading retail analytics platform. Whether you're a technology provider, consulting firm, reseller, or deployment specialist, there's a partnership model built for you. Unlock new revenue streams, access industry-leading support, and go further together.",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock New Revenue Streams",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Local market development and customer acquisition",
+    "url": "https://retailnext.net/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Employees across 19+ countries",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our employees reside in 19+ countries, spanning 17 nationalities, multiple generations, cultures, and backgrounds. We consider our diversity a source of strength and a genuine competitive advantage — and it makes for a pretty great team culture too.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical insurance. Generous vacation and parental leave policies. We believe rest and recovery are part of doing great work.",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner",
+    "url": "https://retailnext.net/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce shrink and protect revenue — real-time loss prevention intelligence powered by the same sensor network.",
+    "url": "https://retailnext.net/platform/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Visualize exactly how shoppers move through your store. Identify dead zones, optimize new arrivals placement, and ensure your highest-margin categories get the traffic they deserve.",
+    "url": "https://retailnext.net/solutions/apparel-footwear",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor private showing room occupancy and wait times. Ensure appointment-based and walk-in customers both receive timely attention — and that your highest-revenue sales opportunities are never lost to scheduling gaps.",
+    "url": "https://retailnext.net/solutions/jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "In high-frequency, low-value environments, small improvements in items per transaction translate to significant revenue. RetailNext tracks which merchandising placements and promotional approaches actually drive multi-item purchases.",
+    "url": "https://retailnext.net/solutions/convenience-stores",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to Maximize Revenue",
+    "url": "https://retailnext.net/solutions/convenience-stores",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud-based video monitoring with POS integration. Investigate incidents quickly, track high-risk transactions, protect employees from workplace incidents, and reduce shrink across every location in your network.",
+    "url": "https://retailnext.net/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext counts guests with the same 95–99% accurate Aurora® sensors used in retail, applied to restaurant entrances and zones — capturing arrivals by daypart and day of week so you can forecast demand and staff to it, whether it's a quick-service rush or a dinner service.",
+    "url": "https://retailnext.net/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext Asset Protection provides cloud-based video monitoring integrated with POS data — flagging high-risk transactions, speeding incident investigation, and helping protect employees and reduce shrink across every location, from a single restaurant to a large multi-unit network.",
+    "url": "https://retailnext.net/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Turn Your Data Into Revenue",
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "pass": 1
+   },
+   {
+    "quote": "The traffic intelligence you gather is valuable to your tenants. Offer analytics as a value-added service, create new revenue streams from your data assets, and strengthen tenant relationships through shared performance insights.",
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "pass": 1
+   },
+   {
+    "quote": "Offer traffic insights to your tenants as a value-added service. Create new revenue streams, strengthen tenant relationships, and differentiate your property by giving retailers the data they need to optimize their own performance.",
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can offer tenants traffic and performance insights for their zones as a value-added service — creating a new revenue stream, strengthening tenant relationships, and helping retailers optimize their own performance with your property's data.",
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "pass": 1
+   },
+   {
+    "quote": "ROI comes from stronger leasing negotiations (validated zone value), proven marketing attribution, safer occupancy management, and new tenant-analytics revenue streams. RetailNext's scale — 600+ retailers across 100+ countries — underpins the benchmarking that makes those decisions credible.",
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "pass": 1
+   },
+   {
+    "quote": "Surface conversion opportunities before they become patterns of missed revenue",
+    "url": "https://retailnext.net/solutions/store-operations",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing teams spend significant budget driving customers to stores, but most can't prove that the traffic actually arrived, let alone whether it converted. RetailNext closes the loop.",
+    "url": "https://retailnext.net/solutions/marketing-cx",
+    "pass": 1
+   },
+   {
+    "quote": "Understand whether promotions drive new customer acquisition or cannibalize existing demand",
+    "url": "https://retailnext.net/solutions/marketing-cx",
+    "pass": 1
+   },
+   {
+    "quote": "Managers gained instant, phone-based visibility into occupancy, replacing manual counting and freeing teams to focus on the guest experience. True foot-traffic data became a new input to staffing decisions and to AI/ML forecasting models alongside historical revenue and weather, while transparency across all 177 stores enabled performance benchmarking and best-practice sharing between locations.",
+    "url": "https://retailnext.net/resources/case-studies/case-study-dave-and-busters-2025?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "As a contemporary retailer that prides itself on producing high-quality products, Camper was looking to provide its store employees with high-quality store data to enhance the in-person experience and drive its global store performance.",
+    "url": "https://retailnext.net/resources/case-studies?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Check your inbox — your summary will arrive shortly. If you'd like to speak with our team, we're ready when you are.",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Aurora® hardware warranty",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware replacements and technician visits for covered warranty events,",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Aurora® Sensor Warranty",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext Revenue 2025: $35.2M Est., $224M Raised",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext was acquired.",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext has not published its revenue. GetLatka estimates it at about $35.2M a year (July 2025).",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext CEO & employees",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "Alexei Agratchev was CEO of RetailNext. RetailNext had 320 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "What was RetailNext's revenue?",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates RetailNext's revenue at about",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "across six funding rounds before it was acquired. The last was a $42M Corporate round in May 2021.",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does RetailNext have?",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "employees in July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "WHY WE ACQUIRED IPSOS RETAIL PERFORMANCE: FROM THE CEO",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Download the case study (PDF)",
+    "url": "https://retailnext.net/resources/case-studies/case-study-boggi-milano-2025?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Does RetailNext work with appointment scheduling systems used by jewelry retailers?",
+    "url": "https://retailnext.net/solutions/jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext gives department store operators the granular, department-level intelligence needed to manage large-format retail with confidence — from entrance performance to department conversion to fleet-wide benchmarking.",
+    "url": "https://retailnext.net/solutions/department-stores",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext works with major department store operators globally, delivering the department-level intelligence that drives measurable performance improvements.",
+    "url": "https://retailnext.net/solutions/department-stores",
+    "pass": 1
+   },
+   {
+    "quote": "How quickly can department store operators expect to see actionable insights after implementation?",
+    "url": "https://retailnext.net/solutions/department-stores",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext gives c-store operators the real-time traffic intelligence to optimize every daypart, every location, and every transaction opportunity — without adding complexity to lean operations.",
+    "url": "https://retailnext.net/solutions/convenience-stores",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext works with convenience and fuel operators across North America and beyond, delivering insights that improve every transaction.",
+    "url": "https://retailnext.net/solutions/convenience-stores",
+    "pass": 1
+   },
+   {
+    "quote": "How does RetailNext help c-store operators optimize staffing for lean, 1–2 person operations?",
+    "url": "https://retailnext.net/solutions/convenience-stores",
+    "pass": 1
+   },
+   {
+    "quote": "What ROI can convenience store operators typically expect from RetailNext?",
+    "url": "https://retailnext.net/solutions/convenience-stores",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext gives restaurant operators the real-time visibility and traffic intelligence to optimize all three — from accurate guest traffic forecasting and labor scheduling to comprehensive video security and promotional measurement. Whether you run a single location or hundreds, our platform delivers the operational intelligence that separates high-performing restaurants from the rest.",
+    "url": "https://retailnext.net/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "From morning rush to closing, RetailNext gives restaurant operators the traffic intelligence to make faster, smarter decisions about staffing, operations, and guest experience.",
+    "url": "https://retailnext.net/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext works with restaurant and food service operators globally, delivering the traffic intelligence and security capabilities that improve performance at every location.",
+    "url": "https://retailnext.net/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "What ROI can restaurant operators typically expect from RetailNext?",
+    "url": "https://retailnext.net/solutions/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext transforms visitor traffic data into property intelligence, giving mall operators the visibility to make better leasing decisions, prove marketing effectiveness, and create competitive advantage through data.",
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "pass": 1
+   },
+   {
+    "quote": "Mall operators and property management teams use RetailNext to make smarter decisions, prove marketing value, and strengthen tenant partnerships.",
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext gives operations leaders the accurate traffic data, predictive analytics, and real-time visibility to eliminate guesswork from every scheduling, staffing, and performance decision. From single-store operators to global retail enterprises, our platform replaces assumptions with validated, data-driven decisions that improve productivity and profitability across your entire network.",
+    "url": "https://retailnext.net/solutions/store-operations",
+    "pass": 1
+   },
+   {
+    "quote": "SHAPE YOUR SHOP FLOOR.",
+    "url": "https://retailnext.net/solutions/merchandising",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study (PDF)",
+    "url": "https://retailnext.net/resources/case-studies/case-study-dave-and-busters-2025?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study (PDF)",
+    "url": "https://retailnext.net/resources/case-studies/case-study-sharaf-dg-retailnext-2023?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "In this written case study, New West KnifeWorks shares how the RetailNext platform has provided accurate measurement of their stores' performance and actionable insights that helped drive conversion rates up by 75%, and increase store traffic by 32%.",
+    "url": "https://retailnext.net/resources/case-studies?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "PDE Case Study: RetailNext – RetailNext - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - Customer Case Study",
+    "url": "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how RetailNext used PDE",
+    "url": "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Compare in-store traffic quality across paid search, paid social, email, and local marketing channels",
+    "url": "https://retailnext.net/solutions/marketing-cx",
+    "pass": 1
+   },
+   {
+    "quote": "RetailNext compares the quality of in-store traffic driven by different channels — paid search, paid social, email, local — showing which send buyers versus browsers and which drive new versus repeat visits. You can then shift budget toward the channels that actually drive profitable store visits.",
+    "url": "https://retailnext.net/solutions/marketing-cx",
+    "pass": 1
+   },
+   {
+    "quote": "3. Get It Emailed",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Receive your results by email and connect with our team when you're ready.",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Receive your results via email",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RECEIVE YOUR RESULTS VIA EMAIL",
+    "url": "https://retailnext.net/pricing",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "How Japan's Leading Eyewear Retailer Drives High Performance",
+    "url": "https://retailnext.net/resources/case-studies?hsLang=en",
+    "pass": 1
+   },
+   {
+    "quote": "東京都で受けられる防犯カメラ補助金・助成金情報 – 23区④（千代田区・豊島区・中野区・練馬区・文京区・港区・目黒区）",
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "GROOOVEは、RetailNext国内導入実績No.1",
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "GROOOVEは日本におけるRetailNext施工実績No.1のリードパートナーです",
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNextが日本に進出する前からRetailNext本社チームと綿密にやりとりを行っており、海外の最新情報の共有はもとより、日本のユーザーからのフィードバックを行い、プロダクトの拡充の一翼を担っています",
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "GROOOVEは、日本におけるRetailNext導入実績No.1",
+    "url": "https://www.grooove.co.jp/system_functions_21/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNextが日本市場に参入する前の2015年からRetailNext本社チームと綿密にコミュニケーションを取り、海外の最新情報や日本のユーザーの声を共有し、製品展開の一翼を担ってきました",
+    "url": "https://www.grooove.co.jp/system_functions_21/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業向けAIカメラセンサー RetailNext｜防犯・監視カメラ・AIカメラ・映像解析システム｜HUBULLET｜東京都・全国対応｜セキュリティ工事・保守",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "HUBULLETはRetailNext認定の日本公式パートナー",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社HUBULLETは、日本の小売業務に最適化したRetailNextの導入・運用支援を行っています",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNextより日本市場における公式パートナーとして紹介されました",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext公式ブログ「AI搭載IoTセンサーが日本の小売業を変革」にてHUBULLETの取り組みやサービスが掲載されました",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "AI搭載IoTセンサーが日本の小売業を変革",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered IoT Sensors Transform Japanese Retail Operations",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "〒103-0011 東京都中央区日本橋大伝馬町1-10",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "日本橋KRビル6F",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】#小売のカタチ #東京 と #ブルックリン",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート】株式会社GRoooVE 代表取締役 田村 氏 が ”STORE UPDATE DAY 2022”にて、登壇",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【Partner News】株式会社クレスト が 『店舗リニューアルサポート～アシックス原宿 フラッグシップ店～AIカメラに基づく分析を活用",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【Partner News】株式会社GRoooVE 代表取締役 田村 氏 が ”STORE UPDATE DAY 2022”にて、登壇決定！",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "小売業向け IoT プラットフォームを提供するパイオニアであるシリコンバレー発 RetailNext は、日本市場での実店舗運営事業会社が求めるサービス提供の仕方に合わせ、さまざま な 実績を持つ パートナー企業と連携をしています",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext Japan が 信頼し、共に成長していきたいと考えている、パートナーを紹介していきたいと思います",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "現在、日本語ページは、鋭意作成中！ということで、",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、スペイン・ロシア・南アフリカ・上海・シンガポール・日本・アメリカ など さまざまな国・地域に住みながら、１つの会社として、各々コラボをしながら動いているのです",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "日本の小売業界の皆さまに、この大事なお話を、どのように伝えていくことができるのか、改めて、頭を悩ませたいなと思う次第です",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext は 日本でも加速してまいります",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "１３時に プレスリリース通り、株式会社 クレスト と RetailNextは、公式 パートナーシップを締結いたしました",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext は 日本市場での実店舗運営事業会社が求める、さまざまなサービス提供への期待に合わせ、多くの実績を持つパートナー企業として、クレストの『リテールアナリティクスサービス』、並びに、『リサーチ・プロデュース・戦略策定・デザイン・企画』と広い領域での、コスト優位性・最適化されたデリバリーと、上流工程から一気通貫のクオリティを提供するLMIグループを、魅力が多く、共に提供価値を広げて推進できると考え、公式パートナーシップを締結いたしました",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "これを書いている RetailNext Japan 広報 が ご挨拶させて頂きます",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "わたしたち日本オフィスといたしましては、日本市場でともに歩んで下さるパートナー企業の皆さま、日本市場でRetailNextを活用しながら、実店舗ビジネスからも成長を伸ばされる企業の皆さまなど、いままで以上に、真摯に勢で取り組んで参りたいと考えています",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "ー RetailNext Japan 一同",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "【News＆広報】RetailNext、株式会社クレスト と 公式パートナーシップを締結｜RetailNext",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "【News＆広報】RetailNext、株式会社クレスト と 公式パートナーシップを締結",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "本日 １３時に プレスリリース通り、株式会社 クレスト と RetailNextは、公式 パートナーシップを締結いたしました",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext は 日本市場での実店舗運営事業会社が求める、さまざまなサービス提供への期待に合わせ、多くの実績を持つパートナー企業として、クレストの『リテールアナリティクスサービス』、並びに、『リサーチ・プロデュース・戦略策定・デザイン・企画』と広い領域での、コスト優位性・最適化されたデリバリーと、上流工程から一気通貫のクオリティを提供するLMIグループを、魅力が多く、共に提供価値を広げて推進できると考え、公式パートナーシップを締結いたしました",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "既に、日本だけでなく海外ブランドで、旗艦店や複数店舗の運営改善に採用実績がある RetailNext",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "▼ RetailNext Japan 合同会社 配信版",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "振返れば、わたし（RetailNext Japan広報）が、入社した２０１９年１０月末",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "まだ、右も左もわからないながら、RetailNextがどれだけ面白い会社か！というのを、知り合いの記者さんに話をしたところ、ご自身が担当『インタビューした クレスト と話したら面白いのではない？』と言われたことで、株式会社クレストを知りました",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "そして、２０２２年 ４月、満を持して 公式パートナー締結のアナウンスが出来たこと、大変喜ばしく、同時に、心から 株式会社クレスト 代表取締役 社長 永井さま ・ 取締役 最高執行責任者 望田 竜太 さま 筆頭に、多くの関係者の方々にご協力・ご尽力いただいたこと感謝しております",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext Japan として、これからも 両社 Win-Win な 形を目指して、関係構築を図るとともに、有店舗事業者 並びに 小売店舗運営事業会社 の 皆さまのお力になれるよう、尽力してまいろう",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クレスト の 代表へ ダイレクトに ご連絡でも良いですが、",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RetailNext（リテールネクスト） — RetailNextが日本に進出する前からRetailNext本社チームと綿密にやりとりを行っており、海外の最新情報の共有はもとより、日本のユーザーからのフィードバックを行い、プロダクトの拡充の一翼を担っています。",
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext | 実店舗向けAI小売分析プラットフォーム — RetailNextは、小売業界で最も豊富な店舗内データセットを擁するAI小売分析プラットフォームです。 Pulse AIに何でも質問すれば、自社のデータから答えが得られます。",
+    "url": "https://retailnext.net/ja",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもRetailNextって何？｜システム・機能紹介 — Sep 22, 2023 · RetailNextとは？ RetailNext（リテールネクスト）は、アメリカシリコンバレー発のベンチャー企業で、小売業界を中心に、店舗内データ分析ソリューションを提供する企業です。",
+    "url": "https://www.grooove.co.jp/system_functions_21/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業向けAIカメラセンサー RetailNext｜防犯・監視カメラ・AIカメラ... — RetailNext（リテールネクスト）とは？ RetailNext（リテールネクスト）は、2007年設立の小売業に特化したAIセンサーと 店舗分析プラットフォームを開発した 米国シリコンバレー発のベンチャー企業 です。",
+    "url": "https://www.hubullet.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext 商圏分析・エリアマーケティングツールの導入事例一覧｜IT... — RetailNext 商圏分析・エリアマーケティングツールの導入事例の一覧を紹介します。 導入企業による成功事例や導入効果、選定ポイントのインタビューを紹介します。 業界や従業員規模など自社に合う事例を見てみましょう。",
+    "url": "https://it-trend.jp/gis/20112/case",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext | AI Retail Analytics Platform for Physical Stores — RetailNext is the AI retail analytics platform with the richest in-store dataset in retail. Ask Pulse AI anything, get answers from your own data.",
+    "url": "https://retailnext.net/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext | AI Retail Analytics Platform for Physical Stores — RetailNext brings together traffic analytics, asset protection, and shopper insights in a single, integrated platform, so your teams spend less time pulling data and more time using it. Know exactly how many shoppers walk through your doors.",
+    "url": "https://retailnext.net/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext（リテールネクスト） — 世界における、店舗計測のスタンダードRetailNextは、小売業界向けのデータ分析プラットフォームです。 このプラットフォームは、小売店舗内の顧客行動データを収集、分析し、可視化することで、小売店舗の業績向上に役立てることができます。",
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "RETAILNEXT JAPAN LIMITED LIABILITY CO. Company Profile ... — Address: 3-4-2, NISHISHIMBASHI SS BLDG. 8F. MINATO-KU, TOKYO, 105-0003 Japan Employees (this site):?",
+    "url": "https://www.dnb.com/business-directory/company-profiles.retailnext_japan_limited_liability_co.bf09f9c63adede4097c20ddaf506ddec.html",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもRetailNextって何？｜システム・機能紹介 — Sep 22, 2023 · RetailNextは、主に小売業向けに店舗データ分析ソリューションを提供する米国シリコンバレー発のベンチャー企業です。 店舗内の顧客データを収集・分析し、行動分析に基づく戦略立案や店舗運営・業績改善に役立つデータをリアルタイムで提供しています。",
+    "url": "https://www.grooove.co.jp/system_functions_21/",
+    "pass": 3
+   },
+   {
+    "quote": "Retail Case Studies & Customer Stories | RetailNext — See how 600+ retailers like Macy's, Boggi Milano, and Hurley use RetailNext, per these retail case studies proving gains in conversion and loss prevention.",
+    "url": "https://retailnext.net/platform/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Retail Case Studies | RetailNext Customer Success Stories — See how leading retailers use RetailNext to drive operational excellence, optimize merchandising, and improve customer experiences. Real results from real customers.",
+    "url": "https://retailnext.net/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - Customer Case Study — RetailNext (Information Technology and Services) partnered with PDE (Electrical/Electronic Manufacturing) to solve key challenges. \"RetailNext - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "www.retailnext.com — www.retailnext.com",
+    "url": "https://www.retailnext.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Snow Peak creates a performance culture with ... — View this case study… Snow Peak (Sporting Goods Manufacturing) partnered with RetailNext (IT Services and IT Consulting) to solve key challenges. \"Snow Peak improves capture rate, conversion and staff scheduling efficiency with RetailNext\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/retailnext/case-study/snow-peak-improves-capture-rate-conversion-and-staff-scheduling-efficiency-with-retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - 2026 Company Profile, Team, Funding ... - TracxnRetailNext 2026 Company Profile: Valuation, Funding ...RetailNext – Company Insights & Financial Strength – 2026RetailNext Revenue 2025: $35.2M Est., $224M RaisedRetailNext Revenue, Funding & Valuation - prospeo.ioRetailNext - Overview, News & Similar companies | ZoomInfo.comRetailNext - Crunchbase Company Profile & Funding — Mar 19, 202",
+    "url": "https://tracxn.com/d/companies/retailnext/__Yws7WRRZqTcdgb3r6_grPMyPXhpy7bCot83dl-m3FQM",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext 2026 Company Profile: Valuation, Funding ...RetailNext – Company Insights & Financial Strength – 2026RetailNext Revenue 2025: $35.2M Est., $224M RaisedRetailNext Revenue, Funding & Valuation - prospeo.ioRetailNext - Overview, News & Similar companies | ZoomInfo.comRetailNext - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives",
+    "url": "https://pitchbook.com/profiles/company/52625-98",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext – Company Insights & Financial Strength – 2026 — Presently, RetailNext's annual revenue is estimated to be $99.2M. RetailNext's revenue per team member is projected at $293.5K. RetailNext’s total disclosed funding to date is $261M. The team size at RetailNext is estimated to be around 300+. RetailNext saw a 8% rise in total headcount last year.",
+    "url": "https://compworth.com/company/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext Revenue 2025: $35.2M Est., $224M Raised — Oct 30, 2026 · RetailNext 2025 estimated revenue: $35.2M. Total funding: $224M across 6 rounds. 320 employees. Industry: Retail Analytics Software. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext Revenue, Funding & Valuation - prospeo.io — RetailNext has raised a total of $42,000,000 across 1 funding rounds. This investment has helped the company grow and expand its operations. RetailNext has revenue of $65,400,000, estimated valuation of $209,300,000, $42,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/retailnext-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "RetailNext｜note 小売業向け IoT プラットフォームを提供するパイオニアであるシリコンバレー発 RetailNext は、日本市場での実店舗運営事業会社が求めるサービス提供の仕方に合わせ、さまざま な 実績を持つ パートナー企業と連携をしています。",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】RetailNext 社内での話 ～ RetailNext CTO 考える 2030年 ...メンメンの官能小説の作品一覧 | TALES 物語・小説[Series: Case Studies (Interviews)] Mr. Damian Hall ...News 】RetailNext は Ipsos Retail Performance を 買収いたしました...【News＆広報】RetailNext、株式会社クレスト と 公式パートナーシッ...[Column] Mall Business and Retailers - The Trend of \"Non ... 必ず、入社したメンバー や プロモーションがあったメンバー など 共に 『チームへようこそ！』『プロモーションおめでとう！ ㊗』など、 世界中の仲間で パチパチ👏 をするのです。 そこから、 各担当部門のHe",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "News 】RetailNext は Ipsos Retail Performance を 買収いたしました...【News＆広報】RetailNext、株式会社クレスト と 公式パートナーシッ...[Column] Mall Business and Retailers - The Trend of \"Non ... Nov 15, 2022 · 2022年 11月 吉日 に、RetailNext は Ipsos Retail Performance を 買収いたしましたこと を ご報告いたします。 RetailNext 本社 CEO より 本日、RetailNextにとって重要な日となりました。 Apr 14, 2022 · RetailNext は 日本市場での実店舗運営事業会社が求める、さまざまなサービス提供への期待に合わせ、多くの実績を持つパートナー企業として、クレストの『リテー",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "【News＆広報】RetailNext、株式会社クレスト と 公式パートナーシッ... Apr 14, 2022 · RetailNext は 日本市場での実店舗運営事業会社が求める、さまざまなサービス提供への期待に合わせ、多くの実績を持つパートナー企業として、クレストの『リテールアナリティクスサービス』、並びに、『リサーチ・プロデュース・戦略策定・デザイン ...",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext｜note 現在、日本語ページは、鋭意作成中！ ということで、 簡単なRetailNextのご紹介を、こちらのBlogサイトで行いたいと思います。 こちらの ”マガジン” では、 それでは、「会社の始まり」 から「世界でのRetailNextでの活動」などをまとめます。",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【 News 】RetailNext は Ipsos Retail Performance を 買収いたしました。",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】広報業務を通して感じていること。~ 対話から学ぶ・期待値を探す ~",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】＃木曜日は本曜日 - 店舗に足を運ぼう",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】2022年 10月2日・3日は「デジタルの日」",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】#小売のカタチ #東京 と #ブルックリン",
+    "url": "https://note.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】RetailNext 社内での話 ～ RetailNext CTO 考える ２０３０年 の 小売業界で活用されるテクノロジー ～｜RetailNext",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】RetailNext 社内での話 ～ RetailNext CTO 考える ２０３０年 の 小売業界で活用されるテクノロジー ～",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext は 本社は、シリコンバレーにありますが、世界中に仲間がいます。",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、スペイン・ロシア・南アフリカ・上海・シンガポール・日本・アメリカ など さまざまな国・地域に住みながら、１つの会社として、各々コラボをしながら動いているのです。",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "毎月１回、All Hands という 全社会議があるのです⏲",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "時差・距離を超えるために、Web Mtgで集まります。",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "アジアチームは、開催された直後に ”Replay”として、",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "アジアメンバーで集まって、録画動画を見ます👀",
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "pass": 3
+   },
+   {
+    "quote": "【 News 】RetailNext は Ipsos Retail Performance を 買収いたしました。｜RetailNext",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "【 News 】RetailNext は Ipsos Retail Performance を 買収いたしました。",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 11月 吉日 に、RetailNext は Ipsos Retail Performance を 買収いたしましたこと を ご報告いたします。",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "本日、RetailNextにとって重要な日となりました。",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、小売インテリジェンス、リサーチ、パフォーマンス管理ソリューションを提供する英国のリーディングカンパニーである Ipsos Retail Performance を 買収いたしました。",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "Ipsos Retail Performanceは、50ヶ国、4,500以上の小売店において、年間10億人以上の来店客を追跡している、ピープルカウントと行動インサイトを専門とする企業です。",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "1989年に設立され、2011年からはグローバル企業であるIpsosグループの一部門となった Ipsos Retail Performanceは、熟練された小売専門家チームであり、グローバル小売ブランドにとってスタッフ管理、ビジネスプロセスの最適化、顧客体験の向上に必要な信頼性と実行性のある顧客情報を提供してきました。",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "現在RetailNext が提供する顧客重視のアプローチに、新たな取り組みが追加される予定です。Ipsosとの複数年にわたる戦略的パートナーシップの一環として、より広範で深みのあるインサイトと同様に、新しく、質の高いリソースを加えることで、RetailNextの顧客中心のアプローチが拡大する姿をお見せすることになるでしょう。",
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "pass": 3
+   },
+   {
+    "quote": "【News＆広報】RetailNext、株式会社クレスト と 公式パートナーシップを締結｜RetailNext",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "【News＆広報】RetailNext、株式会社クレスト と 公式パートナーシップを締結",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "本日 １３時に プレスリリース通り、株式会社 クレスト と RetailNextは、公式 パートナーシップを締結いたしました。",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext は 日本市場での実店舗運営事業会社が求める、さまざまなサービス提供への期待に合わせ、多くの実績を持つパートナー企業として、クレストの『リテールアナリティクスサービス』、並びに、『リサーチ・プロデュース・戦略策定・デザイン・企画』と広い領域での、コスト優位性・最適化されたデリバリーと、上流工程から一気通貫のクオリティを提供するLMIグループを、魅力が多く、共に提供価値を広げて推進できると考え、公式パートナーシップを締結いたしました。",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "【図】RetailNext と クレスト（LMIグループ）の強みを活かした 公式パートナーシップ",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "小売店舗運営事業会社の抱える ”課題やペイン” に対し、長年支援実績を積んできたクレストが、RetailNextを活用することにより、今まで見えづらかった、リアル店舗の実情をデータとして取得。蓄積されていくデータを分析・読み解きを丁寧に行うことで、新たな価値創出のご支援をしてまいります。",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "既に、日本だけでなく海外ブランドで、旗艦店や複数店舗の運営改善に採用実績がある RetailNext。",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   },
+   {
+    "quote": "最近では、『売らない店』として話題となっているRaaS（Retail as A Service) 領域でも多く採用されています。クレストは、事業領域である『リテール アナリティクス サービス』において、このRetailNextと業務提携をし、この組み合わせだからこそできる、クレスト 並びに LMIグループ価値提供として、リテール業界向けフィジタル（フィジカル×デジタル）領域全体で、リテール業界向けサービス展開を促進してまいります。",
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RetailNext (@RetailNext) / X RetailNext optimizes the shopper experience for retailers, brands, and malls with industry-leading advanced analytics. #retail #inspiringretail #analytics",
+    "url": "https://x.com/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext on X: \"Join us today! See how you can modernize ... RetailNext on X: \"Join us today! See how you can modernize and optimize your asset protection operations with integrated analytics. Last chance to register! https://t.co/3Wstfckiof\" RetailNext @RetailNext",
+    "url": "https://x.com/RetailNext/status/1385239060487278594",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext on X: \"Malls become models of reinvention to cope ... Post RetailNext @RetailNext Malls become models of reinvention to cope with closing stores ~ by @ charissejones for @ usatoday usatoday.com/story/money/20… #retail 11:30 AM · Aug 22, 2017",
+    "url": "https://x.com/RetailNext/status/900062533754773507",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext (@RetailNext) / X On a recent podcast, RetailNext spoke with @retailxpert of Spieckerman Retail about how our data captures detailed shopper journeys using advanced sensor technology.",
+    "url": "https://x.com/retailnext",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RetailNext - LinkedIn RetailNext is a global leader in retail analytics for physical stores. Our real-time analytics tools help retailers and manufacturers collect, analyze, and visualize in-store data.",
+    "url": "https://www.linkedin.com/company/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - LinkedIn RetailNext is a global leader in retail analytics for physical stores. Our real-time analytics tools help retailers and manufacturers collect, analyze, and visualize in-store data.",
+    "url": "https://uk.linkedin.com/company/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - LinkedIn RetailNext is a global leader in retail analytics for physical stores. Our real-time analytics tools help retailers and manufacturers collect, analyze, and visualize in-store data.",
+    "url": "https://za.linkedin.com/company/retailnext",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - LinkedIn RetailNext is a global leader in retail analytics for physical stores. Our real-time analytics tools help retailers and manufacturers collect, analyze, and visualize in-store data.",
+    "url": "https://es.linkedin.com/company/retailnext",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "RetailNext | San Jose CA - FacebookRetailNext - \" ANNOUNCEMENT We've just launched our #AI ...RetailNext - EXCITING ANNOUNCEMENT pass_by ... - FacebookRetailNext - RetailNext updated their cover photo. - FacebookRetailNext - Get to know Jenna Suhl, an ... - FacebookRetailNext - Marlie Liu , our co-founder and ... - FacebookRetailNext - EVENT ANNOUNCEMENT | Catch us at The... Nov 4, 2025 · Did you ",
+    "url": "https://www.facebook.com/retailnext/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - \" ANNOUNCEMENT We've just launched our #AI ... Aug 8, 2024 · With RetailNext, retailers in EMEA are poised to raise their traffic counter game to the next level, thanks to: 🧑💼 dedicated account managers 🧑💻 a full support staff complement, and 🕵️ an entire analytics team Talk to us about upgrading your outdated sensors today -",
+    "url": "https://www.facebook.com/retailnext/posts/-announcement-weve-just-launched-our-ai-pulse-reportin-this-report-we-take-the-p/898642608975007/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - EXCITING ANNOUNCEMENT pass_by ... - Facebook Jun 3, 2024 · Replace your obsolete or unsupported people counters through RetailNext and receive the following: 👉 Our accuracy guarantee, backed by self-audits at your convenience 👉 Our insights and innovation promise as retail's premier analytics provider 👉 Our full platform promise, enabling so much more than just traffic counts, such as",
+    "url": "https://www.facebook.com/retailnext/posts/exciting-announcement-pass_by-and-retailnext-are-better-together-our-aurora-sens/856847019821233/",
+    "pass": 3
+   },
+   {
+    "quote": "RetailNext - RetailNext updated their cover photo. - Facebook Nov 4, 2025 · With RetailNext, retailers in EMEA are poised to raise their traffic counter game to the next level, thanks to: 🧑💼 dedicated account managers 🧑💻 a full support staff complement, and 🕵️ an entire analytics team Talk to us about upgrading your outdated sensors today - https://bit.ly/3YqbpMU #EMEARetail#RetailTech#StoreData",
+    "url": "https://www.facebook.com/retailnext/photos/1244139674425297/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://retailnext.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/resources/case-studies/case-study-boggi-milano-2025?hsLang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/platform/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/apparel-footwear",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/jewelry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/department-stores",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/convenience-stores",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/facilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/restaurants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/retail-banking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/shopping-malls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/store-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/merchandising",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/solutions/marketing-cx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/resources/case-studies/case-study-dave-and-busters-2025?hsLang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/resources/case-studies/case-study-sharaf-dg-retailnext-2023?hsLang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/resources/case-studies?hsLang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retailnext.net/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://retailnext.net/hs-fs/hubfs/Website/tech-partners/zipline-logo.webp?width=400",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://retailnext.net/hs-fs/hubfs/Website/tech-partners/brandtrack-logo.png?width=400",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://retailnext.net/hs-fs/hubfs/Website/tech-partners/rallyware-logo.png?width=400",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://retailnext.net/hs-fs/hubfs/Website/tech-partners/storeforce-logo.webp?width=400",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grooove.co.jp/system_functions_21/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubullet.com/retailnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grooove.co.jp/products/retailnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.retailnext_japan_limited_liability_co.bf09f9c63adede4097c20ddaf506ddec.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retailnext.com/case-studies",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/retailnext/__Yws7WRRZqTcdgb3r6_grPMyPXhpy7bCot83dl-m3FQM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/52625-98",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/retailnext",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/retailnext.net",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/retailnext",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/retailnext/n/n0516f0e5c249",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/retailnext/n/naacf87166322",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/retailnext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RetailNext/status/1385239060487278594",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RetailNext/status/900062533754773507",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/retailnext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/retailnext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/company/retailnext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/company/retailnext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/retailnext/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/retailnext/posts/-announcement-weve-just-launched-our-ai-pulse-reportin-this-report-we-take-the-p/898642608975007/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/retailnext/posts/exciting-announcement-pass_by-and-retailnext-are-better-together-our-aurora-sens/856847019821233/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/retailnext/photos/1244139674425297/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/retailnext",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/retailnext",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Retailnext 日本 導入",
+   "results": [
+    "https://www.grooove.co.jp/products/retailnext/",
+    "https://retailnext.net/ja",
+    "https://www.grooove.co.jp/system_functions_21/",
+    "https://www.hubullet.com/retailnext/",
+    "https://it-trend.jp/gis/20112/case",
+    "https://retailnext.net/ja/solutions/jewelry",
+    "https://www.itreview.jp/products/retailnext/profile"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailnext 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://retailnext.net/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailnext Japan",
+   "results": [
+    "https://retailnext.net/ja",
+    "https://retailnext.net/",
+    "https://www.grooove.co.jp/products/retailnext/",
+    "https://www.dnb.com/business-directory/company-profiles.retailnext_japan_limited_liability_co.bf09f9c63adede4097c20ddaf506ddec.html",
+    "https://www.grooove.co.jp/system_functions_21/",
+    "https://compalyze.co.jp/company/8010403013722",
+    "https://prtimes.jp/main/html/rd/p/000000008.000038902.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailnext manufacturing customer case study",
+   "results": [
+    "https://retailnext.net/platform/customer-stories",
+    "https://retailnext.net/resources/case-studies",
+    "https://www.casestudies.com/company/pde/case-study/retailnext-customer-case-study",
+    "https://www.retailnext.com/case-studies",
+    "https://www.casestudies.com/company/retailnext/case-study/snow-peak-improves-capture-rate-conversion-and-staff-scheduling-efficiency-with-retailnext",
+    "https://www.featuredcustomers.com/vendor/retailnext/case-studies",
+    "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/snapdragon_retailnext_case_study_0.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailnext white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailnext founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/retailnext/__Yws7WRRZqTcdgb3r6_grPMyPXhpy7bCot83dl-m3FQM",
+    "https://pitchbook.com/profiles/company/52625-98",
+    "https://compworth.com/company/retailnext",
+    "https://getlatka.com/companies/retailnext.net",
+    "https://prospeo.io/c/retailnext-revenue",
+    "https://www.zoominfo.com/c/retailnext-inc/354574167",
+    "https://www.crunchbase.com/organization/retailnext"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Retailnext",
+   "results": [
+    "https://note.com/retailnext",
+    "https://note.com/retailnext/n/n0516f0e5c249",
+    "https://note.com/retailnext/n/n6a3bca3e3aec",
+    "https://note.com/retailnext/n/naacf87166322",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/retailnext/n/nd49271e89db6?hl=en",
+    "https://note.com/retailnext/n/n0c8fc51d41c7?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Retailnext",
+   "results": [
+    "https://x.com/retailnext",
+    "https://x.com/RetailNext/status/1385239060487278594",
+    "https://x.com/RetailNext/status/900062533754773507",
+    "https://about.x.com/en",
+    "https://x.com/RetailNext/status/1892561089386397917",
+    "https://x.com/RetailNext/status/1167829903913476101",
+    "https://x.com/retailxpert"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Retailnext",
+   "results": [
+    "https://www.linkedin.com/company/retailnext",
+    "https://uk.linkedin.com/company/retailnext",
+    "https://za.linkedin.com/company/retailnext",
+    "https://es.linkedin.com/company/retailnext",
+    "https://www.linkedin.com/products/retailnext-retail-labs/",
+    "https://cn.linkedin.com/company/retailnext",
+    "https://www.linkedin.com/products/retailnext-aurora/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Retailnext",
+   "results": [
+    "https://www.facebook.com/retailnext/",
+    "https://www.facebook.com/retailnext/posts/-announcement-weve-just-launched-our-ai-pulse-reportin-this-report-we-take-the-p/898642608975007/",
+    "https://www.facebook.com/retailnext/posts/exciting-announcement-pass_by-and-retailnext-are-better-together-our-aurora-sens/856847019821233/",
+    "https://www.facebook.com/retailnext/photos/1244139674425297/",
+    "https://www.facebook.com/retailnext/posts/get-to-know-jenna-suhl-an-account-director-for-the-us-and-canada-she-is-a-proud-/990443823128218/",
+    "https://www.facebook.com/retailnext/posts/-marlie-liu-our-co-founder-and-chief-operations-officer-is-on-this-years-femalef/822040513301884/",
+    "https://www.facebook.com/retailnext/posts/-event-announcement-catch-us-at-the-national-retail-federation-s-2025-big-showjo/961865039319430/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retailnext note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/retailnext",
+    "https://retailnext.net/",
+    "https://compalyze.co.jp/company/8010403013722",
+    "https://retailnext.net/ja/resources",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/retailnext/n/nd49271e89db6",
+    "https://retailnextjapan.net/followings",
+    "https://retailnext.net/about/who-we-are",
+    "https://prtimes.jp/main/html/rd/p/000000008.000038902.html"
+   ],
+   "engines": [
+    "ddgs:brave",
+    "ddgs:google"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Retailnext X 投稿",
+   "results": [
+    "https://x.com/retailnext",
+    "https://retailnext.net/",
+    "https://retailnext.net/ja",
+    "https://www.webtanguide.jp/sns/x-marketing-post-ideas/",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://x.com/risu_afi/status/2119263651303444756",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

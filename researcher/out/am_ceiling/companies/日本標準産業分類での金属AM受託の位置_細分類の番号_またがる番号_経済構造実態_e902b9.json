@@ -1,0 +1,566 @@
+{
+ "name": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131）",
+ "en": "JSIC classification code metal additive manufacturing contract service Japan",
+ "aliases": [
+  "金属積層造形 受託 日本標準産業分類",
+  "3Dプリンター 受託 産業分類 細分類",
+  "金属 3D造形 業種 分類 番号"
+ ],
+ "context": "国内・分類",
+ "kind": "market",
+ "researched_at": "2026-11-09T21:41:14.106173+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steelsale.jp/casestudy/3dp/a113",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2453",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.solize.com/blog/metal-outsourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dptek.com/ja/blogs/industrial-metal-3d-printer-price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinto.co.jp/promotion/metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://monoque.jp/feature/contents/c6afc37597db46a301484f8dae31a78322992c4f/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2212/05/news015_2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://3d.kinzoku-kakou-odec.com/column/column-273/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_9277/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinto.co.jp/product/surface/function_purpose/metal-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/R05index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/24",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3dprinter.co.jp/product/uam3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://as-ambusiness.com/service/development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://classification.codes/classifications/industry/jsic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.3deo.co/strategy/additive-manufacturing-delivers-economies-of-scale-and-scope/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ampower.eu/insights/additive-manufacturing-part-cost-and-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/303878/meld-partners-with-sumitomo-to-expand-large-format-metal-3d-printing-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmts.co.jp/en/business/products/am-3d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tctjapan.jp/outline_en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.com/fa/products/mecha/am/pr/zoukei/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://namic.sg/wp-content/uploads/2018/04/global-additive-manufacturing-market_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3dprint.com/322917/3d-printing-predictions-2026-industrial-production-in-metal-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iso.org/ics/25.030.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131） 単価 万円",
+   "results": [
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.nttdata-xam.com/blog/development/article_1287/",
+    "https://jampt.jp/column/column_488/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2453",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/",
+    "https://idarts.co.jp/3dp/am-research-releases-q3-market-data/?srsltid=AYCX9vJIop7hjeYkn6iFAxFABHm053NOIpXzcPTfC7D7zXEpnQcDxCEf",
+    "https://metoree.com/categories/5523/",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/R05index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131） 費用 相場",
+   "results": [
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://jampt.jp/",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.rapiddirect.com/ja/blog/metal-3d-printing-cost/",
+    "https://www.3dptek.com/ja/blogs/industrial-metal-3d-printer-price/",
+    "https://www.business.nikon.com/ja/technologies/additive-manufacturing-basic-knowledge-001/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131） 最大 受注 億円",
+   "results": [
+    "https://jampt.jp/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/2030%E5%B9%B4%E3%81%AE%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E9%80%A0%E5%BD%A2%E5%93%81%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12077/ronsyu31matsuhita_1.pdf",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://monoque.jp/feature/contents/c6afc37597db46a301484f8dae31a78322992c4f/",
+    "https://monoist.itmedia.co.jp/mn/articles/2212/05/news015_2.html",
+    "https://www.ricoh.co.jp/3dp/metal/column_desktopmetal01",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131） 量産 受注 年間",
+   "results": [
+    "https://jampt.jp/",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2453",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "http://3d.kinzoku-kakou-odec.com/column/column-273/",
+    "https://www.nttdata-xam.com/blog/development/article_9277/",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.sinto.co.jp/product/surface/function_purpose/metal-am/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131） 売上高 受託",
+   "results": [
+    "https://jampt.jp/",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://online.solize.com/blog/metal-outsourcing",
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2453",
+    "https://3dprinter.co.jp/product/uam3d/",
+    "https://as-ambusiness.com/service/development/",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/R05index.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "JSIC classification code metal additive manufacturing contract service Japan price per part",
+   "results": [
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "http://classification.codes/classifications/industry/jsic",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.1176.pdf",
+    "https://www.3deo.co/strategy/additive-manufacturing-delivers-economies-of-scale-and-scope/",
+    "https://ampower.eu/insights/additive-manufacturing-part-cost-and-pricing/",
+    "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "https://www.iso.org/ics/25.030.html",
+    "https://www.soumu.go.jp/english/dgpp_ss/seido/sangyo/san14-1.htm",
+    "https://jsicjp.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "JSIC classification code metal additive manufacturing contract service Japan largest contract million",
+   "results": [
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://3dprint.com/303878/meld-partners-with-sumitomo-to-expand-large-format-metal-3d-printing-in-japan/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.mmts.co.jp/en/business/products/am-3d.html",
+    "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://www.3deo.co/strategy/additive-manufacturing-delivers-economies-of-scale-and-scope/",
+    "https://www.mitsubishielectric.com/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.soumu.go.jp/english/dgpp_ss/seido/sangyo/san14-1.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "JSIC classification code metal additive manufacturing contract service Japan serial production long-term agreement value",
+   "results": [
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "http://classification.codes/classifications/industry/jsic",
+    "https://namic.sg/wp-content/uploads/2018/04/global-additive-manufacturing-market_1.pdf",
+    "https://www.mitsubishielectric.com/fa/products/mecha/am/pr/zoukei/index.html",
+    "https://3dprint.com/322917/3d-printing-predictions-2026-industrial-production-in-metal-additive-manufacturing/",
+    "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "https://www.3deo.co/strategy/additive-manufacturing-delivers-economies-of-scale-and-scope/",
+    "https://www.iso.org/ics/25.030.html",
+    "https://jsicjp.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "JSIC classification code metal additive manufacturing contract service Japan revenue",
+   "results": [
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "http://classification.codes/classifications/industry/jsic",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1163.pdf",
+    "https://www.mmts.co.jp/en/business/products/am-3d.html",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/japan",
+    "https://www.glocal-c.com/jsic/",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://www.soumu.go.jp/english/dgpp_ss/seido/sangyo/index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131）",
+   "results": [
+    "https://note.com/umaki11/n/n3efcf73dffdc",
+    "https://note.com/petenshoku/n/nec74eb622470",
+    "https://note.com/naonote1225/n/nb6b90272c616",
+    "https://note.com/archinote/n/n3f9371aa81ec",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://note.com/reading_monkey/n/n5408a3a679d2",
+    "https://note.com/sute_aca/n/n7b9fe27ae4b2",
+    "https://note.com/sherlokian/n/n6455ca9273f5",
+    "https://note.com/ochyai/n/n6d470a8f0f75",
+    "https://note.com/frievea/n/n478a6b14c7d6"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131）",
+   "results": [
+    "https://x.com/luigi_jpn/status/2059593119491121374",
+    "https://jf.x.com/images/media-preview/2111403185642598668",
+    "https://jf.x.com/images/media-preview/2111985921801470141",
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/hashtag/金属３Dプリンター",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/intermold_jp/status/2056559806245425301",
+    "https://x.com/sangyo_web/status/2082658736473358551"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%82%A2%E3%83%88%E3%83%9E%E3%82%A4%E3%82%B6%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%8C%81%E7%B6%9A%E7%9A%84%E3%81%AA%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-64%E3%81%A8%E4%BA%88%E6%B8%AC%E5%B8%82%E5%A0%B4%E8%AA%B2%E9%A1%8C%E3%81%A8%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E5%88%86%E6%9E%90-wwake",
+    "https://jp.linkedin.com/company/nsc-am-advanced-solution",
+    "https://jp.linkedin.com/in/yoichi-ito-77825928b",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_この度金属技研では造形受託事業の強化を目的として日本国内初導入となる電子ビーム-activity-7447932924039102465-QDXa",
+    "https://www.linkedin.com/posts/hirotaka-kawagoe-012284184_金属技研-mtc-金属積層造形-activity-7450391212177649664-t_BE",
+    "https://www.linkedin.com/posts/masato-matsubara-a61026221_金属amをいち早く金型製作に適用金型設計でのamの標準仕様化を目指す日本精機-activity-7254681265256153089-JEyA",
+    "https://jp.linkedin.com/pulse/industrialization-am-meeting-industrial-standards-oems-john-oney-5vk1c?tl=ja",
+    "https://jp.linkedin.com/posts/tuvsud_産業用アディティブマニュファクチャリング-iso-astm-activity-7081861922416951296-VInP"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com 日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131）",
+   "results": [
+    "https://www.facebook.com/NikonGroupjp/videos/ニコンが目指すものづくりの革新ニコンはいま金属3dプリンターの開発と普及に力を注いでいますこの装置がもたらす価値とその先にある未来とは技術開発とソリューションサ/910409805008105/",
+    "https://www.facebook.com/MONOist/posts/nttデータ-ザムテクノロジーズは日本軽金属と金属am事業における戦略的パートナーシップを締結した材料開発から製造後加工までを含む体制を構築し市場拡大に対応する/1430538262405781/",
+    "https://www.facebook.com/NikonGroupjp/posts/nikon-am-technology-center-japanを埼玉県行田市に開設最先端の金属アディティブマニュファクチャリング付加加工以下am技術の開発およ/936680661888050/",
+    "https://www.facebook.com/jpShareLab/posts/日本の製造業革新に不可欠な金属積層造形技術の未来レポート公開-みずほ銀行みずほ銀行-産業調査部は2025年1月17日に自社ウェブサイト内mizuho-short/1197910572336433/",
+    "https://www.facebook.com/MitsubishiElectricFA.JP/posts/当社金属3dプリンタ営業担当も登壇特別対談トップメーカーに聞くam3dプリンタの現状とこれから-vol5アペルザtv-特別対談シリーズトップメーカーに聞くam3/1242605148025353/",
+    "https://www.facebook.com/nikkankogyo.zasshi/photos/発売中の型技術5月号の特集は金属amがもたらす金型製作の新たな可能性です中空構造による軽量化など従来工法では不可能な形状を実現することで素形材産業の競争力強化の/1503915365080588/",
+    "https://www.facebook.com/mazak.jp/posts/金属積層造形am技術をご存知ですか削る型に流す工法とは異なり必要な箇所に必要な量だけ材料を積層従来工法では困難だった3d形状加工を可能にします部品の一体化や摩耗/1608705891258807/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131） note 社長",
+   "results": [
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.youtube.com/watch?v=E6jM5NMpQ-0",
+    "https://jampt.jp/metal3dprinter/qa/",
+    "https://mag.iri-tokyo.jp/n/n1135160ac93c",
+    "https://note.com/izuku_idea/n/nd179e4b76227",
+    "https://www.mizuhobank.co.jp/corporate/industry/pdf/msif_239.pdf",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.sinto.co.jp/promotion/metal-am/",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/R05index.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "日本標準産業分類での金属AM受託の位置（細分類の番号・またがる番号・経済構造実態調査の表で拾える番号・4-131） X 投稿",
+   "results": [
+    "https://jampt.jp/",
+    "https://x.com/jampt_official",
+    "https://www.youtube.com/watch?v=E6jM5NMpQ-0",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://jtla.co.jp/service/measurement_product/metal-3d-printer.html",
+    "https://www.sinto.co.jp/product/surface/function_purpose/metal-am/",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://www.nttdata-xam.com/blog/development/article_9277/",
+    "https://steelsale.jp/casestudy/3dp/a113",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/R05index.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "JSIC classification code metal additive manufacturing contract service Japan site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/in/jlp",
+    "https://www.linkedin.com/in/shivaligoel",
+    "https://uk.linkedin.com/in/oiwi-parker-jones-b68a0868",
+    "https://be.linkedin.com/in/pieterkesteloot",
+    "https://www.linkedin.com/in/hannahkinley",
+    "https://uk.linkedin.com/in/sarah-jane-hunt",
+    "https://uk.linkedin.com/in/maurizio-celentano-phd",
+    "https://uk.linkedin.com/in/costiskompis",
+    "https://uk.linkedin.com/in/massi-gori",
+    "https://uk.linkedin.com/in/anastasia-gadzhieva-a63b1456"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "1件の単価": "記載なし（読んだ45頁・検索16回）",
+  "最大案件・上限": "記載なし（読んだ45頁・検索16回）",
+  "顧客1社の年間": "記載なし（読んだ45頁・検索16回）",
+  "受託会社の売上": "記載なし（読んだ45頁・検索16回）",
+  "用途別": "記載なし（読んだ45頁・検索16回）",
+  "価格を決める要因": "記載なし（読んだ45頁・検索16回）"
+ }
+}

@@ -1,0 +1,558 @@
+{
+ "name": "3D MODEL AG",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:20:09.517403+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "3D - MODEL - LinkedIn 3D - MODEL - LinkedIn LinkedIn https://de.linkedin.com > 3d-model-ag",
+    "url": "https://de.linkedin.com/company/3d-model-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Create 3D Models on Native Map with Ari by LIVEMAP AG Create 3D Models on Native Map with Ari by LIVEMAP AG LinkedIn https://www.linkedin.com > posts > cornetolivierzh_create...",
+    "url": "https://www.linkedin.com/posts/cornetolivierzh_create-3d-models-directly-on-the-native-activity-7518970748154134529-nRvz",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "3D - Model AG | Zürich - Facebook 3D - Model AG | Zürich - Facebook Facebook https://www.facebook.com > ... > Commercial & Industrial",
+    "url": "https://www.facebook.com/3dmodelag/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5222",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/ja/where-to-buy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cgtrader.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/company/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/company/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.correns.co.jp/supplier/coatmaster/coatmaster3d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bambulab.com/ja-jp/dealer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rolanddg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cgtrader.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-modely.com/blog/3d-cg/3d-data-online-sale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/aadebdeb/articles/sites-publising-3d-assets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.modelart-shop.jp/?mode=cate&cbid=2903406&csid=0&sort=p",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidyard.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-Ag-%E8%AA%8D%E5%AE%9A%E9%A3%9F%E5%93%81%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89PETG%E6%8A%97%E8%8F%8C3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-Materials%E3%81%AB%E3%82%88%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E8%A3%BD-%E5%AE%9F%E9%A8%93%E5%AE%A4%E8%A9%A6%E9%A8%93%E6%B8%88%E3%81%BF%E3%81%AE%E6%8A%97%E8%8F%8C%E8%A4%87%E5%90%88%E6%9D%90%E3%80%811-75mm%E3%80%811kg%E3%80%81%E7%B2%BE%E5%BA%A6/dp/B0CQZ7D8DZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artec3d.com/reseller/norde-international-distributors-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sketchfab.com/wareFLO/collections/japan-df013e357e4946fa853c9d211fd26c89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/AGCOTSUBU-Recommended-Lightweight-Microphone-Earphones/dp/B0DT119MC6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/COX-%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%9E%E3%83%83%E3%83%88-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%C3%97%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%91%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0-CO90V20006/dp/B00K13H6VM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/asmr-3d/s?k=asmr+3d",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/COTSUBU-ASMR-2025%E5%B9%B4%E7%89%88-%E6%98%8E%E7%9E%AD%E3%81%AA%E7%A9%BA%E9%96%93%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%8C%E6%84%9F%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BBASMR%E6%8E%A8%E8%96%A6%E3%83%BB%E5%B0%8F%E5%9E%8B%E3%83%BB%E8%BB%BD%E9%87%8F%E3%83%BBIPX4%E3%83%BBMEMS%E3%83%9E%E3%82%A4%E3%82%AF%E4%BB%98%E3%81%8D%E3%83%BB%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%83%BBfinal-E500%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%8C%96%E5%AE%9F%E7%8F%BE/dp/B0DT119MC6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3850/9138/?srsltid=AYCX9vKRJZCYr5roRXU5EpPE_laUn53j-2bBTmEQVQ5igOeNVapRSsS8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/4533/1783/?srsltid=AYCX9vL7e3EwavZK2DC2zBS050mEHzYHS9hi9k-9QceBZ6mbaxASl6Fz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5239/0180/?srsltid=AYCX9vKHxrZ4jXDTaWh4YL0q4h6uYb7inP_VTO8vzW6623PH72ut1f-q",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04468354/?srsltid=AYCX9vLPyV-zwG4a40Hq_ZqPbr-NjiiNXgqbC6CnQiFqpNLFRoEKtyIM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/3D_Systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/3D_Systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/3d-systems/196755735",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://vectorshift.ai/research/companies/3d-systems/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/3d-model-ag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/cornetolivierzh_create-3d-models-directly-on-the-native-activity-7518970748154134529-nRvz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dmodelag/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3D MODEL AG 代理店",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5222",
+    "https://www.artec3d.com/ja/where-to-buy",
+    "https://www.cgtrader.com/",
+    "https://formlabs.com/jp/company/partners/",
+    "https://phrozen3d.com/ja-jp/pages/find-a-reseller",
+    "https://www.revopoint3d.jp/pages/become-a-dealer",
+    "https://www.quicksurface.com/ja/resellers/",
+    "https://www.prusa3d.com/ja/p/3d-printers/3d-printers-for-enterprise/",
+    "https://www.intagly.com/3d-modeling-agency-for-custom-designs-intagly",
+    "https://www.3d-model.com/de-de/impressum"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D MODEL AG 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://formlabs.com/jp/company/partners/",
+    "https://www.correns.co.jp/supplier/coatmaster/coatmaster3d.html",
+    "https://bambulab.com/ja-jp/dealer",
+    "https://www.rolanddg.co.jp/",
+    "https://www.prusa3d.com/resellers/",
+    "https://news.sharelab.jp/interviews/formnext-report-231101/",
+    "https://final-inc.com/pages/about?srsltid=AYCX9vKx8YYXho5DEzUdlpW3JMiUBBYpdTEuSghq0j--TZY3qI5UCHIo",
+    "https://content.us.porsche.com/prod/pag/tequipment/TeqFinder.nsf/Finder?ReadForm&co=44&ac=product&pr=0DD4457E64AD827AC125875E005FA266&bt=992",
+    "https://www.artec3d.com/ja/where-to-buy",
+    "https://www.northdata.com/3D-MODEL+AG,+Zürich/CHE-234.064.482"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D MODEL AG 日本 販売",
+   "results": [
+    "https://www.cgtrader.com/ja",
+    "https://3d-modely.com/blog/3d-cg/3d-data-online-sale/",
+    "https://zenn.dev/aadebdeb/articles/sites-publising-3d-assets",
+    "https://www.modelart-shop.jp/?mode=cate&cbid=2903406&csid=0&sort=p",
+    "https://oshinchan-japan.com/sale_3dmodel_site_matome/",
+    "https://www.3dimli.com/ja/discover/3dmodel",
+    "https://www.rolanddg.co.jp/",
+    "https://sketchfab.com/tags/ag",
+    "https://3dmj.info/",
+    "http://3dmodeljapan.shop/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "3D MODEL AG フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.solidyard.jp/",
+    "https://www.poly-maker.jp/filament",
+    "https://www.amazon.co.jp/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-Ag-%E8%AA%8D%E5%AE%9A%E9%A3%9F%E5%93%81%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89PETG%E6%8A%97%E8%8F%8C3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-Materials%E3%81%AB%E3%82%88%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E8%A3%BD-%E5%AE%9F%E9%A8%93%E5%AE%A4%E8%A9%A6%E9%A8%93%E6%B8%88%E3%81%BF%E3%81%AE%E6%8A%97%E8%8F%8C%E8%A4%87%E5%90%88%E6%9D%90%E3%80%811-75mm%E3%80%811kg%E3%80%81%E7%B2%BE%E5%BA%A6/dp/B0CQZ7D8DZ",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vKAA1Y8oyLA60z8J2SbUe-F3Bu_enT_jEI7oPFXnIfMFUDU2IFt",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://shop.exmatelab.com/items/84858960",
+    "https://fantist.com/articles/1092",
+    "https://www.amazon.co.jp/レジン/s?k=レジン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D MODEL AG Japan distributor",
+   "results": [
+    "https://www.exone.com/en/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.artec3d.com/reseller/norde-international-distributors-inc",
+    "https://sketchfab.com/wareFLO/collections/japan-df013e357e4946fa853c9d211fd26c89",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://en.3dpetshop.com/about/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.reddit.com/r/japan/comments/oq8bdm/trying_to_find_old_3d_modelling_software_from/",
+    "https://revenuebase.ai/companies/3d-printing-distributors/germany",
+    "http://3dmodeljapan.shop/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D MODEL AG distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.exone.com/en/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://dyemansion.com/partners/",
+    "https://en.3dpetshop.com/about/",
+    "https://www.trade.gov/market-intelligence/japan-3d-printing-market",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp 3D MODEL AG",
+   "results": [
+    "https://www.amazon.co.jp/-/en/AGCOTSUBU-Recommended-Lightweight-Microphone-Earphones/dp/B0DT119MC6",
+    "https://www.amazon.co.jp/COX-%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%9E%E3%83%83%E3%83%88-%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%C3%97%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%91%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0-CO90V20006/dp/B00K13H6VM",
+    "https://www.amazon.co.jp/asmr-3d/s?k=asmr+3d",
+    "https://www.amazon.co.jp/COTSUBU-ASMR-2025%E5%B9%B4%E7%89%88-%E6%98%8E%E7%9E%AD%E3%81%AA%E7%A9%BA%E9%96%93%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%8C%E6%84%9F%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BBASMR%E6%8E%A8%E8%96%A6%E3%83%BB%E5%B0%8F%E5%9E%8B%E3%83%BB%E8%BB%BD%E9%87%8F%E3%83%BBIPX4%E3%83%BBMEMS%E3%83%9E%E3%82%A4%E3%82%AF%E4%BB%98%E3%81%8D%E3%83%BB%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%83%BBfinal-E500%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%8C%96%E5%AE%9F%E7%8F%BE/dp/B0DT119MC6",
+    "https://www.amazon.co.jp/-/en/COTSUBU-Microphone-Recommended-Wireless-Earphones/dp/B0DT46R8J7",
+    "https://www.amazon.co.jp/-/en/Recommended-Lightweight-Microphone-Included-Earphones/dp/B0CVND7RKB",
+    "https://www.amazon.co.jp/for-asmr-3d/s?k=for+asmr+3d",
+    "https://www.amazon.co.jp/-/en/%E3%80%902940%E3%80%91%E3%80%90BORDEAUX%E3%80%91ag-UZURA-Fully-Wireless-Earbuds/dp/B0BV6WRG88",
+    "https://www.amazon.co.jp/gp/bestsellers/software/2449114051",
+    "https://www.amazon.co.jp/%E3%82%A8%E3%83%BC%E3%82%B8%E3%83%BC-COTSUBU-ASMR-3D%E3%83%BB%E6%98%8E%E7%9E%AD%E3%81%AA%E7%A9%BA%E9%96%93%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%8C%E6%84%9F%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%83%A2%E3%83%87%E3%83%AB%E3%83%BBASMR%E6%8E%A8%E8%96%A6%E3%83%BB%E5%B0%8F%E5%9E%8B%E3%83%BB%E8%BB%BD%E9%87%8F%E3%83%BBIPX4%E3%83%BBMEMS%E3%83%9E%E3%82%A4%E3%82%AF%E4%BB%98%E3%81%8D%E3%83%BB%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%83%BBfinal-E500%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%8C%96%E5%AE%9F%E7%8F%BE/dp/B0CVND7RKB"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:monotaro.com 3D MODEL AG",
+   "results": [
+    "https://www.monotaro.com/p/3850/9138/?srsltid=AYCX9vKRJZCYr5roRXU5EpPE_laUn53j-2bBTmEQVQ5igOeNVapRSsS8",
+    "https://www.monotaro.com/p/4533/1783/?srsltid=AYCX9vL7e3EwavZK2DC2zBS050mEHzYHS9hi9k-9QceBZ6mbaxASl6Fz",
+    "https://www.monotaro.com/p/5239/0180/?srsltid=AYCX9vKHxrZ4jXDTaWh4YL0q4h6uYb7inP_VTO8vzW6623PH72ut1f-q",
+    "https://www.monotaro.com/g/04468354/?srsltid=AYCX9vLPyV-zwG4a40Hq_ZqPbr-NjiiNXgqbC6CnQiFqpNLFRoEKtyIM",
+    "https://www.monotaro.com/s/q-3d%20%E6%B8%AC%E5%AE%9A%20%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC/?srsltid=AYCX9vJBpHLP3GC7on0_ACG6DMgJMIxjIGYtwwDxVb7d89XyasoUvqWA",
+    "https://www.monotaro.com/g/05154946/?srsltid=AYCX9vK3dt8guoP2ynRqdCA7EAfL-Yu7uYfdZ_q4tP_7HQpFgrfnQXaf",
+    "https://www.monotaro.com/p/1855/2564/?srsltid=AYCX9vJ0e5Vy1fFh0inBuZjv7nqkDWdnIJq-u6IWKUtI-5QeUyDx1YVi",
+    "https://www.monotaro.com/g/07074765/?srsltid=AYCX9vJEab3Y0Hhzbqoj78bR9TB_szG_t6E-M_8RbpYFs1JKN9xqd6O8",
+    "https://www.monotaro.com/g/06998562/?srsltid=AYCX9vKOxdlPIR2Xg2E9L9Bn9t1k8obqs0DjWB7w0JL6BD-T0-Weu2F2",
+    "https://www.monotaro.com/g/00011859/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D MODEL AG employees revenue parent company",
+   "results": [
+    "https://growjo.com/company/3D_Systems",
+    "https://en.wikipedia.org/wiki/3D_Systems",
+    "https://www.zoominfo.com/c/3d-systems/196755735",
+    "https://vectorshift.ai/research/companies/3d-systems/financials",
+    "https://getlatka.com/companies/3daistudio.com",
+    "https://www.investopedia.com/articles/investing/081515/three-biggest-3d-printing-companies.asp",
+    "https://www.fabbaloo.com/news/publicly-traded-3d-printing-companies-whos-really-making-money",
+    "https://www.precedenceresearch.com/3d-printing-market",
+    "https://www.youtube.com/watch?v=Gqkes5ERCTk",
+    "https://www.dnb.com/business-directory/company-profiles.3d-model_ag.b73a04e88a3271251a0af63abe514a70.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 3D MODEL AG",
+   "results": [
+    "https://note.com/npaka/n/n398211e6dba2?hl=en",
+    "https://note.com/lv1_in_the_sky/n/n008ccef8ae87?hl=en",
+    "https://note.com/siouxcitizen/n/n75ad708ad0c2",
+    "https://note.com/kout42/n/n87f9ebfa4440?hl=en",
+    "https://note.com/hagyou/n/n94304cea1026?hl=en",
+    "https://note.com/teiyuruku/n/n340bca8fd12b?hl=en",
+    "https://note.com/jakoboshi/n/n6c1dbc0d3a8c",
+    "https://note.com/uma_hokkaido/n/n7c4a2a9182d3?hl=en",
+    "https://note.com/rapid_gerbil992/n/n4ba1965046d3",
+    "https://note.com/npaka/n/n398211e6dba2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 3D MODEL AG",
+   "results": [
+    "https://x.com/SketchinSteps/status/2119152435365069249",
+    "https://x.com/claudeai/status/2106125468365918268",
+    "https://x.com/3D__MODEL/status/1847266722736230497",
+    "https://x.com/seanbulldesign/status/2087211821786616148?lang=ca",
+    "https://x.com/Dinosn/status/2115494511631626668",
+    "https://x.com/reza825_/status/2112134806859588027",
+    "https://x.com/lIJCThorntonll/status/2085815521002369211",
+    "https://x.com/YVOVY_AI",
+    "https://x.com/Auto_Gaming",
+    "https://x.com/Samuelsimonsun1/status/2107448013253661038"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 3D MODEL AG",
+   "results": [
+    "https://de.linkedin.com/company/3d-model-ag",
+    "https://www.linkedin.com/posts/cornetolivierzh_create-3d-models-directly-on-the-native-activity-7518970748154134529-nRvz",
+    "https://de.linkedin.com/company/shining-3d-tech-co-ltd-",
+    "https://ch.linkedin.com/in/george-benz-341aa7a",
+    "https://www.linkedin.com/company/mirada3d",
+    "https://www.linkedin.com/pulse/from-3d-scan-lighting-design-metaroom-reluxdesktop-anoqe",
+    "https://ch.linkedin.com/company/protoshape",
+    "https://www.linkedin.com/products/metaroom-by-amrax-metaroom%C2%AE-app/",
+    "https://ch.linkedin.com/company/a-metal",
+    "https://www.linkedin.com/company/3d-model-ag"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 3D MODEL AG",
+   "results": [
+    "https://www.facebook.com/3dmodelag/",
+    "https://www.facebook.com/loop3dprinter/",
+    "https://www.facebook.com/groups/dronemappingandsurveying/posts/1234124362244098/",
+    "https://www.facebook.com/groups/dronemappingandsurveying/posts/619224723734068/",
+    "https://www.facebook.com/3dmodelag/photos/1659155206210620/",
+    "https://www.facebook.com/iamag.co/posts/from-conceptto-sketch-to-final-3d-model-watch-this-exclusive-master-class-with-e/1384467516368747/",
+    "https://www.facebook.com/groups/2490092477886690/posts/4716091115286804/",
+    "https://www.facebook.com/groups/2654412264707391/posts/3318921028256508/",
+    "https://www.facebook.com/groups/2280653475795306/posts/2364286494098670/",
+    "https://www.facebook.com/3dmodelag/posts/looking-for-quality-ceramic-parts-3d-model-ag-offers-industrial-ceramic-parts-fo/1600105163389013/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D MODEL AG note 社長",
+   "results": [
+    "https://note.com/tag/3D%E3%83%A2%E3%83%87%E3%83%AB",
+    "https://note.com/tag/3D%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0",
+    "https://note.com/topic/3d",
+    "https://scholarly.so/jp/tools/notes-to-3d-model",
+    "https://note.com/tag/3D%E3%83%A2%E3%83%87%E3%83%AB%E4%BD%9C%E6%88%90",
+    "https://sketchfab.com/3d-models/aang-and-his-staff-2e7f3c23b18d470da91ccd750af554b3",
+    "https://note.com/tokyomakers/n/nf72b7442e2cd",
+    "https://note.com/mar810",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D MODEL AG X 投稿",
+   "results": [
+    "https://www.printables.com/tag/agx",
+    "https://www.algoryx.se/documentation/complete/agx/tags/latest/doc/UserManual/source/3d-viewer.html",
+    "https://sketchfab.com/tags/ag",
+    "https://www.youtube.com/watch?v=KrFttd5D1cw",
+    "https://www.yeggi.com/q/jetson+agx+xavier/",
+    "https://helpx.adobe.com/after-effects/desktop/import-files/import-and-add-3d-models/import-3d-model.html",
+    "https://poly.cam/album/9682df5c-f4a4-4f79-9cbc-1a0ac33d4007",
+    "https://www.reddit.com/r/computervision/comments/1lov3bi/help_improving_3_d_reconstruction_with_the_vggt/?tl=ja",
+    "https://www.yeggi.com/q/jetson+xavier+agx/",
+    "https://cults3d.com/en/users/AG-figures/3d-models"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

@@ -1,0 +1,1637 @@
+{
+ "name": "Sensehq",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T21:35:48.003374+00:00",
+ "official_url": "https://www.sensehq.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$89.5M",
+    "url": "https://getlatka.com/companies/sense",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate Scoring & Matching",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate placements and streamline recruiting with a powerful enterprise staffing platform.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing teams with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Amplify your recruiting with the power of AI Recruiter.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the latest best practices and stay ahead of industry trends",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Evolution of the Recruiting CRM: From Database to Digital Recruiter",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiting CRMs have evolved from passive databases into digital recruiters that engage candidates, prioritize pipelines, and drive outcomes on their own. This shift lets human recruiters focus on trust, judgment, and closing talent while the CRM handles scale.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Storytelling in Recruiting: The Competitive Edge AI Can’t Replicate",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "While AI transforms recruiting processes, storytelling remains a uniquely human skill that shapes employer brand and influences top talent.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Candidate Trust in Automated Hiring",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to maintain candidate trust in an AI-driven hiring process through transparency, communication, and feedback.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond the Black Hole: How Hollstadt Consulting Used Voice AI to Deliver a Candidate-First Hiring Experience",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For businesses looking to master the demands of modern recruiting, Hollstadt’s success proves that technology and personalization are not mutually exclusive—they are the powerful combination required to win the war for talent.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metrics drive behavior. If you measure only for speed and cost, your teams will optimize for speed and cost — often at the expense of fairness and candidate experience.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reports, templates and whitepapers to help your hiring get even better",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Definitive Guide to Recruiting Automation in Retail",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how automation transforms retail hiring by boosting speed, consistency, and candidate engagement at scale.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Definitive Guide to Recruiting Automation in Business Process Outsourcing (BPO)",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explores how automation transforms recruiting in the BPO sector - boosting speed, quality and scale.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing Recruitment | Sense",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate Scoring & Matching",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate placements and streamline recruiting with a powerful enterprise staffing platform.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing teams with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Amplify your recruiting with the power of AI Recruiter.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the latest best practices and stay ahead of industry trends",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "The Evolution of the Recruiting CRM: From Database to Digital Recruiter",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiting CRMs have evolved from passive databases into digital recruiters that engage candidates, prioritize pipelines, and drive outcomes on their own. This shift lets human recruiters focus on trust, judgment, and closing talent while the CRM handles scale.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Storytelling in Recruiting: The Competitive Edge AI Can’t Replicate",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "While AI transforms recruiting processes, storytelling remains a uniquely human skill that shapes employer brand and influences top talent.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Building Candidate Trust in Automated Hiring",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to maintain candidate trust in an AI-driven hiring process through transparency, communication, and feedback.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond the Black Hole: How Hollstadt Consulting Used Voice AI to Deliver a Candidate-First Hiring Experience",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "For businesses looking to master the demands of modern recruiting, Hollstadt’s success proves that technology and personalization are not mutually exclusive—they are the powerful combination required to win the war for talent.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Metrics drive behavior. If you measure only for speed and cost, your teams will optimize for speed and cost — often at the expense of fairness and candidate experience.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Reports, templates and whitepapers to help your hiring get even better",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "The Definitive Guide to Recruiting Automation in Retail",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how automation transforms retail hiring by boosting speed, consistency, and candidate engagement at scale.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "The Definitive Guide to Recruiting Automation in Business Process Outsourcing (BPO)",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "See how Sense helps recruiting teams achieve their goals",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Leading home health and hospice provider",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Home Improvement Giant",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in hiring YoY",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerating hiring for top brands",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "using QR-code job listings & automated instant pre-screening",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Talent Acquisition",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Once we got candidate in, the big challenge was to take it all the way to offer and get candidates to stay - when they're getting all these counter offers. This is where Sense really helps by driving engagement from interviews to offer to their first day.",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“We turned to Sense to help us quickly connect and engage with talent via text, chatbots, and creative re-engagement campaigns. As a result, we're measuring improvements in the quality of our talent pipeline, time-to-hire, and the number of people we're introducing into the Dell candidate experience.”",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Diversity Talent Acquisition",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by thousands of top brands",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing Recruitment | Sense",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing and Warehousing",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Attract and convert high volumes of manufacturing talent with AI-powered recruiting. Use modern tools like QR codes, text-to-apply, and chatbots to capture interest, then move candidates forward quickly with mobile-first experiences, automated screening, and interview scheduling.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "From production line workers to forklift operators and maintenance techs, Sense helps you",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Many manufacturing and warehouse workers are off-email and mobile-first. Sense enables you to engage candidates via SMS, WhatsApp, and chatbot instantly-driving faster response rates and keeping your pipeline warm even after hours.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Why Manufacturing & Warehousing Hiring Teams Choose Sense",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're filling roles for CDL drivers, forklift operators, dispatchers, or warehouse leads, Sense helps you",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/solutions/retail-restaurant-and-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2016, Sense has grown to become the leader in AI-powered Talent Engagement. Today, we’re redefining the recruitment process by seamlessly blending personalized, omnichannel candidate experiences with enhanced recruiter efficiency. Trusted by 1,000+ organizations, Sense accelerates hiring, delights candidates, and helps talent teams exceed their targets.",
+    "url": "https://www.sensehq.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/sense-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/marketplace/asj-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/marketplace/able",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/marketplace/accusource-hr",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/marketplace/akken-cloud",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Warehousing",
+    "url": "https://www.sensehq.com/marketplace/allied-insight",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: HealthCare Support boosts candidate engagement with Sense HQ | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/sense-hq/case-study/how-healthcare-support-proved-that-knowledge-really-is-power",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: HealthCare Support boosts candidate engagement with Sense HQ",
+    "url": "https://www.casestudies.com/company/sense-hq/case-study/how-healthcare-support-proved-that-knowledge-really-is-power",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/sense-hq/case-study/how-healthcare-support-proved-that-knowledge-really-is-power",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/sense-hq/case-study/how-healthcare-support-proved-that-knowledge-really-is-power",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Talent Acquisition",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Internal Talent Acquisition Teams",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Talent Acquisition",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Diversity Talent Acquisition",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Grace Became an Essential Part of Trillium’s Recruiting Team",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Miller Brother Staffing Leverages the Entire Sense Platform to Increase Speed, Efficiency, and Revenue",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Want to create phenomenal experiences for your candidates, employees, and partners? Talk to a Sense representative to understand how our automation & communication solutions can seamlessly do this for you.",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "In the Sense Partner Marketplace, you'll discover an array of third-party tools and services thoughtfully curated to add value to your business and cater to your unique hiring requirements. Embracing our Marketplace means accessing these resources, resulting in a remarkably streamlined experience that not only enhances efficiency but also saves your team time.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "ASJ Partners are the experts at accelerating revenues for Staffing and Recruiting Firms through unique, customized, and highly targeted marketing programs. These industry specific programs help you Sell More, Win More, Grow More, and Be Found More.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Ultra-Staff EDGE and Sense bring AI and Automation to the staffing industry to transform the talent experience and increase engagement while helping lower costs, protect revenue, and grow business.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Since 1923, our company has traveled up and down the Road with our partners, and while the tools of the trade change, our commitment to our clients never does. As an innovative and data-driven pioneer, Bayard’s approach is fundamentally about partnership and shared values on the journey to talent acquisition success.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "AI powered talent acquisition platform provides total workplace visibilty through integrated ATS and",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "The Radancy Talent Acquisition Cloud optimizes the entire candidate journey to maximize ROI, reduce costs and enable hiring qualified talent faster.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Make work less work Connect, collaborate, and create with Zoom’s AI powered platform. Empower your employees, teams, and customers to work better together and get more done.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Automate onboarding communications and connect with employees on milestones like their work anniversary and birthday. Send employee satisfaction surveys and use AI sentiment analysis to instantly discover how to improve engagement across the workforce.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Internal Talent Acquisition Teams",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Drive high-performance talent acquisition with a unified enterprise recruiting platform.",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your talent acquisition team with enterprise recruiting platform",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your staffing and talent acquisition team with AI Recruiter",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "The Dawn of the Conversational Era: Why AI Interviewers Are Transforming Talent Acquisition in 2026",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AI interviewers are transforming talent acquisition in 2026, backed by the latest Category Compass research from Kyle & Co. Learn how platforms like Sense are combining AI interviewers, recruiters, and receptionists to fully automate the front end of hiring, drastically reducing time-to-hire while elevating the candidate experience.",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Internal Talent Acquisition Teams",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Sense Platform for Talent Acquisition",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "Many manufacturing and warehouse workers are off-email and mobile-first. Sense enables you to engage candidates via SMS, WhatsApp, and chatbot instantly-driving faster response rates and keeping your pipeline warm even after hours.",
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage AI-powered job matching to share relevant roles with candidates based on their skills, experience, and preferences. Then build dynamic journeys to communicate with candidates at critical points in the hiring process via email, chatbot, SMS, and WhatsApp.",
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare professionals don’t keep 9-to-5 hours. With Sense, you can connect via SMS, WhatsApp, email, or AI chatbot any time of day-answering questions, collecting documentation, and booking interviews automatically, so your recruiters don’t miss a beat.",
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "Tech talent expects fast, relevant, and respectful communication. Sense enables omnichannel engagement via SMS, WhatsApp, email, and chatbot-so you can reach high-value candidates where they are and tailor the experience to their preferences.",
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Logistics talent is always on the move-so your outreach needs to be too. Engage through SMS, WhatsApp, email, and chatbots to connect with candidates in real time, increase response rates, and move them through the funnel faster-day or night.",
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Use intelligent automation to create tailored candidate experiences at scale. Reach candidates instantly via SMS, WhatsApp, or email, and move them forward with AI-powered scheduling and screening-while ensuring your communications align with industry regulations.",
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "New Hire Onboarding Email Templates",
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "pass": 1
+   },
+   {
+    "quote": "Use these new hire onboarding email templates to welcome and prepare your newest employees.",
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Referral Email Templates",
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "pass": 1
+   },
+   {
+    "quote": "This series of email templates will help you generate employee referrals from your workforce.",
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Candidate Ghosting Email Templates",
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "pass": 1
+   },
+   {
+    "quote": "These email templates will help you prevent candidate ghosting or re-engage candidates who have already ghosted.",
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Akken Cloud is the most comprehensive, enterprise, cloud-based platform available for staffing and recruiting agencies, built to streamline front office, middle office, and back office workflow.",
+    "url": "https://www.sensehq.com/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize and standardize hiring across your brand footprint",
+    "url": "https://www.sensehq.com/solutions/retail-restaurant-and-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Akken Cloud is the most comprehensive, enterprise, cloud-based platform available for staffing and recruiting agencies, built to streamline front office, middle office, and back office workflow.",
+    "url": "https://www.sensehq.com/marketplace/akken-cloud",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SenseHQ .com — SenseHQ .com SenseHQ.com https://www.sensehq.com",
+    "url": "https://www.sensehq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SenseHQ — SenseHQ SenseHQ.com https://support.sensehq.co > en-us",
+    "url": "https://support.sensehq.co/hc/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Sense - LinkedIn — Sense - LinkedIn LinkedIn https://www.linkedin.com > sensehq",
+    "url": "https://www.linkedin.com/company/sensehq",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank to invest $50 mn in SaaS company SenseHQ - Mint — SoftBank to invest $50 mn in SaaS company SenseHQ - Mint Livemint https://www.livemint.com > ... > News",
+    "url": "https://www.livemint.com/companies/news/softbank-to-invest-50-mnin-saas-company-sensehq-11638763468946.html",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories - SenseHQ .com — Success Stories - SenseHQ .com SenseHQ.com https://www.sensehq.com > customer-...",
+    "url": "https://www.sensehq.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Sense Secures $16M For Talent Acquisition Innovation — Sense Secures $16M For Talent Acquisition Innovation SenseHQ.com https://www.sensehq.com > blog > se...",
+    "url": "https://www.sensehq.com/blog/sense-secures-16-million-in-new-funding-to-drive-talent-acquisition-as-labor-market-rebounds",
+    "pass": 3
+   },
+   {
+    "quote": "Sensehq's Competitors, Revenue , Number of Employees ... — Sensehq's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > sensehq",
+    "url": "https://www.owler.com/company/sensehq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Making Sense Podcast (@MakingSenseHQ) / X Making Sense Podcast (@MakingSenseHQ) / X X https://x.com > MakingSenseHQ",
+    "url": "https://x.com/MakingSenseHQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sense - LinkedIn Sense - LinkedIn LinkedIn https://www.linkedin.com > sensehq",
+    "url": "https://www.linkedin.com/company/sensehq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Discover how AI Interviewer solves real recruiting challenges ... Discover how AI Interviewer solves real recruiting challenges ... Facebook https://www.facebook.com > sensehq.co > posts > discove...",
+    "url": "https://www.facebook.com/sensehq.co/posts/discover-how-ai-interviewer-solves-real-recruiting-challenges-missed-our-sense-a/1714529009661894/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sensehq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/solutions/manufacturing-and-warehousing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/marketplace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/sense-platform-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/solutions/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/solutions/technology-and-it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/solutions/logistics-and-transportation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/solutions/financial-services-and-insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/solutions/staffing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/solutions/retail-restaurant-and-hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/sense-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/marketplace/asj-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/marketplace/able",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/marketplace/accusource-hr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/marketplace/akken-cloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensehq.com/marketplace/allied-insight",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/613f2494a7d5cd1817022b81/6912cb9695ad7baf9205106d_customer-st-img%20(1).webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/car_watch/status/2117506082629370157",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thinq.co.jp/agency.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.sensehq.co/hc/en-us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sensehq.co/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJXTiv39ufNKkgFXrRaGZ71uv0sJ5P_R3ytuIF91V__oKbWEY82",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sense-hq/case-study/how-healthcare-support-proved-that-knowledge-really-is-power",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rtinsights.com/3-smart-manufacturing-use-cases-that-improve-production/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/sensehq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/sense-talent-labs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MakingSenseHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sensehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sensehq.co/posts/discover-how-ai-interviewer-solves-real-recruiting-challenges-missed-our-sense-a/1714529009661894/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sensehq 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://x.com/car_watch/status/2117506082629370157",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.webcg.net/articles/-/54505",
+    "https://www.sensehq.com/",
+    "https://www.denkishimbun.com/sp/375362"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sensehq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://thinq.co.jp/agency.php",
+    "https://dairiten-cloud.jp/columns/agency-vs-sales-agent",
+    "https://dairitenboshu.com/",
+    "https://www.provej.jp/column/distributor-vs-agent-2026/",
+    "https://usen.com/portal/partner/column/successful-agency-business/",
+    "https://zworker.jp/agent/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensehq Japan",
+   "results": [
+    "https://www.sensehq.com/",
+    "https://support.sensehq.co/hc/en-us",
+    "https://www.linkedin.com/company/sensehq",
+    "https://www.facebook.com/sensehq.co/?locale=ja_JP",
+    "https://www.livemint.com/companies/news/softbank-to-invest-50-mnin-saas-company-sensehq-11638763468946.html",
+    "https://www.youtube.com/watch?v=gYp1iC_PleA",
+    "https://www.sensehq.com/privacy-policy",
+    "https://www.crunchbase.com/organization/sense-talent-labs",
+    "https://www.youtube.com/channel/UCsfbzoFbEZVubrGS3BsAffg",
+    "https://www.sensehq.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sensehq manufacturing customer case study",
+   "results": [
+    "https://www.sensehq.com/customer-stories",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJXTiv39ufNKkgFXrRaGZ71uv0sJ5P_R3ytuIF91V__oKbWEY82",
+    "https://www.casestudies.com/company/sense-hq/case-study/how-healthcare-support-proved-that-knowledge-really-is-power",
+    "https://www.rtinsights.com/3-smart-manufacturing-use-cases-that-improve-production/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.featuredcustomers.com/vendor/sense-hq",
+    "https://www.teamsense.com/case-studies",
+    "https://6sense.com/customer-stories/global-industrial-manufacturing-company-generated-181m-in-pipeline-using-6sense/",
+    "https://www.insight.com/en_US/content-and-resources.html?tags=stream-type%3Acase-studies&tags=stream-partner%3Agoogle-cloud&offset=0&limit=10&year=&q=&language=en&pagePath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&searchPath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&srsltid=AYCX9vI03ZkbF8_f57ENqH0GwSa4NIRoBR-w2ATCCVxPeRRqxCU9HH0C",
+    "https://www.sensehq.com/solutions/manufacturing-and-warehousing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sensehq white label OR reseller OR partner program",
+   "results": [
+    "https://www.sensehq.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://www.embedmyreviews.com/partners/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensehq founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sense",
+    "https://www.sensehq.com/blog/sense-secures-16-million-in-new-funding-to-drive-talent-acquisition-as-labor-market-rebounds",
+    "https://www.owler.com/company/sensehq",
+    "https://www.crunchbase.com/organization/sense-talent-labs",
+    "https://tracxn.com/d/companies/sense/__5oVKgL9d31afKY-Kkt1boLMZS3cTZrqB4K5SpjfqTYg",
+    "https://www.zeliq.com/company/united-states/technology-information-and-media/software-development/sense",
+    "https://leadiq.com/c/sense/5a1d8a72240000240063e1a8",
+    "https://techcrunch.com/2021/12/05/hr-tech-startup-sense-valued-at-500-million-in-softbank-vision-fund-2-led-funding/",
+    "https://www.zoominfo.com/c/sense-talent-labs-inc/552831935",
+    "https://compworth.com/company/sense"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Sensehq",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/nakamuraclinic/all",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/c8c/n/n1cb28c4fe933",
+    "https://note.com/smartcore/n/nd99d3069b2ec?hl=en",
+    "https://note.com/ototolia/n/nf8aa5b093898",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sensehq",
+   "results": [
+    "https://x.com/SwissSense",
+    "https://x.com/hunainreem",
+    "https://x.com/AvaLabs",
+    "https://x.com/MakingSenseHQ",
+    "https://x.com/FrankVerhoef",
+    "https://x.com/sensehq",
+    "https://x.com/common_sensehq",
+    "https://x.com/common_sensehq/with_replies",
+    "https://x.com/common_sensehq/reposts",
+    "https://x.com/GoalsenseHQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Sensehq",
+   "results": [
+    "https://www.linkedin.com/company/sensehq",
+    "https://www.linkedin.com/products/sensehq-sense/",
+    "https://www.linkedin.com/in/anildharni",
+    "https://www.linkedin.com/in/pankajjindal",
+    "https://www.linkedin.com/posts/gouravhammad_sensehq-frontend-interview-experiencemy-activity-7309792568316203009-3tcN",
+    "https://in.linkedin.com/in/subhashis-dash-0309aa135",
+    "https://www.linkedin.com/posts/pankajjindal_staffingworld-al-artificiallntelligence-activity-7515817387288326144-JjFe",
+    "https://www.linkedin.com/posts/sensehq_home-activity-7136312702020255745-k1Qm",
+    "https://www.linkedin.com/posts/justinnoll_one-year-of-ai-recruiter-hard-truths-hidden-activity-7449475238993752064-NnKC",
+    "https://in.linkedin.com/company/sensehq"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Sensehq",
+   "results": [
+    "https://www.facebook.com/sensehq.co/",
+    "https://www.facebook.com/sensehq.co/posts/discover-how-ai-interviewer-solves-real-recruiting-challenges-missed-our-sense-a/1714529009661894/",
+    "https://www.facebook.com/groups/1365953357775492/posts/1841700366867453/",
+    "https://www.facebook.com/groups/1690333341208171/posts/4679791235595685/",
+    "https://www.facebook.com/TableSenseHQ/",
+    "https://www.facebook.com/StaffersInc/posts/hey-yall-we-are-starting-a-new-series-where-we-answer-the-most-frequently-asked-/1748647837261551/",
+    "https://www.facebook.com/ToddlerSenseChorley/posts/-mothers-day-competition-at-toddler-sense-hq-we-recognise-the-wonderful-job-all-/3047983081880293/",
+    "https://www.facebook.com/cogentuniversity/",
+    "https://www.facebook.com/flexstaffchilton/posts/-friday-flex-staff-fact-our-managers-bring-more-than-120-years-of-combined-exper/1722558943204863/",
+    "https://www.facebook.com/groups/1082321745874885/posts/2378638346243212/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sensehq note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/shorts/KLy9f-TGcmI",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://www.sensehq.com/",
+    "https://diamond.jp/articles/-/388572",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://support.sensehq.co/hc/en-us",
+    "https://www.gogyofuku.co.jp/kan/2020/08/note.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sensehq X 投稿",
+   "results": [
+    "https://www.sensehq.com/",
+    "https://support.sensehq.co/hc/en-us",
+    "https://publish.x.com/",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://www.facebook.com/sensehq.co/?locale=ja_JP",
+    "https://www.linkedin.com/company/sensehq",
+    "https://www.sensehq.com/support",
+    "https://qiita.com/hidao/items/11cb6ff8c29780b9ebdd",
+    "https://www.youtube.com/c/SenseHQ/videos",
+    "https://x.com/sensehq"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部23頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部23頁・検索12回）"
+ }
+}

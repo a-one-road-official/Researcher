@@ -1,0 +1,2087 @@
+{
+ "name": "Retellai",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T21:42:22.247381+00:00",
+ "official_url": "https://retellai.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "電話エージェント料金",
+    "value": "デフォルト Speech-to-Speech",
+    "url": "https://www.retellai.com/ja/pricing",
+    "pass": 1
+   },
+   {
+    "label": "チャットエージェントの料金",
+    "value": "Notes Pricing",
+    "url": "https://www.retellai.com/ja/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Call agent Pricing",
+    "value": "Default Speech-to-Speech",
+    "url": "https://www.retellai.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Chat Agent Pricing",
+    "value": "Notes Pricing",
+    "url": "https://www.retellai.com/pricing",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$4.5M",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/retell-ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Carlos, CA, USA",
+    "url": "https://startupintros.com/orgs/retell-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "With Retell, we’ve increased scheduling NPS by 38%, and filled underutilized provider capacity, allowing our team to focus on meaningful patient care instead of phone tag.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Lucas answers calls in seconds, handles urgent EV support at scale, cuts support costs by over 50%, and significantly improves our SaaS margins.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Production-Ready AI Agent Platform Your Team Can Operate",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Manually test changes, simulate thousands of scenarios, and turn real production calls into regression tests. Catch failures and edge cases before they reach your customers.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "QA up to 100% of your AI calls to measure performance at scale, surface patterns across conversations, and focus your team on the improvements that matter most.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Handle the workflows that make production call centers complex, from routing and transfers to outbound campaigns, human intervention, and CRM automation.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Detect IVRs, understand menu options, press digits, enter extensions, and reach the right destination during a live call.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "HIPAA、SOC2 Type II、GDPRに完全準拠",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive APIs & SDKs",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond the dashboard with APIs and SDKs that give developers deep programmatic control across the platform.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "AI voice agent pricing is usually charged per minute of call time. Retell AI runs $0.07 to $0.31 per minute for voice agents depending on the models, voice, and add-ons you select, with no annual contract and no per-resolution charge. Chat agents start at $0.002 per message. You can",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "on the pricing page, or",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "compare enterprise plans.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "See pricing and plans.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "that uses proprietary voice AI orchestration with low-latency speech recognition, LLM-powered conversation understanding, and real-time function calling. The platform features a ~600ms latency (industry-leading responsiveness), ultra-realistic voices built from real performance data, and proprietary turn-taking models that know when to speak and listen.​",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "ProActive Work Health Services で本番稼働中で、通常1〜2週間でデプロイできます",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We build end-to-end voice AI systems for customer support, lead qualification, outbound calling, and booking workflows that improve efficiency, reduce manual workload, and deliver measurable results.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Amplify Automation is a Brisbane-based Voice AI agency dedicated to helping trades and home services businesses adopt practical automation solutions. We specialise in building Voice AI agents powered by Retell that handle inbound calls 24/7 and reach out to new leads within minutes of enquiry.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We deploy Voice AI agents for businesses that can't afford to miss calls. 24/7 coverage, instant lead qualification, automatic appointment booking—all for less than a part-time hire. Custom-built for home services,hospitality, professional services, wellness, and facilities. Based in Hampshire, UK.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We have successfully deployed 75+ production-ready voice agents, primarily using Retell, across industries like healthcare, restaurants, legal services, and e-commerce and more.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "If you have searched for voice agent tutorials, chances are you have seen her YouTube videos with 800K+ views, breaking down real business use cases.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We help build from scratch, engineer effective prompts, set up SIP trunking or phone number routing, and integrate with third-party tools using function calls.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it is a single prompt, multi-step logic, conversational flow or a custom LLM, it is all covered.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt Engineering of Voice Agents",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We specialize in end-to-end Retell agent setup for companies that want production-grade calling infrastructure without the DIY learning curve.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What makes us different: we come from the marketing side of the table, not just the engineering side. Our founder has 10+ years in direct response and has managed over $50M in ad spend across 30+ verticals, so we don't just build agents that talk, we build agents that convert.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our agent setup service includes voice and prompt engineering, objection handling frameworks pulled from real sales floors, full integration with GoHighLevel, n8n, and your existing CRM stack, plus post-launch testing and optimization.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We offer both done-for-you builds and white-glove training for teams that want to run agents in-house.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "CallMe AI enables business owners to engage with 100% of their digital leads and gather data-rich insights, leading to higher rates of closing and reduction of lost revenue",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Coreventia helps small and medium-sized businesses reduce missed opportunities, improve responsiveness, and grow capacity through AI voice agents and workflow automation.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We design and implement AI receptionists and automation systems that answer calls, qualify enquiries, book appointments, follow up with leads, and handle repetitive administrative tasks automatically.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Many SMEs lose opportunities not because of poor service, but because calls go unanswered, enquiries wait too long for a response, or valuable time is spent on manual processes. Our solutions help businesses stay responsive 24/7, capture more opportunities, and increase operational capacity without adding headcount.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "These agents integrate directly with your existing tools and data sources, turning repetitive tasks into fully automated processes and giving your team time back to focus on high-value work.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはホームサービスや専門工事業（HVAC、配管、電気工事、屋根工事）を専門としており、ServiceM8、Jobber、Housecall Proなど、お客様がすでに利用しているソフトウェアと緊密に連携します",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From bespoke web development and captivating web designs to strategic digital media and AI Automation solutions, we are your dedicated partners in navigating the dynamic digital landscape. Our mission is to elevate your online presence, aligning seamlessly with your brand objectives.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Hi, I'm Michael La Spisa — a husband, father, and lifelong entrepreneur.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "After running multiple service and e-commerce businesses, I kept seeing the same problem: businesses were losing leads because they couldn't answer calls after hours or during busy times. Great companies were missing out on growth simply because they didn't have 24/7 coverage.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "🚨 Stop losing leads to slow follow-up. We fix that. Every new lead gets called within 60 seconds, every inbound call gets answered, and appointments get booked onto your calendar automatically. No fluff, no AI buzzwords. Just faster response, more booked appointments, and better ROI on your ad spend. Book a free 15-minute consultation here: https://cal.com/hsienjun.ong/growth-mapping",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Solven builds voice AI that works in production, not just in the demo. Every agent we deploy is built from scratch around how your business actually operates, fully integrated into your systems, and supported by the people who built it long after go-live.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Training, research, and development of call agents with AI. My name is Sonia, and I am passionate about voice AI. I firmly believe in all the possibilities it offers to businesses, allowing them to improve their communication and focus on those areas that can bring the most value to people.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Best AI Software Products 2026",
+    "url": "https://www.retellai.com/ja/partners-program",
+    "pass": 1
+   },
+   {
+    "quote": "Software training institute",
+    "url": "https://www.retellai.com/ja/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Performance marketing",
+    "url": "https://www.retellai.com/ja/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Performance marketing",
+    "url": "https://www.retellai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Software training institute",
+    "url": "https://www.retellai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The world's first enterprise-grade voice AI platform, built so no one has to wait to be heard.",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Hacker NewsおよびProductHuntにて正式ローンチを成功させました",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Less than a year after crossing $40M, Retell doubled to $80M in annualized revenue, as more enterprises put voice AI into their customer-facing workflows.",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We build in the open, ship fast, and hold ourselves to a standard that would make a team five times our size proud.",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Best Highest Satisfaction Products 2026",
+    "url": "https://www.retellai.com/ja/careers",
+    "pass": 1
+   },
+   {
+    "quote": "didlogic provides global voice infrastructure for AI voice agents: local and toll-free numbers in 130+ countries, SIP trunking, and direct carrier connections. Connect your Retell agents to real phone networks through a self-service portal in minutes, with no per-channel fees and no long-term contracts. Built on 15+ years of telecom operations across 12 Points of Presence worldwide.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Knotie-AI Pro is the all-in-one platform for AI Voice agencies, offering everything from white-label dashboards to marketing collateral and instant deployment. We don't just provide software—we help you build and scale your entire AI Voice business. Our platform integrates seamlessly with Retell AI, enabling agencies to deliver professional solutions while accelerating their growth.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Cloudonix is Communications Platform (CPaaS) that add super powers to your Retell voice agents. Providing seamless connectivity to service providers, on-premise or cloud communications systems, programmable voice APIs and full call-control APIs - functions such as transfers, conference calling, human in the loop coaching, and more are simple to implement.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Call Supplai is a white-label AI voice solution built for agencies, BPOs, and service providers looking to launch their own branded voice AI platform — without touching a line of code. Powered by Retell AI, it enables partners to offer intelligent, voice-first automation to clients for lead qualification, appointment booking, routing, and more.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Coval empowers developers to build enterprise voice AI in record time. Our all-in-one platform seamlessly combines conversation simulation, customizable evaluation metrics, and production monitoring to help you ship reliable agents faster and continuously optimize their performance.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "ChatDash is a white-label client dashboard platform tailored for Voice AI agencies. It empowers agencies to offer their clients professional, branded dashboards equipped with essential tools for managing AI interactions.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Cekura helps Conversational AI companies with automated QA. From pre-production simulation and evaluations to production call monitoring, to assisting customers in setting up the CI/CD pipeline, we help in QA across the agent lifecycle.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "LLAMADA IP is a telecommunications VoIP provider offering inbound numbering in over 50 countries, along with international call termination services. With a global reach and expertise in seamless VoIP integration, LLAMADA IP ensures reliable, two-way communication compatibility with Retell, providing dependable connectivity tailored to diverse markets.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Jambonz is an open-source CPaaS designed for communications service providers. It enables seamless connectivity to custom telephony systems via SIP trunking. Pricing: Hosted version: $8.00 per concurrency; Self-hosted version: Free.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "$8.00/Knowledge Base/month (prorated)",
+    "url": "https://www.retellai.com/ja/pricing",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Run outbound campaigns without stitching together another dialer. Upload your audience, schedule campaigns, control pacing and retries, handle voicemail, and let AI agents call at scale.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Webサイト：tempoflows.com・お問い合わせ：hello@tempoflows.com",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to learn more.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Results Engine helps Australian businesses stop losing revenue to voicemail by deploying Retell powered AI receptionists and outbound booking agents. Our voice AI answers calls 24/7, qualifies leads, books appointments and pushes clean data into your CRM, and we stay on as a strategic partner to tune performance over time.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/partners-program",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Community and Email Support",
+    "url": "https://www.retellai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do I get charged for failed calls or voicemails?",
+    "url": "https://www.retellai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You are only charged for connected calls. If a call fails to connect, you won't be billed. For calls that reach voicemail, billing applies only for the duration the AI agent is active on the line.",
+    "url": "https://www.retellai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/case-study/how-pine-park-health-elevates-senior-care-with-intelligent-voice-automation",
+    "pass": 1
+   },
+   {
+    "quote": "For EV drivers, support is time-sensitive by nature. Most callers are standing in front of a charger that needs to work immediately so they can continue their trip. Email, chat, or ticket queues were simply too slow.",
+    "url": "https://www.retellai.com/case-study/how-swtch-keeps-ev-drivers-moving-with-always-on-voice-support-powered-by-retell",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/case-study/how-swtch-keeps-ev-drivers-moving-with-always-on-voice-support-powered-by-retell",
+    "pass": 1
+   },
+   {
+    "quote": "The breaking point came when inbound call volume exceeded 3,000 calls per day. Many of those calls were going unanswered or going to voicemail, creating delays in both customer service and collections. MDS needed a way to absorb high call volumes without continuously adding headcount, while still preserving the quality and compliance required in healthcare revenue operations.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "MDS had already expanded into text and email communication, but phone calls remained the most important channel. Patients want real-time answers when discussing their medical bills, and insurance companies still rely heavily on voice for claims and payment follow-ups. The phone was also the most expensive and hardest part of the operation to scale.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/enterprise-plan",
+    "pass": 1
+   },
+   {
+    "quote": "You can unsubscribe at any time using the link in any email. This site is protected by reCAPTCHA and the Google",
+    "url": "https://www.retellai.com/ja/enterprise-plan",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/partner/alepi-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/partner/autoappoint",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/partner/delegation-kings",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/partner/dynamic-digital-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/case-study/the-san-antonio-spurs-transformed-season-ticket-transactions-for-a-better-fan-experience",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/use-cases/enterprise-ivr",
+    "pass": 3
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/case-study/how-anker-transformed-global-customer-support-with-human-quality-al-voice",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Retell AI, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "For more information, contact us at info@autoappoint.me",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to learn more.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Results Engine helps Australian businesses stop losing revenue to voicemail by deploying Retell powered AI receptionists and outbound booking agents. Our voice AI answers calls 24/7, qualifies leads, books appointments and pushes clean data into your CRM, and we stay on as a strategic partner to tune performance over time.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Website: tempoflows.com · Contact: hello@tempoflows.com",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/app-partner/chatdash",
+    "pass": 3
+   },
+   {
+    "quote": "Features include turn-taking models, interruption handling, voicemail detection, call transfers, and multi-channel support (calls, SMS, web)[2][4].",
+    "url": "https://startupintros.com/orgs/retell-ai",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "From bespoke web development and captivating web designs to strategic digital media and AI Automation solutions, we are your dedicated partners in navigating the dynamic digital landscape. Our mission is to elevate your online presence, aligning seamlessly with your brand objectives.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Vapify is a white-label platform that helps voice AI agencies sell, manage, and scale their AI agents under their own brand. Agencies can give clients a professional dashboard to view agents, track performance, monitor usage, and manage billing, without building the infrastructure from scratch.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Voice Solution",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Knotie-AI Pro is the all-in-one platform for AI Voice agencies, offering everything from white-label dashboards to marketing collateral and instant deployment. We don't just provide software—we help you build and scale your entire AI Voice business. Our platform integrates seamlessly with Retell AI, enabling agencies to deliver professional solutions while accelerating their growth.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Call Supplai is a white-label AI voice solution built for agencies, BPOs, and service providers looking to launch their own branded voice AI platform — without touching a line of code. Powered by Retell AI, it enables partners to offer intelligent, voice-first automation to clients for lead qualification, appointment booking, routing, and more.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "ChatDash is a white-label client dashboard platform tailored for Voice AI agencies. It empowers agencies to offer their clients professional, branded dashboards equipped with essential tools for managing AI interactions.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Solution Partner Program",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "The Retell Solution Partner Program is for agencies, developers, and technology providers building voice agents on Retell. Get certified, get listed in the partner directory, and build with co-marketing, priority support, and early access to the platform.",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Who is eligible for the Solution Partner Program?",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, systems integrators, independent developers, and technology providers that build voice Al or conversational solutions for clients on the Retell platform.",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "We also deliver white-label builds for agencies and platforms who sell voice AI and need someone to build it properly.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Voice Solution",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "From bespoke web development and captivating web designs to strategic digital media and AI Automation solutions, we are your dedicated partners in navigating the dynamic digital landscape. Our mission is to elevate your online presence, aligning seamlessly with your brand objectives.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "TalkFlowAI is a leading VoiceAI company, empowering businesses to scale customer support and outreach campaigns efficiently. We serve diverse industries, including medical clinics (AI receptionists), real estate (lead qualification), Shopify sellers (customer support), and SMM agencies (outreach campaigns). For any business seeking a powerful VoiceAI solution, TalkFlowAI delivers.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Our work ranges from AI receptionists and outbound qualification agents to white-label, multi-tenant Voice AI platforms with usage billing and client dashboards. Every deployment ships with the discipline of real infrastructure: staging environments that mirror production, eval and regression suites before launch, and monitoring, alerting, and versioned changes after it.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "ChatDash is a white-label client dashboard platform tailored for Voice AI agencies. It empowers agencies to offer their clients professional, branded dashboards equipped with essential tools for managing AI interactions.",
+    "url": "https://www.retellai.com/app-partner/chatdash",
+    "pass": 3
+   },
+   {
+    "quote": "ChatDash is a white-label client dashboard platform designed for AI agent agencies. It integrates seamlessly with Retell AI, empowering agencies to offer clients professional, branded dashboards that simplify workflows, enhance transparency, and improve efficiency.",
+    "url": "https://www.retellai.com/app-partner/chatdash",
+    "pass": 3
+   },
+   {
+    "quote": ", saving agencies valuable time.",
+    "url": "https://www.retellai.com/app-partner/chatdash",
+    "pass": 3
+   },
+   {
+    "quote": "Call Supplai | White-Label AI Voice Agents on Retell AI",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI voice, built on Retell AI",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Call Supplai is a white-label platform built on Retell AI. Agencies and freelancers launch AI receptionists, sales agents and support lines for their clients, with their own logo on every screen, for $197 a month.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Call Supplai: AI voice white-label solution",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How does a Call Supplai white-label work?",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Call Supplai sits between Retell AI and your clients. Retell AI runs the voice; your brand runs the relationship.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How Call Supplai white-labels Retell AI →",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why do agencies white-label Retell AI with Call Supplai?",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand, front and center",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Call Supplai platform is fully white-labeled: interface, dashboard and analytics show your name, not someone else’s tech.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time transcription, sentiment analysis and call insights from Retell AI, presented in your branded dashboard.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In your branded dashboard",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Four places Call Supplai agencies sell Retell AI voice agents most often.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Most agencies start here",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "For freelancers and new agencies who want their own branded AI voice platform on Retell AI.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Full access to the Call Supplai white-label platform under your brand",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "For agencies and companies that want a Retell AI voice agent built and integrated for them.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "to Call Supplai for the white-label platform",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Guides for agencies selling AI voice agents",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How agencies price AI voice agents: setup fees, retainers with included minutes, overage and outcome pricing, plus a worked margin example on Retell AI.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How to start an AI voice agency in 2026: pick a niche, build on Retell AI, white-label it under your brand, price your service and land first clients.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Questions agencies ask about Call Supplai",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Call Supplai connects to your own Retell AI API key, so Retell bills call minutes and usage directly to your Retell account. The $197 per month covers the white-label platform. You set the price your own clients pay.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "No. The Call Supplai Agency Plan has no setup fee. You pay $197 per month for the white-label platform.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pick a time and we’ll show you the white-label platform, walk through pricing, and map out how you’d sell Retell AI voice agents to your clients.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "通信事業者、MSP、リセラー、代理店、テクノロジー企業が、基盤となる技術を自社で構築・保守することなく、自社ブランドで高度なAI音声エージェントを提供できるよう支援しています",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Retell AI 導入事例｜お客様の成功ストーリー | Retell AI",
+    "url": "https://www.retellai.com/ja/customers",
+    "pass": 1
+   },
+   {
+    "quote": "日本語対応AI音声エージェント | Retell AI",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "企業が日本語の通話にRetell AIを選ぶ理由",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AIエージェントは、深い文脈理解と高度なターンテイキング機能により、日本語での複雑な顧客対応を管理します",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコードのAIエージェントビルダーを使って、日本語の会話型ワークフローを数日で立ち上げられます",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で24時間365日のサポート、予約対応、顧客エンゲージメントを提供し、常に一貫した対応を実現します",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のAI音声エージェントのユースケース",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese AI Voice Agents | Retell AI",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Talk to Your Customers in Japanese Instantly",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Why Businesses Choose Retell AI for Japanese Calls",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI agents manage complex customer interactions in Japanese with deep contextual understanding and advanced turn-taking capabilities.",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Launch Japanese conversational workflows within days, fully tailored to your business needs using our no-code AI agent builder.",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Deliver 24/7 support, scheduling, and customer engagement in Japanese, ensuring consistent availability at all times.",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Use Cases for Japanese AI Voice Agents",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Service and Support in Japanese",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Outreach and Lead Qualification in Japanese",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Appointment Scheduling and Reminders in Japanese",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Payment and Billing Notifications in Japanese",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Surveys and Feedback Collection in Japanese",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Follow-Ups and Callbacks in Japanese",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本国内の状況を見ると、「今回紹介したような海外型の音声AIエージェントプラットフォーム」がそのまま日本語・日本市場に最適化されている例は、まだ多くありません",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "Kotoba Technologiesは、「日本とアジアで最高の音声AI基盤を築く」ことを掲げるスタートアップで、日本語に最適化されたTTSや音声翻訳、ボイスクローニング、超高速ASRなどのAPIを提供しています",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "Rechoは、日本市場に特化した音声AIエージェント企業として、カスタマイズ可能な音声エージェントを提供し、コールセンター業務やオペレーターの代替を主なユースケースにしています",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での対話体験を前提としたソリューションを展開している点で、海外プロダクトとの単純比較とは異なるポジションを取っています",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "そのほか、Sparkle AI株式会社（project: On）や、音声・エージェント領域に取り組むスタートアップも現れ始めており、自治体や大企業も含めてAIエージェント導入の実証・PoCが増えていると報じられています",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "こうした流れから、日本でも「音声AIエージェントの実運用」が本格的に普及していくのは時間の問題だと考えられます",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "プロバイダーによって日本語対応状況は異なる（Eleven Labsが最も自然な日本語音声を提供）",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応については、プロバイダーによって品質にばらつきがある",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": ".Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "CallMe AI enables business owners to engage with 100% of their digital leads and gather data-rich insights, leading to higher rates of closing and reduction of lost revenue",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Target Dial builds AI-powered voice agents that transform customer interactions. Our inbound AI handles customer service 24/7, ensuring fast and reliable support. Our outbound AI automates lead qualification, following up instantly on ad responses and booking appointments. Plus, our database reactivation AI re-engages dormant leads, turning missed opportunities into revenue.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our inbound AI provides round-the-clock customer support with consistent, reliable responses. On the outbound side, we automate lead qualification by instantly following up on ad inquiries and booking appointments directly into your calendar. We also specialize in database reactivation, re-engaging cold or dormant leads to recover lost revenue.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deligence Technologies Inc. is a technology firm headquartered in Toronto, Canada. Founded in May 2021, the company has rapidly grown to a team of 40 full-time employees, delivering cutting-edge digital solutions across various industries.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Results Engine helps Australian businesses stop losing revenue to voicemail by deploying Retell powered AI receptionists and outbound booking agents. Our voice AI answers calls 24/7, qualifies leads, books appointments and pushes clean data into your CRM, and we stay on as a strategic partner to tune performance over time.",
+    "url": "https://www.retellai.com/ja/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Achieved $80M Annualized Revenue",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Less than a year after crossing $40M, Retell doubled to $80M in annualized revenue, as more enterprises put voice AI into their customer-facing workflows.",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "didlogic provides global voice infrastructure for AI voice agents: local and toll-free numbers in 130+ countries, SIP trunking, and direct carrier connections. Connect your Retell agents to real phone networks through a self-service portal in minutes, with no per-channel fees and no long-term contracts. Built on 15+ years of telecom operations across 12 Points of Presence worldwide.",
+    "url": "https://www.retellai.com/ja/app-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Most Pine Park patients prefer to communicate by phone. They call to schedule visits, confirm appointment times, request changes to their care, or ask when a clinician will arrive. Families call as well. Community staff call on behalf of residents. Every interaction is important and every detail must be documented correctly so clinicians stay aligned and visits run smoothly.",
+    "url": "https://www.retellai.com/case-study/how-pine-park-health-elevates-senior-care-with-intelligent-voice-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Lucas operates reliably during both normal demand and sudden call surges, making him a core part of swtch’s support infrastructure.",
+    "url": "https://www.retellai.com/case-study/how-swtch-keeps-ev-drivers-moving-with-always-on-voice-support-powered-by-retell",
+    "pass": 1
+   },
+   {
+    "quote": "The breaking point came when inbound call volume exceeded 3,000 calls per day. Many of those calls were going unanswered or going to voicemail, creating delays in both customer service and collections. MDS needed a way to absorb high call volumes without continuously adding headcount, while still preserving the quality and compliance required in healthcare revenue operations.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "MDS had already expanded into text and email communication, but phone calls remained the most important channel. Patients want real-time answers when discussing their medical bills, and insurance companies still rely heavily on voice for claims and payment follow-ups. The phone was also the most expensive and hardest part of the operation to scale.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "MDS built multiple voice agents on Retell, each designed to handle a different part of its operations.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "The impact on revenue and operations",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "MDS plans to continue expanding its use of voice AI across additional workflows. What started with inbound call handling has become a foundation for long-term efficiency, allowing the company to scale its healthcare revenue operations without sacrificing service quality.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "With Retell, MDS has transformed voice from a cost center into a revenue-driving, always-on engine — one that supports patients, staff, and hospitals alike.",
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "pass": 1
+   },
+   {
+    "quote": "The Retell Solution Partner Program is for agencies, developers, and technology providers building voice agents on Retell. Get certified, get listed in the partner directory, and build with co-marketing, priority support, and early access to the platform.",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Pass technical certification and carry the Retell partner badge on your own site, proposals, and pitches.",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Get listed in the Retell Solution Partner Directory with your specialisms, industries, languages, and integrations.",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Anker’s customer support team wanted to automate high-volume Tier-1 inquiries such as order tracking, warranty checks, and troubleshooting. Existing chatbot and IVR solutions had failed to meet the company’s standards for natural conversation and first-call resolution. The team set two ambitious KPIs for the pilot:",
+    "url": "https://www.retellai.com/case-study/how-anker-transformed-global-customer-support-with-human-quality-al-voice",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a China based Manufacturing organisation with 370 employees and revenues of $791.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a Singapore based Professional Services organisation with 400 employees and revenues of $30.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a Canada based Utilities organisation with 115 employees and revenues of $18.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 70 employees and revenues of $8.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a Spain based Construction and Real Estate organisation with 10 employees and revenues of $1.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Retell AI, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025 Everise Holdings Pte Ltd integrated Retell AI, a Chatbots and Conversational AI application, to automate its global internal IT helpdesk across the U.S., India, Guatemala, and the Philippines. The implementation targeted internal IT service desk intake and first contact resolution for employees, positioning Retell AI as the conversational intake layer for support requests.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organization with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Retell AI range from small businesses with 0-100 employees - 40%, to mid-sized firms with 101-1,000 employees - 60%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using Retell AI?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of Retell AI include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified Retell AI customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of Chatbots and Conversational AI.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "CallMe AI enables business owners to engage with 100% of their digital leads and gather data-rich insights, leading to higher rates of closing and reduction of lost revenue",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Deligence Technologies Inc. is a technology firm headquartered in Toronto, Canada. Founded in May 2021, the company has rapidly grown to a team of 40 full-time employees, delivering cutting-edge digital solutions across various industries.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Real result: one HVAC client recovered $8,500 in booked revenue and 8 extra jobs in the first month. We handle the build, hosting, monitoring, and ongoing changes, so our clients stop chasing calls and start answering more customers.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Results Engine helps Australian businesses stop losing revenue to voicemail by deploying Retell powered AI receptionists and outbound booking agents. Our voice AI answers calls 24/7, qualifies leads, books appointments and pushes clean data into your CRM, and we stay on as a strategic partner to tune performance over time.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Target Dial builds AI-powered voice agents that transform customer interactions. Our inbound AI handles customer service 24/7, ensuring fast and reliable support. Our outbound AI automates lead qualification, following up instantly on ad responses and booking appointments. Plus, our database reactivation AI re-engages dormant leads, turning missed opportunities into revenue.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "TempoFlows builds and operates production Voice AI systems for companies that can't afford demo-grade deployments. We specialize in the hard part of Voice AI: integrating agents into the telecom and business infrastructure organizations already run — SIP trunks, legacy PBXs, contact center platforms, CRMs, and custom backends — rather than asking them to replace it.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "We serve healthcare, legal, insurance, home services, financial services, contact centers, and BPOs — industries where calls carry revenue and compliance weight, and where escalation to a live human has to work flawlessly. Companies come to us when they need Voice AI connected to systems other vendors called too complicated.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Our inbound AI provides round-the-clock customer support with consistent, reliable responses. On the outbound side, we automate lead qualification by instantly following up on ad inquiries and booking appointments directly into your calendar. We also specialize in database reactivation, re-engaging cold or dormant leads to recover lost revenue.",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "didlogic provides global voice infrastructure for AI voice agents: local and toll-free numbers in 130+ countries, SIP trunking, and direct carrier connections. Connect your Retell agents to real phone networks through a self-service portal in minutes, with no per-channel fees and no long-term contracts. Built on 15+ years of telecom operations across 12 Points of Presence worldwide.",
+    "url": "https://www.retellai.com/app-partner/chatdash",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI Revenue 2025: $40M, $4.5M Raised",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI's annual revenue was $40M in November 2025 (Press & News).",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Bing Wu founded Retell AI in 2023 and runs it as CEO. Retell AI had 41 employees (April 2025, LinkedIn), up from 16 a year earlier.",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Retell AI's revenue?",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI's annual revenue was",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Retell AI have?",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "By early 2025, Pine Park recognized the need for a specialized voice automation partner. Retell AI stood out immediately. The technology was strong, but the partnership mattered even more. Retell interviewed Pine Park clinicians and operators, drafted initial prompts, shaped escalation logic, and designed a data workflow that allowed non-technical staff to make updates easily.",
+    "url": "https://www.retellai.com/case-study/how-pine-park-health-elevates-senior-care-with-intelligent-voice-automation",
+    "pass": 1
+   },
+   {
+    "quote": "VP、開発・イノベーション部門、Asbury Automotive Group",
+    "url": "https://www.retellai.com/ja/enterprise-plan",
+    "pass": 1
+   },
+   {
+    "quote": "BPOs & service operators",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "How do I get my work featured as a case study?",
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "pass": 1
+   },
+   {
+    "quote": "1121 Industrial Rd,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a China based Manufacturing organisation with 370 employees and revenues of $791.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Operational scope covered Anker customer support teams handling post sales CRM workflows in the U.S. and U.K., with governance layered through support operations to monitor agent performance and escalate policy exceptions. Per the vendor case study the deployment achieved an 80.4% case resolution rate, a 63 NPS score, and greater than 95% speech recognition accuracy for Tier 1 voice support.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Retell AI are most concentrated in Manufacturing, Professional Services and Utilities, with adoption spanning over 21 industries.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Retell AI 導入事例｜お客様の成功ストーリー | Retell AI — 導入事例の声 他社のように自社を変革しませんか あらゆる規模の企業がRetell AIのAI音声エージェントを活用して業務を効率化し、カスタマーサービスを向上させ、スムーズにスケールする方法をご覧ください。",
+    "url": "https://www.retellai.com/ja/customers",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応AI音声エージェント | Retell AI — 日本語でのインバウンド・アウトバウンド通話に対応するAI音声エージェントをデプロイできます。自然な会話、迅速な導入、エンタープライズグレードのコンプライアンスを実現。",
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズIVR：コールセンター向けAI一次受付 | Retell AI — How It Works 問い合わせ理由の整理からすべてのキューへの展開まで、4つのステップでエンタープライズコンタクトセンターにAI一次受付を導入します。 問い合わせ理由をキューに対応付ける",
+    "url": "https://www.retellai.com/ja/use-cases/enterprise-ivr",
+    "pass": 3
+   },
+   {
+    "quote": "AI音声エージェント開発プラットフォーム | Retell AI — Retell AIは、自然な会話を実現するAI音声エージェントの構築・デプロイを支援するプラットフォームです。私たちのミッションと技術をご覧ください。",
+    "url": "https://www.retellai.com/ja/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese AI Voice Agents | Retell AI — Deploy AI voice agents that handle inbound and outbound calls in Japanese. Natural conversations, fast deployment, enterprise-grade compliance.",
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI電話エージェント料金プラン | Retell AI — Retell AIのAI電話エージェントの料金プランをご確認ください。高品質な音声AIで顧客対応を強化しましょう。",
+    "url": "https://www.retellai.com/ja/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "AI Voice Agents That Automate Phone Calls | Retell AI — Deploy voice AI agents that answer, qualify, and book on real phone calls. 95.7% workflow accuracy, ahead of 6 platforms. HIPAA and SOC 2. Pilot on real calls.",
+    "url": "https://www.retellai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI Customers | Case Studies & Success Stories from ... — See Why Over 4,000 Businesses Trust Retell Discover how industry leaders use Retell’s AI voice agents to streamline operations, enhance customer service, and scale effortlessly.",
+    "url": "https://www.retellai.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Anker: AI Voice for Global Customer Support | Retell AI — See how Anker used Retell AI to handle multilingual customer support calls at scale while maintaining human-level voice quality and customer satisfaction.",
+    "url": "https://www.retellai.com/case-study/how-anker-transformed-global-customer-support-with-human-quality-al-voice",
+    "pass": 3
+   },
+   {
+    "quote": "List of Retell AI Customers - Apps Run The World — Each quarter our research team identifies companies that have purchased Retell AI for Chatbots and Conversational AI from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location, implementation status, partner involvement, LOB Key ...",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Retell video tutorials organized by use case - Retell AI — Browse Retell video tutorials organized by use case — appointment booking, lead qualification, support, IVR replacement — with end-to-end examples.",
+    "url": "https://docs.retellai.com/videos/by-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Solution Partner | Retell AI — Call Sandwich is a certified Elite Retell AI partner — the highest tier in Retell's partner program. We specialize in building enterprise-grade voice AI integrations for complex telephony environments that standard agencies won't touch. Our team connects Retell to legacy and modern stacks alike — ViciDial, Asterisk, FreeSWITCH, NICE inContact, Avaya, Talkdesk,",
+    "url": "https://www.retellai.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "ChatDash | Retell AI APP Partner — About ChatDash ChatDash is a white-label client dashboard platform designed for AI agent agencies. It integrates seamlessly with Retell AI, empowering agencies to offer clients professional, branded dashboards that simplify workflows, enhance transparency, and improve efficiency. Exclusive Offer for Retell AI Users As a valued Retell AI partner, we’re offering an",
+    "url": "https://www.retellai.com/app-partner/chatdash",
+    "pass": 3
+   },
+   {
+    "quote": "Call Supplai | White-Label AI Voice Agents on Retell AI — Call Supplai is a white-label AI voice agent platform built on Retell AI. Sell AI receptionists, sales and support agents under your brand for $197/month.",
+    "url": "https://www.callsupplai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label RetellAI Without The Headaches · VoiceAIWrapper ... — Clients log into YOUR dashboard, pay YOUR rates, and never know RetellAI exists. **Perfect for:** 🎯 Agencies wanting to scale voice AI services 🎯 Anyone tired of thin reseller margins 🎯 Teams needing white-label automation **Questions I'm getting:** - \"Can I use multiple providers?\" (Yes - Vapi, RetellAI, more coming)",
+    "url": "https://www.skool.com/voice-ai-wrapper-academy-3838/white-label-retellai-without-the-headaches",
+    "pass": 3
+   },
+   {
+    "quote": "Retell - 2026 Company Profile, Team, Funding & Competitors ...Retell AI Revenue 2025: $40M, $4.5M Raised - getlatka.comRetell AI: funding rounds, valuation, investors and revenueRetell AI: Funding, Team & Investors | Startup IntrosRetell AI: Funding, Investors & Team (Nov 2026) | FundedIQRetell AI (Business/Productivity Software) 2026 Company ...Retell AI - Overview, News & Similar companies | Zoo",
+    "url": "https://tracxn.com/d/companies/retell/__qAFnbwN7vHuMUKADfyXxnzuEXs4E8UwpfKZrjdIsu_Y",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI Revenue 2025: $40M, $4.5M Raised - getlatka.com — Oct 30, 2026 · Retell AI 2025 revenue: $40M. Total funding: $4.5M across 1 round. 41 employees. Industry: Voice AI Agents. Founded 2023. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/retellai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI: funding rounds, valuation, investors and revenue — Retell AI Redwood City, US · founded 2023 · ~60 employees · Information · retellai.com Save",
+    "url": "https://ai.lounge.ai/companies/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Retell AI was founded in 2023 by Bing Wu (Founder) and Todd Li (Co-Founder) and Zexia Zhang (Founder) and Weijia Yu (Founder) and Evie Wang (Founder). How much funding has Retell AI raised?",
+    "url": "https://startupintros.com/orgs/retell-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI: Funding, Investors & Team (Nov 2026) | FundedIQ — Retell AI: Funding, Investors & Team (Nov 2026) RetellAI is an API for creating human-like conversational voice AI. Developers can build a voice AI similar to JARVIS in just a day — with an ~800ms response time and the ability to handle interruptions.",
+    "url": "https://fundediq.co/retell-ai-retellai-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "音声AIプラットフォームの戦国時代：VAPI・RetellAIの二強時代から群... Jan 17, 2026 · 皆さんこんにちは。カナダでAIオートメーションエージェンシーを運営しているToshikiです。 最近バタバタと忙しく、前回の記事から期間が空いてしまいました。。。 今日は、音声AIプラットフォームに関する内容です。 「音声AIを作るなら、VAPIかRetell AIのどちらかが正解」――そんな常識が ...",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "「Retell AI」の特化型AIエージェントについて｜木下寛士 May 16, 2025 · Retell AI（リテルAI）は、音声AIエージェント構築に特化したプラットフォームで、電話やオンライン会話での顧客対応を自動化する革新的なサービスです。特に自然な音声対話と人間らしいコミュニケーションを実現する技術で注目されています。 Retell AIの基本概要 Retell AIは2024年にY Combinatorに ...",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "音声AIプラットフォームの戦国時代：VAPI・RetellAIの二強時代から群雄割拠の「AIエージェント」時代へ｜Toshiki｜音声AIエージェント × AI業務自動化 in バンクーバー",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIプラットフォームの戦国時代：VAPI・RetellAIの二強時代から群雄割拠の「AIエージェント」時代へ",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "Toshiki｜音声AIエージェント × AI業務自動化 in バンクーバー",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんこんにちは。カナダでAIオートメーションエージェンシーを運営しているToshikiです。",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "最近バタバタと忙しく、前回の記事から期間が空いてしまいました。。。",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、音声AIプラットフォームに関する内容です。",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "「音声AIを作るなら、VAPIかRetell AIのどちらかが正解」――そんな常識が、ここ1年ほどで大きく変わりつつあります。 海外では、新しいプレイヤーが次々と登場し、「音声AIエージェント」を軸にした競争が一気に激化しています。 今回は、開発者や経営者の方が押さえておきたい「2026年の音声AIトレンド」を整理しました。",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "かつての「二強」体制（VAPI, Retell AI）",
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "pass": 3
+   },
+   {
+    "quote": "「Retell AI」の特化型AIエージェントについて｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "「Retell AI」の特化型AIエージェントについて",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI（リテルAI）は、音声AIエージェント構築に特化したプラットフォームで、電話やオンライン会話での顧客対応を自動化する革新的なサービスです。特に自然な音声対話と人間らしいコミュニケーションを実現する技術で注目されています。",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AIは2024年にY Combinatorに採択された音声AIスタートアップで、LLM（大規模言語モデル）をベースとしたConversational Voice APIを提供しています。音声認識（STT）、テキスト生成、音声合成（TTS）、ストリーミングなど、音声AIに必要な要素をフルスタックで提供することが特徴です。",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なAIの機械的な応答と異なり、感情を理解し適切な感情表現を交えた自然な会話を実現",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からのフィードバックを元に自己改善を継続し、対話能力を向上させる学習機能",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "会話の文脈を理解し、一貫性のある対話を維持する能力",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   },
+   {
+    "quote": "2. ノーコード・プロンプトベースの柔軟な制御",
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Retell AI (@retellai) / X Last week, we hosted the first Retell Roundtable in San Francisco. Pavi Bhatter from @figma , Grace Joseph from @Google , and Lawrence Chen from @retellai joined moderator Andey Ng for a conversation about how AI is changing the way software is designed and built. We talked Show more",
+    "url": "https://x.com/retellai",
+    "pass": 3
+   },
+   {
+    "quote": "We're excited to welcome @GainsightHQ to the @retellai ... Retell AI (@retellai). 5 likes 453 views. We're excited to welcome @GainsightHQ to the @retellai customer family. Renewals are the critical engine of every subscription business, but proactively reaching every customer at scale is one of the hardest operational challenges in CS. And Gainsight is solving that. Their enterprise customers can",
+    "url": "https://x.com/retellai/status/2049175051036238127",
+    "pass": 3
+   },
+   {
+    "quote": "Subagent Nodes are live @retellai Use subagents when a step ... Retell AI (@retellai). 16 likes. Subagent Nodes are live @retellai Use subagents when a step in your flow needs both conversation and tool use. → Better prompt UX: space for context, rules, etc, all in one node → Node functions built in: agent transfer, MCP tools, custom functions, SMS, and more → The node runs the conversation AND ta",
+    "url": "https://x.com/retellai/status/2041655013400072210",
+    "pass": 3
+   },
+   {
+    "quote": "Code Nodes are live on @retellai Run JavaScript directly ... Code Nodes are live on @retellai Run JavaScript directly inside your conversation flow. Use it for things like calculations, data formatting, simple API calls, and logic that previously required an external server. → Extract a first name from a full name returned by an API https://t.co/s7G5x06OSO",
+    "url": "https://x.com/retellai/status/2039782900661731361",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI (@retellai) / X Pavi Bhatter from @figma , Grace Joseph from @Google , and Lawrence Chen from @retellai joined moderator Andey Ng for a conversation about how AI is changing the way software is designed and built.",
+    "url": "https://x.com/retellai",
+    "pass": 3
+   },
+   {
+    "quote": "\"#RetellAI\" - Results on X | Live Posts & Updates Mar 13, 2026 · Results for \"#RetellAI\" on X (Twitter). Find the latest posts, discussions, and updates about #RetellAI. 20 results found.",
+    "url": "https://x.com/hashtag/RetellAI",
+    "pass": 3
+   },
+   {
+    "quote": "Final launch from Retell Launch Week 2026 Introducing ... Jun 15, 2026 · Retell AI (@retellai). 19 likes 7 replies. Final launch from Retell Launch Week 2026 🚀 Introducing Expressive Mode. Sometimes the words are right, but the delivery isn't. Expressive Mode adds emotion to your voice agents with automatic or manual emotion tags, so the same script can sound empathetic, excited, surprised, or any",
+    "url": "https://x.com/retellai/status/2066586295988818085",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zexia Zhang - Co-Founder at Retell AI (YC W24) - LinkedInRyan Y. - Co-founder @ Retell AI (YC W24) | ex-Meta ...Evie Wang - Co-founder, CPO at Retell AI | Building AI Call ...Retell AI’s new HQ is officially open in San Carlos! This is ...Rotella's Italian Bakery, Inc. | LinkedIn Co-Founder at Retell AI (YC W24) | Reimagining call center with AI · Experience: Retell AI · Education: Y Combinator · ",
+    "url": "https://www.linkedin.com/in/zexia-zhang",
+    "pass": 3
+   },
+   {
+    "quote": "Ryan Y. - Co-founder @ Retell AI (YC W24) | ex-Meta ...Evie Wang - Co-founder, CPO at Retell AI | Building AI Call ...Retell AI’s new HQ is officially open in San Carlos! This is ...Rotella's Italian Bakery, Inc. | LinkedIn Co-founder @ Retell AI (YC W24) | ex-Meta | Building AI call center · Experience: Retell AI · Location: San Francisco · 500+ connections on LinkedIn. View Ryan Y.’s profile on ",
+    "url": "https://www.linkedin.com/in/weijiayu88",
+    "pass": 3
+   },
+   {
+    "quote": "Evie Wang - Co-founder, CPO at Retell AI | Building AI Call ...Retell AI’s new HQ is officially open in San Carlos! This is ...Rotella's Italian Bakery, Inc. | LinkedIn Evie is the co-founder and CPO of Retell AI. She is now taking on product leadership, connecting customer needs, product strategy, and revenue growth. Also, she built the company’s marketing ... Retell AI’s new HQ is officially ope",
+    "url": "https://www.linkedin.com/in/yanwang131415",
+    "pass": 3
+   },
+   {
+    "quote": "Evie Wang - Co-founder, CPO at Retell AI | Building AI Call ...Zexia Zhang - Co-Founder at Retell AI (YC W24) - LinkedInRetell - 2026 Company Profile, Team, Funding & Competitors ...Retell AI が従量課金価格設定を自動化して AI 音声エージェントプラ...AI音声エージェント開発プラットフォーム | Retell AIRetell AI Secures Seed Funding | Retell AIRetell AI ranks best workplace in Bay Area - San Francisco ... Evie is the co-founder and CPO of Retel",
+    "url": "https://www.linkedin.com/in/yanwang131415",
+    "pass": 3
+   },
+   {
+    "quote": "Zexia Zhang - Co-Founder at Retell AI (YC W24) - LinkedInRetell - 2026 Company Profile, Team, Funding & Competitors ...Retell AI が従量課金価格設定を自動化して AI 音声エージェントプラ...AI音声エージェント開発プラットフォーム | Retell AIRetell AI Secures Seed Funding | Retell AIRetell AI ranks best workplace in Bay Area - San Francisco ... Co-Founder at Retell AI (YC W24) | Reimagining call center with AI · Experience: Retell AI · Education",
+    "url": "https://www.linkedin.com/in/zexia-zhang",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Retellai - Facebook Jun 25, 2026 · 💥1 TRILLION OpenAI tokens processed by Retellai That’s ~750B words — enough to stack 7.5M novels past the ISS 🛰️ or print Wikipedia 150x over. Whether it's booking an appointment, resolving customer support requests or qualifying leads. Our hyper-realistic voice agents cover the workflow end-to- end.",
+    "url": "https://www.facebook.com/p/Retellai-61566452570323/",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI (@retellai) • Facebook, Connect with friends Retell AI is on Facebook. Join Facebook to connect with Retell AI and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/retellai/",
+    "pass": 3
+   },
+   {
+    "quote": "Retellai - Facebook Jun 25, 2026 · Retellai Jun 8, 2026· Day 1 of 5 · Retell Launch Week 2026 🚀 Introducing Live Monitoring, a real-time command center that helps teams watch and manage voice agents while calls are still in progress. When you're running hundreds or thousands of calls at the same time, it's tough to listen to everything. But you",
+    "url": "https://www.facebook.com/61566452570323/",
+    "pass": 3
+   },
+   {
+    "quote": "Retellai - The compliance review isn’t what’s slowing your ... Oct 26, 2026 · The compliance review isn’t what’s slowing your AI voice project down. It’s the platform that shows up without the paperwork, so your legal team builds the risk framework from scratch. Months of...",
+    "url": "https://www.facebook.com/61566452570323/posts/the-compliance-review-isnt-whats-slowing-your-ai-voice-project-downits-the-platf/122225656688548419/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.retellai.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/partners-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/app-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/case-study/how-pine-park-health-elevates-senior-care-with-intelligent-voice-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/case-study/how-swtch-keeps-ev-drivers-moving-with-always-on-voice-support-powered-by-retell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/case-study/how-medical-data-systems-scales-280-000-in-monthly-collections-with-ai-voice-agents-on-retell?_gl=1*eqivhr*_gcl_au*MTA2MDAzMDI5Mi4xNzgyMjQ3MTg0LjE1OTA0NTgzOTYuMTc4NDE0MTAyNC4xNzg0MTQxMjY5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/enterprise-plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/solution-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/partner/alepi-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/partner/autoappoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/partner/delegation-kings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/partner/dynamic-digital-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/case-study/the-san-antonio-spurs-transformed-season-ticket-transactions-for-a-better-fan-experience",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/64ada0f2685b2d18caa5e699/69a9ff781ad8d8f566dc66bd_eufy_logos%201.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/64ada0f3685b2d18caa5e7f5/6974cdbd5abd5ba8075a1270_customer_logos_urls-1769262138229.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/64ada0f3685b2d18caa5e7f5/6974cdbd5abd5ba8075a127f_customer_logos_urls-1769262138868.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/64ada0f3685b2d18caa5e7f5/6974cdbd5abd5ba8075a1277_customer_logos_urls-1769262139296.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.retellai.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/use-cases/enterprise-ivr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%AB%8B%E3%83%AC%E3%82%A4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/retell/__qAFnbwN7vHuMUKADfyXxnzuEXs4E8UwpfKZrjdIsu_Y",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/languages-ai/japanese-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/case-study/how-anker-transformed-global-customer-support-with-human-quality-al-voice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/dassault-systemes_retal_None.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.retellai.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/app-partner/chatdash",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.callsupplai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/retell/__qAFnbwN7vHuMUKADfyXxnzuEXs4E8UwpfKZrjdIsu_Y",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/retellai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.lounge.ai/companies/retell-ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/retell-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/retellai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/retellai/status/2049175051036238127",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/retellai/status/2041655013400072210",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/retellai/status/2039782900661731361",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zexia-zhang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/weijiayu88",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yanwang131415",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Retellai-61566452570323/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/retellai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61566452570323/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61566452570323/posts/the-compliance-review-isnt-whats-slowing-your-ai-voice-project-downits-the-platf/122225656688548419/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yanwang131415",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zexia-zhang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/retellai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/RetellAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/retellai/status/2066586295988818085",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Retellai 日本 導入",
+   "results": [
+    "https://www.retellai.com/ja",
+    "https://www.retellai.com/ja/customers",
+    "https://www.retellai.com/ja/languages-ai/japanese-ai",
+    "https://www.retellai.com/ja/use-cases/enterprise-ivr",
+    "https://www.retellai.com/ja/about-us",
+    "https://www.retellai.com/ja/newsroom",
+    "https://www.retellai.com/ja/use-cases/automated-phone-system"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retellai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://ja.wikipedia.org/wiki/足立レイ",
+    "https://tracxn.com/d/companies/retell/__qAFnbwN7vHuMUKADfyXxnzuEXs4E8UwpfKZrjdIsu_Y",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.retellai.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retellai Japan",
+   "results": [
+    "https://www.retellai.com/languages-ai/japanese-ai",
+    "https://www.retellai.com/ja",
+    "https://www.retellai.com/ja/pricing",
+    "https://www.retellai.com/",
+    "https://docs.retellai.com/deploy/international-call",
+    "https://www.retellai.com/customers",
+    "https://bench.retellai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retellai manufacturing customer case study",
+   "results": [
+    "https://www.retellai.com/customers",
+    "https://www.retellai.com/case-study/how-anker-transformed-global-customer-support-with-human-quality-al-voice",
+    "https://www.appsruntheworld.com/customers-database/products/view/retell-ai",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/dassault-systemes_retal_None.pdf",
+    "https://docs.retellai.com/videos/by-use-cases",
+    "https://www.youtube.com/watch?v=Q0_0QbRTdJE",
+    "https://stripe.com/customers/retell-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retellai white label OR reseller OR partner program",
+   "results": [
+    "https://www.retellai.com/partners",
+    "https://www.retellai.com/app-partner/chatdash",
+    "https://partner.vw.com/",
+    "https://www.callsupplai.com/",
+    "https://www.skool.com/voice-ai-wrapper-academy-3838/white-label-retellai-without-the-headaches",
+    "https://www.youtube.com/watch?v=QAqCVxSJAJM",
+    "https://www.youtube.com/watch?v=1P6dU5J6at4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retellai founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/retell/__qAFnbwN7vHuMUKADfyXxnzuEXs4E8UwpfKZrjdIsu_Y",
+    "https://getlatka.com/companies/retellai.com",
+    "https://ai.lounge.ai/companies/retell-ai",
+    "https://startupintros.com/orgs/retell-ai",
+    "https://fundediq.co/retell-ai-retellai-com-funding/",
+    "https://pitchbook.com/profiles/company/542500-57",
+    "https://www.zoominfo.com/c/retell-ai-inc/5000025658"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Retellai",
+   "results": [
+    "https://note.com/toshiki_voiceai/n/n559d9f1de47c",
+    "https://note.com/hiroshikinoshita/n/n34018d98b687",
+    "https://note.com/natty_toucan386/n/nf4936ae22459",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/yuyadachi/n/n509ef67b2d6c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hip_heron3242/n/n18226c78a971"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Retellai",
+   "results": [
+    "https://x.com/retellai",
+    "https://x.com/retellai/status/2049175051036238127",
+    "https://x.com/retellai/status/2041655013400072210",
+    "https://x.com/retellai/status/2039782900661731361",
+    "https://x.com/retellai/status/2066586295988818085",
+    "https://x.com/retellai/status/2044817955398287668",
+    "https://x.com/retellai/status/2049889213735465407"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Retellai",
+   "results": [
+    "https://www.linkedin.com/company/retellai/jobs",
+    "https://www.linkedin.com/in/zexia-zhang",
+    "https://www.linkedin.com/in/weijiayu88",
+    "https://www.linkedin.com/in/yanwang131415",
+    "https://www.linkedin.com/company/retellai/",
+    "https://www.linkedin.com/company/rotellas-bakery",
+    "https://www.linkedin.com/posts/retellai_retell-ais-new-hq-is-officially-open-in-activity-7350949093076054020-3cf1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Retellai",
+   "results": [
+    "https://www.facebook.com/p/Retellai-61566452570323/",
+    "https://www.facebook.com/retellai/",
+    "https://www.facebook.com/61566452570323/",
+    "https://www.facebook.com/61566452570323/posts/the-compliance-review-isnt-whats-slowing-your-ai-voice-project-downits-the-platf/122225656688548419/",
+    "https://www.facebook.com/groups/1418563452142232/posts/2066409167357654/",
+    "https://www.facebook.com/connie.rotella.7/",
+    "https://www.facebook.com/ShellRotella/posts/stock-up-on-shell-rotella-for-the-miles-ahead-find-it-at-your-local-runnings-sto/1594335746071016/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retellai note 社長",
+   "results": [
+    "https://www.linkedin.com/in/yanwang131415",
+    "https://www.linkedin.com/in/zexia-zhang",
+    "https://tracxn.com/d/companies/retell/__qAFnbwN7vHuMUKADfyXxnzuEXs4E8UwpfKZrjdIsu_Y",
+    "https://stripe.com/jp/customers/retell-ai",
+    "https://www.retellai.com/ja/about-us",
+    "https://www.retellai.com/blog/seed-announcement",
+    "https://www.bizjournals.com/sanfrancisco/news/2026/06/12/retell-ai-best-places-profile.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Retellai X 投稿",
+   "results": [
+    "https://x.com/retellai",
+    "https://x.com/hashtag/RetellAI",
+    "https://dashboard.retellai.com/home",
+    "https://x.com/retellai/status/2066586295988818085",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://www.retellai.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部42頁・検索12回）"
+ }
+}

@@ -1,0 +1,1293 @@
+{
+ "name": "Qualitas Technologies",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-09T22:04:39.653594+00:00",
+ "official_url": "https://qualitastech.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Qualitas builds AI-powered vision systems that automate visual inspection on your production line — catching defects the human eye misses, at full line speed, with measurable ROI in months.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines deployed",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch problems early and cut scrap, rework, and costly recalls.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process & Video Analytics",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turns the cameras you already have into a continuous production and dispatch count — timestamped and reconciled against your ERP, with no new hardware on the floor.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Qualitas system runs the same proven three-stage vision pipeline — engineered end to end and tuned to your parts.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our deep-learning models analyze each frame, locating and classifying defects with accuracy that improves over time.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improvement in cost & efficiency",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Functional Inspection of Precision Tweezers",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A personal-care tool manufacturer needed repeatable functional checks of precision tweezers. Qualitas combined controlled part positioning, closing-force feedback and image analysis to evaluate how the tool functions, display the result and sort accepted and rejected parts.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Checking Biscuit Pack Contents and Carton Closure",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Biscuit packaging needs more than a check of the finished box. Before cartoning, the line must verify the number and identity of the wrapped packs being loaded. After cartoning, it must inspect the carton closure and check the printed date and batch information.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas brought these tasks together through vision inspection at infeed and outfeed. The application covers two cartoning lines, with four vision systems and recipes for nine product variants. It combines product recognition, counting, carton inspection, character reading and communication with the line controls.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "APIT and Qualitas co-developed the Total Mill Analyser, combining rice-industry machine-building expertise with machine vision and Intel technical collaboration. One unit has been delivered, and the product is being launched into the market.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated reading of cylinder tare weight and pressure-test due codes for HT Process Controls and IndianOil filling operations. Overdue cylinders are rejected from filling, across 150 deployments.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Six-Lane Cone Presence and Fragment Inspection",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "An ice-cream manufacturer needed to check cone and sleeve presence across six parallel positions. Qualitas delivered a camera-and-lighting system with EagleEye Edge analysis, PLC results and inspection history. The agreed damage check focused on loose cone pieces inside the cone.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "An overhead camera and custom dome lighting let a pharmaceutical manufacturer count trays of vials at the loading station. EagleEye displays the detected count for product reconciliation before dispatch.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Camera, lighting, image capture and server transfer for an integrated steel manufacturer in India. Clear surface images from a red-hot production line, ready for the customer’s downstream analysis.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A cylinder-surface inspection pilot addressed the limited coverage of manual checks beside a conveyor. This project is separate from tare-weight reading and pressure-test validation.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "3D vision inspection uses height and profile information to evaluate soldered electronic components. The inspection task concerns solder and pin conditions that require rejection.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Camera-based dimensional inspection checks defined features on engine housings. Stable part presentation and measurement references make the images useful for dimensional analysis.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 28, 2021",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "For a brewery bottling line, Qualitas combined two triggered camera views with controlled lighting to check label presence, orientation, the selected label variant and rear batch-code presence. Pass/fail outputs connect the inspection to the line controls.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "This page covers recognition of printed price and batch information on FMCG labels. The inspection image illustrates locating and checking the variable text.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas supplied the vision guidance for a robotic cell delivered through an automation integrator to an appliance manufacturer. The system located components and provided positions for robot pick and place.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A tabletop station for an anonymous tobacco laboratory reads a manufacturing date and laser-printed 14-digit packet code, captures the side-face barcode and writes the consolidated data directly into LIMS.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A moving cart provided an image-acquisition approach for the inner surfaces of large wind-turbine blades. The task was to capture useful views over an extended surface.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTOMOTIVE · PROCESS ANALYTICS",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "One line-scan camera and a line light image the deck of an engine block as it moves past, producing a 245-megapixel image. A checkerboard calibration tile ties the image to millimetres, for measurements with 30 µm accuracy.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas EagleEye® configures to your specific solution need — surface inspection, assembly verification, visual process automation, and robotic guidance.",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify surface anomalies like dents, scratches, and paint defects on manufactured parts — a human-like teaching approach with high accuracy and precision.",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Human-like teaching approach",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Mitigate quality problems through verification",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Presence / absence checks",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Visual Process Automation",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate manual production tasks",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate processes like counting, character reading, and inventory tracking with EagleEye® — achieving high speed, traceability, and precision.",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurately count parts on the assembly line during different production phases.",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance pick & place with precision guidance",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate, precise, and easy-to-integrate vision guidance for your robots — train part identification, calibrate, and synchronize vision and robot coordinate systems.",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Six sectors, one proven platform",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your brand on every pack",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision verification at micron scale",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Assembly presence / Poka-Yoke",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Label & print verification",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "High-speed reading and verification of codes, dates, and labels — plus fill-level, seal, and packaging integrity checks that keep mislabeled product off the shelf.",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Label presence & alignment",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "PCB component presence & polarity",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines deployed",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "We enable manufacturing companies and machine builders to realize the full potential of machine vision and artificial intelligence — increasing their products’ competitive and financial value.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Enablers of automated visual processes",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable manufacturers and machine builders to realize the full potential of machine vision and AI — increasing their products’ competitive and financial value.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A 10× improvement in cost and efficiency by automating visual inspection — with accuracy, traceability, and measurable ROI.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines deployed",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Improvement in cost & efficiency",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform and delivery practice are strengthened by the compute, cloud, and industry programs we work with.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "As an Independent Software Vendor partner, Qualitas works within Intel's ecosystem to optimize EagleEye for edge AI and demanding industrial workloads.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Intel and the Intel logo are trademarks of Intel Corporation or its subsidiaries. Partner status shown as provided by Qualitas Technologies.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Careers — We Are Hiring | Qualitas",
+    "url": "https://qualitastech.com/careers/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Qualitas — AI Machine Vision for Manufacturing Quality",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas builds AI-powered vision systems that automate visual inspection on your production line — catching defects the human eye misses, at full line speed, with measurable ROI in months.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines deployed",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading manufacturers",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial cameras and engineered lighting capture clear, detailed images — so even sub-millimeter features show up sharply.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the factory floor",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "01 / AUTOMOTIVE",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision-based grain analysis that replaces slow, subjective manual inspection — measuring length, width, chalkiness, and whiteness on every grain, at industrial throughput.",
+    "url": "https://qualitastech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how the EagleEye® platform’s point-and-click interface delivers easy-to-train, high-accuracy quality control across automotive, pharma, FMCG, and other manufacturing sectors.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A personal-care tool manufacturer needed repeatable functional checks of precision tweezers. Qualitas combined controlled part positioning, closing-force feedback and image analysis to evaluate how the tool functions, display the result and sort accepted and rejected parts.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industries",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "An ice-cream manufacturer needed to check cone and sleeve presence across six parallel positions. Qualitas delivered a camera-and-lighting system with EagleEye Edge analysis, PLC results and inspection history. The agreed damage check focused on loose cone pieces inside the cone.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas developed an inline vision system for a global bearing manufacturer to inspect tapered rollers' curved surfaces and larger end faces. Three camera views, controlled red illumination and a trained inspection model identify the agreed surface conditions. The result appears on an operator display and is communicated to the line controller for rejection.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTOMOTIVE · COUNT VERIFICATION",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A camera-based counting station checks a loaded ring stack against the expected bundle quantity. Operators receive a clear PASS or FAIL before the batch goes to packing.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "An overhead camera and custom dome lighting let a pharmaceutical manufacturer count trays of vials at the loading station. EagleEye displays the detected count for product reconciliation before dispatch.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Camera, lighting, image capture and server transfer for an integrated steel manufacturer in India. Clear surface images from a red-hot production line, ready for the customer’s downstream analysis.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas supplied the vision guidance for a robotic cell delivered through an automation integrator to an appliance manufacturer. The system located components and provided positions for robot pick and place.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A tabletop station for an anonymous tobacco laboratory reads a manufacturing date and laser-printed 14-digit packet code, captures the side-face barcode and writes the consolidated data directly into LIMS.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTOMOTIVE · PROCESS ANALYTICS",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Part Classification and Jig Inventory Tracking",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Cameras and EagleEye identify which of 40 automotive part variants hang on each jig and compare the actual count with the expected count. Inventory records update without manual entry.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTOMOTIVE COMPONENTS",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for a specific case study?",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "We guide world-renowned industrial robots",
+    "url": "https://qualitastech.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "From automotive and pharma to FMCG, steel, electronics, and bearings — EagleEye® is tuned to the parts, defects, and tolerances that matter most on your line.",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted across the factory floor",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing sectors served",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines deployed",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "We enable manufacturing companies and machine builders to realize the full potential of machine vision and artificial intelligence — increasing their products’ competitive and financial value.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe AI has the power to disrupt manufacturing",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable manufacturers and machine builders to realize the full potential of machine vision and AI — increasing their products’ competitive and financial value.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe AI has the power to disrupt manufacturing, and we ensure our customers take full advantage of the potential it has to offer.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Production lines deployed",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "I started Qualitas because I saw manufacturers making million-dollar quality decisions on gut feel and manual sampling. AI and machine vision change that math completely.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "As an Independent Software Vendor partner, Qualitas works within Intel's ecosystem to optimize EagleEye for edge AI and demanding industrial workloads.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For 15+ years, Qualitas has put machine vision on factory floors: 500+ production lines deployed, 12 countries served. We are hiring engineers who want to see their work run in production.",
+    "url": "https://qualitastech.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "See 10 factories. Ship 1 pilot. Learn machine vision by doing it.",
+    "url": "https://qualitastech.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTOMOTIVE INDUSTRIES",
+    "url": "https://qualitastech.com/gauging-measurement/",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership extends beyond an inspection application for one factory. APIT and Qualitas have co-developed a product that is being brought to the rice-industry market.",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "A rotary inspection cell combines automated pre-shift calibration, top and side measurements, marking and sorting. Each spark-plug variant is supported through the appropriate inspection recipe and tooling. Operators load and unload the plugs manually; the machine moves each plug through the inspection positions and connects the camera decisions to the handling controls.",
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "pass": 1
+   },
+   {
+    "quote": "This makes the reference check part of the machine’s shift-start routine. Operators can establish that the inspection setup is measuring a known part correctly before relying on its decisions for production parts.",
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance controls provide manual indexing, camera triggering and movement of the handling mechanisms. Keeping these setup actions separate from normal production helps operators change variants while retaining a defined inspection sequence.",
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas developed an inline vision system for a global bearing manufacturer to inspect tapered rollers' curved surfaces and larger end faces. Three camera views, controlled red illumination and a trained inspection model identify the agreed surface conditions. The result appears on an operator display and is communicated to the line controller for rejection.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "Image acquisition was a central part of the solution. The installation used three industrial cameras: two views of the curved surface and one of the larger end face. Controlled red illumination helped produce contrast on the reflective finish, while guides presented the rollers along a defined path.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "The delivered system combined acquisition, software evaluation and automated rejection. Operators could see the result at the station, while the controller received the signal needed to act on the inspected component.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "The practical value was a defined inline check of the agreed surfaces, with the inspection decision connected to physical segregation. It provided a basis for finding recurring manufacturing problems earlier and reduced reliance on visual sampling for these checks.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "Three industrial camera views",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "A personal-care tool manufacturer needed repeatable functional checks of precision tweezers. Qualitas combined controlled part positioning, closing-force feedback and image analysis to evaluate how the tool functions, display the result and sort accepted and rejected parts.",
+    "url": "https://qualitastech.com/case-studies/vision-inspection-precision-tweezer-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators had to read painted weights and date codes, then enter the values into the filling system. Worn paint, grime, reflections and cylinder rotation made the task difficult.",
+    "url": "https://qualitastech.com/case-studies/cylinder-ocr-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Qualitas supplied the vision camera and lens, character-reading software and operator interface. HT Process Controls handled material movement, mounting, the industrial computer and PLC integration. The system supports IndianOil cylinder-filling operations.",
+    "url": "https://qualitastech.com/case-studies/cylinder-ocr-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "An ice-cream manufacturer needed to check cone and sleeve presence across six parallel positions. Qualitas delivered a camera-and-lighting system with EagleEye Edge analysis, PLC results and inspection history. The agreed damage check focused on loose cone pieces inside the cone.",
+    "url": "https://qualitastech.com/case-studies/ice-cream-cone-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators select the recipe for the product and collar combination before inspection. The operating procedure lists 14 recipes covering 50 ml and 100 ml products with different cone colours and collar types.",
+    "url": "https://qualitastech.com/case-studies/ice-cream-cone-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The inspection report can be filtered by date range, product variant and shift, then exported as a CSV file. Operators can review accepted and rejected counts alongside the image history.",
+    "url": "https://qualitastech.com/case-studies/ice-cream-cone-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The delivered system brings presence and damage checks into one line-connected inspection workflow. It identifies incomplete or damaged cones and retains information that operators can use to investigate repeat failures.",
+    "url": "https://qualitastech.com/case-studies/ice-cream-cone-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Engine Housing Dimensional Inspection | Qualitas Case Study",
+    "url": "https://qualitastech.com/case-studies/engine-housing-dimension-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "AUTOMOTIVE COMPONENTS",
+    "url": "https://qualitastech.com/case-studies/cardan-shaft-3d-measurement/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "RICE INDUSTRY · OEM PARTNERSHIP",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your brand on every pack",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "RICE INDUSTRY · OEM PARTNERSHIP",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "Rice-industry machine-building expertise and the OEM route to market.",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "The Total Mill Analyser demonstrates the partnership approach in a tangible product: an OEM's industry knowledge and Qualitas's vision expertise applied to rice analysis, with Intel technical collaboration.",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "Developing a vision-enabled product for your customers? Share the recurring application, sample parts or materials, required checks and intended machine workflow. Qualitas can work with your team to assess image acquisition, analysis outputs and integration requirements for an OEM product partnership.",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss an OEM product partnership with Qualitas.",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "A camera and controlled lighting capture the cylinder markings. Qualitas vision software reads the tare weight and DPT code and supplies the results to the OEM’s filling-line system. Cylinders overdue for pressure testing are rejected from filling.",
+    "url": "https://qualitastech.com/case-studies/cylinder-ocr-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "An OEM partnership with production scale",
+    "url": "https://qualitastech.com/case-studies/cylinder-ocr-inspection-case-study/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "STEEL · IMAGE ACQUISITION",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "High-Speed Image Acquisition for Red-Hot Steel Strips",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile Image Acquisition for Wind Turbine Blades",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A moving cart provided an image-acquisition approach for the inner surfaces of large wind-turbine blades. The task was to capture useful views over an extended surface.",
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect castings, machined parts, welds, and assemblies for the surface and dimensional defects that drive warranty claims and recalls — with a full traceability record for every part.",
+    "url": "https://qualitastech.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Laser triangulation profilometry combined with a multi-camera array and deep-learning defect classification for inline dimensional measurement and knot, crack, hole, and edge-damage detection on wood planks at conveyor speed — with defect-zone marking to support cut optimisation.",
+    "url": "https://qualitastech.com/gauging-measurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Image acquisition is part of the analysis",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "Developing a vision-enabled product for your customers? Share the recurring application, sample parts or materials, required checks and intended machine workflow. Qualitas can work with your team to assess image acquisition, analysis outputs and integration requirements for an OEM product partnership.",
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "pass": 1
+   },
+   {
+    "quote": "A plug that sits differently in its holder can produce a different apparent measurement even when the part itself has not changed. The application therefore combines a workpiece carrier with orientation and seating checks before the measurement sequence.",
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "pass": 1
+   },
+   {
+    "quote": "A part-presence sensor confirms that a plug is loaded. An orientation camera checks its presentation, while the loading position includes a safety light curtain. The rotary table then carries the plug through the top and side inspection positions. This gives the cameras a controlled view of the features rather than relying on an operator to hold each part in front of a camera.",
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "pass": 1
+   },
+   {
+    "quote": "This makes the reference check part of the machine’s shift-start routine. Operators can establish that the inspection setup is measuring a known part correctly before relying on its decisions for production parts.",
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "pass": 1
+   },
+   {
+    "quote": "Changeover involves both a software recipe and the matching physical carrier. The operator selects the variant on the display, verifies the selected name and uses the corresponding workpiece carrier and hex-head fixture. The setup also includes the appropriate top and side camera positions.",
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "pass": 1
+   },
+   {
+    "quote": "Image acquisition, trained surface inspection, an operator display and line-control integration connect selected-surface checks to physical rejection.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "Image acquisition was a central part of the solution. The installation used three industrial cameras: two views of the curved surface and one of the larger end face. Controlled red illumination helped produce contrast on the reflective finish, while guides presented the rollers along a defined path.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "The setup had to accommodate different roller sizes without relying on a new camera arrangement for every part. Positioning, focus and lighting therefore had to be considered together. A model can only judge what appears in its images: surface visibility and repeatable presentation were as important as the inspection software.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "The camera arrangement viewed selected portions of the working surfaces. It should not be described as a full 360-degree surface scan.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "The conveyor and guides carry the component through the imaging station.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "The delivered system combined acquisition, software evaluation and automated rejection. Operators could see the result at the station, while the controller received the signal needed to act on the inspected component.",
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "pass": 1
+   },
+   {
+    "quote": "One camera looks into each cone position. Triggered lighting gives the software a consistent view of the wafer and sleeve, while the six positions are checked in the same inspection cycle. The camera arrangement follows the parallel lanes of the line.",
+    "url": "https://qualitastech.com/case-studies/ice-cream-cone-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Configured product and collar combinations listed in the operating procedure.",
+    "url": "https://qualitastech.com/case-studies/ice-cream-cone-inspection-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Share the housing drawing, dimensions, tolerances, fixture arrangement and available inspection time.",
+    "url": "https://qualitastech.com/case-studies/engine-housing-dimension-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Fixture and scanner arrangement for Cardan shaft measurement.",
+    "url": "https://qualitastech.com/case-studies/cardan-shaft-3d-measurement/",
+    "pass": 1
+   },
+   {
+    "quote": "Two line-scan cameras on a common axis image the row as a motor-driven tray carries it under a line light. Calibration software guides the operator through each set-up step, stitches the two views and measures every pellet.",
+    "url": "https://qualitastech.com/case-studies/measuring-nuclear-pellets-vision-system/",
+    "pass": 1
+   },
+   {
+    "quote": "Pellets sit in rows on a tray that a motor drives under the cameras. Each line-scan camera builds its image one line at a time as the row moves, and each covers part of the row. Together they cover the full length of about 400 mm.",
+    "url": "https://qualitastech.com/case-studies/measuring-nuclear-pellets-vision-system/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Qualitas — AI Machine Vision for Manufacturing Quality — Qualitas Technologies helps manufacturers realize the potential of AI and machine vision — automating visual inspection for a 10× improvement in cost and efficiency.",
+    "url": "https://qualitastech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Qualitas — Leaders in Machine Vision — Qualitas Technologies enables manufacturers and machine builders to realize the full potential of AI and machine vision — automating visual inspection for a 10× improvement in cost and efficiency.",
+    "url": "https://qualitastech.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "QUALITAS, INC. Company Profile | SETAGAYA-KU, TOKYO ...Qualitas, Inc.About Us – QualitasQualitas Technologies Pvt Ltd | LinkedIn — Find company research, competitor information, contact details & financial data for QUALITAS, INC. of SETAGAYA-KU, TOKYO. Get the latest business insights from Dun & Bradstreet. May 15, 2003 · Qualitas, Inc. provides healthcare business development cunsulting service. ",
+    "url": "https://www.dnb.com/business-directory/company-profiles.qualitas_inc.92292252de94e5e0b2181c01f4595fe9.html",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas, Inc.About Us – QualitasQualitas Technologies Pvt Ltd | LinkedIn — May 15, 2003 · Qualitas, Inc. provides healthcare business development cunsulting service. http://www.qualitas.co.jp site map Our Mission Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vestibulum fermentum fermentum. In nulla sem, gravida a feugiat in, maximus id orci. Donec nec sagittis ipsum, sit amet v",
+    "url": "http://www.qualitas.co.jp/english.html",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies - 2026 Company Profile, Team, Funding ...Qualitas Technologies 2026 Company Profile: Valuation ...Qualitas Technologies – Overview – Funding, Revenue & Growth –…Qualitas Technologies Pvt Ltd Information - RocketReachQualitas Technologies - Products, Competitors, Financials ...Qualitas Technologies Private Limited - Company ProfileQualitas Technologies - Crunchbase Company Pro",
+    "url": "https://tracxn.com/d/companies/qualitas-technologies/__456q5ROms8xpTi8yzAjztCrEwAg4qiSGT70DvkBK9Nk",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies 2026 Company Profile: Valuation ...Qualitas Technologies – Overview – Funding, Revenue & Growth –…Qualitas Technologies Pvt Ltd Information - RocketReachQualitas Technologies - Products, Competitors, Financials ...Qualitas Technologies Private Limited - Company ProfileQualitas Technologies - Crunchbase Company Profile & Funding — Aug 10, 2024 · Information on valuation, fundi",
+    "url": "https://pitchbook.com/profiles/company/462174-58",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies – Overview – Funding, Revenue & Growth –… — Discover Qualitas Technologies's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/qualitas-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies Pvt Ltd Information - RocketReach — Qualitas Technologies Pvt Ltd is an Automation Machinery Manufacturing, Software General, and Software company located in Rajarajeshwarinagar, Karnataka with $4 million in revenue and 30 employees.",
+    "url": "https://rocketreach.co/qualitas-technologies-pvt-ltd-profile_b5da5e05f42e56c4",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies - Products, Competitors, Financials ... — The analysis highlights the highest revenue generating and fastest growing segments. These insights are helpful in devising strategies and achieving a sustainable growth.",
+    "url": "https://www.cbinsights.com/company/qualitas-technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Shriyansh T (@MachineVisionEx) / Posts / X Jan 14, 2022 · Qualitas Technologies was founded in 2008 in Washington, US, and in Bangalore, India as a software solution provider specializing in user-facing product development using Microsoft technologies....",
+    "url": "https://x.com/MachineVisionEx",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Qualitas Technologies Pvt Ltd - LinkedIn Qualitas specializes in industrial vision based solutions, with a core competency in software application development services. Qualitas was established in 2008 and is headquartered in...",
+    "url": "https://www.linkedin.com/company/qualitastech/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies Pvt Ltd | LinkedIn Qualitas specializes in industrial vision based solutions, with a core competency in software application development services. Qualitas was established in 2008 and is headquartered in...",
+    "url": "https://in.linkedin.com/company/qualitastech",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies (Pty) Ltd - LinkedIn Qualitas Technologies and ExecQDocs are leaders in the Document Imaging field, providing local products at local prices.",
+    "url": "https://www.linkedin.com/company/qualitas-technologies-pty-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Raghava Kashyapa - Founder of Qualitas Technologies, MD at ...Qualitas Technologies - LinkedInQualitas Technologies Pvt Ltd on LinkedIn: At Qualitas ...Contact - Qualitas Technologies | Qualitas Technologies (Pty) Ltd In 2011 I founded Qualitas Technologies to bring machine vision and AI to manufacturing quality inspection. We help factories catch defects humans miss, at speeds humans can't match ",
+    "url": "https://in.linkedin.com/in/rkashyapa",
+    "pass": 3
+   },
+   {
+    "quote": "Neville Patel - Award Winning AI Infrastructure Entrepreneur ...Qualitas Technologies CEO, Founder, Key Executive Team, Board ...Raghava Kashyapa - Founder of Qualitas Technologies, MD at ...Qualitas Technologies Pvt Ltd’s Post - LinkedIn Founded Qualitas Global in 2014 and scaled it into an international AI Data Services company with 400+ full-time, in-house professionals, serving global enterpri",
+    "url": "https://in.linkedin.com/in/nevillepatel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Qualitas Technologies | Bangalore - FacebookQualitas Technologies | Johannesburg - FacebookQualitas Information Technologies | Pune - FacebookQualitas Technologies Pty Ltd - FacebookQualitas Technologies has been a... - Qualitas Technologies ...Our Products Total IT Solutions!... - Qualitas Technologies ...Qualitas provides a full SYSPRO... - Qualitas Technologies Jun 28, 2026 · Qualitas Technolog",
+    "url": "https://www.facebook.com/qualitastech/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies | Johannesburg - FacebookQualitas Information Technologies | Pune - FacebookQualitas Technologies Pty Ltd - FacebookQualitas Technologies has been a... - Qualitas Technologies ...Our Products Total IT Solutions!... - Qualitas Technologies ...Qualitas provides a full SYSPRO... - Qualitas Technologies Jun 16, 2026 · Qualitas Technologies delivers tailored, integrated & reliable",
+    "url": "https://www.facebook.com/qualitastechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Information Technologies | Pune - FacebookQualitas Technologies Pty Ltd - FacebookQualitas Technologies has been a... - Qualitas Technologies ...Our Products Total IT Solutions!... - Qualitas Technologies ...Qualitas provides a full SYSPRO... - Qualitas Technologies Oct 11, 2024 · Qualitas Information Technologies, Pune. 491 followers. Qualitas IT is leading technology solutions provider ",
+    "url": "https://www.facebook.com/qualitasmkt/",
+    "pass": 3
+   },
+   {
+    "quote": "Qualitas Technologies Pty Ltd - Facebook Qualitas Technologies Pty Ltd",
+    "url": "https://www.facebook.com/Qualitas-Technologies-Pty-Ltd-1313899695327772/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://qualitastech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/machine-vision-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/gauging-measurement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/ai-powered-grain-analyzer-agriculture-rice-mills/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/spark-plug-end-of-line-inspection-automotive-ignition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/inspection-of-tapered-roller-bearings-for-a-global-bearings-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/label-inspection-in-fmcg-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/vision-inspection-precision-tweezer-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/cylinder-ocr-inspection-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/ice-cream-cone-inspection-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/engine-housing-dimension-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/cardan-shaft-3d-measurement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/engine-block-measurement-line-scan-camera/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitastech.com/case-studies/measuring-nuclear-pellets-vision-system/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.q-semi.com/jpn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qualitas-inc.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Rapidus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.qualitas_japan.6b45554931aaedb92686542ae5724bda.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.qualitas_inc.92292252de94e5e0b2181c01f4595fe9.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qualys.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/qualitas-technologies/__456q5ROms8xpTi8yzAjztCrEwAg4qiSGT70DvkBK9Nk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/462174-58",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/qualitas-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/qualitas-technologies-pvt-ltd-profile_b5da5e05f42e56c4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MachineVisionEx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/qualitastech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/qualitastech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/qualitas-technologies-pty-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/rkashyapa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/qualitastech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/qualitastechnologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/qualitasmkt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Qualitas-Technologies-Pty-Ltd-1313899695327772/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/nevillepatel",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Qualitas Technologies 日本 導入",
+   "results": [
+    "https://qualitastech.com/",
+    "https://qualitastech.com/about-us/",
+    "https://www.q-semi.com/jpn/",
+    "https://qualitas-inc.co.jp/",
+    "https://cn.design-reuse.com/news/56239/qualitas-semiconductor-chinese-market.html",
+    "https://www.sojitz.com/jp/news/article/20210301.html",
+    "http://www.qualitas.co.jp/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Qualitas Technologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Rapidus",
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.qualisys.com/about/distributors/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Qualitas Technologies Japan",
+   "results": [
+    "https://qualitastech.com/",
+    "https://www.dnb.com/business-directory/company-profiles.qualitas_japan.6b45554931aaedb92686542ae5724bda.html",
+    "https://qualitastech.com/about-us/",
+    "https://www.dnb.com/business-directory/company-profiles.qualitas_inc.92292252de94e5e0b2181c01f4595fe9.html",
+    "http://www.qualitas.co.jp/english.html",
+    "https://jp.linkedin.com/company/qualitastech",
+    "https://qualitastechnologies.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Qualitas Technologies manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Qualitas Technologies white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.qualys.com/partners",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Qualitas Technologies founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/qualitas-technologies/__456q5ROms8xpTi8yzAjztCrEwAg4qiSGT70DvkBK9Nk",
+    "https://pitchbook.com/profiles/company/462174-58",
+    "https://compworth.com/company/qualitas-technologies",
+    "https://rocketreach.co/qualitas-technologies-pvt-ltd-profile_b5da5e05f42e56c4",
+    "https://www.cbinsights.com/company/qualitas-technologies",
+    "https://tracxn.com/d/legal-entities/india/qualitas-technologies-private-limited/__GroWPGgPMuJsPMF6UpeoJe6NoIyDR7-pQDmMv39N6FU",
+    "https://www.crunchbase.com/organization/qualitas-technologies"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Qualitas Technologies",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/saiko6459/n/nc86e78308183"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Qualitas Technologies",
+   "results": [
+    "https://x.com/qualitas_",
+    "https://x.com/Qualitas_InfoTe",
+    "https://x.com/QualitasSW",
+    "https://x.com/MachineVisionEx",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/RyanAFournier/status/2117296789443240367"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Qualitas Technologies",
+   "results": [
+    "https://www.linkedin.com/company/qualitastech/",
+    "https://in.linkedin.com/company/qualitastech",
+    "https://www.linkedin.com/company/qualitas-technologies-pty-ltd",
+    "https://in.linkedin.com/in/rkashyapa",
+    "https://www.linkedin.com/posts/qualitas-technologies-pty-ltd_qualitas-technologies-qualitas-technologies-activity-7523270449007562752-f1Zw",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7106117125936709632/",
+    "https://www.linkedin.com/posts/qualitas-technologies-pty-ltd_contact-qualitas-technologies-activity-7330480077215813634-ZSQf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Qualitas Technologies",
+   "results": [
+    "https://www.facebook.com/qualitastech/",
+    "https://www.facebook.com/qualitastechnologies/",
+    "https://www.facebook.com/qualitasmkt/",
+    "https://www.facebook.com/Qualitas-Technologies-Pty-Ltd-1313899695327772/",
+    "https://www.facebook.com/qualitastechnologies/posts/qualitas-technologies-has-been-a-trusted-provider-of-world-class-software-soluti/1103992681729965/",
+    "https://www.facebook.com/qualitastechnologies/posts/our-products-total-it-solutions-execqdocs-modular-software-engines-that-offer-co/1166931558769410/",
+    "https://www.facebook.com/qualitastechnologies/posts/qualitas-provides-a-full-syspro-erp-offering-including-product-consulting-busine/1032116528917581/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Qualitas Technologies note 社長",
+   "results": [
+    "https://qualitastech.com/",
+    "https://www.f6s.com/member/raghavakashyapa",
+    "https://in.linkedin.com/in/nevillepatel",
+    "https://www.cbinsights.com/company/qualitas-technologies/people",
+    "https://in.linkedin.com/in/rkashyapa",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7150463874121523200/",
+    "https://www.qualitydigest.com/users/raghava-kashyapa"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Qualitas Technologies X 投稿",
+   "results": [
+    "https://x.com/qualitas_",
+    "https://qualitastech.com/",
+    "https://qualitas.co.za/",
+    "https://qualitastech.com/contact-us/",
+    "https://qualitastechnology.com/",
+    "http://qualitastechnologies.com/",
+    "https://x.com/MachineVisionEx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

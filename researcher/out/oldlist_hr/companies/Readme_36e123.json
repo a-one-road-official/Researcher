@@ -1,0 +1,1284 @@
+{
+ "name": "Readme",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Software Infrastructure｜未接触",
+ "researched_at": "2026-11-09T21:59:51.247290+00:00",
+ "official_url": "https://readme.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "In-app & Email Support",
+    "value": "",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Incline Village, NV",
+    "url": "https://readme.com/customers/socure",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Jersey City, NJ",
+    "url": "https://readme.com/customers/drivewealth",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Jacksonville, FL",
+    "url": "https://readme.com/customers/atelio",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Set me up with the ReadMe skills and MCP server in this agent, then help me create my ReadMe project.",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Write, review, and improve docs with Al tools",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect ReadMe to a GitHub project",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA, Amazon, PagerDuty, and thousands of other teams trust ReadMe to turn their documentation into a product developers actually want to use",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to get started with our product",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Server, and GitLab. Review, approve,",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "create-your-project.mdx",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create Your Project 🎨",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Name your project to match your API",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View all your projects in one place",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find project settings in the top menu",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Configuration",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize project details in the settings menu",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Your Profile 👤",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalize your ReadMe experience with these profile settings:",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Update your name and profile picture",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Security & Preferences",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set notification preferences",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate API keys for programmatic access",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Search and Organize Projects 🔍",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your projects organized and accessible:",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use the top search bar for quick project lookup",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Archive inactive projects to reduce clutter",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access the project dropdown for fast switching",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View status indicators for each project",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All Pro features, plus:",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple combined projects",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Global reusable content library",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All Pro AI features, plus:",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 project",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-Project management",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-Project search and navigation",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Managed onboarding and implementation",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Content migration services",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How are API logs used in Developer Dashboard pricing?",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Socure partnered with ReadMe to drive higher API engagement, lower support costs, and get developers to production faster.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Our goal was a best-in-class developer experience, and ReadMe was the clear winner. Out-of-the-box features with real customer impact, collaborative editing across product teams, and bi-directional sync from the UI meant no other solution checked all the boxes the way ReadMe did.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Switching from our previous vendor to ReadMe has been night and day difference from a customer satisfaction standpoint, it's a lot easier to navigate the documentation and find what you need.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With ambitious goals and an aggressive timeline, Atelio by FIS harnessed ReadMe's professional services to help launch their comprehensive developer hub.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "As the company grew, the DriveWealth team knew that their documentation process needed to be more scalable, and ReadMe helped them achieve that.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We decided to stick with ReadMe not just because of that, but also because you offer more than the baseline documentation and introduce new products and services at a faster rate than the competition.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The Akamai team was struggling to maintain the sheer volume of documentation across their product suite and APIs. With ReadMe, they can do all that and more.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"15 minutes and I knew it would solve all our problems.\" That's how the Heap team described finding ReadMe while on the hunt for a documentation tool.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "I spent 15 minutes in the the tool and realized it would solve all of our problems.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Clever needed to scale their API onboarding fast as they expanded to 95,000 US K-12 schools without sacrificing ease of use for their team.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Once Doppler outgrew their in-house solution, CEO Brian Vallelunga turned to ReadMe to create a scalable developer hub that made customer onboarding easy.",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Before ReadMe, we had 2 separate documentation hubs in our product that were built in-house. They were a nightmare to maintain, keep in sync, and style. Thankfully, those days are behind us!",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Before ReadMe, we had two separate documentation hubs in our product that were built in-house. They were a nightmare to maintain, keep in sync, and style. Thankfully, those days are behind us!”",
+    "url": "https://readme.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "ReadMe is the developer hub for modern API companies. We give teams the tools to write beautiful documentation, monitor their APIs in production, and connect with the developers who rely on them every day.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We believe great docs are a product in their own right. When an API is well-documented, developers move faster, support tickets shrink, and teams ship with confidence. So we sweat the details — every interaction, every empty state, every page load — because the people on the other end of the screen are building something important.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dom joins the ReadMe team remotely from the UK. He enjoys cooking, long walks in the countryside and playing video games. You’ll likely find him in ReadMe's open source repos frantically writing tests.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Darren is a Bay Area native that probably spends way too much time on his computer playing video games or learning about new technologies.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "When not working, he enjoys classic video games, phở, and learning the C programming language.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "When not developing, she enjoys playing video games, creating both digital and traditional art, and thinking about robots.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Originally from northern New Jersey, Phoebe currently resides in New York City with her partner. Prior to ReadMe, Phoebe worked in operations for a few different startups.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Outside of work, he loves spending time with his wife and three boys. When he isn’t in his playing video games, listening to true crime podcasts, or watching Terminator 2 for the 100th time…you will likely catch him exercising on his Peloton or cruising around town on his electric Rad bike.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff lives on an island in Washington state with his wife, daughter, and sleepy old rescue dog. He’s built and supported software for tech companies, governments, and nonprofits — and looks forward to helping people create great API docs with ReadMe.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "anand grew up In paNama city beach, florida (Spring break caPital of the world) and now residEs in oakland, Ca. he loves building things, and getTing them to scale.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chris is native New Englander and former NYC-er who now lives on the north end of New Hampshire’s sprawling 13 miles of coastline.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Outside of work, JR is a voracious reader, a bit of a coffee connoisseur, and can usually be found preparing for world domination with his three teenagers.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by teams who know good docs drive",
+    "url": "https://readme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams who know good docs drive",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "He used to collect *holographic* MUNI passes, but now just collects plants. Other interests include wearing all black, and his dog.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mintlify's platform reaches 12m+ developers every year and power the documentation of 2000+ companies. They're also the #1 most popular YC product used by other YC companies in the past …",
+    "url": "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Upload your logo (we'll match your brand colors automatically!)",
+    "url": "https://readme.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "In-app & Email Support",
+    "url": "https://readme.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Email: your.email@example.com",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Darren is a Bay Area native that probably spends way too much time on his computer playing video games or learning about new technologies.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jesse grew up in Fairfax, VA and now lives in San Francisco where he learned kickboxing, got married, found ReadMe, and had two children.",
+    "url": "https://readme.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "to support developers who use tools like ChatGPT and other AI assistants as part of their workflow",
+    "url": "https://readme.com/customers/socure",
+    "pass": 1
+   },
+   {
+    "quote": "For enterprise companies looking to improve API adoption, Socure’s results demonstrate the business value of AI-powered documentation and the role it plays in accelerating revenue, reducing support costs, and winning developer trust.",
+    "url": "https://readme.com/customers/socure",
+    "pass": 1
+   },
+   {
+    "quote": "Now, they have one documentation hub built for internal employees and external partners, with less maintenance required.",
+    "url": "https://readme.com/customers/drivewealth",
+    "pass": 1
+   },
+   {
+    "quote": "It was a sprint to the finish line for both teams but launch day arrived, the press release went live, and so too did Atelio’s website and developer hub. “The docs are one of the most viewed parts of the site to this day. I think that speaks to who we’re serving,” says Julie.",
+    "url": "https://readme.com/customers/atelio",
+    "pass": 1
+   },
+   {
+    "quote": "In terms of the Atelio team’s response? You can say what ReadMe’s team delivered took them by surprise—in a good way. Julie commented, “We were able to get [Atelio’s developer hub] to look like it was part of a page made by a whole different company, which was really amazing. The fact that ReadMe did what they did is like witchcraft.”",
+    "url": "https://readme.com/customers/atelio",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe Revenue 2024: $10.7M Est.",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe has not published its revenue. GetLatka estimates it at about $10.7M a year (June 2024).",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe CEO, founders & employees",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gregory Koberger founded ReadMe in 2015 and runs it as CEO. ReadMe had 71 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is ReadMe's revenue?",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates ReadMe's revenue at about",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ReadMe have?",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語テンプレートをダウンロード（Word）",
+    "url": "https://techenglishlab9999.com/readme-template-english/",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMeJapan | A Reader’s Field Guide to Japan",
+    "url": "https://readmejapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "· A Reader’s Field Guide to Japan",
+    "url": "https://readmejapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Long, unhurried reading on Japanese culture — for people learning the language, and the incurably curious who just want the real story.",
+    "url": "https://readmejapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日記やコラムなど読み物サイトをランキングで紹介するサイト「ReadMe！JAPAN」がサービスを終了する",
+    "url": "https://www.itmedia.co.jp/news/article/0802/08/1080208052/",
+    "pass": 3
+   },
+   {
+    "quote": "「ReadMe! JAPAN」休止！ 運営者からの挨拶文も出た :にゅーあきばどっとこむ",
+    "url": "https://www.new-akiba.com/news/readme_japan_1",
+    "pass": 3
+   },
+   {
+    "quote": "「ReadMe! JAPAN」休止！ 運営者からの挨拶文も出た",
+    "url": "https://www.new-akiba.com/news/readme_japan_1",
+    "pass": 3
+   },
+   {
+    "quote": "「ReadMe! JAPAN」は読み物系サイトの情報収集サイトで古くから運営されている",
+    "url": "https://www.new-akiba.com/news/readme_japan_1",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe! JAPANの全サービスが2月下旬で停止するとの告知",
+    "url": "https://www.new-akiba.com/news/readme_japan_1",
+    "pass": 3
+   },
+   {
+    "quote": "- 🌍 **多言語**: 日本語・英語対応",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【開発体制】効果的なREADME作成ガイド - チーム開発をスムーズにする... — Apr 20, 2025 · 新しいメンバーの参加をスムーズにし、チーム全体の生産性を高めることができます。 上記の基本要素を中心に、プロジェクトの特性に合わせたREADMEを作成し、定期的にアップデートすることで、持続可能な開発体制を構築しましょう。",
+    "url": "https://qiita.com/torat3158/items/56cbc131f67c007d8877",
+    "pass": 3
+   },
+   {
+    "quote": "初心者が学んだREADMEについてと基本的な書き方 - Qiita — Sep 16, 2025 · READMEとは READMEとはソフトウェアプログラミングにおいてプロジェクトの概要や、ツールの使い方など主にソフトウェアの関する情報が書かれた説明書のようなものである。",
+    "url": "https://qiita.com/k-shindo/items/8e99d5a33b93cd5eec86",
+    "pass": 3
+   },
+   {
+    "quote": "【テンプレあり】英語READMEの書き方｜OSS・社内開発で使える日英フォ... — Jun 12, 2026 · 英語READMEに必要な7つの構成要素と、そのまま使える日英テンプレートを紹介。 概要・機能・インストール・使い方・コントリビューションの書き方と例文も解説。 GitHubで公開するITエンジニアにおすすめ。",
+    "url": "https://techenglishlab9999.com/readme-template-english/",
+    "pass": 3
+   },
+   {
+    "quote": "Strata/README.ja.md at main · Niko1221/Strata · GitHub — Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input. - Strata/README.ja.md at main · Niko1221/Strata",
+    "url": "https://github.com/Niko1221/Strata/blob/main/README.ja.md",
+    "pass": 3
+   },
+   {
+    "quote": "導入手順とREADMEを初めて使う人向けに整理する #47 — Oct 29, 2026 · 検討方針 READMEを「何ができるか → 必要なもの → 固定版の導入 → 初期化と確認 → 日常操作」の順に整理し、復旧・Release検証・詳細オプションは既存ガイドへのリンクに移します。",
+    "url": "https://github.com/shirashu687/okf-devkit/issues/47",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMeJapan | A Reader’s Field Guide to Japan — Deep, unhurried reading on Japanese culture — wabi-sabi, kintsugi, ramen, Mount Fuji and dozens more — for language learners and the incurably curious.",
+    "url": "https://readmejapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「ReadMe！」が全サービス終了へ - ITmedia NEWS — Feb 8, 2008 · 日記やコラムなど読み物サイトをランキングで紹介するサイト「ReadMe！ JAPAN」がサービスを終了する。 昨年10月からランキング集計を休止していたが、このほどサーバの解約手続きを行い、2月下旬をめどに順次全てのサービスを停止するという。 同サイトは1996年に開設。 個人の読み物サイトの登録を受け付け、それらのアクセスランキングや更新情報を掲載していた。...",
+    "url": "https://www.itmedia.co.jp/news/article/0802/08/1080208052/",
+    "pass": 3
+   },
+   {
+    "quote": "「ReadMe! JAPAN」休止！ 運営者からの挨拶文も出た — 「ReadMe! JAPAN」は読み物系サイトの情報収集サイトで古くから運営されている。 以前からの予告通り、全サービスの休止が2月下旬に行われた。 それに際してのあいさつ文が掲載されている。 ・ReadMe!「休止にあたり...",
+    "url": "https://www.new-akiba.com/news/readme_japan_1",
+    "pass": 3
+   },
+   {
+    "quote": "スタートページが ReadMe! JAPAN だったころ - めかりる — Apr 3, 2016 · ReadMe! も Yahoo! JAPAN も使ってた記憶があるけれど、どちらかといえば、ReadMe! をインターネットへの入り口にしてた。 ランキングサイトだったかどうかは、たぶん、重要ではなかった。 つまり、検索サイトの「検索体験」は、「検索できない」ものだった。",
+    "url": "https://www.makealittle.net/entry/2016040301_readmejapan",
+    "pass": 3
+   },
+   {
+    "quote": "Customers · ReadMe — ReadMe customer stories from teams building better developer experiences with beautiful, scalable documentation.",
+    "url": "https://readme.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe B2B Case Studies & Customer Successes — See how ReadMe solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/readme",
+    "pass": 3
+   },
+   {
+    "quote": "12 ReadMe Case Studies, Success Stories, & Customer Stories — Narrow down 12 case studies by company size & industry to find out how ReadMe works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe 2026 Company Profile: Valuation, Funding & Investors ...ReadMe Revenue 2024: $10.7M Est. - getlatka.comReadMe – Competitor List & Expansion Signals – 2026ReadMe - 2025 Company Profile, Team, Funding & Competitors ...ReadMe.io – Company Insights & Financial Strength – 2026ReadMe: Funding, Team & Investors | Startup IntrosReadMe - Overview, News & Similar companies | ZoomInfo.com — Informatio",
+    "url": "https://pitchbook.com/profiles/company/104690-17",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe Revenue 2024: $10.7M Est. - getlatka.com — Oct 30, 2026 · ReadMe is an API Documentation Management Software company based in San Francisco, founded in 2015.",
+    "url": "https://getlatka.com/companies/readme.com",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe – Competitor List & Expansion Signals – 2026 — On average, ReadMe is believed to generate yearly revenue close to $8.4M. The estimated revenue per employee at ReadMe is $121.8K. To date, ReadMe has raised $10.1M in funding. The current employee count at ReadMe is approximately 60+. ReadMe grew their employee count by 21% last year.",
+    "url": "https://compworth.com/company/readme",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe - 2025 Company Profile, Team, Funding & Competitors ...ReadMe.io – Company Insights & Financial Strength – 2026ReadMe: Funding, Team & Investors | Startup IntrosReadMe - Overview, News & Similar companies | ZoomInfo.com — Sep 7, 2025 · ReadMe is a series A company based in San Francisco (United States), founded in 2015 by Gregory Koberger. It operates as a Documentation and digital transact",
+    "url": "https://tracxn.com/d/companies/readme/__82GSpsc8bUCwffMFY8qofmAuacf30CexllehGP79Hf0",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe.io – Company Insights & Financial Strength – 2026 — ReadMe.io Revenue & Valuation On average, ReadMe.io is believed to generate yearly revenue close to $4.2M. To date, ReadMe.io has raised $10.1M in funding.",
+    "url": "https://compworth.com/company/readme-io",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What is a README?｜小鹿 怜央 | AI研究生 Lv.50 A README is a document that explains the contents and usage of a project. In this context, a project refers to a set of files used to create a single application, website, or similar.",
+    "url": "https://note.com/leo_kojika/n/nf9c81afc6e60?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Part 47: Documenting 'How to Create Figures' in the README What is a README? A README is an instruction manual for your project. It is a text file (usually in Markdown format) placed at the top level of your folder that describes 'what this project is' and 'how to use it'.",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニア向け README作成完全ガイド｜YUKIKO@AIビジョナリスト （月... Aug 25, 2025 · READMEとは？ なぜ重要なのか READMEの役割 READMEは、あなたのプロジェクトの「顔」です。 初めてプロジェクトを見る人が最初に読む文書であり、以下の役割を果たします： 📖 プロジェクトの説明書 何を作ったのか なぜ作ったのか どう使うのか 🚀 導入の ...",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "How to write a README for tools created with Claude Code: 3 ... Hello. Today, I will introduce how to write usage instructions (often called a README) for tools created with Claude Code.",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Part 47: Documenting 'How to Create Figures' in the README｜teck_note_",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Part 47: Documenting 'How to Create Figures' in the README",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Placing a `README.md` in your project folder and recording 'which data and which code were used to create which figure' will be a huge help later on. This time, we'll cover how to write a README.",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A README is an instruction manual for your project. It is a text file (usually in Markdown format) placed at the top level of your folder that describes 'what this project is' and 'how to use it'.",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Don't overthink it; writing the following is sufficient.",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RNA-seqの発現解析結果を可視化するプロジェクト。",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "- data/deg_result.xlsx — edgeRの解析結果（comp1〜comp6）",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "- Volcano plot: scripts/volcano.py を実行 → figures/volcano_*.png",
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニア向け README作成完全ガイド｜YUKIKO@AIビジョナリスト2冊目出版❤（月275万セキュリティエンジニア職でオファー経験有り）",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニア向け README作成完全ガイド",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "YUKIKO@AIビジョナリスト2冊目出版❤（月275万セキュリティエンジニア職でオファー経験有り）",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "READMEは、あなたのプロジェクトの「顔」です。初めてプロジェクトを見る人が最初に読む文書であり、以下の役割を果たします：",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "技術力だけでなく、ドキュメント作成能力も評価される",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "GitHubでスター数を増やすために不可欠",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "短く魅力的な一行説明（What + Why）",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "🌐 [こちらで実際に試せます](https://example.com/demo)",
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "pass": 3
+   },
+   {
+    "quote": "How to write a README for tools created with Claude Code: 3 key sections｜よしだとよしだ",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to write a README for tools created with Claude Code: 3 key sections",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you decide on the sections to include beforehand, you can write your usage instructions without hesitation.",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello. Today, I will introduce how to write usage instructions (often called a README) for tools created with Claude Code.",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever thought, \"I've finished the tool, but I don't know what to write in the instructions,\" or \"I'm worried that the user might be confused because the explanation is insufficient\"? Here, I will organize the basic approach into three points.",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is for people who:",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Want to share or sell a tool they have created",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Are not good at writing documentation and are unsure where to start",
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ReadMe (@readme) / X Themes and multiplayer editing just landed in ReadMe! 🎨 Pick a new look in Appearance → Themes, then dial it in with a dozen-plus new settings. Plus multiplayer editing: your team can now work on the same page in real time.",
+    "url": "https://x.com/readme",
+    "pass": 3
+   },
+   {
+    "quote": "The Readme (@TheReadMeNews) / X Tesla's Q3 2026: R&D up about 70% to $2.76B, capex up to $4.73B but below the roughly $7.5B analysts expected, and $1.53B of free cash flow. Not investment advice. Full episode on YouTube: The Readme",
+    "url": "https://x.com/TheReadMeNews",
+    "pass": 3
+   },
+   {
+    "quote": "Readme on X: \"\" / X Readme on X: \"\" / X 05 Sep 2026 20:13:38",
+    "url": "https://x.com/Readme00000/status/2096330938779406493",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe Sri Lanka (@ReadMeSriLanka) / X ReadMe is your guide to #lka IT industry. We give you unparalleled insights, accurate tech news, thoughtful features, and sometimes scathing opinions.",
+    "url": "https://x.com/ReadMeSriLanka",
+    "pass": 3
+   },
+   {
+    "quote": "ReadMe (@readme) / X Generate an MCP server from your @readme docs in 3 steps so AI agents can search and execute your API directly inside their workflow. Check out the walkthrough in the comments below.",
+    "url": "https://x.com/readme",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ReadMe - LinkedIn Documentation platform that helps you build docs to drive adoption. Everything your customers need, in one place. | At ReadMe, we help teams build beautiful, interactive documentation.",
+    "url": "https://www.linkedin.com/company/readme",
+    "pass": 3
+   },
+   {
+    "quote": "How to Write an Engaging README File for Your Project - LinkedIn Learn the best practices for creating a README file that showcases your programming project and invites others to join you. Find out how to structure, format, and style your document.",
+    "url": "https://www.linkedin.com/advice/0/what-best-practices-creating-engaging-readme-file-i5lse",
+    "pass": 3
+   },
+   {
+    "quote": "#readme #aboutme #howwework | McKenna Robenalt Something about me: I have a pretty insane bias for speed. It can be great, but it also means I (almost always) forget to “check my work.\" I was the kid done with her test first, and my teacher always told me to go back and check my work before turning it in. So, I really appreciate and NEED QA partners at work. ^This is one of the things included in ",
+    "url": "https://pr.linkedin.com/posts/mckenna-robenalt_readme-aboutme-howwework-activity-7052678217186344960-eYZ6",
+    "pass": 3
+   },
+   {
+    "quote": "How to Write a Good README for Your Projects - LinkedIn Jun 14, 2025 · A clear, well-written README file is your project’s front door. It tells people what your app does, how to use it, and why it matters.",
+    "url": "https://www.linkedin.com/pulse/how-write-good-readme-your-projects-harsh-sakhiya-fpwyf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ReadMe - FacebookReadme.me Travel Blog - FacebookFacebook - log in or sign upReadme blog - FacebookCó một người nói mình đã reverse engineer để chiếu iPhone lên ...You'll love these pants! The material feels premium, and the ...Readme.me - ไทย - Facebook Oct 10, 2026 · ReadMe. 77,744 followers · 524 talking about this. ReadMe covers the people, companies, ideas and policies shaping the digital eco",
+    "url": "https://www.facebook.com/readmelk/",
+    "pass": 3
+   },
+   {
+    "quote": "Readme.me Travel Blog - FacebookFacebook - log in or sign upReadme blog - FacebookCó một người nói mình đã reverse engineer để chiếu iPhone lên ...You'll love these pants! The material feels premium, and the ...Readme.me - ไทย - Facebook Koh Phangan: Yoga and detox by the sea. Hua Hin: Relaxation by the beach with a touch of luxury. Read more about local tips and useful information at https://read",
+    "url": "https://www.facebook.com/readme.me/",
+    "pass": 3
+   },
+   {
+    "quote": "Readme blog - FacebookCó một người nói mình đã reverse engineer để chiếu iPhone lên ...You'll love these pants! The material feels premium, and the ...Readme.me - ไทย - Facebook Readme blog. 12,511 followers · 120 talking about this. Admins: James Montenegro Leon Kennedy Ramos Có một người nói mình đã reverse engineer để chiếu iPhone lên Windows; phần phản chiếu có hướng dẫn ngay trong repo. Bạn c",
+    "url": "https://www.facebook.com/readmeinc/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://readme.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readme.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readme.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readme.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readme.com/customers/socure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readme.com/customers/drivewealth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readme.com/customers/atelio",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://qiita.com/torat3158/items/56cbc131f67c007d8877",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/k-shindo/items/8e99d5a33b93cd5eec86",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techenglishlab9999.com/readme-template-english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/Niko1221/Strata/blob/main/README.ja.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/READ_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://readmejapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/news/article/0802/08/1080208052/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.new-akiba.com/news/readme_japan_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/readme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.remitly.com/us/en/landing/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/104690-17",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/readme.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/readme",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/readme/__82GSpsc8bUCwffMFY8qofmAuacf30CexllehGP79Hf0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/leo_kojika/n/nf9c81afc6e60?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/readme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheReadMeNews",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Readme00000/status/2096330938779406493",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReadMeSriLanka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/readme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/advice/0/what-best-practices-creating-engaging-readme-file-i5lse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pr.linkedin.com/posts/mckenna-robenalt_readme-aboutme-howwework-activity-7052678217186344960-eYZ6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/how-write-good-readme-your-projects-harsh-sakhiya-fpwyf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/readmelk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/readme.me/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/readmeinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/readme",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Readme 日本 導入",
+   "results": [
+    "https://qiita.com/torat3158/items/56cbc131f67c007d8877",
+    "https://qiita.com/k-shindo/items/8e99d5a33b93cd5eec86",
+    "https://techenglishlab9999.com/readme-template-english/",
+    "https://github.com/Niko1221/Strata/blob/main/README.ja.md",
+    "https://github.com/shirashu687/okf-devkit/issues/47",
+    "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "https://zenn.dev/keitosuwahara/articles/2529e2685773ed"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readme 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://chigai2.fromation.co.jp/archives/30533"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readme Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/READ_JAPAN",
+    "https://readmejapan.com/",
+    "https://www.itmedia.co.jp/news/article/0802/08/1080208052/",
+    "https://www.new-akiba.com/news/readme_japan_1",
+    "https://www.makealittle.net/entry/2016040301_readmejapan",
+    "https://readmejapan.com/persons/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4011801033043",
+    "https://note.com/kirryfow/n/n421f8a44daf6"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Readme manufacturing customer case study",
+   "results": [
+    "https://readme.com/customers",
+    "https://www.casestudies.com/company/readme",
+    "https://www.featuredcustomers.com/vendor/readme/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://render.com/customers/readme"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readme white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.remitly.com/us/en/landing/partner-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readme founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/104690-17",
+    "https://getlatka.com/companies/readme.com",
+    "https://compworth.com/company/readme",
+    "https://tracxn.com/d/companies/readme/__82GSpsc8bUCwffMFY8qofmAuacf30CexllehGP79Hf0",
+    "https://compworth.com/company/readme-io",
+    "https://startupintros.com/orgs/readme",
+    "https://www.zoominfo.com/c/readme/408767866"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Readme",
+   "results": [
+    "https://note.com/leo_kojika/n/nf9c81afc6e60?hl=en",
+    "https://note.com/tech_note_/n/n059d35fa3c3c?hl=en",
+    "https://note.com/yukikkoaimanabi/n/n587aa648e0f9",
+    "https://note.com/adgjmptw1218/n/n736953b1aad4?hl=en",
+    "https://note.com/milkcat/n/n539c273e3f83",
+    "https://note.com/dr_ponkotsu/n/n887325be7c81",
+    "https://note.com/rakutools/n/n005d284fca20"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Readme",
+   "results": [
+    "https://x.com/readme",
+    "https://x.com/TheReadMeNews",
+    "https://x.com/Readme00000/status/2096330938779406493",
+    "https://x.com/ReadMeSriLanka",
+    "https://x.com/chuncheontae/status/2118629853809307871",
+    "https://x.com/Bobliuuu/status/2119709793564627398",
+    "https://x.com/CyberCakeX/status/2116567037853966570"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Readme",
+   "results": [
+    "https://www.linkedin.com/company/readme",
+    "https://www.linkedin.com/advice/0/what-best-practices-creating-engaging-readme-file-i5lse",
+    "https://pr.linkedin.com/posts/mckenna-robenalt_readme-aboutme-howwework-activity-7052678217186344960-eYZ6",
+    "https://www.linkedin.com/pulse/how-write-good-readme-your-projects-harsh-sakhiya-fpwyf",
+    "https://www.linkedin.com/in/gkoberger",
+    "https://www.linkedin.com/pulse/how-write-github-readmes-damilola-abdulmalik",
+    "https://in.linkedin.com/in/siddhpatel-ml"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Readme",
+   "results": [
+    "https://www.facebook.com/readmelk/",
+    "https://www.facebook.com/readme.me/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/readmeinc/",
+    "https://www.facebook.com/th.readme.me/",
+    "https://www.facebook.com/hothuongtin/videos/có-một-người-nói-mình-đã-reverse-engineer-để-chiếu-iphone-lên-windows-phần-phản-/1463100649088896/",
+    "https://www.facebook.com/readmeshop/videos/youll-love-these-pants-the-material-feels-premium-and-the-stitching-is-perfectly/1746960823030686/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readme note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://note.com/hashtag/社長"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Readme X 投稿",
+   "results": [
+    "https://x.com/readme",
+    "https://github.com/aibox22/readmeX",
+    "https://www.aitop100.cn/tools/readmex",
+    "https://blog.csdn.net/m0_59012280/article/details/155528076",
+    "https://readme.com/",
+    "https://x.com/_exosai_/status/2116698195900448791",
+    "https://github.com/forwiz-inc/x-post-manager"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部39頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

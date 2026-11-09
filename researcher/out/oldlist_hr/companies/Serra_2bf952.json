@@ -1,0 +1,1285 @@
+{
+ "name": "Serra",
+ "aliases": [],
+ "context": "旧営業リスト｜Recruitment / HR｜状態なし",
+ "researched_at": "2026-11-09T21:24:27.129114+00:00",
+ "official_url": "https://www.serra.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Serra · hiring, built different",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The trades job board that lands you your first hire in under two weeks.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams hiring their trades roles on Serra.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Hires at EquipmentShare",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The job board of the future.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Other boards sell you clicks. Here every job gets a team, and the interviews land on your calendar.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "to hire, in one place.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us the roles. We find the people who fit, reach out once you say yes, and book interviews on your calendar.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You approve who we reach",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Interviews land straight on your calendar. Candidates pick a slot, no back-and-forth.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "hires at EquipmentShare",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Interviews landed on their calendars. Diesel, field, and CDL.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly, like sponsoring jobs on a board. No placement fees, not per hire, not per seat.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting at $10k a month for a set of roles, with unlimited hires from them.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Hit Start hiring and tell us the roles you need filled. Interviews start landing on your calendar.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No. No placement fees. You own every candidate and hire them yourself.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Is this like a job board?",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, one that also does the outreach and books the interviews.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Keep hiring the way you already do.",
+    "url": "https://serra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "WhatsApp · prod-vps-01",
+    "url": "https://www.serra.agency/ja",
+    "pass": 3
+   },
+   {
+    "quote": "curl -sSL …/fix/prod/CVE-2026-44791.sh | sudo bash",
+    "url": "https://www.serra.agency/ja",
+    "pass": 3
+   },
+   {
+    "quote": "社内ツールを安全に公開するための自社MCP（Model Context Protocol）サーバー",
+    "url": "https://www.serra.agency/ja",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA Presents 「ATRIUM - アトリウム」 2023年8月5日（土）2部制",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A Japanese singer-songwriter, SERRA stands out for her expressive and powerful voice, blending J-Pop, rock, and anime music into a unique artistic identity.",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "The artist made her major debut in 2022 with the digital single EYERIS, and the following year, she wrote, composed, and performed Always and Forever, the closing theme for the anime *Why Raeliana Ended Up at the Duke’s Mansion*. The song marked her first participation in an anime project and became one of the most significant works of her career.",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "Now, SERRA is preparing to bring her music to Portugal for the first time, making her debut at Iberanime Matosinhos 2026.",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "Products & Technology",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printer",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Canada State / Province",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Other State / Province",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A Mitsubishi fiber laser is the linchpin of SDHQ Motorsport’s robust manufacturing capabilities in Gilbert, Arizona. SDHQ laser operators praise the GX-F ADVANCED SERIES fiber laser…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "American Tool and Mold, a pioneer in the tool and die industry, automated milling processes with MC Machinery vertical graphite milling cells and Mitsubishi Wire EDM…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "MC Machinery’s Wire & Sinker EDM and 5-axis milling machines provided Quality Tool & Die with automation capabilities that allowed them to expand into a larger…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Aisling Industries owner Bill Yakle praises the accuracy, speed, and small footprint of OPS Ingersoll five-axis milling machines he utilizes for various mold industry applications.",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiegel, a provider of metal stamping services to leading OEM and tier manufacturers, describes MC Machinery Wire EDM machines as “second to none” and continues to…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Ranger HVAC, a specialty manufacturer of custom HVAC systems based in Canada, expanded its operation after installing Remote360 machine monitoring which production managers describe as “essential…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Dies Plus, has achieved increased productivity and efficiency from Mitsubishi Wire EDM machines with Remote360 monitoring. EDM Department head Danny Ritchie expanded remote360 monitoring from one…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The fast-turnaround times required by the RV part industry led Rock Run Industries to add Mitsubishi fiber lasers with automation capabilities to their manufacturing process which…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Web Design Reseller Program - White-Label CMS | WebinOne",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "In-house team of designers, developers, QA's ready to deliver any project or task",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Platform capabilities for large-scale projects, complex workflows, and growing teams",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Site editor for live content management directly on your site web pages",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Boost your agency's growth by joining our Reseller Program",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Get involved in WebinOne development progress. And yes, direct billing is available.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "These Partners and Agencies have offered up their time to give prospects, or new users, a one-on-one demo of the WebinOne platform and can help answer any questions you may have.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Working with other platforms and agencies for over 10 years, and knowing that community was the leading force behind a solid service, we set a clear goal for ourselves before we had started developing WebinOne. Since then our development process has been transparent and predictable where every WebinOne Partner and Agency is welcome to actively participate.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. On the Partner Agency tier you can set your own commission on top of WebinOne's plan pricing for any site your client pays for directly. Direct billing itself — letting your clients pay for their site straight from their own site admin — is available from the Partner tier up.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. As a WebinOne Partner or Partner Agency, you’re entitled to one free website on our highest plan, dedicated to your agency’s own business website. This site is meant to support your agency's presence and showcase your services - please note it is not intended for use as an Ecommerce shop.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "What is the WebinOne reseller program",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "WebinOne's reseller program lets web agencies white-label a complete digital experience platform under their own brand. Over 100 WebinOne reseller Partners in 16 countries use the program to manage all client sites from a centralized portal with direct client billing, free responsive templates, priority support, and feature voting.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Sites start at $10/month with zero transaction fees on Ecommerce. Partners set their own pricing and margins. The program includes dedicated onboarding, a Partner community, and direct access to the WebinOne product team.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partners sign up for a free account and get immediate access to the admin portal. Each client site is provisioned from the Partner dashboard with white-label branding, custom domain, and template selection. Partners manage hosting, support, and direct client billing for their clients independently.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "The platform supports dedicated server hosting across 6 AWS data centers for Partners with data residency or performance requirements. Free templates are included with every account to accelerate project delivery.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "This deck probably won't be useful as a reference for anyone (lol).",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "or have played against this, this ability is probably old news.",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anything is Nostalgic if it has been reprinted in an old border.",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Presumably,",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, whenever a card is reprinted in an old border, I have to rethink my deck check.",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アルゼンチン・タンディルのDX支援会社 - Serra Agency — アルゼンチン・タンディルのDX支援会社 - Serra Agency serra.agency https://www.serra.agency > ...",
+    "url": "https://www.serra.agency/ja",
+    "pass": 3
+   },
+   {
+    "quote": "【単独インタビュー】 SERRA 「あなたの心を灯すまで」 新作 ... — 【単独インタビュー】 SERRA 「あなたの心を灯すまで」 新作 ... 風傳媒 https://japan.storm.mg > ニュース",
+    "url": "https://japan.storm.mg/articles/1177432",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA MEDIACIO, SL - 私のプロフィール Properstar — SERRA MEDIACIO, SL - 私のプロフィール Properstar properstar.jp https://www.properstar.jp > 不動産業者 > victor-serra",
+    "url": "https://www.properstar.jp/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E8%80%85/victor-serra?p=41",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA | Jpop Wiki - Fandom — SERRA | Jpop Wiki - Fandom Jpop Wiki https://jpop.fandom.com > SERRA",
+    "url": "https://jpop.fandom.com/wiki/SERRA",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA /セラ (@se_r_ra) • Instagram photos and videos — SERRA /セラ (@se_r_ra) • Instagram photos and videos Instagram https://www.instagram.com > se_r_ra",
+    "url": "https://www.instagram.com/se_r_ra/",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA — SERRA se-r-ra.com https://se-r-ra.com",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA | IBERANIME — SERRA | IBERANIME Iberanime https://www.iberanime.com > serra",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA OFFICIAL YOUTUBE CHANNEL — SERRA OFFICIAL YOUTUBE CHANNEL YouTube https://www.youtube.com > channel > UCTca-aBZtgxTfl...",
+    "url": "https://www.youtube.com/channel/UCTca-aBZtgxTflNNX2_TWFA",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SNSにて「#SERRA拡散計画」として”アカペラ動画”を投稿し、その歌声は日本にとどまらずアジア諸国にも広がり続けている",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "住所 : 〒150-0042 東京都渋谷区宇田川町13－17 B1F シネマライズビル",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会場：東京・Spotify O-WEST（Shibuya O-WEST）",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※応募は日本国内在住の方に限らせていただきます",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "※応募は日本国内在住の方に限らせて頂きます",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "東京・Spotify O-WEST（Shibuya O-WEST）",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「〒150-0044 東京都渋谷区円山町２−３ 2F",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TRADITIONAL JAPANESE CULTURE",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "the largest gathering of fans of Japanese culture in Portugal!",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "A Japanese singer-songwriter, SERRA stands out for her expressive and powerful voice, blending J-Pop, rock, and anime music into a unique artistic identity.",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA’s connection with international audiences has been growing. In June 2026, she performed at the Bandai Namco Music Live Festival in Seoul alongside Japanese artists such as ZAQ, H△G, and Nowlu. During her performance of Always and Forever, she began the chorus a cappella, showcasing one of the vocal traits that have made her particularly well-known.",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "Get ready to discover one of the emerging voices of Japanese music and experience SERRA’s world live!",
+    "url": "https://www.iberanime.com/en/serra/",
+    "pass": 3
+   },
+   {
+    "quote": "This is likely an EDH deck that no one else in Japan owns.",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "3. Always and Forever -Piano arrange ver.-",
+    "url": "https://se-r-ra.com/",
+    "pass": 3
+   },
+   {
+    "quote": "✦︎. ViVALE(Band arrange Ver.)",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "GRAPHITE MANUFACTURING",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A Mitsubishi fiber laser is the linchpin of SDHQ Motorsport’s robust manufacturing capabilities in Gilbert, Arizona. SDHQ laser operators praise the GX-F ADVANCED SERIES fiber laser…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Cali Raised LED is a vehicle-specific off-road accessories manufacturer in Fort Worth, Texas that uses a Mitsubishi Fiber Laser with automation capabilities to slash their lead…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Olympic Steel attributes their ability to maintain sustainable growth in OEM part manufacturing to the GX-F ADVANCED fiber laser, SmartFlex Rapid Tower laser automation system, and…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiegel, a provider of metal stamping services to leading OEM and tier manufacturers, describes MC Machinery Wire EDM machines as “second to none” and continues to…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Mantz Automation, a custom plastic injection mold manufacturer, biggest supply chain bottleneck was labor requirements. MC Machinery’s EDM and machining centers and their automated capabilities allowed…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Ranger HVAC, a specialty manufacturer of custom HVAC systems based in Canada, expanded its operation after installing Remote360 machine monitoring which production managers describe as “essential…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The fast-turnaround times required by the RV part industry led Rock Run Industries to add Mitsubishi fiber lasers with automation capabilities to their manufacturing process which…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Olympic Steel attributes their ability to maintain sustainable growth in OEM part manufacturing to the GX-F ADVANCED fiber laser, SmartFlex Rapid Tower laser automation system, and…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Wiegel, a provider of metal stamping services to leading OEM and tier manufacturers, describes MC Machinery Wire EDM machines as “second to none” and continues to…",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Web Design Reseller Program - White-Label CMS | WebinOne",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Discover why WebinOne is the perfect fit for agencies and freelancers",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Boost your agency's growth by joining our Reseller Program",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "WebinOne Reseller Directory",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with WebinOne Partners and Agencies ready to assist you",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "White-label all of the sites under your brand. Join an amazing community of successful Partners.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers directory listing",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Granular white-labeling",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "These Partners and Agencies have offered up their time to give prospects, or new users, a one-on-one demo of the WebinOne platform and can help answer any questions you may have.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Working with other platforms and agencies for over 10 years, and knowing that community was the leading force behind a solid service, we set a clear goal for ourselves before we had started developing WebinOne. Since then our development process has been transparent and predictable where every WebinOne Partner and Agency is welcome to actively participate.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Can I create sites if I am not a Reseller?",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer commissions for WebinOne Resellers?",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer free website for WebinOne Resellers?",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "What are the benefits of being a Reseller?",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "What is the WebinOne reseller program",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "WebinOne's reseller program lets web agencies white-label a complete digital experience platform under their own brand. Over 100 WebinOne reseller Partners in 16 countries use the program to manage all client sites from a centralized portal with direct client billing, free responsive templates, priority support, and feature voting.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "How the reseller model works",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partners sign up for a free account and get immediate access to the admin portal. Each client site is provisioned from the Partner dashboard with white-label branding, custom domain, and template selection. Partners manage hosting, support, and direct client billing for their clients independently.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@mcmachinery.com",
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter your Agency Email",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "You'll be sent an email with a button to verify your email address.",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   },
+   {
+    "quote": "Wrong email or password",
+    "url": "https://webinone.com/reseller-program",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "EDH Deck Memo #2: Treizeci, Sun of Serra ｜加藤英宝 - note EDH Deck Memo #2: Treizeci, Sun of Serra ｜加藤英宝 - note note https://note.com > ゲーム > カードゲーム",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "本日の一曲 : Felipe Continentino - \" Serra do Riacho\" - note 本日の一曲 : Felipe Continentino - \" Serra do Riacho\" - note note https://note.com > 音楽 > ドラム・パーカッション",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "感情の歌姫″ SERRA の歌声の魅力について｜エメリア - note 感情の歌姫″ SERRA の歌声の魅力について｜エメリア - note note https://note.com > 音楽 > アーティスト・演奏家",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "EDH Deck Memo #2: Treizeci, Sun of Serra｜加藤英宝",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "EDH Deck Memo #2: Treizeci, Sun of Serra",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The general for this EDH deck memo is",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Treizeci, Sun of Serra.",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Treizeci, Sun of Serra is a Heroes of the Realm card.",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is likely an EDH deck that no one else in Japan owns.",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This deck probably won't be useful as a reference for anyone (lol).",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "if you tell me in advance when we meet that you'd like to play,",
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#本日の一曲 : Felipe Continentino - \"Serra do Riacho\"｜Minimal Order",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "#本日の一曲 : Felipe Continentino - \"Serra do Riacho\"",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "Felipe Continentinoはブラジル・ミナスジェライス州を拠点にするドラマー／作曲家。UFMG（ミナスジェライス連邦大学）でポピュラー音楽を修め、その肩書きどおり「リズムから音楽を構築する人」です。",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "今回ピックアップする「Serra do Riacho」は、アルバム『Estúdio Casa Sol』の収録曲。ポルトガル語で「小川の山」を意味するこのタイトルが、曲の佇まいをそのまま言い当てています。",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "水が岩の間を流れるような、自然体の3分27秒。",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "ドライで、余計な残響が少なく、叩いた音がそのまま空気を切るような質感。派手なフィルやテクニカルな手数で圧倒するタイプではなく、むしろ「間」で語るドラムです。",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "本職がドラマーである人のリズム設計は、やはり根本から違う。「叩く」よりも「呼吸する」に近い演奏。スティックを持っていなくても、思わず膝を叩きたくなる。真似したくなる。そういうグルーヴです。",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "そしてギター。 シンプルなフレーズが繰り返されるのですが、そこに込められた熱量がじわじわと伝わってくる。技巧で魅せるのではなく、一音一音に体温があります。ミニマルな構成のなかで、ギターが「歌っている」瞬間が何度も訪れます。",
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "pass": 3
+   },
+   {
+    "quote": "その美声に天井はない……！″感情の歌姫″SERRAの歌声の魅力について｜エメリア",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   },
+   {
+    "quote": "その美声に天井はない……！″感情の歌姫″SERRAの歌声の魅力について",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   },
+   {
+    "quote": "こちらの3点を主軸に魅力をお伝えしてこうと",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   },
+   {
+    "quote": "「EYERIS」(アイリス)でメジャーデビュー。",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   },
+   {
+    "quote": "『彼女が公爵邸に行った理由』のエンディングテーマが自身初のアニメタイアップとなる。",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には歌唱提供や楽曲提供も行なっており多岐に渡る活動で注目を集めている。",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   },
+   {
+    "quote": "青と夏    〜オク下で魅せる艶やかな低音〜",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   },
+   {
+    "quote": "crossing fierd 〜力強く響くチェストボイス〜",
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Serra Athletics (@PadreAthletics) / X Serra Athletics (@PadreAthletics) / X X https://x.com > PadreAthletics",
+    "url": "https://x.com/PadreAthletics",
+    "pass": 3
+   },
+   {
+    "quote": "Serra Padres Football (@PadreFootball_) / X Serra Padres Football (@PadreFootball_) / X X https://x.com > PadreFootball_",
+    "url": "https://x.com/PadreFootball_",
+    "pass": 3
+   },
+   {
+    "quote": "SERRA (@SE_R_RA) / X SERRA (@SE_R_RA) / X X https://x.com > SE_R_RA",
+    "url": "https://x.com/SE_R_RA",
+    "pass": 3
+   },
+   {
+    "quote": "Serra of the Lake (@SerraOfTheLake) / X Serra of the Lake (@SerraOfTheLake) / X X https://x.com > SerraOfTheLake",
+    "url": "https://x.com/SerraOfTheLake",
+    "pass": 3
+   },
+   {
+    "quote": "加藤英宝 (@serra_katoeiho) / X 加藤英宝 (@serra_katoeiho) / X X https://x.com > serra_katoeiho",
+    "url": "https://x.com/serra_katoeiho",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Serra | LinkedIn Serra | LinkedIn LinkedIn https://www.linkedin.com > serraio",
+    "url": "https://www.linkedin.com/company/serraio",
+    "pass": 3
+   },
+   {
+    "quote": "Junipero Serra High School, San Mateo, California - LinkedIn Junipero Serra High School, San Mateo, California - LinkedIn LinkedIn https://www.linkedin.com > school > j...",
+    "url": "https://www.linkedin.com/school/junipero-serra-high-school_2/",
+    "pass": 3
+   },
+   {
+    "quote": "Serra Center | LinkedIn Serra Center | LinkedIn LinkedIn https://www.linkedin.com > serra-center",
+    "url": "https://www.linkedin.com/company/serra-center",
+    "pass": 3
+   },
+   {
+    "quote": "James Serra - Data & AI Solution Architect at Microsoft - LinkedIn James Serra - Data & AI Solution Architect at Microsoft - LinkedIn LinkedIn https://www.linkedin.com > jamesserra",
+    "url": "https://www.linkedin.com/in/jamesserra",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Junipero Serra High School (San Mateo) - Facebook Junipero Serra High School (San Mateo) - Facebook Facebook https://www.facebook.com > ... > School > High School",
+    "url": "https://www.facebook.com/serrapadres/",
+    "pass": 3
+   },
+   {
+    "quote": "Serra Center - Facebook Serra Center - Facebook Facebook https://www.facebook.com > ... > Nonprofit organization",
+    "url": "https://www.facebook.com/serraresidentialcenter/",
+    "pass": 3
+   },
+   {
+    "quote": "Daniele Serra Illustrator (@daniele. serra .art) - Facebook Daniele Serra Illustrator (@daniele. serra .art) - Facebook Facebook https://www.facebook.com > Pages > Public figure > Artist",
+    "url": "https://www.facebook.com/daniele.serra.art/",
+    "pass": 3
+   },
+   {
+    "quote": "Serra Wildheart - Author (@SerraWildheart) - Facebook Serra Wildheart - Author (@SerraWildheart) - Facebook Facebook https://www.facebook.com > Pages > Public figure > Author",
+    "url": "https://www.facebook.com/SerraWildheart/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://serra.io/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://serra.io/serra-home/logos/equipmentshare.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serra.agency/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8140",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.properstar.jp/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E8%80%85/victor-serra?p=41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.serra.agency/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lapeonier2/status/2055549471627653585",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jpop.fandom.com/wiki/SERRA",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/se_r_ra/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se-r-ra.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iberanime.com/en/serra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paperlessparts.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLk9iK66LEKJ788zpwS3qFsA1wEs4groF2d6hr4kn2A821ev7N7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcmachinery.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insight.com/en_US/content-and-resources.html?tags=stream-type%3Acase-studies&tags=stream-partner%3Agoogle-cloud&offset=0&limit=10&year=&q=&language=en&pagePath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&searchPath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&srsltid=AYCX9vKX7ZVZEAW986YQCKxm6JYgVMhUGNgA7ksbiViFeaRWVffUECw9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sierra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sierra.ai/blog/theres-an-agent-for-that-and-it-runs-on-sierra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/sierra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://okara.ai/blog/sierra-ai-revenue-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/emelia5193/n/nb265fe5deba2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PadreAthletics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PadreFootball_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SE_R_RA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SerraOfTheLake",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/serraio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/junipero-serra-high-school_2/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/serra-center",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jamesserra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/serrapadres/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/serraresidentialcenter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daniele.serra.art/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SerraWildheart/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/serra_katoeiho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SE_R_RA",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Serra 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.serra.agency/ja",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://japan.storm.mg/articles/1177432",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://ja.wikipedia.org/wiki/SERRA",
+    "https://se-r-ra.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Serra 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8140",
+    "https://www.properstar.jp/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%A5%AD%E8%80%85/victor-serra?p=41",
+    "https://www.serra.agency/ja",
+    "https://x.com/lapeonier2/status/2055549471627653585",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "http://www.sra.co.jp/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://info.skyvisualeditor.com/case/showa-shell",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Serra Japan",
+   "results": [
+    "https://jpop.fandom.com/wiki/SERRA",
+    "https://www.instagram.com/se_r_ra/",
+    "https://se-r-ra.com/",
+    "https://www.iberanime.com/en/serra/",
+    "https://www.youtube.com/channel/UCTca-aBZtgxTflNNX2_TWFA",
+    "https://serra.fanpla.jp/live_information/schedule/list/",
+    "https://en.namu.wiki/w/SERRA",
+    "https://www.tunecore.co.jp/artists/SERRA?lang=en",
+    "https://ja.wikipedia.org/wiki/SERRA",
+    "https://www.youtube.com/@se-r-ra"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Serra manufacturing customer case study",
+   "results": [
+    "https://www.paperlessparts.com/case-studies/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLk9iK66LEKJ788zpwS3qFsA1wEs4groF2d6hr4kn2A821ev7N7",
+    "https://www.mcmachinery.com/case-studies/",
+    "https://www.insight.com/en_US/content-and-resources.html?tags=stream-type%3Acase-studies&tags=stream-partner%3Agoogle-cloud&offset=0&limit=10&year=&q=&language=en&pagePath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&searchPath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&srsltid=AYCX9vKX7ZVZEAW986YQCKxm6JYgVMhUGNgA7ksbiViFeaRWVffUECw9",
+    "https://www.griddynamics.com/blog/case-studies",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://safetychain.com/resources/case-studies",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://www.simetra.com/projects/caseserr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Serra white label OR reseller OR partner program",
+   "results": [
+    "https://webinone.com/reseller-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Serra founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sierra",
+    "https://sierra.ai/blog/theres-an-agent-for-that-and-it-runs-on-sierra",
+    "https://sacra.com/c/sierra/",
+    "https://okara.ai/blog/sierra-ai-revenue-growth",
+    "https://www.linkedin.com/posts/nicolask3_customerexperience-ai-activity-7369472752442863619-zLa1",
+    "https://www.cmswire.com/customer-experience/sierra-raises-950m-at-15b-valuation-eyes-transformation-beyond-customer-support/",
+    "https://www.crunchbase.com/organization/serra-technologies",
+    "https://www.youtube.com/watch?v=VrRdH4xjWWk&vl=ja",
+    "https://dealroom.co/news/113255-sierra-secures-350m-funding-hits-10b-valuation-amid-rapid-revenue-growth/",
+    "https://compworth.com/company/serra-automotive"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Serra",
+   "results": [
+    "https://note.com/eiho_kato/n/na6ce61e67768?hl=en",
+    "https://note.com/minimalorder/n/n5b058a2ec6fb",
+    "https://note.com/emelia5193/n/nb265fe5deba2",
+    "https://note.com/eiho_kato",
+    "https://note.com/watsuko/n/n06932144a343?hl=en",
+    "https://note.com/eiho_kato/n/n18e0f7f58b61?hl=en",
+    "https://note.com/2024_0908/n/n81f77a21b366",
+    "https://note.com/glocaleats/n/n55b4d5074b6e?hl=en",
+    "https://note.com/emelia5193/n/n62b19fc17973",
+    "https://note.com/nichesneaker/n/nf5099a9a2bb0?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Serra",
+   "results": [
+    "https://x.com/PadreAthletics",
+    "https://x.com/PadreFootball_",
+    "https://x.com/SE_R_RA",
+    "https://x.com/SerraOfTheLake",
+    "https://x.com/MattSerraUFC",
+    "https://x.com/Serra__Football",
+    "https://x.com/Serra_Baseball",
+    "https://x.com/serrasowers",
+    "https://x.com/danilaserra_eco",
+    "https://x.com/serrayedikardes"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Serra",
+   "results": [
+    "https://www.linkedin.com/company/serraio",
+    "https://www.linkedin.com/school/junipero-serra-high-school_2/",
+    "https://www.linkedin.com/company/serra-center",
+    "https://www.linkedin.com/in/jamesserra",
+    "https://www.linkedin.com/company/serra-chevrolet",
+    "https://www.linkedin.com/in/serra-k",
+    "https://www.linkedin.com/in/serra-saridereli-762a1243",
+    "https://www.linkedin.com/in/eileenmserra",
+    "https://www.linkedin.com/in/steve-serra-a2880a3",
+    "https://www.linkedin.com/in/albertserrajunyent"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Serra",
+   "results": [
+    "https://www.facebook.com/serrapadres/",
+    "https://www.facebook.com/serraresidentialcenter/",
+    "https://www.facebook.com/daniele.serra.art/",
+    "https://www.facebook.com/SerraWildheart/",
+    "https://www.facebook.com/serrabrand/",
+    "https://www.facebook.com/serraoftraversecity/",
+    "https://www.facebook.com/brightonmimazdausa/",
+    "https://www.facebook.com/SerraToyotaBirmingham/",
+    "https://www.facebook.com/alexserramusic/",
+    "https://www.facebook.com/serrasdinendance/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Serra note 社長",
+   "results": [
+    "https://note.com/eiho_kato",
+    "https://note.com/eiho_kato/n/n718701e325c6",
+    "https://x.com/serra_katoeiho",
+    "https://cardshop-serra.com/blogs/news/41274?srsltid=AYCX9vLFz3FNrBbW_JJwMMwp888-eIfCBE_7rHooSsiI2m0r1zTPnk3t",
+    "https://note.com/eiho_kato/n/n4e34300da1a0",
+    "https://www.wantedly.com/companies/company_4676440/post_articles/343852",
+    "https://note.com/eiho_kato/n/n55ca83bb3113",
+    "https://note.com/eiho_kato/n/n2d27bd3a8caa",
+    "https://note.com/eiho_kato/n/n81ce840f044c",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Serra X 投稿",
+   "results": [
+    "https://x.com/SE_R_RA",
+    "https://serra.fanpla.jp/news/detail/89243",
+    "https://se-r-ra.com/",
+    "https://www.youtube.com/@se-r-ra/about",
+    "https://www.youtube.com/watch?v=YW49IGSHy8Y",
+    "https://tiget.net/events/520481",
+    "https://www.instagram.com/se_r_ra/",
+    "https://search.yahoo.co.jp/realtime/search/#serra/",
+    "https://x.com/i/trending/2119325218820989017",
+    "https://x.com/se_r_ra"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部41頁・検索12回）"
+ }
+}

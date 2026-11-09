@@ -1,0 +1,446 @@
+{
+ "name": "Stellar Pyxidis 3D — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T21:33:33.638145+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Stellar Pyxidis 3D — VoxelMatters - The largest database of ... — Welcome to Stellar Pyxidis 3D, your trusted partner in the world of innovative manufacturing and 3D printing solutions. Established in 2004, initially as a premier business brokerage, we have evolved into a pioneering force in the realm of cutting-edge technology. Our journey began with a mission to assist business owners in realizi",
+    "url": "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Stellar Pyxidis 3D — VoxelMatters - The largest database of ... — Stellar Pyxidis 3D, established in 2004, initially as a premier business brokerage specializing in brokering small business acquisitions up to $1.2 million, has evolved into a pioneering force in the realm of cutting-edge technology.",
+    "url": "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://stellarpyxidis3d.com/pages/about-us?srsltid=AYCX9vLwJ6HCZNF6UkQI7rDt-OQglhcSzirwmKnAZqpqO6gYpjbV3OqD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/contribute/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/electronics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stellarpyxidis3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stellarpyxidis3d.com/pages/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stellaromics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://sunstella.co.jp/collections/material-list?srsltid=AYCX9vLpGjJvGq_YDKfY8Tk0q_ioXovlxBrSwZyOXGFrZIdtcw7aDKmb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidyard.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stellarpyxidis3d.com/collections/professional?srsltid=AYCX9vJqqRlow-hQ4zJ90IsIX7QWw2UipAI6ZVfC4b6AgEUph-NExYnx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vL881RUhCMN8aNugoBqDsu-5_NRfW1hGiDxNqewIRmGNb8p6wdc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stellarpyxidis3d.com/pages/industrial-resources?srsltid=AYCX9vK05QfIFiPtoezlnmsHIptb_BEi-lpxN2MNt3kFXv3NaRXkNTJ0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/electronics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stellarpyxidis3d.com/pages/about-us?srsltid=AYCX9vKxYYVmtN7T6-UIhTnFS_CtRHPzA4PlkiGUuKfcsYwLqFhkOh8i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/%E3%82%B3%E3%83%BC%E3%83%81/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cdn.amazon.co.jp/gp/help/customer/display.html?nodeId=TgeQoI2TC9jEOh0mQf",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=356-1491289-5594625&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stellarpyxidis3d.com/pages/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stellarpyxidis3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters 代理店",
+   "results": [
+    "https://stellarpyxidis3d.com/pages/about-us?srsltid=AYCX9vLwJ6HCZNF6UkQI7rDt-OQglhcSzirwmKnAZqpqO6gYpjbV3OqD",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.directory/company-category/electronics-3d-printer-reseller/",
+    "https://stellarpyxidis3d.com/?srsltid=AYCX9vI6UrbpJAFST3iVyNiE8SwxssUut25uAliStTEksJXH7GCMCQLG",
+    "https://www.voxelmatters.com/category/3d-printing-services/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vItCL4r2j3_fLJpicxbKltB9oEmwJigrdl_Jhx8xf47s5wFJYeL",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://stellarpyxidis3d.com/",
+    "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/",
+    "https://stellarpyxidis3d.com/pages/about-us",
+    "https://stellaromics.com/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://stellarpyxidis3d.com/pages/industrial-resources",
+    "https://stellarpyxidis3d.com/collections/cement-printers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "https://sunstella.co.jp/collections/material-list?srsltid=AYCX9vLpGjJvGq_YDKfY8Tk0q_ioXovlxBrSwZyOXGFrZIdtcw7aDKmb",
+    "https://www.solidyard.jp/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.youtube.com/watch?v=xx8cGPfm3f4",
+    "https://www.kkday.com/ja/product/804002?srsltid=AYCX9vLom2zFqkVFTgk-G5jEypblgcUis6UUORm5NXn4En0OlTcshhMQ",
+    "https://www.rakunew.com/items/88762",
+    "https://ja.aliexpress.com/item/1005008866748262.html",
+    "https://skhonpo.com/collections/emake3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://stellarpyxidis3d.com/collections/professional?srsltid=AYCX9vJqqRlow-hQ4zJ90IsIX7QWw2UipAI6ZVfC4b6AgEUph-NExYnx",
+    "https://skhonpo.com/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vL881RUhCMN8aNugoBqDsu-5_NRfW1hGiDxNqewIRmGNb8p6wdc",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://www.solidyard.jp/",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJ8gfwatZgdB2bv-BK_eypNDpFCH6Wea4jrcGlFThfxHwXa2kjL",
+    "https://crystalmart.net/sub/product/next.asp?p_idx=1007&page=6",
+    "https://shop.exmatelab.com/",
+    "https://stellaromics.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://stellarpyxidis3d.com/pages/industrial-resources?srsltid=AYCX9vK05QfIFiPtoezlnmsHIptb_BEi-lpxN2MNt3kFXv3NaRXkNTJ0",
+    "https://www.voxelmatters.directory/company-category/electronics-3d-printer-reseller/",
+    "https://www.upnano.com/distributors/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.voxelmatters.com/",
+    "https://www.raise3d.com/reseller/",
+    "https://www.massivit3d.com/distributors/",
+    "https://www.voxelmatters.com/category/industry-2/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printer-reseller/",
+    "https://stellarpyxidis3d.com/pages/about-us?srsltid=AYCX9vKxYYVmtN7T6-UIhTnFS_CtRHPzA4PlkiGUuKfcsYwLqFhkOh8i",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.facebook.com/fb-answers/3d-printing-companies-in-japan/?locale=ga_IE",
+    "https://stellarpyxidis3d.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Stellar Pyxidis 3D — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/stores/コーチ/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://www.cdn.amazon.co.jp/gp/help/customer/display.html?nodeId=TgeQoI2TC9jEOh0mQf",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.amazon.co.jp/-/en/puffs】Fasoul-Fasoul-heat-not-burn-compatible-achieves/dp/B0F546PLPX"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Stellar Pyxidis 3D — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://stellarpyxidis3d.com/pages/about-us",
+    "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/",
+    "https://stellarpyxidis3d.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/meet-the-top-companies-from-voxelmatters-polymer-am-2026-report-and-see-how-theyre-trending/",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Stellar Pyxidis 3D — VoxelMatters",
+   "results": [
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/rescuenow_ric24/n/nfcb95f288f5a",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/prenvi_works_uz/n/n4501c7a32b1f",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Stellar Pyxidis 3D — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Stellar Pyxidis 3D — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://es.linkedin.com/in/alexandra-fangous/en",
+    "https://uk.linkedin.com/in/mipply",
+    "https://de.linkedin.com/in/pavlobaron"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Stellar Pyxidis 3D — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/StellarPyxidis3D/about/",
+    "https://www.facebook.com/StellarPyxidis3D/posts/-elevate-your-creations-with-professional-3d-printing-calling-all-designers-engi/122102854424054722/",
+    "https://www.facebook.com/StellarPyxidis3D/posts/122116000868054722/",
+    "https://www.facebook.com/StellarPyxidis3D/posts/122102354000054722/",
+    "https://www.facebook.com/StellarPyxidis3D/posts/-unlocking-innovation-bringing-3d-printers-to-schools-️empower-students-with-cut/122107630160054722/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/StellarPyxidis3D/posts/-step-into-the-future-with-your-favorite-color-car-created-by-a-3d-printer-innov/122113715780054722/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Stellar Pyxidis 3D — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.directory/company/stellar-pyxidis-3d/",
+    "https://stellarpyxidis3d.com/blogs/news/welcome",
+    "https://x.com/voxelmatters",
+    "https://stellarpyxidis3d.com/",
+    "https://www.voxelmatters.com/",
+    "https://stellarpyxidis3d.com/pages/industry-publications",
+    "https://www.youtube.com/@voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）"
+ }
+}

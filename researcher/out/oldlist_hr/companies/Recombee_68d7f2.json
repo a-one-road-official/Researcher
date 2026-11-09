@@ -1,0 +1,1414 @@
+{
+ "name": "Recombee",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T21:53:05.854412+00:00",
+ "official_url": "https://www.recombee.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$62,000",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Rybná, 716/24, Prague, Prague 110 00 , CZ",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "https://www.recombee.com/pricing.md",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Become the architect of your success with our AI personalization engine designed to align with the visionary strategy of product managers and tech teams.",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Video AI Personalization",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize Engagement With Real‑Time Video Recommendations",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface the right content at the right moment with recommendations that",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "watch time, completion, subscriptions, and retention",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Related Content & Deep Dives",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Revenue Growth With Personalized Product Discovery",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guide shoppers to products they’re most likely to buy with",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recombee’s advanced 1:1 content personalization is designed to",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "while preserving the editorial voice.",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface the right promotions before they expire based on",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promoted Deals For You",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Property Discovery With Personalized Recommendations",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "based on real-time user signals and evolving preferences to reduce search fatigue and drive",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "traveler preferences, context, and real-time behavior",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promoted Offers For You",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment AI Personalization",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recommend relevant roles based on each candidate’s",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to Recombee's flexibility, the recommendations and search can be applied to virtually any use case with a lot of content.",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "helps you make a unique impression through a personalized user experience.",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow your product vision by setting specific behavior for each box with recommendations.",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Express your custom filters",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in your programming language to call our",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "prestigious conferences",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.recombee.com/pricing.md",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your business together with the most advanced recommendation engine on the market. Boost your client’s satisfaction and KPIs with real-time content, product and search personalization.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Learn About Partnership Program",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership Program Benefits",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Earn additional revenue in the form of commissions or exclusive discounts to provide best-in-class personalization experiences to your customers.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your knowledge of AI & Personalization by accessing Recombee’s marketing and educational materials.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Software",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Boost engagement and conversions by incorporating personalized product recommendations into email campaigns, driving higher click-through rates and customer interaction.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Supercharge customer data by integrating Recombee for personalized product and content recommendations, enabling more precise and effective marketing strategies.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate the user experience with dynamic, personalized recommendations on content management systems, enhancing engagement and driving more conversions.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver hyper-targeted content recommendations based on viewer preferences and behavior, increasing satisfaction and boosting overall viewership.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance the buyer’s journey with personalized product recommendations that drive higher cart values and conversion rates at every touchpoint.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "We offer various partnership opportunities, tailored to different business needs. As a partner, you will earn a share of yearly subscription fees based on the Monthly Recurring Revenue (MRR) of the client and your involvement in the process.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for tech-savvy agencies and studios looking to take a hands-on approach. You’ll not only refer clients but also guide them in integrating Recombee’s recommendations into their platforms, giving them a truly personalized service.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "For platforms like CDPs, CMSs, OTT services, and email marketing tools, integrating Recombee’s powerful engine into your offering means your clients get instant access to AI-driven personalization, making your platform even more valuable.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "It has become very difficult for companies to handle all their customer journeys and patterns, so if you’d like to provide visitors with the best content and customers with the best products, you need to start thinking AI.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "At Complex, we choose our tools very carefully - invest into intensive analysis, test phases and target specific KPIs. With Recombee, we found a compatible match that positively surprised us - easy integration, the API is comparatively simple and easy to understand, great personal support, and any flexibility in the front end that you could wish for.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s start by exploring your business goals and how a partnership with Recombee can support your growth. We’ll follow up promptly with a tailored proposal, crafted to meet your specific needs.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Once the partnership is active, you’ll have full access to both technical and marketing support. Whether you’re referring clients or embedding our solution into your services, we’re here to help you succeed every step of the way.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Improve User Experience",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "> Source: https://www.recombee.com/pricing",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "* [PlansFind the right plan for your traffic and usage.Explore Plans ↓](#pricing-plans)",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Plan | Free | Standard | Pro | Premium |",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Price | Forever $0 | Starting at $99/mo | Starting at $1,699/mo | Starting at $4,499/mo |",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Usage | Free | Standard | Pro | Premium |",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "* **Catalog Items**: The total amount of products or pieces of content that you want to recommend to users.",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Features | Free | Standard | Pro | Premium |",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Content Recommendations Models | Included | Included | Included | Included |",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Product Recommendations Models | Included | Included | Included | Included |",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "* **Content Recommendations Models**: Leverage models specifically fine-tuned for audio, video, articles or news. Personalize based on individual user behaviors and preferences.",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "* **Product Recommendations Models**: Recommend products based on popularity, trends, or user's past behavior, such as items similar to the ones they have viewed or purchased.",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "* **Real-Time Analytics**: Comprehensive 360° view of your recommendations' performance.",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "* **Item Segmentations**: Enhance your recommendations options through recommending segments based on shared properties.",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "* **Semantic Search**: Semantic search uses an LLM to interpret query meaning, providing results based on intent and context, not just keywords.",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Support | Free | Standard | Pro | Premium |",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 10,000+ sites and apps",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "9GAG Case Study",
+    "url": "https://www.recombee.com/features/recommendations-search",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.recombee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/the-telegraph",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/9gag",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/audiomack",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/slickdeals",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable Recommendation in Industrial Scale.",
+    "url": "https://www.recombee.com/research",
+    "pass": 1
+   },
+   {
+    "quote": "Would you like to collaborate with us to push the boundaries of recommender systems? Are you interested in doing an industrial master’s or PhD thesis?",
+    "url": "https://www.recombee.com/research",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/ftv-prima",
+    "pass": 1
+   },
+   {
+    "quote": "The similarity is ensured through a combination of tags (e.g., romantic movies), used by Prima to internally describe movies, and",
+    "url": "https://www.recombee.com/case-studies/ftv-prima",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/ftv-prima-content",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/unfiltered-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "Download Case Study (PDF)",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "Their portfolio covers products from every spectrum of the media market, including newspapers, magazines, video portals, tv stations, virtual operators, and radios.",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Design Group achieves 52% increase in purchases with Recombee | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/recombee/case-study/how-machine-learning-can-be-used-for-boosting-ecommerce-kpis",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Design Group achieves 52% increase in purchases with Recombee",
+    "url": "https://www.casestudies.com/company/recombee/case-study/how-machine-learning-can-be-used-for-boosting-ecommerce-kpis",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/recombee/case-study/how-machine-learning-can-be-used-for-boosting-ecommerce-kpis",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/recombee/case-study/how-machine-learning-can-be-used-for-boosting-ecommerce-kpis",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Drive Revenue Growth With Personalized Product Discovery",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock New Revenue Stream",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Earn additional revenue in the form of commissions or exclusive discounts to provide best-in-class personalization experiences to your customers.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "We offer various partnership opportunities, tailored to different business needs. As a partner, you will earn a share of yearly subscription fees based on the Monthly Recurring Revenue (MRR) of the client and your involvement in the process.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "This comprehensive approach enhances personalization across a wider array of use cases than conventional systems allow.",
+    "url": "https://www.recombee.com/features/recommendations-search",
+    "pass": 1
+   },
+   {
+    "quote": "and even rearrange UI elements to highlight the most relevant options for each user. This optimization significantly enhances their experience, exemplified by features like the",
+    "url": "https://www.recombee.com/features/recommendations-search",
+    "pass": 1
+   },
+   {
+    "quote": "Our experience with Recombee has been exceptional. Integration was one of the most painless third-party implementations we’ve done, and the flexibility of the system allows us to continuously fine-tune discovery across our platform. Recombee’s ability to handle our catalog scale while delivering high-quality, adaptive recommendations makes it a critical part of our growth strategy.",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "drives an impressive 24% of Konga's revenues.",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "If you are looking for a flexible, well documented and powerful recommendation engine, Recombee is definitely the best option in the market. Based on our tests, Recombee provided up to 19% lift in recommendation revenue and increased the conversion rate by 12%",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "already driving 30% of all purchases and revenue",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Recombee's service is an essential part of the user experience on my site that sells pop culture merchandise. With many different categories and attributes of the products, the AI recommendations are the best way to offer my customers the best products for them at the right time. After the integration of the service, there was a",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We had seen significantly better conversions of users to paying customers on Wishbook app, a part of which was due to the similar product recommendations & relevant products for the user being served on the app by Recombee.",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With rich international experience from working and studying in 6 countries, responsible for development and implementation of a growth strategy, market expansion, new customer acquisition and brand awareness.",
+    "url": "https://www.recombee.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Item Segments automatically appear and disappear on the fly along with changes in the Item catalog. Additionally, a single Item may (or may not) be a part of multiple Segments within the same Segmentation (e.g. movie with multiple genres).",
+    "url": "https://www.recombee.com/blog/recombee-item-segmentations",
+    "pass": 1
+   },
+   {
+    "quote": "so the users can seamlessly continue watching another part of the story.",
+    "url": "https://www.recombee.com/case-studies/ftv-prima",
+    "pass": 1
+   },
+   {
+    "quote": "goal of increasing content discovery and maximizing advertising revenue.",
+    "url": "https://www.recombee.com/case-studies/ftv-prima-content",
+    "pass": 1
+   },
+   {
+    "quote": "Recombee Revenue 2025: $5.3M Est.",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee has not published its revenue. GetLatka estimates it at about $5.3M a year (December 2025).",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee has 48 employees (December 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Recombee's revenue?",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Recombee's revenue at about",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Recombee have?",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of December 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Recombee",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Recombee?",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Recombee have?",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Personalized Emailing",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers now receive highly relevant property recommendations that cater to their specific needs, with one notable email campaign seeing a 178% uplift in CTOR. Recombee commitment to excellence is evident in the 40% increase in listing engagements on our platform, contributing to our growth in the competitive real estate market.",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask me which use cases to implement — homepage recommendations, related items on a product page, personalized search, email suggestions, and so on.",
+    "url": "https://www.recombee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Software",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Boost engagement and conversions by incorporating personalized product recommendations into email campaigns, driving higher click-through rates and customer interaction.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "For platforms like CDPs, CMSs, OTT services, and email marketing tools, integrating Recombee’s powerful engine into your offering means your clients get instant access to AI-driven personalization, making your platform even more valuable.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "* **Mail**: Effortlessly address all your inquiries by reaching out to our support team through email.",
+    "url": "https://www.recombee.com/pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "Our collaboration with Recombee has supported our platform's capabilities through its intelligent personalization algorithms and sophisticated search results. Our customers now receive highly relevant property recommendations that cater to their specific needs, with one notable email campaign seeing a 178% uplift in CTOR.",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Effortlessly address all your inquiries by reaching out to our support team through email.",
+    "url": "https://www.recombee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us to Learn More",
+    "url": "https://www.recombee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "through personalized property suggestions, emailing campaigns, and sophisticated search results",
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "pass": 1
+   },
+   {
+    "quote": "In CTOR from the personalized emails",
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "pass": 1
+   },
+   {
+    "quote": "in click-to-open rate (CTOR) from the personalized emails",
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "pass": 1
+   },
+   {
+    "quote": "in lease actions from users who received the personalized emails",
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "pass": 1
+   },
+   {
+    "quote": "Email marketing campaigns are an essential tool to reach out to prospective clients and maintain connections with existing ones.",
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "pass": 1
+   },
+   {
+    "quote": "“Our collaboration with Recombee has supported our platform's capabilities through its intelligent personalization algorithms and sophisticated search results. Our customers now receive highly relevant property recommendations that cater to their specific needs, with one notable email campaign seeing a 178% uplift in CTOR.",
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "pass": 1
+   },
+   {
+    "quote": "“Recombee allows us to modify how we want the recommendations to behave across our platforms in very specific use cases. A major success has been the growth of recirculation, which is our top priority on online magazine platforms. We are currently discussing extending their recommendations also to our emails. Highly valued partnership!“",
+    "url": "https://www.recombee.com/case-studies/ftv-prima-content",
+    "pass": 1
+   },
+   {
+    "quote": "Personalization of periodical emails sent to the customers.",
+    "url": "https://www.recombee.com/case-studies/unfiltered-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "Personalization of periodically sent emails.",
+    "url": "https://www.recombee.com/case-studies/unfiltered-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "At the bottom of those emails, you can find other interesting articles specifically tailored for every individual recipient.",
+    "url": "https://www.recombee.com/case-studies/unfiltered-media-group",
+    "pass": 1
+   },
+   {
+    "quote": ") and emailing to their premium users.",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "Improvement in emailing CTOR",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "Email personalization for iDNES Premium users",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "highly personalized emails",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "in emailing click-to-open rate compared to the previous solution",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "Emailing for Premium Users",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "The scenario used in the emailing campaigns recommending fresh daily premium content for subscribed users.",
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "pass": 1
+   },
+   {
+    "quote": "Crexi achieves 40% more buy actions and 178% higher email CTOR with Recombee",
+    "url": "https://www.casestudies.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "itison achieves 25% higher e-commerce conversion and 2,000% ROI with Recombee's AI-powered email personalization",
+    "url": "https://www.casestudies.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Mafra boosts news CTR and email engagement with Recombee",
+    "url": "https://www.casestudies.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Mafra (Czech media group) achieves 40% higher article CTR and 25% better email CTOR with Recombee",
+    "url": "https://www.casestudies.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Digital & IT Agencies",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for tech-savvy agencies and studios looking to take a hands-on approach. You’ll not only refer clients but also guide them in integrating Recombee’s recommendations into their platforms, giving them a truly personalized service.",
+    "url": "https://www.recombee.com/partnerships",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Recombee - AIツール詳細｜クイックAI — Recombeeの概要 Recombeeは、AIを活用したリアルタイムのレコメンダーシステムで、eコマース企業やメディアプラットフォームにおいて、個別化されたショッピング体験やコンテンツ体験を提供することを目的としています。",
+    "url": "https://quickai.jp/ai-tools/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Real-Time Recommender | Recombee — Recombee helped us make content discovery far more relevant for every viewer. Following a seamless implementation, we saw a 23% increase in click-through rate and a 39% increase in video views reaching at least 25% completion.",
+    "url": "https://www.recombee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Recombeeってなにしてるの？: ひっくり返った犬小屋に逃げろ — May 30, 2026 · Recombee は一言でいうと、**「推薦システム（レコメンドエンジン）をAPIとして提供するサービス」**です。 例えば： * ECサイトの商品おすすめ * 動画サイトのおすすめ * ニュース記事推薦 * 「あなたへのおすすめ」 みたいなものを作るための基盤ですね。",
+    "url": "https://sunkenyellowsubmarin.seesaa.net/article/520658357.html",
+    "pass": 3
+   },
+   {
+    "quote": "Research | Recombee — At Recombee, we believe in open innovation and collaborative advancement of AI technologies.",
+    "url": "https://www.recombee.com/research",
+    "pass": 3
+   },
+   {
+    "quote": "FitGap | Recombeeとは？強み、注意点を専門家がレビュー — 軽量なAPIと各種SDKが用意されており、既存システムへの導入期間を短縮できる設計となっています。 機能面では、新規ユーザーや商品に対するコールドスタート問題への対策、属性と連動した推薦、シナリオ別のランキング最適化などに対応しています。",
+    "url": "https://fitgap.com/jp/products/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Recombee — Recombee was founded in 2015 by machine learning and AI experts with a simple mission: to help businesses make digital experiences more relevant to their audiences.",
+    "url": "https://www.recombee.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "How It Works | Recombee — Recombee recommendation engine was from the very beginning designed as a modern, secure, real-time, and horizontally scalable distributed cloud system. This robust architecture has led to its success, enabling us to serve hundreds of businesses and reach hundreds of millions of end users globally.",
+    "url": "https://www.recombee.com/how-it-works",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee - LinkedIn — Powered by more than 100 proprietary machine learning models that update with every click and view, Recombee converts engagement signals into measurable results such as higher click-through,...",
+    "url": "https://www.linkedin.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: ecobee Smart Thermostat Premium with Siri and ...Best Ecobee Smart Thermostat Deals in Japan (2026)Recombee - AIツール詳細｜クイックAIFitGap | Recombeeとは？強み、注意点を専門家がレビュー — ecobee Smart Thermostat Premium is a complete home monitoring hub with built-in smoke alarm detection and warnings that possible intrusion when the system is activated. * Receive notifications if the temperature drops sudden",
+    "url": "https://www.amazon.co.jp/-/en/ecobee-Thermostat-Premium-Quality-Monitor/dp/B09XXS48P8",
+    "pass": 3
+   },
+   {
+    "quote": "Personalization Examples and Case Studies | Recombee — The integration was simple and quick with incredible support assistance from Recombee when we needed it. Recombee, with its impressive real-time product recommendations, provides us with a perfect personalization solution to accomplish our KPIs and improve our customer satisfaction.",
+    "url": "https://www.recombee.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee B2B Case Studies & Customer Successes — See how Recombee solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Increase Average Order Value | Targito | Recombee — In collaboration with partner Targito, Recombee was applied to help shoppers find the right product in the right style and size as quickly as possible. By improving the user experience, Triola increased 10% in shopping cart volume and achieved a stunning cost-revenue ratio of 3.7%.",
+    "url": "https://www.recombee.com/case-studies/triola",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Design Group achieves 52% increase in purchases ... — Recombee’s solution produced a 52% increase in number of purchases, increased recommendation relevancy, saved staff time and manual content costs, and delivered a noticeably improved shopper experience. Open case study document...",
+    "url": "https://www.casestudies.com/company/recombee/case-study/how-machine-learning-can-be-used-for-boosting-ecommerce-kpis",
+    "pass": 3
+   },
+   {
+    "quote": "43 Recombee Case Studies, Success Stories, & Customer Stories — Discover how other companies use Recombee, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/recombee/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee – Financials, Industry Trends & Funding Info – 2026 — Revenue, valuation, and funding figures for Recombee are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee Revenue 2025: $5.3M Est. - getlatka.com — Aug 10, 2026 · Recombee is an E-Commerce Personalization Software company based in Prague, founded in 2015.",
+    "url": "https://getlatka.com/companies/recombee.com",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee Revenue, Funding & Valuation - prospeo.io — Trusted by global leaders like The Telegraph, DAZN and Tripadvisor, along with other world-class media, streaming and digital innovators, Recombee powers real-time content and product recommendations for millions of users across video platforms, news sites, real estate, and online marketplaces.",
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee - Crunchbase Company Profile & FundingRecombee 2026 Company Profile: Valuation, Investors ...Recombee - 2026 Company Profile, Team, Competitors ... - TracxnAbout Us | Recombee — Recombee is a hi-tech startup delivering AI-powered recommendation systems. We are helping our clients to reach their KPIs and enterprise's turnover applying the newest machine learning and AI algorithms developed",
+    "url": "https://www.crunchbase.com/organization/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee 2026 Company Profile: Valuation, Investors ...Recombee - 2026 Company Profile, Team, Competitors ... - TracxnAbout Us | Recombee — Information on acquisition, funding, investors, and executives for Recombee. Use the PitchBook Platform to explore the full profile. Mar 23, 2026 · Recombee is an unfunded company based in Prague (Czech Republic), founded in 2015 by Pavel Kordik, Tomas Rehorek",
+    "url": "https://pitchbook.com/profiles/company/267986-62",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "matospiso (@matospiso) / Posts / X Search research @topk_io, previously RecSys @recombee. Scaling retrieval. Won't stop yapping about sparse representations because they're awesome.",
+    "url": "https://x.com/matospiso",
+    "pass": 3
+   },
+   {
+    "quote": "@recombee | X The latest posts from @recombee",
+    "url": "https://x.com/recombee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Recombee - LinkedIn Beyond recommendations, Recombee delivers semantic search that adapts instantly to user intent so audiences find what matters faster.",
+    "url": "https://www.linkedin.com/company/recombee",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee - LinkedIn About Recombee is a B2B SaaS recommendation engine that leverages advanced AI models to deliver personalized content, product, and search recommendations.",
+    "url": "https://www.linkedin.com/products/recombee/",
+    "pass": 3
+   },
+   {
+    "quote": "Roman Bekkiev - Cofounder & CTO @ Recombine | AI automations ...Recombine - LinkedInGabriela Takacova - Recombee Co-founder and CBO - LinkedInRecombee Jobs in Worldwide (26,000+ Open Roles) | LinkedInJoin Recombine and build the future of applied open-source AI ... Cofounder & CTO @ Recombine | AI automations tailored to your business · I am the Founder and CTO of Recombine, where we design custom",
+    "url": "https://uk.linkedin.com/in/rombekk",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Recombee - FacebookRecombee - Recombee at the first-ever Business Forum ...Welcome to Recombee in 2 minutes. Check out... - FacebookRecombee - CEO Pavel Kordik on real-world recommender ...Recombee - Learn how to navigate Recombee's Admin UI in ...Recombee - Recombee’s annual #blogpost on new features and ...Are you looking for a solution to improve user experience on ... Jul 26, 2022 · Contact us",
+    "url": "https://www.facebook.com/recombee/",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee - Recombee at the first-ever Business Forum ... May 12, 2022 · 🇺🇸 Recombee at the first-ever Business Forum organized by the U.S. Embassy Prague for U.S. and Czech business leaders and entrepreneurs. We are always...",
+    "url": "https://www.facebook.com/recombee/posts/-recombee-at-the-first-ever-business-forum-organized-by-the-us-embassy-prague-fo/1176738916406112/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Recombee in 2 minutes. Check out... - Facebook Welcome to Recombee in 2 minutes. Check out how our AI content and product recommendations can improve your user experience in our latest YouTube video. Full link in the comments.",
+    "url": "https://www.facebook.com/recombee/posts/welcome-to-recombee-in-2-minutes-check-out-how-our-ai-content-and-product-recomm/1226774998069170/",
+    "pass": 3
+   },
+   {
+    "quote": "Recombee - CEO Pavel Kordik on real-world recommender ... Mar 25, 2022 · Contact us at business@recombee.com for a consultation or add Recombee as a Destination in Segment. 👉 See \"The State of Personalization 2022\" full report for more insights.",
+    "url": "https://www.facebook.com/recombee/posts/ceo-pavel-kordik-on-real-world-recommender-systems-and-research-for-prgai-minor-/1145183386228332/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.recombee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/pricing.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/features/recommendations-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/the-telegraph",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/9gag",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/audiomack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/crexi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/slickdeals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/blog/recombee-item-segmentations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/ftv-prima",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/ftv-prima-content",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/unfiltered-media-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recombee.com/case-studies/mafra",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.recombee.com/img/partnership.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.recombee.com/img/partners/kentico-xperience.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.recombee.com/img/partners/kontent.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.recombee.com/_next/image?url=%2Fimg%2Fpartners%2Fcomplex.png&w=384&q=100",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://quickai.jp/ai-tools/recombee",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sunkenyellowsubmarin.seesaa.net/article/520658357.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/recombee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/ecobee-Thermostat-Premium-Quality-Monitor/dp/B09XXS48P8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/recombee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/recombee/case-study/how-machine-learning-can-be-used-for-boosting-ecommerce-kpis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/recombee",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/recombee.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/recombee-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/recombee",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/matospiso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/recombee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/recombee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/rombekk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/recombee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/recombee/posts/-recombee-at-the-first-ever-business-forum-organized-by-the-us-embassy-prague-fo/1176738916406112/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/recombee/posts/welcome-to-recombee-in-2-minutes-check-out-how-our-ai-content-and-product-recomm/1226774998069170/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/recombee/posts/ceo-pavel-kordik-on-real-world-recommender-systems-and-research-for-prgai-minor-/1145183386228332/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/recombee",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Recombee 日本 導入",
+   "results": [
+    "https://quickai.jp/ai-tools/recombee",
+    "https://www.recombee.com/",
+    "https://sunkenyellowsubmarin.seesaa.net/article/520658357.html",
+    "https://www.recombee.com/research",
+    "https://fitgap.com/jp/products/recombee",
+    "https://prtimes.jp/main/html/rd/p/000000040.000111332.html",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Recombee 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Recombee Japan",
+   "results": [
+    "https://www.recombee.com/about-us",
+    "https://www.recombee.com/how-it-works",
+    "https://www.linkedin.com/company/recombee",
+    "https://www.amazon.co.jp/-/en/ecobee-Thermostat-Premium-Quality-Monitor/dp/B09XXS48P8",
+    "https://shopsaverss.com/product/ecobee-smart-thermostat/japan",
+    "https://quickai.jp/ai-tools/recombee",
+    "https://fitgap.com/jp/products/recombee"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Recombee manufacturing customer case study",
+   "results": [
+    "https://www.recombee.com/case-studies",
+    "https://www.casestudies.com/company/recombee",
+    "https://www.recombee.com/case-studies/triola",
+    "https://www.casestudies.com/company/recombee/case-study/how-machine-learning-can-be-used-for-boosting-ecommerce-kpis",
+    "https://www.featuredcustomers.com/vendor/recombee/case-studies",
+    "https://us.ovhcloud.com/resources/case-studies/recombee/",
+    "https://archive.org/details/recombee-case-study-autohaus-kunzmann-j25jk7bknay6lj62kl"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Recombee white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://opensrs.com/campaigns/become-a-domain-reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Recombee founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/recombee",
+    "https://getlatka.com/companies/recombee.com",
+    "https://prospeo.io/c/recombee-revenue",
+    "https://www.crunchbase.com/organization/recombee",
+    "https://pitchbook.com/profiles/company/267986-62",
+    "https://tracxn.com/d/companies/recombee/__3J09qXzj9eDcRiy6kKO80tc6-UXl1HtA7RZS5YECYyQ",
+    "https://www.recombee.com/about-us"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Recombee",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/naoyaktd/n/n605ddf33374e?hl=en",
+    "https://note.com/500poe/n/ne369e5ab8cb7?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Recombee",
+   "results": [
+    "https://x.com/recombine",
+    "https://x.com/Recombinetics",
+    "https://x.com/",
+    "https://x.com/matospiso",
+    "https://help.x.com/en",
+    "https://x.com/Urfavliar2/status/2117023998710259801",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Recombee",
+   "results": [
+    "https://www.linkedin.com/company/recombee",
+    "https://www.linkedin.com/products/recombee/",
+    "https://uk.linkedin.com/in/rombekk",
+    "https://www.linkedin.com/company/recombine-ai",
+    "https://www.linkedin.com/in/gabriela-takacova",
+    "https://www.linkedin.com/jobs/recombee-jobs-worldwide",
+    "https://www.linkedin.com/posts/recombine-ai_join-recombine-and-build-the-future-of-applied-activity-7293223744997605376-WzfK"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Recombee",
+   "results": [
+    "https://www.facebook.com/recombee/",
+    "https://www.facebook.com/recombee/posts/-recombee-at-the-first-ever-business-forum-organized-by-the-us-embassy-prague-fo/1176738916406112/",
+    "https://www.facebook.com/recombee/posts/welcome-to-recombee-in-2-minutes-check-out-how-our-ai-content-and-product-recomm/1226774998069170/",
+    "https://www.facebook.com/recombee/posts/ceo-pavel-kordik-on-real-world-recommender-systems-and-research-for-prgai-minor-/1145183386228332/",
+    "https://www.facebook.com/recombee/posts/learn-how-to-navigate-recombees-admin-ui-in-the-latest-demo-video-and-take-a-gla/1166857110727626/",
+    "https://www.facebook.com/recombee/posts/recombees-annual-blogpost-on-new-features-and-new-simpler-methods-of-integration/1134178500662154/",
+    "https://www.facebook.com/recombee/videos/are-you-looking-for-a-solution-to-improve-user-experience-on-your-e-commerce-sit/348950477378750/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Recombee note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/aryarya/status/2046847608489193967",
+    "https://note.com/sadaaki",
+    "https://note.com/syacyou",
+    "https://recruit-holdings.com/ja/about/leadership/idekoba/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Recombee X 投稿",
+   "results": [
+    "https://x.com/recombee",
+    "https://www.recombee.com/",
+    "https://www.recombee.com/product",
+    "https://admin.recombee.com/sign-up",
+    "https://docs.recombee.com/configure",
+    "https://docs.recombee.com/",
+    "https://x.com/recombine"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

@@ -1,0 +1,518 @@
+{
+ "name": "AMRICC — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramics-3d-printing-service",
+ "researched_at": "2026-11-09T21:40:36.210557+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInTess Boissonneault - Freelance Content Writer, Editor | LinkedInMetal AM Market 2025 | VoxelMatters - LinkedInAMRICC 2025 Year in Review: Advanced Ceramics Market GrowthAMCM and its custom EOS machines are pushing the limits of ... VoxelMatters is a leading market research and media company specializing in the additive manufacturing industry. We",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   },
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInMetal AM Market 2025 | VoxelMatters - LinkedInAMRICC 2025 Year in Review: Advanced Ceramics Market GrowthAMCM and its custom EOS machines are pushing the limits of ... Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ connections on LinkedIn. View Tess Boissonn",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters on Reels - FacebookThe Advanced - We are delighted to announce @amricc ...We are delighted to... - The Advanced Materials Show | FacebookA new online resource created... - The Staffordshire Signal ...Additive manufacturing is creating new solutions for hard-to ...We are pleased to welcome... - The Advanced Materials Show ... Unlock the Future of Metal Additive M",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amricc.com/who-we-work-with",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/ceramics-3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/ceramic-am-market-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DQrhbJ5EhR5/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/reel/DdikDTXy_7S/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/ceramic-am-market-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://15th-rock.com/%E7%94%A3%E6%A5%AD%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%80%8C%E8%87%AA%E5%8B%95%E4%BB%95%E4%B8%8A%E3%81%92%E6%A9%9F%E5%99%A8%E3%80%8D%E3%82%92%E8%A3%BD%E9%80%A0%E3%83%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.poly-maker.jp/polymax-pla-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/resins-and-filaments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lithoz.com/en/all-about-us/salespartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/%E3%82%B3%E3%83%BC%E3%83%81/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3506/7076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%A2%E3%83%AB%E3%83%9F+%E8%B8%8F%E3%81%BF%E5%8F%B0/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/amricc-ltd/448362852",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/voxelmatters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AMRICC — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "https://www.amricc.com/who-we-work-with",
+    "https://www.voxelmatters.directory/company-category/ceramics-3d-printing-service/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2025/",
+    "https://www.lucideon.com/uk/amricc",
+    "https://www.voxelmatters.com/am/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3428",
+    "https://orion-am.com/ja",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AMRICC — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.instagram.com/reel/DQrhbJ5EhR5/",
+    "https://www.instagram.com/reel/DdikDTXy_7S/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107",
+    "https://voxel.shop/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AMRICC — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2025/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://15th-rock.com/%E7%94%A3%E6%A5%AD%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%80%8C%E8%87%AA%E5%8B%95%E4%BB%95%E4%B8%8A%E3%81%92%E6%A9%9F%E5%99%A8%E3%80%8D%E3%82%92%E8%A3%BD%E9%80%A0%E3%83%BB/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://3dprint.or.jp/fcfrpam25/",
+    "https://www.yam-kyoto.com/research/",
+    "https://www.voxelmatters.com/",
+    "https://www.amricc.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AMRICC — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.poly-maker.jp/polymax-pla-3.html",
+    "https://skhonpo.com/collections/resins-and-filaments",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.brule.co.jp/ultimaker/ultimaker-filament.html?srsltid=AYCX9vI17mGpHC7FfiIUmPf_b_8MQ9iMpjstsNlEXN3xsb9l1xUMitKG",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://3dfs.idarts.co.jp/",
+    "https://ja.aliexpress.com/item/32950031131.html",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AMRICC — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://www.amricc.com/capabilities/equipment",
+    "https://www.lithoz.com/en/all-about-us/salespartner/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/en/tct/product",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://aminsightasia.com/partners/",
+    "https://www.voxelmatters.com/am-japan/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AMRICC — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.lithoz.com/en/all-about-us/salespartner/",
+    "https://www.upnano.com/distributors/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://nishimuraac.com/3dprinting/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp AMRICC — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/stores/コーチ/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com AMRICC — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/3506/7076/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/アルミ+踏み台/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/01456474/",
+    "https://www.monotaro.com/k/store/pタイル用+接着剤/",
+    "https://www.monotaro.com/p/0249/2795/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AMRICC — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.zoominfo.com/c/amricc-ltd/448362852",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://companytrack.com/company/10269157/amricc-ltd",
+    "https://www.bizapedia.com/tx/amricc-llc.html",
+    "https://www.amricc.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com AMRICC — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/tag/お酒で伝えるありがとう",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com AMRICC — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/ceram_uk/status/2032468337058337209",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/Vanlenciacf/status/2115571969827668368",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com AMRICC — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://www.linkedin.com/posts/voxelmatters_metal-am-market-2025-voxelmatters-deep-activity-7285618036043087872-8URk",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7427727414119829504/",
+    "https://www.linkedin.com/posts/voxelmatters_amcm-and-its-custom-eos-machines-are-pushing-activity-7200763915629117442-dNj6"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com AMRICC — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/advancedmaterialsshow/photos/we-are-delighted-to-announce-amricc-university-of-birmingham-rigaku-corporation-/1331362009002499/",
+    "https://www.facebook.com/advancedmaterialsshow/posts/-we-are-delighted-to-announce-that-amricc-are-platinum-sponsors-of-the-advanced-/1121531756652193/",
+    "https://www.facebook.com/advancedmaterialsshow/posts/we-are-pleased-to-welcome-back-amricc-hosted-by-lucideon-cics-limited-as-the-spo/1407283718076994/",
+    "https://www.facebook.com/thestaffordshiresignal/posts/a-new-online-resource-created-by-staffordshire-based-amricc-aims-to-make-experti/122191461824827394/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AMRICC — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.amricc.com/",
+    "https://www.bizapedia.com/tx/amricc-llc.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AMRICC — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922086492508517"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}
