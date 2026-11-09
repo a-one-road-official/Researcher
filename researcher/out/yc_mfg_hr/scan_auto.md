@@ -199,7 +199,7 @@
 - 注記の記号（※・注・＊）の直後に数字がある引用のある品目：0件（注記の番号が値にくっついて桁が変わる疑い。原表で値と注記を分けてから使う）
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：7件／数字のある品目 8件（88%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
-  - growthlist.co と www.smartbugmedia.com：品目の重なり 1/1（100%）
+  - www.smartbugmedia.com と growthlist.co：品目の重なり 1/1（100%）
   - www.ycombinator.com と www.smartbugmedia.com：品目の重なり 1/6（17%）
   - www.ycombinator.com と www.shrm.org：品目の重なり 1/6（17%）
   - www.ycombinator.com と growthlist.co：品目の重なり 1/6（17%）
