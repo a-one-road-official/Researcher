@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T23:01:26.473531+00:00",
+ "researched_at": "2026-11-09T09:44:13.741985+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -85,20 +85,6 @@
    },
    {
     "quote": "the estimated ATT to equation (10) and (11) in Section 5 and take the sum of them",
-    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Sample Bias in Decompositions of Economic Dynamics",
-    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "decompositions have still suffered from the biases as business dynamics that are associated with",
     "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -197,6 +183,20 @@
    },
    {
     "quote": "with the bootstrap method.",
+    "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Sample Bias in Decompositions of Economic Dynamics",
+    "url": "https://ideas.repec.org/p/ime/imedps/22-e-07.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "decompositions have still suffered from the biases as business dynamics that are associated with",
     "url": "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -304,17 +304,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/rikei_okka/n/ncdfcef1fdfda",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/naoki0921/n/ne96d462af680",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rikei_okka/n/ncdfcef1fdfda",
     "status": "ok",
     "method": "http"
    },
@@ -359,14 +359,14 @@
     "method": "http"
    },
    {
-    "url": "https://ssk-smec.jp/blog/1116.html",
+    "url": "https://www.freee.co.jp/kb/kb-business-administration/productivity_analysis/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.freee.co.jp/kb/kb-business-administration/productivity_analysis/",
+    "url": "https://jp.pactera.com/seminar/1606",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://keiriplus.jp/tips/seisanseibunseki/",
@@ -382,11 +382,6 @@
     "url": "https://shikakutorunara.tokyo/2023/08/31/post-1076/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://jp.pactera.com/seminar/1606",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://studying.jp/shindanshi/studyqa/id/19872.html",
@@ -435,15 +430,15 @@
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） site:note.com",
    "results": [
     "https://note.com/syousuukabu_koho/n/n5a165b8cc748",
-    "https://note.com/rikei_okka/n/ncdfcef1fdfda",
     "https://note.com/naoki0921/n/ne96d462af680",
     "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "https://note.com/rikei_okka/n/ncdfcef1fdfda",
     "https://note.com/syousuukabu_koho/n/n40551dbbfba1",
     "https://note.com/chic_deer1160/n/na955cf3457e1",
-    "https://note.com/yappyy/n/n7dc8d09e5adb"
+    "https://note.com/aku_bug/n/n10c7264400ce"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -469,12 +464,12 @@
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） やり方",
    "results": [
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
-    "https://ssk-smec.jp/blog/1116.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
     "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
     "https://rmc-oden.com/blog/archives/93188",
     "https://www.freee.co.jp/kb/kb-business-administration/productivity_analysis/",
+    "https://jp.pactera.com/seminar/1606",
     "https://keiriplus.jp/tips/seisanseibunseki/",
     "https://shikakutorunara.tokyo/2023/08/18/post-1063/"
    ],
@@ -510,33 +505,27 @@
     "https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf",
     "https://waseda.elsevierpure.com/en/publications/the-impact-of-mergers-on-aggregate-productivity-an-empirical-anal/",
     "https://www.rieti.go.jp/en/columns/a01_0189.html",
-    "https://www.iwh-halle.de/fileadmin/_compnet/user_upload/Session_2_-_Presentation_2_-_Yojiro_Ito_new.pdf",
-    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/reigniting-productivity-growth_67b7a182.html",
+    "https://sspj.ier.hit-u.ac.jp/research-results/DP20-001.pdf",
+    "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
     "https://spfusa.org/wp-content/uploads/2015/01/World-KLEMS-Conference-Fukao-et-al-20140519-final-pdf.pdf",
     "https://www.rieti.go.jp/en/publications/summary/26010011.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
   },
   {
    "query": "site:note.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "site:x.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
    "results": [
-    "https://x.com/keizaireport/status/2104777532168110480",
-    "https://x.com/cao_keizai/status/2021825724433543433",
-    "https://x.com/grok/status/2065796287157371212",
-    "https://x.com/nwakamo",
-    "https://x.com/takasaburo3/status/2112740154779861246",
-    "https://x.com/tokuyobi/status/2084202621397557673",
-    "https://x.com/hhayashiss/status/2036807633424838784"
+    "https://note.com/syousuukabu_koho/n/n5a165b8cc748",
+    "https://note.com/naoki0921/n/ne96d462af680",
+    "https://note.com/rikei_okka/n/ncdfcef1fdfda",
+    "https://note.com/syousuukabu_koho/n/n40551dbbfba1",
+    "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "https://note.com/chic_deer1160/n/na955cf3457e1",
+    "https://note.com/aku_bug/n/n10c7264400ce"
    ],
    "engines": [
     "ddgs:google"
@@ -544,14 +533,30 @@
    "n_hits": 7
   },
   {
+   "query": "site:x.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
+   "results": [
+    "https://x.com/keizaireport/status/2104777532168110480",
+    "https://x.com/grok/status/2065796287157371212",
+    "https://x.com/cao_keizai/status/2021825724433543433",
+    "https://x.com/nwakamo",
+    "https://x.com/tokuyobi/status/2084202621397557673",
+    "https://x.com/shinshu_makers/status/2112692717960732700",
+    "https://x.com/takasaburo3/status/2112740154779861246"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
    "query": "site:linkedin.com 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）",
    "results": [
+    "https://www.linkedin.com/company/fhk",
     "https://jp.linkedin.com/pulse/新規事業の成否を分ける撤退力の本質ローンチ前後の撤退とジョブ理論の必然性-hiroyasu-kitagawa-2shfc",
     "https://jp.linkedin.com/posts/大地-川上-2247a7354_経営の成否を分ける仮説検証の技術なぜ優秀な経営者はmaでもスモールスタート-activity-7472430099049492480-R3tx",
     "https://www.linkedin.com/posts/秀一-新田-9b6b19324_ai時代の企業経営では人間の労働とaiを含むデジタル資本を組み合わせて生産性-share-7504695334909128704-mZir",
-    "https://www.linkedin.com/posts/satoyan2017_生産性が高いチームと生産性が低いチームを分けるたった6文字の言葉とは-activity-7399575183826587648-u0rG",
-    "https://jp.linkedin.com/posts/大地-川上-2247a7354_maの成否を分けるプレシミュレーションの重要性-近年中小企業の経営選択肢-activity-7474606325864439808-GBDA",
     "https://jp.linkedin.com/posts/剛-川生-130a113b3_医療市場は技術力だけでは参入できません-参入可否を分けるのは構造設計です-activity-7433110825386790912-6ygD",
+    "https://jp.linkedin.com/posts/大地-川上-2247a7354_maの成否を分けるプレシミュレーションの重要性-近年中小企業の経営選択肢-activity-7474606325864439808-GBDA",
     "https://jp.linkedin.com/posts/mkobayashi0522_ai時代の新戦略論-守る戦略から変化を運用する作戦へ競争優位をタスクレベル-activity-7394479108354895872-xiri"
    ],
    "engines": [
@@ -568,10 +573,10 @@
     "https://www.facebook.com/FPhime/posts/Ⅴ企業の参入退出の円滑化とスタートアップ育成五ヶ年計画の推進httpswwwfphimecomposte4bc81e6a5ade381aee58f82e585a/645055384327113/",
     "https://www.facebook.com/Japan.RIETI/posts/865192006905992/",
     "https://www.facebook.com/nikkeibusiness/posts/1349490128432598/",
-    "https://www.facebook.com/nikkeibusiness/posts/コメント募集デジタル化による生産性向上の成否を分けるものとは/2222437937804475/"
+    "https://www.facebook.com/worksinstitute/posts/統計をとると1年でフリーランスの4割が他の就業状態へと移動しています参入退出が激しいなかでフリーランスに定着する要因とは定着した人の収入は増えるのかについて分析/4735229279917652/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -596,15 +601,15 @@
   {
    "query": "生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間） X 投稿",
    "results": [
-    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
+    "https://www.rieti.go.jp/jp/columns/a01_0820.html",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.youtube.com/watch?v=SP-2WCVBwIo",
     "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
     "https://rmc-oden.com/blog/archives/93188",
-    "https://www.rieti.go.jp/jp/columns/a01_0820.html",
     "https://qiita.com/yoohsk147/items/2d1438eb887d4b9c425e",
-    "http://issue.intra-mart.jp/issues/34112"
+    "https://business.nikkei.com/atcl/seminar/20/00049/121500001/"
    ],
    "engines": [
     "yahoo_jp"
@@ -618,24 +623,24 @@
     "https://cn.linkedin.com/in/rodrigo-zeidan-a6b2958",
     "https://www.linkedin.com/in/dingding-lucas-li",
     "https://www.linkedin.com/in/andrewmclennan",
-    "https://www.linkedin.com/pulse/brave-new-world-why-ai-job-apocalypse-keeps-arriving-bernard-leong-8vkbf",
     "https://in.linkedin.com/in/nkumar5",
     "https://www.linkedin.com/in/magnus-sigurdsson",
-    "https://www.linkedin.com/posts/nikita-boiaryntsev-b4656a2b2_ive-been-building-aurelis-a-systematic-activity-7513302853289943041-Jy8T",
+    "https://www.linkedin.com/pulse/brave-new-world-why-ai-job-apocalypse-keeps-arriving-bernard-leong-8vkbf",
     "https://uk.linkedin.com/in/robert--mitchell",
-    "https://www.linkedin.com/in/ianokeefe"
+    "https://www.linkedin.com/posts/nikita-boiaryntsev-b4656a2b2_ive-been-building-aurelis-a-systematic-activity-7513302853289943041-Jy8T",
+    "https://uk.linkedin.com/in/aalhya-sabharwal-268558222"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-08T00:52:26.821694+00:00"
 }

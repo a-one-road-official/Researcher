@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-08T22:48:31.199427+00:00",
+ "researched_at": "2026-11-09T09:43:48.485050+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -80,8 +80,8 @@
    },
    {
     "url": "https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
@@ -173,8 +173,8 @@
     "https://www.youtube.com/watch?v=RONXurKNR4Q",
     "https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931",
     "https://www.facebook.com/61581643209356/posts/i-tried-a-reverse-image-search-from-an-osint-directory-save-this-for-later/122144698293054773/",
-    "https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf",
     "https://github.com/Nervi0z/Google-OSINT",
+    "https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf",
     "https://gijn.org/resource/henk-van-ess-international-research-guide-online/"
    ],
    "engines": [
@@ -253,8 +253,8 @@
   {
    "query": "find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/searchbistro_osint-research-verification-activity-7508602027946442752-zk_D",
     "https://www.linkedin.com/posts/margo-smit-55501611_international-research-guide-how-to-find-activity-7516090444032868352-segl",
+    "https://www.linkedin.com/posts/searchbistro_osint-research-verification-activity-7508602027946442752-zk_D",
     "https://www.linkedin.com/posts/davidbombal_googledorks-search-filetype-activity-7419800958253219840-hdxA",
     "https://www.linkedin.com/pulse/osint-techniques-can-reveal-more-than-youthink-nazrul-islam-rana-xogfc",
     "https://www.linkedin.com/pulse/google-dorking-guide-finding-vulnerable-systems-exposed-rere-ayodele-cwigf",
@@ -275,6 +275,6 @@
   "実例": "記載なし（読んだ15頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 7,
+ "runs": 8,
  "first_researched_at": "2026-11-07T07:57:40.920719+00:00"
 }

@@ -6002,8 +6002,8 @@
   - 「AI SPREADSHEET AND SCRAPING TOOLS | PDF CHAT」（https://journaliststoolbox.ai/ai-driven-data-tools/）
 - 実例：
   - 「Examples of AI use with charts.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
 
 ## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
 - 文脈：同一性
@@ -7846,11 +7846,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -8009,6 +8009,7 @@
 ## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
 - 文脈：企業
 - 手順・やり方：
+  - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「法律によってその方法や義務が定められており、企...」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「2つの方法を比べると、電子公告は「すべての公告をウェブに寄せる」選択、第440条第3項の措置は「決算公告だけをウェブに移す」選択といえます」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
   - 「公告方法の選び方や、会計監査報告の内容に応じた追記の要否は、会社ごとの状況で変わります」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
@@ -8023,7 +8024,6 @@
   - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 突き合わせ・推定：
   - 「重要な意思決定に用いる場合は、複数のデータベースで照合することをおすすめします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -8045,6 +8045,7 @@
   - 「官報の掲載手配が要らなくなる一方、全文の掲載と5年間の管理が必要になります」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
   - 「：事故その他やむを得ない事由で電子公告ができない場合に備え、官報か日刊新聞紙を予備の公告方法として定款に定めることができます（会社法 第939条第3項）」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
 - 失敗・落とし穴：
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「Q5: 決算公告データベースを無料で使う際の注意点はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「注意点として、インターネット版官報は発行日から90日間のみ無料で閲覧可能です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
@@ -8059,7 +8060,6 @@
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ただし一点、注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 実例：
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -10768,10 +10768,26 @@
 ## 表のPDF・HTMLを文に平たくしたときの列ずれを見つけて直す方法（表の抜き出しの検証・列と見出しの対応・RAGの表の扱い）-求人 -就活（detect column misalignment when flattening tables from PDF HTML table extraction validation）
 - 文脈：method
 - 手順・やり方：
+  - 「Most published accuracy numbers exclude the hard tables. Read the methodology before you trust the percentage.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「The last step has no OCR equivalent at all. The extraction checks its own arithmetic. Do the line totals sum to the subtotal? Does quantity times unit price equal the line total? Does previous balance plus credits minus debits equal the closing balance? Where the numbers disagree, the row gets flagged instead of shipped.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「That last step is the difference between a tool that reads a table and a tool you can leave running while you do something else.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「How to Evaluate Table Extraction on Your Own Documents」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「Optical character recognition turns images and scanned PDFs into machine-readable text. How OCR works step by step, where it is used, and how to pick software.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「Invoice processing runs from receipt to payment. The AP workflow step by step, where manual entry costs you, and what AI automation changes for teams in 2026.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「The questions teams actually ask once their extraction tool has mangled a table, from what breaks and why to how to test a replacement on your own documents.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「No. Template-based extraction asks you to draw zones for every layout you receive, then redraw them whenever a format changes. AI extraction identifies fields by what they mean, so a new vendor with a new table layout needs no setup. Parseur's Vision AI engine extracts table fields automatically with no template step.」（https://parseur.com/blog/vision-ai-table-extraction）
   - 「How to Extract Tables from PDF: Scale Structured Data Extraction」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
   - 「rather than an isolated conversion step.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
   - 「Income Verification API: How to Automate Document-Based Income Checks at Scale」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 一次情報の探し方：
+  - 「best document processing tools for PDFs with tables」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「Yours are worse than anyone's test set, and that is not a criticism of your filing.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「extracting tables from PDFs」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「PDF Table Extraction Without the Scrambled Columns」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「Parseur handles PDF table extraction across merged cells, nested headers and page breaks, returning invoice and statement rows to Excel, Sheets or your ERP.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「Optical character recognition turns images and scanned PDFs into machine-readable text. How OCR works step by step, where it is used, and how to pick software.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「How do I extract tables from PDFs that have no gridlines?」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「Footnote markers are the classic silent failure: a superscript reference gets read as a digit, or the footnote text becomes an extra data row. A tool that handles this keeps the marker as an attribute of the cell rather than part of its value, and keeps footnote text outside the table body. Check this on one real filing before you trust a quarter of them.」（https://parseur.com/blog/vision-ai-table-extraction）
   - 「How to Extract Tables from PDF: Scale Structured Data Extraction」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
   - 「Why Extracting Tables from PDF Is Difficult」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
   - 「Extracting Tables from PDF with LlamaParse」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
@@ -10779,9 +10795,12 @@
   - 「file_obj = client.files.create(file="./bank_statement.pdf", purpose="extract")」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
   - 「The same extraction, shown in the platform's results view below, makes the transformation explicit: a table locked inside a PDF becomes a set of typed records that a ledger, an ERP system, or an analytics environment can consume without further parsing.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
 - 実例：
+  - 「Benchmarks built for the hard cases do exist.」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「is the volume case: 5 to 50 line items per document, merged header cells, subtotals, taxes and discounts, and a different layout per supplier. A company handling 500 invoices a month at an average of 15 line items is rebuilding roughly 7,500 rows a month by hand every time the extraction misses. Automating document work of this kind has been shown to」（https://parseur.com/blog/vision-ai-table-extraction）
+  - 「put GPT-4o at 89.6% and a specialized computer-vision pipeline at 87.8% on table similarity, then noted it had deliberately excluded tables with spanning cells and projected rows. The hard cases were not in the test. Treat vendor accuracy claims as a starting point and measure on your own documents.」（https://parseur.com/blog/vision-ai-table-extraction）
   - 「To demonstrate the workflow on a genuinely table-centric document, consider the bank statement shown below. Its core is a transaction register with dated rows, separate withdrawal and deposit columns, and a running balance, along with a summary block of period totals. This is a representative example of the tabular structure that automation depends on and that flat extraction handles poorly.」（https://www.llamaindex.ai/blog/how-to-extract-tables-from-pdf）
-- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
 
 ## 複数の観測（出典・AI）を合わせても同じ偏りは消えない：役割の入れ替え検査と、検出はOR・採用は多数決の使い分け（multi-source cross-check shared bias role swap majority voting vs any-alarm rule）
 - 文脈：突き合わせ
@@ -10794,6 +10813,14 @@
 ## 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例（full-time equivalent conversion denominator per employee comparison pitfalls）
 - 文脈：推定
 - 手順・やり方：
+  - 「Step2. 職員全員の「1ヶ月の合計勤務時間」を算出する」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「Step3. 計算式に当てはめて計算する」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「最後に、Step1とStep2で算出した数値を計算式に当てはめます」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここでは、具体的な事業所の例を使って、計算方法をシミュレーションしてみましょう」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「新型コロナウイルス感染症の流行をきっかけに、介護業界でもテレワークの活用が注目されています」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「なお、2024年度の改定では、生産性向上に先進的に取り組む特定施設入居者生活介護や地域密着型特定施設入居者生活介護において、一定の要件の下で人員配置基準の特例的な柔軟化が認められました」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「ここでは、その負担を軽減し、正確な管理を実現する方法を紹介します」（https://comimi.jp/archives/column/fte-kaigo）
+  - 「最も効果的な方法が、」（https://comimi.jp/archives/column/fte-kaigo）
   - 「この計算方法により、常勤の従業者の必要数を算出できます」（https://osaka-kaigo.com/column/column-5120/）
   - 「・ 「常勤換算方法」の計算に当たり、職員が育児・介護休業法による短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も１（常勤）と扱うことを認める」（https://osaka-kaigo.com/column/column-5120/）
   - 「訪問介護・訪問看護の労務管理とは？効率化する方法も紹介」（https://osaka-kaigo.com/column/column-5120/）
@@ -10801,14 +10828,6 @@
   - 「【2026年最新】常勤換算とは？計算方法を具体例付きでわかりやすく解説｜介護事業所の人員配置基準」（https://comimi.jp/archives/column/fte-kaigo）
   - 「介護事業所の管理者やサービス提供責任者にとって、この計算方法を正しく理解し、適切に運用することは最も基本的かつ重要なスキルと言えるでしょう」（https://comimi.jp/archives/column/fte-kaigo）
   - 「常勤換算方法とは、非常勤の従業者について「事業所の従業者の勤務延時間数を当該事業所において常勤の従業者が勤務すべき時間数で除することにより、常勤の従業者の員数に換算する方法」である」（https://comimi.jp/archives/column/fte-kaigo）
-  - 「それでは、具体的な計算方法を見ていきましょう」（https://comimi.jp/archives/column/fte-kaigo）
-  - 「実際の計算は、以下の3ステップで進めると分かりやすいです」（https://comimi.jp/archives/column/fte-kaigo）
-  - 「Step1. 「常勤職員が勤務すべき時間」を確定する」（https://comimi.jp/archives/column/fte-kaigo）
-  - 「常勤換算とは、非常勤職員の勤務時間を、その事業所が定める常勤の従業者が勤務すべき時間数で割り、常勤の従業者数に換算する方法です」（https://note.com/yuwa_office/n/ndd4f1677286a）
-  - 「また、常勤換算方法の計算に当たり、職員が「治療と仕事の両立ガイドライン」に沿って事業者が設ける短時間勤務制度等を利用する場合、週30時間以上の勤務で常勤換算での計算上も1(常勤)と扱うことを認める取扱いも示されています」（https://note.com/yuwa_office/n/ndd4f1677286a）
-  - 「特に多機能型事業所や複数事業所を運営している場合、兼務・按分の考え方を誤ると、書類上の数字と実態が知らないうちに乖離していきます」（https://note.com/yuwa_office/n/n6e51e9503644）
-  - 「多機能型事業所や、同一法人内で複数の事業所を運営している場合、一人の職員が複数の職種・複数の事業所を兼務することがあります」（https://note.com/yuwa_office/n/n6e51e9503644）
-  - 「この按分の考え方は自治体により運用の確認方法が異なる場合があるため、事前に指定権者へ確認しておくことをおすすめします」（https://note.com/yuwa_office/n/n6e51e9503644）
 - 突き合わせ・推定：
   - 「計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります」（https://comimi.jp/archives/column/fte-kaigo）
   - 「認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、」（https://comimi.jp/archives/column/fte-kaigo）
@@ -13046,7 +13065,7 @@
   - 「end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「dynamics of Japanese firms suffer from data truncation. For example, studies using」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
 
 ## 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例（testing unbiasedness and efficiency of first release estimates regional accounts revisions）
 - 文脈：突き合わせ
