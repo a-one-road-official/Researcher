@@ -8,127 +8,23 @@
  ],
  "context": "点検",
  "kind": "market",
- "researched_at": "2026-11-08T17:42:04.694048+00:00",
+ "researched_at": "2026-11-09T01:22:42.532029+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "失敗・落とし穴": [
    {
-    "quote": "地域コード結合の完全チェックリスト｜統計で見る都道府県",
+    "quote": "たとえば北海道のコード `01000` を表計算ソフトが数値の `1000` として保存すると、見た目は小さな違いでも文字列としての結合は失敗します",
     "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "統計表の値を地図に載せたら、いくつかの県だけ色が付かない",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "統計表の調査年と境界データの基準年月日を別々に記録してください",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "e-Statには市区町村名・コードと廃置分合等を調べる入口があります",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "stats47の地域分析も、単に県別の数値を並べるだけでなく、入力した層、空間演算、途中結果、47県の集計まで辿れることを重視しています",
-    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "). Once a wave of data has been collected and captured and the raw data has been stored, your data cleaning process should begin. In a best-case scenario, the data cleaning is wrapped up before your next wave of data collection. Cleaning data each wave, as opposed to waiting until the end of your project, has two large benefits.",
+    "quote": "I want to emphasize the importance of using a join in your program of choice, as opposed to replacing names with IDs by hand entering identifiers. If at all possible, you want to completely avoid hand entry of study IDs because it is error-prone and can lead to many mistakes.",
     "url": "https://datamgmtinedresearch.com/clean",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "For example, if a student is in 2nd grade, their teacher ID should be associated with a 2nd grade teacher. Or, a date of birth collected from a student survey should match date of birth collected from a school district.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Does the number of cases in your data match the number of tracked forms in your participant tracking database? Are there any duplicates? Is anyone missing?",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If cases are marked as complete in your tracking database but their data is missing, investigate the error. Was a form incorrectly tracked in your tracking database? Was a form not entered during the data capture phase?",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Remove duplicate cases.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the special case where you purposefully collect duplicate observations on a participant (i.e., for reliability purposes), you will only want to keep one row per participant in your final study dataset. Again, a decision rule will need to be added to documentation so duplicates are dealt with consistently (e.g., always keep the primary observer’s record).",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ". In order to create a coded data file, we horizontally join our “raw data” file with our “roster file” using our unique identifiers (which in this case are",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here you can think of examples such as the metadata collected by a survey platform (e.g., survey duration). These columns may be irrelevant to your study and cause clutter in your final dataset.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "As an example, it may be that you need to remove unexpected characters such as",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the case of Figure",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is not the time to construct analysis-specific variables. This is the time to create or calculate variables that should always be a part of the core study dataset. These variables should be chosen by your data management working group early on and added to your data dictionary. Examples of variables you might add:",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Check again for missing cases/duplicate cases.",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:",
-    "url": "https://datamgmtinedresearch.com/clean",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction",
+    "quote": ", before exporting data you will want to run through your final list of sanity checks, based on our data quality criteria, to make sure no mistakes are missed.",
     "url": "https://datamgmtinedresearch.com/clean",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -232,24 +128,128 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "失敗・落とし穴": [
+  "実例": [
    {
-    "quote": "たとえば北海道のコード `01000` を表計算ソフトが数値の `1000` として保存すると、見た目は小さな違いでも文字列としての結合は失敗します",
+    "quote": "stats47の地域分析も、単に県別の数値を並べるだけでなく、入力した層、空間演算、途中結果、47県の集計まで辿れることを重視しています",
     "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "I want to emphasize the importance of using a join in your program of choice, as opposed to replacing names with IDs by hand entering identifiers. If at all possible, you want to completely avoid hand entry of study IDs because it is error-prone and can lead to many mistakes.",
+    "quote": "). Once a wave of data has been collected and captured and the raw data has been stored, your data cleaning process should begin. In a best-case scenario, the data cleaning is wrapped up before your next wave of data collection. Cleaning data each wave, as opposed to waiting until the end of your project, has two large benefits.",
     "url": "https://datamgmtinedresearch.com/clean",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": ", before exporting data you will want to run through your final list of sanity checks, based on our data quality criteria, to make sure no mistakes are missed.",
+    "quote": "For example, if a student is in 2nd grade, their teacher ID should be associated with a 2nd grade teacher. Or, a date of birth collected from a student survey should match date of birth collected from a school district.",
     "url": "https://datamgmtinedresearch.com/clean",
     "pass": 3,
     "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Does the number of cases in your data match the number of tracked forms in your participant tracking database? Are there any duplicates? Is anyone missing?",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If cases are marked as complete in your tracking database but their data is missing, investigate the error. Was a form incorrectly tracked in your tracking database? Was a form not entered during the data capture phase?",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Remove duplicate cases.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the special case where you purposefully collect duplicate observations on a participant (i.e., for reliability purposes), you will only want to keep one row per participant in your final study dataset. Again, a decision rule will need to be added to documentation so duplicates are dealt with consistently (e.g., always keep the primary observer’s record).",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ". In order to create a coded data file, we horizontally join our “raw data” file with our “roster file” using our unique identifiers (which in this case are",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here you can think of examples such as the metadata collected by a survey platform (e.g., survey duration). These columns may be irrelevant to your study and cause clutter in your final dataset.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "As an example, it may be that you need to remove unexpected characters such as",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the case of Figure",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is not the time to construct analysis-specific variables. This is the time to create or calculate variables that should always be a part of the core study dataset. These variables should be chosen by your data management working group early on and added to your data dictionary. Examples of variables you might add:",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Check again for missing cases/duplicate cases.",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If there are true errors where the correct answer can be easily inferred (e.g., a 3-item rank order question is completed as 1, 2, 4), sometimes logical or deductive editing can be used in those cases and the value is replaced with the logical correction",
+    "url": "https://datamgmtinedresearch.com/clean",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "地域コード結合の完全チェックリスト｜統計で見る都道府県",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計表の値を地図に載せたら、いくつかの県だけ色が付かない",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "統計表の調査年と境界データの基準年月日を別々に記録してください",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "e-Statには市区町村名・コードと廃置分合等を調べる入口があります",
+    "url": "https://note.com/stats47/n/nfb3e5e44f7ed",
+    "pass": 3,
+    "first_seen": "2026-11-07"
    }
   ]
  },
@@ -287,6 +287,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/kazukio/n/nd4f0e127fd31",
     "status": "ok",
     "method": "http"
@@ -297,18 +302,13 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/triviews/n/n0a513b146c39",
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://data.wingarc.com/data-journalism-new-york-times-11402",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "status": "network_error:ReadTimeout",
     "method": "http"
    },
    {
@@ -367,7 +367,12 @@
     "method": "http"
    },
    {
-    "url": "https://slownews.com/n/ne04e905d070c?gs=58eff9fbb54b47913670fef0e0ac08f9",
+    "url": "https://slownews.com/n/ne04e905d070c?gs=1c408e0aac741dfaae468976d6bb2687",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gomumari.com/cases/getsuji-shiryo-engine/",
     "status": "ok",
     "method": "http"
    },
@@ -377,29 +382,29 @@
     "method": "http"
    },
    {
-    "url": "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://www.tableau.com/learn/articles/what-is-data-cleaning",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://datamgmtinedresearch.com/clean",
+    "url": "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ovaledge.com/blog/data-cleaning-techniques",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://medium.com/information-expositions-s2022/resources-for-data-cleaning-visualization-communication-and-journalism-255a4e5a2f2d",
-    "status": "http_403",
+    "url": "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.linkedin.com/posts/thedigitor_so-i-built-myself-a-data-cleaning-checklist-activity-7399461956006600704-s_3m",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -415,11 +420,11 @@
     "https://note.com/mbbs/n/n04eab75110e4",
     "https://note.com/tukishiro555/n/nafa73f8f7c4b",
     "https://note.com/trans_n_ai/n/n7fc979a7b01a",
-    "https://note.com/kadobun_note/n/n1457acf071b5",
+    "https://note.com/tukishiro555/n/n71b3b874cf07",
     "https://note.com/ichi_twnovel/n/n7e6c92aeb011"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -427,15 +432,15 @@
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note",
    "results": [
+    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
     "https://note.com/kazukio/n/nd4f0e127fd31",
     "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "https://note.com/triviews/n/n0a513b146c39",
-    "https://data.wingarc.com/data-journalism-new-york-times-11402",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://data.wingarc.com/data-journalism-new-york-times-11402",
     "https://datajournalismjp.github.io/handbook/",
+    "https://note.com/triviews/n/n0a513b146c39",
     "https://note.com/qiqumo/n/nf33b92cba9b3",
     "https://j-forum.org/resource7-data-cleansing/",
-    "https://note.com/kiyodataeng/n/n6bbb404f97c9",
     "https://note.com/nagoyac/n/n62b54b305ff1"
    ],
    "engines": [
@@ -459,7 +464,7 @@
     "https://tomedataanalyst.com/date-cleaning/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -475,26 +480,28 @@
     "https://note.com/kazukio/n/nedb9fb057839",
     "https://data-journalism.org/en/",
     "https://slownews.com/n/ne04e905d070c",
-    "https://kyodonewsprwire.jp/corp/glossary/7035/"
+    "https://kyodonewsprwire.jp/corp/glossary/7035/",
+    "https://data-viz-lab.com/how-to-data-cleaning"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "data journalism data cleaning checklist data diary filter check sanity checks",
    "results": [
     "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
-    "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
     "https://www.tableau.com/learn/articles/what-is-data-cleaning",
-    "https://datamgmtinedresearch.com/clean",
-    "https://medium.com/information-expositions-s2022/resources-for-data-cleaning-visualization-communication-and-journalism-255a4e5a2f2d",
-    "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
-    "https://www.linkedin.com/posts/thedigitor_so-i-built-myself-a-data-cleaning-checklist-activity-7399461956006600704-s_3m",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC1198040/",
+    "https://www.reddit.com/r/datascience/comments/1bdc8iy/what_are_the_general_checklist_of_data_cleaning/",
     "https://www.ovaledge.com/blog/data-cleaning-techniques",
-    "https://datatistics.app/learn/data-cleaning-workflow"
+    "https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors",
+    "https://www.linkedin.com/posts/thedigitor_so-i-built-myself-a-data-cleaning-checklist-activity-7399461956006600704-s_3m",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10557005/",
+    "https://stats.libretexts.org/Bookshelves/Computing_and_Modeling/Book%3A_Linear_Regression_Using_R_-_An_Introduction_to_Data_Modeling_(Lilja)/02%3A_Understand_Your_Data/2.02%3A_Sanity_Checking_and_Data_Cleaning",
+    "https://datamgmtinedresearch.com/clean",
+    "https://www.datacamp.com/blog/infographic-data-cleaning-checklist"
    ],
    "engines": [
     "ddgs:google",
@@ -505,29 +512,13 @@
   {
    "query": "site:note.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
    "results": [
-    "https://note.com/shiromaru_lab/n/n8db05917bc9c",
+    "https://note.com/compalyze/n/n72ebbd741fd2",
     "https://note.com/nagoyac/n/n62b54b305ff1",
     "https://note.com/teiji_ai_jutsu/n/n68ace280c3e0",
-    "https://note.com/ai_shigoto_kata/n/na8dddf3fdf1d",
+    "https://note.com/shiromaru_lab/n/n8db05917bc9c",
     "https://note.com/stellacreation/n/n050a32de32ac",
-    "https://note.com/sgtlab_ai/n/nc4da80d21956",
-    "https://note.com/lively_kiwi133/n/nd110f0f2b900"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:x.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
-   "results": [
-    "https://x.com/compalyze/status/2075747108737675610",
-    "https://x.com/ShunMatsuoka40/status/2077628992686109079",
-    "https://x.com/otemachiprep/status/2109800038780043548",
-    "https://x.com/otemachiprep/status/2115030751787835891",
-    "https://x.com/otemachiprep/status/2116145690237653044",
-    "https://x.com/zeronin_keiei/status/2117746287973904679",
-    "https://x.com/CatBattle038/status/2111080966047633783"
+    "https://note.com/kizashi_note/n/n6da9f1204a77",
+    "https://note.com/uruchan66/n/n6bee18beb656"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -535,15 +526,31 @@
    "n_hits": 7
   },
   {
+   "query": "site:x.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
+   "results": [
+    "https://x.com/compalyze/status/2075747108737675610",
+    "https://x.com/otemachiprep/status/2118229406741127667",
+    "https://x.com/sugaku_biz/status/2102956201281523749",
+    "https://x.com/aijitanlab365/status/2095351073179566463",
+    "https://x.com/arakurikaesiki/status/2096742323480871054",
+    "https://x.com/tagami_pq/status/2096727646390685763",
+    "https://x.com/ShunMatsuoka40/status/2077628992686109079"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
    "query": "site:linkedin.com データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し）",
    "results": [
-    "https://news.linkedin.com/2025/Verified_on_LinkedIn",
     "https://jp.linkedin.com/pulse/data-journalism-ishrat-fatima?tl=ja",
-    "https://jp.linkedin.com/pulse/保存版geminiで始めるデータ分析入門事例プロンプト実装手順まとめ-hide-fukano-991ec",
-    "https://www.linkedin.com/posts/nikkei_ジャーナリズムを考えよう生成aiとメディアの未来-日本経済新聞-activity-7064389273071878144-Wwc4",
+    "https://uk.linkedin.com/in/maxwell-sellers-1b0887222",
+    "https://ca.linkedin.com/company/cinetism",
+    "https://www.linkedin.com/in/layne-lundeen-86652517",
+    "https://jp.linkedin.com/pulse/data-driven-journalism-unleashing-power-information-probyto?tl=ja",
     "https://www.linkedin.com/posts/kenjiasada_調査報道-データジャーナリズム-ブラジル-activity-7426097505722855424-Ks7g",
-    "https://my.linkedin.com/jobs/view/treasury-business-analyst-at-gxbank-4474661436",
-    "https://uk.linkedin.com/in/maxwell-sellers-1b0887222"
+    "https://in.linkedin.com/jobs/jpmorgan-chase-data-analyst-jobs"
    ],
    "engines": [
     "ddgs:bing"
@@ -557,9 +564,9 @@
     "https://www.facebook.com/groups/datajournalism.jp/about/",
     "https://www.facebook.com/groups/datajournalism.jp/info/",
     "https://www.facebook.com/groups/datajournalism.jp/posts/1309199775790652/",
-    "https://www.facebook.com/groups/datajournalism.jp/posts/1217623694948261/",
     "https://www.facebook.com/groups/datajournalism.jp/posts/1241617739215523/",
-    "https://www.facebook.com/yuichi.yazaki/posts/データジャーナリズムグローバルな規模で開催される今年で八年目のデータジャーナリズムアワードサイトが公開され受付が始まっています前回に続き日本からの応募を支援する/10155987738848201/"
+    "https://www.facebook.com/groups/datajournalism.jp/posts/1217623694948261/",
+    "https://www.facebook.com/journalismXfund/posts/新型コロナから自分を守るため発表データをどう読み取るか-玉川徹が試みたデータジャーナリズム以下yahooニュース水島宏明氏連載記事を元にご紹介ジャーナリストで上/147391870112597/"
    ],
    "engines": [
     "ddgs:google"
@@ -569,13 +576,13 @@
   {
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） note 社長",
    "results": [
-    "https://note.com/asahi_ictrad/n/n47f391a81015",
+    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%82%BA%E3%83%A0",
     "https://note.com/kazukio/n/nd4f0e127fd31",
     "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
     "https://data.wingarc.com/data-journalism-new-york-times-11402",
     "https://datajournalismjp.github.io/handbook/",
     "https://www.yomiuri.co.jp/world/nieman/20190620-OYT8T50054/",
-    "https://note.com/shinu/n/n53409710f2e8",
+    "https://note.com/shinu/n/n567c6705ec18",
     "https://j-forum.org/resource7-data-cleansing/",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://note.com/nagoyac/n/n62b54b305ff1"
@@ -590,15 +597,15 @@
    "query": "データジャーナリズムの表の清掃・検算の手順（School of Data・記者の data diary・除外後の取り直し） X 投稿",
    "results": [
     "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
-    "https://github.com/arcatdmz/blog/blob/main/src/ja/2022-07-27-data-journalism.md",
     "https://data.wingarc.com/data-journalism-new-york-times-11402",
+    "https://github.com/arcatdmz/blog/blob/main/src/ja/2022-07-27-data-journalism.md",
     "https://www.nikkei.com/article/DGXNASFK0400F_U3A101C1000000/",
-    "https://datajournalismjp.github.io/handbook/",
     "https://techlife.asahi.com/n/n723a75435b1d",
-    "https://j-forum.org/resource7-data-cleansing/",
+    "https://datajournalismjp.github.io/handbook/",
     "https://help.x.com/ja/resources/addressing-misleading-info",
+    "https://j-forum.org/resource7-data-cleansing/",
     "https://www.yomiuri.co.jp/world/nieman/20190620-OYT8T50054/",
-    "https://data-viz-lab.com/how-to-data-cleaning"
+    "https://note.com/nagoyac/n/n62b54b305ff1"
    ],
    "engines": [
     "ddgs:google",
@@ -611,14 +618,14 @@
    "results": [
     "https://www.linkedin.com/top-content/science/best-practices-for-data-management/how-to-validate-data-before-acting/",
     "https://www.linkedin.com/in/%F0%9F%8E%AF-ming-tommy-tang-40650014",
-    "https://in.linkedin.com/in/chayan-banerjee",
     "https://www.linkedin.com/in/tracy-j-mao-12139b1a1",
+    "https://in.linkedin.com/in/chayan-banerjee",
     "https://id.linkedin.com/in/sarifmj",
     "https://ca.linkedin.com/in/kartiw",
-    "https://de.linkedin.com/in/hemanth-ns",
-    "https://www.linkedin.com/pulse/newmind-ai-journal-198-newmind-ai-kioxf",
-    "https://uk.linkedin.com/in/madhumithaa-purushothaman",
-    "https://www.linkedin.com/in/emikoroe"
+    "https://www.linkedin.com/in/emikoroe",
+    "https://www.linkedin.com/in/colin-anderson-a2845526a",
+    "https://www.linkedin.com/in/saloni3597",
+    "https://www.linkedin.com/in/edward-dongbo-cui"
    ],
    "engines": [
     "ddgs:google",
@@ -628,9 +635,9 @@
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ29頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 17,
+ "runs": 18,
  "first_researched_at": "2026-11-05T15:23:56.343731+00:00"
 }

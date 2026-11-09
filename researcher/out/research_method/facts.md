@@ -3296,44 +3296,65 @@
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
 - 手順・やり方：
+  - 「１．作業手順」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「接続方法については、各項目をコード対応表により接続する」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「⑤ 建設に係る新設設備投資について推計方法を含め再検討」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「ての既推計値の検証を行う（併せて建設活動の推計方法そのものを検討す」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「H4 1992年 ②帰属家賃推計方法変更」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「H5 1993年 ③社会資本減耗の推計方法の変更 第10回JSIC改訂」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「1 Lavoro svolto nell’ambito del Task-Project di Eurostat “Methodology for back-recalculation”. Ringrazio Fabio Sartori」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「methodology which extends the classical soluti on given by Chow and Lin (1971, 1976) to the」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「French National Accounts series. With regard to this procedure, the method proposed here is easy to」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「worked out by Santos Silva e Cardoso (2001) and discussed in Di Fonzo (2002), we show how to」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「In this section we present an application of the retropolation method to the same data set used by」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「the behaviour of the time series of interest, this extension of the Chow and Lin’s method adds」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「GRETA (2002), Methodology for back-recalculation, Eurostat Lot 8, Task 2, Final report.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「Santos Silva, J.M.C. and F.N. Cardoso (2001), “The Chow-Lin method using dynamic models”,」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
   - 「1 Lavoro svolto nell’ambito del Task-Project di Eurostat “Methodology for back-recalculation”. Ringrazio Fabio Sartori」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「methodology which extends the classical soluti on given by Chow and Lin (1971, 1976) to the」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「French National Accounts series. With regard to this procedure, the method proposed here is easy to」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「worked out by Santos Silva e Cardoso (2001) and discussed in Di Fonzo (2002), we show how to」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「In this section we present an application of the retropolation method to the same data set used by」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「the behaviour of the time series of interest, this extension of the Chow and Lin’s method adds」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「GRETA (2002), Methodology for back-recalculation, Eurostat Lot 8, Task 2, Final report.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「Santos Silva, J.M.C. and F.N. Cardoso (2001), “The Chow-Lin method using dynamic models”,」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
 - 突き合わせ・推定：
-  - 「‘reasonable’ estimates of the se ries of interest can offer a valid solution, whose quality and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「Sometimes it can happen that two different estimates (one - to be considered as a proxy - according」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「when quarterly time series data need to be estimated (retropolated) wh en the relevant annual」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「The idea behind this approach is to estimate missi ng past quarterly values for which only annual」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「related series covering the quarters for which back-estimates are desired.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「2 This happens, for example, when one whishes to estimate ‘harmonized’ Eurozone data when ‘old’, not-harmonized」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「regression model linking series to be estimated a nd indicators, that gives more flexibility to the」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「constants whose values depend on the nature of the data to be estimated4.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「where ˆβ is the GLS estimate of β from the (observed) aggregated model (3):」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「The error covariance matrix of the estimated va lues is equal to (Bour nay and Laroque, 1979, Di」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「estimate 1hy according to the simple dynamic model」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「ML estimates of the parameters can be obtained by either using a grid search (scanning) estimation」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「strategy or via a numerical optim ization algorithm 5, and thus estimates of 1hy and of its error」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「Santos Silva and Cardoso (Tab. 17.5 from Green e, 1997). We estimate US quarterly personal」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「ML estimates (tab. 1) were obtained by a prog ram written in Gauss prog ramming language and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
+  - 「恒久棚卸法による資本ストック推計にあたり、 各年の資本財別の粗投資額を整備する」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「我が国のＳＮＡ推計においては詳細な財ごと（2000 品目超）の「供給と需要」を整合的」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「に推計している「コモディティ・フロー法」を採用しており、その推計結果として財別の」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「より SNA遡及推計作業の基となるデータを準備することとする」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「五年ごとの基準改定による断層と直線的補間推計、財分類の不連続等」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「これまでもそれぞれの基準の系列を接続して長期時系列を遡及推計して公表」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「① 既存のデータベース（推計結果データ）の存在確認（別紙１） 、公表系列との突」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「② 既存のデータベースから配分比率や在庫変動率等のパラメータを逆算する」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「時系列データとしての不具合を検証し、要因を分析する」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「⑧ 2000年基準概念への調整（93SNAの遡及推計など）」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「① 既存のデータベースを時系列データとして検証する」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「現行のコモディティ・フローによる推計は単年毎に最終需要項目推計値を得るフ」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「レームとなっており、個別品目毎に基準年を超えて中長期に検証することはこれ」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「③ 93SNA（及び Rev１）対応の遡及推計」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「④ 時系列データとして、商業マージン等の検証」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+- 一次情報の探し方：
+  - 「に推計している「コモディティ・フロー法」を採用しており、その推計結果として財別の」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「補修の４形態） 、別途「建設マトリックスの推計値」や着工統計と照らし」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「配分比率修正データ ○エラー部分に対し修正データを作成→接続表、商業（センサス、販売統計）」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「コード 70年 70&75年 95年 00年 JSIC 貿易統計」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
 - 失敗・落とし穴：
+  - 「The starting point of our discussion is the static m odel, for which the general Best Linear Unbiased」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「Chow, G. and A.L. Lin (1971), “Best linear unbiased interpolation, distribution and extrapolation of」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「Chow, G. and A.L. Lin (1976), “Best linear unbias ed estimation of missing observations in an」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
   - 「The starting point of our discussion is the static m odel, for which the general Best Linear Unbiased」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「Chow, G. and A.L. Lin (1971), “Best linear unbiased interpolation, distribution and extrapolation of」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「Chow, G. and A.L. Lin (1976), “Best linear unbias ed estimation of missing observations in an」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
 - 実例：
+  - 「に推計している「コモディティ・フロー法」を採用しており、その推計結果として財別の」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「① 既存のデータベース（推計結果データ）の存在確認（別紙１） 、公表系列との突」（https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/stock/060831/sanko3.pdf）
+  - 「availability, show inconsis tencies and breaks in their dynamic profile. In other cases the partial」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「In most of these cases estimation techniques which make use of all the ava ilable information to get」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「such cases, it’s rather natural to attempt to exploit this fact, for example by means of a linear model」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「by this way to get more precision in the back-calculated data. This case is encountered, for example,」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「2 This happens, for example, when one whishes to estimate ‘harmonized’ Eurozone data when ‘old’, not-harmonized」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
+  - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF.pdf/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?t=1414778824000）
   - 「availability, show inconsis tencies and breaks in their dynamic profile. In other cases the partial」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「In most of these cases estimation techniques which make use of all the ava ilable information to get」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「such cases, it’s rather natural to attempt to exploit this fact, for example by means of a linear model」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「by this way to get more precision in the back-calculated data. This case is encountered, for example,」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
   - 「2 This happens, for example, when one whishes to estimate ‘harmonized’ Eurozone data when ‘old’, not-harmonized」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「number of sub-periods in each low-frequency time interval ( s=4 in the quarterly-annual case and」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「s=3 in the monthly-quarterly case). We define 21nn n=− , and for algebraic convenience assume」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-  - 「and () 2, 0, hht WN εεσ   . Model (9) is a special case of (11), with () ,,ht htfy y ≡ , p=1 and q=0.」（https://ec.europa.eu/eurostat/documents/3888793/5816113/KS-AN-03-032-EN.PDF/3b9e042c-efa5-4e00-b31b-a7df0ffa66af?version=1.0）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 
 ## 現場の声の集め方（チャネルチェック・業界紙の景況の聞き取り）と良い書き手（channel checks methodology expert interviews structured questionnaire bias）
 - 文脈：探し先・書き手
@@ -3914,7 +3935,7 @@
   - 「https://cdn.example.net/img/hp-guide.jpg」（https://mydatascraper.com/services/website-content-scraping/）
   - 「Tell us what data you need, where it lives, and how you want it delivered. Our team will design the extraction workflow around your use case.」（https://mydatascraper.com/services/website-content-scraping/）
   - 「https://example.com/page」（https://github.com/Murrough-Foley/web-content-extraction-benchmark）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 記者・統計家が書いた数字の点検の手引き（ポイントと%・年率・名目と実質・標本・平均と中央値・Sarah Cohen・英国王立統計学会・Full Fact）（journalist guide checking numbers statistics percentage points compound inflation sample Full Fact RSS）
 - 文脈：
@@ -4344,7 +4365,7 @@
   - 「This can be especially helpful if you plan to export your variables with numeric values (1 | 0), rather than text values (“yes” | “no”). In this case, rather than having to flip back and forth between a file and a data dictionary to interpret codes, users can review information about the variables within the file itself.」（https://datamgmtinedresearch.com/clean）
   - 「Check again for missing cases/duplicate cases.」（https://datamgmtinedresearch.com/clean）
   - 「in the appropriate places for future users (e.g., data dictionary, data cleaning plan, research protocol). Some examples of how you might deal with true errors include:」（https://datamgmtinedresearch.com/clean）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 情報源の質の記述子（ICD 206 の sourcing・出典要約文）と可能性・確度の書き分け（ICD 206 sourcing requirements source descriptors source summary statement confidence likelihood）
 - 文脈：書き方
@@ -12383,7 +12404,7 @@
   - 「Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
 - 実例：
   - 「A List of Strong Verbs for Academic Writing: Examples and Exercises」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
@@ -14554,11 +14575,11 @@
 
 ## 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）（using regulatory inspection and filing records in investigative reporting IRE public records data）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）（analyst using listed suppliers customers peers disclosures to infer private company industry trends blog）
 - 文脈：探し先
