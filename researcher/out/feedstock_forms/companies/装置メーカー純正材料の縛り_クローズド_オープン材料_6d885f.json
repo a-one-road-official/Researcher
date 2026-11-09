@@ -1,0 +1,670 @@
+{
+ "name": "装置メーカー純正材料の縛り（クローズド・オープン材料）",
+ "en": "3D printer closed material system open material policy powder filament",
+ "aliases": [
+  "純正材料 3Dプリンター 縛り",
+  "オープンマテリアル 3Dプリンター",
+  "指定材料 装置メーカー"
+ ],
+ "context": "共通・縛り",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:55:44.650398+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/smart/news/4677636",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2426378",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E6%80%A7%E8%83%BD%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-114205",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.credenceresearch.jp/industry/advanced-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E3%82%AB%E3%83%B3%E3%83%81%E3%83%AC%E3%83%90%E3%83%BC%E3%83%97%E3%83%AD%E3%83%BC%E3%83%96%E4%BF%9D%E6%8C%81%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E3%82%B7%E3%82%A7%E3%82%A2%E5%88%86%E6%9E%90-2026-2033%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B2%A9%E5%A3%B2%E6%95%B0%E9%87%8F%E4%BA%88%E6%B8%ACcagr-ttlee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gamma.app/docs/FOUP-fxwcae1vwo1xp1y",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freeing.co.jp/products/post-17760",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/896691?srsltid=AYCX9vKLLU5z_-bPvWT1-RY6A2Ghs_1RmSGHsTKmg8FAgy2tRq2WlBbn",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/category/casestudy/page/3?srsltid=AYCX9vLamx8eRy6PQRDDfJ3YUz3ULJMSMqEANruty8CbszWJRb_xQA7k",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://voi.0101.co.jp/voi/webcatalog/showGoodsDetails?wrt=5&mcd=CD014&cpg=330&pno=76&ino=01&ocn=01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11300000-Roudoukijunkyokuanzeneiseibu/0000149350.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256804857705519.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5731/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yazawa.co.jp/error/404",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maxfritz.jp/archives/2065/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.incom.co.jp/category_pages/824.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/Category/833",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resonac.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oxinst.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyocera.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marutsu.co.jp/?srsltid=AYCX9vJCHRC7G-rIfOxdNL0o9AQOjoBoq7-VYg_1RQJ19IFlqJo3ZBbV",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eleshop.jp/shop/c/c663213/?srsltid=AYCX9vKRAiCDRN6rUpmUD3mPlSeAotyt5ghiWIZxZPmt2caq___24Eg3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/334M50000002055",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fdma.go.jp/laws/kokuji/post34/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.naraksk119.jp/cmsfiles/contents/0000003/3118/08_dai3shou_seizousyonokijyun.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chikuta119.jp/shinsashishin/pdf/1/1-4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.iwaki.lg.jp/www/contents/1711432017909/simple/No.3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://yokkaichisyoubou.jp/sys/wp-content/uploads/2024/04/dai3shou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://andamiro.com/jp/logic/ajax.product_file.php?no=84&m=document",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.htsm.com/ja/636.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kawamura.co.jp/catalog/FILE/end-5102.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dmmaterial.com/jp/pd.jsp?id=173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://parts.cat.com/ja/catcorp/product/264-5732",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/learn/category/casestudy/page/3?srsltid=AYCX9vJLSYIQeG7SlJdzyDWCHHq1iwPxj19QhHQUBhTtHetOpwrx8aMi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-materials-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/asa-filament-3d-printing-material-market-42678",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.filamentive.com/3d-printing-filament-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/3d-printing-materials-and-services-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/3d-printers/fuse-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/which-3d-filament-should-you-use-heres-the-breakdown/?srsltid=AYCX9vJU_UzImT4-xEExGgFc768XKLChNKNTtirzsKsolukKjMyEjVvA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.prusa3d.com/how-to-calculate-printing-costs_38650/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） 市場規模 CAGR",
+   "results": [
+    "https://newscast.jp/smart/news/4677636",
+    "https://www.atpress.ne.jp/news/2426378",
+    "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E6%80%A7%E8%83%BD%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-114205",
+    "https://www.credenceresearch.jp/industry/advanced-materials-market",
+    "https://jp.linkedin.com/pulse/%E3%82%AB%E3%83%B3%E3%83%81%E3%83%AC%E3%83%90%E3%83%BC%E3%83%97%E3%83%AD%E3%83%BC%E3%83%96%E4%BF%9D%E6%8C%81%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E3%82%B7%E3%82%A7%E3%82%A2%E5%88%86%E6%9E%90-2026-2033%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B2%A9%E5%A3%B2%E6%95%B0%E9%87%8F%E4%BA%88%E6%B8%ACcagr-ttlee",
+    "https://gamma.app/docs/FOUP-fxwcae1vwo1xp1y",
+    "https://www.dreamnews.jp/press/0000366900",
+    "https://finance.biggo.jp/news/4eebbe9a-c87c-4102-8f2c-3c8faff03837",
+    "http://www.excite.co.jp/news/article/Dreamnews_0000366900/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） 価格",
+   "results": [
+    "https://www.freeing.co.jp/products/post-17760",
+    "https://www.kkday.com/ja/product/896691?srsltid=AYCX9vKLLU5z_-bPvWT1-RY6A2Ghs_1RmSGHsTKmg8FAgy2tRq2WlBbn",
+    "https://www.brule.co.jp/learn/category/casestudy/page/3?srsltid=AYCX9vLamx8eRy6PQRDDfJ3YUz3ULJMSMqEANruty8CbszWJRb_xQA7k",
+    "https://voi.0101.co.jp/voi/webcatalog/showGoodsDetails?wrt=5&mcd=CD014&cpg=330&pno=76&ino=01&ocn=01",
+    "https://www.mhlw.go.jp/file/06-Seisakujouhou-11300000-Roudoukijunkyokuanzeneiseibu/0000149350.pdf",
+    "https://ja.aliexpress.com/item/1005005044020271.html",
+    "https://m-creative.co.jp/wp-content/uploads/2020/04/Marvel_Calalog_2020_Vol.35.pdf",
+    "https://web.mit.edu/ghudson/dev/third/emacs.aside/leim/skk/skkdic.el",
+    "https://www.tscp.u-tokyo.ac.jp/img/file4.pdf",
+    "https://blog.magforms.com/ja/open-vs-closed-material-systems-in-industrial-sla-3d-printer-selection"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） 主要メーカー 一覧",
+   "results": [
+    "https://metoree.com/categories/5731/",
+    "https://mono.ipros.com/cg2/%E7%B5%90%E6%9D%9F%E3%83%90%E3%83%B3%E3%83%89/",
+    "http://www.yazawa.co.jp/itemnews/20160628-2",
+    "https://maxfritz.jp/archives/2065/",
+    "https://www.incom.co.jp/category_pages/824.html",
+    "https://www.indexpro.co.jp/Category/833",
+    "https://works.odsk.co.jp/support/%E3%83%AD%E3%83%BC%E3%83%97%E3%81%AE%E7%A8%AE%E9%A1%9E/",
+    "https://www.honda.co.jp/fishing/labo/vol02/",
+    "https://www3.roymall.jp/shop/e/ecable/?srsltid=AYCX9vJhk-TPhIt-T8P7734aViZEXyQYJ5mYRF-cjV0HTCZvGDHrQCcD",
+    "https://semirai.com/articles/data/equipment-supplier-map"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） 代理店 日本",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://www.resonac.com/jp",
+    "https://www.oxinst.jp/",
+    "https://www.kyocera.co.jp/",
+    "https://www.marutsu.co.jp/?srsltid=AYCX9vJCHRC7G-rIfOxdNL0o9AQOjoBoq7-VYg_1RQJ19IFlqJo3ZBbV",
+    "https://eleshop.jp/shop/c/c663213/?srsltid=AYCX9vKRAiCDRN6rUpmUD3mPlSeAotyt5ghiWIZxZPmt2caq___24Eg3",
+    "https://www.material-expo.jp/tokyo/ja-jp.html",
+    "https://sumitomoelectric.com/jp/",
+    "https://www.aist.go.jp/index_en.html",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） 規制 保管 危険物",
+   "results": [
+    "https://laws.e-gov.go.jp/law/334M50000002055",
+    "https://www.fdma.go.jp/laws/kokuji/post34/",
+    "https://www.naraksk119.jp/cmsfiles/contents/0000003/3118/08_dai3shou_seizousyonokijyun.pdf",
+    "https://www.chikuta119.jp/shinsashishin/pdf/1/1-4.pdf",
+    "https://www.city.iwaki.lg.jp/www/contents/1711432017909/simple/No.3.pdf",
+    "https://yokkaichisyoubou.jp/sys/wp-content/uploads/2024/04/dai3shou.pdf",
+    "https://aponline.jp/feature/work/16039/",
+    "https://andamiro.com/jp/logic/ajax.product_file.php?no=84&m=document",
+    "https://risoko.jp/useful-information/bringing-equipment/",
+    "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001234.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） 純正 指定材料 互換",
+   "results": [
+    "https://andamiro.com/jp/logic/ajax.product_file.php?no=84&m=document",
+    "https://www.htsm.com/ja/636.html",
+    "http://www.yazawa.co.jp/itemnews/20160628-2",
+    "https://www.kawamura.co.jp/catalog/FILE/end-5102.pdf",
+    "https://maxfritz.jp/archives/2065/",
+    "https://www.dmmaterial.com/jp/pd.jsp?id=173",
+    "https://parts.cat.com/ja/catcorp/product/264-5732",
+    "https://www.brule.co.jp/learn/category/casestudy/page/3?srsltid=AYCX9vJLSYIQeG7SlJdzyDWCHHq1iwPxj19QhHQUBhTtHetOpwrx8aMi",
+    "https://www.fujiyama-international.com/media-download/2248/c7621d8b5a8af35e/PDF/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament market size CAGR",
+   "results": [
+    "https://market.us/report/3d-printing-materials-market/",
+    "https://www.marketresearchfuture.com/reports/asa-filament-3d-printing-material-market-42678",
+    "https://www.filamentive.com/3d-printing-filament-market-2026/",
+    "https://www.fortunebusinessinsights.com/industry-reports/3d-printing-market-101902",
+    "https://www.mordorintelligence.com/industry-reports/3d-printing-materials-and-services-market",
+    "https://www.precedenceresearch.com/3d-printing-market",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-filament-market",
+    "https://www.factmr.com/report/3d-printing-materials-market",
+    "https://www.linkedin.com/pulse/comprehensive-united-states-3d-printing-plastic-qec6e",
+    "https://straitsresearch.com/report/3d-printing-materials-market"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament price per kg",
+   "results": [
+    "https://formlabs.com/3d-printers/fuse-1/",
+    "https://additiveplus.com/which-3d-filament-should-you-use-heres-the-breakdown/?srsltid=AYCX9vJU_UzImT4-xEExGgFc768XKLChNKNTtirzsKsolukKjMyEjVvA",
+    "https://blog.prusa3d.com/how-to-calculate-printing-costs_38650/",
+    "https://jlc3dp.com/blog/3d-printing-cost",
+    "https://www.matterhackers.com/?srsltid=AYCX9vLIb_Z-7nA-wvFILXyD6lVzHhr2mtmjLDorLBZtP5y-uzmTWKrf",
+    "https://www.makerverse.com/resources/3d-printing/metal-powder-costs-3d-printing/",
+    "https://www.snapmaker.com/blog/how-much-is-filament-for-a-3d-printer/",
+    "https://www.youtube.com/watch?v=B84CgaPdixc",
+    "https://3dprintcalc.no/guides/material-costs",
+    "https://www.aon3d.com/hardware/open-material-3d-printer-savings-calculator/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament key players",
+   "results": [
+    "https://www.aon3d.com/material-science/why-open-filament-3d-printers-matter/",
+    "https://formlabs.com/3d-printers/",
+    "https://www.energy.gov/articles/how-3d-printers-work",
+    "https://thevirtualfoundry.com/open-or-closed-3d-printer/",
+    "https://www.wevolver.com/article/the-ultimate-guide-to-types-of-3d-printing-materials",
+    "https://additiveplus.com/what-materials-do-3d-printers-use-a-comprehensive-guide/?srsltid=AYCX9vKmEnIezYf3FcUoqFMfNYBhgy4vF1Q726vGKRfAT5MexRwh9jFt",
+    "https://fablab.gsd.harvard.edu/places/3d-printer/3d-printer-policies/",
+    "https://www.raise3d.com/blog/3d-printing-materials/",
+    "https://www.eos.info/polymer-solutions/polymer-materials",
+    "https://3dprint.com/306126/moving-from-a-closed-material-ecosystem-to-open-materials-increasing-am-adoption-in-production-and-unleashing-innovation/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament distributor Japan",
+   "results": [
+    "https://www.hp.com/us-en/printers/3d-printers.html",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.stratasys.com/en/materials/",
+    "https://en.wikipedia.org/wiki/3D_printing",
+    "https://www.eos.info/polymer-solutions/polymer-materials",
+    "https://blog.prusa3d.com/a-journey-through-craftsmanship-and-design-led-by-open-source-3d-printers_104681/",
+    "https://www.volkmannusa.com/automated-closed-loop-systems-permit-3d-printing-at-scale/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2026/en/tct/product",
+    "https://www.gsa.gov/buy-through-us/purchasing-programs/requisition-programs/gsa-global-supply/national-stock-numbers/3d-printer-filament-nsns",
+    "https://www.lyafs.com/ja/blog/open-vs-closed-material-systems/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament safety storage regulation",
+   "results": [
+    "https://www.raise3d.com/blog/3d-printing-safety/",
+    "https://doh.wa.gov/community-and-environment/schools/3d-printers",
+    "https://research.wayne.edu/oehs/lab-safety/3d-printing",
+    "https://www.filamentive.com/food-safe-filament-guide-ensuring-3d-printing-food-safety/",
+    "https://ehs.vt.edu/programs/occupational-safety/3dprinting.html",
+    "https://fablab.gsd.harvard.edu/places/3d-printer/3d-printer-policies/",
+    "https://www.crowell.com/en/insights/client-alerts/teaching-an-old-dog-new-tricks-chemical-regulation-of-3d-printing",
+    "https://forum.prusa3d.com/forum/english-forum-general-discussion-announcements-and-releases/harmful-emissions-from-3d-printing-prusa-recommendations/",
+    "https://www.nfpa.org/news-blogs-and-articles/blogs/2021/03/05/additive-manufacturing-3d-printing",
+    "https://www.sahassoftech.com/blog_page/material-shelf-life-storage-and-handling-best-practices-for-3d-printing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament closed system open material third-party",
+   "results": [
+    "https://www.aon3d.com/material-science/why-open-filament-3d-printers-matter/",
+    "https://formlabs.com/blog/formlabs-open-platform-flexibility-customization-sla-sls/",
+    "https://www.stratasys.com/en/materials/",
+    "https://additiveplus.com/what-materials-do-3d-printers-use-a-comprehensive-guide/?srsltid=AYCX9vK-tgpGaeKZnmTDeGZNKzRnlxzxA2R-eSOggRXR8VWzC_VAdoO1",
+    "https://sovol.eu/blogs/new/open-source-printers-vs-closed-source-printers-key-differences?srsltid=AYCX9vIfonkhlX8Phi4sFT9QaGVdJgyEdBUuZ8uG3FZ9rAQLV2CVr4yy",
+    "https://www.hp.com/us-en/printers/3d-printers.html",
+    "https://thevirtualfoundry.com/open-or-closed-3d-printer/",
+    "https://www.sciencedirect.com/science/article/pii/S2214860423000507",
+    "https://www.youtube.com/watch?v=qGE0jQeUrsw&vl=ja",
+    "https://3dny.co.il/content/open-materials-vs-closed-filament-systems-the-uptime-trade-offs"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament commodity price competition",
+   "results": [
+    "https://www.filamentive.com/3d-printing-filament-market-2026/",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://formlabs.com/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/",
+    "https://www.idtechex.com/en/research-report/3d-printing-and-additive-manufacturing/1182",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://www.ifm.eng.cam.ac.uk/uploads/Research/TEG/Redistributing_material_supply_chains_for_3D_printing.pdf",
+    "https://www.marketsandmarkets.com/ResearchInsight/trump-tariffs-impact-3d-printing-market-analysis.asp",
+    "https://en.wikipedia.org/wiki/3D_printing",
+    "https://www.reddit.com/r/3Dprinting/comments/1j492cf/if_youre_curious_about_the_impacts_of_tariffs_on/",
+    "https://www.lyafs.com/blog/open-vs-closed-material-systems/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament technical support parameters",
+   "results": [
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://www.3dwasp.com/en/support/",
+    "https://www.youtube.com/watch?v=K_ZGZe-pbTI",
+    "https://www.tandfonline.com/doi/full/10.1080/17452759.2024.2331206",
+    "https://fablab.gsd.harvard.edu/places/3d-printer/3d-printer-policies/",
+    "https://www.eos.info/polymer-solutions/polymer-materials",
+    "https://www.wevolver.com/article/what-is-3d-printer-filament-made-of-polymers-additives-composites-and-beyond",
+    "https://3dprinting.com/3d-printing-glossary/",
+    "https://markforged.com/resources/learn/3d-printing-basics/how-do-3d-printers-work/3d-printing-materials",
+    "https://www.raise3d.com/blog/3d-printing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com 装置メーカー純正材料の縛り（クローズド・オープン材料）",
+   "results": [
+    "https://note.com/h_________2__2/n/nc37daeb494b8",
+    "https://note.com/fair_moraea3351/n/n8a851bdaa14e",
+    "https://note.com/houten333/n/n5d306d1d37f4",
+    "https://note.com/dakudhigura/n/n8647d79555bf",
+    "https://note.com/47658750/n/n9879b185cc1b",
+    "https://note.com/izuku_idea/n/nd8ba7167d9b8",
+    "https://note.com/moral_rhino6309/n/n7289c5834d84",
+    "https://note.com/erukiti/n/n959277a74dd0",
+    "https://note.com/fromhddtossd/n/ne7d9f805db92",
+    "https://note.com/sv_engineer/n/n1e04daf1b55f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 装置メーカー純正材料の縛り（クローズド・オープン材料）",
+   "results": [
+    "https://x.com/pe_metals_O/status/2097278776887660749",
+    "https://x.com/FujifilmJP_PR/status/2080548744798585171",
+    "https://x.com/pe_metals_O/status/2094379686235435473",
+    "https://x.com/lustrare_lab/status/2076259775571280131",
+    "https://x.com/M_Fujiwara/status/2065093239598895406",
+    "https://x.com/chemicaldailyad/status/2076794656273395870",
+    "https://x.com/teiehulabo/status/2115349555483120069"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 装置メーカー純正材料の縛り（クローズド・オープン材料）",
+   "results": [
+    "https://jp.linkedin.com/pulse/closed-loop-open-loop-recycling-systems-ahmad-torabi-oroje-6rfwe?tl=ja",
+    "https://jp.linkedin.com/pulse/textile-circularity-closed-loop-vs-open-loop-coleo-s-l-qp3xf?tl=ja",
+    "https://www.linkedin.com/posts/tlv-japan_オープン回収とクローズド回収-tlv-activity-7102512877122555905-HgDI",
+    "https://members.linkedin.com/it-it/how-to-use-linkedin",
+    "https://jp.linkedin.com/pulse/achieving-sustainable-manufacturing-through-closed-loop-john-oney-u2kzc?tl=ja",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7290603818856140800/",
+    "https://cn.linkedin.com/posts/hsiao-ling-liew-396903367_project-open-aoi-project-flex-socket-activity-7501070245739151360-7BD3"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 装置メーカー純正材料の縛り（クローズド・オープン材料）",
+   "results": [
+    "https://www.facebook.com/groups/672615104330430/",
+    "https://www.facebook.com/groups/1428474157235505/",
+    "https://graph.facebook.com/1991075531143817/picture/",
+    "https://www.facebook.com/megagenjapan/posts/メガジェン純正材料についてmegagenインプラントを導入いただいている医院様へカスタムアバットメントについてのご注意点がございますコピー品が増加しトラブルが頻/2079213502154076/",
+    "https://www.facebook.com/tomio.sugiura.50/photos/34014269031554346/",
+    "https://www.facebook.com/japan.coltspeed/posts/コルトスピードでは4b11をはじめとしたオープンデッキのシリンダブロックを補強するプレートとシリンダブロックの補強方法について発明し特許を取得しました今後経年使/1020296036561058/",
+    "https://www.facebook.com/tomio.sugiura.50/posts/11年前800万円くらいで導入したstratasysの業務用プリンター250mcだがガチガチに暗号化されて純正材料しか使えないようになっているstratasys/36830999859881235/",
+    "https://www.facebook.com/p.o.concept2011/posts/ottobock-4r100はメーカー推奨材料で作りましょう/1160528457372420/",
+    "https://www.facebook.com/100064371025233/photos/-材料販売-オープン-アトリエ-来週の金曜日27日はオープンアトリエです新作ハートpins-キットのサンプルもご覧いただけますのでぜひ実物を見にアトリエへお越し/1126691992819824/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=aiolr8ZGr7A",
+    "http://factory-japan.com/rakuiti_syosai.php?rid=844",
+    "https://jp.c.misumi-ec.com/book/NGA1_T03_MJP/pdf/0023.pdf",
+    "https://www.youtube.com/watch?v=FiE6W0uFBIs",
+    "https://www.fusionclimb.com/ja/blogs/news/8-essential-rock-climbing-knots?srsltid=AYCX9vI9DmEAnINjlubltVY2ZxtsJSr4GJzittCQU9aY5I1os4Y8Cqax",
+    "https://www.kuri-adventures.com/%E7%99%BB%E5%B1%B1/%E5%88%9D%E5%BF%83%E8%80%85/%E6%A0%97%E5%B1%B1%E7%A5%90%E5%93%89/%E3%83%96%E3%83%AD%E3%82%B0/%E7%99%BB%E5%B1%B1%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AF%E3%83%BC%E3%82%AF/",
+    "https://www.reddit.com/r/climbing/comments/3kybcb/every_climber_should_know_isolate_damaged_rope/?tl=ja",
+    "https://www.uikuik.co.jp/pdf/7.pdf",
+    "https://www.recog.works/ja/news/detail/84",
+    "https://blog.magforms.com/ja/open-vs-closed-material-systems-in-industrial-sla-3d-printer-selection"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "装置メーカー純正材料の縛り（クローズド・オープン材料） X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=qrUoLc97jD4",
+    "https://www.youtube.com/watch?v=aiolr8ZGr7A",
+    "https://www.tiktok.com/@user4424011029101/video/7614062112532483346",
+    "https://www.youtube.com/shorts/eM-PjYNufr8",
+    "https://www.kuri-adventures.com/%E7%99%BB%E5%B1%B1/%E5%88%9D%E5%BF%83%E8%80%85/%E6%A0%97%E5%B1%B1%E7%A5%90%E5%93%89/%E3%83%96%E3%83%AD%E3%82%B0/%E7%99%BB%E5%B1%B1%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%97%E3%83%AF%E3%83%BC%E3%82%AF/",
+    "https://youtu.be/h_C5UvCqYC8?feature=shared",
+    "https://www.youtube.com/watch?v=Rma3xa0fyBg",
+    "https://www.tiktok.com/@zugakousakudiy/video/7247102019398405384",
+    "https://www.instagram.com/popular/%E3%83%AD%E3%83%BC%E3%83%97-%E7%AB%AF%E6%9C%AB%E5%87%A6%E7%90%86/",
+    "https://blog.magforms.com/ja/open-vs-closed-material-systems-in-industrial-sla-3d-printer-selection"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printer closed material system open material policy powder filament site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/how-3d-printing-technology-changing-world-metalworking-emea",
+    "https://www.linkedin.com/company/isquaredag/",
+    "https://cn.linkedin.com/company/shenzhen-esun-industrial-co.-ltd",
+    "https://www.linkedin.com/pulse/mastering-art-3d-printing-small-guide-world-additive-benjamin-regener-wkx4e",
+    "https://www.linkedin.com/in/megan-brooks-american-filament",
+    "https://au.linkedin.com/company/bilby-3d-pty-ltd",
+    "https://www.linkedin.com/company/nexa3d",
+    "https://www.linkedin.com/pulse/turning-recycled-plastics-3d-printer-filament-workflow-hdpe-pp-wjyhe",
+    "https://uk.linkedin.com/company/e3d-online",
+    "https://www.linkedin.com/pulse/3d-printing-materials-open-vs-closed-lutz-feldmann-jcg0e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "価格": "記載なし（読んだ45頁・検索21回）",
+  "主要企業": "記載なし（読んだ45頁・検索21回）",
+  "安全・規制・保管": "記載なし（読んだ45頁・検索21回）",
+  "品質・証明": "記載なし（読んだ45頁・検索21回）",
+  "装置縛り・オープン材料": "記載なし（読んだ45頁・検索21回）",
+  "売り方・商流": "記載なし（読んだ45頁・検索21回）",
+  "技術支援": "記載なし（読んだ45頁・検索21回）",
+  "コモディティ化": "記載なし（読んだ45頁・検索21回）",
+  "繰り返し性": "記載なし（読んだ45頁・検索21回）",
+  "日本": "記載なし（読んだ45頁・検索21回）"
+ }
+}

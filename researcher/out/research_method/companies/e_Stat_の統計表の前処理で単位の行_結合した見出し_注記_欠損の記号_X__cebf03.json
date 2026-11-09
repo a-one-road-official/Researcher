@@ -8,35 +8,35 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-08T21:33:41.123490+00:00",
+ "researched_at": "2026-11-09T08:01:37.732009+00:00",
  "evidence": {
-  "実例": [
+  "突き合わせ・推定": [
    {
-    "quote": "本記事では「初めて統計データを扱う公務員」を想定し、Python の知識がゼロでも結果が出せる手順を、e-Stat 実データを例にコピペで動く実装付きで解説します",
+    "quote": "Claude Code を使えば、データ前処理 (クリーニング・整形・集計・検証) の大部分を自然言語で指示できます",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "基幹系システム (住基・税・福祉) からのエクスポートが固定長テキストや独自 CSV で出力され、列定義書が紙のみという事例",
+    "quote": "e-Stat 実データを例に、クリーニング・整形・集計・検証を Claude Code に任せる手順",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "議会答弁用に紙資料を OCR した PDF データで、表構造が崩れて数値が文字化けする事例",
+    "quote": "単位・年度・地域コードの罠を人間が検証すべき勘所",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "複数年度の月報を Excel ブックの別シートに保管しており、シート名が「2025_04」「H25.4」と表記揺れする事例",
+    "quote": "1. ファイルの文字コード (chardet で推定)",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "部署間で共有される集計表がメール添付の Excel で、保存版数が複数並走して原典特定ができない事例",
+    "quote": "Step 4: 集計と「必ず検証」",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -48,13 +48,37 @@
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "単位ミスの典型ヒヤリ事例として、首長レクで「県内市町村の財政力指数比較」を提示した際に、人口列を「千人」と気付かずに「人」のまま比較表に載せてしまい、",
+    "quote": "# === 検証: 全国合計が原典の値と一致するか ===",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "別事例では、議会答弁原稿で「歳出予算 1,200 億円」のはずが「1,200 万円」と単位を取り違えて起案が回ってしまい、上司の最終チェックで止まったという例も典型的です",
+    "quote": "必ず原典との突合検証コードを最後に置きます",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Claude Code への指示にも「検証コードを付けてください」と明記します",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "原典との突合検証コードを必ず最後に置きます",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Claude Code を使えば「目的を 1 行言語化 → 構造把握 → Tidy 化 → 集計 → 検証 → 可視化」のサイクルを高速で回せます",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "単位確認・合計突合・原典との照合は人間の責任です",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -152,33 +176,33 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "突き合わせ・推定": [
+  "実例": [
    {
-    "quote": "Claude Code を使えば、データ前処理 (クリーニング・整形・集計・検証) の大部分を自然言語で指示できます",
+    "quote": "本記事では「初めて統計データを扱う公務員」を想定し、Python の知識がゼロでも結果が出せる手順を、e-Stat 実データを例にコピペで動く実装付きで解説します",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "e-Stat 実データを例に、クリーニング・整形・集計・検証を Claude Code に任せる手順",
+    "quote": "基幹系システム (住基・税・福祉) からのエクスポートが固定長テキストや独自 CSV で出力され、列定義書が紙のみという事例",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "単位・年度・地域コードの罠を人間が検証すべき勘所",
+    "quote": "議会答弁用に紙資料を OCR した PDF データで、表構造が崩れて数値が文字化けする事例",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "1. ファイルの文字コード (chardet で推定)",
+    "quote": "複数年度の月報を Excel ブックの別シートに保管しており、シート名が「2025_04」「H25.4」と表記揺れする事例",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Step 4: 集計と「必ず検証」",
+    "quote": "部署間で共有される集計表がメール添付の Excel で、保存版数が複数並走して原典特定ができない事例",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -190,37 +214,13 @@
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "# === 検証: 全国合計が原典の値と一致するか ===",
+    "quote": "単位ミスの典型ヒヤリ事例として、首長レクで「県内市町村の財政力指数比較」を提示した際に、人口列を「千人」と気付かずに「人」のまま比較表に載せてしまい、",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "必ず原典との突合検証コードを最後に置きます",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Claude Code への指示にも「検証コードを付けてください」と明記します",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "原典との突合検証コードを必ず最後に置きます",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Claude Code を使えば「目的を 1 行言語化 → 構造把握 → Tidy 化 → 集計 → 検証 → 可視化」のサイクルを高速で回せます",
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "単位確認・合計突合・原典との照合は人間の責任です",
+    "quote": "別事例では、議会答弁原稿で「歳出予算 1,200 億円」のはずが「1,200 万円」と単位を取り違えて起案が回ってしまい、上司の最終チェックで止まったという例も典型的です",
     "url": "https://note.com/stats47/n/naf04e81afb7b",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -436,11 +436,11 @@
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.e-stat.go.jp/",
-    "https://www.e-stat.go.jp/help/surveyitems/search-3-5",
-    "https://note.com/stats47/n/n23262330a5e5"
+    "https://www.e-stat.go.jp/news/20201225",
+    "https://note.com/s_v_s/n/n9d6328633b83"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -508,13 +508,13 @@
     "https://www.e-stat.go.jp/api/en/api-info",
     "https://wwwnc.cdc.gov/eid/page/tables",
     "https://www.stata.com/manuals/rtable.pdf",
-    "https://dashboard.e-stat.go.jp/en/static/api",
     "https://worldbank.github.io/ietoolkit/reference/iebaltab.html",
+    "https://dashboard.e-stat.go.jp/en/static/api",
     "https://cran.r-project.org/web/packages/japanstat/refman/japanstat.html",
     "https://www.e-stat.go.jp/en"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -523,11 +523,11 @@
    "query": "site:note.com e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）",
    "results": [
     "https://note.com/stats47/n/nfb3e5e44f7ed?hl=en",
-    "https://note.com/stats47/n/n23262330a5e5",
     "https://note.com/stats47/n/n527e817995e9",
     "https://note.com/s_v_s/n/n9d6328633b83",
-    "https://note.com/stats47/n/naf04e81afb7b",
+    "https://note.com/stats47/n/n23262330a5e5",
     "https://note.com/kinari_iro/n/nefb277cd4124",
+    "https://note.com/stats47/n/naf04e81afb7b",
     "https://note.com/stats47/n/nfb3e5e44f7ed"
    ],
    "engines": [
@@ -537,39 +537,39 @@
   },
   {
    "query": "site:x.com e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2110920091038847220",
+    "https://jf.x.com/images/media-preview/2098442446078390523",
+    "https://x.com/konotarogomame/status/1331478653977325569",
+    "https://x.com/kotsudokan/status/2083191644028121446",
+    "https://x.com/kotsudokan/status/2083191638961349010",
+    "https://x.com/tagami_pq/status/2086057128939458793",
+    "https://x.com/IsaoShirakata/status/2090397132163588179"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）",
    "results": [],
    "engines": [],
    "n_hits": 0
   },
   {
-   "query": "site:linkedin.com e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）",
-   "results": [
-    "https://www.linkedin.com/posts/satoru-yoshida_ときどき言及している事業所単位の集計の話e-statをはじめ様々なところで調査-activity-7205767132658233344-5gwS",
-    "https://jp.linkedin.com/posts/典寿-有馬-b5b689352_japan-dashboard-e-stat日本の統計サービスはどう変-activity-7353940406360834049-JtKv",
-    "https://ca.linkedin.com/in/e-stat-engineering-72824296",
-    "https://www.linkedin.com/help/linkedin/answer/a701208/combined-post-analytics?lang=ja-JP",
-    "https://jp.linkedin.com/learning/cert-prep-information-processing-for-fundamental-information-technology-engineer-examination/3013661",
-    "https://jp.linkedin.com/pulse/text-preprocessing-101-tokenization-stemming-stop-words-panpatil-vwwjf?tl=ja",
-    "https://jp.linkedin.com/learning/cert-prep-information-processing-for-fundamental-information-technology-engineer-examination/3020112"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
    "query": "site:facebook.com e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）",
    "results": [
-    "https://www.facebook.com/momotose.zeirishi/posts/政府統計の総合窓口e-statをご存知ですか以前ご紹介した-resasよりも深掘りしたデータが満載です例えば-①-家計調査地域住民が何にいくら使っているか-②-/1380240250568107/",
     "https://www.facebook.com/stat.nthu/",
-    "https://www.facebook.com/stat.japan/photos/統計局からのお知らせ本日13時00分から統計ダッシュボードのアドレスurlが変わりました新httpsdashboarde-statgojp旧urlでアクセスいた/1505660842846741/",
-    "https://www.facebook.com/electonestation/photos/stageaワンポイントノウハウels-02シリーズのバンクとユニット②テーマは前回に引き続きバンクとユニットですが前回のおさらいをちょっとするとユニット1バン/1452115905063641/",
-    "https://www.facebook.com/groups/OpenUnivJapan/posts/8325462397516120/",
+    "https://www.facebook.com/momotose.zeirishi/posts/政府統計の総合窓口e-statをご存知ですか以前ご紹介した-resasよりも深掘りしたデータが満載です例えば-①-家計調査地域住民が何にいくら使っているか-②-/1380240250568107/",
     "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/",
-    "https://www.facebook.com/toukeigaku.sensei/videos/excelgoogleスプレッドシートはたまたchatgptなどで表から集計分析をさせたくてもセルの結合はng-セルの結合が許されるのは人間が見るための表だけ-/1031407021973368/"
+    "https://www.facebook.com/100077306238799/photos/伝助がリリースされたのは2007年7月10日のことで今日でちょうど7年になりますその振り返りとしてリリース時から現在までのアクセス統計情報をまとめましたhttp/912720395421685/",
+    "https://www.facebook.com/groups/OpenUnivJapan/posts/8325462397516120/",
+    "https://www.facebook.com/stat.japan/photos/統計局からのお知らせ本日13時00分から統計ダッシュボードのアドレスurlが変わりました新httpsdashboarde-statgojp旧urlでアクセスいた/1505660842846741/",
+    "https://www.facebook.com/electonestation/photos/stageaワンポイントノウハウels-02シリーズのバンクとユニット②テーマは前回に引き続きバンクとユニットですが前回のおさらいをちょっとするとユニット1バン/1452115905063641/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -584,7 +584,7 @@
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf",
     "https://www.e-stat.go.jp/",
-    "https://www.e-stat.go.jp/help/surveyitems/search-3-5"
+    "https://www.e-stat.go.jp/news/20201225"
    ],
    "engines": [
     "yahoo_jp"
@@ -614,17 +614,17 @@
    "results": [
     "https://in.linkedin.com/in/sarvesh-thapa",
     "https://www.linkedin.com/in/gennadygorin",
-    "https://www.linkedin.com/in/suelemverano",
+    "https://in.linkedin.com/in/sujal-karki",
     "https://in.linkedin.com/in/divya-malviya-40662137a",
-    "https://www.linkedin.com/in/shulai-yang",
-    "https://www.linkedin.com/in/rohit-rao123",
-    "https://www.linkedin.com/in/colin-beam-29879b10",
-    "https://in.linkedin.com/in/ayushm2112",
+    "https://www.linkedin.com/posts/adham-mahmoud-1o_dataengineering-python-sql-activity-7431256812533772288-dk4r",
+    "https://www.linkedin.com/in/shreyansporwal",
     "https://uk.linkedin.com/in/dhruvsinghal3121001",
-    "https://in.linkedin.com/in/sujal-karki"
+    "https://sg.linkedin.com/in/ahsan-ijaz",
+    "https://www.linkedin.com/in/ivan-meng",
+    "https://www.linkedin.com/in/tynandaly"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -632,6 +632,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T17:47:00.410432+00:00"
 }

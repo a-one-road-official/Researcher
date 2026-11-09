@@ -1,4 +1,4 @@
-# AM原料の形態別（粉末・フィラメント・ワイヤー・ペレット・レジン・ペースト・シート/テープ・砂）— 規制・保管・縛り・商流・価格・市場（事実のみ・23品目）
+# AM原料の形態別（粉末・フィラメント・ワイヤー・ペレット・レジン・ペースト・シート/テープ・砂）— 規制・保管・縛り・商流・価格・市場（事実のみ・28品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -2773,3 +2773,308 @@
 - 価格：記載なし（読んだ45頁・検索21回）
 - 安全・規制・保管：記載なし（読んだ45頁・検索21回）
 - 繰り返し性：記載なし（読んだ45頁・検索21回）
+
+## AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料）（3D printing material official price list per kg filament resin metal powder OEM vs open material）
+- 文脈：価格・一次
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 価格：記載なし（読んだ45頁・検索21回）
+- 主要企業：記載なし（読んだ45頁・検索21回）
+- 安全・規制・保管：記載なし（読んだ45頁・検索21回）
+- 品質・証明：記載なし（読んだ45頁・検索21回）
+- 装置縛り・オープン材料：記載なし（読んだ45頁・検索21回）
+- 売り方・商流：記載なし（読んだ45頁・検索21回）
+- 技術支援：記載なし（読んだ45頁・検索21回）
+- コモディティ化：記載なし（読んだ45頁・検索21回）
+- 繰り返し性：記載なし（読んだ45頁・検索21回）
+- 日本：記載なし（読んだ45頁・検索21回）
+
+## 金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉）（metal powder hazardous materials classification storage transport Japan fire service act）
+- 文脈：粉末・安全・一次
+- 市場規模：
+  - 「２.第一石油類：アセトン、ガソリン、引火点が21℃未満のもの」（https://www.nite.go.jp/data/000156190.pdf）
+  - 「〇第４類（引火性液体）・・・ｼﾞｴﾁﾙｴｰﾃﾙ、アセトン、ガソリン、灯油、軽油、ギヤー油 等」（https://www.nite.go.jp/data/000156190.pdf）
+  - 「（12）第一石油類とは、アセトン、ガソリンその他１気圧において引火点が２１度未満のものをいう」（https://www.fdma.go.jp/singi_kento/kento/items/post-133/01/sankou1-3-1.pdf）
+  - 「アセトンを例に考えると、アセトンは消防法第４類石油類水溶性に分類されるので、400L未満までは消防法の規制を受けません」（https://www.sankyo-chem.com/news/post-689/）
+  - 「①アセトン 消防法第４類第１石油類水溶性（指定数量：400L）」（https://www.sankyo-chem.com/news/post-689/）
+  - 「例えば、アセトンの一斗缶（16L）を18缶、灯油の一斗缶（18L）を10缶、エチレングリコールのドラム缶（200L）を１ドラム保管するとします」（https://www.sankyo-chem.com/news/post-689/）
+  - 「アセトン 16（一斗缶容量）×18（缶）÷400（指定数量）=」（https://www.sankyo-chem.com/news/post-689/）
+- 価格：
+  - 「第４３条第１項第２号 違反者・・・懲役３月以下・罰金30万円以下（法人に対しても両罰規定に」（https://www.nite.go.jp/data/000156190.pdf）
+  - 「より30万円以下）」（https://www.nite.go.jp/data/000156190.pdf）
+  - 「１回７２００円」（https://www.sankyo-chem.com/news/post-689/）
+  - 「１回５３００円」（https://www.sankyo-chem.com/news/post-689/）
+- 安全・規制・保管：
+  - 「消防法｜危険物確認試験や危険物の運搬について ：： 総務省消防庁」（https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html）
+  - 「十七 動植物油類とは、動物の脂肉等又は植物の種子若しくは果肉から抽出したものであつて、一気圧において引火点が二五〇度未満のものをいい、総務省令で定めるところにより貯蔵保管されているものを除く」（https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html）
+  - 「危険物第２類確認試験のフローチャート」（https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html）
+  - 「危険物第４類確認試験のフローチャート」（https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html）
+  - 「消防法で定められている危険物とは？種類別の指定数量と適切な保管・運搬方法 | コラム | 日本メックス株式会社」（https://www.meccs.co.jp/column/39/）
+  - 「消防法で定められている危険物とは？種類別の指定数量と適切な保管・運搬方法」（https://www.meccs.co.jp/column/39/）
+  - 「ビルを災害から守るために不可欠となる消防法上の危険物についてまとめました」（https://www.meccs.co.jp/column/39/）
+  - 「普段、何気なく使ったり、聞いたりしている危険物と言う言葉ですが、そもそも危険物とはどんな物質か？どんな分類があるのか？をご存知でしょうか」（https://www.meccs.co.jp/column/39/）
+  - 「このコンテンツでは、危険物の法律的な定義にはじまり、正しく安全に取扱うために必要な指定数量や表示・レベルなどの基礎知識、さらに危険物の保管や運搬についての法律や、取扱うための国家資格などについて解説しています」（https://www.meccs.co.jp/column/39/）
+  - 「危険物とは、火災、爆発、中毒などをひきおこす危険性のある物質の総称です」（https://www.meccs.co.jp/column/39/）
+  - 「法律という面からみると、「消防法」上の危険物と「毒物及び劇物取締法」上の危険物があります」（https://www.meccs.co.jp/column/39/）
+  - 「このうち、ビルの管理とより大きく関わるのが「消防法」上における危険物です」（https://www.meccs.co.jp/column/39/）
+  - 「まずは消防法がどんな法律なのかをおさえておきましょう」（https://www.meccs.co.jp/column/39/）
+  - 「消防法とは、「火災の予防・警戒・鎮圧による生命・身体・財産の保護・被害軽減」を目的として定められた法律です」（https://www.meccs.co.jp/column/39/）
+  - 「そして消防法第2条第7項では、危険物を「火災を発生させる危険性の高い物質」と定義し、保管方法や運送方法を厳密に定めています」（https://www.meccs.co.jp/column/39/）
+- 装置縛り・オープン材料：
+  - 「: 密閉性が高く、耐火性のある専用容器を使用する」（https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html）
+  - 「専用便、分納、別ルートを検討します」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「危険物倉庫として独立した専用の建築物とすること」（https://www.sankyo-chem.com/news/post-689/）
+  - 「貯蔵倉庫は、独立した専用の建築物とすること」（https://www.sankyo-chem.com/news/post-689/）
+- 売り方・商流：
+  - 「※取り扱う物品が危険物であることが疑われる場合、すべての国内製造者及び輸入者は、当該試験」（https://www.nite.go.jp/data/000156190.pdf）
+  - 「消防法危険物―輸入貨物の倉庫保管・配送時の確認 - Maritime Wiki — run by Interlink」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「消防法危険物―輸入貨物の倉庫保管・配送時の確認」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「フォワーダー実務では、消防法危険物は、輸入後の倉庫搬入、保税蔵置、」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「特に輸入貨物では、海上輸送や航空輸送が問題なく完了しても、日本国内の倉庫、」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「消防法危険物は、輸入後の国内物流を止めないための重要な確認項目です」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「輸入実務で頻出する第4類引火性液体について、品名区分、引火点、成分、数量、倉庫・配送条件を扱います」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「輸入後の国内配送会社、積載方法、混載可否、納品先での保管条件を扱います」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「輸入物流では、貨物が港や空港に到着した後、どこに保管できるか、誰が運べるか、納品先で安全に受けられるかに直結します」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「そのため、海上輸送や航空輸送で危険品として問題がなかった貨物でも、輸入後の国内倉庫や配送で止まることがあります」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「保税倉庫、CFS、危険品倉庫、配送会社、納品先の受入条件まで含めて確認しなければ、輸入後に横持ち、倉庫変更、追加保管料、配送再手配、納期遅延が発生する可能性があります」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「輸入後の倉庫搬入、保税蔵置、国内配送、納品先保管、危険物施設の要否で問題になります」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「輸入後の保管、荷役、配送、納品先での安全確保です」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「逆に、国際輸送上の危険品である貨物についても、輸入後は消防法危険物として第何類に該当するか、指定数量との関係、倉庫や配送会社の受入可否を別途確認する必要があります」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「輸入貨物で最も確認頻度が高く、引火点、成分、数量、倉庫保管、国内配送条件を確認します」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+- 技術支援：
+  - 「8-1. トドケデの主なサポート内容」（https://note.com/todokede/n/n82eecfbdd284）
+  - 「防火管理者選任届出や消防計画の作成補助などのサポート」（https://note.com/todokede/n/n82eecfbdd284）
+  - 「：必要に応じて消防署とのやり取りもサポート」（https://note.com/todokede/n/n82eecfbdd284）
+  - 「オンラインで専門家のサポートが受けられ、安全性と法令遵守を両立したスムーズな工場・倉庫運営を実現できます」（https://note.com/todokede/n/n82eecfbdd284）
+- コモディティ化：
+  - 「汎用カラム／一般分析用カラム SUMIPAX（スミパックス）」（https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/category-2.html）
+- 繰り返し性：
+  - 「、種類・数量の届け出、管理者の選任、定期点検の実施など）を受けます」（https://www.meccs.co.jp/column/39/）
+  - 「定期的な安全教育と訓練を実施することで、事故のリスクを大幅に低減できます」（https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html）
+  - 「定期的なメンテナンスと清掃の重要性を示しています」（https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html）
+  - 「ただし、後述する定期点検や継続管理が不可欠」（https://note.com/todokede/n/n82eecfbdd284）
+  - 「消防設備（消火器、消防ポンプ、自動火災報知設備など）の定期的な点検・整備」（https://note.com/todokede/n/n82eecfbdd284）
+  - 「定期的に消防署の検査が行われることもあるので、普段から安全管理を怠らない」（https://note.com/todokede/n/n82eecfbdd284）
+- 日本：
+  - 「消防法で定められている危険物とは？種類別の指定数量と適切な保管・運搬方法 | コラム | 日本メックス株式会社」（https://www.meccs.co.jp/column/39/）
+  - 「日本メックスは、危険物を取扱う資格保有者による数多くの建物や設備の安全管理を支援してきました」（https://www.meccs.co.jp/column/39/）
+  - 「が五十三マイクロメートルの網ふるい（日本工業規格（工業標準化法 （昭和二十四年法」（https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf）
+  - 「律第百八十五号）第十七条第一項 の日本工業規格をいう」（https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf）
+  - 「第４章の３ 日本消防検定協会等」（https://www.nite.go.jp/data/000156190.pdf）
+  - 「※取り扱う物品が危険物であることが疑われる場合、すべての国内製造者及び輸入者は、当該試験」（https://www.nite.go.jp/data/000156190.pdf）
+  - 「参考：日本粉末冶金工業会（JPMA）｜金属粉の取扱方法［※PDF］（」（https://www.chibatate.com/storage/metal-powder.html）
+  - 「、国内配送、納品先での保管条件、危険品倉庫の受入可否に関係します」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「国際輸送上の危険品分類だけでなく、日本国内で保管・取扱いできる貨物かを確認する必要があります」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「特に輸入貨物では、海上輸送や航空輸送が問題なく完了しても、日本国内の倉庫、」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「消防法危険物は、輸入後の国内物流を止めないための重要な確認項目です」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「、日本法令欄、成分、引火点、数量、保管場所、配送条件を確認し、必要に応じて荷主、メーカー、倉庫、危険品専門業者へ確認することが重要です」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「消防法危険物が、日本国内の火災予防、貯蔵、取扱いに関係する国内法令上の区分であることを扱います」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「SDSの日本法令欄、成分情報、引火点、取扱い・保管上の注意、輸送情報欄を確認する実務を扱います」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+  - 「輸入後の国内配送会社、積載方法、混載可否、納品先での保管条件を扱います」（https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/）
+- 成長率：記載なし（読んだ46頁・検索21回）
+- 主要企業：記載なし（読んだ46頁・検索21回）
+- 品質・証明：記載なし（読んだ46頁・検索21回）
+
+## AM原料の日本への輸入量（貿易統計の品目番号：金属粉・樹脂のフィラメント）（Japan import statistics metal powder HS code filament）
+- 文脈：日本・一次
+- 市場規模：記載なし（読んだ45頁・検索21回）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 価格：記載なし（読んだ45頁・検索21回）
+- 主要企業：記載なし（読んだ45頁・検索21回）
+- 安全・規制・保管：記載なし（読んだ45頁・検索21回）
+- 品質・証明：記載なし（読んだ45頁・検索21回）
+- 装置縛り・オープン材料：記載なし（読んだ45頁・検索21回）
+- 売り方・商流：記載なし（読んだ45頁・検索21回）
+- 技術支援：記載なし（読んだ45頁・検索21回）
+- コモディティ化：記載なし（読んだ45頁・検索21回）
+- 繰り返し性：記載なし（読んだ45頁・検索21回）
+- 日本：記載なし（読んだ45頁・検索21回）
+
+## 金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方）（metal AM powder market report methodology scope CAGR calculation）
+- 文脈：市場・方法
+- 市場規模：
+  - 「Metal Powder Market Size & Share Report, 2026-2033」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Market Size, 2025」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The global metal powder market size was valued at USD 7.7 billion in 2025 and is projected to grow from USD 8.6 billion in 2026 to USD 13.6 billion by 2033, at a CAGR of 6.8% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 35.5% in 2025. Increasing demand for additive manufacturing (AM) components from the aerospace industry is driving market growth.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Market size in 2025: USD 7.7 Billion」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Estimated market size in 2026: USD 8.6 Billion」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Projected market size by 2033: USD 13.6 Billion」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Rising geopolitical tensions have pushed countries to increase and upgrade their aerospace & defense equipment, which is expected to augment consumption of the product over the forecast period. For instance, the German government has invested EUR 10 billion (USD 10.83 billion) to purchase F-35 fighter jets from the U.S.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Market size in 2025」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「USD 7.7 billion」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Estimated market size in 2026」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「USD 8.6 billion」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Projected market size by 2033」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「USD 13.6 billion」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「USD 0.70 billion」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「USD 0.85 billion」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+- 成長率：
+  - 「Revenues from metal 3D printing hardware and materials will grow at a CAGR of 10.4% from 2025-2035.」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「高級品市場の成長により、金属3Dプリンティングは2025年から2035年にかけて10.4%の年平均成長率に達する見通し」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「CAGR, 2026–2033」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The global metal powder market size was valued at USD 7.7 billion in 2025 and is projected to grow from USD 8.6 billion in 2026 to USD 13.6 billion by 2033, at a CAGR of 6.8% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 35.5% in 2025. Increasing demand for additive manufacturing (AM) components from the aerospace industry is driving market growth.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「CAGR (2026-2033): 6.8%」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「CAGR of 6.8% from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Revenue in USD million, volume in kilotons, and CAGR from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The metal powder market is expected to grow at a compound annual growth rate of 6.8% from 2026 to 2033 to reach USD 13.6 billion by 2033.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「CAGR (2026 to 2036)」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「21.0% CAGR」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market is expected to grow at a CAGR of 21.0% from 2026 to 2036.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「India is the fastest-growing market at a CAGR of 26.3%, followed by China at 28.4% and Germany at 24.2%.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「CAGR (2026-2036)」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Top Country Growth Comparison Additive Manufacturing With Metal Powders Market Cagr (2026 2036)」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「USD 0.85 billion to USD 5.70 billion, at a CAGR of 21.0%」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+- 価格：
+  - 「What is the price range of 3D metal printers by technology type?」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「in January 2026, while commodity prices rose」（https://market.us/report/powder-metallurgy-market/）
+- 主要企業：
+  - 「What are the market shares of those active in the market?」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Updates on key players and start-ups in metal additive manufacturing」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Metal additive manufacturing - evolution of technology market share」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Additive manufacturing metals - evolution of market share by alloy」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Market shares in laser powder bed fusion hardware: Continued diversification」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「By directly interviewing and profiling companies across the supply chain. IDTechEx analysts interview companies by engaging directly with senior management and technology development executives across the supply chain, leading to revealing insights that may otherwise be inaccessible.」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「By country: The China held the largest market share in 2025.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Key players are using mergers and acquisitions activity across the globe, as large players acquire minority stakes in smaller producers that have advantages like advanced technology, efficient processes, or a solid presence in the market. Promotion of innovation, lower costs, and enhanced synergies within operations is also an essential element to enhance these activities in the industry.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Some of the key players operating in the market include GKN PLC and Sandvik AB:」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「GKN PLC is one of the leading producers and suppliers of the product, and it also produces atomized metal powders for various applications. The company annually produces around 250,000 tons of powder.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Which segment accounted for the largest metal powder market share?」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Which materials segment led the metal powder market share?」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Who are the key players in metal powder market?」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The key players operating in the metal powder market are MolyWorks Materials Corporation; Advanced Technology & Materials Co., Ltd.; GKN PLC; Hoganas AB; POLEMA; Rio Tinto Metal Powders; Rusal; Sandvik AB; CRS Holdings Inc.; Liberty House Group」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+- 安全・規制・保管：
+  - 「Identification of high growth opportunities across metal additive manufacturing, electric vehicle components, aerospace parts, medical implants, industrial tooling, energy storage technologies, precision engineering, and lightweight component manufacturing.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The metal powder market size was estimated at USD 7.7 billion in 2025 and is expected to reach USD 8.6 billion in 2026.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The metal powder market is expected to grow at a compound annual growth rate of 6.8% from 2026 to 2033 to reach USD 13.6 billion by 2033.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「in 2025, projected to reach」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market is forecast to reach USD 5.70 billion by 2036.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market is projected to reach USD 0.85 billion in 2026.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The additive manufacturing with metal powders market size is projected to reach USD 5.698 billion by 2036.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The market is estimated to reach USD 9.1 billion in 2026 and is projected to attain USD 18.8 billion by 2036.」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「The market size for the metal powder market is projected to reach USD 18.8 billion by 2036.」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「North American Shipments: In 2023, North American metal-powder shipments reached」（https://market.us/report/powder-metallurgy-market/）
+  - 「, reaching an estimated value of」（https://market.us/report/powder-metallurgy-market/）
+  - 「and is estimated to reach」（https://market.us/report/powder-metallurgy-market/）
+  - 「According to the Japan Powder Metallurgy Association, the average weight of sintered components used per vehicle reached」（https://market.us/report/powder-metallurgy-market/）
+  - 「In June 2026, the Metal Powder Industries Federation reported that estimated North American iron and steel powder shipments reached」（https://market.us/report/powder-metallurgy-market/）
+  - 「, and Asia-Pacific production increased 7.6% to around 59.2 million vehicles, with China reaching」（https://market.us/report/powder-metallurgy-market/）
+- 品質・証明：
+  - 「Revenue (billions USD), Installed Printers (units), Materials (kilotonnes)」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「What are the qualifications of the people conducting IDTechEx research?」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Clothing, Footwear & Accessories」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Paints, Coatings & Printing Inks」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Revenue in USD million, volume in kilotons, and CAGR from 2026 to 2033」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Material Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Technology Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Application Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Regional Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The others segment captures revenue generated from metal powders used in technologies such as thermal spraying, hot isostatic pressing, cold spraying, brazing, and advanced coating processes. These technologies support specialized manufacturing applications requiring enhanced surface properties, repair capabilities, and high performance materials.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The others segment captures revenue generated from metal powders used in industries such as electronics, energy, industrial machinery, consumer goods, marine, and chemical processing. These applications utilize metal powders for coatings, filtration, tooling, magnetic materials, and specialized engineering components.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「. Primary processing platforms include selective laser melting and electron beam melting under powder bed fusion, laser-cladding-based directed energy deposition, and binder jetting systems, each presenting distinct powder morphology and flowability requirements tied to specific certification pathways.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Continuous advancements in alloy powder production methods have improved particle size uniformity and flowability, resulting in consistent build quality. With increasing emphasis on performance optimization and material efficiency, the alloy segment is expected to sustain its market-leading role.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Hybrid bottom-up and scenario-based forecasting model calibrated against installed system fleet data, application-specific adoption curves, and regulatory qualification timelines」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+- 装置縛り・オープン材料：
+  - 「COMPATIBLE METAL MATERIALS」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Part manufacturers using proprietary metal 3D printing technology」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「The healthcare segment includes revenue generated from metal powders used in medical implants, surgical instruments, dental components, prosthetics, and customized medical devices. High purity metal powders enable the production of biocompatible, precision engineered components through additive manufacturing and metal injection molding.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Various metals are compatible with 3D printing, including stainless steel, titanium, aluminum, nickel alloys, cobalt-chrome, copper, and precious metals like gold and silver.」（https://market.us/report/3d-printing-metal-market/）
+  - 「Source: Fact.MR analysis, based on proprietary forecasting model and primary research.」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「introduced new Metallic Membrane cartridge filters for chemical, pharmaceutical and food-processing applications. These filters provide up to」（https://market.us/report/powder-metallurgy-market/）
+- 売り方・商流：
+  - 「These forecasts, generated by IDTechEx analysts, go far beyond what is publicly available and is based upon an extensive number of primary interviews, providing the most important information to the reader. Over 100 company profiles are included as part of this report; this includes key OEMs, disruptive start-ups, incumbent powder providers, and emerging material companies.」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「OEM AM Strategy - GE Aerospace and Colibrium Additive」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「OEM AM Strategy - Airbus」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「OEM AM Strategy - Boeing」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「OEM AM Strategy - Rolls-Royce」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「If you are a reseller/distributor please」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The China Metal Powder Market will grow at a CAGR of 6.7% through 2036. Powder metallurgy component production driven by domestic OEM cost advantages and industrial upgrading policy. The world's largest automotive manufacturing base creates proportional demand for the ferrous metal powder.」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「CAGR support is strongest in the short term because PM producers can monetize installed press-and-sinter capacity quickly when OEM build schedules improve, especially in APAC and North America, while Europe contributes more selectively as its automotive base remains comparatively slower-growing.」（https://market.us/report/powder-metallurgy-market/）
+  - 「EU, Japan, North America, China OEM belt」（https://market.us/report/powder-metallurgy-market/）
+  - 「when incoming powder lots vary, and forcing OEM suppliers to redesign surcharge clauses, dual-source additive packages, and monthly rather than quarterly feedstock indexation to keep program economics stable.」（https://market.us/report/powder-metallurgy-market/）
+- 技術支援：
+  - 「The powder form is the largest segment scope in this market size, with a revenue share greater than 89.3%. The properties of metal powder particles are affected by a variety of parameters. These parameters not only affect the additive build process but also the properties of the final component.」（https://market.us/report/3d-printing-metal-market/）
+  - 「Powder metallurgy remains unusually exposed to alloy-input instability because atomized iron, copper, nickel, molybdenum, and specialty additions are purchased into a process window where chemistry drift of even」（https://market.us/report/powder-metallurgy-market/）
+- コモディティ化：
+  - 「There are some overarching trends for new entrants as they try to find gaps in the market. Low-cost variants, printers pushing the size extremes from micro to very large scales, faster rates, and those exploiting alternative forms of feedstocks are all rapidly emerging and assessed.」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Developments in PBF and DED: Low-cost printers」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Signal - Commodity Pricing」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「5. World Bank Group. (2025, April). Commodity Markets Outlook: Persistence of High Interest Rates Weighs on Commodity Markets. World Bank. https://openknowledge.worldbank.org/handle/10986/41531」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「The segment of medical & dental applications is expected to experience the highest revenue growth rate of 27.4%, in terms of volume over the forecast period. Several medical companies use 3D printing for various medical application purposes. Monogram, for instance, uses 3D printing to develop orthopedic implants. Open Bionics also developed robotic prosthetics using 3D printing that are low-cost.」（https://market.us/report/3d-printing-metal-market/）
+  - 「in January 2026, while commodity prices rose」（https://market.us/report/powder-metallurgy-market/）
+- 繰り返し性：
+  - 「Order in a Subscription」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Access More With an IDTechEx Subscription」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「What is the difference between a report and subscription?」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「A subscription from IDTechEx can include more reports, access to an online information platform with continuously updated information from our analysts, and access to analysts directly.」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「Rising geopolitical tensions have pushed countries to increase and upgrade their aerospace & defense equipment, which is expected to augment consumption of the product over the forecast period. For instance, the German government has invested EUR 10 billion (USD 10.83 billion) to purchase F-35 fighter jets from the U.S.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「The market size represents the apparent consumption of metal powder-in various applications.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Metal Powder Consumption Intensity Layer」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「For report inquiries, custom research, subscriptions and other market intelligence requirements.」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Subscription Datasets and Paid Sources」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Production and Consumption Statistics」（https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market）
+  - 「Driven by expanding automotive powder metallurgy demand for lightweight and high-strength sintered components, growing metal additive manufacturing powder consumption for aerospace and medical applications, and increasing adoption of specialty alloy powders for electronics, surface coating, and metal injection molding, with ferrous metal powders accounting for」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「The transition of additive manufacturing from prototyping to series production results in an exponential growth of powder consumption as each production AM system consumes several tons of powder per year.」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「The largest single consumption channel for metal powders is the automotive industry with 33.8% of end-use share.」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「Industrial upgrading policies support the adoption of PM and AM technologies driving powder consumption.」（https://www.factmr.com/report/3202/metal-powder-market）
+- 日本：
+  - 「アイディーテックエックス株式会社 (IDTechEx日本法人)」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.」（https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097）
+  - 「U.S., Canada, Mexico, Germany, Italy, Spain, China, India, Japan, South Korea, Brazil」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「Japan Metal Powder Market」（https://www.grandviewresearch.com/industry-analysis/metal-powder-market）
+  - 「China, India, South Korea, Japan, Germany, U.S., Italy, UK, ANZ, France, 30 plus countries」（https://www.factmr.com/report/3202/metal-powder-market）
+  - 「powder-forged connecting rods have been manufactured for light-duty vehicles in the U.S., Europe and Japan.」（https://market.us/report/powder-metallurgy-market/）
+  - 「According to the Japan Powder Metallurgy Association, the average weight of sintered components used per vehicle reached」（https://market.us/report/powder-metallurgy-market/）
+  - 「Japan and South Korea remain key technology leaders in precision metal injection moulding and advanced sintering technologies, while emerging manufacturing bases across India, Southeast Asia, and Eastern Europe are gradually expanding local powder metallurgy capabilities through industrial policy support and foreign investment.」（https://market.us/report/powder-metallurgy-market/）
+  - 「U.S., EU, Japan, Korea, China industrial clusters」（https://market.us/report/powder-metallurgy-market/）
+  - 「EU core, U.S., Canada, Australia, Japan」（https://market.us/report/powder-metallurgy-market/）
+  - 「EU, Japan, North America, China OEM belt」（https://market.us/report/powder-metallurgy-market/）
+  - 「North America core, EU, Japan, India」（https://market.us/report/powder-metallurgy-market/）
+  - 「EU core, North America, Japan」（https://market.us/report/powder-metallurgy-market/）
+  - 「U.S., EU, Japan, India」（https://market.us/report/powder-metallurgy-market/）
+  - 「EU, U.S., Japan」（https://market.us/report/powder-metallurgy-market/）
+
+## MoldJet・ペースト型の金属AM材料（会社の公式・材料の種類）（Tritone MoldJet metal paste material）
+- 文脈：ペースト・会社
+- 市場規模：
+  - 「ICON raises $185 million in Tiger-led round to 3D print more homes Construction 3D Printing」（https://facfox.com/news/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+- 安全・規制・保管：
+  - 「If you’ve found a malfunction or have ideas for improvement, we’ll be happy to hear from you. You can reach out to the website’s operators by using the following email」（https://tritoneam.com/in-the-news/tritones-moldjet-technology-reduces-manufacturing-costs-and-lead-times-for-metal-parts/）
+  - 「If you’ve found a malfunction or have ideas for improvement, we’ll be happy to hear from you. You can reach out to the website’s operators by using the following email」（https://tritoneam.com/moldjet-technology/）
+  - 「s have less than 2% binder, which means that even before they go into the sintering furnace they have a good density. After sintering, we have demonstrated the ability to achieve densities upwards of 99%. In the case of stainless steel, for example, we reach over 99.5% density, almost like the raw material.”」（https://facfox.com/news/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「“After the initial success of our DOMINANT system, we are proud to expand our market reach with the DIM system. The market is ready to shift gear from prototyping to production of high-quality metal p」（https://facfox.com/news/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「Learn how cement, steel, aluminum, and plastics drive emissions and the most credible pathways to cut them: CCS, hydrogen DRI, inert anodes, and recycling.」（https://www.azom.com/news.aspx?newsID=65885）
+  - 「This highly anticipated move by Tritone will help to achieve the company’s goals and reach its objectives, says CEO Ofer Ben-Zur. “I wish Gal tremendous success in his mission to make Tritone a household name when seeking additive manufacturing solutions in the North America region.”」（https://3dprint.com/295717/tritone-brings-novel-bound-metal-3d-printing-to-u-s-with-new-subsidiary/）
+- 品質・証明：
+  - 「Certificate of Analysis」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「: Stainless steels, tool steels, titanium, copper (in qualification), ceramics (in qualification), and customer-developed materials. Gold and silver feasibility demonstrated. Switch materials in approximately 30 minutes.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Released materials include stainless steels (316L, 17-4 PH, 15-5 PH), tool steels (H13, M2), titanium (Ti 6-4), and low-alloy steels. Copper, ceramics, and additional alloys are in qualification. Gold and silver feasibility has been demonstrated. The open platform also supports customer-developed materials.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Runout notably manufactures piston guides for hydraulic pumps. These parts include lots of details and features like different thread sizes and a small drainage hole. They are time-consuming and expensive to produce using CNC machines. The teams therefore wanted to explore another manufacturing method and see what it was possible to do, while keeping the same characteristics and requirements.」（https://tritoneam.com/in-the-news/tritones-moldjet-technology-reduces-manufacturing-costs-and-lead-times-for-metal-parts/）
+  - 「BigRep GmbH has been on a bit of a roller coaster recently, but with this latest news, I’m hoping that means the ride has stopped. Reporting approximately 45% revenue growth...」（https://3dprint.com/295717/tritone-brings-novel-bound-metal-3d-printing-to-u-s-with-new-subsidiary/）
+- 装置縛り・オープン材料：
+  - 「Open material platform」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Lightweight, biocompatible materials for aerospace, medical, and high-performance applications.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/in-the-news/tritones-moldjet-technology-reduces-manufacturing-costs-and-lead-times-for-metal-parts/）
+  - 「These adjustments are compatible with all popular screen readers, including JAWS and NVDA.」（https://tritoneam.com/in-the-news/tritones-moldjet-technology-reduces-manufacturing-costs-and-lead-times-for-metal-parts/）
+  - 「this mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/in-the-news/tritones-moldjet-technology-reduces-manufacturing-costs-and-lead-times-for-metal-parts/）
+  - 「Tritone’s MoldJet technology uses a proprietary process to print molds filled with a metal paste, which are then dried and sintered to create high-quality metal parts.」（https://adiatech.com/2024/07/08/exploring-the-benefits-of-metal-additive-manufacturing-with-tritone-technologiess-moldjet/）
+  - 「This mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/moldjet-technology/）
+  - 「These adjustments are compatible with all popular screen readers, including JAWS and NVDA.」（https://tritoneam.com/moldjet-technology/）
+  - 「this mode configures the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software for blind users that is installed on a computer and smartphone, and websites must be compatible with it.」（https://tritoneam.com/moldjet-technology/）
+  - 「Register to view and download proprietary industry data from AM Research and 3DPrint.com」（https://3dprint.com/295717/tritone-brings-novel-bound-metal-3d-printing-to-u-s-with-new-subsidiary/）
+- 売り方・商流：
+  - 「If you would like to know more about Tritone’s metal additive manufacturing process and the characteristics of its machines, go to the website of its official French distributor, ERM Fab & Test」（https://tritoneam.com/in-the-news/tritones-moldjet-technology-reduces-manufacturing-costs-and-lead-times-for-metal-parts/）
+- 繰り返し性：
+  - 「MoldJet is designed for competitive unit costs at production volumes of 1,000–100,000+ parts per year with no tooling investment. Contact Stratasys for application-specific pricing.」（https://www.stratasys.com/en/guide-to-3d-printing/technologies-and-materials/moldjet-technology/）
+  - 「Low energy consumption, operates in standard industrial environment」（https://tritoneam.com/moldjet-technology/）
+  - 「s per year) of metal components. To learn more about the promising AM method and its unique capability, we caught up with Omer Sagi, Vice President of Products and Business Development at Tritone.」（https://facfox.com/news/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+  - 「s per year—and this is where metal AM can really shine.”」（https://facfox.com/news/moldjet-six-steps-to-production-grade-metal-3d-printed-parts/）
+- 成長率：記載なし（読んだ45頁・検索21回）
+- 価格：記載なし（読んだ45頁・検索21回）
+- 主要企業：記載なし（読んだ45頁・検索21回）
+- 技術支援：記載なし（読んだ45頁・検索21回）
+- コモディティ化：記載なし（読んだ45頁・検索21回）
+- 日本：記載なし（読んだ45頁・検索21回）

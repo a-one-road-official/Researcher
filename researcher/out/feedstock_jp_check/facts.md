@@ -1,4 +1,4 @@
-# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・56社）
+# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・57社）
 
 ## AF-COLOR
 - 公式URL：https://www.af-color.com（given）
@@ -437,6 +437,26 @@
 - 拠点：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索15回）
+
+## Capamotion Inc
+- 公式URL：https://capamotion.com（given）
+- 規模・親会社：
+  - 「Immomar Group Inc. · Groupe Immomar Inc.」（https://www.federalcorporation.ca/corporation/10755486・3回目）
+- 検索結果の抜粋：
+  - 「CAPAMOTION INC. | Canada Corporation Directory — CAPAMOTION INC. is a Non-distributing corporation with 50 or fewer shareholders corporation type, which located at 5550 Rue Fullum #519 Montréal QC H2G 2H4 Canada. It was registered on 01-Jun-2018, the corporation's bn is 751036518RC0001 and corporation number is 10755486. There is one director of this company. This corporation record status is : Ac」（https://www.canadacompanyregistry.com/companies/capamotion-inc/・3回目）
+  - 「Capamotion Inc. · 5550 Rue Fullum #519, Montréal, QC H2G 2H4 — CAPAMOTION INC. is a federal corporation in Montréal incorporated with Corporations Canada, a division of Innovation, Science and Economic Development (ISED) Canada. The entity was incorporated on June 1, 2018 with corporation #10755486. The current entity status is . The registered office location is at 5550 Rue Fullum #519, Montréal,」（https://opengovca.com/corporation/10755486・3回目）
+  - 「Capamotion Inc. - Federal Corporation — CAPAMOTION INC. is a federal corporation in Montréal, Quebec incorporated with Corporations Canada, a division of Innovation, Science and Economic Development (ISED) Canada. The entity was incorporated on June 1, 2018 with corporation #10755486. The current entity status is . The registered office location is at 5550 Rue Fullum #519, Montréal, QC H2G 2H4. Th」（https://www.federalcorporation.ca/corporation/10755486・3回目）
+  - 「Capamotion Inc - Facebook — Apr 27, 2023 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.」（https://www.facebook.com/Capamotion-Inc-101136812977531/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 
 ## Dongguan Jiecheng Additive Technology
 - 公式URL：http://www.dgadpm.com（given）

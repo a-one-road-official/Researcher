@@ -1,0 +1,2099 @@
+{
+ "name": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方）",
+ "en": "metal AM powder market report methodology scope CAGR calculation",
+ "aliases": [
+  "金属粉末 積層造形 市場 調査概要",
+  "AM粉末 市場予測 対象範囲",
+  "metal powder additive manufacturing market methodology"
+ ],
+ "context": "市場・方法",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:55:35.700326+00:00",
+ "evidence": {
+  "成長率": [
+   {
+    "quote": "Revenues from metal 3D printing hardware and materials will grow at a CAGR of 10.4% from 2025-2035.",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "高級品市場の成長により、金属3Dプリンティングは2025年から2035年にかけて10.4%の年平均成長率に達する見通し",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global metal powder market size was valued at USD 7.7 billion in 2025 and is projected to grow from USD 8.6 billion in 2026 to USD 13.6 billion by 2033, at a CAGR of 6.8% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 35.5% in 2025. Increasing demand for additive manufacturing (AM) components from the aerospace industry is driving market growth.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 6.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.8% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, volume in kilotons, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal powder market is expected to grow at a compound annual growth rate of 6.8% from 2026 to 2033 to reach USD 13.6 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "21.0% CAGR",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 21.0% from 2026 to 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is the fastest-growing market at a CAGR of 26.3%, followed by China at 28.4% and Germany at 24.2%.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2036)",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Additive Manufacturing With Metal Powders Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.85 billion to USD 5.70 billion, at a CAGR of 21.0%",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for the Additive Manufacturing With Metal Powders Market is expected to grow at a CAGR of 21.0% between 2026 and 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "India registers the fastest growth at a 26.3% CAGR through 2036, supported by ISRO and DRDO additive manufacturing adoption programmes and domestic powder atomisation capacity investments under the Production Linked Incentive scheme.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Metal Market Size, Share | CAGR of 23.6%",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 23.6%",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D Printing Metal market is set to skyrocket, with an expected worth of USD 20.0 billion by 2033 from USD 2.4 billion in 2023, exhibiting a remarkable CAGR of 23.6% during 2023-2033.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific leads the market share (32.5%), with Europe projected to experience the fastest CAGR (26.2%) from 2023-2032. Countries like the UK and India are adopting 3D printing technology for aerospace and medical applications.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The highest revenue share was accounted for by the titanium products segment at 42.4% in 2022. This segment is projected to grow at the fastest CAGR over the forecast period. Due to their non-corrosive properties and resistance to harsh environments, there will be an increase in the demand for titanium-based product segments.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global 3D printing metal market in the Asia Pacific accounted for the largest market share of 32.5% in 2023. Europe is predicted to experience the fastest regional CAGR of over 26.2% from 2023-2032. France, Spain, Italy, Germany, and the Netherlands are the top five countries in this region for the 3D printing of end-use industries parts.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2023-2032)",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2036):",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal powder market is likely to expand at a CAGR of 7.5% during the forecast period.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Metal Powder Market Cagr (2026 2036) | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The China Metal Powder Market will grow at a CAGR of 6.7% through 2036. Powder metallurgy component production driven by domestic OEM cost advantages and industrial upgrading policy. The world's largest automotive manufacturing base creates proportional demand for the ferrous metal powder.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "India Metal Powder Market is expected to grow at a CAGR of 6.4% by 2036. PLI schemes and Make in India manufacturing incentives are fueling growth in automotive component production. Iron and steel powders are needed to develop the domestic PM industry.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Germany Metal Powder Market is expected to grow at a CAGR of 5.5% through 2036. “Industrie 4.0 in conjunction with DIN/EU standards is the specification-intensive market for metal powders. Automotive and aerospace PM components are manufactured to meet the demand from existing channels.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2036. Domestic manufacturing expansion is being supported by reshoring investment and IRA/CHIPS Act provisions. The established PM industry and increasing adoption of AM generate two demand channels for metal powders.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 9.1 billion to USD 18.8 billion, at a CAGR of 7.5%",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal powder market is expected to grow at a 7.5% CAGR between 2026 and 2036.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Powder Metallurgy Market Size, Share | CAGR of 12.6%",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025 - 2035",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.6%,",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.6%",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "off the global powder metallurgy CAGR over 2026–2030, with export-dependent corridors in North America, the EU, and India particularly affected as they juggle tariff volatility, rules-of-origin compliance, and renegotiation of long-term supply contracts for automotive and aerospace powder components.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "What is the price range of 3D metal printers by technology type?",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "in January 2026, while commodity prices rose",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "What are the market shares of those active in the market?",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Updates on key players and start-ups in metal additive manufacturing",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Metal additive manufacturing - evolution of technology market share",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing metals - evolution of market share by alloy",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Market shares in laser powder bed fusion hardware: Continued diversification",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "By directly interviewing and profiling companies across the supply chain. IDTechEx analysts interview companies by engaging directly with senior management and technology development executives across the supply chain, leading to revealing insights that may otherwise be inaccessible.",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The China held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players are using mergers and acquisitions activity across the globe, as large players acquire minority stakes in smaller producers that have advantages like advanced technology, efficient processes, or a solid presence in the market. Promotion of innovation, lower costs, and enhanced synergies within operations is also an essential element to enhance these activities in the industry.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include GKN PLC and Sandvik AB:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "GKN PLC is one of the leading producers and suppliers of the product, and it also produces atomized metal powders for various applications. The company annually produces around 250,000 tons of powder.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which segment accounted for the largest metal powder market share?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which materials segment led the metal powder market share?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in metal powder market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the metal powder market are MolyWorks Materials Corporation; Advanced Technology & Materials Co., Ltd.; GKN PLC; Hoganas AB; POLEMA; Rio Tinto Metal Powders; Rusal; Sandvik AB; CRS Holdings Inc.; Liberty House Group",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The powder bed segment is projected to account for 46.5% of the additive manufacturing with metal powders market revenue in 2026, maintaining its position as the leading manufacturing technique. Its dominance has been built on the ability to produce highly detailed and structurally sound components with excellent dimensional accuracy.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The alloy segment is projected to capture 39.7% of the additive manufacturing with metal powders market revenue in 2026, leading due to its versatility and enhanced performance characteristics. Alloys such as titanium, nickel, and aluminum-based blends have been favored for their strength-to-weight ratios, corrosion resistance, and suitability for high-stress environments.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous advancements in alloy powder production methods have improved particle size uniformity and flowability, resulting in consistent build quality. With increasing emphasis on performance optimization and material efficiency, the alloy segment is expected to sustain its market-leading role.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing With Metal Powders Market Europe Country Market Share Analysis, 2026 & 2036",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Additive Manufacturing With Metal Powders Market",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis of Top Players",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defense currently occupy the largest market share (29.6%), leveraging 3D printing for quicker production of complex components. Medical and dental applications are expected to witness a growth rate of 27.4%.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific leads the market share (32.5%), with Europe projected to experience the fastest CAGR (26.2%) from 2023-2032. Countries like the UK and India are adopting 3D printing technology for aerospace and medical applications.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Proto Labs, Voxeljet AG, Stratasys LTD., Renishaw PLC, General Electric Company, and more, engaging in mergers and acquisitions to expand their offerings.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The largest share, over 29.6%, was accounted for by the aerospace and defense sector in 2023. 3D printing allows aerospace and defense industry key players to produce complex components in shorter durations. Senvol, a 3D data specialist for the aerospace & defense industry, was awarded funding in 2023 by the U.S. Department of Defense.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global 3D printing metal market in the Asia Pacific accounted for the largest market share of 32.5% in 2023. Europe is predicted to experience the fastest regional CAGR of over 26.2% from 2023-2032. France, Spain, Italy, Germany, and the Netherlands are the top five countries in this region for the 3D printing of end-use industries parts.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include Hoganas AB, AMG Advanced Metallurgical Group, ATI Powder Metals, and Aubert and Duval.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Powder metallurgy components are the leading application with 37.9% share, driven by automotive sintered part production.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Powder Market South Korea Market Share Analysis By Production Method | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hoganas AB holds the market share through the world largest iron and steel powder production capacity, a portfolio of over 3,500 powder grades, and expanding additive manufacturing powder capabilities.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Höganäs AB, AMG Advanced Metallurgical Group N.V., ATI Powder Metals, Aubert & Duval, Australian Metal Powders Supplies Pty Ltd, Carpenter Powder Products, Global Metal Powders, Heraeus, Hitachi Chemical Co., Ltd., Industrial Pvt Ltd are the leading companies.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading companies, and how are they differentiating through production scale, powder quality, and AM capability?",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape including powder portfolios, atomization capacity, and application development strategies of leading companies.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the total market share.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the powder metallurgy market, with a substantial market share of around",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The United States alone accounts for the overwhelming majority of North America’s market share, driven by its extraordinary concentration of tier-one automotive component manufacturers, defence-grade powder metallurgy producers, and additive manufacturing technology developers that collectively generate consistent and high-value demand for both standard and advanced powder metallurgy products.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players in The Industry",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "品質・証明": [
+   {
+    "quote": "Revenue (billions USD), Installed Printers (units), Materials (kilotonnes)",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "What are the qualifications of the people conducting IDTechEx research?",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Clothing, Footwear & Accessories",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Paints, Coatings & Printing Inks",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, volume in kilotons, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Material Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Application Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The others segment captures revenue generated from metal powders used in technologies such as thermal spraying, hot isostatic pressing, cold spraying, brazing, and advanced coating processes. These technologies support specialized manufacturing applications requiring enhanced surface properties, repair capabilities, and high performance materials.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The others segment captures revenue generated from metal powders used in industries such as electronics, energy, industrial machinery, consumer goods, marine, and chemical processing. These applications utilize metal powders for coatings, filtration, tooling, magnetic materials, and specialized engineering components.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Primary processing platforms include selective laser melting and electron beam melting under powder bed fusion, laser-cladding-based directed energy deposition, and binder jetting systems, each presenting distinct powder morphology and flowability requirements tied to specific certification pathways.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous advancements in alloy powder production methods have improved particle size uniformity and flowability, resulting in consistent build quality. With increasing emphasis on performance optimization and material efficiency, the alloy segment is expected to sustain its market-leading role.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid bottom-up and scenario-based forecasting model calibrated against installed system fleet data, application-specific adoption curves, and regulatory qualification timelines",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Powder Bed accounts for 46.5% share in 2026 as its superior geometric resolution and established qualification status under EASA and FAA airworthiness frameworks make it the preferred platform for flight-critical aerospace component certification.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market generates an incremental opportunity of USD 4.85 billion between 2026 and 2036, reflecting sustained structural demand from aerospace serial production qualifications, medical implant reimbursement expansion, and industrial energy sector platform deployments.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Coatings | Paints and Additives",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". In this case, the metal is coated by a layer of PLA or ABS. Manufacturers are working hard to develop more cost-effective printing methods for filaments than the selective laser melting process. This is expected to increase filament demand over the forecast period.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Architectural Coatings Market",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Driven by expanding automotive powder metallurgy demand for lightweight and high-strength sintered components, growing metal additive manufacturing powder consumption for aerospace and medical applications, and increasing adoption of specialty alloy powders for electronics, surface coating, and metal injection molding, with ferrous metal powders accounting for",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Surface coating and thermal spray applications in aerospace and energy industries consume significant volumes of nickel, cobalt, and tungsten carbide powders.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Application: Powder Metallurgy Components, Additive Manufacturing, Surface Coating, Metal Injection Molding",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Protective and functional surface coatings through thermal spray, cold spray, and laser cladding processes",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "High-barrier qualification requirements are created by additive manufacturing powder quality specifications such as particle size distribution, morphology and oxygen content.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gas-atomized fine powders are in premium demand for aerospace, medical and industrial series production – and additive manufacturing is the fastest growing application. Surface coating and metal injection molding are established niche demand channels.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "There is a high demand for gas-atomized nickel, titanium and cobalt powders for aerospace and defense AM qualification programs.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape is concentrated around Hoganas, which controls the global market through unmatched iron powder production scale and the broadest product catalog in the industry. The company 3,500+ powder grades serve virtually every metal powder application from automotive PM through AM and surface coating.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competition in the additive manufacturing powder segment is more fragmented, with specialty producers including Carpenter Technology, Sandvik Osprey, and AP&C (GE Additive) competing through gas atomization technology and aerospace qualification programs. Competition is shaped by powder quality certification, particle size consistency, and the ability to support customer AM process qualification.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2025, Sandvik and Additive Industries announced a powder supply partnership for direct filling of the Powder Load Tool. The collaboration supports controlled metal powder handling, traceability, and safer bulk loading for MetalFab additive manufacturing systems.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "What raw material costs and powder qualification requirements could constrain growth?",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal powder market covers ferrous, non-ferrous, and specialty metal powders produced through atomization, reduction, and electrolysis processes for powder metallurgy component manufacturing, additive manufacturing, surface coating, brazing, and metal injection molding applications across automotive, aerospace, electronics, and industrial sectors.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand analysis based on automotive PM component production, additive manufacturing system installed base, surface coating consumption, and MIM part volumes.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market sizing covers 30+ countries with inputs including automotive PM production, AM system installations, surface coating consumption, and MIM part volumes.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Primary validation includes 18+ interviews across metal powder producers, PM component manufacturers, AM service bureaus, and surface coating applicators.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Coatings | Paints and Additives",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "and deferring cross-border capacity expansions and new customer qualifications by 1–2 years. Quantitatively, this trade friction is modeled to shave",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EU, North America core, China coastal",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", and recurring revenue from qualification support, reuse analytics, and digital material files can add",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "when incoming powder lots vary, and forcing OEM suppliers to redesign surcharge clauses, dual-source additive packages, and monthly rather than quarterly feedstock indexation to keep program economics stable.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Germany, Japan, U.S. Midwest, Central Europe, China coastal clusters",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": "COMPATIBLE METAL MATERIALS",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Part manufacturers using proprietary metal 3D printing technology",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "The healthcare segment includes revenue generated from metal powders used in medical implants, surgical instruments, dental components, prosthetics, and customized medical devices. High purity metal powders enable the production of biocompatible, precision engineered components through additive manufacturing and metal injection molding.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Various metals are compatible with 3D printing, including stainless steel, titanium, aluminum, nickel alloys, cobalt-chrome, copper, and precious metals like gold and silver.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Source: Fact.MR analysis, based on proprietary forecasting model and primary research.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "introduced new Metallic Membrane cartridge filters for chemical, pharmaceutical and food-processing applications. These filters provide up to",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "These forecasts, generated by IDTechEx analysts, go far beyond what is publicly available and is based upon an extensive number of primary interviews, providing the most important information to the reader. Over 100 company profiles are included as part of this report; this includes key OEMs, disruptive start-ups, incumbent powder providers, and emerging material companies.",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "OEM AM Strategy - GE Aerospace and Colibrium Additive",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "OEM AM Strategy - Airbus",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "OEM AM Strategy - Boeing",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "OEM AM Strategy - Rolls-Royce",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "If you are a reseller/distributor please",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace leads by Application with 44.2% share in 2026, driven by commercial and military aircraft engine component serial production and satellite structural part qualification programmes at major OEMs.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The China Metal Powder Market will grow at a CAGR of 6.7% through 2036. Powder metallurgy component production driven by domestic OEM cost advantages and industrial upgrading policy. The world's largest automotive manufacturing base creates proportional demand for the ferrous metal powder.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR support is strongest in the short term because PM producers can monetize installed press-and-sinter capacity quickly when OEM build schedules improve, especially in APAC and North America, while Europe contributes more selectively as its automotive base remains comparatively slower-growing.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EU, Japan, North America, China OEM belt",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "when incoming powder lots vary, and forcing OEM suppliers to redesign surcharge clauses, dual-source additive packages, and monthly rather than quarterly feedstock indexation to keep program economics stable.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "There are some overarching trends for new entrants as they try to find gaps in the market. Low-cost variants, printers pushing the size extremes from micro to very large scales, faster rates, and those exploiting alternative forms of feedstocks are all rapidly emerging and assessed.",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Developments in PBF and DED: Low-cost printers",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Signal - Commodity Pricing",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. World Bank Group. (2025, April). Commodity Markets Outlook: Persistence of High Interest Rates Weighs on Commodity Markets. World Bank. https://openknowledge.worldbank.org/handle/10986/41531",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The segment of medical & dental applications is expected to experience the highest revenue growth rate of 27.4%, in terms of volume over the forecast period. Several medical companies use 3D printing for various medical application purposes. Monogram, for instance, uses 3D printing to develop orthopedic implants. Open Bionics also developed robotic prosthetics using 3D printing that are low-cost.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in January 2026, while commodity prices rose",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "Order in a Subscription",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Access More With an IDTechEx Subscription",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between a report and subscription?",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "A subscription from IDTechEx can include more reports, access to an online information platform with continuously updated information from our analysts, and access to analysts directly.",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "Rising geopolitical tensions have pushed countries to increase and upgrade their aerospace & defense equipment, which is expected to augment consumption of the product over the forecast period. For instance, the German government has invested EUR 10 billion (USD 10.83 billion) to purchase F-35 fighter jets from the U.S.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size represents the apparent consumption of metal powder-in various applications.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Powder Consumption Intensity Layer",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "For report inquiries, custom research, subscriptions and other market intelligence requirements.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market-Sizing and Forecasting: A hybrid bottom-up and scenario-based forecasting model was applied, starting from installed additive manufacturing system fleet data by region, calibrated against observed annual powder consumption rates per platform class, and adjusted for application-specific adoption curves reflecting qualification cycle durations and reimbursement recognition timelines.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription Datasets and Paid Sources",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Production and Consumption Statistics",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Driven by expanding automotive powder metallurgy demand for lightweight and high-strength sintered components, growing metal additive manufacturing powder consumption for aerospace and medical applications, and increasing adoption of specialty alloy powders for electronics, surface coating, and metal injection molding, with ferrous metal powders accounting for",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The transition of additive manufacturing from prototyping to series production results in an exponential growth of powder consumption as each production AM system consumes several tons of powder per year.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The largest single consumption channel for metal powders is the automotive industry with 33.8% of end-use share.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial upgrading policies support the adoption of PM and AM technologies driving powder consumption.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "How is additive manufacturing transition to series production changing powder consumption patterns?",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand analysis based on automotive PM component production, additive manufacturing system installed base, surface coating consumption, and MIM part volumes.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market sizing covers 30+ countries with inputs including automotive PM production, AM system installations, surface coating consumption, and MIM part volumes.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid demand-side and top-down methodology built on automotive PM production, AM installations, surface coating consumption, and primary interviews",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the total global consumption.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Production and consumption are significantly concentrated in North America and Asia-Pacific, which together account for the majority of global powder metallurgy manufacturing capacity and end-use demand. North America leads in high-value aerospace, defence, and",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", and recurring revenue from qualification support, reuse analytics, and digital material files can add",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of total global consumption a leadership position built on the region’s deeply integrated advanced manufacturing ecosystem, world-class aerospace and defence industries, and one of the most technically mature and demanding automotive sectors in the world.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "アイディーテックエックス株式会社 (IDTechEx日本法人)",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., Canada, Mexico, Germany, Italy, Spain, China, India, Japan, South Korea, Brazil",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metal Powder Market",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "China, India, South Korea, Japan, Germany, U.S., Italy, UK, ANZ, France, 30 plus countries",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "powder-forged connecting rods have been manufactured for light-duty vehicles in the U.S., Europe and Japan.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "According to the Japan Powder Metallurgy Association, the average weight of sintered components used per vehicle reached",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan and South Korea remain key technology leaders in precision metal injection moulding and advanced sintering technologies, while emerging manufacturing bases across India, Southeast Asia, and Eastern Europe are gradually expanding local powder metallurgy capabilities through industrial policy support and foreign investment.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., EU, Japan, Korea, China industrial clusters",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EU core, U.S., Canada, Australia, Japan",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EU, Japan, North America, China OEM belt",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America core, EU, Japan, India",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EU core, North America, Japan",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., EU, Japan, India",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EU, U.S., Japan",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Germany, Japan, U.S. Midwest, Central Europe, China coastal clusters",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe powder plants, Japan/Korea import-energy markets, India retrofit sites blogs.",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "– China, Japan, South Korea, India, ASEAN & Rest of APAC;",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "Metal Powder Market Size & Share Report, 2026-2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global metal powder market size was valued at USD 7.7 billion in 2025 and is projected to grow from USD 8.6 billion in 2026 to USD 13.6 billion by 2033, at a CAGR of 6.8% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 35.5% in 2025. Increasing demand for additive manufacturing (AM) components from the aerospace industry is driving market growth.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 7.7 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026: USD 8.6 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033: USD 13.6 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rising geopolitical tensions have pushed countries to increase and upgrade their aerospace & defense equipment, which is expected to augment consumption of the product over the forecast period. For instance, the German government has invested EUR 10 billion (USD 10.83 billion) to purchase F-35 fighter jets from the U.S.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7.7 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8.6 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 13.6 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.70 billion",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.85 billion",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5.70 billion",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is forecast to reach USD 5.70 billion by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market was estimated at USD 0.70 billion in 2025.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 0.85 billion in 2026.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The forecast period represents an incremental opportunity of USD 4.85 billion.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.85 billion to USD 5.70 billion, at a CAGR of 21.0%",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Million) Analysis, 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Current and Future Market Size Value (USD Million) Projections, 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Million) Analysis By Manufacturing Technique , 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Current and Future Market Size Value (USD Million) Analysis and Forecast By Manufacturing Technique , 2026 to 2036",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Million) Analysis By Material, 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Metal Market Size, Share | CAGR of 23.6%",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 20.0 billion by 2033,",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.4 billion in 2023",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "This market demand is expected to grow on account of increased investments from 3D printer companies. Mantle Inc, a 3D component manufacturer, raised US$25 million in funding to install commercial 3D printers in 2022.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "It has produced more than 1 million parts to be used in medical devices, dishwasher components, and deodorant packaging. The company’s TrueShape 3D printer technology has improved lead times and reduced costs by about 65% during production.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D Printing Metal market is set to skyrocket, with an expected worth of USD 20.0 billion by 2033 from USD 2.4 billion in 2023, exhibiting a remarkable CAGR of 23.6% during 2023-2033.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Increased investments from 3D printer companies are propelling market demand. For instance, Mantle Inc. secured US$25 million funding in 2022, enhancing production efficiency and reducing costs by approximately 65%.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The powder form is the largest segment scope in this market size, with a revenue share greater than 89.3%. The properties of metal powder particles are affected by a variety of parameters. These parameters not only affect the additive build process but also the properties of the final component.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.4 Billion",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 20.0 Billion",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 9.1 billion",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 18.8 billion",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the global Metal Powder Market was valued at approximately USD 8.5 billion.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is estimated to reach USD 9.1 billion in 2026 and is projected to attain USD 18.8 billion by 2036.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is anticipated to create an absolute dollar opportunity of USD 9.7 billion between 2026 and 2036.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026 powder metallurgy components will be valued at 37.9% of the application segment. The highest volume of powder is consumed by automotive transmission gears, engine bearings and structural parts produced by pressing and sintering processes.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global and regional market size and forecasts for 2026 to 2036 across product, production method, particle size, application, end use, and region.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 9.1 billion to USD 18.8 billion, at a CAGR of 7.5%",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global metal powder market is estimated to be valued at USD 9.1 billion in 2026.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size for the metal powder market is projected to reach USD 18.8 billion by 2036.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Powder Metallurgy Market Size, Share | CAGR of 12.6%",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "341,420 metric tonnes",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "1.5 billion",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3% to 183,625 tonnes in 2014",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "3.9% to 13,987 tonnes",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "197,612 tonnes in 2014",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "EUR 280 million",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "14,000 tonnes in 2014",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "US$3.1 billion",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "US$15.2 billion",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.09 billion",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.1 billion",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15.2 billion",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "安全・規制・保管": [
+   {
+    "quote": "Identification of high growth opportunities across metal additive manufacturing, electric vehicle components, aerospace parts, medical implants, industrial tooling, energy storage technologies, precision engineering, and lightweight component manufacturing.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal powder market size was estimated at USD 7.7 billion in 2025 and is expected to reach USD 8.6 billion in 2026.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The metal powder market is expected to grow at a compound annual growth rate of 6.8% from 2026 to 2033 to reach USD 13.6 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, projected to reach",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is forecast to reach USD 5.70 billion by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 0.85 billion in 2026.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The additive manufacturing with metal powders market size is projected to reach USD 5.698 billion by 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is estimated to reach USD 9.1 billion in 2026 and is projected to attain USD 18.8 billion by 2036.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size for the metal powder market is projected to reach USD 18.8 billion by 2036.",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "North American Shipments: In 2023, North American metal-powder shipments reached",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", reaching an estimated value of",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "and is estimated to reach",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "According to the Japan Powder Metallurgy Association, the average weight of sintered components used per vehicle reached",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2026, the Metal Powder Industries Federation reported that estimated North American iron and steel powder shipments reached",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   },
+   {
+    "quote": ", and Asia-Pacific production increased 7.6% to around 59.2 million vehicles, with China reaching",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "The powder form is the largest segment scope in this market size, with a revenue share greater than 89.3%. The properties of metal powder particles are affected by a variety of parameters. These parameters not only affect the additive build process but also the properties of the final component.",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Powder metallurgy remains unusually exposed to alloy-input instability because atomized iron, copper, nickel, molybdenum, and specialty additions are purchased into a process window where chemistry drift of even",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.4",
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "quote": "Revenues from metal 3D printing hardware and materials will grow at a CAGR of 10.4% from 2025-2035."
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "quote": "The global metal powder market size was valued at USD 7.7 billion in 2025 and is projected to grow from USD 8.6 billion in 2026 to USD 13.6 billion by 2033, at a CAGR of 6.8% from 2026 to 2033. Asia Pacific dominated the market, accounting for a revenue share of 35.5% in 2025. Increasing demand for "
+   },
+   {
+    "value": "21.0",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "The market is expected to grow at a CAGR of 21.0% from 2026 to 2036."
+   },
+   {
+    "value": "26.3",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "India is the fastest-growing market at a CAGR of 26.3%, followed by China at 28.4% and Germany at 24.2%."
+   },
+   {
+    "value": "23.6",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "quote": "3D Printing Metal Market Size, Share | CAGR of 23.6%"
+   },
+   {
+    "value": "26.2",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "quote": "Asia Pacific leads the market share (32.5%), with Europe projected to experience the fastest CAGR (26.2%) from 2023-2032. Countries like the UK and India are adopting 3D printing technology for aerospace and medical applications."
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "quote": "The metal powder market is likely to expand at a CAGR of 7.5% during the forecast period."
+   },
+   {
+    "value": "6.7",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "quote": "The China Metal Powder Market will grow at a CAGR of 6.7% through 2036. Powder metallurgy component production driven by domestic OEM cost advantages and industrial upgrading policy. The world's largest automotive manufacturing base creates proportional demand for the ferrous metal powder."
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "quote": "India Metal Powder Market is expected to grow at a CAGR of 6.4% by 2036. PLI schemes and Make in India manufacturing incentives are fueling growth in automotive component production. Iron and steel powders are needed to develop the domestic PM industry."
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "quote": "The Germany Metal Powder Market is expected to grow at a CAGR of 5.5% through 2036. “Industrie 4.0 in conjunction with DIN/EU standards is the specification-intensive market for metal powders. Automotive and aerospace PM components are manufactured to meet the demand from existing channels."
+   },
+   {
+    "value": "12.6",
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "quote": "Powder Metallurgy Market Size, Share | CAGR of 12.6%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "46.5",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "The powder bed segment is projected to account for 46.5% of the additive manufacturing with metal powders market revenue in 2026, maintaining its position as the leading manufacturing technique. Its dominance has been built on the ability to produce highly detailed and structurally sound components "
+   },
+   {
+    "value": "39.7",
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "quote": "The alloy segment is projected to capture 39.7% of the additive manufacturing with metal powders market revenue in 2026, leading due to its versatility and enhanced performance characteristics. Alloys such as titanium, nickel, and aluminum-based blends have been favored for their strength-to-weight "
+   },
+   {
+    "value": "29.6",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "quote": "Aerospace and defense currently occupy the largest market share (29.6%), leveraging 3D printing for quicker production of complex components. Medical and dental applications are expected to witness a growth rate of 27.4%."
+   },
+   {
+    "value": "27.4",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "quote": "Aerospace and defense currently occupy the largest market share (29.6%), leveraging 3D printing for quicker production of complex components. Medical and dental applications are expected to witness a growth rate of 27.4%."
+   },
+   {
+    "value": "32.5",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "quote": "Asia Pacific leads the market share (32.5%), with Europe projected to experience the fastest CAGR (26.2%) from 2023-2032. Countries like the UK and India are adopting 3D printing technology for aerospace and medical applications."
+   },
+   {
+    "value": "26.2",
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "quote": "Asia Pacific leads the market share (32.5%), with Europe projected to experience the fastest CAGR (26.2%) from 2023-2032. Countries like the UK and India are adopting 3D printing technology for aerospace and medical applications."
+   },
+   {
+    "value": "37.9",
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "quote": "Powder metallurgy components are the leading application with 37.9% share, driven by automotive sintered part production."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/1610064",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2917686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/study/metal-3dprinter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/powder-metallurgy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9427473",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/metal3dprinting-221108/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-101458",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/2541579",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1610064",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/market-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/additive-manufacturing-am-metal-powder-market-122820",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/news/1224/additive-manufacturing--am--metal-powder",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/global-metal-powder-am-mim-mrc-pf6otb100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31176494/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1217243.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.119kawagoechiku.jp/index/sinsei/yobousinsei/kikenbutudata/kikenbutushinsakijyun/HP/343.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://qyresearch-news.hatenadiary.jp/entry/2023/11/17/112219",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch.hatenadiary.com/entry/2026/06/12/142349",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9786454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/3202/metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/powder-metallurgy-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ampower.eu/studies/addressable-market-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） 市場規模 CAGR",
+   "results": [
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://newscast.jp/smart/news/1610064",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://www.atpress.ne.jp/news/2917686",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://www.reportocean.co.jp/industry-reports/japan-metal-powder-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-101458",
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.businessresearchinsights.com/jp/market-reports/additive-manufacturing-am-metal-powder-market-122820"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） 価格",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://newscast.jp/smart/news/1610064",
+    "https://news.sharelab.jp/study/metal-3dprinter/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://straitsresearch.com/jp/report/powder-metallurgy-market",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.atpress.ne.jp/news/9427473",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "https://www.dreamnews.jp/press/0000367500",
+    "https://www.yhresearch.co.jp/news/1224/additive-manufacturing--am--metal-powder"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） 主要メーカー 一覧",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://straitsresearch.com/jp/report/metal-additive-manufacturing-market",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://news.sharelab.jp/3dp-news/report/metal3dprinting-221108/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-101458",
+    "https://www.atpress.ne.jp/news/2541579",
+    "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://www.coherentmarketinsights.com/ja/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E5%B8%82%E5%A0%B4",
+    "https://qyresearch-news.hatenadiary.jp/entry/2023/11/17/112219"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） 代理店 日本",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://newscast.jp/smart/news/1610064",
+    "https://www.atpress.ne.jp/news/1610064",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "https://www.nttdata-xam.com/am/",
+    "https://www.businessresearchinsights.com/jp/market-reports/additive-manufacturing-am-metal-powder-market-122820"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） 規制 保管 危険物",
+   "results": [
+    "https://newscast.jp/smart/news/1610064",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.atpress.ne.jp/news/1610064",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://japan.cnet.com/release/31176494/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1217243.html",
+    "https://www.119kawagoechiku.jp/index/sinsei/yobousinsei/kikenbutudata/kikenbutushinsakijyun/HP/343.pdf",
+    "https://www.businessresearchinsights.com/jp/market-reports/additive-manufacturing-am-metal-powder-market-122820"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） 純正 指定材料 互換",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://newscast.jp/smart/news/1610064",
+    "https://straitsresearch.com/jp/report/powder-metallurgy-market",
+    "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "https://news.sharelab.jp/market-trends/",
+    "https://www.atpress.ne.jp/news/1610064",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.yhresearch.co.jp/news/1224/additive-manufacturing--am--metal-powder"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation market size CAGR",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://growthmarketreports.com/report/metal-am-powder-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation price per kg",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://market.us/report/powder-metallurgy-market/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://ampower.eu/studies/addressable-market-for-additive-manufacturing/",
+    "https://www.sphericalinsights.com/our-insights/metal-additive-manufacturing-market"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation key players",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://www.polarismarketresearch.com/industry-analysis/metal-powder-market",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market",
+    "https://growthmarketreports.com/report/metal-am-powder-market"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation distributor Japan",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://market.us/report/powder-metallurgy-market/",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://www.linkedin.com/pulse/additive-manufacturing-metal-powder-5n6of",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.maximizemarketresearch.com/market-report/global-metal-powders-for-additive-manufacturing-market/63568/",
+    "https://www.datamarketanalysis.com/reports/metal-am-powder-market-size-forecast"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation safety storage regulation",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://www.imarcgroup.com/aluminium-powder-manufacturing-plant",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://www.sciencedirect.com/science/article/pii/S0264127521005633",
+    "https://www.metal-am.com/articles/safety-management-in-metal-3d-printing/",
+    "https://www.verifiedmarketreports.com/product/additive-manufacturing-am-metal-powder-market/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation closed system open material third-party",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/global-additive-manufacturing-and-material-market-industry",
+    "https://www.grandviewresearch.com/industry-analysis/3d-printing-powder-market-report",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://evolvancemarketresearch.com/reports/metal-additive-manufacturing-market/",
+    "https://ampower.eu/studies/addressable-market-for-additive-manufacturing/",
+    "https://www.metal-am.com/articles/predicting-the-metal-additive-manufacturing-market-and-breaking-the-hype-cycle/",
+    "https://additive-manufacturing-report.com/additive-manufacturing-market/",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.maximizemarketresearch.com/market-report/global-metal-powders-for-additive-manufacturing-market/63568/",
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation commodity price competition",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://market.us/report/powder-metallurgy-market/",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.polarismarketresearch.com/industry-analysis/metal-powder-market",
+    "https://www.linkedin.com/pulse/additive-manufacturing-metal-powder-5n6of",
+    "https://growthmarketreports.com/report/metal-am-powder-market"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation technical support parameters",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/metal-powder-market",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.factmr.com/report/3202/metal-powder-market",
+    "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/metal-powder-market-101458",
+    "https://www.linkedin.com/pulse/unlocking-potential-metal-powder-additive-manufacturing-asfcc",
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.polarismarketresearch.com/industry-analysis/metal-powder-market",
+    "https://www.coherentmarketinsights.com/industry-reports/metal-additive-manufacturing-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方）",
+   "results": [
+    "https://note.com/qy_research/n/n6f814bd84d2d",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/hgrx/n/ne327ff650d1a",
+    "https://note.com/good_dill292/n/nee8a8fb8e7b9",
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7",
+    "https://note.com/ryusun_ryusun/n/n71ed3580ec07",
+    "https://note.com/amagasaki_mono/n/nb28574712966",
+    "https://note.com/yuto_matsuura/n/nb44bffd84919",
+    "https://note.com/castem/n/n9b48cb80f1d4",
+    "https://note.com/tag/%E3%83%81%E3%82%BF%E3%83%B3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方）",
+   "results": [
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/jampt_official",
+    "https://x.com/TCTJapan",
+    "https://x.com/AIST_JP/status/2095814428310622586",
+    "https://x.com/MTStokyoCEC",
+    "https://x.com/serakota/status/1847238727216836826",
+    "https://x.com/AIST_JP/status/2119022521861214255",
+    "https://x.com/luigi_jpn/status/2050759470628868126",
+    "https://x.com/omu_shibaken/status/1977630388978876436",
+    "https://x.com/Ryukakusan_PR/status/1597476534536634368"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方）",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%90%83%E9%9D%A2%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E5%90%88%E9%87%91%E7%B2%89%E6%9C%AB%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A8%E5%BC%B7%E3%81%BF-petrostrata-analytics-hpwlf",
+    "https://www.linkedin.com/posts/takafumi-kuramoto-326b54b5_%E3%82%A4%E3%83%B3%E3%83%89%E9%9B%BB%E5%8B%95%E5%8C%96%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B1%95%E6%9C%9B%E3%81%A8%E7%8F%BE%E8%AA%BF%E5%8C%96%E3%82%92%E5%BE%8C%E6%8A%BC%E3%81%97%E3%81%99%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%83%8F-activity-7504459158599938048-1X3I",
+    "https://www.linkedin.com/jobs/XA42K--%EC%9B%94%EA%B8%89%EB%86%92%EC%9D%80%EC%95%8C%EB%B0%94%20%E3%83%B5%ED%85%94%EB%A0%88%20akak736%E3%83%B5%20%EC%9B%94%EA%B8%89%EB%86%92%EC%9D%80%EC%95%8C%EB%B0%94/-jobs/?position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/%EB%AA%85%EC%A7%80%EB%8C%80%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0%EC%A0%9C%EC%9E%91%20%E2%82%AC%20%20%E3%89%B8%ED%86%A1%20:%20N666%20%ED%85%94%EB%A0%88%20:%20VCD777%20%EF%BF%A0%20%20%EA%B1%B0%EC%A0%9C%EA%B3%B5%EC%97%85%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91%EC%9C%84%EC%A1%B0.loe-jobs",
+    "https://www.linkedin.com/jobs/%E5%BE%B7%E5%9B%BD%E6%9D%AF%E7%9B%B4%E6%92%AD%E6%8B%9C%E4%BB%81%E7%9B%B4%E6%92%AD%E8%8B%B1%E8%B6%85%E7%9B%B4%E6%92%AD%E6%9B%BC%E8%81%94%E5%85%8D%E8%B4%B9%E5%85%8D%E8%B4%B9%E7%AF%AE%E7%90%83%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD%E8%A7%82%E7%9C%8B%E8%B6%B3%E7%90%83%E7%9B%B4%E6%92%AD%E5%9C%A8%E7%BA%BF%E7%9B%B4%E6%92%AD%E4%B8%AD-jobs",
+    "https://www.linkedin.com/jobs/abo1s-%EC%B2%9C%EC%95%88%EC%8B%9C%EC%9B%90%ED%95%9C%EC%88%A0-%E3%83%A3%ED%85%94%EB%A0%88%40bazzi104%E3%83%A3-%EC%B2%9C%EC%95%88%EC%8B%9C%EC%9B%90%ED%95%9C%EC%88%A0-20260828-jobs",
+    "https://www.linkedin.com/jobs/%ED%86%B5%EC%9E%A5%EC%9E%94%EC%95%A1%EC%A0%9C%EC%9E%91%20%E2%97%8E%20%20%E3%89%B8%ED%86%A1%20:%20F999%20%E2%98%92%20%20%EA%B0%80%EC%95%BC%EB%8C%80%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0%EC%A0%9C%EC%9E%91.dja-jobs",
+    "https://www.linkedin.com/jobs/%EC%88%98%EC%9E%85%EB%86%92%EC%9D%80%EC%95%8C%EB%B0%94-%E3%83%B5%ED%85%94%EB%A0%88-akak736%E3%83%B5-%EC%88%98%EC%9E%85%EB%86%92%EC%9D%80%EC%95%8C%EB%B0%94-20260902-jobs",
+    "https://www.linkedin.com/jobs/%EC%98%81%EC%B2%9C%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0%EC%A0%9C%EC%9E%91%20%E2%98%81%20%20%E3%89%B8%ED%86%A1%20:%20N666%20%ED%85%94%EB%A0%88%20:%20VCD777%20%E2%98%82%20%20%ED%86%B5%EC%9E%A5%EA%B1%B0%EB%9E%98%EB%82%B4%EC%97%AD%EC%84%9C%EC%9C%84%EC%A1%B0%20%EC%A0%84%EB%AC%B8%20%EC%97%85%EC%B2%B4.ykf-jobs?position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/%EC%B6%A9%EB%B6%81%EC%97%AC%EC%9E%90%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%9C%84%EC%A1%B0%EC%A0%9C%EC%9E%91%20%E2%9C%A8%20%20%EC%B9%B4%ED%86%A1ID%20:%20N666%20%ED%85%94%EB%A0%88%20:%20VCD777%20%E2%9C%B3%EF%B8%8F%20%20%ED%8F%AC%ED%95%AD%EC%83%81%EC%97%85%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%EC%A1%B8%EC%97%85%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91%EC%9C%84%EC%A1%B0.ggz-jobs/?position=1&pageNum=0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方）",
+   "results": [
+    "https://www.facebook.com/3Dprinter.co.jp/posts/%E6%96%B0%E5%8F%96%E6%89%B1%E7%99%BA%E8%A1%A8%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%97%A5%E6%9C%AC3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%81%AAam%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8Bfarsoon-technologies%E7%A4%BE%E3%81%AE%E7%94%A3%E6%A5%AD%E7%94%A8%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A1%E3%82%BF%E3%83%ABlpbf/1661730319289885/",
+    "https://www.facebook.com/3Dprinter.co.jp/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E5%A4%A7%E9%98%AA%E3%81%AB%E3%81%A6101%E6%B0%B4-103%E9%87%91-%E3%81%AE3%E6%97%A5%E9%96%93%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E6%AC%A1%E4%B8%96%E4%BB%A33d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E5%B1%95%E3%81%8C%E7%84%A1%E4%BA%8B%E7%B5%82%E4%BA%86%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E4%BC%9A%E6%9C%9F%E4%B8%AD%E3%81%AF%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E3%81%AE%E6%96%B9%E3%81%AB%E5%BC%8A%E7%A4%BE%E3%83%96%E3%83%BC%E3%82%B9%E3%81%B8%E3%81%8A%E7%AB%8B%E3%81%A1%E5%AF%84%E3%82%8A%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E8%AA%A0%E3%81%AB%E3%81%82%E3%82%8A%E3%81%8C/1408935111236075/",
+    "https://www.facebook.com/3Dprinter.co.jp/posts/%E9%A3%9F%E5%93%81%E3%81%AE%E5%AE%89%E5%85%A8%E3%81%AF%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%AB%E7%9B%B4%E6%8E%A5%E9%96%A2%E3%82%8F%E3%82%8B%E9%87%8D%E8%A6%81%E3%81%AA%E8%AA%B2%E9%A1%8C%E3%81%A7%E3%81%993d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%82%AA%E3%83%B3%E3%83%87%E3%83%9E%E3%83%B3%E3%83%89%E7%94%9F%E7%94%A3%E3%81%AF%E3%81%9D%E3%81%AE%E6%9F%94%E8%BB%9F%E6%80%A7%E3%81%8B%E3%82%89%E6%A7%98%E3%80%85%E3%81%AA%E6%A5%AD%E7%95%8C%E3%81%A7%E6%B4%BB%E7%94%A8%E3%81%95%E3%82%8C%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E9%A3%9F%E5%93%81%E5%8C%85%E8%A3%85%E3%82%84%E3%82%AB%E3%83%88%E3%83%A9%E3%83%AA%E3%83%BC%E8%AA%BF/976557467807177/",
+    "https://www.facebook.com/aspect.3Dprinter/",
+    "https://www.facebook.com/groups/1451437808441709/",
+    "https://www.facebook.com/tohotechnology/",
+    "https://www.facebook.com/ryusen117/posts/%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%82%92%E4%BA%94%E6%84%9F%E3%81%A7%E5%91%B3%E3%82%8F%E3%81%84%E6%A5%BD%E3%81%97%E3%82%80%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E6%89%80%E4%BD%9C-%E3%81%93%E3%81%AE%E5%AD%A3%E7%AF%80%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%8A%E3%82%A4%E3%83%95%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E6%89%80%E4%BD%9C%E3%83%8A%E3%82%A4%E3%83%95%E8%A1%A8%E9%9D%A2%E3%81%AB%E3%83%95%E3%83%83%E7%B4%A0%E6%A8%B9%E8%84%82%E3%82%B3%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92%E6%96%BD%E3%81%97%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%E3%81%AE%E3%82%B3/1174400881360716/",
+    "https://www.facebook.com/groups/1630271274388414/posts/2314830505932484/",
+    "https://www.facebook.com/jpShareLab/posts/金属am市場2034年に9兆円規模へvoxelmattersが最新市場レポートを公開金属積層造形分野の専門調査会社voxelmattersは2025年に向けた最/1288246973302792/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） note 社長",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://newscast.jp/smart/news/1610064",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://www.atpress.ne.jp/news/1610064",
+    "https://straitsresearch.com/jp/report/powder-metallurgy-market",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "https://note.com/qy_research/n/n6f814bd84d2d",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-101458",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属AM粉末の市場予測の算出方法（調査概要・対象範囲・年率の取り方） X 投稿",
+   "results": [
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://newscast.jp/smart/news/1610064",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://news.sharelab.jp/category/3dp-news/report/",
+    "https://www.meti.go.jp/meti_lib/report/2025FY/080824/report_202608241049_0.pdf",
+    "https://www.atpress.ne.jp/news/9427473",
+    "https://www.idtechex.com/ja/research-report/metal-additive-manufacturing/1097",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://www.marketresearch.co.jp/global-metal-powder-am-mim-mrc-pf6otb100/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal AM powder market report methodology scope CAGR calculation site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/additive-vs-subtractive-manufacturing-what-who-leads-sami-9jfie",
+    "https://www.linkedin.com/posts/koen-binnemans_additivemanufacturing-3dprinting-solventextraction-activity-7514062576247291904-PnXM",
+    "https://il.linkedin.com/in/eduardo-napadensky-31107a23",
+    "https://au.linkedin.com/in/abolfazl-malti-435729201",
+    "https://www.linkedin.com/in/gauthier-deblonde",
+    "https://in.linkedin.com/in/prashant-karpe-240519149",
+    "https://in.linkedin.com/in/dr-prasanth-kumar-enaganti-809aaa120",
+    "https://www.linkedin.com/in/thaer-syam-37694b181",
+    "https://il.linkedin.com/in/barak-rosenberg-453921103",
+    "https://au.linkedin.com/in/jeffrey-lang-1a531124"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {}
+}

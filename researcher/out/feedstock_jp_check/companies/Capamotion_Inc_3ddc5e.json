@@ -1,0 +1,520 @@
+{
+ "name": "Capamotion Inc",
+ "aliases": [
+  "NEOKTON"
+ ],
+ "context": "フィラメント",
+ "researched_at": "2026-11-09T07:55:34.616365+00:00",
+ "official_url": "https://capamotion.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "規模・親会社": [
+   {
+    "quote": "Immomar Group Inc. · Groupe Immomar Inc.",
+    "url": "https://www.federalcorporation.ca/corporation/10755486",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CAPAMOTION INC. | Canada Corporation Directory — CAPAMOTION INC. is a Non-distributing corporation with 50 or fewer shareholders corporation type, which located at 5550 Rue Fullum #519 Montréal QC H2G 2H4 Canada. It was registered on 01-Jun-2018, the corporation's bn is 751036518RC0001 and corporation number is 10755486. There is one director of this company. This corporation record status is : Ac",
+    "url": "https://www.canadacompanyregistry.com/companies/capamotion-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Capamotion Inc. · 5550 Rue Fullum #519, Montréal, QC H2G 2H4 — CAPAMOTION INC. is a federal corporation in Montréal incorporated with Corporations Canada, a division of Innovation, Science and Economic Development (ISED) Canada. The entity was incorporated on June 1, 2018 with corporation #10755486. The current entity status is . The registered office location is at 5550 Rue Fullum #519, Montréal,",
+    "url": "https://opengovca.com/corporation/10755486",
+    "pass": 3
+   },
+   {
+    "quote": "Capamotion Inc. - Federal Corporation — CAPAMOTION INC. is a federal corporation in Montréal, Quebec incorporated with Corporations Canada, a division of Innovation, Science and Economic Development (ISED) Canada. The entity was incorporated on June 1, 2018 with corporation #10755486. The current entity status is . The registered office location is at 5550 Rue Fullum #519, Montréal, QC H2G 2H4. Th",
+    "url": "https://www.federalcorporation.ca/corporation/10755486",
+    "pass": 3
+   },
+   {
+    "quote": "Capamotion Inc - Facebook — Apr 27, 2023 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/Capamotion-Inc-101136812977531/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://capamotion.com",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://sensirion.com/jp/products/representatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3428",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.portescap.com/ja-jp/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/distributor-locator",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siliconmotion.com/jp/support/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canadacompanyregistry.com/companies/capamotion-inc/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://opengovca.com/corporation/10755486",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federalcorporation.ca/corporation/10755486",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Capamotion-Inc-101136812977531/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cap-inc.co.jp/international/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.copa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.catalent.com/our-locations/north-america/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cabotcorp.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vITIL1_7eXcAakg5zCuOhCifgc8LXwR0LhK4BR5yiE8S9XVgyWa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fagorautomation.com/en/captain-industries-inc-distributor-in-japan-for-fagor-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvoton.co.jp/en/products/disti/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techmation.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pekatvision.com/tietech-new-distributor-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fagorautomation.com/en/captain-industries-inc-distributor-in-japan-for-fagor-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y1992/m06/cisco-opens-japanese-subsidiary.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvoton.co.jp/en/products/disti/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01337287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00492133/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/08508393/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/capmation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bullfincher.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/capvision/356986876",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Cabot",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Capamotion Inc 代理店",
+   "results": [
+    "https://sensirion.com/jp/products/representatives",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3428",
+    "https://www.portescap.com/ja-jp/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/distributor-locator",
+    "https://www.siliconmotion.com/jp/support/sales",
+    "https://metoree.com/companies/2259/distributors/",
+    "https://www.imimed.co.jp/int/productnavi/csz/",
+    "https://www.cosmobio.co.jp/agency/index.asp?maker_name=S",
+    "https://anoison.com/ja/contact/reps/",
+    "https://www.twinmotion.com/resellers?lang=ja",
+    "https://www.canadacompanyregistry.com/companies/capamotion-inc/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Capamotion Inc 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.canadacompanyregistry.com/companies/capamotion-inc/",
+    "https://opengovca.com/corporation/10755486",
+    "https://www.federalcorporation.ca/corporation/10755486",
+    "https://www.facebook.com/Capamotion-Inc-101136812977531/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://www.instagram.com/kpopusaonline/",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capamotion Inc 日本 販売",
+   "results": [
+    "https://www.cap-inc.co.jp/international/",
+    "https://www.copa.co.jp/",
+    "https://japan.catalent.com/our-locations/north-america/",
+    "https://www.cabotcorp.jp/company",
+    "https://pocamarket.com/ja/search/detail/21815",
+    "https://www.cosmobio.co.jp/ir/pdf/oth_20070919.pdf",
+    "http://www.eiwabussan.com/product/electrolysis02.html",
+    "https://otsumu.co.jp/knowledge/cases/exel-cabometyx-us-sales-ex-us-royalty.html",
+    "https://www.canadacompanyregistry.com/companies/capamotion-inc/",
+    "https://ca.linkedin.com/in/jean-françois-aubriot-75988354"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Capamotion Inc フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vITIL1_7eXcAakg5zCuOhCifgc8LXwR0LhK4BR5yiE8S9XVgyWa",
+    "https://shop.exmatelab.com/",
+    "https://www.3dpc.co.jp/hardware-sales",
+    "https://shop.sin.jp/c-item-list?category_id=86&srsltid=AYCX9vLgQz1MlgjyEnUfc2UObP2cDXh-3HW4o30uM1F0WRcp-4b4qI_G",
+    "https://www.amazon.co.jp/%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88-%E3%83%AC%E3%83%83%E3%83%89PETG%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-CC3D-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E5%AF%BE%E5%BF%9C/dp/B082WW77WD",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://uspto.report/TM/97805562"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Capamotion Inc Japan distributor",
+   "results": [
+    "https://fagorautomation.com/en/captain-industries-inc-distributor-in-japan-for-fagor-automation/",
+    "https://www.nuvoton.co.jp/en/products/disti/",
+    "http://www.techmation.com/distributors/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://capmation.com/",
+    "https://www.cabotcorp.com/company/worldwide-locations/asia-pacific/japan-tokyo",
+    "https://www.marketsandmarkets.com/ResearchInsight/asia-pacific-pharmacy-automation-market.asp",
+    "https://www.covestro.com/en/company/covestro-worldwide/japan/covestro-in-japan",
+    "https://www.phasemation.com/contact.html",
+    "https://www.canadacompanyregistry.com/companies/capamotion-inc/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Capamotion Inc distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.pekatvision.com/tietech-new-distributor-in-japan/",
+    "https://fagorautomation.com/en/captain-industries-inc-distributor-in-japan-for-fagor-automation/",
+    "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y1992/m06/cisco-opens-japanese-subsidiary.html",
+    "https://www.nuvoton.co.jp/en/products/disti/",
+    "https://www.power.com/company/sales/distributors/japan",
+    "https://www.cabotcorp.com/company/worldwide-locations/asia-pacific/japan-tokyo",
+    "https://bullfincher.io/ranking/top-tech-distributors-companies-in-japan-by-revenue",
+    "https://www.capstoneenergyplus.com/distributors/distributor-listing/profile/924/kanamoto-ltd",
+    "https://www.boston.us.emb-japan.go.jp/files/000095034.pdf",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Capamotion Inc",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://www.amazon.co.jp/RENPAI-レディース-ルームウェア-肌に優しい-ポケット付き/dp/B0FXLYRWDS",
+    "https://www.amazon.co.jp/出口夏希2nd写真集『タイトル未定』-出口-夏希/dp/4344046854"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Capamotion Inc",
+   "results": [
+    "https://www.monotaro.com/g/01337287/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/00492133/",
+    "https://www.monotaro.com/g/08508393/",
+    "https://www.monotaro.com/p/5095/8285/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/p/0999/5982/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Capamotion Inc employees revenue parent company",
+   "results": [
+    "https://www.linkedin.com/company/capmation",
+    "https://bullfincher.io/",
+    "https://www.zoominfo.com/c/capvision/356986876",
+    "https://growjo.com/company/Cabot",
+    "https://capmation.com/",
+    "https://www.konaequity.com/company/sectorlink-llc-4019804284/",
+    "https://www.owler.com/company/appsexpress",
+    "https://revenuebase.ai/companies/profiles",
+    "https://www.cascadiacapital.com/wp-content/uploads/Advanced-Manufacturing-Industry-Update-October-2024.pdf",
+    "https://www.canadacompanyregistry.com/companies/capamotion-inc/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Capamotion Inc",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Capamotion Inc",
+   "results": [
+    "https://jf.x.com/images/media-preview/2107454803261689974",
+    "https://about.x.com/en",
+    "https://business.x.com/en/advertising",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://help.x.com/en/using-x/create-x-account"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Capamotion Inc",
+   "results": [
+    "https://ca.linkedin.com/in/jean-fran%C3%A7ois-aubriot-75988354",
+    "https://www.linkedin.com/company/capmation",
+    "https://www.linkedin.com/pub/dir/Fran%C3%A7ois/Aubriot",
+    "https://br.linkedin.com/company/motionbranddesign",
+    "https://ca.linkedin.com/in/jean-françois-aubriot-75988354",
+    "https://www.linkedin.com/pub/dir/Jean-François/Aubriot",
+    "https://www.linkedin.com/pub/dir/François/Aubriot",
+    "https://www.linkedin.com/pub/dir/jean/aubriot",
+    "https://www.linkedin.com/check/en",
+    "https://www.linkedin.com/company/capsovision-inc-"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Capamotion Inc",
+   "results": [
+    "https://www.facebook.com/jfaubriot/?locale=fy_NL",
+    "https://www.facebook.com/afxprops/",
+    "https://www.facebook.com/groups/CAPAgroupphotos/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "Capamotion Inc note 社長",
+   "results": [
+    "https://note.com/kentakato212/m/me837e4663584",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://www.youtube.com/shorts/KLy9f-TGcmI",
+    "https://x.com/sadaaki",
+    "https://note.com/kentakato212/m/m2b89f11a6270",
+    "https://jp.linkedin.com/in/sadaakikato",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Capamotion Inc X 投稿",
+   "results": [
+    "https://capmation.com/",
+    "https://x.com/CapApp",
+    "https://capgym.github.io/",
+    "https://arxiv.org/html/2603.22435v1",
+    "https://www.youtube.com/watch?v=awgV-Ldc7h8",
+    "https://github.com/capgym/cap-x",
+    "https://www.capsincorporated.com/",
+    "https://apps.apple.com/us/app/6751210694?see-all=customers-also-bought-apps&platform=iphone",
+    "https://www.comotionglobal.com/",
+    "https://www.canadacompanyregistry.com/companies/capamotion-inc/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

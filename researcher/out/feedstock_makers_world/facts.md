@@ -1,4 +1,4 @@
-# 世界のAM原料メーカー一覧（形態別・地域別）— 社名・国・製品・日本の担い手（事実のみ・24品目）
+# 世界のAM原料メーカー一覧（形態別・地域別）— 社名・国・製品・日本の担い手（事実のみ・25品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -545,15 +545,15 @@
 
 ## SLS・MJF用樹脂粉末のメーカー（PA12・PA11・TPU・PP・PEEK）（SLS powder manufacturers PA12 PA11 TPU polypropylene PEEK powder suppliers）
 - 文脈：樹脂粉末
-- 会社名・一覧：記載なし（読んだ58頁・検索23回）
-- 創業年：記載なし（読んだ58頁・検索23回）
-- 資金調達・株主：記載なし（読んだ58頁・検索23回）
-- 年商・規模：記載なし（読んだ58頁・検索23回）
-- 日本の担い手：記載なし（読んだ58頁・検索23回）
-- 代理店募集・売り方：記載なし（読んだ58頁・検索23回）
-- 技術支援：記載なし（読んだ58頁・検索23回）
-- 展示会：記載なし（読んだ58頁・検索23回）
-- 価格：記載なし（読んだ58頁・検索23回）
+- 会社名・一覧：記載なし（読んだ60頁・検索23回）
+- 創業年：記載なし（読んだ60頁・検索23回）
+- 資金調達・株主：記載なし（読んだ60頁・検索23回）
+- 年商・規模：記載なし（読んだ60頁・検索23回）
+- 日本の担い手：記載なし（読んだ60頁・検索23回）
+- 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
+- 技術支援：記載なし（読んだ60頁・検索23回）
+- 展示会：記載なし（読んだ60頁・検索23回）
+- 価格：記載なし（読んだ60頁・検索23回）
 
 ## 光硬化レジンのメーカー（エンジニアリング・耐熱・タフ）（engineering photopolymer resin manufacturers SLA DLP LCD brands）
 - 文脈：レジン
@@ -1760,3 +1760,94 @@
 - 日本の担い手：記載なし（読んだ60頁・検索23回）
 - 代理店募集・売り方：記載なし（読んだ60頁・検索23回）
 - 技術支援：記載なし（読んだ60頁・検索23回）
+
+## 展示会出展者の材料メーカー（RAPID+TCT・TCT Asia・TCT 3Sixty・AMUG・TCT Japan）（RAPID TCT AMUG TCT Asia exhibitors materials filament resin powder）
+- 文脈：展示会
+- 会社名・一覧：
+  - 「The 3D printing trade show also highlights material extrusion printers, metal printing services, aluminum 3D printing, and 3D model printing solutions—making it an essential destination for professionals seeking reliable 3D printer expo exhibitors and future-ready manufacturing partners.」（https://en.tctasia.cn/exhibitiorlist.shtml）
+  - 「While most exhibitors will choose to catch us by surprise with their announcements, some have shared details ahead of time.」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「Details are scant, but the technology giant suggests its focus is on expanding access to 'true industrial production' and 'helping more manufacturers move beyond prototyping to scale.' Innovations designed to improve productivity and reduce cost per part can be expected, as can new capabilities made possible through proprietary HP technologies.」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「Visitors to the CRP USA booth will be able to explore functional 3D printed components in Windform, including structural parts for UAV platforms, aerospace systems and advanced mobility applications. These examples demonstrate how SLS and advanced composite materials can support both functional prototyping and low-volume production of end-use, flight-ready parts.」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「Introducing a brand new experience by TCT for the additive manufacturing industry.」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「RAPID + TCT 2026: Exhibitors」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=5685）
+  - 「56 Exhibitors」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=5685）
+  - 「AM Solutions: A brand of the Rösler Group」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=5685）
+  - 「TCT Asia 2026 took place from March 17 to 19 at the National Exhibition and Convention Center (NECC) in Shanghai. With over 550 exhibitors and more than 40,000 visitors reported in attendance, the event once again established itself as the largest additive manufacturing gathering in the Asia-Pacific region.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「Hall 8.1 was a world of its own — a space where consumer-oriented and industrial exhibitors shared the same floor in a way that defied easy categorization. Influencers were live-streaming from every corner, cosplayers wandered between booths, and cutting-edge manufacturing equipment hummed in the background, all at once. It was chaotic, electric, and entirely unique to this show.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「With over 40 proprietary material profiles synchronized across hardware and software, AI-based error correction, and cloud-based fleet management, the ecosystem Bambu Lab is building no longer resembles that of a printer manufacturer. What the company is constructing is a platform — one where the switching costs themselves become the competitive advantage.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「Creality once again showed up at Hall 8.1 as one of the defining desktop brands of the show. The company behind the globally recognized Ender-3 series made clear that its TCT Asia 2026 story was not just about printers.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「SLS-printed sample parts at TPM3D, including a detailed figurine demonstrating the precision of the CF200 system. | Photo: AM Insight Asia」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「Phaetus is a Chinese manufacturer focused entirely on the core components of 3D printers — hotends, nozzles, and extruders. With product lines including Dragonfly, Rapido, Taichi, and BMO, the company has built its market position on one consistent premise: the quality of a print is determined by what happens at the nozzle, not just the machine around it.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「HEYGEARS is a manufacturer of high-precision DLP and mSLA photopolymer 3D printers and dedicated resins. The company built its foundation in demanding industrial and medical applications — most notably through its Multi-Material Fusion DLP technology for dental, including the OnePrint Dentures one-piece denture solution and the A2D HD dental printer.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+- 創業年：
+  - 「* Established in 2015, TCT Asia is now the leading event for 3D printing and additive manufacturing intelligence in China.」（https://en.tctasia.cn/tctasia.shtml）
+  - 「signed a joint development agreement with Bambu Lab on January 30, 2026, to co-develop a consumer-facing 3D scanner. The company brings established industrial scanning expertise to a partnership that could significantly expand the user base for scanning technology.」（https://aminsightasia.com/events/tct-asia-2026-exhibitor-guide/）
+  - 「. The exhibition gathers the full spectrum of industry players: 3D printing equipment manufacturers, material suppliers, technology service providers, professional buyers, and media from across the globe. Established industry leaders stand alongside rising innovators, providing a stage for high-potential solutions to be seen, discussed, and adopted.」（https://3dprint.com/324518/tct-asia-2026-empowering-asia-connecting-the-world/）
+  - 「Protopasta: Making 3D Printing Filament In-House Since 2013」（https://www.3dnatives.com/en/organizer/tct-group/）
+- 資金調達・株主：
+  - 「new microArch S150 Series at RAPID + TCT」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「We’ll start with maritime manufacturing in this week’s 3D Printing News Briefs, and continue on to defense 3D printing. We’ll end with funding for Tripo AI. Read on for all...」（https://3dprint.com/324518/tct-asia-2026-empowering-asia-connecting-the-world/）
+  - 「NatureWorks, a joint venture between GC and Cargill, has emphasized sustainability in its product development, ensuring that Ingeo 3D300 aligns with the company’s commitment to reducing polymer-based manufacturing’s environmental impact. The material will be showcased at」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+- 年商・規模：
+  - 「Bambu Lab arrived at TCT Asia 2026 having crossed 10 billion RMB (approximately $1.4 billion USD) in annual revenue — a milestone unprecedented in the history of desktop 3D printing. The booth presented a full lineup spanning the entry-level A1, the prosumer P2S, and the industrial-grade H2D, H2C, and H2S systems, drawing a steady stream of visitors throughout all three days.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/tct-asia-2026-now-returns-to-shanghai-bigger-than-ever-249912/）
+- 日本の担い手：
+  - 「Japan RepRap Festival 2026 (JRRF 2026): 45 Sponsors Confirmed, 140+ Booths Unite at Japan’s Largest 3D Printer Community Festival — May 30–31 in Tokyo」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「Yokohama, Japan」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「Yokohama, Japan」（https://aminsightasia.com/events/tct-asia-2026-exhibitor-guide/）
+  - 「(TNSC) to introduce structured light-based metrology tools to Japan’s AM industry. The collaboration will see TNSC distributing Phase3D’s Fringe Inspection and Fringe Qualification systems, which provide heightmap-based process monitoring to detect part defects at a micron level.」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「Korea, Singapore, Japan, Malaysia, and the United States were the top five sources of overseas visitors in 2025, giving the show a genuinely international character that sets it apart from most regional trade events.」（https://3dprintingindustry.com/news/tct-asia-2026-now-returns-to-shanghai-bigger-than-ever-249912/）
+- 代理店募集・売り方：
+  - 「Today’s digest features collaborative initiatives, reseller expansions, and high-performance technologies reshaping industries such as aerospace and tabletop gaming.」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「Moving on to material developments, UK-based precision engineering component distributor」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「Resellers deals with Axtra 3D and Formlabs」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「as its official reseller in the U.S., expanding access to high-speed SLA (HPS) technology. Featuring Hybrid PhotoSynthesis and TruLayer technologies, the Lumia X1 system enables 20x faster printing speeds while preserving high surface resolution and accuracy. The partnership targets aerospace, medical, and product design sectors, where precision resin-based 3D printing is crucial.」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「Greg Elfering, EVP of Sales at Axtra3D, emphasized that this agreement eliminates long-standing trade-offs in resin-based additive manufacturing, allowing for higher throughput without compromising part complexity. By integrating high-speed SLA into industrial workflows, the reseller partnership is expected to enhance adoption of production-grade SLA printing across multiple industries.」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「, marking a significant expansion of digital dentistry adoption in North America. Under this agreement, Henry Schein will act as the preferred reseller for the Form 4B and Form 4BL 3D printers, increasing access to high-precision in-office and lab-based dental manufacturing solutions.」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+- 技術支援：
+  - 「Education & Training Services」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=5685）
+  - 「Education & Training Services」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=5236）
+  - 「Education & Training Services」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=382）
+  - 「Whether you look to optimize parameters or explore end-use production, TCT Shenzhen is where intelligence meets manufacturing.」（https://tctexpo.com/）
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「(TNSC) to introduce structured light-based metrology tools to Japan’s AM industry. The collaboration will see TNSC distributing Phase3D’s Fringe Inspection and Fringe Qualification systems, which provide heightmap-based process monitoring to detect part defects at a micron level.」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+  - 「ESA FIRST! project DIQAM aims to cut AM space part qualification to “one click”」（https://3dprintingindustry.com/news/tct-asia-2026-now-returns-to-shanghai-bigger-than-ever-249912/）
+  - 「3D Printing Industry is inviting speakers for its 2026 Additive Manufacturing Applications (AMA) series, covering Energy, Healthcare, Automotive and Mobility, Aerospace, Space and Defense, and Software. Each online event focuses on real production deployments, qualification, and supply chain integration. Practitioners interested in contributing can」（https://3dprintingindustry.com/news/tct-asia-2026-now-returns-to-shanghai-bigger-than-ever-249912/）
+  - 「, qualification, supply chains, and」（https://3dprintingindustry.com/news/tct-asia-2026-now-returns-to-shanghai-bigger-than-ever-249912/）
+- 展示会：
+  - 「Exhibitor List-vnu rapid news Co.Ltd」（https://en.tctasia.cn/exhibitiorlist.shtml）
+  - 「——TCT Asia 2026」（https://en.tctasia.cn/exhibitiorlist.shtml）
+  - 「RAPID + TCT 2026 | Exhibitor highlights」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「As North America's largest additive manufacturing and industrial 3D printing event, RAPID + TCT promises to be the platform for a series of AM launches, updates and applications.」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「2026 RAPID + TCT」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「The below RAPID + TCT exhibitor highlights will continue to be updated in the run-up to the show, but here's what we can expect so far.」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「'The next evolution of Multi Jet Fusion' | HP Additive Manufacturing | Booth #1301」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「'Industrial-grade micron-level AM' | Boston Micro Fabrication | Booth #1347」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「new microArch S150 Series at RAPID + TCT」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「'Material development & a growing body of industrial work' | Wayland Additive | Booth #2733」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「At this year's RAPID + TCT, Wayland Additive will share progress from ongoing material development programmes and the growing body of industrial work being executed with the Calibur3 platform, underscoring that its proprietary NeuBeam technology is already being used commercially in 'demanding environments.'」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「“If you’re currently ‘qualifying’ your way around process uncertainty, we should talk,” said Wayland CRO Peter Hansford. “RAPID + TCT is where serious manufacturing questions get asked, and we’re coming to provide serious answers.”」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「'Exceptionally gentle cleaning' | Solukon | Booth #1435」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「'Moving the conversation beyond monitoring' | Additive Assurance | Booth #2636」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「At RAPID + TCT,」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+- 価格：
+  - 「Offered as an entry-level alternative alongside HP's fully automated powder handling solution, the new vPort is available in the United States, Canada, and Europe via Volkmann.」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「Additive Manufacturing's $110 Billion Question: Is Your Supply Chain Ready?」（https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/）
+  - 「Bambu Lab arrived at TCT Asia 2026 having crossed 10 billion RMB (approximately $1.4 billion USD) in annual revenue — a milestone unprecedented in the history of desktop 3D printing. The booth presented a full lineup spanning the entry-level A1, the prosumer P2S, and the industrial-grade H2D, H2C, and H2S systems, drawing a steady stream of visitors throughout all three days.」（https://aminsightasia.com/events/tct-asia-2026-polymer-am/）
+  - 「* 66.8% of visitors have purchasing needs, with 14.08% of them having a purchasing budget of more than $5 million.」（https://en.tctasia.cn/tctasia.shtml）
+  - 「TCT Asia 2026 in Shanghai: Gateway to $26B Market with Global Impact」（https://aminsightasia.com/events/tct-asia-2026-exhibitor-guide/）
+  - 「Creality announces the launch of the multi-color 3D printer SPARKX i8 on Indiegogo, at an early-bird price of $309 (MSRP $399) starting from Sept. 21. Designed for ultimate user experience,...」（https://3dprint.com/324518/tct-asia-2026-empowering-asia-connecting-the-world/）
+  - 「Get the list — $149」（https://www.kokoquest.com/tradeshows/rapid-tct-2027）
+  - 「Get the list — $199」（https://www.kokoquest.com/tradeshows/rapid-tct-2027）
+  - 「$4,690」（https://www.kokoquest.com/tradeshows/rapid-tct-2027）
+  - 「$9,201」（https://www.kokoquest.com/tradeshows/rapid-tct-2027）
+  - 「$5,990」（https://www.kokoquest.com/tradeshows/rapid-tct-2027）
+  - 「$1,190」（https://www.kokoquest.com/tradeshows/rapid-tct-2027）
+  - 「SfN Neuroscience 2026」（https://www.kokoquest.com/tradeshows/rapid-tct-2027）
+  - 「will introduce the U1, a sub-$1,000 multi-material, multi-color desktop system with four print heads designed to reduce waste and simplify multi-material printing. ELEGOO is also on the floor with its new Jupiter 2 large-format resin printer, alongside a broader product ecosystem, and will host a “Print What You Scan” event on April 15 focused on scan-to-print workflows.」（https://www.3dnatives.com/en/rapid-tct-2026-exhibitors-you-cant-miss-13042026/）
+  - 「ELEGOO Moves Into 3D Scanning With the M1 Ultra, Priced From $1,599」（https://3dprintingindustry.com/news/sliced-latest-news-from-the-3d-printing-industry-9-236771/）
+- 検索結果の抜粋：
+  - 「Inside RAPID + TCT 2026: Exhibitors You Can’t Miss - 3Dnatives — Apr 14, 2026 · Discover the exhibitors to watch at RAPID + TCT 2026, from Bambu Lab and HP to large-scale metal systems, materials, and new innovations.」（https://www.3dnatives.com/en/rapid-tct-2026-exhibitors-you-cant-miss-13042026/）
+  - 「RAPID + TCT 2026: Exhibitors — Your search produced the following search result (s) for these filters: Category: RAPID + TCT Products & Services (Materials for Additive Manufacturing)」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=5236）
+  - 「RAPID + TCT 2026: Exhibitors — Your search produced the following search result (s) for these filters: Category: RAPID + TCT Products & Services (Advanced Materials)」（https://s36.a2zinc.net/clients/SME/RAPID2026/Public/Exhibitors.aspx?SubCatID=382）

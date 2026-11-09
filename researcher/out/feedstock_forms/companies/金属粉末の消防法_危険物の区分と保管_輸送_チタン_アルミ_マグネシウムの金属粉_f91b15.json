@@ -1,0 +1,1350 @@
+{
+ "name": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉）",
+ "en": "metal powder hazardous materials classification storage transport Japan fire service act",
+ "aliases": [
+  "消防法 危険物 第2類 金属粉",
+  "金属粉 指定数量 保管",
+  "チタン粉末 SDS 危険物",
+  "粉じん爆発 JIS 金属粉"
+ ],
+ "context": "粉末・安全・一次",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:55:42.734351+00:00",
+ "evidence": {
+  "安全・規制・保管": [
+   {
+    "quote": "消防法｜危険物確認試験や危険物の運搬について ：： 総務省消防庁",
+    "url": "https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "十七 動植物油類とは、動物の脂肉等又は植物の種子若しくは果肉から抽出したものであつて、一気圧において引火点が二五〇度未満のものをいい、総務省令で定めるところにより貯蔵保管されているものを除く",
+    "url": "https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "危険物第２類確認試験のフローチャート",
+    "url": "https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "危険物第４類確認試験のフローチャート",
+    "url": "https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "消防法で定められている危険物とは？種類別の指定数量と適切な保管・運搬方法 | コラム | 日本メックス株式会社",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法で定められている危険物とは？種類別の指定数量と適切な保管・運搬方法",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "ビルを災害から守るために不可欠となる消防法上の危険物についてまとめました",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "普段、何気なく使ったり、聞いたりしている危険物と言う言葉ですが、そもそも危険物とはどんな物質か？どんな分類があるのか？をご存知でしょうか",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "このコンテンツでは、危険物の法律的な定義にはじまり、正しく安全に取扱うために必要な指定数量や表示・レベルなどの基礎知識、さらに危険物の保管や運搬についての法律や、取扱うための国家資格などについて解説しています",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "危険物とは、火災、爆発、中毒などをひきおこす危険性のある物質の総称です",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "法律という面からみると、「消防法」上の危険物と「毒物及び劇物取締法」上の危険物があります",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、ビルの管理とより大きく関わるのが「消防法」上における危険物です",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは消防法がどんな法律なのかをおさえておきましょう",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法とは、「火災の予防・警戒・鎮圧による生命・身体・財産の保護・被害軽減」を目的として定められた法律です",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "そして消防法第2条第7項では、危険物を「火災を発生させる危険性の高い物質」と定義し、保管方法や運送方法を厳密に定めています",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "危険物に関する消防法上の規制（図１）",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "危険物に係る運搬、貯蔵及び取扱いの基準（図２）",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "火災の危険性につながる多くの性質を有する物質で、危険物取扱の資格試験においても重視されるカテゴリーです",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "第4類の危険物は、消防法別表第1（11～17）では次のように規定されています",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "７ 危険物とは、別表第一の品名欄に掲げる物品で、同表に定める区分に応じ同表の性質",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第九条の四 危険物についてその危険性を勘案して政令で定める数量（以下「指定数量」",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "）未満の危険物及びわら製品、木毛その他の物品で火災が発生した場合に その",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 指定数量未満の危険物及び指定可燃物その他指定可燃物に類する物品を貯蔵し、又は",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で液状であるもの、同表備考第十七号の総務省令で定めるところにより貯蔵保管されてい",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（危険物の規制に関する政令別表第二の総務省令で定める物質及び数量）",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第二条 危険物の規制に関する政令別表第二の上欄に掲げる総務省令で定める物質は、次",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 危険物とは",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 危険物施設の規制",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３ 危険物の運搬等",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「危険物」の定義は、一般に称される危険物の概念と異なり、本法上独自の見地からなされている",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "る「危険物」の概念は一義的に火災危険性に着目したものであり、毒劇物や放射性物質など一般に危険と考えられている",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、本法における「危険物」は固体又は液体であり、プロパンガスや水素ガスなど",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【逐条解説 消防法】 4",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "消防法（昭和23年７月24日法律第186号）",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１章 総則 ⇒ 目的、危険物の定義",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２章 火災の予防 ⇒ 指定数量未満の危険物、指定可燃物、消防活動阻害物質",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３章 危険物 ⇒ 危険物の規制",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３章の２ 危険物保安技術協会",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を有する物品（危険物）について、保安上の規制",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（消防法第１条）",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "○危険物の規制に関する技術上の基準の細目を定める告示",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "可燃性固体とは？第2類危険物の一覧・指定数量・消火方法",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "可燃性固体とは？消防法では第2類危険物",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法別表第一では第2類危険物に分類され、硫化りん、赤りん、硫黄、鉄粉、金属粉、マグネシウム、これらの含有物、引火性固体などが並びます",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでいう「可燃性」は日常語だけで決めるものではなく、消防法と政令の定義・試験に基づく区分です",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法上の品名、粒度・形状による除外、法定試験の結果まで含めて判定します",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "第2類の可燃性固体は消防法別表第一の危険物、引火性固体はその第2類に含まれる一つの品名、可燃性固体類は危険物政令別表第四にある指定可燃物側の区分です",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "消火方法は、厚生労働省「職場のあんぜんサイト」の赤りん、硫黄、五硫化りん、マグネシウム粉などのモデルSDSを参照しています",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "危険物政令第1条の4・別表第三の備考",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "第2類危険物の品名・指定数量一覧",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法別表第一の品名欄は9号まであります",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、指定数量は危険物政令別表第三で次の7行に整理されます",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法上、可燃性固体の性状を示すものとみなす",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "危険物規則第1条の3",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属を削った粉なら全部が第2類」「マグネシウム製品なら全部が危険物」とは判定しません",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法別表第一・第2類の性状名",
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法における金属粉サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%9E%E7%B2%89",
+    "pass": 3
+   },
+   {
+    "quote": "第2類危険物",
+    "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%9E%E7%B2%89",
+    "pass": 3
+   },
+   {
+    "quote": "（可燃性固体）に指定している（アルカリ金属およびアルカリ土類金属は第3類危険物に、鉄粉およびマグネシウムは金属粉とは別の区分で第2類危険物に指定されている）",
+    "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%9E%E7%B2%89",
+    "pass": 3
+   }
+  ],
+  "繰り返し性": [
+   {
+    "quote": "、種類・数量の届け出、管理者の選任、定期点検の実施など）を受けます",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な安全教育と訓練を実施することで、事故のリスクを大幅に低減できます",
+    "url": "https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "定期的なメンテナンスと清掃の重要性を示しています",
+    "url": "https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、後述する定期点検や継続管理が不可欠",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "消防設備（消火器、消防ポンプ、自動火災報知設備など）の定期的な点検・整備",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "定期的に消防署の検査が行われることもあるので、普段から安全管理を怠らない",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   }
+  ],
+  "日本": [
+   {
+    "quote": "消防法で定められている危険物とは？種類別の指定数量と適切な保管・運搬方法 | コラム | 日本メックス株式会社",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "日本メックスは、危険物を取扱う資格保有者による数多くの建物や設備の安全管理を支援してきました",
+    "url": "https://www.meccs.co.jp/column/39/",
+    "pass": 3
+   },
+   {
+    "quote": "が五十三マイクロメートルの網ふるい（日本工業規格（工業標準化法 （昭和二十四年法",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "律第百八十五号）第十七条第一項 の日本工業規格をいう",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４章の３ 日本消防検定協会等",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※取り扱う物品が危険物であることが疑われる場合、すべての国内製造者及び輸入者は、当該試験",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "参考：日本粉末冶金工業会（JPMA）｜金属粉の取扱方法［※PDF］（",
+    "url": "https://www.chibatate.com/storage/metal-powder.html",
+    "pass": 3
+   },
+   {
+    "quote": "、国内配送、納品先での保管条件、危険品倉庫の受入可否に関係します",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "国際輸送上の危険品分類だけでなく、日本国内で保管・取扱いできる貨物かを確認する必要があります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "特に輸入貨物では、海上輸送や航空輸送が問題なく完了しても、日本国内の倉庫、",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法危険物は、輸入後の国内物流を止めないための重要な確認項目です",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "、日本法令欄、成分、引火点、数量、保管場所、配送条件を確認し、必要に応じて荷主、メーカー、倉庫、危険品専門業者へ確認することが重要です",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法危険物が、日本国内の火災予防、貯蔵、取扱いに関係する国内法令上の区分であることを扱います",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "SDSの日本法令欄、成分情報、引火点、取扱い・保管上の注意、輸送情報欄を確認する実務を扱います",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入後の国内配送会社、積載方法、混載可否、納品先での保管条件を扱います",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、消防法危険物は、日本国内での貯蔵・取扱い・施設管理を中心に問題になります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、海上輸送や航空輸送で危険品として問題がなかった貨物でも、輸入後の国内倉庫や配送で止まることがあります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法危険物は、日本国内の火災予防を目的とした規制です",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内での火災予防、貯蔵・取扱いの安全確保です",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入後の倉庫搬入、保税蔵置、国内配送、納品先保管、危険物施設の要否で問題になります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "SDSの日本法令欄、類別、指定数量、倉庫・配送会社の受入可否を確認します",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "海上輸送が完了しても、日本国内で消防法危険物として受けられるかを別途確認します",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "日本 労働安全衛生法（安衛法）申請代行サービス",
+    "url": "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/category-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本 化審法 高分子フロースキーム試験(PFS)",
+    "url": "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/category-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "参考文献：消防庁危険物規制課監修 『危険物確認試験実施マニュアル』 新日本法規出版",
+    "url": "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/category-2.html",
+    "pass": 3
+   }
+  ],
+  "市場規模": [
+   {
+    "quote": "２.第一石油類：アセトン、ガソリン、引火点が21℃未満のもの",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〇第４類（引火性液体）・・・ｼﾞｴﾁﾙｴｰﾃﾙ、アセトン、ガソリン、灯油、軽油、ギヤー油 等",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（12）第一石油類とは、アセトン、ガソリンその他１気圧において引火点が２１度未満のものをいう",
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/post-133/01/sankou1-3-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アセトンを例に考えると、アセトンは消防法第４類石油類水溶性に分類されるので、400L未満までは消防法の規制を受けません",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   },
+   {
+    "quote": "①アセトン 消防法第４類第１石油類水溶性（指定数量：400L）",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、アセトンの一斗缶（16L）を18缶、灯油の一斗缶（18L）を10缶、エチレングリコールのドラム缶（200L）を１ドラム保管するとします",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   },
+   {
+    "quote": "アセトン 16（一斗缶容量）×18（缶）÷400（指定数量）=",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   }
+  ],
+  "価格": [
+   {
+    "quote": "第４３条第１項第２号 違反者・・・懲役３月以下・罰金30万円以下（法人に対しても両罰規定に",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "より30万円以下）",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１回７２００円",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   },
+   {
+    "quote": "１回５３００円",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   }
+  ],
+  "売り方・商流": [
+   {
+    "quote": "※取り扱う物品が危険物であることが疑われる場合、すべての国内製造者及び輸入者は、当該試験",
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "消防法危険物―輸入貨物の倉庫保管・配送時の確認 - Maritime Wiki — run by Interlink",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法危険物―輸入貨物の倉庫保管・配送時の確認",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "フォワーダー実務では、消防法危険物は、輸入後の倉庫搬入、保税蔵置、",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "特に輸入貨物では、海上輸送や航空輸送が問題なく完了しても、日本国内の倉庫、",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "消防法危険物は、輸入後の国内物流を止めないための重要な確認項目です",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入実務で頻出する第4類引火性液体について、品名区分、引火点、成分、数量、倉庫・配送条件を扱います",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入後の国内配送会社、積載方法、混載可否、納品先での保管条件を扱います",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入物流では、貨物が港や空港に到着した後、どこに保管できるか、誰が運べるか、納品先で安全に受けられるかに直結します",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、海上輸送や航空輸送で危険品として問題がなかった貨物でも、輸入後の国内倉庫や配送で止まることがあります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "保税倉庫、CFS、危険品倉庫、配送会社、納品先の受入条件まで含めて確認しなければ、輸入後に横持ち、倉庫変更、追加保管料、配送再手配、納期遅延が発生する可能性があります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入後の倉庫搬入、保税蔵置、国内配送、納品先保管、危険物施設の要否で問題になります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入後の保管、荷役、配送、納品先での安全確保です",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "逆に、国際輸送上の危険品である貨物についても、輸入後は消防法危険物として第何類に該当するか、指定数量との関係、倉庫や配送会社の受入可否を別途確認する必要があります",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入貨物で最も確認頻度が高く、引火点、成分、数量、倉庫保管、国内配送条件を確認します",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "輸入実務で最も頻繁に問題になるのは、第4類の引火性液体です",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   }
+  ],
+  "装置縛り・オープン材料": [
+   {
+    "quote": ": 密閉性が高く、耐火性のある専用容器を使用する",
+    "url": "https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "専用便、分納、別ルートを検討します",
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "危険物倉庫として独立した専用の建築物とすること",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   },
+   {
+    "quote": "貯蔵倉庫は、独立した専用の建築物とすること",
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "pass": 3
+   }
+  ],
+  "コモディティ化": [
+   {
+    "quote": "汎用カラム／一般分析用カラム SUMIPAX（スミパックス）",
+    "url": "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/category-2.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "これだけは押さえたい！工場・倉庫の消防手続きと危険物取扱の基本｜... Apr 27, 2025 · 2. 危険物とは？～指定数量と手続き区分～ 2-1. 危険物の6類分類 消防法上の危険物は、火災や爆発などの危険性が高い物質で、大きく6つに分類されます。 第1類：酸化性固体 （例：硝酸塩類、過マンガン酸カリウムなど） 第2類：可燃性固体 （例：硫黄、マグネシウム、金属粉など） 第3類 ...",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   }
+  ],
+  "技術支援": [
+   {
+    "quote": "8-1. トドケデの主なサポート内容",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "防火管理者選任届出や消防計画の作成補助などのサポート",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "：必要に応じて消防署とのやり取りもサポート",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインで専門家のサポートが受けられ、安全性と法令遵守を両立したスムーズな工場・倉庫運営を実現できます",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "これだけは押さえたい！工場・倉庫の消防手続きと危険物取扱の基本｜【元消防士が監修】消防の届出・書類作成代行ならトドケデ",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "これだけは押さえたい！工場・倉庫の消防手続きと危険物取扱の基本",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "【元消防士が監修】消防の届出・書類作成代行ならトドケデ",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "工場や倉庫を運営する際、火災リスクや法令違反のリスクは非常に重要です。",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "特に危険物を取り扱う場合、消防法などで定められた手続きや許可申請、届出、資格が必要になります。",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、工場や倉庫の管理者向けに、危険物の保管・取扱に関する基本的な法的義務や、提出すべき書類の種類、必要な資格などを分かりやすく解説します。",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、書類作成や届出を簡単に行えるオンライン代行サービス",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   },
+   {
+    "quote": "「トドケデ｜消防関連書類作成・届出オンライン代行サービス」",
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tfd.metro.tokyo.lg.jp/content/safetyreport/000006705.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eic.or.jp/qa/?act=view&serial=38772",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.un-no-un-number.com/un_no/un_no_15_list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meccs.co.jp/column/39/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nite.go.jp/data/000156190.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.magbase.artnap.co.jp/guide/alloy-fire-hazard-class2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikenbutsu-roadmap.com/194/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%9E%E7%B2%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chibatate.com/storage/metal-powder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sukimaapuri.com/articles/hazmat-otsu2-metal-powder-differences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zukai-kikenbutu.com/kikenbutu/2-kinzokuhun.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elaws.jp/article/hazardous-materials-regulation-order-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.hodogaya.co.jp/hlc/hazard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narita-sds.co.jp/guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/singi_kento/kento/items/post-133/01/sankou1-3-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/category-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdma.go.jp/mission/prevention/item/prevention001_40_safe_manual_mag.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sakura-transportation.com/kikenbutsu/class-2-dangerous-goods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankyo-chem.com/news/post-689/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/dangerous-hazardous-goods-logistics-market-one-10099",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shigyo.co.jp/en/search_post/logistics/souko/hazardous-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyokogyo.co.jp/en/makmax_plus/49723/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unece.org/DAM/trans/danger/publi/unrec/English/part3.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marktec.co.jp/en/topics/fire-services-act/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-express.co.jp/en/business/cargo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3772",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/category-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fmcsa.dot.gov/regulations/hazardous-materials/how-comply-federal-hazardous-materials-regulations",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/kisei-kaikaku/oto/otodb/english/houseido/hou/lh_05070.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gsa.gov/buy-through-us/purchasing-programs/requisition-programs/gsa-global-supply/gsa-global-supply-standards/hazardous-materials-management-hazmat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/Regulation_of_hazardous_materials.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chemradar.com/en/lawinfo/detail/djvppyr9ni11",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwasoko.co.jp/en/condition_hazard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asecos.com/dokumente/M062_Code-of-Practice_Storage-of-Hazardous-Substances.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/todokede/n/n82eecfbdd284",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） 市場規模 CAGR",
+   "results": [
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://www.tfd.metro.tokyo.lg.jp/content/safetyreport/000006705.pdf",
+    "https://www.eic.or.jp/qa/?act=view&serial=38772",
+    "https://www.fdma.go.jp/relocation/kasai_yobo/about_shiken_unpan/houbeppyou.html",
+    "https://www.un-no-un-number.com/un_no/un_no_15_list.html",
+    "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%9E%E7%B2%89"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） 価格",
+   "results": [
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://www.meccs.co.jp/column/39/",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://www.magbase.artnap.co.jp/guide/alloy-fire-hazard-class2.html",
+    "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "https://kikenbutsu-roadmap.com/194/",
+    "https://www.tfd.metro.tokyo.lg.jp/content/safetyreport/000006705.pdf",
+    "https://www.chibatate.com/storage/metal-powder.html",
+    "https://sukimaapuri.com/articles/hazmat-otsu2-metal-powder-differences"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） 主要メーカー 一覧",
+   "results": [
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://www.meccs.co.jp/column/39/",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "https://www.magbase.artnap.co.jp/guide/alloy-fire-hazard-class2.html",
+    "https://kikenbutsu-roadmap.com/194/",
+    "https://ja.wikipedia.org/wiki/金属粉",
+    "https://www.chibatate.com/storage/metal-powder.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） 代理店 日本",
+   "results": [
+    "https://www.meccs.co.jp/column/39/",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "http://www.hodogaya.co.jp/hlc/hazard/",
+    "https://marineinsurance.jp/maritime_wiki/terms/fire-service-act-hazardous-materials/",
+    "https://www.narita-sds.co.jp/guide.html",
+    "https://www.chibatate.com/storage/metal-powder.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） 規制 保管 危険物",
+   "results": [
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://www.meccs.co.jp/column/39/",
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://sakura-transportation.com/kikenbutsu/class-2-dangerous-goods/",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "https://www.sankyo-chem.com/news/post-689/",
+    "https://metal.gaiheki-katorihome.com/kinzokufunkikenzentoriatsukaihouhou.html",
+    "https://www.fdma.go.jp/singi_kento/kento/items/post-133/01/sankou1-3-1.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） 純正 指定材料 互換",
+   "results": [
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://www.meccs.co.jp/column/39/",
+    "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://www.magbase.artnap.co.jp/guide/alloy-fire-hazard-class2.html",
+    "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "http://www.hodogaya.co.jp/hlc/hazard/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act market size CAGR",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://www.marketresearchfuture.com/reports/dangerous-hazardous-goods-logistics-market-one-10099",
+    "https://www.shigyo.co.jp/en/search_post/logistics/souko/hazardous-material/",
+    "https://www.mordorintelligence.com/industry-reports/us-hazardous-goods-logistics-market",
+    "https://www.futuremarketinsights.com/reports/chemical-storage-and-hazmat-handling-market",
+    "https://www.imarcgroup.com/japan-fire-fighting-chemicals-market",
+    "https://www.imarcgroup.com/japan-metal-powder-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act price per kg",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://www.shigyo.co.jp/en/search_post/logistics/souko/hazardous-material/",
+    "https://www.taiyokogyo.co.jp/en/makmax_plus/49723/",
+    "https://unece.org/DAM/trans/danger/publi/unrec/English/part3.pdf",
+    "https://www.marktec.co.jp/en/topics/fire-services-act/",
+    "https://www.japan-express.co.jp/en/business/cargo.html",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act key players",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://www.fmcsa.dot.gov/regulations/hazardous-materials/how-comply-federal-hazardous-materials-regulations",
+    "https://www.shigyo.co.jp/en/search_post/logistics/souko/hazardous-material/",
+    "https://www.taiyokogyo.co.jp/en/makmax_plus/49723/",
+    "https://www8.cao.go.jp/kisei-kaikaku/oto/otodb/english/houseido/hou/lh_05070.html",
+    "https://www.gsa.gov/buy-through-us/purchasing-programs/requisition-programs/gsa-global-supply/gsa-global-supply-standards/hazardous-materials-management-hazmat",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act distributor Japan",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://www.shigyo.co.jp/en/search_post/logistics/souko/hazardous-material/",
+    "https://www.fmcsa.dot.gov/regulations/hazardous-materials/how-comply-federal-hazardous-materials-regulations",
+    "https://www.japan-express.co.jp/en/business/cargo.html",
+    "https://www.taiyokogyo.co.jp/en/makmax_plus/49723/",
+    "https://www.chemradar.com/en/lawinfo/detail/djvppyr9ni11",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act safety storage regulation",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://www.fmcsa.dot.gov/regulations/hazardous-materials/how-comply-federal-hazardous-materials-regulations",
+    "https://www.asecos.com/dokumente/M062_Code-of-Practice_Storage-of-Hazardous-Substances.pdf",
+    "https://www.weberlogistics.com/blog/california-logistics-blog/hazardous-material-storage-faq",
+    "https://rocky.edu/wp-content/uploads/2024/02/Hazardous-Material-Policy-2022-UPDATE.pdf",
+    "https://www.taiyokogyo.co.jp/en/makmax_plus/49723/",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act closed system open material third-party",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://www.fmcsa.dot.gov/regulations/hazardous-materials/how-comply-federal-hazardous-materials-regulations",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://coderedconsultants.com/insights/hazardous-materials-classifications/",
+    "https://www.weberlogistics.com/blog/california-logistics-blog/hazardous-material-storage-faq",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://www.transportation.gov/check-the-box/check-box-it-hazmat",
+    "https://www.taiyokogyo.co.jp/en/makmax_plus/49723/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act commodity price competition",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://www.fmcsa.dot.gov/regulations/hazardous-materials/how-comply-federal-hazardous-materials-regulations",
+    "https://www.shigyo.co.jp/en/search_post/logistics/souko/hazardous-material/",
+    "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-172/subpart-B",
+    "https://codes.iccsafe.org/content/ORFC2025P1/chapter-32-high-piled-combustible-storage",
+    "https://www.iafc.org/topics-and-tools/hazmat/fusion-center/transportation-commodities",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act technical support parameters",
+   "results": [
+    "https://www.scas.co.jp/en/services/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "https://www.japaneselawtranslation.go.jp/en/laws/view/3772/en",
+    "https://www.kaigai-shobo.jp/files/fireserviceinjapan_eng/3Overview_of_Hazardous_eng.pdf",
+    "https://policycommons.net/artifacts/24706482/chemical-substance-management-under-the-fire-service-act/25606359/",
+    "https://www.fmcsa.dot.gov/regulations/hazardous-materials/how-comply-federal-hazardous-materials-regulations",
+    "https://www.osha.gov/sites/default/files/publications/OSHA3844.pdf",
+    "https://www.shigyo.co.jp/en/search_post/logistics/souko/hazardous-material/",
+    "https://www8.cao.go.jp/kisei-kaikaku/oto/otodb/english/houseido/hou/lh_05070.html",
+    "https://www.taiyokogyo.co.jp/en/makmax_plus/49723/",
+    "https://www.regulations.gov/document/PHMSA-2023-0111-0002"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉）",
+   "results": [
+    "https://note.com/todokede/n/n2471ea0f0df3",
+    "https://note.com/todokede/n/n82eecfbdd284",
+    "https://note.com/nakashi_otsu4/n/ne2a4cd93f071",
+    "https://note.com/boueki_tsuukan/n/nfa5ee1ace002",
+    "https://note.com/digestism/n/n8194ab2a2c8a",
+    "https://note.com/trang_1985/n/n4df111e002d8",
+    "https://note.com/ripla_business/n/n67b045ef1530"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉）",
+   "results": [
+    "https://x.com/shouboshiken/status/1641037241106710529",
+    "https://x.com/shouboshiken/status/1456793209858715648",
+    "https://x.com/shouboshiken/status/1642849179390345216",
+    "https://x.com/kigyoka_mezase/status/2095625675717878077",
+    "https://x.com/walkin2ash/status/2088818643337707645",
+    "https://x.com/zukai_kikenbutu/status/2116306365786591464",
+    "https://x.com/Shinyei_CFS/status/172485358985023489"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉）",
+   "results": [
+    "https://jp.linkedin.com/posts/rio-tinto_リオティントは-marubeni-corporation-と協力し大手輸送用機器-activity-7234034990454296576-NCdH"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:facebook.com 金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉）",
+   "results": [
+    "https://www.facebook.com/TokyoFireDepartment/videos/実験後の金属粉の廃棄方法は大丈夫/786634823349633/",
+    "https://www.facebook.com/TokyoFireDepartment/videos/危険物安全週間動画/2363673417410148/",
+    "https://www.facebook.com/TokyoFireDepartment/posts/実験後の金属粉の廃棄方法は大丈夫理科の実験で使った金属粉を捨てたゴミ箱から出火した事案が発生実験後の金属粉は発熱の危険性あり可燃物との接触を避けて不燃の容器に分/730872849222500/",
+    "https://www.facebook.com/higashiomiFD/posts/危険物取扱者になろう危険物を取り扱うために必要な資格の危険物取扱者資格が必要な施設はどれだけの量を取り扱う場合に必要になるのどの種類の試験を受ければいいの試験を/774431321508587/",
+    "https://www.facebook.com/watch/?v=575007952653354",
+    "https://www.facebook.com/miyazuyozafd/posts/危険物輸送車両一斉検査を実施11月８日管内の危険物輸送車両を対象に４か所で検査を行いました危険物による事故が発生すれば重大な危害や交通遮断による経済活動への影響/666652935571117/",
+    "https://www.facebook.com/kobefirebureau/posts/危険物関係の電子申請手続き追加決定令和６年11月１日より新たに４種類の危険物関係の届出がe-kobeで受付可能になりました-神戸市で推進している電子申請化に消防/542541495140465/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） note 社長",
+   "results": [
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://www.fdma.go.jp/mission/prevention/item/prevention001_40_safe_manual_mag.pdf",
+    "https://www.magbase.artnap.co.jp/guide/alloy-fire-hazard-class2.html",
+    "https://kikenbutsu-roadmap.com/195/",
+    "https://www.scas.co.jp/materialscience/hazard-protection/hazardous-materials/classification.html",
+    "http://www.hodogaya.co.jp/hlc/hazard/",
+    "https://fdma.co.jp/kikenbutsu-teppun-kinzokufun-amifurui-jogai-kijun/",
+    "https://ja.wikipedia.org/wiki/金属粉",
+    "https://www.chibatate.com/storage/metal-powder.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属粉末の消防法・危険物の区分と保管・輸送（チタン・アルミ・マグネシウムの金属粉） X 投稿",
+   "results": [
+    "https://www.khk-syoubou.or.jp/pdf/guide/magazine/glossary/13.pdf",
+    "https://sakura-transportation.com/kikenbutsu/class-2-dangerous-goods/",
+    "https://www.nite.go.jp/data/000156190.pdf",
+    "https://www.fdma.go.jp/singi_kento/kento/items/kento147_30_sanko_02_05f.pdf",
+    "https://www.magbase.artnap.co.jp/guide/alloy-fire-hazard-class2.html",
+    "https://www.meccs.co.jp/column/39/",
+    "https://anzeninfo.mhlw.go.jp/anzen/gmsds/1387.html",
+    "https://kikenbutsu-roadmap.com/194/",
+    "https://www.chibatate.com/storage/metal-powder.html",
+    "https://sukimaapuri.com/articles/hazmat-otsu2-metal-powder-differences"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "metal powder hazardous materials classification storage transport Japan fire service act site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/hitlar-kumar-patel-77730828b_safetyfirst-nfpa704-firesafety-activity-7467165911150571520-jYTE",
+    "https://www.linkedin.com/posts/mbaziirajoseph_why-doesnt-a-co%E2%82%82-fire-extinguisher-activity-7486950449384910848-kr3f",
+    "https://www.linkedin.com/top-content/engineering/environmental-engineering-waste-management/hazardous-material-identification-and-management/",
+    "https://www.linkedin.com/posts/sudhakar-subramani-141122171_manual-call-point-mcp-fire-alarm-a-manual-activity-7505467163663802369-AWTR",
+    "https://www.linkedin.com/pulse/overview-hydrogen-storage-technologies-key-challenges-vijay-tharad-75duc",
+    "https://www.linkedin.com/posts/fernando-romo-sanchez-6ba025303_a-limiting-oxygen-concentration-localso-activity-7513379775751573504-KdLZ",
+    "https://dk.linkedin.com/in/patrick-sudhoff-fireengineer/en",
+    "https://in.linkedin.com/in/dhana-n",
+    "https://www.linkedin.com/pulse/still-going-wrong-process-safety-incidents-2025-q2-hayley-little-psg8e",
+    "https://www.linkedin.com/in/yixi-tian-a07559138"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "成長率": "記載なし（読んだ46頁・検索21回）",
+  "主要企業": "記載なし（読んだ46頁・検索21回）",
+  "品質・証明": "記載なし（読んだ46頁・検索21回）"
+ }
+}

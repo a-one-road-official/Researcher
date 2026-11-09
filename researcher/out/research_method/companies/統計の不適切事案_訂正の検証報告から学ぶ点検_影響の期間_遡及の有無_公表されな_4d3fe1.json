@@ -1,0 +1,1584 @@
+{
+ "name": "統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更）",
+ "en": "official statistics error investigation report revision affected period lessons",
+ "aliases": [
+  "統計 不適切事案 検証 報告書",
+  "統計 訂正 遡及 影響期間",
+  "statistical agency error review lessons learned"
+ ],
+ "context": "統計の読み方",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:58:42.877985+00:00",
+ "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "するとともに再発防止策を策定し調査委員会による検証を受けております",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2.6.1 過去のリスク対応状況の検証・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・6",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "妥当性検証と各事業部門に対する提言・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・・6",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 各事案の事業部門が行った事実関係調査、原因究明、再発防止策の妥当性検証",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 上記①を踏まえての 当社グループとしての原因究明と再発防止策の 妥当性検証と調",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建設工事受注動態統計調査の不適切処理に係る検証委員会の報告",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし年間受注額の推計値は真の値に近くなるという効果があった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "受注高が建設工事施工統計調査の完成工事高と比べ相当程度小さい推計値（平成19年度実績で約6割）となっていることから、推計方法を変更した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"回収率が 100%に満たない場合、かつて多くの府省庁の統計で行われていた、未回収の調査票に記入されるべき受注額（欠測値）を 0 とする推計方法を適用すると、受注額が過小推計されやすくなる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "もし、欠測値が実際に 0 であれば、この推計方法によって受注額合計を偏りなく推計できるが、欠測値が正であれば、過小に推計する",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その想定が実際と近ければ推計値の偏りを修正できる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "もし、欠測の影響を処理しなければ、推計値が過小となる可能性が高い",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・係員らによる本件合算処理を認識していなかったか、またはこの推計方法を導入することで二重計上が生じることを認識していなかったと考えられる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2013年(平成25年)4月分から2021年3月分まで、過月分調査票を当月合算処理したものと欠測値の補完をしたものとで二重に加算され、過大推計になった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6月頃、室長及び企画専門官は本件合算処理によってどの程度実態と乖離するか検証するよう指示した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "課長は各都道府県に対して過月分合算処理を取りやめるよう指示すること、公表数値の検証作業を開始することを決定",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年(令和3年)4月分から、推計方法が変更され、合算措置廃止",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この際、(上記のマスキングテープを剥がして)同じく過月分調査票の数値を全く合算しない方法で、2021年(令和3年)4月分から変更された推計方法で",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年12月23日、国交省は、建設工事受注動態統計調査における不適切な処理に関する問題の検証を行うため、外部有識者による検証委員会を開催した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2022年1月、建設工事受注動態統計調査の不適切処理に係る検証委員会は、次のように報告している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "昨年大型特殊自動車の不適切な分解整備が判明しましたが、不適切行為が限定的であることを",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5.1. 調査・確認方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8.1. 再発防止策についての検討方法・・・・・・・・ ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・18",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建機販売における大型特殊自動車の 不適切な分解整備について ・・・・・・・・ ・・・・・・・1",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ナコ販売における大型特殊自動車の 不適切な 分解整備について ・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＳＨＩ－ＧＢにおける大型減速機の 不適切な検査について ・・・・・・・・・・・・・・・・・・・・・・ 23",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "型特殊自動車の不適切な分解整備や不適切な特定自主検査などのコンプライアンス問題",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "大型特殊自動車の 不適切な分解整備や不適切な 特定自主検査などの コンプライアンス",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "■建機販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "■ナコ販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "■ＳＨＩ－ＧＢ（大型減速機の不適切な検査）",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし、遅れて提出された調査票（過月分調査票）を正規に統計に算入する方法がなかった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、2012年(平成24年)5月の全国説明会(各都道府県担当者に対し本件合算処理の方法について説明するもの)の資料の出席者名簿には、企画専門官、建設統計情報分析官、課長補佐の名前が記載されていた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）を廃棄せずに有効活用するには本件合算処理以外の方法がなく、また、合算(欠測値の補完)をしないことにより年間の受注額が実数値よりも少なくなることを懸念した\"旨を申し述べている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "受注高が建設工事施工統計調査の完成工事高と比べ相当程度小さい推計値（平成19年度実績で約6割）となっていることから、推計方法を変更した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"回収率が 100%に満たない場合、かつて多くの府省庁の統計で行われていた、未回収の調査票に記入されるべき受注額（欠測値）を 0 とする推計方法を適用すると、受注額が過小推計されやすくなる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "もし、欠測値が実際に 0 であれば、この推計方法によって受注額合計を偏りなく推計できるが、欠測値が正であれば、過小に推計する",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"欠測による影響の調整方法の適否は、回答発生の仕組みに関する想定の適否に依存する",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・係員らによる本件合算処理を認識していなかったか、またはこの推計方法を導入することで二重計上が生じることを認識していなかったと考えられる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年(令和3年)4月分から、推計方法が変更され、合算措置廃止",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件統計室は、2021年(令和3年)4月分の集計から、過月分を合算しない方法、つまり当月のみを計上する方法に切り替えることとし、欠測値の補完については、回収率の逆数を乗じるほか、建設工事施工統計調査における未回答業者の新たな欠測値補完方法に基づく乗率を乗じる方法により計算した結果を公表した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この際、(上記のマスキングテープを剥がして)同じく過月分調査票の数値を全く合算しない方法で、2021年(令和3年)4月分から変更された推計方法で",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件合算処理は、統計調査における処理のやり方として少なくとも妥当であったとはいえない",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "しては、経営品質本部が品質保証部長会において注意喚起を行うとともに、内部統制本部に",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5.2. 調査・確認結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トールゲート 例えば、製品の企画、基本設計、詳細設計等を経て、市場投入までの",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果を記載した検査記録又はその検査・測定データ",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査を行ってきたので、この調査結果を以下のとおり報告する",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "総点検の結果、前述のとおり、5 事業部門における不適切行為が発覚したことを踏まえて、",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"母集団への復元を実施するに当たっては、各標本毎に定められる抽出率の逆数及び回収率の逆数を各標本の調査結果に乗じることとし、この作業は毎月の回収率に応じて実施している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "を受け、各府省に対し基幹統計の点検と点検結果の報告を依頼した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件統計室は、2021年(令和3年)4月分の集計から、過月分を合算しない方法、つまり当月のみを計上する方法に切り替えることとし、欠測値の補完については、回収率の逆数を乗じるほか、建設工事施工統計調査における未回答業者の新たな欠測値補完方法に基づく乗率を乗じる方法により計算した結果を公表した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年(令和3年)9月、会計検査院は国会への報告書『公的統計の整備に関する会計検査の結果について』の中で、本件合算処理の問題について記載した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "品質状況の共有、品質問題の解決、品質リスクの低減、開発プロセスの改善、統計的仕損の",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "スクの低減、開発プロセスの改善、統計的仕損の削減に向けての品質管理力強化・改善",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5. 不適切行為に関係する法令、公的規格等",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "不適合品の再検査、特別採用、廃棄（仕損）等の処置ルールを定め、運用徹底を図る",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.6. 不適切行為に関係する法令、公的規格等",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "国交省の統計書き換え問題 - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建設工事受注動態統計調査の不適切処理に係る検証委員会の報告",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1956年(昭和31年)4月から旧統計法（昭和22年法律第18号）第2条に基づく指定統計である建設工事統計（指定統計第84号）を作成するための指定統計調査として",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"建設工事着工統計調査（公共工事・民間土木工事）\"は開始された",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1960年(昭和35年)4月には、建設工事着工統計調査は、公共工事着工統計調査と民間土木工事着工統計調査に分割された",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2000年(平成12年)4月に、従来の「公共工事着工統計調査」、「民間土木工事着工調査」及び「建設工事受注調査」の3統計を再編・統合し、\"建設工事受注動態統計調査\"",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2007年(平成19年)5月23日、旧統計法を全面改正した新",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2009年(平成21年)4月1日から、新統計法が全面",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以降、建設工事受注動態統計調査は、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建設活動を総合的に把握することを目的に、建築着工統計調査と建設工事受注動態統計調査をもとに",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし、遅れて提出された調査票（過月分調査票）を正規に統計に算入する方法がなかった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その開始時期は明らかではないが、2000年(平成12年)4月に建設工事受注動態統計調査に再編・統合される以前の「民間土木工事着工調査」及び「公共工事着工統計調査」の頃から、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件統計室において、遅れて提出された調査票(過月分調査票)を当月(提出された月)に合算する扱いがされていた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、遅くとも建設工事受注動態統計調査(2000年4月開始)以降は、各都道府県に当月合算のための書き換え作業を行うよう説明していた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、2012年(平成24年)5月の全国説明会(各都道府県担当者に対し本件合算処理の方法について説明するもの)の資料の出席者名簿には、企画専門官、建設統計情報分析官、課長補佐の名前が記載されていた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/lithe_crocus8929/n/n9daea29ac63c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/joyous_swift3677/n/n01c19a80a8f7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skoba/n/n3062a0396a2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jack4manastalk/n/n2fea75b14200",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hirotsuchida/n/n3c069033efde",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_takumi_inoue_/n/ndd405074e149",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752063.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000605440.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.acfe.jp/chairman-taidan/ct-7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000630661.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nstac.go.jp/files//R07jigyouhoukoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000644846.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASQ1C6S6GPDXUTIL03F.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ppc.go.jp/files/pdf/01-4_kisyahaifusiryou2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000829748.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/surveyplan-ir-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai-shimon/kaigi/minutes/2019/0130/shiryo_07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gov.scot/publications/producing-official-statistics/pages/revisions-and-corrections/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stats.je/revisions-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/corrections-and-revisions-policy-for-official-statistics",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更） site:note.com",
+   "results": [
+    "https://note.com/lithe_crocus8929/n/n9daea29ac63c",
+    "https://note.com/joyous_swift3677/n/n01c19a80a8f7",
+    "https://note.com/skoba/n/n3062a0396a2e",
+    "https://note.com/jack4manastalk/n/n2fea75b14200",
+    "https://note.com/hirotsuchida/n/n3c069033efde",
+    "https://note.com/_takumi_inoue_/n/ndd405074e149",
+    "https://note.com/struct_understnd/n/n7db988163ab5",
+    "https://note.com/gifted_viola8806/n/n320003225f39",
+    "https://note.com/reading_monkey/n/ndf644f6aa4cf",
+    "https://note.com/shi_sunao/n/ne33a4d3f4c65"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更） note",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752063.pdf",
+    "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://www.soumu.go.jp/main_content/000605440.pdf",
+    "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "https://www.acfe.jp/chairman-taidan/ct-7/",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://report.jbaudit.go.jp/org/r02/YOUSEI5/2020-r02-Y5020-0.htm",
+    "https://www.nstac.go.jp/sys/files/R03jigyouhoukoku.pdf",
+    "https://www.soumu.go.jp/main_content/000644846.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更） やり方",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752063.pdf",
+    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://www.acfe.jp/chairman-taidan/ct-7/",
+    "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "https://www.soumu.go.jp/main_content/000630661.pdf",
+    "https://www.nstac.go.jp/files//R07jigyouhoukoku.pdf",
+    "https://ja.wikipedia.org/wiki/国交省の統計書き換え問題"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更） 事例",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001752063.pdf",
+    "https://www.mhlw.go.jp/content/10700000/001012453.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "https://www.asahi.com/articles/ASQ1C6S6GPDXUTIL03F.html",
+    "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "https://www.ppc.go.jp/files/pdf/01-4_kisyahaifusiryou2.pdf",
+    "https://www.soumu.go.jp/main_content/000829748.pdf",
+    "https://www.e-stat.go.jp/surveyplan-ir-guide",
+    "https://www.soumu.go.jp/main_content/000644846.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "official statistics error investigation report revision affected period lessons",
+   "results": [
+    "https://www.gov.scot/publications/producing-official-statistics/pages/revisions-and-corrections/",
+    "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
+    "https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/revisions/guidetostatisticalrevisions",
+    "https://stats.je/revisions-policy/",
+    "https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf",
+    "https://www.gov.uk/government/publications/ofquals-statistics-policies-and-procedures/corrections-and-revisions-policy-for-official-statistics",
+    "https://nces.ed.gov/fcsm/pdf/spwp31.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6785265/",
+    "https://unece.org/sites/default/files/2022-09/ECECESSTAT20216.pdf",
+    "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-the-department-for-education/dfe-statistical-revisions-and-corrections-policy"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更）",
+   "results": [
+    "https://note.com/lithe_crocus8929/n/n9daea29ac63c",
+    "https://note.com/joyous_swift3677/n/n01c19a80a8f7",
+    "https://note.com/skoba/n/n3062a0396a2e",
+    "https://note.com/hirotsuchida/n/n3c069033efde",
+    "https://note.com/struct_understnd/n/n7db988163ab5",
+    "https://note.com/gifted_viola8806/n/n320003225f39",
+    "https://note.com/sharakusatoh/n/n0700c8a7461f",
+    "https://note.com/_takumi_inoue_/n/ndd405074e149",
+    "https://note.com/shi_sunao/n/ne33a4d3f4c65",
+    "https://note.com/jack4manastalk/n/n2fea75b14200"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更）",
+   "results": [
+    "https://x.com/seiho_infogroup"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:linkedin.com 統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更）",
+   "results": [
+    "https://www.linkedin.com/news/story/勤労統計不適切調査の波紋-4616732/",
+    "https://jp.linkedin.com/pulse/栗田工業子会社の分析不正の根本原因について考察する-篤史-原田-t2rhc",
+    "https://jp.linkedin.com/pulse/5cs-internal-audit-reporting-comprehensive-guide-kambarim-demian-fy5mf?tl=ja",
+    "https://jp.linkedin.com/pulse/common-pitfalls-verification-validation-avoiding-mistakes-renan-godoi-40x9f?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-critical-elements-nonconformity-reporting-farooq-rudxf?tl=ja",
+    "https://jp.linkedin.com/pulse/保険業界の皆様へ-界隈を騒がせている不適切金銭取扱事案から考える業界の構造的課題-貢平-赤坂-0etjc",
+    "https://jp.linkedin.com/posts/naka-cpa_監査対応で重要なのは❶後手に回らず先手を打つこと❷事後報告にしないこと-❶-activity-7502561369615974400-tGI-"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更）",
+   "results": [
+    "https://www.facebook.com/groups/832988157341408/posts/1881087055864841/",
+    "https://www.facebook.com/shimizuhayatooffice/photos/令和６年度に発覚した与野まちづくり事務所における土地区画整理事業に関する不適切な事務処理について第三者委員会の報告書がまとまりこのたび渡邊享子会長より報告書を受/1268377691983820/",
+    "https://www.facebook.com/JSCE.jp/posts/ニュース動画国交省基幹統計の不適切処理受け全統計の一斉点検へ1分17秒httpswww3nhkorjpnewshtml20220620k100136810310/5247637431989864/",
+    "https://www.facebook.com/aizuoomati/posts/全政府統計の６割強不適切-プログラムミスルール違反公表遅延アベ政権の隠蔽捏造工作-もう何を信用していいのかわからない総務省統計委員会の点検検証部会は16日毎月勤/2304552846539065/",
+    "https://www.facebook.com/JSCE.jp/posts/5136126949807580/",
+    "https://www.facebook.com/takeyatoshiko/posts/竹谷とし子-公式ブログを更新しました-毎月勤労統計の不適切な取り扱いについて第三者機関による原因調査をhttpameblojpt-takeyaentry-124/1973504736036541/",
+    "https://www.facebook.com/mainichishimbun/posts/公文書の隠蔽や改ざんについてはさもありなんと思った私でもこつこつと数字を集め記録していく統計については日本は信頼できると思っていましたのでショックでした統計不正/2429186787121233/",
+    "https://www.facebook.com/takaaki.umezawa/posts/25火のwbsで統計不正に関する国会論戦の不毛を取り上げました私が指摘したのは下記カッコ内は補足①実質賃金ばかりに焦点を当てるのは誤り実質賃金名目賃金は平均値な/2204122546316949/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更） note 社長",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://www.mlit.go.jp/report/press/joho04_hh_001087.html",
+    "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "https://www.nikkei.com/article/DGKKZO79211060U2A110C2MM0000/",
+    "https://note.com/miuraandpartners/n/n2383a405c6fa",
+    "https://www.mext.go.jp/tsushinseikoukou/quality/01/",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://www.soumu.go.jp/main_content/000820418.pdf",
+    "https://www.soumu.go.jp/main_content/000644846.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更） X 投稿",
+   "results": [
+    "https://www.mlit.go.jp/sogoseisaku/jouhouka/sosei_jouhouka_tk1_000024.html",
+    "https://help.x.com/ja/rules-and-policies/x-report-violation",
+    "https://www.jsps.go.jp/file/storage/kaken_faq/kakenhi_faq.pdf",
+    "https://www.amed.go.jp/content/000036628.pdf",
+    "https://www.soumu.go.jp/main_content/000938666.pdf",
+    "https://www.yomiuri.co.jp/economy/20260727-GYT1T00384/",
+    "https://www.nikkei.com/article/DGXZQOUC01AJ60R00C26A6000000/",
+    "https://ad-repo.com/new_arrivals/10465/",
+    "https://www.soumu.go.jp/main_content/000666068.pdf",
+    "https://www.soumu.go.jp/main_content/000644846.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "official statistics error investigation report revision affected period lessons site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/jennifermascioli_qmsr-fda-fdainspection-activity-7509027618197823488-aDF_",
+    "https://www.linkedin.com/posts/drianjstewart_fusion-labs-strategic-technology-intelligence-activity-7512624167108800512-uWHQ",
+    "https://www.linkedin.com/pulse/computerized-systems-pharmaceutical-operations-review-uday-shetty-pjc7f",
+    "https://au.linkedin.com/in/howardjeremy",
+    "https://www.linkedin.com/posts/contactsumitsingh_r2r-process-explained-from-transaction-activity-7520470321762729985-YRgt",
+    "https://www.linkedin.com/in/dethwench",
+    "https://uk.linkedin.com/in/mary-gregory-bb3203224",
+    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
+    "https://www.linkedin.com/in/andrewyng",
+    "https://www.linkedin.com/posts/shameem-abdul-kader-55253425_qualityassurance-gmp-form483-activity-7432823032412422145-U_jS"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "するとともに再発防止策を策定し調査委員会による検証を受けております",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2.6.1 過去のリスク対応状況の検証・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・6",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "妥当性検証と各事業部門に対する提言・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・・6",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. 各事案の事業部門が行った事実関係調査、原因究明、再発防止策の妥当性検証",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 上記①を踏まえての 当社グループとしての原因究明と再発防止策の 妥当性検証と調",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建設工事受注動態統計調査の不適切処理に係る検証委員会の報告",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし年間受注額の推計値は真の値に近くなるという効果があった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "受注高が建設工事施工統計調査の完成工事高と比べ相当程度小さい推計値（平成19年度実績で約6割）となっていることから、推計方法を変更した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"回収率が 100%に満たない場合、かつて多くの府省庁の統計で行われていた、未回収の調査票に記入されるべき受注額（欠測値）を 0 とする推計方法を適用すると、受注額が過小推計されやすくなる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "もし、欠測値が実際に 0 であれば、この推計方法によって受注額合計を偏りなく推計できるが、欠測値が正であれば、過小に推計する",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その想定が実際と近ければ推計値の偏りを修正できる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "もし、欠測の影響を処理しなければ、推計値が過小となる可能性が高い",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・係員らによる本件合算処理を認識していなかったか、またはこの推計方法を導入することで二重計上が生じることを認識していなかったと考えられる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2013年(平成25年)4月分から2021年3月分まで、過月分調査票を当月合算処理したものと欠測値の補完をしたものとで二重に加算され、過大推計になった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6月頃、室長及び企画専門官は本件合算処理によってどの程度実態と乖離するか検証するよう指示した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "課長は各都道府県に対して過月分合算処理を取りやめるよう指示すること、公表数値の検証作業を開始することを決定",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年(令和3年)4月分から、推計方法が変更され、合算措置廃止",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この際、(上記のマスキングテープを剥がして)同じく過月分調査票の数値を全く合算しない方法で、2021年(令和3年)4月分から変更された推計方法で",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年12月23日、国交省は、建設工事受注動態統計調査における不適切な処理に関する問題の検証を行うため、外部有識者による検証委員会を開催した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2022年1月、建設工事受注動態統計調査の不適切処理に係る検証委員会は、次のように報告している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "昨年大型特殊自動車の不適切な分解整備が判明しましたが、不適切行為が限定的であることを",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5.1. 調査・確認方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "8.1. 再発防止策についての検討方法・・・・・・・・ ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・18",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建機販売における大型特殊自動車の 不適切な分解整備について ・・・・・・・・ ・・・・・・・1",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ナコ販売における大型特殊自動車の 不適切な 分解整備について ・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＳＨＩ－ＧＢにおける大型減速機の 不適切な検査について ・・・・・・・・・・・・・・・・・・・・・・ 23",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "型特殊自動車の不適切な分解整備や不適切な特定自主検査などのコンプライアンス問題",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "大型特殊自動車の 不適切な分解整備や不適切な 特定自主検査などの コンプライアンス",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "■建機販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "■ナコ販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "■ＳＨＩ－ＧＢ（大型減速機の不適切な検査）",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし、遅れて提出された調査票（過月分調査票）を正規に統計に算入する方法がなかった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、2012年(平成24年)5月の全国説明会(各都道府県担当者に対し本件合算処理の方法について説明するもの)の資料の出席者名簿には、企画専門官、建設統計情報分析官、課長補佐の名前が記載されていた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）を廃棄せずに有効活用するには本件合算処理以外の方法がなく、また、合算(欠測値の補完)をしないことにより年間の受注額が実数値よりも少なくなることを懸念した\"旨を申し述べている",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "受注高が建設工事施工統計調査の完成工事高と比べ相当程度小さい推計値（平成19年度実績で約6割）となっていることから、推計方法を変更した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"回収率が 100%に満たない場合、かつて多くの府省庁の統計で行われていた、未回収の調査票に記入されるべき受注額（欠測値）を 0 とする推計方法を適用すると、受注額が過小推計されやすくなる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "もし、欠測値が実際に 0 であれば、この推計方法によって受注額合計を偏りなく推計できるが、欠測値が正であれば、過小に推計する",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"欠測による影響の調整方法の適否は、回答発生の仕組みに関する想定の適否に依存する",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・係員らによる本件合算処理を認識していなかったか、またはこの推計方法を導入することで二重計上が生じることを認識していなかったと考えられる",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年(令和3年)4月分から、推計方法が変更され、合算措置廃止",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件統計室は、2021年(令和3年)4月分の集計から、過月分を合算しない方法、つまり当月のみを計上する方法に切り替えることとし、欠測値の補完については、回収率の逆数を乗じるほか、建設工事施工統計調査における未回答業者の新たな欠測値補完方法に基づく乗率を乗じる方法により計算した結果を公表した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この際、(上記のマスキングテープを剥がして)同じく過月分調査票の数値を全く合算しない方法で、2021年(令和3年)4月分から変更された推計方法で",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件合算処理は、統計調査における処理のやり方として少なくとも妥当であったとはいえない",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "しては、経営品質本部が品質保証部長会において注意喚起を行うとともに、内部統制本部に",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5.2. 調査・確認結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トールゲート 例えば、製品の企画、基本設計、詳細設計等を経て、市場投入までの",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果を記載した検査記録又はその検査・測定データ",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査を行ってきたので、この調査結果を以下のとおり報告する",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "総点検の結果、前述のとおり、5 事業部門における不適切行為が発覚したことを踏まえて、",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"母集団への復元を実施するに当たっては、各標本毎に定められる抽出率の逆数及び回収率の逆数を各標本の調査結果に乗じることとし、この作業は毎月の回収率に応じて実施している",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "を受け、各府省に対し基幹統計の点検と点検結果の報告を依頼した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件統計室は、2021年(令和3年)4月分の集計から、過月分を合算しない方法、つまり当月のみを計上する方法に切り替えることとし、欠測値の補完については、回収率の逆数を乗じるほか、建設工事施工統計調査における未回答業者の新たな欠測値補完方法に基づく乗率を乗じる方法により計算した結果を公表した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2021年(令和3年)9月、会計検査院は国会への報告書『公的統計の整備に関する会計検査の結果について』の中で、本件合算処理の問題について記載した",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "品質状況の共有、品質問題の解決、品質リスクの低減、開発プロセスの改善、統計的仕損の",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "スクの低減、開発プロセスの改善、統計的仕損の削減に向けての品質管理力強化・改善",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.5. 不適切行為に関係する法令、公的規格等",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "不適合品の再検査、特別採用、廃棄（仕損）等の処置ルールを定め、運用徹底を図る",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.6. 不適切行為に関係する法令、公的規格等",
+    "url": "https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "国交省の統計書き換え問題 - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建設工事受注動態統計調査の不適切処理に係る検証委員会の報告",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1956年(昭和31年)4月から旧統計法（昭和22年法律第18号）第2条に基づく指定統計である建設工事統計（指定統計第84号）を作成するための指定統計調査として",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "\"建設工事着工統計調査（公共工事・民間土木工事）\"は開始された",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1960年(昭和35年)4月には、建設工事着工統計調査は、公共工事着工統計調査と民間土木工事着工統計調査に分割された",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2000年(平成12年)4月に、従来の「公共工事着工統計調査」、「民間土木工事着工調査」及び「建設工事受注調査」の3統計を再編・統合し、\"建設工事受注動態統計調査\"",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2007年(平成19年)5月23日、旧統計法を全面改正した新",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2009年(平成21年)4月1日から、新統計法が全面",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以降、建設工事受注動態統計調査は、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "建設活動を総合的に把握することを目的に、建築着工統計調査と建設工事受注動態統計調査をもとに",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし、遅れて提出された調査票（過月分調査票）を正規に統計に算入する方法がなかった",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その開始時期は明らかではないが、2000年(平成12年)4月に建設工事受注動態統計調査に再編・統合される以前の「民間土木工事着工調査」及び「公共工事着工統計調査」の頃から、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本件統計室において、遅れて提出された調査票(過月分調査票)を当月(提出された月)に合算する扱いがされていた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、遅くとも建設工事受注動態統計調査(2000年4月開始)以降は、各都道府県に当月合算のための書き換え作業を行うよう説明していた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、2012年(平成24年)5月の全国説明会(各都道府県担当者に対し本件合算処理の方法について説明するもの)の資料の出席者名簿には、企画専門官、建設統計情報分析官、課長補佐の名前が記載されていた",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T07:58:42.877985+00:00"
+}

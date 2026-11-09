@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・284品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・287品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -367,6 +367,7 @@
   - 「家庭からの二酸化炭素排出量の推計に係る実態調査 試験調査」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「同ウェブサイトにて、四半期速報および年次推計などの各種データや解説が提供されている」（https://note.com/keisemi/n/naf14ab3c9062）
 - 一次情報の探し方：
+  - 「経済センサス‐活動調査 | すべて | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search?toukei=00200553）
   - 「e-Stat（政府統計の総合窓口）の使い方」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
   - 「• e-Stat（政府統計の総合窓口） とは」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
   - 「• 「分野」から統計を探す場合の方法ーまとめ」（https://www.lib.u-tokyo.ac.jp/sites/default/files/database/manual/text/estatnyumon.pdf）
@@ -381,7 +382,6 @@
   - 「連合会を組織する共済組合における医療状況実態統計調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「法人企業統計調査附帯調査 四半期別GDP速報（1次速報）のための一部項目早期調査」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「介護給付費等実態統計（旧：介護給付費等実態調査）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
-  - 「ビッグデータを活用した商業動態統計調査（試験調査：家電大型専門店分野）」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
 - 失敗・落とし穴：
   - 「各機関のホームページには該当する政府統計の「調査概要」「調査結果」「利用上の注意」「公表予定」「お問い合わせ先」等の情報が掲載されております」（https://www.e-stat.go.jp/stat-search/files?toukei=00200553&result_page=1）
   - 「取り方、表の形、業種の母数と企業等の数と売上の数え方、記号などの落とし穴、利用の条件を、取った記録と公式の説明でまとめます」（https://gomumari.com/knowledge/keizai-census-katsuyo/）
@@ -2683,6 +2683,12 @@
 ## 代表値の採り方と照合の品質（entity resolution の survivorship・精度と再現率）（entity resolution survivorship rules precision recall human review）
 - 文脈：同一性
 - 手順・やり方：
+  - 「Merging and survivorship are different steps」（https://entitybind.com/guides/survivorship-and-golden-records）
+  - 「Merging decides which records belong together. Survivorship decides what the resulting entity looks like. A wrong merge shows up as a golden record containing two companies' addresses; a survivorship bug shows up as a correctly merged entity displaying a stale address. Those need different fixes, and a system that assembles the record inside the merge step cannot tell you which one happened.」（https://entitybind.com/guides/survivorship-and-golden-records）
+  - 「The recency step needs a timestamp, and there are several available. Choosing the wrong one is a quiet, persistent source of stale golden records.」（https://entitybind.com/guides/survivorship-and-golden-records）
+  - 「Merging and survivorship are separate steps with separate failure modes, and keeping them separate is what makes an unmerge possible.」（https://entitybind.com/guides/survivorship-and-golden-records）
+  - 「7 pages name this method as the working behind what they claim.」（https://entitybind.com/guides/survivorship-and-golden-records）
+  - 「; the gate figures come from the stub-adjudicated continuous-integration run and are a floor rather than a ceiling. The two are never averaged. Entity Bind holds no SOC 2, no ISO 27001 and no other certification, and claims none. Every figure, with the population it was measured over and the method behind both recordings, is set out on」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「The precision/recall/F-score framework above is the stable, vendor-neutral way to score matching quality. What has sharpened since 2026 is how teams turn those scores into an operational」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
   - 「how to evaluate entity resolution systems (Binette et al., 2024)」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
@@ -2692,12 +2698,6 @@
   - 「Entity resolution is the step in the」（https://performalytic.com/blog/entity-resolution-ai/）
   - 「practical Entity Resolution / Deduplication framework on Databricks」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
   - 「show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
-  - 「tart with multiple composite keys (e.g. phonetic last name + postcode, email username + domain, etc.), plus a semantic/vector‑based candidate retrieval step for messy text.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
-  - 「and then adapting each notebook step to your domain instead of rebuilding the framework from scratch.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
-  - 「Explore the best unified data analytics platforms, their architecture, features, benefits, use cases, and how to choose the right solution for your business.」（https://www.puppygraph.com/learn/best-entity-resolution-software）
-  - 「offer managed matching services or customizable frameworks for teams that want to build entity resolution within an existing data platform.」（https://dataladder.com/best-entity-resolution-software/）
-  - 「Entity Resolution for Enterprise Data: How It Works, Where It Fails, and How to Choose the Right Tool」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
-  - 「Deduplication is often one step within entity resolution. Deduplication generally identifies duplicate records within a dataset, whereas entity resolution can connect related records across multiple sources and determine which records collectively represent the same real-world entity.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
 - 突き合わせ・推定：
   - 「argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pairwise metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
   - 「Measure both. The classic pairwise approach scores each candidate pair, but research on evaluating entity resolution systems argues for an entity-centric framework that estimates both cluster-level and pairwise precision and recall, because pair-based metrics alone can misrepresent how well records are grouped into correct entities.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
@@ -2709,6 +2709,7 @@
   - 「Probabilistic methods combine several pieces of evidence and estimate how strongly a pair resembles a true match versus a non-match.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
   - 「9. Estimate implementation and maintenance effort」（https://dataladder.com/best-entity-resolution-software/）
 - 一次情報の探し方：
+  - 「Never write a field from a source that only identifies something adjacent. An address on a trademark filing is the address the filer had when they filed, not the company's registered address, and folding it in silently competes against a register whose job is to be current.」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「2. Data Profiling and Standardization」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「Matching records across heterogeneous datasets (e.g., SQL and NoSQL databases, spreadsheets, PDFs) can be exceptionally difficult due to different types of entities, encoding, formatting, languages, and schemas. Converting all this different type of data into a pre-defined schema through schema-matching and data exchange is a risky process and can result in the loss of valuable information.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
   - 「For example, a government institution performing ER to identify (and prevent) fraudulent tax filings would find manual ER approaches and algorithms severely restricting and overwhelming. The sheer volume of the data in government databases (they have millions, if not trillions, of records) and the complexity of blocking techniques would make the efforts futile.」（https://dataladder.com/a-guide-to-entity-resolution-tools-for-enterprise-data-projects/）
@@ -2718,6 +2719,7 @@
   - 「A repository contains five identical copies of a PDF and one later corrected edition. Checksums collapse the exact copies into one storage identity, while the corrected edition remains a distinct version linked to the same logical document.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
   - 「Combines profiling, cleansing, matching, deduplication and golden-record creation in a code-free workflow」（https://dataladder.com/best-entity-resolution-software/）
 - 失敗・落とし穴：
+  - 「Conflating them is the commonest architectural mistake in this area, and it produces bugs that are very hard to diagnose because they present as matching errors.」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「High-consequence identity systems should generally bias toward review when evidence is ambiguous.」（https://edukatesingapore.com/2026/09/10/data-deduplication-and-entity-resolution/）
 - 実例：
   - 「By use case and by industry.」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution）
@@ -2736,6 +2738,7 @@
   - 「Case, units,」（https://performalytic.com/blog/entity-resolution-ai/）
   - 「Normalize formats — case, whitespace, punctuation, address structure, units — so comparison is fair. AI-assisted standardization learns patterns rules miss.」（https://performalytic.com/blog/entity-resolution-ai/）
 - 検索結果の抜粋：
+  - 「Survivorship Rules and Golden Records | Entity Bind — Oct 12, 2026 · Modelled as a field, survivorship can drop pass-through facts before assembling a record that will be stored, and an export can be filtered to what is genuinely redistributable. Per-field provenance also makes disagreement legible instead of embarrassing.」（https://entitybind.com/guides/survivorship-and-golden-records）
   - 「Golden records: what entity resolution actually decides — Aug 29, 2026 · Entity resolution decides which records are the same thing; survivorship decides which value survives into the golden record. Deterministic rules resolve the clean majority, probabilistic scoring handles the residue, and the threshold you choose is a business decision about whether a false merge or a missed duplicate costs mo」（https://prolyz.com/blog/master-data-management-entity-resolution）
   - 「Solved: Blueprint: Entity Resolution (Dedup & Golden Record ... — Mar 14, 2026 · Clustering --> They then group matched pairs into clusters/entities (e.g., using graph‑style connected‑components logic) to get from pairwise to entity‑level views. Golden‑record selection --> Each accelerator includes examples of deterministic survivorship rules (recency, completeness, source priority) to pick the be」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
 
@@ -5690,7 +5693,7 @@
   - 「). However, members of the elite are not necessarily knowledgeable about the political process or event of interest. In this case, they do not qualify as experts and the researcher should desist from selecting them as interview partners. For most research objectives, the selection of expert interview partners should therefore be problem- and expertise-centered rather than status-oriented.」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「). Inside experts are decision makers who actually shaped the political or social process of interest. In this case, expert interviews are a proxy for participant observation (Pouliot」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
   - 「The case for mid- and low-level insiders:」（https://www.cambridge.org/core/journals/perspectives-on-politics/article/why-do-we-speak-to-experts-reviving-the-strength-of-the-expert-interview-method/45E710F27CEC6E739B015E10A161E140）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 統計の改訂の片寄りの検定（平均改訂のt検定・改訂の起きやすさ・推計方法の変更による改訂）（revision bias significance test mean revision t-test methodological revisions）
 - 文脈：統計の版
@@ -10640,11 +10643,11 @@
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 実例：記載なし（読んだ6頁・検索12回）
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
@@ -15822,6 +15825,233 @@
   - 「Example: Trade between Canada (CAN) and China (CHN)」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
   - 「and needs to be assessed further. In this example, inbound trade covers CAN imports and CHN exports,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
   - 「Example: Trade between CAN and CHN」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+
+## 史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け）（source criticism Bayesian dependence between sources stemmatics reliability weighting）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「この方法論は19世紀ドイツで体系化された」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「その方法論はベルンハイムの『歴史的方法教本』とその入門書（日本では『歴史とは何ぞや』として読まれた）や、ラングロワ＝セニョボスの『歴史研究入門』によって教科書化され[3]、日本では今井登志喜『歴史学研究法』（初出1935年）が古典的方法論の代表的な入門書となった[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「「偽書だから全部捨てる」「一次史料だから信じる」という二値処理は、どちらも古典的方法論の水準にすら達していない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「さらに、「史料が独立でない」と言っても、少なくとも三つの型を区別する必要がある」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「今井登志喜『歴史学研究法』の第六章「方法的作業の一例」は、天文17年（1548年）7月、武田晴信（信玄）が小笠原長時を破った塩尻峠の合戦を題材に、史料の提示から真純性・来歴・本原性・可信性の批判を経て史実を決定するまでの全過程を実演している[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「目次構成は「序説」「歴史学を補助する学科」「史料学」「史料批判（外的批判：真純性の批判・来歴批判・本原性の批判／内的批判：可信性の批判）」「綜合」「方法的作業の一例――天文年間塩尻峠の合戦」」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「[3] Ernst Bernheim, Lehrbuch der historischen Methode und der Geschichtsphilosophie, 1889ほか」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「The Bias‐and‐Expertise model is a model of how people update beliefs in response to source testimony, which integrates perceptions of the source's bias direction, bias intensity, and their expertise. Within Marr's framework (see, e.g., Peebles & Cooper,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「), which explores inferences about source characteristics, returning corroborating results; while we think this study's results are trustworthy, some methodological issues led us to relegate it to the supplement.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「2.1. Method」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「3.2. Method」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「[Preprint]. Open Science Framework. 10.31219/osf.io/jrw26」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「(2016). The politically motivated reasoning paradigm, part 1: What politically motivated reasoning is and how to measure it. In Scott R. A. & Kosslyn S. M. (Eds.), Emerging trends in the social and behavioral sciences (1st ed., pp. 1–16). Wiley. 10.1002/9781118900772.etrds0417」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+- 突き合わせ・推定：
+  - 「\text{史料批判} = \text{データ来歴の確認} + \text{誤差モデルの推定} + \text{バイアスの評価} + \text{独立データによる検証}」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そのうえで実際の戦果を推定するには、少なくとも三つを分けて考える必要がある」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「「この史料は信用できるか」という問いは、ベイズ的には「この史料の記述は、仮説の真偽によってどれだけ生じやすさが変わるか」という尤度比の問いに置き換わる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「「史料間の依存グラフを推定する」という問題は、実は歴史学・文献学が19世紀から取り組んできた古典的問題である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「保存されなかった史料は観測できない以上、保存機構を現存史料だけから完全に推定することはできず、目録・引用記録・失われた文書への言及・考古学的状況といった外部情報が必要になる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「正確を期せば、これはベイジアンネットワーク全体の同時事後分布を推定したものではなく、依存グラフの概念設計と、手作業で置いたベイズ因子による感度分析、すなわち将来のネットワーク化に向けた最小モデルである」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「ただし断っておくと、これらの事後確率は、仮説を「19日」と「15日」の二つに限定し、事前オッズを1対1とした条件付きの値である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「なお、ここで推定しているのはあくまで「内応があったか」という発生の有無であって、「内応が敗因だったか」という因果命題ではない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「発生の推定と因果効果の推定は、混同されやすいが別の問題である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そこでモデルEでは、『甲陽軍鑑』の系統的位置について複数の構造仮説、すなわち独立した早い伝承、家伝群と共通する失われた伝承、家伝群からの派生・編集などを並べ、家伝群を見た後の追加ベイズ因子を、追加情報を与えないと置けば1、完全な独立史料と置けば4、中間的な位置づけなら1.9、という複数シナリオで動かした」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「なお、構造仮説に重みを置いて統合するなら、本来はモデル平均」（https://note.com/reading_monkey/n/nb4523f84f3df）
+- 一次情報の探し方：
+  - 「本稿では、19世紀以来の古典的史料批判の骨格を確認したうえで、それがベイズ推論・グラフィカルモデル・欠損データ理論といった現代の統計的道具立てでどこまで形式化できるか、そして形式化の限界はどこにあるかを論じる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「統計学で同じ標本を複製してサンプルサイズを水増ししてはいけないのと同じである」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「史料が保存される確率は、権力者にとって都合がよいか、公的機関が作成したか、大量に複製されたか、後世に正統とされたか、寺社や役所に保管されたか、といった条件に依存する」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「本格的に構築するなら、統計学・機械学習の既存の道具立てがそのまま使える」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「PDF (2.7 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「papers/07-harmeling-tr.pdf.」（http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf）
+  - 「WassermanExmpl/WassermanR4a.pdf.」（http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf）
+- 失敗・落とし穴：
+  - 「\text{史料批判} = \text{データ来歴の確認} + \text{誤差モデルの推定} + \text{バイアスの評価} + \text{独立データによる検証}」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「これは測定精度・バイアス・モデルの妥当性の評価に対応する」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「さらに、書き手のバイアスは除去すべきノイズであると同時に、史料を生み出した社会についての信号でもある」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「第三に共通の制度的バイアス（別々に観察したが、同じ宣伝方針・検閲・報告様式に従った）」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「遺伝子は誤りを伴う複製によって伝わり、その変異から系統樹を復元できる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「写本も筆写者による誤りを伴う複製によって伝わる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「これは、撃墜されずに帰還した機体の被弾箇所だけを見て装甲を決めてはいけない、という生存者バイアスの問題と同じ形をしている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「われわれは原理的に「生き残った史料」に条件づけて推論しており、保存機構が史料内容にも依存するなら、この条件付けは見かけ上の相関やバイアスを生む」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「今井の言う感状の「絶対的」証拠力は、ベイズ的には強すぎる表現で、年月日の書き誤りや文書同定の誤りの確率を論理的にゼロにはできない以上、「大きいが有限なベイズ因子」に置き換えるのが適切である」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「ここで「実効」ベイズ因子には、文書の真正性、「不起合体」の語義解釈、その陣が小笠原方のどの範囲を指すか、作成者の情報アクセス、写本上の誤りの可能性がすべて畳み込まれている」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「両家記が互いを写していなくても、名門主家の敗北を指揮の失敗ではなく家臣の裏切りで説明する、という」（https://note.com/reading_monkey/n/nb4523f84f3df）
+- 実例：
+  - 「後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「9. 実例：塩尻峠の合戦」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「以上の枠組みを、具体的な史料批判の古典的な実例に当ててみよう」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「前節の独立性の原理が、この事例では結論の反転として現れる」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「後者を扱うには、内応がなければ戦闘結果が変わったか、内応が敗北確率をどれだけ上げたかという反実仮想の評価、たとえば」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「[7] Adrian C. Barbrook, Christopher J. Howe, Norman Blake and Peter Robinson, "The phylogeny of The Canterbury Tales", Nature, vol. 394, 1998, p. 839. 進化生物学の系統解析手法を『カンタベリー物語』中「バースの女房の序」の15世紀写本58点に適用し、分岐ネットワーク（split decomposition）による解析結果を示した」（https://note.com/reading_monkey/n/nb4523f84f3df）
+  - 「). For example, a meta‐analysis shows that political partisans perceive claims made about politics to be more credible when they come from in‐group sources (Ditto et al.,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「contains numerous examples of biases alleged to systematically influence what people believe and say about politics.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「Examples of biases and allegations of biases in people's information, reasoning, and intentions when communicating about politics」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「To obtain predictions from the model we must input priors, which are beliefs about the states of the variables expressed as probabilities. For example, if I think the hypothesis is likely to be true but I am not totally certain, I might have a prior of 0.8, whereas if I think it is probably wrong, I might have a prior of 0.2. Whichever state of the variable corresponds to “1” in Table」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「shows the Observed and Predicted trends, as well as the significance of the interaction term. In all cases, all individual contrasts are significant (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「[1960], p. 133). Indeed, Republicans and Democrats display many “partisan gaps,” holding opposing beliefs on a range of issues which are congenial to their party's agenda—for example, 50% more Republicans than Democrats say that illegal immigrants have a higher crime rate than nonimmigrants (Peterson & Iyengar,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「But while the Bias‐and‐Expertise Model has been developed and tested with political contexts primarily in mind, it can be applied to testimony provided by any kind of potentially biased source, and so could be used for research in other domains where biased sources may be present, like financial negotiations, legal cases, advertising, and science communication.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/）
+  - 「concepts via examples.」（http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf）
+
+## 統計の不適切事案・訂正の検証報告から学ぶ点検（影響の期間・遡及の有無・公表されなかった方法の変更）（official statistics error investigation report revision affected period lessons）
+- 文脈：統計の読み方
+- 手順・やり方：
+  - 「昨年大型特殊自動車の不適切な分解整備が判明しましたが、不適切行為が限定的であることを」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「5.1. 調査・確認方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「8.1. 再発防止策についての検討方法・・・・・・・・ ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・18」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「建機販売における大型特殊自動車の 不適切な分解整備について ・・・・・・・・ ・・・・・・・1」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「ナコ販売における大型特殊自動車の 不適切な 分解整備について ・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「ＳＨＩ－ＧＢにおける大型減速機の 不適切な検査について ・・・・・・・・・・・・・・・・・・・・・・ 23」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「型特殊自動車の不適切な分解整備や不適切な特定自主検査などのコンプライアンス問題」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「大型特殊自動車の 不適切な分解整備や不適切な 特定自主検査などの コンプライアンス」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「■建機販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「■ナコ販売（大型特殊自動車の不適切な分解整備、不適切な特定自主検査）」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「■ＳＨＩ－ＧＢ（大型減速機の不適切な検査）」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+- 突き合わせ・推定：
+  - 「会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「するとともに再発防止策を策定し調査委員会による検証を受けております」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「2.6.1 過去のリスク対応状況の検証・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・6」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「妥当性検証と各事業部門に対する提言・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・・6」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「4. 各事案の事業部門が行った事実関係調査、原因究明、再発防止策の妥当性検証」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「4.1. 各事案の妥当性検証の方法・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・9」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「② 上記①を踏まえての 当社グループとしての原因究明と再発防止策の 妥当性検証と調」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+- 一次情報の探し方：
+  - 「品質状況の共有、品質問題の解決、品質リスクの低減、開発プロセスの改善、統計的仕損の」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「スクの低減、開発プロセスの改善、統計的仕損の削減に向けての品質管理力強化・改善」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.5. 不適切行為に関係する法令、公的規格等」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「不適合品の再検査、特別採用、廃棄（仕損）等の処置ルールを定め、運用徹底を図る」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.6. 不適切行為に関係する法令、公的規格等」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「国交省の統計書き換え問題 - Wikipedia」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「建設工事受注動態統計調査の不適切処理に係る検証委員会の報告」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「1956年(昭和31年)4月から旧統計法（昭和22年法律第18号）第2条に基づく指定統計である建設工事統計（指定統計第84号）を作成するための指定統計調査として」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「"建設工事着工統計調査（公共工事・民間土木工事）"は開始された」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「1960年(昭和35年)4月には、建設工事着工統計調査は、公共工事着工統計調査と民間土木工事着工統計調査に分割された」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「2000年(平成12年)4月に、従来の「公共工事着工統計調査」、「民間土木工事着工調査」及び「建設工事受注調査」の3統計を再編・統合し、"建設工事受注動態統計調査"」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「2007年(平成19年)5月23日、旧統計法を全面改正した新」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「2009年(平成21年)4月1日から、新統計法が全面」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「以降、建設工事受注動態統計調査は、」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+  - 「建設活動を総合的に把握することを目的に、建築着工統計調査と建設工事受注動態統計調査をもとに」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BA%A4%E7%9C%81%E3%81%AE%E7%B5%B1%E8%A8%88%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E5%95%8F%E9%A1%8C）
+- 失敗・落とし穴：
+  - 「しては、経営品質本部が品質保証部長会において注意喚起を行うとともに、内部統制本部に」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+- 実例：
+  - 「会においても原因究明、再発防止策について改めて妥当性検証を行い、その結果に基づいて追加すべき」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「いて調査委員会において妥当性の検証を行い、その結果を調査報告書の別紙にまとめました」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「いて改めて妥当性検証を行い、その結果に基づいてまとめた各社ごとの再発防止策と、上記Ⅱの住」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3. 過去のリスク対応状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ ・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.1. リスク発覚・把握に対する対応状況の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.2. 品質管理に関する全社ガバナンス状況の検証結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・7」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.3. 品質管理の自主点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.4. 品質管理の総点検の実施方法、実施結果の検証結果 ・・・・・・・・・・・・・・・・・・・・・・・・・・8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「3.5. コンプライアンス系業務リスクに対する本社ガバナンス状況の検証結果 ・・・・・・・・・・・・ 8」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「5.2. 調査・確認結果・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・11」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「トールゲート 例えば、製品の企画、基本設計、詳細設計等を経て、市場投入までの」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「結果を記載した検査記録又はその検査・測定データ」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「総点検の結果、上記の大型特殊自動車の不適切な分解整備や不適切」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「調査を行ってきたので、この調査結果を以下のとおり報告する」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+  - 「総点検の結果、前述のとおり、5 事業部門における不適切行為が発覚したことを踏まえて、」（https://www.shi.co.jp/info/2018/6kgpsq00000088np-att/6kgpsq00000088oa.pdf）
+
+## 掲載された年率・CAGRの算出方法の確かめ方（端点の複利・平均・回帰・期間の区切り）（how to verify reported CAGR annual growth rate calculation method endpoints）
+- 文脈：数字の点検
+- 手順・やり方：
+  - 「【CAGRの計算式】年平均成長率の求め方とExcelでの使い方を解説｜グロービス経営大学院 ナノ単科」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「【CAGRの計算式】年平均成長率の求め方とExcelでの使い方を解説」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「単純に期間全体の増加率を年数で割る方法や、各年の成長率を足して平均する方法とは異なります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「期末から期末までの実日数を基準に年数を算出する方法もありますが、社内資料や外部資料で計算ルールを統一することが先決です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「Excel・スプレッドシートでCAGRを求める方法」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「年度のセルを使わず、経過年数を別セルに入力する方法もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「ただし、年度から期間を自動計算する式と、年数を手入力する方法を同じ表の中で混在させると、更新漏れが起こりやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「管理方法を決め、表に注記しておくことが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「複数年の年次成長率が手元にある場合は、各年の成長率を成長倍率に直して幾何平均を計算する方法もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「また、期間全体の増加率を年数で割る方法も、CAGRとは異なります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「事業計画では、過去のCAGRを将来の売上予測の参考にする方法があります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「目標値から必要な年率を逆算する使い方もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「最初に売上が立った年度を起点にする方法はありますが、その場合は分析期間が短くなり、事業開始時からの成長をそのまま示すものではありません」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「欠損値や集計方法の変更がある場合は、計算結果にどのような制約があるかを記録しておくと、後の検証がしやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「社内で定期的に使う計算表なら、計算式とデータの更新手順を共有し、担当者が変わっても同じ基準で再計算できる状態にしておくことが大切です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+- 突き合わせ・推定：
+  - 「社内の概況説明であれば小数点以下1桁、数値を照合する計算表なら2桁以上を残すなど、用途によって適切な精度は異なります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「仮説を立て、データで検証する思考を身に付ける」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「目標値から必要な年率を逆算する使い方もあります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「欠損値や集計方法の変更がある場合は、計算結果にどのような制約があるかを記録しておくと、後の検証がしやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「インプライド・ボラティリティは、オプションの市場価格から逆算される、将来の価格変動に対する市場の見込みです」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「代表的なものが、過去の価格データから算出するヒストリカル・ボラティリティ（HV）と、オプション価格から逆算されるインプライド・ボラティリティ（IV）です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「IVは、オプションの市場価格を、オプション評価の仕組みに当てはめて逆算した変動率です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「売買のルールを検証するときは、ボラティリティの異なる局面を分けて振り返ると役立ちます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「設定やデータ移行は、検証用の環境や少数のデータを使って段階的に進めます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「従業員番号や所属コードなどの基本情報を照合し、移行後に検索や帳票出力が正しくできるかを確認します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「将来の出来事を考える際は、担当者一人の見込みだけに頼らず、過去の実績、専門家の意見、顧客調査、技術検証など、利用できる根拠を確認します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「実際の判断では、自社のデータや検証結果に基づく値を使います」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「学習に使わない検証用データで予測を確かめ、分類なら正解率や適合率・再現率など、目的に合った指標を使います」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「機械学習では、学習データへの当てはまりだけで評価せず、未知のデータで性能を検証し、複雑になりすぎた木を調整します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「この値は階級値を代表値として扱った推定値です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+- 一次情報の探し方：
+  - 「決算期の変更や年度途中のデータがある場合は、比較条件も先に確認してください」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「年度の途中で事業を開始した場合や、決算期を変更した場合は、年度数だけで単純に数えないようにします」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「分析期間の端に特殊要因がないか、元データと決算情報を確かめることが欠かせません」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「企業ごとに決算期や会計基準、事業構成が異なると、同じ「売上高」でも比較条件が完全には一致しない場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「過去の一定期間で値動きが小さくても、企業の決算、政策変更、災害や地政学的な出来事などで急に価格が動く場合があります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「計算には、データの散らばり具合を示す統計量である標準偏差がよく使われます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「例えば年率20％という表示は、一定の統計上の仮定を置いたときに、年間の収益率の標準的な振れ幅を表します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「株式なら企業の業績見通しの変更、決算発表、新製品や規制に関するニュースなどが、売買の判断を変えるきっかけになります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「ただし、統計上のばらつきは上昇と下落の両方を含みます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「標準偏差とは、データが平均値の周辺にどの程度散らばっているかを測る統計量です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「決算や金融政策の発表などを控え、市場参加者が大きな値動きを警戒すると、オプションへの需要が高まり、IVが上昇することがあります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「株式では、個別企業の業績や決算、製品発表、業界の見通しなどが価格変動に影響します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「氏名や所属、雇用契約、勤怠、給与、評価、保有資格、研修履歴などを扱い、採用から入社、配置、育成、退職まで、従業員に関わるさまざまな場面で利用されます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「従業員情報の管理を基礎として、労務手続きや勤怠、給与、人事評価、採用、分析などが組み合わされています」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「特化型は、労務手続き、人事評価、採用、勤怠など、特定の業務に重点を置くシステムです」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+- 失敗・落とし穴：
+  - 「対象期間をあいまいにしたまま式へ進むと、年数を誤りやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「年数の数え方は、CAGRで間違いが生じやすいポイントです」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「その場合、数式の末尾にさらに「×100」を加えると、表示が100倍になるため注意してください」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「複数の事業や指標で計算する場合は、式の参照先を列見出しと照らし合わせると誤りを減らせます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「反対に0.1067と表示されたままでも計算自体が間違いとは限らず、単に表示形式が一般形式になっている可能性があります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「ただし、年ごとの比率の扱いには注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「初期値または最終値がマイナスの場合も、一般的なCAGRの解釈には注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「値が想定と合わないときは、数字の入力だけでなく、期間の端点や年度の定義に誤りがないか見直してください」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「【基礎から解説】ボラティリティの意味とは？リスクとの関係や活用方法、注意点」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「ここでは、基本的な意味から計測方法、株式・FXでの見方、投資判断への活用、見落としやすい注意点まで順に解説します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「利益の大きさを保証する指標として扱うのは誤りです」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「「ボラティリティが低い資産なら安心」と考えるのも注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「また、ボラティリティの数値だけを見て、投資対象を選ぶことにも注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「「変動率」は、使われる場面によって意味が異なるため注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「標準偏差を読む際には、リターンが平均的な形で分布するという前提にも注意が必要です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+- 実例：
+  - 「基本式だけでなく、年数の数え方、具体的な計算例、Excelやスプレッドシートに入力する式、結果の読み方まで順に確認しましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「使える場面と限界を知っておけば、計算結果を誤解せず、事業計画や業績比較に生かせます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「計算結果が妥当かを確かめるには、求めたCAGRを使って初期値を複利で増やし、最終値に戻るかを確認します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「ただし、報告書や比較表で期間の定義が異なると結果の解釈も変わるため、開始日と終了日を明記しておくと安心です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「計算式が正しくても、期間設定が不適切なら比較結果は誤解を招きます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「たとえば初期値が100、最終値が80、期間が2年なら、計算結果は約マイナス10.56％です」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「式の計算結果をパーセンテージ表示にすれば、CAGRが割合で表示されます」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「べき乗の記号を使って書くなら「=(B6/B2)^(1/(A6-A2))-1」でも同じ結果になります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「データ形式を整えてから式を入力し、計算結果がエラーになったときは、初期値・最終値・期間の各セルが数値として認識されているか確認しましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「式に直接数値を埋め込むより、セル参照を使うほうが、数値を更新したときに結果も自動で変わり、他の期間にも使い回しやすくなります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「結果のセルを選び、表示形式をパーセンテージに変更します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「表示が10.67％となれば、前述の条件での計算結果と整合します」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「POWER関数、べき乗記号、RRI関数のどれを使っても、正の初期値・最終値と同じ期間を指定すれば、基本的に同じ結果になります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「売上高のCAGRと利益のCAGRを混同せず、どの数値を使った結果なのか明記しましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+  - 「しかし、その結果は条件を固定した単純なシミュレーションです」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

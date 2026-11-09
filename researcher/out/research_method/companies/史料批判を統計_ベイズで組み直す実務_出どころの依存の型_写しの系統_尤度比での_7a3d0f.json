@@ -1,0 +1,2128 @@
+{
+ "name": "史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け）",
+ "en": "source criticism Bayesian dependence between sources stemmatics reliability weighting",
+ "aliases": [
+  "史料批判 ベイズ 依存",
+  "情報源 独立性 系統 写本",
+  "source dependence common source bias intelligence analysis"
+ ],
+ "context": "突き合わせ",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:55:40.584811+00:00",
+ "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "本稿では、19世紀以来の古典的史料批判の骨格を確認したうえで、それがベイズ推論・グラフィカルモデル・欠損データ理論といった現代の統計的道具立てでどこまで形式化できるか、そして形式化の限界はどこにあるかを論じる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計学で同じ標本を複製してサンプルサイズを水増ししてはいけないのと同じである",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "史料が保存される確率は、権力者にとって都合がよいか、公的機関が作成したか、大量に複製されたか、後世に正統とされたか、寺社や役所に保管されたか、といった条件に依存する",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本格的に構築するなら、統計学・機械学習の既存の道具立てがそのまま使える",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PDF (2.7 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "papers/07-harmeling-tr.pdf.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "WassermanExmpl/WassermanR4a.pdf.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは測定精度・バイアス・モデルの妥当性の評価に対応する",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、書き手のバイアスは除去すべきノイズであると同時に、史料を生み出した社会についての信号でもある",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第三に共通の制度的バイアス（別々に観察したが、同じ宣伝方針・検閲・報告様式に従った）",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "遺伝子は誤りを伴う複製によって伝わり、その変異から系統樹を復元できる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "写本も筆写者による誤りを伴う複製によって伝わる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは、撃墜されずに帰還した機体の被弾箇所だけを見て装甲を決めてはいけない、という生存者バイアスの問題と同じ形をしている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "われわれは原理的に「生き残った史料」に条件づけて推論しており、保存機構が史料内容にも依存するなら、この条件付けは見かけ上の相関やバイアスを生む",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今井の言う感状の「絶対的」証拠力は、ベイズ的には強すぎる表現で、年月日の書き誤りや文書同定の誤りの確率を論理的にゼロにはできない以上、「大きいが有限なベイズ因子」に置き換えるのが適切である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここで「実効」ベイズ因子には、文書の真正性、「不起合体」の語義解釈、その陣が小笠原方のどの範囲を指すか、作成者の情報アクセス、写本上の誤りの可能性がすべて畳み込まれている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "両家記が互いを写していなくても、名門主家の敗北を指揮の失敗ではなく家臣の裏切りで説明する、という",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Bias‐and‐Expertise Model: A Bayesian Network Model of Political Source Characteristics - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Bias‐and‐Expertise Model: A Bayesian Network Model of Political Source Characteristics",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Bayesian, Network, Political, Source, Characteristics, Bias, Expertise, Polarization",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". The more biased the source is, the more their claims are determined by this congeniality rather than the ground truth.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Biases can arise either intentionally or unintentionally (Eagly, Wood, & Chaiken,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). Intentionally, sources may want to proselytize for a particular perspective and be willing to lie, or speak without regard for the truth, to do so. Unintentionally, sources may have beliefs which are “sincerely” biased toward a particular perspective (Wallace, Wegener, & Petty,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ") due to biases in their reasoning or the information they have relied upon to form those beliefs, leading them to make biased claims though they have no conscious desire to do so.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "No existing Bayesian Network model of source characteristics integrates bias. However, empirical research has already recognized that people are influenced by perceptions of source bias. People update their beliefs less when they believe the source is biased toward making the claim (Eagly et al.,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "), and attribute more bias to sources when they make claims that appear implausible (Eagly et al.,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). In politics, people attribute bias to others who express political views they disagree with (Cheek, Blackman, & Pronin,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "was biased (Zhang,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "contains numerous examples of biases alleged to systematically influence what people believe and say about politics.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Examples of biases and allegations of biases in people's information, reasoning, and intentions when communicating about politics",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Trump's claim that mainstream media is biased against him (Meeks,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Allegations from US conservatives that social media platforms are biased against them (e.g., “Twitter Files”,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "patients, without adjusting for the difference in their baseline health conditions, would bias",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the causal comparisons and mistakenly conclude that the treatment is harmful. Randomized",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "{∑Ni=1 YiZi/ ∑Ni=1 Zi}−{ ∑Ni=1 Yi(1 − Zi)/ ∑Ni=1(1 − Zi)}, is unbiased for τ S and τ P; furthermore,",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "give biased estimates of the causal effects. Moreover, the ﬁt of an outcome model would rely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "bias of the estimator ˆτdr is a product of the residual of the propensity score model and that of",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "potential bias with wider credible interval as overlap decreases and produces a more adaptive",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "parameters may indirectly regularize important causal parameters and thus induce bias, namely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Linero [62] deﬁnes the selection bias as δz = E(Yi | Zi = z) − E{Yi(z)}, and showed that, under the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "would ap r i o r iinduce the selection bias δz to sharply concentrate around zero as the number",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of covariates, p, increases, to the extent that no amount of data would overcome such a bias.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "consequently leads to biased estimate of causal effects. A suggested remedy is to ﬁrst ﬁt a Bayesian",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "inadvertently bias the coefﬁcient of the treatment variable as the estimate of a causal effect [ 112].",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "19. Abadie A, Imbens GW. 2011 Bias corrected matching estimators for average treatment",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Double/debiased/neyman machine learning of treatment effects. Am. Econom. Rev. 107,",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この方法論は19世紀ドイツで体系化された",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その方法論はベルンハイムの『歴史的方法教本』とその入門書（日本では『歴史とは何ぞや』として読まれた）や、ラングロワ＝セニョボスの『歴史研究入門』によって教科書化され[3]、日本では今井登志喜『歴史学研究法』（初出1935年）が古典的方法論の代表的な入門書となった[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「偽書だから全部捨てる」「一次史料だから信じる」という二値処理は、どちらも古典的方法論の水準にすら達していない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、「史料が独立でない」と言っても、少なくとも三つの型を区別する必要がある",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今井登志喜『歴史学研究法』の第六章「方法的作業の一例」は、天文17年（1548年）7月、武田晴信（信玄）が小笠原長時を破った塩尻峠の合戦を題材に、史料の提示から真純性・来歴・本原性・可信性の批判を経て史実を決定するまでの全過程を実演している[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "目次構成は「序説」「歴史学を補助する学科」「史料学」「史料批判（外的批判：真純性の批判・来歴批判・本原性の批判／内的批判：可信性の批判）」「綜合」「方法的作業の一例――天文年間塩尻峠の合戦」",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[3] Ernst Bernheim, Lehrbuch der historischen Methode und der Geschichtsphilosophie, 1889ほか",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Bias‐and‐Expertise model is a model of how people update beliefs in response to source testimony, which integrates perceptions of the source's bias direction, bias intensity, and their expertise. Within Marr's framework (see, e.g., Peebles & Cooper,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "), which explores inferences about source characteristics, returning corroborating results; while we think this study's results are trustworthy, some methodological issues led us to relegate it to the supplement.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2.1. Method",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.2. Method",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[Preprint]. Open Science Framework. 10.31219/osf.io/jrw26",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(2016). The politically motivated reasoning paradigm, part 1: What politically motivated reasoning is and how to measure it. In Scott R. A. & Kosslyn S. M. (Eds.), Emerging trends in the social and behavioral sciences (1st ed., pp. 1–16). Wiley. 10.1002/9781118900772.etrds0417",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "potential outcomes framework. We review the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "causal inference is about building a framework that (i)",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A mainstream statistical framework for causal inference is the potential outcomes framework",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[1–3]. Under this framework, following the dictum ‘ no causation without manipulation ’[ 3], a",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "causal inference has increasingly relied on observational data. The potential outcomes framework",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "observational data. This framework is applicable to a wide range of problems in many disciplines",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and has been increasingly adopted in the area of machine learning. Other frameworks for causal",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "There are three primary inferential approaches within the potential outcomes framework [ 6]:",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "topic, but rather discuss the big picture of why and how to conduct Bayesian causal inference",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Section 2 introduces the preliminaries of the potential outcomes framework, and brieﬂy",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "discusses several Frequentist methods to causal inference. Section 3 outlines the general structure",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "balance and estimate causal effects. Speciﬁcally, matching methods use a certain algorithm to",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methods assign a weight to each unit, so that the weighted distribution of the covariates in",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We will discuss how to specify the outcome model in §4(a).",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "outcomes framework is inherently a missing data problem [ 6,15]. The Bayesian paradigm offers",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9. 実例：塩尻峠の合戦",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以上の枠組みを、具体的な史料批判の古典的な実例に当ててみよう",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "前節の独立性の原理が、この事例では結論の反転として現れる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "後者を扱うには、内応がなければ戦闘結果が変わったか、内応が敗北確率をどれだけ上げたかという反実仮想の評価、たとえば",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[7] Adrian C. Barbrook, Christopher J. Howe, Norman Blake and Peter Robinson, \"The phylogeny of The Canterbury Tales\", Nature, vol. 394, 1998, p. 839. 進化生物学の系統解析手法を『カンタベリー物語』中「バースの女房の序」の15世紀写本58点に適用し、分岐ネットワーク（split decomposition）による解析結果を示した",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). For example, a meta‐analysis shows that political partisans perceive claims made about politics to be more credible when they come from in‐group sources (Ditto et al.,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "contains numerous examples of biases alleged to systematically influence what people believe and say about politics.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Examples of biases and allegations of biases in people's information, reasoning, and intentions when communicating about politics",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To obtain predictions from the model we must input priors, which are beliefs about the states of the variables expressed as probabilities. For example, if I think the hypothesis is likely to be true but I am not totally certain, I might have a prior of 0.8, whereas if I think it is probably wrong, I might have a prior of 0.2. Whichever state of the variable corresponds to “1” in Table",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "shows the Observed and Predicted trends, as well as the significance of the interaction term. In all cases, all individual contrasts are significant (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[1960], p. 133). Indeed, Republicans and Democrats display many “partisan gaps,” holding opposing beliefs on a range of issues which are congenial to their party's agenda—for example, 50% more Republicans than Democrats say that illegal immigrants have a higher crime rate than nonimmigrants (Peterson & Iyengar,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "But while the Bias‐and‐Expertise Model has been developed and tested with political contexts primarily in mind, it can be applied to testimony provided by any kind of potentially biased source, and so could be used for research in other domains where biased sources may be present, like financial negotiations, legal cases, advertising, and science communication.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "concepts via examples.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "outcome. For example, patients with worse health conditions may be more likely to obtain a",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To convey the main ideas, we focus on the case with a binary treatment at one time period, which",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "speciﬁcation. In the ideal case of a randomized experiment, all—measured and unmeasured—",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "such cases, directly comparing the difference in the outcomes between the two groups would",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The distinction between these estimands is illustrated in the following example.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example 3.1. [Covariate adjustment in a randomized experiment] Consider a completely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "z = 0, 1. In this example, the CATE isτ(x) = (β1 − β0)′x; the PATE, SATE and MATE are",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "no consensus. For example, Lindley [ 29] argued that all parameters are identiﬁable in Bayesian",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "prior distribution even with large samples, such as ρ. Another example of a partially identiﬁable",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example 1 revisited We now illustrate the posterior inference of the causal estimands in",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example 3.1. Here, the parameters β’s and σ ’s are identiﬁable, but ρ is not in the Frequentist",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the likelihood of ( β1, σ 21 )a n d( β0, σ 20 ), respectively. For example, imposing the conventional",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "causal estimand is case-dependent and generally adds complexity to the analysis compared to the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Frequentist procedures into Bayesian inference. For example, Taddy et al. [40]u s e di tt oq u a n t i f y",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのうえで実際の戦果を推定するには、少なくとも三つを分けて考える必要がある",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「この史料は信用できるか」という問いは、ベイズ的には「この史料の記述は、仮説の真偽によってどれだけ生じやすさが変わるか」という尤度比の問いに置き換わる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「史料間の依存グラフを推定する」という問題は、実は歴史学・文献学が19世紀から取り組んできた古典的問題である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "保存されなかった史料は観測できない以上、保存機構を現存史料だけから完全に推定することはできず、目録・引用記録・失われた文書への言及・考古学的状況といった外部情報が必要になる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正確を期せば、これはベイジアンネットワーク全体の同時事後分布を推定したものではなく、依存グラフの概念設計と、手作業で置いたベイズ因子による感度分析、すなわち将来のネットワーク化に向けた最小モデルである",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし断っておくと、これらの事後確率は、仮説を「19日」と「15日」の二つに限定し、事前オッズを1対1とした条件付きの値である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、ここで推定しているのはあくまで「内応があったか」という発生の有無であって、「内応が敗因だったか」という因果命題ではない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発生の推定と因果効果の推定は、混同されやすいが別の問題である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そこでモデルEでは、『甲陽軍鑑』の系統的位置について複数の構造仮説、すなわち独立した早い伝承、家伝群と共通する失われた伝承、家伝群からの派生・編集などを並べ、家伝群を見た後の追加ベイズ因子を、追加情報を与えないと置けば1、完全な独立史料と置けば4、中間的な位置づけなら1.9、という複数シナリオで動かした",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、構造仮説に重みを置いて統合するなら、本来はモデル平均",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "), we use a third‐person paradigm where participants see dialogues between two characters, and it is the participant's task to estimate the priors and posteriors that",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Participants were shown six fictional dialogues between two characters—James and Anne—concerning the effectiveness of new policies their Government had implemented. In each dialogue, James told Anne what a source had said about the effectiveness of the policy, and then participants were asked to estimate what Anne's degree of belief that the policy had benefited the country should be.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", and asked to estimate their Leaning, Bias Intensity, and Expertise, in that order. These judgments were blocked by source, giving six blocks, and the blocks were presented in a random order, each on a separate page,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Then came the final “Conditionals” section, where participants provided conditional probability estimates for the quantities in Table",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We used the Bias‐and‐Expertise Model to predict the posterior degrees of belief each participant would assign to Anne in response to each piece of source testimony. We assumed their priors for the effectiveness of the policy would be 0.5, as Anne had said she had “no idea” about them. We then compared these predicted posteriors to the observed posteriors that participants estimated. Fig.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For this reason, we model the nodes in our network as binary variables, that is, variables which have two possible states which they occupy probabilistically, and model the beliefs as point estimates, rather than modeling the nodes as continuous variables with (e.g.) beta distributions for beliefs.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ") had analyzed. Analyses using these estimated probabilities for Study 1 are discussed in Supplementary Material",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(2017). Adults with autism overestimate the volatility of the sensory environment. Nature Neuroscience, 20(9), 1293–1299. 10.1038/nn.4615",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "a model for the outcome function μz(x), and estimate the CATE by ˆτ(x) = ˆμ1(x) − ˆμ0(x), and the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PATE byˆτreg = N−1 ∑Ni=1{ˆμ1(Xi) − ˆμ0(Xi)},w h e r eˆμz(x) is the estimated outcome model from the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "more balanced, the causal estimates become less sensitive to the estimate strategy and model",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "even a misspeciﬁed linear outcome model leads to a consistent estimate ofτ S [17]. On the contrary,",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "give biased estimates of the causal effects. Moreover, the ﬁt of an outcome model would rely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimates causal effects given the design stage [ 18]. A causal analysis of an observational study",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "observational studies, e(Xi) is usually unknown and needs to be estimated, e.g. via a logistic",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "balance and estimate causal effects. Speciﬁcally, matching methods use a certain algorithm to",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ˆe(Xi) denotes the estimated propensity score for unit i. One can further augment the IPW",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "type of nonlinear models often lead to markedly different causal estimates.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure1. Example4.1:estimatesofmeansofthepotentialoutcomes( a)andtheCATE( b)andcorrespondinguncertaintyband",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimates should increase as the degree of overlap decreases. Below, we reproduce a simple",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To estimate the CATE, we ﬁt an outcome model separately in each group: μ(z, x) = fz(x) + ϵi",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "interval estimates of the CATE, but a marked difference emerges in the region of poor overlap.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "non-parametric estimates often have slow convergence rates in this regime, which translates into",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/reading_monkey/m/m081c08fc12be/hashtag/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/read0197756/works/4699700?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/28626",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hi.u-tokyo.ac.jp/cdps/jmm/summary/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://researchmap.jp/tnishihara/published_papers/16747454?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/916e4697-8258-43ff-90a5-1107eb44906e/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nittaidai.repo.nii.ac.jp/records/2000001",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://researchmap.jp/t-koike0226/published_papers/30206068?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://opac.hokusei.ac.jp/opac/volume/1301761",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://toyo.repo.nii.ac.jp/records/10697",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nichibun.repo.nii.ac.jp/records/595",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://escholarship.org/content/qt19x670dt/qt19x670dt_noSplash_69a7927d68743c53ce02458fed128ce3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/08982112.2016.1211889",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://research.testscience.org/post/2015-improving-reliability-estimates-with-bayesian-statistics/paper.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://libguides.lub.lu.se/c.php?g=731097&p=5331363",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け） site:note.com",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け） note",
+   "results": [
+    "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "https://note.com/reading_monkey/m/m081c08fc12be/hashtag/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96",
+    "https://researchmap.jp/read0197756/works/4699700?lang=ja",
+    "https://note.com/lushiluna/n/na2eb600389c5",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/ec977b19-dae6-4f08-b6d7-46a4002f6b38/",
+    "https://note.com/reading_monkey/m/m081c08fc12be"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け） やり方",
+   "results": [
+    "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/28626",
+    "https://www.tsuji.ac.jp/about/publication/?2009%2C09%2C09=",
+    "https://www.hi.u-tokyo.ac.jp/cdps/jmm/summary/",
+    "https://researchmap.jp/tnishihara/published_papers/16747454?lang=ja",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/916e4697-8258-43ff-90a5-1107eb44906e/",
+    "https://nittaidai.repo.nii.ac.jp/records/2000001",
+    "https://agi.repo.nii.ac.jp/records/2000210"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け） 事例",
+   "results": [
+    "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/28626",
+    "https://researchmap.jp/t-koike0226/published_papers/30206068?lang=ja",
+    "https://opac.hokusei.ac.jp/opac/volume/1301761",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/916e4697-8258-43ff-90a5-1107eb44906e/",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://toyo.repo.nii.ac.jp/records/10697",
+    "https://nichibun.repo.nii.ac.jp/records/595"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "source criticism Bayesian dependence between sources stemmatics reliability weighting",
+   "results": [
+    "https://escholarship.org/content/qt19x670dt/qt19x670dt_noSplash_69a7927d68743c53ce02458fed128ce3.pdf",
+    "https://www.tandfonline.com/doi/full/10.1080/08982112.2016.1211889",
+    "https://research.testscience.org/post/2015-improving-reliability-estimates-with-bayesian-statistics/paper.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "https://libguides.lub.lu.se/c.php?g=731097&p=5331363",
+    "https://stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "https://en.wikipedia.org/wiki/Source_criticism",
+    "https://psycnet.apa.org/record/1984-12186-001",
+    "https://research.rug.nl/files/198959289/Henderson_Gebharter2021_Article_TheRoleOfSourceReliabilityInBe.pdf",
+    "https://link.springer.com/article/10.1007/s11229-020-02595-2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け）",
+   "results": [
+    "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "https://note.com/platypus2000jp/n/n7b306ee8cfb6",
+    "https://note.com/yasu_maru/n/nf4ecf6f089b7",
+    "https://note.com/e_dao/n/n813546184aba",
+    "https://note.com/fine_lotus381/n/nb8ed0c6e2d68",
+    "https://note.com/e_dao/n/ne3e7eb4e380f",
+    "https://note.com/e_dao/n/nb661fcf87347"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け）",
+   "results": [
+    "https://x.com/oshiho_dreaming/status/2110051394216669259",
+    "https://x.com/urakkun26/status/2100125874540720214",
+    "https://x.com/ykamit/status/2108195666883436988",
+    "https://x.com/kurubushi_rm/status/2111670402095477031",
+    "https://x.com/genkuroki/status/2107830742789373992",
+    "https://x.com/ykamit/status/2108186365603234081",
+    "https://x.com/circleback/status/2119207727528645056"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け）",
+   "results": [
+    "https://jp.linkedin.com/pulse/frequentist-bayesian-statistics-what-where-heading-chandramouli-r-vynsc?tl=ja",
+    "https://jp.linkedin.com/pulse/applications-bayes-theorem-statistical-inference-modern-mohanty-hokic?tl=ja",
+    "https://www.linkedin.com/posts/junya-masuda-a720a1149_東京理科大学-創域理工学部の大学院向け授業でベイズ統計の実務応用として講義を4回-activity-7151067328548368384-p_fq",
+    "https://www.linkedin.com/posts/ssakai0403_datasciencelg-activity-7309019649772265472-iOdf",
+    "https://jp.linkedin.com/pulse/bayesian-vs-frequentist-approach-understanding-bayes-theorem-yadav-abghc?tl=ja",
+    "https://jp.linkedin.com/pulse/bayesian-statistics-learners-comprehensive-vaidyanathan-ravichandran-f8rtc?tl=ja",
+    "https://jp.linkedin.com/pulse/bayesian-statistics-key-tool-modern-data-ozcsf?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け）",
+   "results": [
+    "https://www.facebook.com/groups/kodaishi/",
+    "https://www.facebook.com/RisshoShigaku/posts/学部大学院の古文書学実習で博物館史料を調査8月21日金本学科教員石山秀和先生日本近世史ご指導のもと古文書学実習の一環として横須賀市自然人文博物館を訪問し館蔵史料/1570558531533560/",
+    "https://www.facebook.com/yukusu42/posts/ケインズ-x-生産性-統計データ-経済指標-yusukekusuyama-48-楠山祐輔-ｈｐ-official-newspicks/2701249710027153/",
+    "https://www.facebook.com/denpeisidankai/posts/古い史料の写しを頂きました田中先祖書并古文書類写それによると田中長政は橘氏なり敏達天皇後〇にして左大臣諸兄公の末裔田中伯耆崇弘の子なりと言うとありますおやおやこ/1002131516537009/",
+    "https://www.facebook.com/AmagasakiMunicipalArchives/photos/催しのご案内令和8年度歴史資料修復ワークショップ今年度も尼崎市立歴史博物館と京都大学人文科学研究所人文情報学創新センターとの連携事業の一環として尼崎市立歴史博物/1349411387228927/",
+    "https://www.facebook.com/photo/?fbid=4264329587114085",
+    "https://www.facebook.com/nbpbooknavi/posts/生成ai時代その判断に迷いはない最後に頼れるのは統計の基礎力ですざっくり理解で実務に生かす生成ai時代に求められる判断できる力統計リテラシーの入門書として好適な/1920865492643689/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け） note 社長",
+   "results": [
+    "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://tsukuba.repo.nii.ac.jp/records/2019212",
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "https://note.com/reading_monkey/m/m081c08fc12be/hashtag/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96",
+    "https://researchmap.jp/read0197756/works/4699700?lang=ja",
+    "https://note.com/lushiluna/n/na2eb600389c5",
+    "http://houki.yonago-kodaisi.com/F-M-Siryouhihan.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "史料批判を統計・ベイズで組み直す実務（出どころの依存の型・写しの系統・尤度比での重み付け） X 投稿",
+   "results": [
+    "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "https://ja.wikipedia.org/wiki/%E5%8F%B2%E6%96%99%E6%89%B9%E5%88%A4",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20201013-00000180-impress-sci&lang=ja",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/",
+    "https://researchmap.jp/read0188210/published_papers/50092090?lang=ja",
+    "https://tsukuba.repo.nii.ac.jp/records/2005914",
+    "https://cir.nii.ac.jp/crid/1390291158033674496",
+    "https://cir.nii.ac.jp/crid/1050001202892225024",
+    "https://cir.nii.ac.jp/crid/1050282812779536640"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "source criticism Bayesian dependence between sources stemmatics reliability weighting site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/dmendes01_decisionintelligence-ai-dataintelligence-activity-7475506511801204736-O7Ee",
+    "https://www.linkedin.com/pulse/bayesian-inference-reliability-engineers-from-failure-chen-ph-d--mxs5e",
+    "https://pe.linkedin.com/posts/joey-mccollum-a79569155_using-bayesian-phylogenetics-to-infer-manuscript-activity-7143600466252247040-0e7w",
+    "https://pe.linkedin.com/advice/1/how-can-you-assess-information-sources-reliability",
+    "https://www.linkedin.com/pulse/source-criticism-what-healthcare-sector-can-learn-from-breisach-z4cgf",
+    "https://www.linkedin.com/advice/1/how-do-you-use-bayesian-methods-combine-multiple-sources",
+    "https://my.linkedin.com/posts/interacoustics-as_the-solution-to-noise-in-your-abr-measurements-activity-6990932850896207872-A_Xm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "本稿では、19世紀以来の古典的史料批判の骨格を確認したうえで、それがベイズ推論・グラフィカルモデル・欠損データ理論といった現代の統計的道具立てでどこまで形式化できるか、そして形式化の限界はどこにあるかを論じる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計学で同じ標本を複製してサンプルサイズを水増ししてはいけないのと同じである",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "史料が保存される確率は、権力者にとって都合がよいか、公的機関が作成したか、大量に複製されたか、後世に正統とされたか、寺社や役所に保管されたか、といった条件に依存する",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本格的に構築するなら、統計学・機械学習の既存の道具立てがそのまま使える",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PDF (2.7 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "papers/07-harmeling-tr.pdf.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "WassermanExmpl/WassermanR4a.pdf.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは測定精度・バイアス・モデルの妥当性の評価に対応する",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、書き手のバイアスは除去すべきノイズであると同時に、史料を生み出した社会についての信号でもある",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第三に共通の制度的バイアス（別々に観察したが、同じ宣伝方針・検閲・報告様式に従った）",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "遺伝子は誤りを伴う複製によって伝わり、その変異から系統樹を復元できる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "写本も筆写者による誤りを伴う複製によって伝わる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは、撃墜されずに帰還した機体の被弾箇所だけを見て装甲を決めてはいけない、という生存者バイアスの問題と同じ形をしている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "われわれは原理的に「生き残った史料」に条件づけて推論しており、保存機構が史料内容にも依存するなら、この条件付けは見かけ上の相関やバイアスを生む",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今井の言う感状の「絶対的」証拠力は、ベイズ的には強すぎる表現で、年月日の書き誤りや文書同定の誤りの確率を論理的にゼロにはできない以上、「大きいが有限なベイズ因子」に置き換えるのが適切である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここで「実効」ベイズ因子には、文書の真正性、「不起合体」の語義解釈、その陣が小笠原方のどの範囲を指すか、作成者の情報アクセス、写本上の誤りの可能性がすべて畳み込まれている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "両家記が互いを写していなくても、名門主家の敗北を指揮の失敗ではなく家臣の裏切りで説明する、という",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Bias‐and‐Expertise Model: A Bayesian Network Model of Political Source Characteristics - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Bias‐and‐Expertise Model: A Bayesian Network Model of Political Source Characteristics",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Bayesian, Network, Political, Source, Characteristics, Bias, Expertise, Polarization",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ". The more biased the source is, the more their claims are determined by this congeniality rather than the ground truth.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Biases can arise either intentionally or unintentionally (Eagly, Wood, & Chaiken,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). Intentionally, sources may want to proselytize for a particular perspective and be willing to lie, or speak without regard for the truth, to do so. Unintentionally, sources may have beliefs which are “sincerely” biased toward a particular perspective (Wallace, Wegener, & Petty,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ") due to biases in their reasoning or the information they have relied upon to form those beliefs, leading them to make biased claims though they have no conscious desire to do so.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "No existing Bayesian Network model of source characteristics integrates bias. However, empirical research has already recognized that people are influenced by perceptions of source bias. People update their beliefs less when they believe the source is biased toward making the claim (Eagly et al.,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "), and attribute more bias to sources when they make claims that appear implausible (Eagly et al.,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). In politics, people attribute bias to others who express political views they disagree with (Cheek, Blackman, & Pronin,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "was biased (Zhang,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "contains numerous examples of biases alleged to systematically influence what people believe and say about politics.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Examples of biases and allegations of biases in people's information, reasoning, and intentions when communicating about politics",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Trump's claim that mainstream media is biased against him (Meeks,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Allegations from US conservatives that social media platforms are biased against them (e.g., “Twitter Files”,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "patients, without adjusting for the difference in their baseline health conditions, would bias",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the causal comparisons and mistakenly conclude that the treatment is harmful. Randomized",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "{∑Ni=1 YiZi/ ∑Ni=1 Zi}−{ ∑Ni=1 Yi(1 − Zi)/ ∑Ni=1(1 − Zi)}, is unbiased for τ S and τ P; furthermore,",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "give biased estimates of the causal effects. Moreover, the ﬁt of an outcome model would rely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "bias of the estimator ˆτdr is a product of the residual of the propensity score model and that of",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "potential bias with wider credible interval as overlap decreases and produces a more adaptive",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "parameters may indirectly regularize important causal parameters and thus induce bias, namely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Linero [62] deﬁnes the selection bias as δz = E(Yi | Zi = z) − E{Yi(z)}, and showed that, under the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "would ap r i o r iinduce the selection bias δz to sharply concentrate around zero as the number",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of covariates, p, increases, to the extent that no amount of data would overcome such a bias.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "consequently leads to biased estimate of causal effects. A suggested remedy is to ﬁrst ﬁt a Bayesian",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "inadvertently bias the coefﬁcient of the treatment variable as the estimate of a causal effect [ 112].",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "19. Abadie A, Imbens GW. 2011 Bias corrected matching estimators for average treatment",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Double/debiased/neyman machine learning of treatment effects. Am. Econom. Rev. 107,",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この方法論は19世紀ドイツで体系化された",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その方法論はベルンハイムの『歴史的方法教本』とその入門書（日本では『歴史とは何ぞや』として読まれた）や、ラングロワ＝セニョボスの『歴史研究入門』によって教科書化され[3]、日本では今井登志喜『歴史学研究法』（初出1935年）が古典的方法論の代表的な入門書となった[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「偽書だから全部捨てる」「一次史料だから信じる」という二値処理は、どちらも古典的方法論の水準にすら達していない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに、「史料が独立でない」と言っても、少なくとも三つの型を区別する必要がある",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今井登志喜『歴史学研究法』の第六章「方法的作業の一例」は、天文17年（1548年）7月、武田晴信（信玄）が小笠原長時を破った塩尻峠の合戦を題材に、史料の提示から真純性・来歴・本原性・可信性の批判を経て史実を決定するまでの全過程を実演している[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし第5節で区別した第三の依存型、共通の制度的・社会的バイアスがここで効いてくる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "目次構成は「序説」「歴史学を補助する学科」「史料学」「史料批判（外的批判：真純性の批判・来歴批判・本原性の批判／内的批判：可信性の批判）」「綜合」「方法的作業の一例――天文年間塩尻峠の合戦」",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[3] Ernst Bernheim, Lehrbuch der historischen Methode und der Geschichtsphilosophie, 1889ほか",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Bias‐and‐Expertise model is a model of how people update beliefs in response to source testimony, which integrates perceptions of the source's bias direction, bias intensity, and their expertise. Within Marr's framework (see, e.g., Peebles & Cooper,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "), which explores inferences about source characteristics, returning corroborating results; while we think this study's results are trustworthy, some methodological issues led us to relegate it to the supplement.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2.1. Method",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3.2. Method",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[Preprint]. Open Science Framework. 10.31219/osf.io/jrw26",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(2016). The politically motivated reasoning paradigm, part 1: What politically motivated reasoning is and how to measure it. In Scott R. A. & Kosslyn S. M. (Eds.), Emerging trends in the social and behavioral sciences (1st ed., pp. 1–16). Wiley. 10.1002/9781118900772.etrds0417",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "potential outcomes framework. We review the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "causal inference is about building a framework that (i)",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A mainstream statistical framework for causal inference is the potential outcomes framework",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[1–3]. Under this framework, following the dictum ‘ no causation without manipulation ’[ 3], a",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "causal inference has increasingly relied on observational data. The potential outcomes framework",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "observational data. This framework is applicable to a wide range of problems in many disciplines",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and has been increasingly adopted in the area of machine learning. Other frameworks for causal",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "There are three primary inferential approaches within the potential outcomes framework [ 6]:",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "topic, but rather discuss the big picture of why and how to conduct Bayesian causal inference",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Section 2 introduces the preliminaries of the potential outcomes framework, and brieﬂy",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "discusses several Frequentist methods to causal inference. Section 3 outlines the general structure",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "balance and estimate causal effects. Speciﬁcally, matching methods use a certain algorithm to",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methods assign a weight to each unit, so that the weighted distribution of the covariates in",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We will discuss how to specify the outcome model in §4(a).",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "outcomes framework is inherently a missing data problem [ 6,15]. The Bayesian paradigm offers",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "後半では、今井登志喜『歴史学研究法』が方法的作業の実例として取り上げた天文17年（1548年）の塩尻峠の合戦を素材に、実際に数値を動かした感度分析の試行を紹介する[1]",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "9. 実例：塩尻峠の合戦",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以上の枠組みを、具体的な史料批判の古典的な実例に当ててみよう",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "前節の独立性の原理が、この事例では結論の反転として現れる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "後者を扱うには、内応がなければ戦闘結果が変わったか、内応が敗北確率をどれだけ上げたかという反実仮想の評価、たとえば",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[7] Adrian C. Barbrook, Christopher J. Howe, Norman Blake and Peter Robinson, \"The phylogeny of The Canterbury Tales\", Nature, vol. 394, 1998, p. 839. 進化生物学の系統解析手法を『カンタベリー物語』中「バースの女房の序」の15世紀写本58点に適用し、分岐ネットワーク（split decomposition）による解析結果を示した",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "). For example, a meta‐analysis shows that political partisans perceive claims made about politics to be more credible when they come from in‐group sources (Ditto et al.,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "contains numerous examples of biases alleged to systematically influence what people believe and say about politics.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Examples of biases and allegations of biases in people's information, reasoning, and intentions when communicating about politics",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To obtain predictions from the model we must input priors, which are beliefs about the states of the variables expressed as probabilities. For example, if I think the hypothesis is likely to be true but I am not totally certain, I might have a prior of 0.8, whereas if I think it is probably wrong, I might have a prior of 0.2. Whichever state of the variable corresponds to “1” in Table",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "shows the Observed and Predicted trends, as well as the significance of the interaction term. In all cases, all individual contrasts are significant (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "[1960], p. 133). Indeed, Republicans and Democrats display many “partisan gaps,” holding opposing beliefs on a range of issues which are congenial to their party's agenda—for example, 50% more Republicans than Democrats say that illegal immigrants have a higher crime rate than nonimmigrants (Peterson & Iyengar,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "But while the Bias‐and‐Expertise Model has been developed and tested with political contexts primarily in mind, it can be applied to testimony provided by any kind of potentially biased source, and so could be used for research in other domains where biased sources may be present, like financial negotiations, legal cases, advertising, and science communication.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "concepts via examples.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "outcome. For example, patients with worse health conditions may be more likely to obtain a",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To convey the main ideas, we focus on the case with a binary treatment at one time period, which",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "speciﬁcation. In the ideal case of a randomized experiment, all—measured and unmeasured—",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "such cases, directly comparing the difference in the outcomes between the two groups would",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The distinction between these estimands is illustrated in the following example.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example 3.1. [Covariate adjustment in a randomized experiment] Consider a completely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "z = 0, 1. In this example, the CATE isτ(x) = (β1 − β0)′x; the PATE, SATE and MATE are",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "no consensus. For example, Lindley [ 29] argued that all parameters are identiﬁable in Bayesian",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "prior distribution even with large samples, such as ρ. Another example of a partially identiﬁable",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example 1 revisited We now illustrate the posterior inference of the causal estimands in",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "example 3.1. Here, the parameters β’s and σ ’s are identiﬁable, but ρ is not in the Frequentist",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the likelihood of ( β1, σ 21 )a n d( β0, σ 20 ), respectively. For example, imposing the conventional",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "causal estimand is case-dependent and generally adds complexity to the analysis compared to the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Frequentist procedures into Bayesian inference. For example, Taddy et al. [40]u s e di tt oq u a n t i f y",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "\\text{史料批判} = \\text{データ来歴の確認} + \\text{誤差モデルの推定} + \\text{バイアスの評価} + \\text{独立データによる検証}",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのうえで実際の戦果を推定するには、少なくとも三つを分けて考える必要がある",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「この史料は信用できるか」という問いは、ベイズ的には「この史料の記述は、仮説の真偽によってどれだけ生じやすさが変わるか」という尤度比の問いに置き換わる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「史料間の依存グラフを推定する」という問題は、実は歴史学・文献学が19世紀から取り組んできた古典的問題である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "写本の系統関係を、共有される誤り（共通の書き間違い）を手がかりに樹形図（ステンマ）として復元するラハマン法は、系統推定のアルゴリズムそのものだった",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そしてこの問題は、生物の系統推定と、誤りを伴う複製から系統を推定するという点でよく似ている",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "保存されなかった史料は観測できない以上、保存機構を現存史料だけから完全に推定することはできず、目録・引用記録・失われた文書への言及・考古学的状況といった外部情報が必要になる",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正確を期せば、これはベイジアンネットワーク全体の同時事後分布を推定したものではなく、依存グラフの概念設計と、手作業で置いたベイズ因子による感度分析、すなわち将来のネットワーク化に向けた最小モデルである",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿では、この事例の条件付き確率を経験的に推定できる校正データを用意していない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし断っておくと、これらの事後確率は、仮説を「19日」と「15日」の二つに限定し、事前オッズを1対1とした条件付きの値である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "別の日付、複数の戦闘、文書同定の誤りといった可能性を含む仮説空間全体についての確率ではない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、ここで推定しているのはあくまで「内応があったか」という発生の有無であって、「内応が敗因だったか」という因果命題ではない",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "発生の推定と因果効果の推定は、混同されやすいが別の問題である",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そこでモデルEでは、『甲陽軍鑑』の系統的位置について複数の構造仮説、すなわち独立した早い伝承、家伝群と共通する失われた伝承、家伝群からの派生・編集などを並べ、家伝群を見た後の追加ベイズ因子を、追加情報を与えないと置けば1、完全な独立史料と置けば4、中間的な位置づけなら1.9、という複数シナリオで動かした",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、構造仮説に重みを置いて統合するなら、本来はモデル平均",
+    "url": "https://note.com/reading_monkey/n/nb4523f84f3df",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "), we use a third‐person paradigm where participants see dialogues between two characters, and it is the participant's task to estimate the priors and posteriors that",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Participants were shown six fictional dialogues between two characters—James and Anne—concerning the effectiveness of new policies their Government had implemented. In each dialogue, James told Anne what a source had said about the effectiveness of the policy, and then participants were asked to estimate what Anne's degree of belief that the policy had benefited the country should be.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", and asked to estimate their Leaning, Bias Intensity, and Expertise, in that order. These judgments were blocked by source, giving six blocks, and the blocks were presented in a random order, each on a separate page,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Then came the final “Conditionals” section, where participants provided conditional probability estimates for the quantities in Table",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We used the Bias‐and‐Expertise Model to predict the posterior degrees of belief each participant would assign to Anne in response to each piece of source testimony. We assumed their priors for the effectiveness of the policy would be 0.5, as Anne had said she had “no idea” about them. We then compared these predicted posteriors to the observed posteriors that participants estimated. Fig.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For this reason, we model the nodes in our network as binary variables, that is, variables which have two possible states which they occupy probabilistically, and model the beliefs as point estimates, rather than modeling the nodes as continuous variables with (e.g.) beta distributions for beliefs.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ") had analyzed. Analyses using these estimated probabilities for Study 1 are discussed in Supplementary Material",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(2017). Adults with autism overestimate the volatility of the sensory environment. Nature Neuroscience, 20(9), 1293–1299. 10.1038/nn.4615",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631054/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "a model for the outcome function μz(x), and estimate the CATE by ˆτ(x) = ˆμ1(x) − ˆμ0(x), and the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "PATE byˆτreg = N−1 ∑Ni=1{ˆμ1(Xi) − ˆμ0(Xi)},w h e r eˆμz(x) is the estimated outcome model from the",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "more balanced, the causal estimates become less sensitive to the estimate strategy and model",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "even a misspeciﬁed linear outcome model leads to a consistent estimate ofτ S [17]. On the contrary,",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "give biased estimates of the causal effects. Moreover, the ﬁt of an outcome model would rely",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimates causal effects given the design stage [ 18]. A causal analysis of an observational study",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "observational studies, e(Xi) is usually unknown and needs to be estimated, e.g. via a logistic",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "balance and estimate causal effects. Speciﬁcally, matching methods use a certain algorithm to",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ˆe(Xi) denotes the estimated propensity score for unit i. One can further augment the IPW",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "type of nonlinear models often lead to markedly different causal estimates.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure1. Example4.1:estimatesofmeansofthepotentialoutcomes( a)andtheCATE( b)andcorrespondinguncertaintyband",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimates should increase as the degree of overlap decreases. Below, we reproduce a simple",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To estimate the CATE, we ﬁt an outcome model separately in each group: μ(z, x) = fz(x) + ϵi",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "interval estimates of the CATE, but a marked difference emerges in the region of poor overlap.",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "non-parametric estimates often have slow convergence rates in this regime, which translates into",
+    "url": "http://www2.stat.duke.edu/~fl35/teaching/790-26F/Li-BayesianCI-2023.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T07:55:40.584811+00:00"
+}
